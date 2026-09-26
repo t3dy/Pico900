@@ -634,7 +634,7 @@
   {
    "id": "T-ENT-02",
    "title": "Original translations + attribution for all non-tier-A theses (10 TRANSLATOR agents, one block each)",
-   "status": "doing",
+   "status": "review",
    "prompts": [],
    "owns": [
     "entries/"
@@ -652,6 +652,11 @@
      "2026-09-26T04:38:13+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-09-26T05:15:18+00:00",
+     "review",
+     "Interrupted at session limit; drafts in entries/ need entry_gate remediation"
     ]
    ]
   },

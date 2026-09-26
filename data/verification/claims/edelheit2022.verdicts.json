@@ -1,7 +1,7 @@
 {
  "packet": "edelheit2022",
  "file": "data\\claims\\angelology\\edelheit2022.claims.json",
- "verified_at": "2026-09-26T04:40:36+00:00",
+ "verified_at": "2026-09-26T05:15:25+00:00",
  "claims": [
   {
    "id": "edelheit2022:001",
@@ -3074,5 +3074,13 @@
    ]
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 133,
+  "verified": 131,
+  "needs_fix": 2,
+  "quotes": 217,
+  "quotes_verbatim": 215,
+  "warnings": 58,
+  "verified_rate": 0.985
+ }
 }

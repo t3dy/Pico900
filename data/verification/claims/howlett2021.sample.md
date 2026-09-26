@@ -2,12 +2,28 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## howlett2021:007 (Sophia Howlett, assertive)
+## howlett2021:005 (Sophia Howlett, assertive)
 
-**Restatement:** In the Commentary Pico names Ficino and says he has made errors throughout his treatise on the Symposium.
+**Restatement:** Howlett reads the Commentary on a Canzone as taking a Platonism based more on Plotinus than Ficino's was at that time.
 
-> You can imagine, reader, how many mistakes our Marsilio makes in the first part of The Banquet; on this one score alone he completely confuses and invalidates what he says about love. But in addition to this, he has made mistakes on every subject in every part of his treatise
-> (howlett2021:1616)
+> It highlights Pico’s approach to Platonism, based rather more on Plotinus than Ficino’s at that period, and outlines for the first time his signature combination of Platonism, Aristotelianism, and Kabbalism.
+> (howlett2021:1586)
+
+
+## howlett2021:010 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says Pico's universe joins the Latin emphasis on positive theology with the negative theology prominent in Byzantine Orthodoxy, at a time of renewed interest in Pseudo-Dionysius.
+
+> It brings together the Latin world’s preoccupation with the relationship between reason and faith, and its emphasis on kataphatic (positive) theology, with the negative or apophatic theology so important in Byzantine Orthodoxy, at a time of renewed interest in writers such as Pseudo-Dionysius.
+> (howlett2021:2613)
+
+
+## howlett2021:014 (Sophia Howlett, hedged)
+
+**Restatement:** Howlett says that because Ficino's Platonism was still evolving, Pico could assert a Platonism in contradiction to Ficino's and claim a purer reading through Plotinus, and that contradicting Ficino is arguably axiomatic to his work.
+
+> This means that Pico could assert his Platonism in contradiction to Ficino’s, challenge Ficino’s authority by emphasizing alternative aspects of Plato and claim a ‘purer’ (rightly or wrongly) reading than Ficino’s in his use of Plotinus, for example. This challenge is so consistent that contradicting Ficino is arguably axiomatic to his work.
+> (howlett2021:2733)
 
 
 ## howlett2021:017 (Sophia Howlett, assertive)
@@ -26,17 +42,6 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:2705)
 
 
-## howlett2021:021 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett says Aquinas in the thirteenth century tried to marry Aristotelianism with Christianity, and that Ficino built his union of faith and reason on Platonism and Christianity following Augustine.
-
-> Various solutions were proposed, for instance in the thirteenth century, Aquinas attempted to marry Aristotelianism with Christianity20;
-> (howlett2021:2830)
-
-> Ficino followed St. Augustine, building his union on a revitalized relationship between Platonism and Christianity.
-> (howlett2021:2837)
-
-
 ## howlett2021:023 (Sophia Howlett, hedged)
 
 **Restatement:** Howlett says Pico tended toward Aquinas and the via antiqua, whose realism made Aristotle the philosopher, while remaining sympathetic to the Paris conversations of the via moderna.
@@ -45,52 +50,39 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:2864)
 
 
-## howlett2021:024 (Sophia Howlett, assertive)
+## howlett2021:026 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Ficino and Pico began as teacher and student in the early 1480s and that their relationship was complex both in life and after Pico's death.
+**Restatement:** Howlett says the Academy reading makes Pico essentially a Platonist and Pico's deviations from Ficino very confusing, while works on Pico alone tend to sideline Ficino almost completely.
 
-> Ficino and Pico began as teacher and student in the early 1480s. But their relationship was complex both in life and after Pico’s death.
-> (howlett2021:3013)
+> This reading of Ficino and Pico portrays Pico as essentially a Platonist52 making Pico’s deviations from Ficino or outright contradic-tions very confusing.
+> (howlett2021:3035)
 
-
-## howlett2021:038 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett argues that to reach concord in De ente Pico had to remove obstacles in Plato, particularly the Parmenides, which he treats as merely a rhetorical exercise, so that Plato should not be taken at his word.
-
-> To achieve concord in this case, he needed to remove several obstacles in Plato, particularly Parmenides. Pico argues that the dialogue is simply a rhetorical exercise, meaning that we should not take Plato at his word.
-> (howlett2021:3128)
+> These works tend to sideline Ficino almost completely, to the point where comparisons and influence disappear. It is almost as if Ficino does not exist in Pico’s story.
+> (howlett2021:3041)
 
 
-## howlett2021:039 (Sophia Howlett, hedged)
+## howlett2021:035 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Ficino translated the Parmenides around 1469 but had probably not yet written a commentary when Pico wrote De ente, and that his commentary was published in 1496.
+**Restatement:** Howlett summarises De ente as arguing that God is both singular (the One) and Being, and that Plato and Aristotle agree on this.
 
-> In 1496, a few years after Pico’s death, Ficino published his Commentary on Plato’s ‘Parmenides’. Ficino had translated Parmenides around 1469 but had probably not yet written a commentary when Pico wrote On Being and the One.
-> (howlett2021:3131)
-
-
-## howlett2021:044 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett summarises the three major polemical moments as Ficino's Symposium commentary answered by Pico's Commentary, Ficino's traditional view of God as the One above Being answered by De ente, and Ficino's Parmenides commentary in reply.
-
-> Ficino writes his Commentary on Plato’s ‘Symposium,’ Pico counters with his Commentary. More loosely in time, Ficino clearly adopts and champions a traditional Platonic view of God as the One above Being. Pico responds with On Being and the One. Ficino counters with his Commentary on Plato’s ‘Parmenides.’
-> (howlett2021:3236)
+> In 1491, Pico circulated On Being and the One. This is a short piece arguing that God ... is both singular (the One) and Being. He argues that Plato and Aristotle agree on this.
+> (howlett2021:3115)
 
 
-## howlett2021:051 (Sophia Howlett, assertive)
+## howlett2021:041 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Plotinus' emphasis on the One, easily equated with God, allowed Neoplatonism to develop into an elaborate theological structure culminating in Proclus' Platonic Theology.
+**Restatement:** Howlett says Ficino held to the Platonic orthodoxy, deriving from Plotinus and often filtered through Proclus, that Plato argues the One is above Being.
 
-> Plotinus’ emphasis on the One, easily equitable with God, allowed Neoplatonism to develop into such a structure. Platonism became that most sacred of philosophies. It is unsurprising then that Proclus’ summa or key work was the Platonic Theology, from which Ficino took the title for his own summa.
-> (howlett2021:3320)
+> Ficino himself holds with Platonic orthodoxy, deriving from Plotinus, often filtered through Proclus, that Plato argues the One is above Being.
+> (howlett2021:3137)
 
 
-## howlett2021:055 (Sophia Howlett, assertive)
+## howlett2021:047 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett argues Ficino tied the ancient theologians together through Platonism into a Platonic-Christian hybrid, while Pico tied them within a Platonic structure using Aristotelian argument and Kabbalism.
+**Restatement:** Howlett argues both Ficino and Pico use Aristotle, Ficino drawing on Aquinas and the peripatetics for analogia entis, act and potency and his theory of Being, so that there is an effort at concord between Aristotle and Plato in Ficino too.
 
-> But Ficino tied these strands together through Platonism and creates a Platonic–Christian hybrid. Pico attempts to tie them all together within a Platonic understanding of the structure of the universe while ... using Aristotelian argumentation and Kabbalism, which he understands to be part of the prisca theologia.
-> (howlett2021:3384)
+> He also never denies the importance of Aristotle, using both the philosopher and his later commentators, especially Aquinas, in his work, for instance the Aristotelian-Thomistic tradition of analogia entis, the Aristotelian example of act and potency, and most importantly often using the peripatetics in his theory of Being. There is an effort at concord here between Aristotle and Plato
+> (howlett2021:3281)
 
 
 ## howlett2021:057 (Sophia Howlett, assertive)
@@ -101,14 +93,6 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:3405)
 
 
-## howlett2021:060 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett notes there are other, less well explored conflicts between Pico and Ficino such as Pico's discussion of human nature in the Heptaplus and Oration.
-
-> There are other ongoing conflicts between Pico and Ficino, though less well explored, such as Pico’s discussion of human nature in his Heptaplus and Oration.80
-> (howlett2021:3233)
-
-
 ## howlett2021:069 (Sophia Howlett, assertive)
 
 **Restatement:** Howlett quotes Dougherty that Pico did not hold that all philosophers defended the same position in different words, and that he privileged the claims of Christianity.
@@ -117,68 +101,66 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:4187)
 
 
-## howlett2021:071 (Sophia Howlett, assertive)
+## howlett2021:075 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett reports from Garin that Del Medigo was with Pico in Perugia, where they spent much time talking about being, essence and unity.
+**Restatement:** Howlett reports Farmer's argument that Pico's new philosophy lay in a traditional though exaggerated Neoplatonic framework tied to the highly syncretic Platonic systems of late antiquity.
 
-> Garin (2008, 303) states Medigo was with him in Perugia where they spent a lot of time ‘talking about being, essence, and unity.’
-> (howlett2021:3913)
-
-- warrant [authority]: Note cites Garin (2008) and Mahoney (1972) for the conversations.
-
-## howlett2021:081 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett says Pico calls the Ein-Sof one, in a passage describing God as infinite, as one and as existing through himself, closed in himself and concealed in the abyss of his darkness.
-
-> In the Conclusions (according to his own opinion) he describes the Ein-Sof as one: ‘If God is known in himself as infinite, as one, and as existing through himself, we recognize that nothing proceeds from him, but know his separation from things, and his total closure of himself in himself, and his extreme, profound, and solitary retraction in the remotest recess of his divinity
-> (howlett2021:5436)
+> Farmer (1998, 19) argues that ‘Pico’s “new philosophy” lay in a traditional, though exaggerated, Neo-Platonic framework, with special ties to those high-syncretic Platonic systems developed in antiquity after Plotinus….’
+> (howlett2021:3957)
 
 
-## howlett2021:093 (Sophia Howlett, hedged)
+## howlett2021:079 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says that in combining Pseudo-Dionysius, Platonism, Aristotelianism and Jewish thought it is unclear what henosis would be in Kabbalism and what the roles of Keter and the Ein-Sof are.
+**Restatement:** Howlett reports that Isaac the Blind's circle emphasized the hidden God with the new term Ein-Sof, beyond the Tree of Life and above divine thought, as cause of Thought beyond being or thought.
 
-> But in combining Pseudo-Dionysius, with Platonism, Aristotelianism, and Jewish thought (as Pico is attempting to do), it is unclear what henosis would be in Kabbalism and what is the role of Keter or the Ein-Sof.
-> (howlett2021:5330)
+> For instance, Isaac emphasized the hidden God with the new term Ein-Sof beyond the Tree of Life, as beyond contemplation and above the divine thought expressed in the Tree. This is ‘the cause of Thought,’75 beyond being or thought.
+> (howlett2021:4858)
 
+- warrant [authority]: Note cites Scholem (1987, 265) for 'the cause of Thought'.
 
-## howlett2021:094 (Sophia Howlett, assertive)
+## howlett2021:080 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett states that Pico changes Pseudo-Dionysius' hierarchy of angels from nine to ten, the number of the sefirot.
+**Restatement:** Howlett argues Pico embraces the Ein-Sof as the unity beyond the sefirot, thereby combining Kabbalah with the Plotinian One through a Platonic version of Kabbalism espoused by the Girona School.
 
-> Elsewhere, where Pseudo-Dionysius and Kabbalism do not coincide, Pico tries hard to relate Pseudo-Dionysius to Kabbalism. For instance, Pico changes Pseudo-Dionysius’ hierarchy of angels from nine to ten, the number of the sefirot.174
-> (howlett2021:5333)
+> For instance, Pico embraces the Ein-Sof concept as the unity beyond the sefirot,196 thereby combining Kabbalah and the Plotinian One using a Platonic version of Kabbalism espoused by the Girona School.197
+> (howlett2021:5422)
 
-- warrant [authority]: Note 174 cites only Pico's Conclusions 28>2 for the change.
+- warrant [scholar_evidence]: Note 196 quotes Pico's Conclusion that the Ein-Sof should not be counted with the other numerations.
 
-## howlett2021:099 (Sophia Howlett, assertive)
+## howlett2021:087 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Maimonides' Jewish Aristotelianism eventually impacted Kabbalism but only later, and that Nahmanides' school left only a small place for Maimonides.
+**Restatement:** Howlett says Pico links the Metatron with aspects of Orpheus' Pallas, Zoroaster's paternal mind, Hermes' son of God, Pythagoras' wisdom and Parmenides' intelligible sphere.
 
-> Maimonides’ Jewish Aristotelianism did eventually impact Kabbalism, but only later.
-> (howlett2021:4880)
-
-> he and his school were mystics with only a small place for such as Maimonides83
-> (howlett2021:4908)
+> The Metatron is amalgamated with aspects of Orpheus’ Pallas, Zoroaster’s paternal mind, Hermes Trismegistus’ son of God, Pythagoras’ wisdom, and Parmenides’ intelligible sphere.230
+> (howlett2021:5574)
 
 
-## howlett2021:100 (Sophia Howlett, hedged)
+## howlett2021:089 (Sophia Howlett, hedged)
 
-**Restatement:** Howlett says Recanati could have been the most significant source of Pico's Kabbalistic statements in section one of the Conclusions, with about 25 of 47 and possibly a further 12 deriving from his work, while section two draws more on Abulafia.
+**Restatement:** Howlett states that Pseudo-Dionysius is probably the closest Christian forebear to Pico's mysticism.
 
-> He could have been the most significant source for Pico’s Kabbalistic statements in section one of Conclusions, with about 25 of 47 and a possible further 12 deriving from his work.160 Section two has a different set of sources with Abulafia more dominant, aspects of Recanati, notes of Maimonides and the Sefer Yesirah.161
-> (howlett2021:5242)
+> The highly influential, Dionysius the Areopagite (Pseudo-Dionysius) is probably the closest Christian forebear to Pico’s mysticism
+> (howlett2021:5279)
 
 
-## howlett2021:102 (Sophia Howlett, assertive)
+## howlett2021:096 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Flavius did not translate the Zohar or Sefer Yesirah, but Pico knew of them through commentaries, and Pico was reading missing works such as the Zohar through commentaries with a preferred perspective.
+**Restatement:** Howlett says Enoch is synonymous with the Metatron, a high angelic power, and that by the middle of the thirteenth century the Metatron had been divided into a higher, Great Metatron and a lower.
 
-> Inevitably Pico was reading missing works, such as the Zohar, through the lens of commentaries that would have a preferred perspective.152
-> (howlett2021:5224)
+> Enoch is also synonymous with the Metatron, a high angelic power or the voice of God. By the middle of the thirteenth century, the Metatron had been divided into a higher or Great Metatron and a lower. Enoch’s role is connected to the active divinity, within creation, and its voice on the Tree of Life, whereas the Great Metatron is now a mystery above and beyond.41
+> (howlett2021:4609)
 
-> Flavius did not translate the Zohar or Sefer Yesirah, but Pico knew of them through commentaries at the very least
-> (howlett2021:5236)
+- warrant [authority]: Note 41 supports the Metatron division.
+
+## howlett2021:097 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett describes Proclus' scheme as triads of henads related to the worlds of the Platonic universe, with orders of angels, demons, heroes and souls below the gods, the triads repeating within an ever more crowded universe.
+
+> Proclus used triads of henads, deanthropomorphized gods similar to the gnostic concept of aeons, and related them to the various worlds of the Platonic universe: so the first triad is made up of the intelligible trinity, intelligible-intellectual trinity and intellectual hebdomad
+> (howlett2021:4706)
+
+> Below are orders of angels, demons, heroes, and souls. But this is not all, the triads repeat themselves within an ... increasingly complex and crowded universe of the divine and semi-divine, all based on the rule of three.
+> (howlett2021:4712)
 
 
 ## howlett2021:103 (Sophia Howlett, assertive)
@@ -189,51 +171,51 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:5262)
 
 
-## howlett2021:109 (Sophia Howlett, assertive)
+## howlett2021:104 (Sophia Howlett, hedged)
 
-**Restatement:** Howlett states that Pico uses the basic Ficinian structure while emphasizing Proclus and the sacred geometry of the universe, and quotes Pico's Heptaplus on God presiding over nine orders of angels in the first world.
+**Restatement:** Howlett says Alemanno, a product of the Paduan Aristotelian circle who gravitated toward Maimonides, worked with Pico, though whether before or after the Rome venture is unclear.
 
-> Pico uses this basic Ficinian structure while inevitably emphasizing Proclus more and consequently the sacred geometry of the universe.
-> (howlett2021:6348)
-
-> In the first world, God, the primal unity, presides over nine orders of angels as if over as many spheres and, without moving, moves all toward himself.
-> (howlett2021:6354)
+> Johanan Alemanno worked with Pico while in Florence, but whether before Pico’s Rome adventure or simply after is unclear.139 He was another product of the Paduan Aristotelian circle, and from the same region as Pico. Like Elijah Del Medigo, he had combined his love of Aristotelianism with Judaic and Hebraic studies, naturally gravitating toward Moses Maimonides, as the quintessential Aristotelian Jewish philosopher.140
+> (howlett2021:5170)
 
 
-## howlett2021:122 (Sophia Howlett, assertive)
+## howlett2021:113 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett notes that early Kabbalism was unsure whether Keter should be counted part of the Ein-Sof rather than a sefira.
+**Restatement:** Howlett argues that Pico's syncretic God is twofold and that Kabbalism allows this, positing both the Ein-Sof and the first sefira Keter, which partly shares the Ein-Sof's apophatic qualities yet begins the emanatory chain, so that the problem is knowing which he is referring to.
 
-> Indeed, the relationship between the Ein-Sof and Keter is so strong that early Kabbalism was unsure whether Keter should be considered as part of the Ein-Sof rather than as a sefira.30
-> (howlett2021:6560)
+> Pico’s syncretic God inevitably is twofold and Kabbalism allows for this structure, for it posits both the Ein-Sof and the first sefira, Keter or crown. Keter is the closest representation to the divine within the universe. It participates at least partially in the Ein-Sof’s apophatic qualities and is therefore partially hidden. But it is also the beginning of the emanatory/creative chain on the Tree of Life.
+> (howlett2021:6460)
 
-- warrant [authority]: Note 30 cites Green (1997).
-
-## howlett2021:126 (Sophia Howlett, assertive)
-
-**Restatement:** Howlett quotes De ente's report of the received Platonic view that the One is prior to being because the one is more simple and more universal, so that God, whose is the highest simplicity, is one but not being.
-
-> the one is more simple and more universal. For this reason they also say that God, whose is the highest simplicity, is one, but not that he is being.’34
-> (howlett2021:6598)
+> Pico’s God, One and First Cause is the Ein-Sof but is also Keter, as the partially revealed God. The problem is understanding which he is referring to and when.
+> (howlett2021:6470)
 
 
-## howlett2021:129 (Sophia Howlett, assertive)
+## howlett2021:115 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett judges Pico's treatment of the Parmenides a weak parrying of an inconvenient text and says he sees it as a red herring followed by later Platonists but not Plato's own view.
+**Restatement:** Howlett states that Pico's description of God in the Conclusions recalls the Ein-Sof and the God of Christian apophatic theology, and that Pico is taking us from Ficinian Platonism to the darkness of Pseudo-Dionysius.
 
-> In other words, Pico sees Parmenides as a ‘red herring’ followed by later Platonists, but not Plato’s point of view. This is a weak parrying of an inconvenient text, but part of a series of arguments that examine the relationship between being and the One from a variety of different perspectives.
-> (howlett2021:6618)
+> Pico’s description of God in the Conclusions recalls above all the Ein-Sof
+> (howlett2021:6476)
+
+> It is also the God of Christian apophatic theology, which means it is impossible to say what this God is, as opposed to what it is not. Pico is taking us from Ficinian Platonism to the darkness of Pseudo-Dionysius where blindness and understanding meet.18
+> (howlett2021:6483)
+
+- warrant [authority]: Note 18 cites Riva (2012) for the Dionysian darkness.
+
+## howlett2021:128 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett states that Plato's Parmenides and Sophist both state that being and the One are not the same, but Pico argues that nothing in the Parmenides is positively asserted and that it is nothing but a dialectical exercise.
+
+> Plato’s Parmenides and The Sophist both state that being and the One are not the same. But Pico argues that in Parmenides, for example ‘Nothing in the whole dialogue is positively asserted. If anything is asserted, still nothing is clearly found by which we may ascribe this sort of teaching to Plato.’ Further, Pico asserts ‘That book is certainly not to be included among his doctrinal works, since it is nothing but a dialectical exercise.
+> (howlett2021:6609)
 
 
-## howlett2021:132 (Sophia Howlett, hedged)
+## howlett2021:133 (Sophia Howlett, assertive)
 
-**Restatement:** Howlett says Pico's second argument apparently contradicts his first, reasoning that God is not being but is above being and is the one above being, which Howlett identifies as the Ein-Sof also as the Plotinian One.
+**Restatement:** Howlett quotes Pico's Conclusion that the grades of the universe can be divided in five ways, from that-above-being to truly-not-being, and places it in the group on Plato.
 
-> His second argument apparently contradicts his first
-> (howlett2021:6642)
-
-> For this reason, we may truly say that God is not being, but is above being, and that something is higher than being, that is, God, and since the title one is given to God, we may consequently say that he is the one above being.’38 This is the Ein-Sof also as the Plotinian One—a God above all things.
-> (howlett2021:6652)
+> By the method of the extremes and the middle we can recognize that the grades of the universe can be appropriately divided like this in five ways: into that-above-being, truly-being, not-truly-being, not-truly-not-being, and truly-not-being.’ This is a conclusion from the group on Plato.
+> (howlett2021:6657)
 
 
 ## howlett2021:135 (Sophia Howlett, assertive)
@@ -244,4 +226,77 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (howlett2021:6668)
 
 - warrant [scholar_evidence]: Note 40 cites Lohr on the Thomist origin of the distinction.
+
+## howlett2021:138 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett argues that the causal-formal-participatory distinction is at odds with Ficino's understanding of Platonism, quoting Pico's remark that these statements give great trouble to modern Platonists and that a distinguished Platonist was astonished at Plotinus saying God understands nothing.
+
+> This differentiation between the causal and the formal (and participatory, forming of course a triad) is at odds with Ficino’s understanding of Platonism: Pico says ‘These statements give great trouble to modern Platonists…. I remember that a distinguished Platonist once told me that he was much astonished at a statement by Plotinus, where he says that God understands nothing and knows nothing….
+> (howlett2021:6694)
+
+- warrant [authority]: Note 43 cites Pico's Commentary (1986, 11-12) for the quotation.
+
+## howlett2021:141 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says Pico's universe is both emanated (Platonic) and created (Judaeo-Christian), and that the result is confusing.
+
+> So Pico’s universe is both emanated (Platonic) and created (Judaeo-Christian).50 But the result is confusing.
+> (howlett2021:6758)
+
+
+## howlett2021:143 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett lists Pico's quasi-dualisms: a hidden God and the One of plenitude; Ein-Sof and Keter; prime matter of privation and of potentiality; and an emanatory and a created universe.
+
+> Pico provides us with a series of quasi-dualisms: between a ‘hidden God’ and the One of plenitude; between the Ein-Sof and Keter; between the prime matter of privation and that of potentiality; and between an emanatory universe and a created one.
+> (howlett2021:6744)
+
+
+## howlett2021:150 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says the first triad of Keter, Hokmah and Binah is the Platonic Christian angelic mind, the realm of seraphim, cherubim and thrones, the top of Jacob's ladder, the place of the Metatron, the world of forms and of formal being.
+
+> This first triad of Keter, Hokmah, and Binah is also the Platonic Christian angelic mind and as such is the realm of the seraphim, cherubim, and thrones. It is the top of Jacob’s ladder and the level we try to reach from our starting point in Malkut. It is where the ‘higher’ shekinah resides (as opposed to the lower in Yesod or Malkut), and the place of the Metatron. It is the Platonic world of forms; and the world of formal being.
+> (howlett2021:6982)
+
+
+## howlett2021:156 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says Pico reorganizes Ficino's hierarchy of forms or understands them differently, for instance making beauty a subspecies of the good.
+
+> But Pico reorganizes Ficino’s hierarchy of forms or understands them in a different way, for instance beauty becomes a subspecies of the good.
+> (howlett2021:7097)
+
+
+## howlett2021:161 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett quotes Pico's Commentary that ideas are the exemplary forms of natures and that things in the first level have causal being in the divinity and formal being in the angelic nature.
+
+> nothing but the exemplary Forms of the natures of things, and every intellect is full of them’ from the intellect of the angelic mind to the intellect of each individual soul.100 This is true of angels too: all things in the first level ‘have their causal being in the divinity as their original source and proceeding from Him immediately into the angelic nature have their second kind of being, formal.’101
+> (howlett2021:7194)
+
+
+## howlett2021:170 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says only nine realms of the celestial world are active, reflecting the nine-plus-one variant of the Tree and the nine levels of angels, and that the planets form triads in which Uranus is God, Saturn the first mind and Jupiter the world-soul, just as in Ficino.
+
+> But only nine realms are active within this world reflecting the nine plus One variant of the Tree of Life. This nine obviously uses again the Platonic and gnostic triads just as they reflect the nine levels of angels. The planets also form triads that reflect aspects of divine architecture: for instance, Uranus is God, Saturn is the first mind, and Jupiter is the world-soul, just as in Ficino.124
+> (howlett2021:7337)
+
+
+## howlett2021:173 (Sophia Howlett, speculative)
+
+**Restatement:** Howlett poses the questions raised by Pico's metaphysics: how a hidden God can act, whether the One belongs to apophatic or kataphatic theology, whether the divine presence resides only in the angelic mind, and how emanation and creation co-exist.
+
+> How can a hidden God ever ‘act’? Is the One part of apophatic or kataphatic theology? Does the divine presence only reside in the angelic mind, or does it truly extend to all worlds? How can emanation and creation co-exist?
+> (howlett2021:7513)
+
+
+## howlett2021:176 (Sophia Howlett, assertive)
+
+**Restatement:** Howlett says Pico's first extended philosophical piece directly challenged Ficino's work on the Symposium, and that in doing so he became immersed in Plotinus, an author Ficino had only recently started to explore.
+
+> Pico’s first extended piece of philosophy was a commentary on Plato’s love theory, directly challenging Ficino’s own recent work on Plato’s Symposium. But in challenging Ficino, he becomes deeply immersed in Plotinus, choosing as the lynchpin of his Platonism an author Ficino had only recently started to explore.26
+> (howlett2021:914)
+
 

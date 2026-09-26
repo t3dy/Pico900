@@ -1,7 +1,7 @@
 {
  "packet": "copenhaver2019-angels",
  "file": "data\\claims\\angelology\\copenhaver2019-angels.claims.json",
- "verified_at": "2026-09-26T04:39:45+00:00",
+ "verified_at": "2026-09-26T05:14:04+00:00",
  "claims": [
   {
    "id": "copenhaver2019-angels:001",
@@ -1730,5 +1730,13 @@
    "issues": []
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 96,
+  "verified": 96,
+  "needs_fix": 0,
+  "quotes": 136,
+  "quotes_verbatim": 136,
+  "warnings": 0,
+  "verified_rate": 1.0
+ }
 }

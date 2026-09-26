@@ -1,24 +1,191 @@
 {
   "_note": "Topic vocabulary for claim.topics[]. Seeded from audit/A3 s6.3 (each row there cites corpus lines). Add topics by proposing them in a packet's `proposed_topics`; the orchestrator merges. Angelology first (P20260926003059, P20260926040957); the Ficino dispute (P20260926041806) has its own topics.",
   "topics": [
-    {"id": "angel-location", "label": "Location, motion and knowledge of angels; Thomas and Scotus; Tempier 1277; the trial (Apology Q1)"},
-    {"id": "oration-orders", "label": "The Oration's angelic orders: seraph, cherub, throne; the Order of Pallas"},
-    {"id": "enoch-metatron", "label": "Enoch, Metatron, the Agent Intellect; the textual crux at Oration section 35"},
-    {"id": "three-worlds", "label": "The three worlds and mutual containment (Heptaplus second proem); the Anaxagoras attribution"},
-    {"id": "heptaplus-structure", "label": "The Heptaplus as seven expositions (subject fixed, framework changing); sabbath as form"},
-    {"id": "heptaplus-angelic-world", "label": "The Third Exposition: the angelic world, Hebrew and Dionysian plans, number and unity, Hierotheus"},
-    {"id": "commento-angelic-mind", "label": "The Commento's angelic Mind: second hypostasis, Proclus, Hermias, Syrianus, Saturn/Uranus, Poros and Penia"},
-    {"id": "death-of-the-kiss", "label": "Binsica, the Death of the Kiss; Symposium and Song of Songs"},
-    {"id": "dionysian-hebrew-orders", "label": "Dionysian orders and the Hebrew hierarchies kept distinct; Conclusio II; sefirot as emanations, not angels"},
-    {"id": "dionysius-transmission", "label": "Dionysius in the Latin West: Traversari 1436, Hilduin, Eriugena, Aquinas on Dionysius; Proclean setting"},
-    {"id": "aquinas-dionysius", "label": "Aquinas's reception of Dionysius (commentary on the Divine Names; the Summa)"},
-    {"id": "de-ente", "label": "De ente et uno: being and one convertible; Plato and Aristotle in concord; the Parmenides"},
-    {"id": "ficino-dispute", "label": "The Ficino-Pico exchange over the One and Being, Plato and Aristotle"},
-    {"id": "one-beyond-being", "label": "The One beyond being: Plotinus, Proclus, Dionysius, Ficino, Pico"},
-    {"id": "separate-substances", "label": "Separate substances and intellect: angels in the scholastic metaphysics Pico engages"},
-    {"id": "kabbalistic-sources", "label": "Pico's Kabbalistic sources and their dates (Abulafia, Gikatilla, Zohar, Mithridates)"},
-    {"id": "agent-intellect", "label": "The Agent Intellect and its identifications"},
-    {"id": "reception-critics", "label": "Contemporary and later critics (Cittadini, others) and reception"},
-    {"id": "other", "label": "Anything else the source discusses that bears on Pico's angelology or the One; state it in `text`"}
+    {
+      "id": "angel-location",
+      "label": "Location, motion and knowledge of angels; Thomas and Scotus; Tempier 1277; the trial (Apology Q1)"
+    },
+    {
+      "id": "oration-orders",
+      "label": "The Oration's angelic orders: seraph, cherub, throne; the Order of Pallas"
+    },
+    {
+      "id": "enoch-metatron",
+      "label": "Enoch, Metatron, the Agent Intellect; the textual crux at Oration section 35"
+    },
+    {
+      "id": "three-worlds",
+      "label": "The three worlds and mutual containment (Heptaplus second proem); the Anaxagoras attribution"
+    },
+    {
+      "id": "heptaplus-structure",
+      "label": "The Heptaplus as seven expositions (subject fixed, framework changing); sabbath as form"
+    },
+    {
+      "id": "heptaplus-angelic-world",
+      "label": "The Third Exposition: the angelic world, Hebrew and Dionysian plans, number and unity, Hierotheus"
+    },
+    {
+      "id": "commento-angelic-mind",
+      "label": "The Commento's angelic Mind: second hypostasis, Proclus, Hermias, Syrianus, Saturn/Uranus, Poros and Penia"
+    },
+    {
+      "id": "death-of-the-kiss",
+      "label": "Binsica, the Death of the Kiss; Symposium and Song of Songs"
+    },
+    {
+      "id": "dionysian-hebrew-orders",
+      "label": "Dionysian orders and the Hebrew hierarchies kept distinct; Conclusio II; sefirot as emanations, not angels"
+    },
+    {
+      "id": "dionysius-transmission",
+      "label": "Dionysius in the Latin West: Traversari 1436, Hilduin, Eriugena, Aquinas on Dionysius; Proclean setting"
+    },
+    {
+      "id": "aquinas-dionysius",
+      "label": "Aquinas's reception of Dionysius (commentary on the Divine Names; the Summa)"
+    },
+    {
+      "id": "de-ente",
+      "label": "De ente et uno: being and one convertible; Plato and Aristotle in concord; the Parmenides"
+    },
+    {
+      "id": "ficino-dispute",
+      "label": "The Ficino-Pico exchange over the One and Being, Plato and Aristotle"
+    },
+    {
+      "id": "one-beyond-being",
+      "label": "The One beyond being: Plotinus, Proclus, Dionysius, Ficino, Pico"
+    },
+    {
+      "id": "separate-substances",
+      "label": "Separate substances and intellect: angels in the scholastic metaphysics Pico engages"
+    },
+    {
+      "id": "kabbalistic-sources",
+      "label": "Pico's Kabbalistic sources and their dates (Abulafia, Gikatilla, Zohar, Mithridates)"
+    },
+    {
+      "id": "agent-intellect",
+      "label": "The Agent Intellect and its identifications"
+    },
+    {
+      "id": "reception-critics",
+      "label": "Contemporary and later critics (Cittadini, others) and reception"
+    },
+    {
+      "id": "other",
+      "label": "Anything else the source discusses that bears on Pico's angelology or the One; state it in `text`"
+    },
+    {
+      "id": "anagogy-allegory",
+      "label": "Pico's theory of allegory as Dionysian anagogy: names and things, exegesis as ascent",
+      "proposed": true
+    },
+    {
+      "id": "angelic-cognition",
+      "label": "Angelic and intellectual knowing; the intellectual (angelic) part of the human soul; limits of human knowledge (Still)",
+      "proposed": true
+    },
+    {
+      "id": "angelic-composition",
+      "label": "The composition of angels: number and unity, essence and being, act and potency (Third Exposition ch. 1; Fifth Exposition ch. 1)",
+      "proposed": true
+    },
+    {
+      "id": "astrology-angels",
+      "label": "Angels as intermediaries in the Disputationes against astrology (Rabin)",
+      "proposed": true
+    },
+    {
+      "id": "astrology-disputationes",
+      "label": "Pico's Disputationes against astrology and Ficino's response",
+      "proposed": true
+    },
+    {
+      "id": "commento-heptaplus-relation",
+      "label": "How Commento and Heptaplus relate: shared exegetical method, extraction of formulations, Genesis-first vs myth-first",
+      "proposed": true
+    },
+    {
+      "id": "commento-poros-penia",
+      "label": "Poros and Penia and the birth of Love in the angelic Mind (Commento 2.13); could be folded into commento-angelic-mind",
+      "proposed": true
+    },
+    {
+      "id": "concord-method",
+      "label": "Concord of Plato and Aristotle by res over verba; scope of Pico's reconciliation and the ancient theology",
+      "proposed": true
+    },
+    {
+      "id": "demons-fallen-angels",
+      "label": "Evil angels and demons: no difference of nature from the good angels; hangmen and lictors; Lucifer's ascent; demons of the air (Fourth-Seventh Expositions)",
+      "proposed": true
+    },
+    {
+      "id": "esotericism",
+      "label": "Esotericism in Christian, Neoplatonic and Jewish traditions; Moses and the philosophers (Heptaplus first proem)",
+      "proposed": true
+    },
+    {
+      "id": "exegetical-authorities",
+      "label": "The authorities Pico names or rejects in the Heptaplus first proem, and how far he knew them directly (catena, Recanati, Bahir)",
+      "proposed": true
+    },
+    {
+      "id": "ficino-angelology",
+      "label": "Ficino's own angelology: angelic mind, Saturn as supreme angelic intellect, seraphim triad, angel bodies",
+      "proposed": true
+    },
+    {
+      "id": "hebrew-informants",
+      "label": "Delmedigo, Mithridates and Alemanno as channels of Jewish and Arabic learning to Pico; limits of his Hebrew",
+      "proposed": true
+    },
+    {
+      "id": "heptaplus-hebrew-method",
+      "label": "The Heptaplus's use of Hebrew authorities and the letter-permutation reading of the first word (Exposition of the First Phrase, Third Exposition proem, Seventh Exposition ch. 4); Pico's own hedging of the method",
+      "proposed": true
+    },
+    {
+      "id": "jacobs-ladder",
+      "label": "Jacob's ladder and the angels on it in the Oration (sections 73-82, 240)",
+      "proposed": true
+    },
+    {
+      "id": "knowledge-felicity",
+      "label": "Knowledge, felicity and the ascent: natural and supernatural felicity, union with the first mind, the sabbath of celestial love, intelligentia and the rational soul",
+      "proposed": true
+    },
+    {
+      "id": "mutual-containment",
+      "label": "Mutual containment of the worlds: whatever is in all is in each; Proclus prop. 103, Dionysius, Aquinas (could be merged into three-worlds)",
+      "proposed": true
+    },
+    {
+      "id": "oration-archangels",
+      "label": "The archangels Raphael, Gabriel and Michael (and Uriel) in Oration sections 140-141 and the editors' notes",
+      "proposed": true
+    },
+    {
+      "id": "oration-ascent",
+      "label": "The Oration's ascent to the angelic state and beyond it: sections 29-30, 37-40, 95, 113; stages of purgation, illumination and perfection",
+      "proposed": true
+    },
+    {
+      "id": "pico-biography",
+      "label": "Pico's life and career as it bears on his writings: Florence, Rome, the trial, Lorenzo, the papal response to the Heptaplus",
+      "proposed": true
+    },
+    {
+      "id": "prisca-theologia",
+      "label": "The line of ancient theologians (Zoroaster, Hermes, Orpheus, Pythagoras, Plato) inherited by Ficino and Pico; concord",
+      "proposed": true
+    },
+    {
+      "id": "sefirot-heptaplus",
+      "label": "Sefirot and the Heptaplus: Black's denial that the three worlds or ten spheres need a sefirotic reading",
+      "proposed": true
+    }
   ]
 }

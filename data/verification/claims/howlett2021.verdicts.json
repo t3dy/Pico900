@@ -1,7 +1,7 @@
 {
  "packet": "howlett2021",
  "file": "data\\claims\\angelology\\howlett2021.claims.json",
- "verified_at": "2026-09-26T04:39:39+00:00",
+ "verified_at": "2026-09-26T05:14:07+00:00",
  "claims": [
   {
    "id": "howlett2021:001",
@@ -3246,5 +3246,13 @@
    "issues": []
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 179,
+  "verified": 179,
+  "needs_fix": 0,
+  "quotes": 204,
+  "quotes_verbatim": 204,
+  "warnings": 56,
+  "verified_rate": 1.0
+ }
 }
