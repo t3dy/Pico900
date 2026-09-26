@@ -1,0 +1,44 @@
+{
+ "thesis_id": "19.3",
+ "tier": "B",
+ "latin": "Scientia de anima est media inter scientias naturales et diuinas.",
+ "latin_source": "farmer1998:14890",
+ "translation": "The science of the soul is intermediate between the natural sciences and the divine.",
+ "translation_note": "The claim classifies psychology (scientia de anima) as an intermediate science between natural philosophy and theology, rather than simply a branch of natural philosophy (farmer1998:14890).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14890",
+ "pico_stance": "reports",
+ "attribution": "Reports Themistius (farmer1998:14890).",
+ "sources": [
+  {
+   "text": "Hennon's commentary stating that the science of the soul belongs mainly to natural science, and the Parisian 'conclusio responsalis' that de anima is a natural science with the ensouled body as its first subject",
+   "locator": "edelheit2022:4101",
+   "pico_relation": "Edelheit contrasts this scholastic consensus with Pico's Themistius-attributed thesis that the science of the soul is intermediate between the natural and the divine sciences"
+  }
+ ],
+ "doctrine": "The thesis classifies the science of the soul as intermediate between the natural sciences and the divine sciences (farmer1998:14890). Farmer's note glosses the reasoning as resting on the soul's mediating position between the intellectual and material worlds (farmer1998:14964). Edelheit reports that this contrasts with the position he attributes to the commentator he calls Hennon, discussing Book One of Aristotle's De anima, that 'the science of the soul belongs mainly to natural science' (edelheit2022:4080), and, via Bakker's edition, with the Parisian 'conclusio responsalis' that de anima is a natural science having the ensouled body as its first subject (edelheit2022:4101). He also notes a related account by Johannes le Damoisiau, in the same Parisian tradition, on the subject of Book One of De anima (edelheit2022:4101).",
+ "context": "",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar in the material opened to discuss this thesis; he places it in contrast with the mainstream Parisian scholastic view he documents via Bakker's edition, that the science of the soul is simply a part of natural science (edelheit2022:4080; edelheit2022:4101).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the science of the soul belongs mainly to natural science",
+   "work": "edelheit2022",
+   "line": 4080,
+   "verbatim": true
+  },
+  {
+   "text": "Conclusio responsalis: de anima est scientia naturalis tanquam de subiecto primo huius libri.",
+   "work": "edelheit2022",
+   "line": 4101,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

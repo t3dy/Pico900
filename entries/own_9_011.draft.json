@@ -1,0 +1,33 @@
+{
+ "thesis_id": "9>11",
+ "tier": "B",
+ "latin": "Mirabilia artis magicae non sunt nisi per unionem et actuationem eorum quae seminaliter et separate sunt in natura.",
+ "latin_source": "farmer1998:25272",
+ "translation": "The marvels of the magical art come about only through the union and actuation of those things that exist seminally and separately in nature.",
+ "translation_note": "'seminaliter et separate' parallels the same pair of terms in 9>5's 'seminaliter et separata', which Farmer's note on 9>5 explicitly links to this thesis (farmer1998:25215).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25272",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25272).",
+ "sources": [],
+ "doctrine": "Farmer groups this thesis with 9>10-14, explaining that the purified soul of the magician can gather up the rational forces distributed through the celestial and terrestrial worlds and elevate them, so that the magus functions as a cosmic priest, cross-referencing 8>3 and 10>3 (farmer1998:25295).",
+ "context": null,
+ "reception": null,
+ "historiography": "Akopyan (2018) and Akopyan (2021) quote this thesis's Latin verbatim in the same footnote as 9>5, from consecutive pages of Pico's magic conclusions, treating the pair as a matched statement of the magus's power over dispersed seminal virtues (akopyan2018:581; akopyan2021:1339).",
+ "connections": ["9>5", "9>10", "9>12", "9>13", "9>14", "8>3", "10>3", "5>45", "5>50", "11>12"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Mirabilia artis Magicae non fiunt nisi per unionem et actuationem eorum, quae seminaliter et separatae sunt in natura",
+   "work": "akopyan2018",
+   "line": 580,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's fuller discussion of theses 9>10-14, referenced at pp. 131-32 of his study, is not given beyond the note excerpt consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
