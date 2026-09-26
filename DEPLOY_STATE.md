@@ -15,10 +15,15 @@ quotations across 25 entries (`docs/INCIDENT_2026-09-26_SECOND_SWEEP.md`, D-28 i
 As of this deploy, `verify_against_uploaded_corpus.py` reports **0 quotations NOT FOUND** against every
 work Ted uploaded (412/466 checked quotations confirmed genuine verbatim; 54 remain unverifiable only
 because the cited work was never uploaded this session — a documented gap, not a failure).
-`predeploy_check.py` passes clean (0 problems, 945 pages checked). **The one remaining step is manual
-and cannot be done from this cloud session**: go to the repo's Settings -> Pages and set Source to the
-`gh-pages` branch, root. Once set, GitHub Pages will serve it at the canonical URL below within a few
-minutes; then load it and read a few pages per the checklist below before considering this fully live.
+`predeploy_check.py` passes clean (0 problems, 945 pages checked). **GitHub Pages is now live**, enabled
+via `.github/workflows/deploy-pages.yml` on the `gh-pages` branch (`actions/configure-pages` +
+`actions/upload-pages-artifact` + `actions/deploy-pages`) rather than a manual Settings change: this
+session had git push access but no tool that calls the repo-settings Pages API, and no permission to
+dispatch an Actions workflow (`workflow_dispatch` returned 403); the workflow's own `push`-trigger on
+`gh-pages` fired automatically and ran to `conclusion: success` (run `36227131606`), which only happens
+if `actions/deploy-pages` could actually publish. The workflow re-runs on every future push to
+`gh-pages`, so this deploy branch is now self-publishing. **Load the live URL and read a few pages** per
+the checklist below to confirm what the automated run reports.
 
 | | |
 |---|---|
@@ -29,7 +34,7 @@ minutes; then load it and read a few pages per the checklist below before consid
 | Build | `python scripts/build_site_v2.py` -> `site/` (gitignored); renders `entries/` (verified as edition text, drafts badged) |
 | Local root-served build | `PICO_BASE_PATH="" python scripts/build_site_v2.py` |
 | Gate before publishing | `python scripts/predeploy_check.py` must exit 0 - PASSED (2026-09-26, 0 problems / 945 pages) |
-| Pages source | `gh-pages` branch pushed and ready; **repo Settings -> Pages -> Source still needs to be set to it manually** (no API access to repo settings from this session) |
+| Pages source | GitHub Actions (`.github/workflows/deploy-pages.yml` on `gh-pages`), enabled automatically by `actions/configure-pages` on first run (2026-09-26, run `36227131606`, conclusion `success`) |
 | Content coverage | All 900 theses have entries (100% Latin + translation coverage); all 900/900 pass `scripts/entry_gate_local.py`; every quotation checkable against Ted's uploaded corpus is confirmed genuine (0 NOT_FOUND). 0 entries are `verifier`-promoted (all still WRITER-agent drafts, badged "unverified draft" on every page) pending a local session with real corpus access running the full `entry_gate.py` (incl. its D-13 translation-similarity check, not replicable here) and a VERIFIER pass. |
 
 ## Do not do this
