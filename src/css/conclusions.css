@@ -1,0 +1,600 @@
+/* Pico900 Conclusions CSS — Facing-page layout and conclusion-specific styles */
+
+/* Page header */
+.page-header {
+    margin: 2rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f5f5f0 0%, #fffbf7 100%);
+    border-left: 4px solid #8B7355;
+}
+
+.page-header h1 {
+    font-size: 2.2rem;
+    margin: 0 0 0.5rem 0;
+    font-weight: 600;
+    color: #2c2c2c;
+}
+
+.page-header .subtitle {
+    font-size: 1.1rem;
+    color: #666;
+    margin: 0.5rem 0 1.5rem 0;
+    font-weight: 500;
+}
+
+.page-header .intro {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.7;
+    margin: 0;
+}
+
+/* Controls */
+.controls {
+    margin: 2rem 0;
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.search-control {
+    flex: 1;
+    min-width: 200px;
+}
+
+.search-control input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    font-family: Georgia, serif;
+}
+
+.search-control input:focus {
+    outline: none;
+    border-color: #999;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.05);
+}
+
+.filter-control {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.filter-control label {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.filter-control input[type="checkbox"] {
+    cursor: pointer;
+}
+
+/* Conclusions grid */
+.conclusions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.conclusion-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.conclusion-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: #8B7355;
+    transition: height 0.3s ease;
+}
+
+.conclusion-card.heretical::before {
+    background: #d9534f;
+}
+
+.conclusion-card:hover {
+    border-color: #999;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+
+.conclusion-card:hover::before {
+    height: 6px;
+}
+
+.card-header {
+    margin-bottom: 1rem;
+}
+
+.card-header h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.card-header a {
+    color: #2c2c2c;
+    text-decoration: none;
+}
+
+.card-header a:hover {
+    text-decoration: underline;
+}
+
+.heretical-badge {
+    display: inline-block;
+    background: #d9534f;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-left: 0.5rem;
+}
+
+.card-content {
+    flex: 1;
+    margin-bottom: 1rem;
+}
+
+.card-content p {
+    font-size: 0.9rem;
+    margin: 0.75rem 0;
+    line-height: 1.6;
+    color: #555;
+}
+
+.card-content .latin, .card-content .english {
+    margin: 0.75rem 0;
+}
+
+.card-footer {
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+}
+
+.read-more {
+    display: inline-block;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
+/* Info section */
+.info-section {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-left: 4px solid #999;
+    border-radius: 4px;
+}
+
+.info-section h2 {
+    margin-top: 0;
+}
+
+.info-section ul {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+.info-section li {
+    margin: 0.5rem 0;
+    line-height: 1.7;
+}
+
+/* Conclusion page (single conclusion view) */
+.conclusion-page {
+    margin: 2rem 0;
+}
+
+.conclusion-header {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f5f5f0 0%, #fffbf7 100%);
+    border-left: 4px solid #8B7355;
+}
+
+.conclusion-id {
+    position: relative;
+}
+
+.conclusion-id h1 {
+    font-size: 2.2rem;
+    margin: 0.5rem 0;
+    font-weight: 600;
+}
+
+.section-label {
+    display: inline-block;
+    background: #8B7355;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+}
+
+.conclusion-meta {
+    margin: 1.5rem 0 2rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.conclusion-number {
+    margin: 0;
+    color: #666;
+}
+
+/* Facing-page layout */
+.facing-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    margin: 3rem 0;
+    padding: 2rem 0;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+
+.text-column {
+    padding: 0 1rem;
+}
+
+.text-column h2 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 1rem 0;
+    color: #333;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+.text-column.latin {
+    border-right: 1px solid #e0e0e0;
+    padding-right: 2rem;
+}
+
+.text-column.english {
+    padding-left: 2rem;
+}
+
+.incipit, .translation {
+    font-size: 1rem;
+    line-height: 1.8;
+    margin: 1rem 0;
+    color: #2c2c2c;
+}
+
+.translation-source {
+    font-size: 0.85rem;
+    color: #999;
+    margin: 1rem 0 0 0;
+}
+
+/* Charge & Defense */
+.charge-defense {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 1.5rem 0;
+}
+
+.charge, .defense {
+    padding: 1.5rem;
+    background: #f9f9f9;
+    border-left: 4px solid #999;
+    border-radius: 4px;
+}
+
+.charge h3, .defense h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.charge p, .defense p {
+    margin: 0;
+    line-height: 1.7;
+    color: #555;
+    font-size: 0.95rem;
+}
+
+/* Exegesis */
+.exegesis {
+    background: #fffbf7;
+    padding: 1.5rem;
+    border-left: 4px solid #8B7355;
+    border-radius: 4px;
+    line-height: 1.8;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* Citations */
+.citations {
+    margin: 1.5rem 0;
+}
+
+.citation-block {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+}
+
+.citation-block .scholar {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    color: #2c2c2c;
+}
+
+.citation-block .work {
+    font-size: 0.9rem;
+    margin: 0 0 0.75rem 0;
+    color: #666;
+}
+
+.citation-block .quote {
+    margin: 0.75rem 0;
+    padding-left: 1.5rem;
+    border-left: 3px solid #8B7355;
+    font-style: italic;
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.7;
+}
+
+.citation-block .source-note {
+    font-size: 0.85rem;
+    color: #999;
+    margin: 0;
+    font-style: italic;
+}
+
+/* Tags */
+.tags {
+    margin: 2rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.tag {
+    display: inline-block;
+    background: #e8e8e8;
+    color: #333;
+    padding: 0.4rem 0.8rem;
+    border-radius: 16px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Heretical section */
+.heretical-section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: #fdf5f5;
+    border-left: 4px solid #d9534f;
+    border-radius: 4px;
+}
+
+.heretical-section h2 {
+    color: #d9534f;
+    margin-top: 0;
+}
+
+.heretical-section p {
+    color: #555;
+    line-height: 1.7;
+}
+
+/* Navigation */
+.conclusion-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3rem 0 2rem 0;
+    padding: 2rem 0;
+    border-top: 1px solid #ddd;
+    gap: 1rem;
+}
+
+.nav-prev, .nav-next, .nav-home {
+    padding: 0.75rem 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    display: inline-block;
+}
+
+.nav-prev:hover, .nav-next:hover, .nav-home:hover {
+    background: #f5f5f5;
+    border-color: #999;
+}
+
+/* About page */
+.about-page {
+    max-width: 900px;
+    margin: 2rem 0;
+}
+
+.about-page h1 {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #ddd;
+}
+
+.about-page section {
+    margin: 3rem 0;
+}
+
+.about-page h2 {
+    margin-top: 0;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+.about-page p {
+    line-height: 1.8;
+    color: #555;
+}
+
+.about-page ul {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+.about-page li {
+    margin: 0.75rem 0;
+    line-height: 1.7;
+}
+
+/* Footer */
+.site-footer {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: #f5f5f5;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #999;
+}
+
+.site-footer a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 900px) {
+    .facing-page {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .text-column.latin {
+        border-right: none;
+        border-bottom: 2px solid #ddd;
+        padding-right: 0;
+        padding-bottom: 2rem;
+    }
+
+    .text-column.english {
+        padding-left: 0;
+        padding-top: 2rem;
+    }
+
+    .charge-defense {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .conclusion-nav {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .nav-prev, .nav-next, .nav-home {
+        text-align: center;
+    }
+
+    .page-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .page-header .subtitle {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .conclusions-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .search-control {
+        min-width: auto;
+    }
+
+    .filter-control {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .conclusion-header {
+        padding: 1.5rem;
+    }
+
+    .conclusion-id h1 {
+        font-size: 1.5rem;
+    }
+
+    .about-page {
+        max-width: 100%;
+    }
+
+    .about-page h1 {
+        font-size: 1.5rem;
+    }
+}
+
+@media print {
+    .controls, .conclusion-nav, .site-nav, .site-footer {
+        display: none;
+    }
+
+    .conclusion-page {
+        margin: 0;
+    }
+
+    .facing-page {
+        page-break-inside: avoid;
+        border: none;
+        padding: 0;
+    }
+}
