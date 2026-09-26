@@ -1,0 +1,49 @@
+{
+ "thesis_id": "6.10",
+ "tier": "B",
+ "latin": "Ad hoc, quod aliqua scientia alteri non subalternetur, sufficit quod faciat reductionem ad per se nota in suo genere abstractions.",
+ "latin_source": "farmer1998:12786",
+ "translation": "For some science not to be subordinated to another, it suffices that it perform a reduction to what is known per se within its own genus of abstraction.",
+ "translation_note": "'subalternetur' is the scholastic technical term for the 'subordination' of one science to another, whereby a subordinate science borrows its principles from a higher one (e.g. optics from geometry). 'reductionem ad per se nota' = a reduction to self-evidently known principles. 'genere abstractionis' = the scholastic classification of the sciences by their degree of abstraction from matter.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:12786",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12786).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Super libros Posteriorum Analyticorum (Venice, 1488; repr. Frankfurt, 1967), ff. f6v-f8r",
+   "locator": "edelheit2022:16870",
+   "pico_relation": "identified by Edelheit as the likely scholastic locus for the thesis's account of the subordination of sciences"
+  }
+ ],
+ "doctrine": "Thesis 6.10 holds that a science escapes subordination to another provided it can reduce its inquiries to principles self-evident within its own genus of abstraction (farmer1998:12786). Farmer calls the thesis 'the premodern antecedent of Gödel's second theorem', tracing it to commentary on Aristotle's Posterior Analytics 1.9-10, and glosses the underlying picture as an interlocked hierarchy of sciences, each operating independently of its superiors only when restricting its questions to a 'derivative sort' (paraphrase; farmer1998:12806). Edelheit places the thesis within Giles's own discussion 'of the subordination of one science to another, in regard to demonstrations' (edelheit2022:16848), and finds a parallel discussion in Giles's Reportatio on the Sentences (edelheit2022:16848).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 1.9 of Albert the Great, on the organ of hearing (farmer1998:11050); to 12.2 of Moses of Egypt (Maimonides), on metaphysics not being a single science (farmer1998:14143); and to 7.14 of Averroes, that no science proves the existence of its own subject (farmer1998:13145). Edelheit groups thesis 10 with the 'last 4 theses' of the Giles series, stating: \"The last 4 theses are focused on natural philosophy (theses 8, 9, and 11), and on the subordination of sciences (thesis 10)\" (edelheit2022:16746).",
+ "reception": "Edelheit quotes the Latin of the thesis directly, citing 'Pico, 900 Theses, p. 248' (edelheit2022:16870), and identifies Giles's own Super libros Posteriorum Analyticorum (Venice, 1488; repr. Frankfurt, 1967), ff. f6v-f8r, as the corresponding scholastic locus (edelheit2022:16870).",
+ "historiography": "Edelheit assesses the relation between Pico's thesis and Giles's source text with a qualified judgment: \"In thesis 10, on the subordination of sciences, a contrast seem to be emerging between what we have in Pico and what is to be found in Giles. But in most cases the very same ideas can be found in Giles, even if Pico uses his own formulations and terminology\" (edelheit2022:16982).",
+ "connections": [
+  "1.9",
+  "12.2",
+  "7.14"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "The last 4 theses are focused on natural philosophy (theses 8, 9, and 11), and on the subordination of sciences (thesis 10).",
+   "work": "edelheit2022",
+   "line": 16746,
+   "verbatim": true
+  },
+  {
+   "text": "In thesis 10, on the subordination of sciences, a contrast seem to be emerging between what we have in Pico and what is to be found in Giles.",
+   "work": "edelheit2022",
+   "line": 16982,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the exact passage at Giles's ff. f6v-f8r matches Pico's specific wording, beyond Edelheit's citation of the folios, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

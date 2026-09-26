@@ -1,0 +1,34 @@
+{
+ "thesis_id": "11>21",
+ "tier": "B",
+ "latin": "Qui coniunxerit dictum Cabalistarum dicentium quod illa numeratio quae dicitur iustus et redemptor_dicitur etiam ze, cum dicto Thalmudistarum dicentium quod Isaac ibat sicut ze, portans Crucem suam, uidebit quod illud quod fuit in Isaac praefiguratum_fuit adimpletum in Christo, qui fuit uerus Deus uenditus Argento.",
+ "latin_source": "farmer1998:26810",
+ "translation": "Whoever joins the saying of the Cabalists, who say that the numeration called 'the just one' and 'the redeemer' is also called ze, with the saying of the Talmudists, who say that Isaac went just like ze, carrying his own cross, will see that what was prefigured in Isaac was fulfilled in Christ, who was the true God sold for silver.",
+ "translation_note": "'ze' (Hebrew, 'this'/'this one') is left untransliterated by Pico as the name of a numeration (sefirah) associated with 'the just one' and 'the redeemer' (farmer1998:26884).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:26810",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26810).",
+ "doctrine": "Farmer's note glosses 'ze' as a pronoun meaning 'this'/'this one', used as a common name or symbol for the ninth sefirah, and notes that the association of Christ with 'the just' appears often (farmer1998:26884). The thesis reads Isaac's carrying of the wood for his own sacrifice, by way of the Talmudic comparison to 'ze', as a Cabalistic type fulfilled in Christ carrying the cross and being 'sold for silver'; thesis 11>19, immediately preceding this sequence, similarly reads a prophetic saying that 'they sold the just one for silver' as meaning that God, as redeemer, was sold for silver (farmer1998:26801).",
+ "historiography": "Wirszubski treats this thesis as the first of 'four successive theses, all of a similar stamp' that are 'clearly involved in Pico's Kabbalistic confirmation of Christianity,' quoting the Latin in full across several passages of his discussion (wirszubski1989:7396; wirszubski1989:8251). The study cited here as kabbalah_paradigma groups the thesis with 11>22, 11>24, 11>25, 11>40, 11>44 and 11>47 as part of a series associating a sefirah with themes of deliverance from bondage (kabbalah_paradigma:2109).",
+ "connections": [
+  "11>19",
+  "11>27",
+  "28.31"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "clearly involved in Pico's Kabbalistic confirmation of Christianity",
+   "work": "wirszubski1989",
+   "line": 7396,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise sefirotic identity of 'ze' beyond Farmer's gloss ('the ninth sefirah') is not further discussed in the sources consulted for this thesis."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

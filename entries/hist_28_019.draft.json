@@ -1,0 +1,53 @@
+{
+ "thesis_id": "28.19",
+ "tier": "B",
+ "latin": "Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinare transpositionem deducet unum ex alio.",
+ "latin_source": "farmer1998:17862",
+ "translation": "The letters of the name of the cacodemon, who is the prince of this world, are the same as those of the name of God Triagrammaton, and whoever knows how to arrange the transposition will derive the one name from the other.",
+ "translation_note": "'cacodemon' (Greek kakodaimon, 'evil spirit') here names Satan, called 'prince of this world' (cf. John 12:31). 'Triagrammaton' is a name for God formed from the letters of the tetragrammaton in another arrangement. The doctrine rests on a specific wordplay traceable, per Wirszubski, to a Hebrew commentary in Flavius Mithridates' Latin translation (wirszubski1989:3276).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:17862",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17862).",
+ "sources": [
+  {
+   "text": "An unnamed Hebrew commentary on the Book of Creation (Sefer Yetzirah), in Flavius Mithridates' Latin translation",
+   "locator": "wirszubski1989:3276",
+   "pico_relation": "Wirszubski calls this commentary 'the direct source of Conclusio xix'"
+  }
+ ],
+ "doctrine": "The thesis claims that the name of the cacodemon who rules this world shares its letters with the divine name Triagrammaton, so that whoever knows the correct transposition can derive either name from the other (wirszubski1989:2081, quoting the same Latin text as Farmer's copy). Farmer's note explains that the transformation is a matter of word-letter equations, i.e. gematria, citing Wirszubski's quotation of a passage from Mithridates' translation of a commentary on the Book of Creation (farmer1998:17937). Wirszubski, quoting the Latin translation itself, gives it as 'nomen ipsius dei triagramaton ... continet in secreto cacodemona qui est princeps mundi huius', which he says 'sufficiently accounts for Pico's thesis', while wondering whether Pico himself knew precisely how to carry out the letter-derivation (wirszubski1989:2122).",
+ "context": "Wirszubski calls the underlying commentary 'the direct source of Conclusio xix' and adds that it is 'remarkable that [this is] the only thesis in the entire first set which deals with names and transpositions of letters without any…' (the excerpt available breaks off there) (wirszubski1989:3276; wirszubski1989:3277). Farmer's note relates the thesis to the broader kabbalistic principle of parallel 'right-hand' and 'left-hand' orders (farmer1998:17937).",
+ "reception": null,
+ "historiography": "Wirszubski is the only scholar in the sources consulted who works out the textual derivation of the thesis, tracing it to Flavius Mithridates' Latin rendering of a commentary on the Book of Creation and judging, from the translation's wording, that it 'sufficiently accounts for Pico's thesis' even without certainty that Pico could reconstruct the letter transposition himself (wirszubski1989:2122; wirszubski1989:3276).",
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "sufficiently accounts for Pico's thesis",
+   "work": "wirszubski1989",
+   "line": 2122,
+   "verbatim": true
+  },
+  {
+   "text": "the direct source of Conclusio xix",
+   "work": "wirszubski1989",
+   "line": 3276,
+   "verbatim": true
+  },
+  {
+   "text": "It is remarkable that the only thesis in the entire first set which deals with names and transpositions of letters without any…",
+   "work": "wirszubski1989",
+   "line": 3277,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer cross-references are recorded for this thesis in the sources consulted.",
+  "The specific letter-transposition or gematria calculation by which 'cacodemon' and 'Triagrammaton' are derived from each other: not established by the sources consulted; Wirszubski himself notes the difficulty.",
+  "The continuation of Wirszubski's remark at wirszubski1989:3277, cut off in the source excerpt available.",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

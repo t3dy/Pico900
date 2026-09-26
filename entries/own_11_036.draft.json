@@ -1,0 +1,36 @@
+{
+ "thesis_id": "11>36",
+ "tier": "A",
+ "latin": "Ex praecedenti conclusione intelligi potest cur dicatur apud cabalistas quod deus induit se decem uestimentis quando creauit saeculum.",
+ "latin_source": "farmer1998:27137",
+ "translation": "From the preceding conclusion one can understand why it is said among the Cabalists that God clothed himself in ten garments when he created the world.",
+ "translation_note": "'decem uestimentis' ('ten garments') denotes the ten sefirot (farmer1998:27200). 'saeculum' is rendered 'world', though the word can also mean 'age'; Pico uses the same word of the same act of creation in 28.5 (farmer1998:17547-17548).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:27137",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27137).",
+ "doctrine": "Farmer's note glosses the 'ten garments' as the ten sefirot and situates the thesis as distinguishing God's transcendent nature (the Ein-Sof) from his manifested nature (the sefirot), cross-referring it to 28.35, which holds that no spiritual thing descending lower operates without a garment (farmer1998:27200; farmer1998:18195). The thesis draws its conclusion from the immediately preceding 11>35, which holds that God considered strictly in himself, as infinite and one, cannot on that consideration be understood to proceed into anything outside himself, but only to be enclosed within himself and withdrawn to the furthest point of his own godhead (paraphrase of Pico's own Latin, farmer1998:27129).",
+ "reception": null,
+ "historiography": "Busi and Ebgi quote the Latin of 11>36 with its page reference in Farmer's edition and cross-refer it to 28.35, glossing the latter (in their own Italian rendering) as 'no spiritual reality that descends downward operates without a garment' (busi2014:15712). Howlett quotes the Latin of 11>36 in a footnote without further comment in the material opened (howlett2021:6168). An unsigned German study, *Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola* (author not identified in the material opened), groups 11>36 together with 11>5 and 11>35 and cites, for parallels, Greive's *Die christliche Kabbalah* and, 'especially,' Wirszubski's *Encounter* pp. 235-238, said there to supply testimony from Azriel of Gerona and Moses Nachmanides (paraphrase, kabbalah_paradigma:1505). Wirszubski himself gives the thesis as 'Conclusio xxxvi' and quotes it (wirszubski1989:11965) immediately after quoting, in Latin, a companion passage on God's concealing himself 'in abysso suarum tenebrarum' and not manifesting himself 'in dilatatione ac profusione suarum bonitatum ac fontani splendoris' (wirszubski1989:11963) — editorial paraphrase: in the abyss of his own darkness, and not manifesting himself in the outpouring of his own goodness and fountain-like splendour.",
+ "connections": [
+  "11>35",
+  "28.35",
+  "11>5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "in abysso suarum tenebrarum se contegente",
+   "work": "wirszubski1989",
+   "line": 11963,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The authorship of the unsigned German study cited above (kabbalah_paradigma): not established from the material opened.",
+  "Any reception of this thesis beyond the citations listed: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,41 @@
+{
+ "thesis_id": "11>17",
+ "tier": "B",
+ "latin": "Qui sciuerit quid est uinum purissimum apud Cabalistas, sciet cur dixerit Dauid: Inebriabor ab ubertate domus tuae, et quam ebrietatem dixerit antiquus uates Museus esse foelicitatem, et quid significent tot Bacchi apud Orpheum.",
+ "latin_source": "farmer1998:26715",
+ "translation": "Whoever will have known what the purest wine is among the Cabalists will know why David said, 'I shall be made drunk with the abundance of your house', and what drunkenness the ancient seer Musaeus called happiness, and what the many Bacchuses in Orpheus signify.",
+ "translation_note": "The line from David is Psalm 36:9 in the Vulgate numbering, as Wirszubski's citation confirms (wirszubski1989:9471). 'Museus' is Musaeus, a purported pre-Homeric poet closely associated with the Orphic mysteries, whose apparent source here Farmer identifies as Plato's Republic 363c-d (farmer1998:26781).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:26715",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26715).",
+ "doctrine": "Farmer ties the thesis to a series on mystical happiness or beatitude beginning at 2.12, and identifies Musaeus's apparent source as Plato, Republic 363c-d (farmer1998:26781). He cross-references the thesis to 10>23 and 10>24, on Bacchus and initiation in the Orphic Hymns, and to 8>6, on the Chaldean interpreters' teaching of a 'double drunkenness', of Bacchus and of Silenus (farmer1998:26014, 26018, 24842).",
+ "historiography": "Wirszubski, designating the thesis 'Conclusio xvii', states that 'the principal sources of Conclusiones xvii and xviii are two close passages in the commentary on Deuteronomy: one at fol. 212r and the other at fol. 213r-v', in Menahem Recanati's commentary, adding that Pico may have read the whole commentary for this set of theses (wirszubski1989:3199). He also remarks of the surrounding series that the 'Conclusiones Cabalisticae secundum opinionem propriam ... Christianam religionem maxime conflrmantes evidently outgrew their original purpose' (wirszubski1989:9471). Busi and Ebgi print the Latin without further discursive comment in the material consulted (busi2014:25207).",
+ "connections": [
+  "5>7",
+  "8>6",
+  "10>23",
+  "10>24"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the principal sources of Conclusiones xvii and xviii are two close passages in the commentary on Deuteronomy: one at fol. 212r and the other at fol. 213r-v",
+   "work": "wirszubski1989",
+   "line": 3199,
+   "verbatim": true
+  },
+  {
+   "text": "Conclusiones Cabalisticae secundum opinionem propriam ... Christianam religionem maxime conflrmantes evidently outgrew their original purpose",
+   "work": "wirszubski1989",
+   "line": 9471,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico read Recanati's commentary on Deuteronomy directly, or the whole commentary as Wirszubski suggests is possible, is not settled in the material consulted (wirszubski1989:3199).",
+  "Which translation or intermediary gave Pico the Republic passage behind the figure of Musaeus is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,52 @@
+{
+ "thesis_id": "6.9",
+ "tier": "B",
+ "latin": "Calor, si sit etiam separatus, ignem generare poterit.",
+ "latin_source": "farmer1998:12783",
+ "latin_note": "The 1486 print reads 'seperatus' for 'separatus' (farmer1998:12795).",
+ "translation": "Heat, even if it were separated [from its subject], would be able to generate fire.",
+ "translation_note": "'separatus' is glossed by Edelheit against the scholastic question of nature and supposit — whether a nature can exist or act apart from the individual substance ('supposit') that normally bears it (edelheit2022:16791; edelheit2022:16819).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:12783",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12783).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Reportatio on the Sentences, Book 3, question 1, disguised as the question whether God could be incarnated [in a nature separated from its supposit]",
+   "locator": "edelheit2022:16791",
+   "pico_relation": "Edelheit identifies this as the discussion in which Giles treats the nature-supposit relation underlying the thesis"
+  },
+  {
+   "text": "Giles of Rome, Opera omnia III.2, pp. 389-392: 'nature never gives being unless it is in a supposit'",
+   "locator": "edelheit2022:16819",
+   "pico_relation": "further Giles passage on the nature-supposit relation, quoted by Edelheit alongside this thesis"
+  }
+ ],
+ "doctrine": "The thesis states that heat, even if separated from its ordinary subject, would still be able to generate fire (farmer1998:12783). Edelheit places it among four theses (8, 9, 10 and 11) drawn from Giles that treat natural-philosophical issues, several of them examples Giles himself uses within theological discussions (edelheit2022:15969). He identifies the conceptual background as the relation between nature and supposit that Giles discusses in his Reportatio on the Sentences, book 3, question 1, there disguised as the question of whether God could be incarnated in a nature separated from its supposit (edelheit2022:16791). He calls thesis 9 a case in which 'an example from natural philosophy discussed in a theological context by Giles becomes a thesis on natural philosophy by Pico' (edelheit2022:16980).",
+ "context": "Edelheit reads theses 7-10 as material Giles used within theological discussions, so that Pico's extraction of thesis 9 as a stand-alone natural-philosophical proposition changes its function (edelheit2022:16760; edelheit2022:16980). Noting that a thesis on taste is placed between two on hearing, he suggests this order may reflect 'the haste with which Pico was working on the theses' (edelheit2022:16760).",
+ "reception": null,
+ "historiography": "Edelheit is the only scholar in the sources consulted to discuss this thesis; he treats it as evidence of how Pico converts a theological illustration in Giles into an independent natural-philosophical thesis (edelheit2022:16980).",
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "an example from natural philosophy discussed in a theological context by Giles becomes a thesis on natural philosophy by Pico",
+   "work": "edelheit2022",
+   "line": 16980,
+   "verbatim": true
+  },
+  {
+   "text": "the haste with which Pico was working on the theses",
+   "work": "edelheit2022",
+   "line": 16760,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer cross-references are recorded for this thesis in the sources consulted.",
+  "The precise place in Giles's Reportatio, beyond book 3 q. 1 generally, where the heat/fire example itself (rather than the general nature-supposit question) appears: not established by the sources consulted.",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

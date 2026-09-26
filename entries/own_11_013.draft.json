@@ -1,0 +1,41 @@
+{
+ "thesis_id": "11>13",
+ "tier": "A",
+ "latin": "Qui operatur in Cabala sine admixtione extranei, si diu erit in opere, morietur ex binsica, et si errabit in opere aut non purificatus accesserit, deuorabitur ab Azazele per proprietatem iudicii.",
+ "latin_source": "farmer1998:26608",
+ "translation": "Whoever operates in the Cabala without any admixture of what is foreign, if he remains long at the work, will die of binsica; and if he errs in the work, or approaches unpurified, he will be devoured by Azazel through the property of judgment.",
+ "translation_note": "'binsica' names a mystical death in ecstatic union rather than a violent death; Howlett's translation glosses it in brackets as \"the death of the kiss\" (howlett2021:9519).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:26608",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26608).",
+ "sources": [],
+ "doctrine": "The thesis pairs two outcomes of Cabalistic operation performed without any admixture of what is foreign: prolonged, correct practice ends in binsica, which Howlett's translation glosses in brackets as \"the death of the kiss\" (howlett2021:9519), while erring in the work, or approaching unpurified, brings devouring by Azazel per proprietatem iudicii, through the property of judgment (farmer1998:26608). Corazzol reads the thesis as showing that Pico was \"fully aware\" of the Kabbalistic notion that this 'property of judgment' (Middat ha-Din) is activated by an improper approach to the practice (corazzol2019:922).",
+ "context": "An Italian-language study, Filosofia e cabbala nel Commento al Cantico, pairs this thesis with the eleventh conclusion of the same series, on the mode by which rational souls sacrifice themselves to God through the archangel, achieved only through separation of soul from body (filosofia_cabbala:837).",
+ "reception": null,
+ "historiography": "Wirszubski identifies the thesis as the last appearance, in Pico's own writing, of the Death of the Kiss motif, giving its Latin as 'Conclusio xiii' in his own numbering of this series (wirszubski1989:8118; wirszubski1989:8120). Howlett quotes and translates the thesis, rendering 'binsica' as \"the death of the kiss\" (howlett2021:9519). An unidentified study on self-knowledge in Pico links the thesis to 8>7, arguing that finite goods could not confer eternal bliss on souls taken as separate from the divine (selfknowledge_notes:1571; selfknowledge_notes:1032).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "the death of the kiss",
+   "work": "howlett2021",
+   "line": 9519,
+   "verbatim": true
+  },
+  {
+   "text": "fully aware",
+   "work": "corazzol2019",
+   "line": 922,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's own note and cross-reference network for this thesis are both empty in the sources consulted, so no relation he draws to other theses can be recorded.",
+  "Whether 8>7, linked to this thesis by one scholarly source, bears a direct textual relation to it or only a thematic one.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

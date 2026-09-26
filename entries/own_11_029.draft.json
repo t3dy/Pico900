@@ -1,0 +1,41 @@
+{
+ "thesis_id": "11>29",
+ "tier": "B",
+ "latin": "Quod dicitur a Cabalistis, quod linea uiridis gyrat uniuersum, conuenientissime dicitur ad conclusionem quam ultimam diximus ex mente Porphyrii.",
+ "latin_source": "farmer1998:27012",
+ "translation": "What is said by the Cabalists, that a green line encircles the universe, is most fittingly said in relation to the last conclusion we stated out of the mind of Porphyry.",
+ "translation_note": "'linea uiridis' ('green line') is, per Farmer's note, an image for Binah, the third sefirah, here correlated with the 'intellect' of Porphyry's thesis 22.12 (farmer1998:27045).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:27012",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27012).",
+ "doctrine": "Farmer identifies the 'green line' with Binah, the third sefirah, correlated here with the 'intellect' of Porphyry's thesis 22.12, 'Deus ubique est quia nullibi est, intellectus ubique est quia nullibi est...' (farmer1998:15566, 27045). He states that this thesis, with others, suggests that in Pico's mind the Kabbalistic sefirot were more naturally correlated with distinctions in the Neoplatonic intellectual nature than with the persons of the Godhead, though his note is cut off before naming the alternative it is contrasted with ('than with God's [...]', farmer1998:27045). The immediate scriptural-Kabbalistic source Farmer names for the 'green line' image is thesis 28.7, on Solomon's prayer in the book of Kings, 'Exaudi o coelum', read as naming the 'green line' that 'gyrat universum' (farmer1998:17641).",
+ "historiography": "Wirszubski, designating the thesis 'Conclusio xxix', states that 'It is certain that Pico read the Bahir: Scholem proved it beyond doubt', and identifies the thesis's source, adding that 'of the three theses that reflect recognizable passages in the Bahir only one (Conclusio xxix) derives in all likelihood from the Bahir itself, whereas the other two might equally well derive from quotations of the Bahir in Recanati's Commentary on the Pentateuch' (wirszubski1989:3284). Elsewhere he notes that, though its phrasing was inspired by the Bahir, the thesis's placement in the sequence 'reflects the arrangement of the subject matter in Recanati', since it sits between two theses on angels whose sources lie in Recanati at fol. 11vb and fol. 12va respectively (wirszubski1989:3177, 3182).",
+ "connections": [
+  "11>30",
+  "11>39",
+  "22.12",
+  "28.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It is certain that Pico read the Bahir: Scholem proved it beyond doubt",
+   "work": "wirszubski1989",
+   "line": 3284,
+   "verbatim": true
+  },
+  {
+   "text": "of the three theses that reflect recognizable passages in the Bahir only one (Conclusio xxix) derives in all likelihood from the Bahir itself, whereas the other two might equally well derive from quotations of the Bahir in Recanati's Commentary on the Pentateuch",
+   "work": "wirszubski1989",
+   "line": 3284,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific passage of the Bahir underlying the 'green line' image is not named in the material consulted.",
+  "Farmer's note on the correlation of sefirot with the Neoplatonic intellectual nature is cut off mid-sentence and its intended contrast is not recoverable here (farmer1998:27045)."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

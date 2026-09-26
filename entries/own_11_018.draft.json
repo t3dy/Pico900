@@ -1,0 +1,50 @@
+{
+ "thesis_id": "11>18",
+ "tier": "A",
+ "latin": "Qui coniunxerit Astrologiam Cabalae uidebit quod sabbatizare et quiescere conuenientius fit post Christum die dominico, quam die sabbati.",
+ "latin_source": "farmer1998:26797",
+ "translation": "Whoever joins astrology to the Kabbalah will see that, after Christ, it is more fitting to keep sabbath and rest on the Lord's day than on the day of the Sabbath.",
+ "translation_note": "'die dominico' = Sunday, 'die sabbati' = Saturday. Farmer's note observes that days are associated with particular sefirot, and different sefirot in turn with particular planets or with Christ, so more may be intended than a simple Sunday/Saturday substitution (farmer1998:26827).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:26797",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26797).",
+ "doctrine": "The thesis holds that joining astrology to the Kabbalah shows that, since Christ, it is more fitting to keep Sabbath rest on Sunday (the Lord's day) than on Saturday (farmer1998:26797; farmer1998:26853). Farmer's note cautions that because Pico elsewhere links particular days to particular sefirot, and particular sefirot to particular planets or to Christ, 'it is possible to generate several plausible readings of the thesis' beyond a simple day-substitution (farmer1998:26827).",
+ "context": "Akopyan cites the thesis as part of a sequence of Cabalistic-astrological conclusions concerning Christ, immediately after his citation of the thesis on the moon/sun correspondence of Solomon and the Messiah (11>51) (akopyan2021:3247). Elsewhere, in a note on planetary day-associations, Akopyan quotes Roger Bacon as having written, without hesitation, that Christians err by not resting on Saturday and instead working 'in the manner of the Jews' (ritu Iudaeorum), since Saturday is the day of Saturn, a planet judged 'not very fitting and fortunate' (parum commoda et felix) for undertaking affairs: 'Rogerius Bacon eo usque est evectus, ut scribere non dubitaverit errare Christianos, qui die sabbati non ferientur et operibus vacent ritu Iudaeorum, cum sit ea dies Saturni, quae stella rebus agendis parum commoda et felix existimatur' (akopyan2021:5302, quoting Bacon). The excerpt available does not state explicitly how Akopyan relates Bacon's claim to Pico's own, opposite conclusion that Sunday, not Saturday, became the more fitting day of rest after Christ.",
+ "reception": null,
+ "historiography": "Akopyan is the principal source discussing this thesis, citing it across two studies as evidence of Pico's association of astrology with Kabbalistic and Christian symbolism of the days of the week (akopyan2018:695; akopyan2021:1451; akopyan2021:3247; akopyan2021:5302). A separate quotation attributed by Wirszubski to 'Conclusio xviii' in the excerpt available corresponds instead to the Latin of thesis 9>18, on the 'horizon of eternity and time' being proper to the Kabbalah, and is therefore not used here as evidence for 11>18 (wirszubski1989:9918).",
+ "connections": [
+  "11>19",
+  "11>20",
+  "11>21",
+  "11>37",
+  "11>46",
+  "11>48",
+  "28.6",
+  "28.8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "it is possible to generate several plausible readings of the thesis",
+   "work": "farmer1998",
+   "line": 26827,
+   "verbatim": true
+  },
+  {
+   "text": "Rogerius Bacon eo usque est evectus, ut scribere non dubitaverit errare Christianos, qui die sabbati non ferientur et operibus vacent ritu Iudaeorum, cum sit ea dies Saturni, quae stella rebus agendis parum commoda et felix existimatur.",
+   "work": "akopyan2021",
+   "line": 5302,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No external, non-Pico source for the thesis is identified in the sources consulted; only Pico's own related theses are cited.",
+  "How Akopyan relates Roger Bacon's claim about Saturday to Pico's own conclusion about Sunday: not established from the excerpt consulted.",
+  "Whether the thesis is meant literally (calendar days) or symbolically (via sefirotic correspondences), as Farmer's note leaves open: not established by the sources consulted.",
+  "Any commission or Apologia reception of this thesis: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,47 @@
+{
+ "thesis_id": "9>25",
+ "tier": "A",
+ "latin": "Sicut caracteres sunt proprii operi magico, ita numeri sunt proprii operi cabalae, medio existente inter utrosque et appropriabili per declinationem ad extrema usu litterarum.",
+ "latin_source": "farmer1998:25475",
+ "translation": "Just as characters are proper to the work of magic, so numbers are proper to the work of Cabala, with a middle existing between the two, appropriable to either extreme by declination through the use of letters.",
+ "translation_note": "'caracteres' (characters) means magical words in general rather than figures on astrological talismans, as Farmer argues against Frances Yates's reading (farmer1998:25541).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:25475",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25475).",
+ "sources": [],
+ "doctrine": "Farmer glosses 'characters' as magical words in general, explicitly rejecting Frances Yates's view that the term refers to words inscribed on astrological talismans (farmer1998:25541). Pico's point, per Farmer, is that magical words can be translated into numbers and numbers into magical words, apparently through the word-number equations of gematria, and that the 'works' in view are those of contemplative or prophetic magic, as in the two preceding theses (farmer1998:25541).",
+ "context": "Farmer cross-references the thesis to five others: 11>12, on the impossibility of operating through pure Cabala without a rationally intellectual nature; 1>6, on the Thomist-Scotist distinction ex natura rei; 9>16 through 9>18, on the nature that is the 'horizon' of time and eternity and its relation to the magician; and 9>26, contrasting the effect of a pure and immediate Cabalistic work with what no magic can attain (farmer1998:26604; farmer1998:18596; farmer1998:25354; farmer1998:25358; farmer1998:25362; farmer1998:25480).",
+ "reception": null,
+ "historiography": "Akopyan quotes the thesis together with its immediate predecessor (9>24) in a discussion of the relation between formal number and magical and Cabalistic operation (akopyan2018:618; akopyan2021:1347). Busi's edition and commentary situate the thesis among the magical conclusions and their restriction to natural magic (busi2014:1667; busi2014:9639). Wirszubski cites the thesis's Latin as evidence that \"linguistic symbolism to numerical symbolism ... makes itself felt throughout the translations of Mithridates ... reflected in Pico's theses\" (wirszubski1989:4353), and elsewhere calls it Pico's \"twenty-fifth magical thesis\" (wirszubski1989:7158). Howlett quotes and translates it, citing Farmer's edition directly (howlett2021:6198).",
+ "connections": [
+  "11>12",
+  "1>6",
+  "9>16",
+  "9>17",
+  "9>18",
+  "9>26"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "linguistic symbolism to numerical symbolism which makes itself felt throughout the translations of Mithridates is reflected in Pico's theses",
+   "work": "wirszubski1989",
+   "line": 4353,
+   "verbatim": true
+  },
+  {
+   "text": "twenty-fifth magical thesis",
+   "work": "wirszubski1989",
+   "line": 7158,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's gematria-based translation between magical words and numbers, as Farmer glosses it, draws on a specific identified source.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

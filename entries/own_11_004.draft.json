@@ -1,0 +1,46 @@
+{
+ "thesis_id": "11>4",
+ "tier": "A",
+ "latin": "Ensoph non est aliis numerationibus connumeranda, quia est illarum",
+ "latin_source": "farmer1998:26396",
+ "latin_note": "Farmer's transcribed line is truncated mid-sentence. The full text, quoted identically in busi2014:24764 and howlett2021:7597 and matching in substance in wirszubski1989:11832-11833, continues: '...numerationum unitas abstracta et incommunicata, non unitas coordinata' (wirszubski1989 gives the final word as 'coordinate').",
+ "translation": "The Ein Sof is not to be counted along with the other numerations, because it is the abstract and uncommunicated unity of those numerations, not a coordinate unity.",
+ "translation_note": "'Ensoph' = Ein Sof, the Kabbalistic term for God's infinite, hidden aspect prior to and beyond the sefirot. 'numerationibus'/'numerationum' = the sefirot; Farmer glosses 'Ensoph' as 'God's transcendent nature, the source of his manifested nature in the sefirot', roughly equivalent 'to the abstract essence of God in Latin scholasticism' (paraphrase; farmer1998:26462). 'unitas coordinata' is rendered 'a coordinate unity', i.e. a unity ranked alongside the other numerations, which the thesis denies of the Ein Sof.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:26396 (full sentence per busi2014:24764)",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26396).",
+ "doctrine": "Thesis 11>4 holds that the Ein Sof is not to be numbered among the other sefirotic 'numerations' because it constitutes their abstract, uncommunicated unity rather than a unity coordinate with them (farmer1998:26396; full Latin at busi2014:24764). Farmer's note explains 'Ensoph' as God's transcendent nature, source of his manifest nature in the sefirot, and calls it 'roughly... equivalent to the abstract essence of God in Latin scholasticism', adding that Pico apparently meant to correlate theses like this one with the Latin scholastic theses on essence and relation (paraphrase; farmer1998:26462).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 10>15, on Night in Orpheus and Ensoph in the Cabala (farmer1998:25892); to 11>35 and 11>36, on God considered in himself as infinite and one (farmer1998:27129, 27137); and to the historical theses 3.1-3.2 of Francis of Meyronnes (farmer1998:11974, 11978) and 6.1 of Giles of Rome (farmer1998:12671).",
+ "reception": "Busi and Ebgi's edition and Howlett's study both quote the thesis's Latin in full (busi2014:24764; howlett2021:6140, howlett2021:7597). Wirszubski likewise quotes it in full as his 'Conclusio iv' (wirszubski1989:11832-11833).",
+ "historiography": "Wirszubski places the thesis immediately after Pico's opening divisions and definitions of the Cabala, remarking that it comes \"hard on the heels of Pico's divisions and definitions of Kabbala\" (wirszubski1989:11832).",
+ "connections": [
+  "10>15",
+  "11>35",
+  "11>36",
+  "3.1",
+  "3.2",
+  "6.1"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinata.",
+   "work": "busi2014",
+   "line": 24764,
+   "verbatim": true
+  },
+  {
+   "text": "hard on the heels of Pico's divisions and definitions of Kabbala",
+   "work": "wirszubski1989",
+   "line": 11832,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether 'unitas coordinata' is meant to designate a specific rank among the sefirot, or only the general property of being one numeration among ten, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,40 @@
+{
+ "thesis_id": "2.23",
+ "tier": "B",
+ "latin": "Vnum supra ens non addit nisi priuationem diuisionis.",
+ "latin_source": "farmer1998:11647",
+ "translation": "Over and above being, 'one' contributes nothing except the absence of division.",
+ "translation_note": "Deliberately phrased apart from Farmer's own rendering (given only by its line locator, farmer1998:11675, and paraphrased, not quoted, in his note at farmer1998:11704).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:11647",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11647).",
+ "sources": [
+  {
+   "text": "the late-fifteenth-century Parisian debate on the convertibility of 'ens' and 'unum', e.g. a 'Conclusio responsalis' recorded by Johannes le Damoisiau holding that being and one signify the same nature really, though not formally",
+   "locator": "edelheit2022:4151",
+   "pico_relation": "Edelheit situates Pico's thesis within this wider scholastic debate on the transcendentals, without asserting direct dependence"
+  }
+ ],
+ "doctrine": "The thesis states the standard Thomist position that 'one' (unum) adds nothing positive to 'being' (ens) beyond the negation, or privation, of division (farmer1998:11704). Edelheit connects it to the broader scholastic question, discussed also in late-fifteenth-century Paris, of whether being and one are convertible and signify the same nature (edelheit2022:4151). He further notes, via William of Ockham, an analogy drawn between the relation of ens and unum and the relation of a quality (passio) to its subject (subiectum), and raises, without resolving it, the question of whether Pico had this Ockhamist analogy in mind while composing this thesis and the one following it (edelheit2022:11733; edelheit2022:11739). Edelheit also connects the thesis to thesis 30, on being's immediate implication of the ten categories (edelheit2022:12079).",
+ "historiography": "Edelheit treats thesis 2.23 as pointing ahead to Pico's fuller, later treatment of the relation between 'one' and 'being' in his De ente et uno (1490-91) and in his exchange with Antonio Cittadini da Faenza: 'Pico’s full account of this matter can be found in his De ente et uno and in his responses to Antonio Cittadini di Faenza' (edelheit2022:4125).",
+ "connections": [
+  "2.24",
+  "2.30"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Pico’s full account of this matter can be found in his De ente et uno and in his responses to Antonio Cittadini di Faenza",
+   "work": "edelheit2022",
+   "line": 4125,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico had Ockham's analogy between ens/unum and passio/subiectum specifically in mind is left open by Edelheit himself and is not established by the sources consulted (edelheit2022:11739)."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

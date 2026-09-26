@@ -1,0 +1,50 @@
+{
+ "thesis_id": "10>2",
+ "tier": "A",
+ "latin": "Nihil efficacius hymnis Orphei in naturali magia, si debita musica, animi intentio, et caeterae circumstantiae quas norunt sapientes, fuerint adhibitae.",
+ "latin_source": "farmer1998:25575",
+ "translation": "Nothing is more efficacious in natural magic than the hymns of Orpheus, if the due music, intention of mind, and the other circumstances known to the wise have been applied.",
+ "translation_note": "'debita musica' as 'the due/fitting music'; 'animi intentio' as the performer's mental intention or concentration, a technical requirement for ritual efficacy in Pico's natural magic; Busi and Ebgi's own Italian translation renders 'caeterae circumstantiae quas norunt sapientes' as 'le altre circostanze note ai sapienti' ('the other circumstances known to the wise') (busi2014:21389), which the present translation follows in sense.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:25575",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25575).",
+ "sources": [
+  {
+   "text": "10>3, that the names of the gods Orpheus sings are 'names of natural and divine powers' rather than of deceiving demons",
+   "locator": "farmer1998:25580",
+   "pico_relation": "immediately follows and grounds the theological legitimacy of the practice this thesis endorses"
+  },
+  {
+   "text": "10>7, that without understanding sensible properties 'through the way of secret analogy', 'nothing sound' can be understood from Orpheus's hymns",
+   "locator": "farmer1998:25685",
+   "pico_relation": "specifies the interpretive method presupposed by this thesis's claim of efficacy"
+  }
+ ],
+ "doctrine": "This is the second of Pico's conclusions on the Orphic Hymns 'secundum opinionem propriam', asserting that the hymns, properly performed, are the most efficacious instrument within natural (as opposed to demonic) magic. It follows 10>3, which insists the gods' names Orpheus invokes are not those of 'deceiving demons... from whom evil, and not good, proceeds' but rather 'names of natural and divine powers' given by the true God for man's benefit if rightly used (farmer1998:25580), and it presupposes the interpretive method of 10>7, that the hymns yield 'nothing sound' without understanding sensible properties 'through the way of secret analogy' (farmer1998:25685).",
+ "context": "Wirszubski (1989) quotes this same sentence directly from Pico's Opera (p. 106), placing it beside a quotation from Gikatilla's Portae Iustitiae in a discussion of the parallel Pico draws between Kabbalistic and Orphic-magical technique (wirszubski1989:7588). Howlett (2021) quotes it from Farmer's edition (pp. 504-505) immediately after a companion thesis contrasting the mediated causation of magic with 'pura cabala et immediata' (howlett2021:6214). Busi and Ebgi (2014) print the Latin from the Conclusiones (p. 504) and call the thesis 'particolarmente interessante per il suo contesto «orfico»' ('particularly interesting for its “Orphic” context') (busi2014:21389), giving alongside it their own Italian translation.",
+ "reception": "This thesis is not among the thirteen censured by the 1487 commission (data/inventory/condemned_thirteen.json; research-packets/INDEX.md records no condemned flag for 10>2); no commission verdict on it specifically is established by the sources consulted. Farmer's note records that 'Walker (1975: 22ff), who like Yates confused Pico's natural magic with Ficino's,' begins a discussion of the thesis's reception in modern scholarship, but the material consulted breaks off there (farmer1998:25649).",
+ "historiography": "Three independent studies quote this conclusio verbatim as evidence for Pico's claim that Orphic song, correctly performed, functions as an instrument of natural magic (busi2014:21389; howlett2021:6214; wirszubski1989:7588). Farmer's edition records a disagreement with D. P. Walker's account of Pico's natural magic, noting that Walker, 'like [Frances] Yates, confused Pico's natural magic with Ficino's' (farmer1998:25649); the specifics of this disagreement beyond that note are not given in the material consulted.",
+ "connections": [
+  "10>3",
+  "10>7",
+  "8>3",
+  "9>1",
+  "9>2"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Particolarmente interessante per il suo contesto «orfico»",
+   "work": "busi2014",
+   "line": 21389,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's full disagreement with Walker's (1975) reading is not established beyond the truncated note at farmer1998:25649.",
+  "Whether the Apologia or the commission addressed this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,39 @@
+{
+ "thesis_id": "8>6",
+ "tier": "A",
+ "latin": "Dicta interpretum Chaldeorum super .xi. amphorismo, de duplici ebriatione, Bacchi et Sileni, perfecte intelligentur per dicta cabalistarum de duplici uino.",
+ "latin_source": "farmer1998:24842",
+ "latin_note": "Farmer notes a recurring conflation in Pico's Latin here and in the surrounding theses between 'amphorismus' (aphorism) and 'amphora,' a wine vessel (farmer1998:24919).",
+ "translation": "The sayings of the Chaldean interpreters on the eleventh aphorism, concerning the double drunkenness of Bacchus and Silenus, will be perfectly understood through the sayings of the Cabalists concerning the double wine.",
+ "translation_note": "'amphorismo' is translated as 'aphorism', following the sense of the surrounding series of theses on the Chaldean/Zoroastrian aphorisms and their interpreters, though Farmer notes the term's conflation with 'amphora' elsewhere in Pico's usage (farmer1998:24919).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:24842",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:24842).",
+ "doctrine": "Farmer's note glosses 'two kinds of drunkenness'/'two kinds of wine' as symbols of higher and lower modes of love, will, or mystical frenzy, within a series on mystical happiness or beatitude that Farmer traces back to thesis 2.12 (farmer1998:24916); the thesis itself pairs the Chaldean/Zoroastrian aphorism with the Cabalistic saying about 'double wine' as mutually illuminating (farmer1998:24842).",
+ "historiography": "Corazzol discusses the thesis in the context of the risk of idolatry in worship of the tenth sefirah, quoting the Latin in full (corazzol2019:496). Busi's edition gives an Italian translation, numbers it as the 107th of Pico's conclusions in his own scheme, and cross-references it to theses 5>3, 10>4 and 10>15 (busi2014:20272; busi2014:23351; busi2014:25204). Wirszubski counts this among 'five theses which, in one way or another, concern Kabbala' among the Zoroastrian/Chaldean set, quoting the Latin in full (wirszubski1989:9768), and proposes, with express caution, that Pico's 'double wine' may correspond to a sefirotic distinction between the tenth sefirah's diadem, eternity and beauty on one side and an 'impure side' on the other, concluding: 'It makes sense to assume, even if it cannot be proved, that some such distinction was what Pico meant by \"dicta Cabalistarum de duplici vino\"' (wirszubski1989:9798).",
+ "connections": [
+  "8>7",
+  "8>8",
+  "10>1",
+  "11>11",
+  "11>13",
+  "11>17",
+  "28.35"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "It makes sense to assume, even if it cannot be proved, that some such distinction was what Pico meant by \"dicta Cabalistarum de duplici vino.\"",
+   "work": "wirszubski1989",
+   "line": 9798,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific identity of the 'eleventh aphorism' of the Chaldean interpreters, and of the interpreters themselves, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

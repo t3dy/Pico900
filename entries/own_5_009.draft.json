@@ -1,0 +1,28 @@
+{
+ "thesis_id": "5>9",
+ "tier": "B",
+ "latin": "Platonice loquendo de anima, dico animam uiuere cum Saturno uitam contemplatiuam, cum Ioue politicam et practicam, cum Marte irascibilem et ambitiosam, cum Venere concupiscibilem et uoluptuosam, cum Mercurio uegetalem cum stupido sensu.",
+ "latin_source": "farmer1998:22335",
+ "translation": "Speaking in the manner of Plato about the soul, I say that the soul lives, with Saturn, a contemplative life; with Jupiter, a political and practical life; with Mars, an irascible and ambitious life; with Venus, a concupiscible and voluptuous life; with Mercury, a vegetative life with a dulled sense.",
+ "translation_note": "'stupido sensu' ('with a dulled/stupefied sense') marks the lowest of the five modes of life as the merely vegetative, sense-blunted condition Pico associates with Mercury in this scheme (farmer1998:22335).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:22335",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:22335).",
+ "doctrine": "Farmer's note places this thesis in a set (5>9-12) on astrology, cautioning that 'no predictive or horoscopal astrology is involved in these conclusions,' and suggesting that elsewhere in the set the sun and moon apparently stand for the intellect and its inferior reflection located in reason (farmer1998:22372). Here each of the five planets named is matched to one mode of the soul's life (farmer1998:22335). The following theses continue the scheme: 5>10 concerns the 'soporific wand of Mercury,' 5>11 assigns the seven-year periods of a human life to the same planets in a different order, and 5>12 makes the sun and moon universal causes cooperating with the planetary lives (farmer1998:22341; farmer1998:22344; farmer1998:22349). Thesis 22.4, among the historical theses on Porphyry, is cross-referenced by Farmer as bearing on the same theme: every soul participating in Vulcanian intellect is sown into the moon (farmer1998:15448).",
+ "historiography": "Busi's edition gives an Italian translation and cross-references the thesis repeatedly to Pico's own Commento (busi2014:11838; busi2014:12510; busi2014:13526; busi2014:21047; busi2014:26616). Vanden Broecke's chapter on Pico, Louvain and the crisis of Renaissance astrology links theses 5>9-12 to the historical theses on individual intellects and celestial ensoulment at 22.4-8, within a broader account of how Pico's astrological enterprise 'baffled' his Florentine contemporaries in his final months (txt_medieval_and_early_modern_science_:1446).",
+ "connections": [
+  "22.4",
+  "5>10",
+  "5>11",
+  "5>12"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [],
+ "not_established": [
+  "Whether Pico drew this fivefold planet-to-soul-mode scheme from a specific Platonic or Neoplatonic source, as opposed to composing it himself 'in the manner of Plato,' is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

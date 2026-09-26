@@ -1,0 +1,56 @@
+{
+ "thesis_id": "2.24",
+ "tier": "B",
+ "latin": "Subiectum et propria passio realiter distinguuntur.",
+ "latin_source": "farmer1998:11650",
+ "translation": "A subject and its proper attribute are really distinct.",
+ "translation_note": "'propria passio' is a scholastic technical term for a property that, while not part of a thing's essential definition, belongs to it inseparably and exists only in that subject (the standard example being 'snubness' in a nose), per Farmer's note (farmer1998:11682).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:11650",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11650).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Commentaria in octo libros Physicorum Aristotelis, Book 7, Lect. 5",
+   "locator": "edelheit2022:11635",
+   "pico_relation": "Edelheit locates the thesis's doctrine here, in Thomas's discussion of a secondary kind of change (alteration)"
+  },
+  {
+   "text": "Thomas Aquinas, Summa theologiae I, q. 11, a. 1: 'unum enim nihil aliud significat quam ens indivisum'",
+   "locator": "edelheit2022:11662",
+   "pico_relation": "further Thomistic parallel Edelheit quotes alongside the thesis, on 'one' adding only the negation of division to being"
+  }
+ ],
+ "doctrine": "The thesis states that a subject and its proper attribute are distinguished in reality, not merely in thought (farmer1998:11650). Edelheit finds it in Thomas's commentary on Aristotle's Physics, Book 7, Lect. 5, in a discussion of secondary change (edelheit2022:11635), and links it to Thomas's Summa theologiae I, q. 11, a. 1, where 'unum' is said to add to being only the negation of division (edelheit2022:11662). Farmer's note states that the thesis begins a complex series on the substance/accident distinction, and that on metaphysical grounds Pico elsewhere rejected all distinctions between 'separable' and 'inseparable' accidents (farmer1998:11682).",
+ "context": "Edelheit finds an analogy in William of Ockham linking theses 23 and 24: Ockham holds that 'being' and 'one' relate to each other just as, generally, 'quality' (passio) relates to 'subject' (subiectum). Edelheit suggests Pico may have had this analogy in mind while composing theses 23-24, but leaves the question open: 'One can only wonder whether Pico had this analogy of William at the back of his mind while working of [sic] theses 23 and 24' (edelheit2022:11733; edelheit2022:11739).",
+ "reception": null,
+ "historiography": "Edelheit is the only scholar in the sources consulted to discuss this thesis; he treats it as part of a network of theses (23-25, 27) on the being/one and substance/accident problems drawn from Thomas and, possibly, Ockham (edelheit2022:11733; edelheit2022:11870).",
+ "connections": [
+  "2.29",
+  "2.35",
+  "2.36",
+  "2>49",
+  "2>50",
+  "2>51",
+  "2>78",
+  "7.37",
+  "7.7",
+  "9.8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "One can only wonder whether Pico had this analogy of William at the back of his mind while working of [sic] theses 23 and 24.",
+   "work": "edelheit2022",
+   "line": 11739,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico in fact drew on Ockham for this thesis, as opposed to Thomas alone: Edelheit leaves this an open question (edelheit2022:11739).",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

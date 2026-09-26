@@ -1,0 +1,39 @@
+{
+ "thesis_id": "3>7",
+ "tier": "B",
+ "latin": "Sicut deus est simpliciter cognitio totius esse, ita intellectus est diffinitio",
+ "latin_source": "farmer1998:20341",
+ "latin_note": "Farmer's transcription appears to break off mid-sentence at 'diffinitio'. A German-language secondary source quotes the conclusio in full from the 1486 print (its own pagination, S. 400): 'Sicut deus est simpliciter cognitio totius esse, ita intellectus est diffinitio totius esse, et anima scientia totius esse' (kabbalah_paradigma:1654). This continuation is recorded here as reported by that source, not independently confirmed against Farmer's own page.",
+ "translation": "Just as God is simply the cognition of the whole of being, so intellect is the definition [of the whole of being, and soul the knowledge of the whole of being].",
+ "translation_note": "The bracketed continuation follows the fuller Latin quoted at kabbalah_paradigma:1654 (see latin_note); translated literally, 'diffinitio' as 'definition' and 'scientia' as 'knowledge', preserving Pico's triad of cognitio/diffinitio/scientia across God, intellect, and soul.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:20341",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20341).",
+ "doctrine": "Farmer's note treats this thesis as part of a run (3>2-7) illustrating that logical and linguistic distinctions belong properly, but only, to the inferior levels of cognition and reality; he uses the run to argue that labels such as 'realist' or 'nominalist' are inadequate to premodern hierarchical systems, since apparently nominalist theses (3>2-7, 2>2-3) and apparently realist ones (2>80, 5>26, 5>53) can both be found at different levels of the same system (farmer1998:20360). The study Erkenntnistheorie und christliche Kabbalah cites this conclusio, alongside 26.4, 2>5-6, and 10>26, as part of Pico's 'unfolding of knowledge' (Entfaltung der Erkenntnis) and specifically as his statement 'on the definition' (zur Definition) (kabbalah_paradigma:1653).",
+ "context": "The same source pairs this thesis with 3>40 (kabbalah_paradigma:1693) and, separately, with 3>36 ('just as the intellect of God multiplies unity, so the soul of the intellect quantifies and extends multitude'), in a discussion that goes on to read the sefirot themselves, following Massetani, as God's communicated and conceived unity beyond his absolute unity (kabbalah_paradigma:1710).",
+ "reception": null,
+ "historiography": "The German-language study Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola, whose author is not identified in the material consulted, treats 3>7 as a key statement in Pico's epistemology and links it to the Kabbalistic material elsewhere in the Conclusions (kabbalah_paradigma:1653, 1693, 1710).",
+ "connections": [
+  "2>2",
+  "2>3",
+  "2>80",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "5>26",
+  "5>53",
+  "3>40",
+  "3>36"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The author of the work cited as kabbalah_paradigma is not confirmed from the material consulted (its own record notes 'author to be confirmed from front matter').",
+  "Whether Farmer's copy-text of this thesis is genuinely truncated, or the packet excerpt alone is incomplete, is not established without collating Farmer's own page.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

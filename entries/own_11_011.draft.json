@@ -1,0 +1,52 @@
+{
+ "thesis_id": "11>11",
+ "tier": "A",
+ "latin": "Modus quo rationales animae per archangelum deo sacrificantur, qui a Cabalistis non exprimitur, non est nisi per separationem animae a corpore, non corporis ab anima nisi per accidens, ut contingit in morte osculi, de quo scribitur: praeciosa in conspectu domini mors sanctorum eius.",
+ "latin_source": "farmer1998:26598",
+ "translation": "The manner in which rational souls are sacrificed to God through the archangel — which is not expressed by the Kabbalists — is nothing other than through the separation of the soul from the body, not of the body from the soul, except accidentally, as happens in the death of the kiss, of which it is written: 'Precious in the sight of the Lord is the death of his saints.'",
+ "translation_note": "The closing clause quotes Psalm 116:15 (Vulgate Psalm 115:15), per Farmer's note (farmer1998:26676). 'Death of the kiss' (mors osculi) is a kabbalistic and rabbinic figure for a death that is a mystical union rather than a punishment; Farmer cross-refers it to his note at thesis 8>7 (farmer1998:26676).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:26598",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26598).",
+ "sources": [
+  {
+   "text": "Pico's own thesis 28.1 (Hebrew Cabalists): 'Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationalium, ita Michael sacerdos superior sacrificat animas animalium rationalium' ('as man, the lower priest, sacrifices to God the souls of irrational animals, so Michael, the higher priest, sacrifices the souls of rational animals')",
+   "locator": "farmer1998:17532",
+   "pico_relation": "Farmer's cross-reference identifies this as the source of the thesis's doctrine of the archangel (Michael) as 'higher priest'"
+  }
+ ],
+ "doctrine": "The thesis holds that the manner in which rational souls are sacrificed to God through the archangel — a manner the Kabbalists do not themselves state — can only be the separation of the soul from the body, and not, except accidentally, the separation of the body from the soul, as occurs in the 'death of the kiss' of which Psalm 116:15 speaks (farmer1998:26598). Farmer's note glosses 'death of the kiss' by cross-reference to his note on thesis 8>7 and identifies the psalm citation (farmer1998:26676). Novak, quoting the thesis among Pico's kabbalistic conclusiones secundum opinionem propriam, records it in a slightly variant orthography ('racionabiles anime', 'contigit' for 'contingit'), without further analysis in the excerpt available (novak1982:874).",
+ "context": "Farmer's cross-reference network places the thesis alongside 28.1, which identifies the archangel Michael as the 'higher priest' who sacrifices the souls of rational beings, as man, the 'lower priest', sacrifices the souls of irrational animals (farmer1998:17532), and alongside 8>7, which states that what interpreters say about the fourteenth aphorism [of the Chaldean Oracles] is perfectly understood through what the Kabbalists say about the death of the kiss (farmer1998:24847). It is further linked in Farmer's network to a run of theses on magic and pure versus admixed Kabbalistic practice (9>14, 9>16, 9>17, 9>18, 9>26, 11>12, 11>13) and to the Orphic-hymn thesis 10>14, on binding by intellectual versus 'worldly' operation (farmer1998:25283; farmer1998:25354; farmer1998:25358; farmer1998:25362; farmer1998:25480; farmer1998:26604; farmer1998:26608; farmer1998:25887).",
+ "reception": null,
+ "historiography": "Wirszubski quotes the thesis as, so far as he is aware, the only occurrence of its idea in Pico's Kabbalistic sources: '…am aware, in Pico's Kabbalistic sources, appears in his eleventh Kabbalistic thesis secundum opinionem propriam' (wirszubski1989:8079; the sentence's opening words are cut off in the excerpt available). A German-language study on Pico's Kabbalah connects the thesis's figure of the 'death of the kiss' to the theme of union with the world of the sefirot or intelligences, citing this thesis alongside 8>7 and reporting agreement on that point with the scholars Greive and Wirszubski (kabbalah_paradigma:1871). Busi and Ebgi's edition and Novak's study both quote the Latin without extended independent comment in the excerpts available (busi2014:24461; novak1982:874).",
+ "connections": [
+  "28.1",
+  "8>7",
+  "9>14",
+  "9>16",
+  "9>17",
+  "9>18",
+  "9>26",
+  "11>12",
+  "11>13",
+  "10>14"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "…am aware, in Pico's Kabbalistic sources, appears in his eleventh Kabbalistic thesis secundum opinionem propriam.",
+   "work": "wirszubski1989",
+   "line": 8079,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The words preceding 'am aware' in Wirszubski's sentence at wirszubski1989:8079 are cut off in the excerpt available, so the full claim cannot be verified.",
+  "The specific source Pico draws on for the phrase 'death of the kiss' itself, beyond his own cross-reference to 8>7: not established by the sources consulted.",
+  "Any commission or Apologia reception of this thesis: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

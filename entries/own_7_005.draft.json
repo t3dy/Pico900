@@ -1,0 +1,49 @@
+{
+ "thesis_id": "7>5",
+ "tier": "A",
+ "latin": "Sicut dictum Aristotelis de antiquis, dicentis quod ideo errarunt in physica contemplatione, quia mathematice_res physicas tractarunt, uerum esset si illi materialiter mathematica non formaliter accepissent, ita est uerissimum modernos, qui de naturalibus mathematice disputant, naturalis philosophiae fundamenta destruere.",
+ "latin_source": "farmer1998:23628",
+ "translation": "Just as Aristotle's remark about the ancients — that they erred in physical inquiry because they treated physical things mathematically — would be true if they had taken mathematical things materially and not formally, so it is entirely true that the moderns, who dispute about natural things mathematically, destroy the foundations of natural philosophy.",
+ "translation_note": "'materialiter' and 'formaliter' invoke the scholastic distinction between taking a mathematical object as embodied in matter versus taking it in abstraction from matter; Farmer's note refers the reader to his own note 729 on this distinction, which lies outside the material available here (farmer1998:23698).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:23628",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:23628).",
+ "doctrine": "Farmer situates theses 7>1-5 as directed against the fourteenth-century calculatores — he names Bradwardine, Swineshead, 'Bundan' (Buridan) and Oresme — who applied mathematics to problems Aristotelian physics had traditionally treated qualitatively (farmer1998:23698). Edelheit reads the thesis as arguing, against unnamed 'moderns' such as the Parisian commentator Versor, that discussing natural philosophy mathematically 'destroy[s] the foundations of natural philosophy', a criterion by which Versor himself, keeping the traditional threefold division of speculative philosophy, would count as an 'ancient' rather than a 'modern' (edelheit2022:4411). Elsewhere Edelheit states that Pico is 'explicitly arguing against the ‘moderns’ and their use of mathematics in discussions of natural philosophy, which, according to Pico, ‘destroys the foundations of natural philosophy’, in his fifth thesis (among eighty five) ‘on mathematics according to his own opinion’' (edelheit2022:17740).",
+ "context": "Farmer judges that the traditional claim crediting Renaissance Platonism with promoting the mathematical physics of the later Scientific Revolution finds little support in these theses, and singles out 7>5 as an especially clear case (farmer1998:23698). An unidentified set of notes on Pico's sources for self-knowledge and illumination observes that Pico owned a Greek manuscript of Proclus's Commentary on the Elements of Euclid, and argues from this that Pico 'specifically referred to Euclidean mathematics as practised by the moderni, whom he overtly criticizes in the immediately preceding conclusion' (selfknowledge_notes:1241), adding that 'Farmer identifies these “Moderns” with the Oxford Calculators of the 14th Century' (selfknowledge_notes:1241).",
+ "historiography": "Mandosio cites the thesis, in its Farmer 1998 pagination, alongside a comparandum from John Dee's mathematical writing, without further discursive claim about Pico reproduced in the material consulted (mandosio2012:466). Edelheit's two discussions (edelheit2022:4411, 17740) and the unidentified notes on Pico's sources (selfknowledge_notes:1241) are the only sustained readings of the thesis in the material available; none records a dissent from Farmer's identification of the 'moderns' as the Oxford Calculators.",
+ "connections": [
+  "7>1",
+  "7>2",
+  "7>3",
+  "7>4"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Aristotle says distinguishing natural philosophy and mathematics is characteristic of the ‘ancients’, as opposed to the ‘moderns’, who discussed natural philosophy mathematically (qui de naturalibus mathematice disputant), destroying the foundations of natural philosophy",
+   "work": "edelheit2022",
+   "line": 4411,
+   "verbatim": true
+  },
+  {
+   "text": "explicitly arguing against the ‘moderns’ and their use of mathematics in discussions of natural philosophy, which, according to Pico, ‘destroys the foundations of natural philosophy’, in his fifth thesis (among eighty five) ‘on mathematics according to his own opinion’",
+   "work": "edelheit2022",
+   "line": 17740,
+   "verbatim": true
+  },
+  {
+   "text": "since Pico owned a Greek manuscript of Proclus’ Commentary on the Elements of Euclid (Kibre 1966: 184, no. 489), it is rather likely that he specifically referred to Euclidean mathematics as practised by the moderni, whom he overtly criticizes in the immediately preceding conclusion",
+   "work": "selfknowledge_notes",
+   "line": 1241,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Farmer's note 729 on 'materially'/'formally', to which he refers the reader, is not available in the material consulted (farmer1998:23698).",
+  "Beyond citing the Latin as a comparandum, what specific argument Mandosio builds from the thesis in relation to John Dee is not established by the sources consulted (mandosio2012:466).",
+  "The authorship and publication details of the 'Self-Knowledge, Illumination and Natural' notes are not established beyond the registry's own record ('(unidentified)')."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

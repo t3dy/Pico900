@@ -1,0 +1,64 @@
+{
+ "thesis_id": "9>18",
+ "tier": "A",
+ "latin": "Illius natura quae est orizon aeternitatis temporalisest mago proxima, sed super eum, et ei propria est cabala.",
+ "latin_source": "farmer1998:25362",
+ "latin_note": "Farmer's transcription joins 'temporalis' and 'est' without a space ('temporalisest'), an evident OCR artifact. Wirszubski's 1989 quotation of the same conclusio reads 'ei proxima est Cabala' at the close, against Farmer's (and Busi's, Howlett's, and Mandosio's) 'ei propria est cabala' (wirszubski1989:9920); Mandosio, citing his own edition of Wirszubski (2007), states that he 'suggested the printed text of conclusion 18 be corrected' with respect to 'illius natura' (mandosio2012:560). The reading followed here is Farmer's 'propria'.",
+ "translation": "That nature which is the horizon of temporal eternity is proximate to the magus, but above him, and to it Cabala is proper.",
+ "translation_note": "'orizon' (horizon) names a threshold between ontological levels in this short series of theses (9>16-18); the three cognate phrases in the series — 'orizon temporis aeternalis' (9>16), 'orizon temporis et aeternitatis' (9>17, per Mandosio's quotation), and 'orizon aeternitatis temporalis' (9>18, this thesis) — are read by Farmer as apparent references, respectively, to the corporeal, rational, and intellectual natures (farmer1998:25393); 'propria' rendered 'proper [to]', i.e. belonging distinctively to Cabala rather than to magic.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:25362",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25362).",
+ "sources": [
+  {
+   "text": "The paired conclusion 9>16, assigning the 'horizon of eternal time' to a level below the magus",
+   "locator": "farmer1998:25354",
+   "pico_relation": "9>16 and 9>18 together rank two horizon-natures relative to the magus, one below him and one above but still proximate"
+  },
+  {
+   "text": "9>14, associating magic with the rational part of the soul, and 11>12, associating 'pure Cabala' with the intellectual part of the soul",
+   "locator": "farmer1998:25393",
+   "pico_relation": "Farmer directs comparison of these theses for the same corporeal/rational/intellectual scheme underlying 9>16-18"
+  }
+ ],
+ "doctrine": "This is the last of a three-thesis run (9>16-18) ranking natures, described as 'horizons' (orizon), between eternity and time, and specifying which of two arts — natural magic and Cabala — is proper to each. Farmer's note reads the three phrases as referring, in turn, to the corporeal, rational, and intellectual natures, and explicitly rejects an alternative reading: 'Wirszubski's view [1989: 194] that all three refer to the same durational state is clearly mistaken' (farmer1998:25393). On this reading, the nature that is the 'horizon of temporal eternity' stands above the magus but has Cabala, not magic, as what is 'proper' to it (farmer1998:25393). Farmer cross-references 9>14 (associating magic with the rational soul) and 11>12 (associating 'pure Cabala' with the intellectual soul) as the wider basis for the scheme (farmer1998:25393).",
+ "context": "The thesis belongs to Pico's Conclusiones magicae 'secundum opinionem propriam', in which he ranks natural magic and Cabala by the ontological level of nature each properly serves. It sits between 9>16, which places 'the horizon of eternal time... proximate to the magus, but below him' (per Farmer's cross-reference text, farmer1998:25354), and the following theses 9>19-21, which argue that words and voces are efficacious in magical operation 'because that in which nature first exercises magic is the voice of God' (farmer1998 crossref text at farmer1998:25366).",
+ "reception": "This thesis is not among the thirteen theses censured by the 1487 commission (data/inventory/condemned_thirteen.json; research-packets/INDEX.md records no condemned flag for 9>18); no commission verdict on it specifically is established by the sources consulted.",
+ "historiography": "Four independent studies quote or discuss this conclusio. Busi and Ebgi (2014) print the Latin from the Conclusiones (p. 502) and remark that 'the relationship between magic and qabbalah in Pico's thought is, in reality, a complex matter still little studied' (my translation of 'materia complessa e ancora poco studiata', busi2014:10207). Howlett (2021) quotes the identical Latin from Farmer's edition (pp. 500-501) (howlett2021:6202). Wirszubski (1989) quotes the conclusio as his 'Conclusio xviii', with the variant reading 'proxima' at the close, and offers an interpretation of what 'orizon aeternitatis temporalis' designates (wirszubski1989:9920) that Farmer's edition explicitly calls 'clearly mistaken' (farmer1998:25393). Mandosio (2012), citing his own earlier commentary in his edition of Wirszubski (2007), states outright that '[Wirszubski] wrongly interpreted these conclusions', citing Wirszubski (1989), p. 194, and Farmer's annotation ad loc. (mandosio2012:560); Mandosio further reports having 'suggested the printed text of conclusion 18 be corrected' with respect to 'illius natura' (mandosio2012:560). The three-way disagreement — Wirszubski's reading of the horizon-terms as a single durational state, against Farmer's and Mandosio's shared rejection of that reading — remains, on the material consulted, the central interpretive dispute over this thesis.",
+ "connections": [
+  "9>14",
+  "9>16",
+  "9>19",
+  "9>20",
+  "9>21",
+  "11>12"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Wirszubski wrongly interpreted these conclusions",
+   "work": "mandosio2012",
+   "line": 560,
+   "verbatim": true
+  },
+  {
+   "text": "Wirszubski's view [1989: 194] that all three refer to the same durational state is clearly mistaken.",
+   "work": "farmer1998",
+   "line": 25393,
+   "verbatim": true
+  },
+  {
+   "text": "Conclusio xviii: Illius natura quae est Orizon aeternitatis temporalis est Mago proxima, sed super eum et ei proxima est Cabala.",
+   "work": "wirszubski1989",
+   "line": 9920,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The full text of Wirszubski's 1989 interpretation (beyond the quoted conclusio and Farmer's/Mandosio's rejections of it) is not given in the material consulted.",
+  "Whether the commission or Pico's Apologia addressed this thesis specifically is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

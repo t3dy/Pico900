@@ -1,0 +1,48 @@
+{
+ "thesis_id": "2.20",
+ "tier": "B",
+ "latin": "Non potest per dei potentiam idem corpus esse simul in diuersis locis.",
+ "latin_source": "farmer1998:11540",
+ "translation": "It is not possible, even by the power of God, for the same body to be at once in different places.",
+ "translation_note": "None beyond standard scholastic vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:11540",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11540).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Quaestiones quodlibetales 3, q. 1, a. 2",
+   "locator": "edelheit2022:11307",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's argument behind the thesis"
+  }
+ ],
+ "doctrine": "The thesis denies that God's power could place the same body simultaneously in different places (farmer1998:11540). Edelheit finds this in Thomas's Quaestiones quodlibetales 3, q. 1, a. 2, where Thomas argues that a body's being locally in a place is nothing other than the body's being enclosed and included in that place according to a commensuration of dimension to place (edelheit2022:11307; edelheit2022:11325). Farmer's note connects the thesis to the limits of God's power discussed at his note on 2.10, and observes that in his Sentences commentary, book 4, distinction 10, question unica, article 1, Thomas ties this proposition to the view upheld at thesis 2.14 (farmer1998:11620).",
+ "context": "Edelheit reports that this thesis, together with theses 40 and 43, is among those criticized by the Florentine physician and philosopher Bernardo Torni (edelheit2022:12649; edelheit2022:12897). He states that Torni traced the thesis, correctly, to Thomas's 'Quodlibet 3, q. 1, a. 2': 'The first thesis at stake confronts the notion of the power of God with the problems of the possibility or impossibility that the same body will be at one and the same time in different places' (edelheit2022:17322).",
+ "reception": "The thesis was one of those Bernardo Torni criticized, according to Edelheit, though the content of Torni's criticism itself is not given in the excerpts available here (edelheit2022:12649; edelheit2022:17322).",
+ "historiography": "Edelheit is the only scholar in the sources consulted to discuss this thesis; he treats Torni's tracing of it to Thomas's Quodlibet as accurate, and situates the thesis within a small group (20, 40, 43) that Torni singled out for criticism (edelheit2022:12649; edelheit2022:12897; edelheit2022:17322).",
+ "connections": [
+  "11>67",
+  "14.1",
+  "2.10",
+  "2.21",
+  "2.26",
+  "2>44",
+  "2>68",
+  "8.3"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The first thesis at stake confronts the notion of the power of God with the problems of the possibility or impossibility that the same body will be at one and the same time in different places",
+   "work": "edelheit2022",
+   "line": 17322,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific content of Bernardo Torni's criticism of this thesis, beyond Edelheit's statement that Torni traced it (correctly) to Thomas's Quodlibet: not established by the sources consulted.",
+  "Any commission or Apologia reception distinct from Torni's criticism: not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

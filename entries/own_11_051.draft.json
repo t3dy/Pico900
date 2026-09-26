@@ -1,0 +1,36 @@
+{
+ "thesis_id": "11>51",
+ "tier": "A",
+ "latin": "Sicut fuit luna plena in Salomone, ita fuit plenus Sol in uero Messia qui fuit Iesus. Et de conrespondentia ad diminutionem / in sedecia potest quis coniectare, si profundat in cabala.",
+ "latin_source": "farmer1998:27445",
+ "latin_note": "The '/' marks a line break in Farmer's text, at the 1486 folio break <33v/34r> (farmer1998:27445). 'conrespondentia' (for 'correspondentia') and 'sedecia' (for Zedekiah) are Pico's spellings, kept as printed (farmer1998:27445).",
+ "translation": "Just as the moon was full in Solomon, so the sun was full in the true Messiah, who was Jesus. And one may conjecture about the corresponding waning in Zedekiah, if he goes deep into the Kabbalah.",
+ "translation_note": "'sedecia' is Zedekiah, the last king of Judah under whom Jerusalem fell to Babylon; Farmer's note explains the thesis's 'diminished correspondence' with Christ by reference to 2 Kings (Vulgate 4 Kings) 24:18ff (farmer1998:27506).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:27445",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27445).",
+ "sources": [
+  {
+   "text": "Pico's own thesis 11>48, correlating the ten sefirot with the planets (Jupiter to the fourth sefirah, Mars to the fifth, the sun to the sixth, Saturn to the seventh, Venus to the eighth, Mercury to the ninth...)",
+   "locator": "farmer1998:27423",
+   "pico_relation": "Farmer correlates 11>51 with 11>48 to associate Jesus, called 'sun' here, with the sixth sefirah, elsewhere called by Pico the 'great Adam'"
+  }
+ ],
+ "doctrine": "The thesis proposes an astrological-kabbalistic correspondence: as the moon was full when Solomon reigned, so the sun was full in Jesus as the true Messiah, and a corresponding, diminished waning can be conjectured in Zedekiah by one who goes deep into the Kabbalah (farmer1998:27445). Farmer's note identifies Zedekiah as the king of Judah under whom the kingdom fell to Babylon, which accounts for his 'diminished correspondence' with Christ, citing 2 Kings 24:18ff (farmer1998:27506). Correlating the thesis with 11>48, where Pico assigns the sun to the sixth sefirah, Farmer further associates Jesus as 'sun' here with that sefirah, elsewhere called by Pico the 'great Adam' (farmer1998:27506; farmer1998:27423).",
+ "context": "Akopyan situates the thesis within a run of conclusions in which Pico draws astrological correspondences around the life and death of Christ, citing in his own notes the neighbouring thesis on the solar eclipse at Christ's death, said to be knowable 'according to the foundations of the Kabbalah' (akopyan2018:687; akopyan2021:1401). He also cites the thesis together with 11>18, on astrology and the Kabbalah confirming that the Lord's day is more fitting for rest than the Sabbath, as part of the same run of Cabalistic-astrological conclusions (akopyan2021:3244).",
+ "reception": null,
+ "historiography": "Busi and Ebgi's edition prints the thesis as number 94 in their sequence, directly following the eclipse thesis they number 93 (busi2014:25057). Dougherty's anthology quotes the thesis in English translation without further comment in the excerpt available here (dougherty2008:7906). A German-language study on Pico's Kabbalah cites the thesis by Farmer's number alongside 11>54, on the beatification of the saints in the 'shining mirror', without extended discussion in the excerpt available (kabbalah_paradigma:1888).",
+ "connections": [
+  "11>48"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether 'plenus Sol' and 'luna plena' point to a specific astronomical or astrological configuration (e.g. an eclipse or conjunction) rather than a general figure of fullness: not established by the sources consulted.",
+  "The content of kabbalah_paradigma's discussion connecting 11>51 to 11>54, beyond the bare citation at kabbalah_paradigma:1888.",
+  "Any commission or Apologia reception of this thesis: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,27 @@
+{
+ "thesis_id": "5>19",
+ "tier": "A",
+ "latin": "Possibile est ut pars rationalis animae nostrae, quam secundum peripateticos possibilem intellectum uoco, ad hoc perueniat, ut sine coniunctione ad phantasmata discurrat et operetur.",
+ "latin_source": "farmer1998:22458",
+ "translation": "It is possible for the rational part of our soul, which I call, following the Peripatetics, the possible intellect, to reach the point where it reasons and acts without conjunction to phantasms.",
+ "translation_note": "'possibilem intellectum' is the Peripatetic (Aristotelian/Averroist) 'possible' or receptive intellect, capable in principle of becoming all things; 'phantasmata' are the sense-derived mental images that, on the standard Aristotelian account, the intellect must turn to in order to think. 'coniunctio' ('conjunction') is the technical term for the intellect's dependence on, or union with, such images; the thesis claims the rational soul can reach a state of thinking without that dependence.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:22458",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:22458).",
+ "doctrine": "Farmer's note ties the thesis to Proclus, In Timaeum 2 (cf. Taylor's translation, 1:207-8), and calls it \"pertinent to Pico's syncretic fusion of the Platonic and Aristotelian theories of knowledge\" (farmer1998:22531). Farmer cross-refers it to thesis 1.6 (Albert the Great), which holds that the separated soul understands through species concreated with it from the beginning of its existence, species it uses rarely or never while still in the body (farmer1998:11040) — a parallel claim that the rational soul can operate independently of what it draws from the body and the senses.",
+ "reception": null,
+ "historiography": "Dougherty's volume cites thesis 5>19 in a footnote alongside 1.6 as instances of Pico's claim that the possible intellect can operate without turning to phantasms, referring the reader to Farmer's commentary at pp. 102-5 (dougherty2008:9528). An unsigned German study, *Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola* (author not identified in the material opened), lists 5>19 among the few theses drawn on for Pico's doctrine of Plato, noting that the bulk of Plato's doctrine is instead claimed for discussion by the first paradoxical conclusion (kabbalah_paradigma:1326). Mandosio cites 5>19 together with 1.6 and thesis 31 (\"Non dari species intelligibiles a phantasmatibus abstractas\") as evidence for Pico's position on intelligible species, referring likewise to Farmer's commentary at pp. 102-105 (mandosio2012:309).",
+ "connections": [
+  "1.6",
+  "5>20"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Any commentary connecting this thesis specifically to the papal commission or to Pico's later works: not established by the sources consulted.",
+  "The authorship of the unsigned German study cited above (kabbalah_paradigma): not established from the material opened.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

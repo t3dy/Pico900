@@ -1,0 +1,40 @@
+{
+ "thesis_id": "28.10",
+ "tier": "B",
+ "latin": "Rectius dicitur quod paradisus sit totum aedificium quam quod sit decima, et in medio eius est collocatus magnus Adam, qui est Tipheret.",
+ "latin_source": "farmer1998:17728",
+ "translation": "It is more correctly said that paradise is the whole edifice than that it is the tenth [sefirah], and in its midst is placed the great Adam, who is Tiferet.",
+ "translation_note": "'decima' refers to the tenth of the ten sefirot; 'Tipheret' (Tiferet, 'Beauty'/'Glory') is the sixth sefirah, glossed by Wirszubski: \"Adam means homo, and Tiferet (Glory or Beauty) is the sixth sefirah\" (wirszubski1989:9702).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:17728",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17728).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, Commentary on the Torah, fols. 17va-18ra",
+   "locator": "wirszubski1989:1720",
+   "pico_relation": "cited by Wirszubski as a parallel passage for the thesis's sefirotic doctrine"
+  }
+ ],
+ "doctrine": "Farmer glosses 'paradise'/'the whole edifice' as referring to the entire sefirotic system, and 'Tiferet' as the sixth sefirah, described in one of several medieval schemes as the 'middle' sefirah (farmer1998:17752). Wirszubski's summary gloss states plainly that \"Adam means homo, and Tiferet (Glory or Beauty) is the sixth sefirah\" (wirszubski1989:9702).",
+ "context": "The thesis is the tenth of Pico's conclusions reporting the secret doctrine of the wise Hebrew Cabalists, and Wirszubski cross-references it to Menahem Recanati's commentary, folios 17va-18ra (wirszubski1989:1720).",
+ "reception": null,
+ "historiography": "Busi's edition transcribes the thesis among the conclusions grouped under 'Paradisus, Empyreum' (busi2014:24874). Wirszubski identifies the thesis as the tenth conclusio of the Hebrew Cabalists' series and supplies Recanati as its parallel source (wirszubski1989:1717; wirszubski1989:1720).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Adam means homo, and Tiferet (Glory or Beauty) is the sixth sefirah.",
+   "work": "wirszubski1989",
+   "line": 9702,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The full content of Farmer's adapted Scholem 1974 scheme for the sefirotic 'middle' referenced at farmer1998:17752 beyond the summary given there.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

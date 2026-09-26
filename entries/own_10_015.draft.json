@@ -1,0 +1,39 @@
+{
+ "thesis_id": "10>15",
+ "tier": "A",
+ "latin": "Idem est nox apud Orpheum_et ensoph in Cabala.",
+ "latin_source": "farmer1998:25892",
+ "translation": "Night in Orpheus is the same thing as the Ein Sof in the Cabala.",
+ "translation_note": "'nox' = Night, the Orphic theogonic principle; 'ensoph' = Ein Sof, the Kabbalistic term for God's infinite, hidden aspect (cf. thesis 11>4 in this batch).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:25892",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25892).",
+ "doctrine": "Thesis 10>15 identifies the Orphic 'Night' with the Kabbalistic Ein Sof (farmer1998:25892). Farmer's note glosses 'Ein-Sof' as 'God's transcendent nature in the Kabbalah, source of his manifested nature in the sefirot', and observes that in his commentary on the Timaeus 'Proclus places \"night\" below the pinnacle of his \"intelligible trinity\"', which he takes as 'presumably explaining Pico's disagreement with him here' (paraphrase; farmer1998:25929).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 10>16, on Proclus's exposition of the world-maker consulting Night (farmer1998:25895); to 11>4 on the Ein Sof not being counted among the other numerations (farmer1998:26396); to 11>35-36 (farmer1998:27129, 27137); and to 5>9, on the soul's Platonic correspondences to the planets (farmer1998:22335).",
+ "reception": "Busi and Ebgi's edition prints the thesis immediately alongside its neighbor 10>16 on Proclus (busi2014:24760). A German study of Pico's kabbalistic paradigm notes the thesis together with 11>5, 11>35 and 11>36, and points to Wirszubski's discussion at pp. 235-238 (paraphrase; kabbalah_paradigma:1504). Howlett quotes the Latin of the thesis directly in her account of Pico's Kabbalah (howlett2021:6267).",
+ "historiography": "Wirszubski quotes the thesis as his 'Conclusio xv' in the course of arguing: \"What I have in mind is the fact that sefirot and Hebrew names of God are sometimes involved in the magic that Pico discovered in the Orphic\" [hymns] (wirszubski1989:10003).",
+ "connections": [
+  "10>16",
+  "11>4",
+  "11>35",
+  "11>36",
+  "5>9"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "What I have in mind is the fact that sefirot and Hebrew names of God are sometimes involved in the magic that Pico discovered in the Orphic",
+   "work": "wirszubski1989",
+   "line": 10003,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise nature of Pico's disagreement with Proclus over the rank of Night is Farmer's own inference ('presumably'), not further substantiated in the sources consulted.",
+  "Which Orphic hymn's imagery of Night Pico specifically had in mind is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

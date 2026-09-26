@@ -1,0 +1,55 @@
+{
+ "thesis_id": "5.13",
+ "tier": "B",
+ "latin": "Relatio non distinguitur a fundamento realiter.",
+ "latin_source": "farmer1998:12617",
+ "translation": "A relation is not really distinguished from its foundation.",
+ "translation_note": "'relatio'/'fundamentum' are scholastic technical terms in the theory of relation: the 'foundation' is the real accident (e.g. a quality or quantity) in virtue of which a subject stands related to another. The thesis denies that a relation is really (as opposed to only formally or conceptually) distinct from that underlying accident.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:12617",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12617).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet III, q. 4",
+   "locator": "edelheit2022:15731",
+   "pico_relation": "identified by Edelheit as containing expressions close to theses 11 and 13, on relations in created beings being founded on an accident"
+  }
+ ],
+ "doctrine": "Thesis 5.13 asserts that a relation is not really distinct from its foundation (farmer1998:12617). Farmer treats theses 5.11-13 as one series continuing from 4.16-17 of Scotus (paraphrase; farmer1998:12655). Edelheit summarizes: \"in thesis 13 we find that relation is not really distinguish[able] from a foundation\" (edelheit2022:15727), and quotes the Latin directly, citing 'Pico, 900 Theses, p. 244' (edelheit2022:15749).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 4.16 of Scotus, that a creature's relation to God is really identical with, though formally distinct from, its foundation (farmer1998:12361), and to 5.11 of Henry of Ghent, that 'ratitudo' is formally a respectus (farmer1998:12610). Edelheit discusses the thesis alongside the immediately preceding thesis of the same series ('thesis 12', on the mutuality required for a real relation), quoting its Latin as well (edelheit2022:15727).",
+ "reception": "Edelheit finds a close parallel in Henry's own Quodlibet III, q. 4, stating that there 'we can find some expressions which are close to theses 11 and 13, according to which every relation in what concerns existence in created beings is founded or based on ( fundatur super) some accident' (edelheit2022:15731). He also notes a structurally similar formulation in William of Ockham's Expositio in libros physicorum Aristotelis III, 2, quoting Ockham's Latin: \"Nec Philosophus et Commentator utuntur tali modo loquendi, quia relatio non est aliqua res distincta ab illo quod vocant moderni fundamen-\" (edelheit2022:15760, the source text breaking off at a page turn), and situates the underlying idea within a modern debate, citing 'Decorte, \"Relatio as Modus Essendi\"' (edelheit2022:15760).",
+ "historiography": "Edelheit gives a cautious final assessment: \"It is difficult to determine whether Pico was fully aware of all the philosophical complexities involved here, but the thesis shows at least some familiarity with these issues\" (edelheit2022:15874).",
+ "connections": [
+  "4.16",
+  "5.11"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "It is difficult to determine whether Pico was fully aware of all the philosophical complexities involved here, but the thesis shows at least some familiarity with these issues.",
+   "work": "edelheit2022",
+   "line": 15874,
+   "verbatim": true
+  },
+  {
+   "text": "every relation in what concerns existence in created beings is founded or based on ( fundatur super) some accident",
+   "work": "edelheit2022",
+   "line": 15731,
+   "verbatim": true
+  },
+  {
+   "text": "Nec Philosophus et Commentator utuntur tali modo loquendi, quia relatio non est aliqua res distincta ab illo quod vocant moderni fundamen-",
+   "work": "edelheit2022",
+   "line": 15760,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Henry's resolution in Quodlibet III, q. 4 (or IX, q. 1 and q. 3, also cited by Edelheit at edelheit2022:15778) matches Pico's formulation precisely, or only resembles it, is not established beyond Edelheit's own qualified 'close to' language.",
+  "The Farmer thesis-id of 'thesis 12' as discussed by Edelheit (presumably 5.12, given the 5.11-13 series) is inferred, not confirmed by a direct Farmer id in the packet consulted."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

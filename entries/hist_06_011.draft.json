@@ -1,0 +1,53 @@
+{
+ "thesis_id": "6.11",
+ "tier": "B",
+ "latin": "Dato uacuo, si aliquid in eo moueatur, in instanti mouebitur.",
+ "latin_source": "farmer1998:12790",
+ "translation": "Given a vacuum, if something were moved within it, it would be moved instantaneously.",
+ "translation_note": "'dato uacuo' = 'given a vacuum', a counterfactual scenario debated in scholastic natural philosophy. 'in instanti' = 'in an instant', with zero elapsed time — the paradoxical consequence scholastics drew from the Aristotelian claim that speed is proportional to applied force and inversely proportional to resistance, so that the absence of a resisting medium implies instantaneous motion.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:12790",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12790).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Reportatio of his commentary on the Sentences, book 1, q. 6 (\"whether the movement of an angel is measured by time\")",
+   "locator": "edelheit2022:16900",
+   "pico_relation": "identified by Edelheit as discussing the vacuum-motion question underlying thesis 6.11, in an unexpectedly theological context"
+  }
+ ],
+ "doctrine": "Thesis 6.11 holds that, given a vacuum, any motion within it would occur instantaneously (farmer1998:12790). Farmer situates the thesis in a debate opposed to Aquinas, 'who claimed that if a vacuum existed a heavy body would move at a finite speed to its \"natural place\"', against Giles's Aristotelian view that velocity is proportional to force and inversely proportional to resistance, so a vacuum's lack of resistance implies instantaneous motion (paraphrase; farmer1998:12838).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 2.37 of Thomas Aquinas, that heavy and light bodies are moved only by a generating mover or one that removes an impediment (farmer1998:11780). Edelheit groups thesis 11 with the natural-philosophical theses of the Giles series (8, 9, 11), against the theological cluster of theses 1-7 (edelheit2022:15969).",
+ "reception": "Edelheit discusses the thesis's scholastic background, quoting Giles's own question-titles from his Physics commentary: \"utrum corpus in vacuo positum successive moveatur ad ubi\" (whether a body placed in a vacuum moves successively to a place) (edelheit2022:4085), and notes it is also discussed by Giles in his \"Reportatio of his commentary on the Sentences, 1, q. 6, entitled: 'whether the movement of an angel is measured by time'\" (edelheit2022:16900).",
+ "historiography": "Edelheit reports a scholarly disagreement over the thesis's Aristotelian pedigree: \"According to Caroti, this thesis is commonly held as a doctrine of Aristotle; however, he provides a citation from the Auctoritates Aristotelis which is not identical to what we have in Pico\", citing 'Caroti, \"Note sulle fonti medievali di Pico della Mirandola\", pp. 68-69' (edelheit2022:16921).",
+ "connections": [
+  "2.37"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "utrum corpus in vacuo positum successive moveatur ad ubi",
+   "work": "edelheit2022",
+   "line": 4085,
+   "verbatim": true
+  },
+  {
+   "text": "This is discussed by Giles in his Reportatio of his commentary on the Sentences, 1, q. 6, entitled: ‘whether the movement of an angel is measured by time’",
+   "work": "edelheit2022",
+   "line": 16900,
+   "verbatim": true
+  },
+  {
+   "text": "According to Caroti, this thesis is commonly held as a doctrine of Aristotle; however, he provides a citation from the Auctoritates Aristotelis which is not identical to what we have in Pico.",
+   "work": "edelheit2022",
+   "line": 16921,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The exact Auctoritates Aristotelis citation Caroti provides, and precisely how it differs from Pico's wording, is not given in the packet consulted, only referenced."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

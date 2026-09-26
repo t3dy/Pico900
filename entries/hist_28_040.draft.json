@@ -1,0 +1,32 @@
+{
+ "thesis_id": "28.40",
+ "tier": "B",
+ "latin": "Quotienscunque ignoramus proprietatem a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est.",
+ "latin_source": "farmer1998:18298",
+ "translation": "Whenever we do not know the property from which comes the influx upon the petition we ask, recourse must be had to the lord of the nose.",
+ "translation_note": "'dominum naris' ('the lord of the nose') names, in the Zohar, the fifth sefirah, one of whose alternate names was Gevurah, 'power' (farmer1998:18326). 'proprietatem' answers to the Hebrew technical term middah, as Wirszubski glosses it (wirszubski1989:7555).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:18298",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18298).",
+ "doctrine": "Farmer glosses 'lord of the nose' as a name in the Zohar for the fifth sefirah, one of whose alternate names was Gevurah, 'power' (farmer1998:18326). He treats the thesis as concerned with 'petitions' (prayer) in the Kabbalah, which for Pico included an astrological element, and cross-refers it to 11>50 (farmer1998:18326, 27439).",
+ "historiography": "Wirszubski designates the thesis 'Conclusio xl' and glosses 'proprietatem' with the Hebrew term 'middah' (wirszubski1989:7555). He states that 'the notion of prayer to the \"master of the nose\" ultimately derives' from a source whose name is cut off in the material consulted (wirszubski1989:2774-2777). Separately, he notes that the thesis's manuscript location 'is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim', and that 'the source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra' (wirszubski1989:3188).",
+ "connections": [
+  "10>10",
+  "11>50"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra.",
+   "work": "wirszubski1989",
+   "line": 3188,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The ultimate source Wirszubski names for 'the notion of prayer to the \"master of the nose\"' is not preserved in the material consulted, since his sentence is cut off after 'ultimately derives' (wirszubski1989:2777)."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

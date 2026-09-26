@@ -1,0 +1,55 @@
+{
+ "thesis_id": "11>3",
+ "tier": "A",
+ "latin": "Scientia quae est pars practica cabalae_practicat totam methaphysicam formalem et theologiam inferiorem.",
+ "latin_source": "farmer1998:26392",
+ "translation": "The branch of knowledge that is the practical part of the Cabala puts into practice the whole of formal metaphysics and the lower theology.",
+ "translation_note": "'cabalae' = Kabbalah. Farmer's note glosses 'formal metaphysics' and 'inferior theology' as, respectively, the science concerning the intellectual nature and the science concerning the manifest nature of God in the sefirot, or similar concepts outside the Cabala (paraphrase; farmer1998:26457).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:26392",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26392).",
+ "doctrine": "Thesis 11>3 asserts that the practical part of the Cabala practices the whole of formal metaphysics and inferior theology (farmer1998:26392). Farmer's note identifies the 'practical part of the Cabala' with 'the science of sefirot' and treats 'formal metaphysics'/'inferior theology' as naming the science of the intellectual nature and the science of God's manifest nature in the sefirot, calling this the highest realm reached by the viator's practical theology (paraphrase; farmer1998:26457). Wirszubski quotes the thesis as Pico's own definition-statement: \"Pico defines practical Kabbala in his third thesis\" (wirszubski1989:7110).",
+ "context": "Farmer's own cross-reference apparatus ties the thesis to 11>1, Pico's fourfold division of speculative Kabbala into 'alphabetariae revolutio' and other parts (farmer1998:26318); to 11>35 and 11>36, on the deity considered in itself as infinite (farmer1998:27129, 27137); to 2>27, on the theology of the viator as simply practical (farmer1998:19219); to the historical theses 3.1-3.2 of Francis of Meyronnes on essence and the divine persons (farmer1998:11974, 11978); to 5>1 on Plato's numbers in the Timaeus (farmer1998:22141); and to 6.1 of Giles of Rome on the power of generating in the godhead (farmer1998:12671).",
+ "reception": "Dougherty judges the thesis, to a scholastically trained reader, \"a debatable but not outrageous statement\", while noting \"it is not quite clear what 'formal' means\" in it (dougherty2008:2843). He also records an unresolved tension noted in the secondary literature: \"Zorzi does not reconcile theses 11>2 and 11>3, which seem to contradict one another insofar as metaphysics and theology are qualified one time as speculative, another time as practical\" (dougherty2008:2953).",
+ "historiography": "Wirszubski reads the thesis as Pico's own definition of practical Kabbala, glossing Pico's fourfold prior division as reducing to \"two things: the art of combining letters and the doctrine of the ten sefirot\" (wirszubski1989:7110).",
+ "connections": [
+  "11>1",
+  "11>2",
+  "11>35",
+  "11>36",
+  "2>27",
+  "3.1",
+  "3.2",
+  "5>1",
+  "6.1"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "To the reader, trained in scholastic terminology, this is a debatable but not outrageous statement.",
+   "work": "dougherty2008",
+   "line": 2843,
+   "verbatim": true
+  },
+  {
+   "text": "Zorzi does not reconcile theses 11>2 and 11>3, which seem to contradict one another insofar as metaphysics and theology are qualified one time as speculative, another time as practical.",
+   "work": "dougherty2008",
+   "line": 2953,
+   "verbatim": true
+  },
+  {
+   "text": "Pico defines practical Kabbala in his third thesis:",
+   "work": "wirszubski1989",
+   "line": 7110,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico himself resolves the apparent contradiction with thesis 11>2 that Zorzi (per Dougherty) leaves unreconciled is not established by the sources consulted.",
+  "The identity and full argument of 'Zorzi' cited by Dougherty is not established beyond the name itself; no locator to a Zorzi work is in the packet."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

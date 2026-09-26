@@ -1,0 +1,35 @@
+{
+ "thesis_id": "11>14",
+ "tier": "B",
+ "latin": "Per litteram <W>, id est, scin, quae mediat in nomine lesu, significatur nobis cabalistice quod tum perfecte quieuit, tanquam in sua perfectione, mundus cum Iod coniunctus est cum Vau, quod factum est in Christo, qui fuit uerus dei filius et homo.",
+ "latin_source": "farmer1998:26697",
+ "latin_note": "Farmer's OCR renders the Hebrew letter shin as the bracketed siglum <W>; his note identifies it as the letter shin (transliterated 'scin'), one of the three consonants – yod, shin, vav – that spell the name Jesus in Pico's Christian Cabala (farmer1998:26729).",
+ "translation": "Through the letter shin, which stands in the middle of the name Jesus, it is signified to us Cabalistically that the world, once come perfectly to rest as in its own perfection, was joined, by way of Yod, to Vau; and this came to pass in Christ, who was true Son of God and man.",
+ "translation_note": "'scin' transliterates the Hebrew letter shin; 'Iod' and 'Vau' transliterate yod and vav; the three letters together spell the name Jesus in Pico's Cabalistic reading (farmer1998:26729).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:26697",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26697).",
+ "doctrine": "The thesis belongs to Pico's project of finding Trinitarian and Christological meaning in the individual Hebrew letters of the name Jesus, whose three consonants Farmer's note identifies as yod, shin and vav (farmer1998:26729). The following thesis, 11>15, extends the same letter-based argument to the Tetragrammaton, said by the Cabalists to be the future name of the Messiah (farmer1998:26703); thesis 28.22, among the Hebrew Cabalist theses, discusses the symbolic significance of individual strokes of Hebrew letters more generally (farmer1998:17959).",
+ "historiography": "Wirszubski observes that 'Pico resorted to letter symbolism more often than to combination of letters,' quoting this thesis in full as his example (wirszubski1989:8419). Discussing the thesis again later in relation to Pico's theses on the name of the Messiah, Wirszubski remarks that 'it is certainly noteworthy that nomen Jesu and nomen Messiae are by no means identical in Pico's theses' (wirszubski1989:11007). The study cited here as kabbalah_paradigma quotes the Latin and cross-references it to theses 11>7 and 11>8 on the name of Jesus (kabbalah_paradigma:1945).",
+ "connections": [
+  "11>15",
+  "28.22",
+  "5>6"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "it is certainly noteworthy that nomen Jesu and nomen Messiae are by no means identical in Pico's theses",
+   "work": "wirszubski1989",
+   "line": 11007,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "A passage attributed in this packet to Wirszubski's discussion of 'Conclusio xiv' (wirszubski1989:9856) quotes Latin text about a Zoroastrian dictum on three days of sacrifice, not the text of 11>14; the packet itself flags this record as unresolved between the historical Hebrew-Cabalist series and this section, and it is not used here."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

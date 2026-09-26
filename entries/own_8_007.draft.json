@@ -1,0 +1,36 @@
+{
+ "thesis_id": "8>7",
+ "tier": "A",
+ "latin": "Quae dicunt interpretes super .xiiii. amphorismo, perfecte intelligentur per ea quae dicunt cabaliste de morte osculi.",
+ "latin_source": "farmer1998:24847",
+ "latin_note": "'amphorismo' shows the same conflation with 'amphora' that Farmer notes for the surrounding theses (farmer1998:24919; cf. 8>6).",
+ "translation": "What the interpreters say on the fourteenth aphorism will be perfectly understood through what the Cabalists say about the death of the kiss.",
+ "translation_note": "'mors osculi' ('the death of the kiss'): a Kabbalistic term, discussed by Farmer with reference to Pico's Commento, for a mystical death of rapture in which the soul, closely united to separated things in intellectual ecstasy, is elevated from and abandons the body (paraphrased from farmer1998:24923).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:24847",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:24847).",
+ "doctrine": "The thesis pairs an unidentified Chaldean/Zoroastrian 'fourteenth aphorism' with the Cabalistic notion of the 'death of the kiss' (mors osculi/binsica) as mutually explanatory, in keeping with Pico's concordist method of matching a Chaldean saying to an equivalent Cabalistic one (farmer1998:24923). The theme recurs among the Cabalistic theses proper: 11>11 states that the mode by which rational souls sacrifice to God through an archangel occurs only through separation of the soul from the body, except accidentally, 'as happens in the death of the kiss' (farmer1998:26598); 11>13 warns that one who works in Cabala without foreign admixture, if he continues long in the work, will die of binsica (farmer1998:26608).",
+ "historiography": "Corazzol situates the thesis after a discussion of the risk of idolatry in sefirotic worship, connecting it to Pico's interest in Kabbalistic theurgy, though he notes that identifying the 'fourteenth aphorism' is only conjectural: 'it is, however, impossible to determine how the words of the interpreters upon them read' (corazzol2019:579). Novak situates the thesis alongside Pico's discussion of mors osculi in the Commento's treatment of the Song of Songs, and alongside the related Cabalistic thesis 11>11 (novak1982:871). The study cited here as kabbalah_paradigma links 'binsica'/the 'death of the kiss' to the union of two sefirot, citing Greive's Die christliche Kabbalah and Wirszubski's discussion of the term for further parallels (kabbalah_paradigma:1871). The study cited here as selfknowledge_notes situates the thesis, together with 11>13, within a family of ancient parallels drawn from Plato, Plotinus and Proclus on the soul's self-knowledge (selfknowledge_notes:1032).",
+ "connections": [
+  "8>8",
+  "11>11",
+  "11>13",
+  "28.35"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "it is, however, impossible to determine how the words of the interpreters upon them read",
+   "work": "corazzol2019",
+   "line": 579,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The identity of the Chaldean/Zoroastrian 'fourteenth aphorism' referred to is not established by the sources consulted; Corazzol treats its identification as conjectural (corazzol2019:579)."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

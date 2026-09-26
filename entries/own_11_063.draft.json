@@ -1,0 +1,43 @@
+{
+ "thesis_id": "11>63",
+ "tier": "A",
+ "latin": "Sicut Aristoteles diuiniorem philosophiam, quam philosophi antiqui sub fabulis et apologis uelarunt, ipse sub philosophicae speculationis facie dissimulauit_et uerborum breuitate obscurauit, ita Rabi Moyses aegyptius, in libro qui a latinis dicitur dux neutrorum, dum per superficialem uerborum corticem uidetur cum Philosophis ambulare, per latentes profundi sensus intelligentias, mysteria complectitur Cabalae.",
+ "latin_source": "farmer1998:27748",
+ "translation": "Just as Aristotle concealed beneath the face of philosophical speculation, and obscured by brevity of words, the more divine philosophy that the ancient philosophers veiled under fables and apologues, so Rabbi Moses the Egyptian, in the book that the Latins call the Guide of the Perplexed, while he seems on the surface bark of his words to walk with the Philosophers, embraces the mysteries of the Cabala through the hidden intelligences of a deeper sense.",
+ "translation_note": "'Rabi Moyses aegyptius' is Moses Maimonides; 'dux neutrorum' renders the medieval Latin title of the Guide of the Perplexed (farmer1998:27809).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:27748",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27748).",
+ "sources": [
+  {
+   "text": "Moses Maimonides, Guide of the Perplexed (Dux neutrorum), medieval Latin translation",
+   "locator": "farmer1998:27809",
+   "pico_relation": "the text under discussion in the thesis; Pico's library held several copies of it in this translation (farmer1998:27809, citing Kibre 1936: 152, 213)"
+  }
+ ],
+ "doctrine": "Farmer calls the thesis important for what it shows of Pico's view of Aristotle as much as of Maimonides, and notes that Pico elsewhere drew three philosophical conclusions from the Guide for the Perplexed, in theses 12.1-3 (farmer1998:27809). Although written before the major kabbalistic texts, Farmer notes, the Guide was often interpreted as a kabbalistic work by later writers in that tradition, and Pico's library held several copies of it in its medieval Latin translation (farmer1998:27809).",
+ "context": "Farmer cross-references the thesis to 11>64, on how the Shema ('Hear, O Israel...') should be understood, and to 12.1, on Aristotle's demonstration in Physics 8 of the prime mover (farmer1998:27756; farmer1998:14139).",
+ "reception": null,
+ "historiography": "Dougherty identifies the Maimonidean theses Pico draws on as 12.1-3, concerning Aristotle's Prime Mover (dougherty2008:2782). Black situates the thesis among Pico's readings of Maimonides's Guide, citing the Pines translation (black2006:4265). Novak reads the thesis as evidence against treating Pico as \"the arch-rationalist,\" since it shows Pico holding that Maimonides, for all his apparent philosophical rationalism, secretly embraces the mysteries of the Cabala beneath the surface bark of his words (novak1982:995).",
+ "connections": [
+  "11>64",
+  "12.1"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "the arch-rationalist",
+   "work": "novak1982",
+   "line": 995,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific content of Pico's three Maimonidean theses (12.1-3) referenced by Farmer is not given in the sources consulted for this entry.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

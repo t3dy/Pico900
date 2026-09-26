@@ -1,0 +1,59 @@
+{
+ "thesis_id": "3.4",
+ "tier": "B",
+ "latin": "Ens denominatiue dicitur de deo.",
+ "latin_source": "farmer1998:11984",
+ "translation": "Being is said of God in a denominative manner.",
+ "translation_note": "'denominative,' per Farmer, means predicated accidentally or derivatively as opposed to substantially (farmer1998:12052); Edelheit glosses the thesis as meaning that the term 'being' cannot be attributed to God in an essential fashion, adding anything substantial to the divine essence, but only in a derivative fashion, adding to it nothing but a name (edelheit2022:13271).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:11984",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes (farmer1998:11984).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Scriptum super Primum Sententiarum",
+   "locator": "edelheit2022:13292",
+   "pico_relation": "the authority whose doctrine this historical conclusion reports (edelheit2022:13271)"
+  }
+ ],
+ "doctrine": "Farmer glosses 'denominative' predication as accidental or derivative predication, as against substantial predication, citing Pico's own later use of the term in the Heptaplus (Opera, 282), and notes that the thesis is opposed to 4.7, from Duns Scotus, which holds that being is said of God and creature univocally in respect of what-it-is (farmer1998:12052; farmer1998:12240). Edelheit explains that because being cannot be attributed to God in an essential, quidditative fashion, it is instead predicated of God only derivatively, adding nothing substantial to the divine essence (edelheit2022:13271; edelheit2022:13662). Edelheit notes that Francis, discussing this claim, supplies three further arguments in its support followed by four difficulties, and that in responding to the first difficulty Francis again states that 'being' should not be said in a quidditative manner of the divine essence but only in a denominative manner (edelheit2022:13662).",
+ "context": "Farmer's cross-reference network for the thesis is unusually large, connecting it to eighteen further conclusions. These include two more theses on Francis of Meyronnes himself (3.5, farmer1998:11987), two on Scotus (4.2, farmer1998:12144; and 4.7, farmer1998:12240, which directly opposes this thesis), one each attributed to Henry of Ghent (5.9, farmer1998:12603), Averroes (7.36, farmer1998:13406; 7.41, farmer1998:13507), Thomas Aquinas (2.42, farmer1998:11889), and Mohammed of Toledo (13.1, farmer1998:14214), one of the Cabalistic conclusions (11>58, farmer1998:27633), and a run of Pico's own philosophical and paradoxical conclusions (2>2, 2>3, 2>46, 3>2 through 3>7).",
+ "reception": null,
+ "historiography": "Edelheit's discussion of the thesis, drawing on Francis of Meyronnes's Scriptum super Primum Sententiarum, is the only substantial scholarly treatment located for it in the sources consulted; he presents it as 'Thesis 4' in his own numbering and quotes it directly: \"Ens denominative dicitur de deo\" (edelheit2022:13271; edelheit2022:13292). Apparent mentions of this thesis elsewhere in the harvested corpus, matched on the shared phrase 'dicitur de deo,' in fact concern a different, differently worded conclusion (3>49, on whether God is said to be intellect or understanding) and are not evidence for this one (howlett2021:2029; farmer1998:20990).",
+ "connections": [
+  "3.5",
+  "4.2",
+  "4.7",
+  "5.9",
+  "7.36",
+  "7.41",
+  "2.42",
+  "11>58",
+  "13.1",
+  "2>2",
+  "2>3",
+  "2>46",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "3>7"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Ens denominative dicitur de deo.",
+   "work": "edelheit2022",
+   "line": 13292,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's dependence on Francis of Meyronnes for this thesis is direct or mediated is not addressed in the sources consulted beyond Edelheit's textual juxtaposition.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

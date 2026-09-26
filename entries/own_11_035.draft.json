@@ -1,0 +1,34 @@
+{
+ "thesis_id": "11>35",
+ "tier": "A",
+ "latin": "Si deus in se ut infinitum, ut unum, et secundum se intelligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clausionem, et extremam in remotissimo suae diuinitatis recessu profundam ac solitariam retractionem, de eo intelligimus ipso penitissime in abysso suarum tenebrarum se contegente, et nullo modo in dilatatione ac profusione suarum bonitatum ac fontani splendoris se manifestante.",
+ "latin_source": "farmer1998:27129",
+ "translation": "If God is understood in himself, as infinite and as one and according to himself, then in this way we understand nothing to proceed from him, but rather a separation from things, and a complete enclosing of himself within himself, and, in the most remote recess of his divinity, a profound and solitary withdrawal into himself; we understand him, thus understood, as concealing himself most deeply in the abyss of his own darkness, and in no way manifesting himself in the outpouring and diffusion of his goodness and of his fountain-like splendor.",
+ "translation_note": "The thesis distinguishes God considered absolutely in himself, withdrawn and self-enclosed, from God as he manifests himself outwardly; Farmer identifies this as the Cabalistic distinction between the Ein-Sof (God's transcendent nature) and the sefirot (his manifested nature) (farmer1998:27200).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:27129",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27129).",
+ "doctrine": "Farmer glosses the thesis, together with 11>36, as distinguishing God's transcendent nature (the Ein-Sof) from his manifested nature (the sefirot), and connects the 'ten garments' of 11>36 to the ten sefirot (farmer1998:27200). Thesis 11>36 draws the explicit consequence: from the preceding conclusion one can understand why the Cabalists say that God clothed himself in ten garments when he created the world (farmer1998:27137); thesis 28.35, among the Hebrew Cabalist theses, states generally that no spiritual thing descending lower operates without a garment (farmer1998:18195).",
+ "context": "Busi and Howlett both set the thesis beside a passage of Pico's Oration describing the soul that, content with no created lot, withdraws into the unity of its own center and becomes one spirit with God 'in the solitary darkness of the Father' (in solitaria Patris caligine), reading the two texts as expressions of the same theme of solitary divine transcendence (busi2014:1764; howlett2021:7587).",
+ "historiography": "Wirszubski treats theses 35 and 36 together as expressing, 'though in different terms,' an idea found elsewhere in Pico, and quotes the Latin of 11>35 in full (wirszubski1989:11954; wirszubski1989:11956). The study cited here as kabbalah_paradigma places the thesis in a cluster with 10>15, 11>5 and 11>36, crediting Greive's Die christliche Kabbalah and, especially, Wirszubski's discussion of parallels in Azriel of Gerona and Moses Nahmanides (kabbalah_paradigma:1505).",
+ "connections": [
+  "11>36",
+  "28.35"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Pico again in his thirty-fifth and thirty-sixth Kabbalistic theses secundum opinionem propriam, though in different terms.",
+   "work": "wirszubski1989",
+   "line": 11954,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific texts of Azriel of Gerona and Moses Nahmanides that kabbalah_paradigma credits Wirszubski with identifying as parallels are not themselves given a locator in this packet and so are not asserted here beyond the citation (kabbalah_paradigma:1505)."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

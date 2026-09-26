@@ -1,0 +1,40 @@
+{
+ "thesis_id": "5.12",
+ "tier": "B",
+ "latin": "Ad hoc, ut sit mutuitas realis relationis, requiritur quod fundamentum ex sua natura ordinetur ad aliud, tanquam ad suam perfectionem.",
+ "latin_source": "farmer1998:12613",
+ "translation": "For there to be a real mutuality of relation, it is required that the foundation, by its own nature, be ordered toward another thing, as toward its own perfection.",
+ "translation_note": "'fundamentum' is the scholastic technical term for that which grounds a relation (e.g., a quantity or quality really present in a thing, on account of which the thing is really related to another); 'mutuitas realis relationis' is the real, reciprocal character of a relation, as opposed to a relation of reason that holds on one side only.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:12613",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12613).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet III, q. 4; Quodlibet XIV, q. 2",
+   "locator": "edelheit2022:15877",
+   "pico_relation": "Edelheit traces thesis 12's account of the foundation of a real relation to these two Quodlibetal questions"
+  }
+ ],
+ "doctrine": "Farmer's note places the thesis within a series on relation that begins at 4.16-17 and continues through 5.11-13 (farmer1998:12655). Edelheit states that 'theses 11, 12 and 13 deal with Henry's notion of relation, a crucial point in Henry's thought which can be found in many different parts of his works' (edelheit2022:15721). He traces thesis 12 to Henry's Quodlibet XIV, q. 2, where Henry holds that real relations require a real diversity in their foundations, so that distinct relations are not similar according to the same measure and thing measured (edelheit2022:15877), and to Quodlibet III, q. 4, where Henry identifies a relation taken 'per se and according to existence' with 'order' (ordo) — the power to found or constitute which thesis 12 attributes to the foundation (edelheit2022:15883).",
+ "historiography": "Edelheit calls the theses ascribed to Henry among those that 'contain some of the most central philosophical' material in the set, without further specification in the material consulted (edelheit2022:15883, sentence cut off at 'central philosoph-').",
+ "connections": [
+  "4.16",
+  "5.11"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Theses 11, 12 and 13 deal with Henry’s notion of relation, a crucial point in Henry’s thought which can be found in many different parts of his works",
+   "work": "edelheit2022",
+   "line": 15721,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The page or paragraph of Henry's Quodlibet XIV, q. 2 and Quodlibet III, q. 4 corresponding to Edelheit's citations is not given in the material consulted.",
+  "Whether Pico endorses or merely reports Henry's account of relation beyond stating it is not addressed by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

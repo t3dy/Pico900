@@ -1,0 +1,36 @@
+{
+ "thesis_id": "11>66",
+ "tier": "A",
+ "latin": "Ego animam nostram sic decem sephirot adapto, ut per unitatem suam sit cum prima, per intellectum cum secunda, per rationem cum tertia, per superiorem concupiscibilem cum quarta, per superiorem irascibilem cum quinta, per liberum arbitrium cum sexta, et per hoc totum ut ad superiora se conuertitur cum septima, ut ad inferiora cum octaua, et mixtum ex utroque, potius per indifferentiam uel alternariam adhesionem quam simultaneam continentiam, cum nona, et per potentiam qua inhabitat primum habitaculum cum decima.",
+ "latin_source": "farmer1998:27834",
+ "translation": "I fit our soul to the ten sefirot in this way: by its unity it corresponds to the first, by intellect to the second, by reason to the third, by the higher concupiscible faculty to the fourth, by the higher irascible faculty to the fifth, by free choice to the sixth; and, by this same whole faculty insofar as it turns itself toward higher things, to the seventh, and insofar as it turns toward lower things, to the eighth; and, as mixed of both — rather by an alternating adherence to each in turn than by holding both together at once — to the ninth; and by the power by which it dwells in its first dwelling-place, to the tenth.",
+ "translation_note": "'sephirot' left untranslated. Concupiscible/irascible = appetitive faculties. Clause rendered as alternating. 'Primum habitaculum' referent unclear.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:27834",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27834).",
+ "doctrine": "Thesis 11>66 maps six named faculties of the human soul (unity, intellect, reason, the higher concupiscible and irascible appetites, and free choice) onto the first six sefirot, and then maps the soul's higher-directed and lower-directed exercise of 'this whole' faculty, their mixture, and the power by which the soul inhabits its 'first dwelling-place', onto the seventh through tenth (farmer1998:27834).",
+ "context": "Howlett, discussing the thesis among Pico's kabbalistic conclusions, reports that Farmer 'argues the primary correspondence between our souls and God is our unity — simple for God and extended for us' (howlett2021:9215).",
+ "reception": "Busi and Ebgi's edition and Howlett's study both quote the Latin of thesis 66 in full among Pico's Cabalistic conclusions confirming the Christian religion (busi2014:13626; howlett2021:6164, howlett2021:9215). A German study of Pico's kabbalistic 'paradigm' cites the thesis alongside 11>48 as together illustrating 'the connection of the soul's faculties with the sefirotic pattern' (paraphrase; kabbalah_paradigma:1567).",
+ "historiography": "Wirszubski frames the thesis as the culmination of an argument he is tracing: \"Pico's view of the correspondence between the human soul and the ten sefirot, which is outlined in the sixty-sixth Kabbalistic thesis\" (wirszubski1989:9628).",
+ "connections": [
+  "11>48"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Pico's view of the correspondence between the human soul and the ten sefirot, which is outlined in the sixty-sixth Kabbalistic thesis",
+   "work": "wirszubski1989",
+   "line": 9628,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer note on this thesis was found in the packet consulted, so the source of the specific soul/sefirah correspondences beyond the Latin text itself is not established.",
+  "The referent of 'primum habitaculum' (first dwelling-place) is not established by the sources consulted.",
+  "Whether Farmer's own discussion (cited secondhand via Howlett, howlett2021:9215) treats the thesis at greater length was not verified directly, since the packet gives only Howlett's report of it."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

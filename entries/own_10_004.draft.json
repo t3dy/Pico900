@@ -1,0 +1,45 @@
+{
+ "thesis_id": "10>4",
+ "tier": "B",
+ "latin": "Sicut hymni Dauid operi Cabalae mirabiliter deseruiunt, ita hymni Orphei operi uerae, licitae, et naturalis magiae.",
+ "latin_source": "farmer1998:25671",
+ "latin_note": "Wirszubski's 1989 quotation of this conclusio prints 'Dauid open Cabalae' rather than 'Dauid operi Cabalae' (wirszubski1989:9973), evidently an OCR or typesetting artifact of Wirszubski's own printed page rather than a substantive variant.",
+ "translation": "Just as the hymns of David wonderfully serve the work of Cabala, so the hymns of Orpheus [serve] the work of true, licit, and natural magic.",
+ "translation_note": "'hymni Dauid' are the Psalms (farmer1998:25697); the verb 'deseruiunt' is elided in the second clause and understood from the first, a standard Latin economy; 'uerae, licitae, et naturalis magiae' distinguishes the magic endorsed here from the illicit, demonic magic Pico elsewhere rejects (cf. 9>1, in the research packet for 10>2).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:25671",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25671).",
+ "doctrine": "Pico draws an explicit parallel between the Psalms ('hymns of David') as an instrument of Cabalistic work and the Orphic Hymns as an instrument of 'true, licit, and natural' magic. Farmer's note glosses 'hymns of David' as the Psalms and observes that discussion of magic in the Psalms conventionally turned on the episode (1 Samuel 16:14-23) of David curing Saul's affliction through music (farmer1998:25697).",
+ "context": "Farmer's cross-reference network links the thesis to two further Orphic-Hymn theses on the hymns' numerology (10>5, on the number of Orphic hymns matching the number by which 'the triple God created the world' under a Pythagorean quaternary, farmer1998:25675; 10>25, on the quaternary of hymns designating 'the formable nature' of the first form's attributes, farmer1998:26114) and to two Mathematics-section theses comparing how medicine and music each move the spirits, one to govern the body and one to serve the soul (7>7, 7>8, farmer1998:23717, 23721).",
+ "reception": null,
+ "historiography": "Busi and Ebgi (2014) cite this thesis in support of M. J. B. Allen's observation (in Allen's The Soul as Rhapsode) that Ficino regarded Orpheus as the Greek counterpart to David (busi2014:16990), and give their own Italian translation: 'Come gli inni di Davide sono mirabilmente utili all'opera della Cabala, cosi gli inni di Orfeo sono utili alla magia vera, lecita e naturale' (busi2014:16990). Wirszubski (1989) numbers this conclusio 'Conclusio iv' and groups it among 'three theses, namely' a set he goes on to enumerate (wirszubski1989:9973).",
+ "connections": [
+  "10>5",
+  "10>25",
+  "7>7",
+  "7>8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Come gli inni di Davide sono mirabilmente utili all'opera della Cabala, cosi gli inni di Orfeo sono utili alla magia vera, lecita e naturale",
+   "work": "busi2014",
+   "line": 16990,
+   "verbatim": true
+  },
+  {
+   "text": "Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae.",
+   "work": "wirszubski1989",
+   "line": 9973,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's cross-reference network also lists 4>8 (on Christ's descent into hell) alongside this thesis's crossrefs; no rationale for that link is given in the material consulted, so it is omitted from 'connections' above.",
+  "The remainder of Farmer's note beyond the Psalms gloss (farmer1998:25697) is not further excerpted in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

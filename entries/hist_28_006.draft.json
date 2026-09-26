@@ -1,0 +1,33 @@
+{
+ "thesis_id": "28.6",
+ "tier": "B",
+ "latin": "Magnus aquilo fons est animarum omnium simpliciter, sicut alu dies quarundam et non omnium.",
+ "latin_source": "farmer1998:17637",
+ "latin_note": "Farmer's transcription reads 'alu dies'; Wirszubski's own quotation of the same conclusio (his 'Conclusio VI') reads 'alii dies' at both of its occurrences (wirszubski1989:1479, 1482), which is followed here as the evidently correct reading of an OCR-damaged word in Farmer's copy-text.",
+ "translation": "The great North is the source of all souls absolutely, just as other 'days' are [the source] of some, and not of all.",
+ "translation_note": "'Aquilo' (the north wind/the North) and 'dies' ('days') are technical terms of a Kabbalistic scheme of the emanation of souls, on which Farmer directs comparison to Scholem (farmer1998:17661); 'quarundam' (feminine genitive plural, 'of some [souls]') is understood to govern 'animarum' carried over from the first clause.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:17637",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17637).",
+ "doctrine": "Farmer directs the reader to Scholem's discussion of the emanation of souls in the Kabbalah for the doctrine's background, glossing 'dies' simply as 'days' (farmer1998:17661). Wirszubski identifies the thesis as his 'Conclusio VI' and begins an analysis by stating that 'the interpretation of this thesis depends entirely on the precise location of' [the referent], though the material consulted breaks off before giving his conclusion (wirszubski1989:1482).",
+ "context": "Farmer's cross-reference network links the thesis to two Cabalistic (own-opinion) conclusions confirming the Christian religion that likewise invoke 'Aquilo' (11>37, 11>47), and to 28.8 in the same Hebrew Cabalists section, on souls descending from the third light to the fourth and fifth days (farmer1998 crossrefs, latin_line 27217, 27343, 17645).",
+ "reception": null,
+ "historiography": "Wirszubski (1989) transcribes and numbers this conclusio ('Conclusio VI') and opens a discussion of its interpretation turning on 'the precise location' of a referent in the text, which the material consulted does not carry to its conclusion (wirszubski1989:1479, 1482).",
+ "connections": [
+  "11>37",
+  "11>47",
+  "28.8",
+  "3>67",
+  "3>68",
+  "3>69"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Wirszubski's completed argument about the thesis's referent (beyond the opening sentence quoted at wirszubski1989:1482) is not established by the material consulted.",
+  "Scholem's discussion of soul-emanation to which Farmer refers (farmer1998:17661) has not itself been opened for this entry.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

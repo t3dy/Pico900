@@ -1,0 +1,43 @@
+{
+ "thesis_id": "3>21",
+ "tier": "B",
+ "latin": "Per praedictas conclusiones intelligi potest quae sit omiomeria Anaxagorae, quam opifex intellectus distinguit.",
+ "latin_source": "farmer1998:20551",
+ "latin_note": "Farmer's cumulative number for this thesis, in his continuous count across the historical and paradoxical sections, is 520 (farmer1998:20601).",
+ "translation": "From the conclusions stated above, one can understand what Anaxagoras's homoeomeria is, which the maker-intellect distinguishes.",
+ "translation_note": "'omiomeria' transliterates the Greek homoiomereia, Anaxagoras's doctrine of 'like-parted' elemental stuffs. 'opifex intellectus' ('maker-' or 'craftsman-intellect') renders Anaxagoras's cosmic Nous as the ordering, distinguishing principle. Steiris's own rendering, 'demiurge of the intellect' (steiris2014:108), is a related but distinct interpretive choice and is not reproduced here.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:20551",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20551).",
+ "sources": [
+  {
+   "text": "Simplicius, In Aristotelis Physicorum libros commentaria",
+   "locator": "steiris2014:340",
+   "pico_relation": "Steiris argues the thesis draws on this text, calling 'the similarity of the two passages' obvious"
+  }
+ ],
+ "doctrine": "The thesis asserts that the preceding conclusions of the same paradoxical section allow one to understand Anaxagoras's doctrine of homoeomeria, the 'like-parted' elemental mixtures, and that it is the 'maker-intellect' that distinguishes them (farmer1998:20551). Steiris quotes the thesis as direct evidence that Pico comments on Anaxagoras within the Conclusiones (steiris2014:108). He identifies a source for it in Simplicius's commentary on Aristotle's Physics, calling the similarity between the two passages 'obvious' (steiris2014:340).",
+ "context": "Farmer's note is silent on this thesis (no note recorded in the sources consulted). Steiris situates it by its cumulative number, 520, in Farmer's continuous count across the historical and paradoxical theses, and treats it together with the adjoining thesis 3>22 as part of the same discussion of Anaxagoras (farmer1998:20601; steiris2014:108; steiris2014:137).",
+ "reception": null,
+ "historiography": "Steiris is the only scholar in the sources consulted to discuss the thesis; he reads it as direct evidence of Pico's engagement with Anaxagoras through Simplicius's commentary on the Physics (steiris2014:108; steiris2014:340), and cites it repeatedly alongside 3>22 (steiris2014:137; steiris2014:297; steiris2014:379).",
+ "connections": [
+  "3>22"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The similarity of the two passages is obvious",
+   "work": "steiris2014",
+   "line": 340,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer note or cross-reference is recorded for this thesis in the sources consulted.",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

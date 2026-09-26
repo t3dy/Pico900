@@ -1,0 +1,44 @@
+{
+ "thesis_id": "11>49",
+ "tier": "A",
+ "latin": "Qui sciuerit correspondentiam decem preceptorum ad prohibentia per coniunctionem ueritatis astrologicae cum ueritate theologica, uidebit ex fundamento nostro praecedentis conclusionis, quicquid alii dicant Cabalistae, primum preceptum primae numerationi correspondere, Secundum secundae, Tertium tertiae, Quartum septimae, Quintum quartae, Sextum quintae, Septi-",
+ "latin_source": "farmer1998:27430",
+ "latin_note": "Farmer's Latin, as given in data/inventory/theses.json, breaks off mid-word at 'Septi-'; this is an OCR defect in the copy-text, not a feature of Pico's text. A differently spelled transcription of the same thesis, quoted in Akopyan's work ('correspondenciam', 'numeracioni' for Farmer's 'correspondentiam', 'numerationi'), continues further — 'quartum septime, quintum quarte, sextum quinte, septimum none, octauum octaue,' — before that quoted excerpt is itself cut off (akopyan2018:746; akopyan2021:1459). Neither excerpt gives the thesis's full text; the correspondences for the seventh through tenth commandments are not established here. Farmer's own English translation of the whole thesis exists at farmer1998:27482 but is not reproduced, being in copyright.",
+ "translation": "Whoever will have known the correspondence of the ten commandments to the prohibitions, through the conjunction of astrological truth with theological truth, will see — from the foundation we set out in the preceding conclusion, whatever other Cabalists may say — that the first commandment corresponds to the first numeration, the second to the second, the third to the third, the fourth to the seventh, the fifth to the fourth, and the sixth to the fifth. [The source breaks off here, mid-word, in the copy-text consulted.]",
+ "translation_note": "'numerationi' (numeration) renders the Hebrew sefirah, left untranslated by Pico's Latin source Mithridates for the same reason given for thesis 28.13 (black2006:11922, cited there). The translation stops where the Latin available in this packet stops; no further commandment-to-sefirah correspondences are given here.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:27430",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27430).",
+ "doctrine": "Farmer's note on this cluster of theses (11>48-50) glosses 'numerations' as the sefirot and 'edifice' as the fourth through tenth sefirot (farmer1998:27453). The thesis correlates each of the Ten Commandments with one of the ten sefirot by a stated conjunction of astrological and theological truth, following directly from thesis 11>48, which correlates the ten planetary spheres to the ten sefirot ('ego decem spheras sic decem numerationibus correspondere dico...', farmer1998:27423; quoted in full at akopyan2018:746).",
+ "historiography": "Akopyan (2018, 2021) quotes the thesis together with 11>48 in his studies of Pico's astrology, in each case reproducing the Latin of both theses in sequence without further discursive claim preserved in the material consulted (akopyan2018:746; akopyan2021:1459). Dougherty's anthology includes an English rendering of the thesis's opening alongside a paraphrase of the correspondence with 11>48 ('to the ten numerations [seﬁrot] like this: so that starting from the edifice, Jupiter corresponds to the fourth, Mars to the fifth...'), not reproduced further here as it is a copyrighted translation (dougherty2008:7894). Howlett quotes the phrase '…primum preceptum primae numerationi correspondere…' from Pico's text (1998, 540-1) in a discussion crediting Wirszubski with pointing to 'a strong relationship between Platonism and Kabbalism at the beginning of the Heptaplus' (howlett2021:6154). The 'Erkenntnistheorie und christliche Kabbalah' study cross-references 11>49 with thesis 5>3, on the illumination of higher things upon intermediate ones (kabbalah_paradigma:1643).",
+ "connections": [
+  "11>2",
+  "11>48",
+  "11>50",
+  "28.9",
+  "28.22"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Wirszubski (1989, 237–38 and 250) who also points to a strong relationship between Platonism and Kabbalism at the beginning of the Heptaplus",
+   "work": "howlett2021",
+   "line": 6154,
+   "verbatim": true
+  },
+  {
+   "text": "quartum septime, quintum quarte, sextum quinte, septimum none, octauum octaue,",
+   "work": "akopyan2018",
+   "line": 746,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The correspondences for the seventh through tenth commandments are not recoverable from the OCR-truncated Latin consulted; Akopyan's quotation extends the list slightly further but is itself cut off before the tenth (akopyan2018:746).",
+  "What argument, if any, Akopyan builds from the pairing of 11>48-49 beyond quoting them is not established by the sources consulted.",
+  "The content of the 'Erkenntnistheorie' study's cross-reference to thesis 5>3 beyond the bibliographic note is not established here, the German text not having been translated or opened beyond the cited line (kabbalah_paradigma:1643)."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

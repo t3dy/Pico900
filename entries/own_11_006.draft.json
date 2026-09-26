@@ -1,0 +1,25 @@
+{
+ "thesis_id": "11>6",
+ "tier": "A",
+ "latin": "Trıa magna dei nomina quaternaria, quae sunt in secretis cabalistarum, per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <N?NN> sit patris, nomen «nmm» sit filii, nomen «?YTN» sit spiritus sancti, intelligere potest qui in scientia cabalae fuerit profundus.",
+ "latin_source": "farmer1998:26487",
+ "latin_note": "Farmer's OCR renders the three four-letter Hebrew names as garbled sigla (and 'Trıa' for 'Tria' shows a dotless-i OCR artifact); the 1486 print apparatus records 'sit patris. Nomen ... filii. Nomen ... sancti. intelligere' (farmer1998:26509). Farmer's note identifies the three names as Ehyeh (Father), YHVH (Son) and Adonai (Holy Spirit) (farmer1998:26546).",
+ "translation": "Anyone deeply versed in the science of the Cabala can understand that the three great four-letter names of God hidden in the secrets of the Cabalists are, by a striking correspondence, to be assigned to the three Persons of the Trinity: one name to the Father, one to the Son, and one to the Holy Spirit.",
+ "translation_note": "The three names themselves (Ehyeh, YHVH, Adonai, per farmer1998:26546) are omitted from the main translation because Farmer's transcription of the Hebrew is garbled in the OCR; see latin_note.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:26487",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26487).",
+ "doctrine": "The thesis assigns three four-letter divine names to the three Persons of the Trinity by 'miraculous appropriation'. Wirszubski treats the thesis as inseparable from 'the equation of the Tetragrammaton with the second person of the Trinity' (wirszubski1989:8456), and gives the three names as aleph-he-yod-he (Ehyeh) for the Father, yod-he-waw-he (YHVH) for the Son, and aleph-daleth-nun-yod (Adonai) for the Holy Spirit (wirszubski1989:8458; wirszubski1989:10081).",
+ "historiography": "Busi's edition gives an Italian translation with the three Hebrew names reconstructed as ['hyh] for the Father, [Yhwh] for the Son, and ['dny] for the Holy Spirit (busi2014:21989). The study cited here as kabbalah_paradigma associates the three names with three sefirot, citing Greive's Die christliche Kabbalah for a parallel treatment (kabbalah_paradigma:1557).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [],
+ "not_established": [
+  "Two records in this packet nominally attributed to 'Conclusio vi' in Wirszubski (wirszubski1989:9061, wirszubski1989:9767) quote Latin text unrelated to this thesis's wording (one on the three letters of a different divine name 'Is', one on the Chaldean interpreters and 'double wine', which belongs to 8>6); the packet itself flags both as unresolved between sections (28.n or 11>n), and neither is used here.",
+  "The precise sefirotic correspondences claimed by the kabbalah_paradigma study (kabbalah_paradigma:1557) are given in German and are reported here only in general terms, without endorsing a specific sefirah-to-Person mapping beyond what is stated."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

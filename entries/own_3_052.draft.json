@@ -1,0 +1,29 @@
+{
+ "thesis_id": "3>52",
+ "tier": "B",
+ "latin": "Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis, seruata proportione extremi ad extremum, medii ad extrema, et extremorum ad medium.",
+ "latin_source": "farmer1998:21081",
+ "translation": "The science of God, of man, and of prime matter is the same; and whoever has knowledge of one will also have it of the others, provided the proportion is kept, of extreme to extreme, of the middle to the extremes, and of the extremes to the middle.",
+ "translation_note": "'scientia' is knowledge in the scholastic sense of a demonstrative habit, not mere information. The closing clause states Pico's recurring triadic proportional scheme, in which man stands as the 'medium' between the two 'extremes', God and prime matter.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:21081",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:21081).",
+ "doctrine": "Farmer's note says the thesis concerns 'Pico's correlative views of reality' and refers to his own introductory discussion (farmer1998:21116). Farmer cross-refers it to the immediately preceding 3>50, which holds that matter alone suffices to preserve what Aristotle and other philosophers posited privation among the natural principles for (Pico's own Latin, farmer1998:21071).",
+ "historiography": "Busi and Ebgi quote the Latin of 3>52 verbatim with its page reference in Farmer's edition (busi2014:1150). An unsigned German study, *Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola* (author not identified in the material opened), groups 3>52 together with 3>60 ('Nihil intellegit actu et distincte anima, nisi se ipsam'), 3>61, and 3>66, and with 5>29, without further explanation in the material opened (paraphrase, kabbalah_paradigma:1697).",
+ "connections": [
+  "3>50",
+  "3>60",
+  "3>61",
+  "3>66",
+  "5>29"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Why the German study groups 3>52 with 3>60-3>61-3>66 and 5>29, beyond their being 'zusammen' ('together') in a shared footnote: not established from the material opened.",
+  "The authorship of the unsigned German study cited above (kabbalah_paradigma): not established from the material opened.",
+  "Any reception of this thesis: not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

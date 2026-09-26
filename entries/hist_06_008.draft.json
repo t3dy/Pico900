@@ -1,0 +1,39 @@
+{
+ "thesis_id": "6.8",
+ "tier": "B",
+ "latin": "Sensus gustus, ut gustus est, non solum saporabile, sed humidum percipit.",
+ "latin_source": "farmer1998:12781",
+ "translation": "The sense of taste, as taste, perceives not only what is flavourable, but also what is moist.",
+ "translation_note": "'saporabile' is the proper Aristotelian sensible quality of taste (what is capable of being tasted, i.e. flavour); the thesis claims taste also perceives an additional, non-proper quality, moisture.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:12781",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12781).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Opera omnia III.2, p. 377",
+   "locator": "edelheit2022:16763",
+   "pico_relation": "Edelheit's proposed source, on how a person with impaired taste judges bitter and sweet differently"
+  }
+ ],
+ "doctrine": "Edelheit places thesis 8 among the last four Giles theses (8-11), 'focused on natural philosophy... and on the subordination of sciences' (paraphrase, edelheit2022:16745), stating: 'According to thesis 8 the sense of taste, since it is a taste, perceives not only that which has flavour, but also that which has moisture' (edelheit2022:16745). He quotes Giles's own discussion, from *Opera omnia* III.2, p. 377, of how someone whose taste is impaired ('infectum') judges bitter and sweet differently, and sometimes the reverse (paraphrase of the Latin quoted, edelheit2022:16763).",
+ "historiography": "Edelheit calls the attribution to Giles of 'a very standard Aristotelian view' regarding taste 'difficult to explain' as distinctively Giles's own, drawing a parallel with thesis 11, on movement in a vacuum, which he says is 'obviously taken from Averroes commenting on Aristotle's Physics' (paraphrase, edelheit2022:16993).",
+ "connections": [
+  "6.11"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the sense of taste, since it is a taste, perceives not only that which has flavour, but also that which has moisture",
+   "work": "edelheit2022",
+   "line": 16745,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's cross-reference network records no 'Cf.' entries and no explanatory note for this thesis: not established beyond Edelheit's discussion.",
+  "Any reception of this thesis beyond Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,32 @@
+{
+ "thesis_id": "9>22",
+ "tier": "A",
+ "latin": "Nulla nomina ut significatiua, et inquantum nomina sunt singula et per se sumpta, in magico opere uirtutem habere possunt, nisi sint hebraica, uel inde proxime deriuata.",
+ "latin_source": "farmer1998:25378",
+ "latin_note": "The 1486 print reads 'significativa.& inquantum' where Farmer's text has 'significatiua, et inquantum' (farmer1998:25387).",
+ "translation": "No names, taken as meaningful, and in so far as names are individual and taken in themselves, can have power in a magical work, unless they are Hebrew, or closely derived from Hebrew.",
+ "translation_note": "'per se sumpta' ('taken in themselves'): considered apart from any conventional or ritual context; the distinction between meaningful ('significatiua') and merely sounding names continues the argument of the immediately preceding thesis, quoted in part below (akopyan2018:629).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:25378",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25378).",
+ "sources": [
+  {
+   "text": "Iamblichus, De mysteriis 7.4, on the ritual use of Egyptian ('barbarian') names",
+   "locator": "farmer1998:25450",
+   "pico_relation": "Farmer's note states the thesis is drawn from this passage, with Pico substituting Hebrew for Iamblichus's Egyptian, and barbarian languages generally, as the privileged language of ritual names"
+  }
+ ],
+ "doctrine": "Farmer's note explains that the thesis is drawn from Iamblichus's De mysteriis 7.4, with Pico replacing barbarian languages, and Egyptian in particular, with Hebrew; by names 'closely derived' from Hebrew Pico presumably meant Chaldean names, though elsewhere, in his theses on the Orphic Hymns, he implies that magical power lies hidden in Greek as well (farmer1998:25450). Akopyan's citation of the immediately preceding thesis gives the theory of which this is a corollary: every sound has power in magic in so far as it is shaped by the voice of God, so that non-significative sounds can outperform significative ones in magic generally, while among significative, individual names only Hebrew, or Hebrew-derived, ones retain that power (akopyan2018:629).",
+ "historiography": "The thesis is quoted, in Latin and often in translation, across a wide range of the scholarship on Pico's magic: Akopyan gives it in both his 2018 and 2021 studies alongside its companion thesis on the divine voice (akopyan2018:629; akopyan2021:1354); Busi's edition prints an Italian version and cross-references it to the following Cabalistic thesis on true astrology (busi2014:1664); Howlett quotes both the Latin and her own translation (howlett2021:6175); the collection cited here as knots_spirals gives an English rendering, set between theses on Cabala-dependent magical efficacy and on magical characters and numbers (knots_spirals:490). Mandosio, tracing Pico's reception by John Dee, cites the thesis together with the adjacent one on the efficacy of voces et verba in magic as background to Dee's own 'real cabala' (mandosio2012:476). Wirszubski quotes the thesis alongside Pico's separate, purely philosophical thesis that Hebrew is probably the first, non-conventional language, as evidence for the coherence of Pico's view of Hebrew across different sections of the Conclusiones (wirszubski1989:9667).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [],
+ "not_established": [
+  "Whether Pico read Iamblichus's De mysteriis directly, in Ficino's Latin translation, or only knew this material through an intermediary is not established by the sources consulted (farmer1998:25450 does not specify).",
+  "Farmer's harvested cross-reference list for this packet names thesis '7.4' (Averroes, farmer1998:12947, on personal immortality after death) as related; that thesis is textually unrelated to 9>22, and the match appears to arise from Farmer's own citation to Iamblichus's De mysteriis 7.4 (farmer1998:25450), not from a genuine cross-reference between two of Pico's theses. It is omitted from 'connections' here as an apparent false match in the automated crossref harvest."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

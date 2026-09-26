@@ -1,0 +1,48 @@
+{
+ "thesis_id": "1.7",
+ "tier": "B",
+ "latin": "Sonus fertur secundum esse reale usque ad principium nerui auditiui.",
+ "latin_source": "farmer1998:11044",
+ "translation": "Sound is carried, according to real being, as far as the beginning of the auditory nerve.",
+ "translation_note": "'esse reale' (real/physical being) is deliberately opposed to the 'esse intentionale' of the companion thesis 1.8; 'principium nerui auditiui' is rendered 'the beginning of the auditory nerve'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:11044",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11044).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on Aristotle's De anima and his De homine",
+   "locator": "edelheit2022:9515",
+   "pico_relation": "Edelheit locates Albert's account of sound's transmission to the auditory nerve as the source"
+  }
+ ],
+ "doctrine": "Farmer's note (shared with 1.8) situates the pair in commentary on Aristotle's De anima 2.7-8 and the Albertist contrast of intentional and real being in sensation (farmer1998:11115). Edelheit finds that 'in thesis 7 we find that sound, according to its real existence, is brought to the beginning of the nerve responsible for hearing,' citing Pico's wording at 900 Theses p. 214 and Albert's Opera omnia commentary on De anima (edelheit2022:9488, 9515).",
+ "context": "Edelheit groups theses 7 and 9 as 'both theses dedicated to the sense of hearing,' concluding that Pico 'accurately reflects Albert's views, although he uses a slightly different terminology' (edelheit2022:9579).",
+ "reception": null,
+ "historiography": "Edelheit (2022) traces the doctrine to Albert's Opera omnia commentary on De anima and to the discussion in De homine (edelheit2022:9515), within his broader treatment of theses 7-10 as a set on sense perception whose rationale within the 900 Theses he finds unclear (edelheit2022:10159).",
+ "connections": [
+  "1.8",
+  "2.6",
+  "2.7",
+  "2>76",
+  "8.9",
+  "8.10",
+  "8.11",
+  "9.9"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 7 we find that sound, according to its real existence, is brought to the beginning of the nerve responsible for hearing.",
+   "work": "edelheit2022",
+   "line": 9488,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's own explanatory note for 1.7 beyond the shared 1.7-8 gloss at farmer1998:11115 is not separately given in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

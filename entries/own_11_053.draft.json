@@ -1,0 +1,35 @@
+{
+ "thesis_id": "11>53",
+ "tier": "B",
+ "latin": "Cum fieri lucem nihil sit aliud quam participare lucem, conueniens est ualde illa cabalistarum expositio ut in ly fiat lux, per lucem, speculum lucens intelligamus, et in ly facta est lux, speculum non lucens.",
+ "latin_source": "farmer1998:27524",
+ "latin_note": "Farmer records the 1486 print's reading at this point as 'ly fiat lux . per lucem' (farmer1998:27544).",
+ "translation": "Since for light to come to be is nothing other than to participate in light, that exposition of the Cabalists is very fitting: that in the phrase 'let there be light' we should understand, by 'light,' the shining mirror, and in the phrase 'light was made,' the non-shining mirror.",
+ "translation_note": "'ly' is the scholastic device for citing a word or phrase under discussion (roughly 'the term ___'): here 'ly fiat lux' and 'ly facta est lux' pick out the two clauses of Genesis 1:3. 'speculum lucens' and 'speculum non lucens' ('shining mirror' and 'non-shining mirror') are, per Farmer's note, symbols of the sixth and tenth sefirot respectively (farmer1998:27555).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:27524",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27524).",
+ "doctrine": "The thesis maps the two clauses of Genesis 1:3 ('let there be light' / 'light was made') onto the shining and non-shining mirror, symbols Farmer identifies with the sixth and tenth sefirot respectively (farmer1998:27555). Farmer notes an eschatological sense when the thesis is linked with 28.20, which uses the same two symbols (cross-ref, farmer1998:27555; Pico's own Latin at farmer1998:17951), and observes that Pico elsewhere often correlates the sixth sefirah with Christ (paraphrase, farmer1998:27555).",
+ "historiography": "An unsigned German study, *Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola* (author not identified in the material opened), cross-refers 11>53 to 28.17 and 28.28 in a discussion of the mystical designation, wherever Scripture mentions the love of male and female, of the conjunction of Tiferet and Malkhut ('Chieneseth Israhel') (paraphrase of the source's own gloss on 28.17, kabbalah_paradigma:1828), citing Wirszubski's *Encounter* p. 178 for these theses (paraphrase, kabbalah_paradigma:1828). Wirszubski gives the thesis as 'Conclusio liii' and quotes it verbatim, immediately following a separate discussion of the letters yod and shin as reminders of 'the mystery of the Trinity' (wirszubski1989:9066); no connection between the two passages is stated in the material opened.",
+ "connections": [
+  "28.20",
+  "28.17",
+  "28.28"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "we are perfectly reminded of the mystery of the Trinity",
+   "work": "wirszubski1989",
+   "line": 9066,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The authorship of the unsigned German study cited above (kabbalah_paradigma): not established from the material opened.",
+  "Whether Wirszubski connects the discussion of yod/shin at 9066 to thesis 11>53 itself, or merely quotes them in sequence: not established from the material opened."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

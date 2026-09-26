@@ -1,0 +1,40 @@
+{
+ "thesis_id": "3>60",
+ "tier": "A",
+ "latin": "Nihil intelligit actu et distincte anima, nisi se ipsam.",
+ "latin_source": "farmer1998:21254",
+ "translation": "The soul understands nothing in act and distinctly, except itself.",
+ "translation_note": "Translated literally from Latin.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:21254",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:21254).",
+ "sources": [],
+ "doctrine": "In the Apologia Pico reworked the criticized thesis under a new heading, \"Disputation on the hidden understanding of the soul,\" explaining it as a kind of intuition that operates without reference to phantasms, that is, an intuition distinct from the cognition of external objects (dougherty2008:2396). Dougherty connects this to Pico's claim, made in that same context, that the entire set of nine hundred theses is bound together by a \"hidden concatenation\" (dougherty2008:2396). Pico defended the criticized thesis in the Apologia by substituting two further propositions in its place; his chief opponent, Pedro Garsias, traced both substituted propositions back to Averroes (allen2017:1680).",
+ "context": "In the original order of the printed Conclusions, this thesis (Q13 in the trial numbering) stood earlier than the sequence used by the commission: Copenhaver notes that the Q1 thesis on Hell followed, in that order, Q12, Q13, Q9, and Q6 (copenhaver2022:1253).",
+ "reception": "Dougherty's summary of the commission's censures records the verdict on this thesis simply as \"Wrong.\" (dougherty2008:2248). In the Apologia Pico replaced the censured thesis with two substitute propositions; his opponent Pedro Garsias, replying for the commission, traced both substitutions back to Averroes (allen2017:1680). Copenhaver notes that, unlike the Q4 thesis, the Q13 proposition, like most of the other condemned theses, makes \"no doxastic commitments\" and takes \"no epistemic responsibility\" as Pico first printed it in the Conclusions (copenhaver2022:5850; copenhaver2022:5833).",
+ "historiography": "Howlett includes the thesis's opening words among a list of the thirteen condemned propositions, and notes, citing Brown, that Jean Cordier later helped Pico return to the condemned theses and print them again (howlett2021:2029). An unidentified German-language study, Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola, situates the thesis within a run of theses on the soul (3>60 through 3>66) concerned with the soul's mode of understanding (kabbalah_paradigma:1694).",
+ "connections": [],
+ "condemned_flag": true,
+ "commission_verdict": "\"Wrong.\" (dougherty2008:2248)",
+ "quotations": [
+  {
+   "text": "Disputation on the hidden understanding of the soul",
+   "work": "dougherty2008",
+   "line": 2396,
+   "verbatim": true
+  },
+  {
+   "text": "tied together with some \"hidden concatenation\"",
+   "work": "dougherty2008",
+   "line": 2396,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of the two substitute propositions Pico used in the Apologia; Allen names only their location (Opera, pp. 235, 240, nos. 45-46), not their text.",
+  "The commission's full verdict formula beyond the single-word tag 'Wrong' recorded by Dougherty."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

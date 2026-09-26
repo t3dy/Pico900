@@ -1,0 +1,38 @@
+{
+ "thesis_id": "11>10",
+ "tier": "A",
+ "latin": "Illud quod apud Cabalistas dicitur <}N00)9>,,_ illudest sine dubio quod ab Orpheo Pallas, a Zoroastre paterna mens, a Mercurio dei filius, a Pythagora sapientia, a Parmenide sphera intelligibilis, nominatur.",
+ "latin_source": "farmer1998:26593",
+ "latin_note": "Farmer's OCR renders the Cabalistic term as an unreadable glyph string; Akopyan prints the Hebrew as ןורטטמ (akopyan2021:3241), and Howlett's translation gives it as 'Metatron' (howlett2021:6261); Busi's edition instead shows a bracketed placeholder, '<lfokmah>' (busi2014:24866), a discrepancy not resolved by the sources consulted.",
+ "translation": "That which is called among the Cabalists [Metatron] is without doubt what is named Pallas by Orpheus, the paternal mind by Zoroaster, the son of God by Mercury (Hermes Trismegistus), wisdom by Pythagoras, and the intelligible sphere by Parmenides.",
+ "translation_note": "The bracketed term stands for the Cabalistic name Farmer's copy-text does not render legibly; see latin_note.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:26593",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26593).",
+ "sources": [],
+ "doctrine": "The thesis equates a Cabalistic figure with a series of names drawn from the prisci theologi: Pallas in Orpheus, the paternal mind in Zoroaster, the son of God in Hermes (Mercurius), wisdom in Pythagoras, and the intelligible sphere in Parmenides (farmer1998:26593). Farmer's note states that all these symbols correspond to Pico's intellectual or angelic nature (farmer1998:26629).",
+ "context": "Farmer cross-references the thesis to 5>4, on Plato, concerning the relation of cause and the perfect and Pherecydes's doctrine that Jove did not fashion the world before being transformed into love (farmer1998:22224).",
+ "reception": null,
+ "historiography": "Akopyan quotes the thesis's Latin, printing the Cabalistic term in Hebrew, in a discussion of Pico's Conclusiones Cabalisticae and their later reception (akopyan2021:3241). Busi's edition transcribes the thesis among the conclusions he groups as 'Picus mythicus, magicus, cabalisticus' (busi2014:24866). Wirszubski cites the same Latin text in a discussion of a place in the Conclusiones where \"Kabbala and all the illustrious representatives of prisca gentilium theologia appear side by side\" (wirszubski1989:10151).",
+ "connections": [
+  "5>4"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Kabbala and all the illustrious representatives of prisca gentilium theologia appear side by side",
+   "work": "wirszubski1989",
+   "line": 10151,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The identity of the bracketed Cabalistic term is given differently by the sources consulted (Metatron per Howlett and Akopyan's Hebrew text; an apparently different placeholder in Busi's edition), and is not resolved here.",
+  "Whether several 'Conclusio X...' citations to Wirszubski found by the mention harvester for this thesis's packet in fact concern this thesis or a different one (28.n or another 11>n thesis) could not be confirmed from the excerpts available, and they are not used above.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

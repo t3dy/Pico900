@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.13",
+ "tier": "B",
+ "latin": "Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mysterium magni lobelei.",
+ "latin_source": "farmer1998:17741",
+ "latin_note": "Farmer's OCR prints 'lobelei'; Wirszubski's and Black's transcriptions of the same thesis give 'Iobelei' (wirszubski1989:1836; black2006:11922), the reading followed in translation below.",
+ "translation": "Whoever will have known, in the Kabbalah, the mystery of the gates of understanding, will know the mystery of the great Jubilee.",
+ "translation_note": "'portarum intelligentiae' ('gates of understanding') is, per Farmer's note, a standard symbol for the third sefirah, Binah ('intelligence'); 'magni Iobelei' ('the great Jubilee') is the eschatological return of the world to Binah, 'mother of the world' (farmer1998:17821, citing Scholem 1974: 336).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:17741",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17741).",
+ "doctrine": "Farmer glosses 'gates of intelligence' as a standard symbol for the third sefirah, Binah, and 'great jubilee' as the eschatological return of the world to Binah, 'mother of the world', citing Scholem (farmer1998:17821). He cross-references the theme to 11>68-69, on the 'denarius' in formal arithmetic and 'the secret of fifty gates of intelligence' (farmer1998:17821, 27921, 27927).",
+ "historiography": "Black quotes the thesis and glosses Mithridates' rendering: 'Numeratio commonly means \"counting\". I have left it untranslated here because Mithridates uses it to translate the Hebrew term seﬁrah' (black2006:11922). Wirszubski designates the thesis 'CONCLUSIO XIII' and begins a discussion of 'the notion that the year of jubilee is a...' that is cut off in the material consulted (wirszubski1989:1836).",
+ "connections": [
+  "10>20",
+  "10>21",
+  "11>37",
+  "11>68",
+  "11>69"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Numeratio commonly means ‘counting’. I have left it untranslated here because Mithridates uses it to translate the Hebrew term seﬁrah",
+   "work": "black2006",
+   "line": 11922,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Wirszubski's fuller discussion of the jubilee year, begun at wirszubski1989:1836, is cut off in the material consulted before its conclusion.",
+  "Whether 'lobelei' in Farmer's edition is simply an OCR variant of 'Iobelei', as printed by Wirszubski and Black for the same thesis, is inferred rather than confirmed against Farmer's own plate."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

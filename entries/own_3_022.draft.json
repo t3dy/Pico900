@@ -1,0 +1,36 @@
+{
+ "thesis_id": "3>22",
+ "tier": "B",
+ "latin": "Nemo miretur quod Anaxagoras intellectum appellauerit immixtum, cum sit maxime mixtus, quia maxima mixtio coincidit cum maxima simplici-",
+ "latin_source": "farmer1998:20555",
+ "latin_note": "Farmer's line breaks off mid-word at a hyphenated line-end ('simplici-'); the continuation is not given its own locator in this packet, but the whole sentence is quoted verbatim in scholarship as '...maxima mixtio coincidit cum maxima simplicitate in natura intellectuali' (steiris2014:112; kabbalah_paradigma:1707).",
+ "translation": "Let no one be surprised that Anaxagoras called the intellect unmixed, when it is in fact supremely mixed, since the greatest mixture coincides with the greatest simplicity in the intellectual nature.",
+ "translation_note": "Translated from the complete sentence as attested by steiris2014:112, since Farmer's own transcription (farmer1998:20555) is cut short by a line-wrap.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch2, from Latin at farmer1998:20555",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20555).",
+ "doctrine": "The thesis turns on Anaxagoras's characterization of the intellect (nous) as ‘unmixed,’ which Pico reframes paradoxically: the intellectual nature is itself supremely mixed, and ‘the greatest mixture coincides with the greatest simplicity’ (steiris2014:112). Farmer connects the thesis to Anaxagoras's homoeomeria, the doctrine that all things exist in all things in their own mode, and suggests that Pico's phrasing here draws on some Neo-Platonizing commentary on Aristotle's Physics 3.4 (farmer1998:20622). The preceding thesis, 3>21, states that the conclusions before it let one understand what Anaxagoras's homoiomeria is, which the demiurgic intellect distinguishes (farmer1998:20551), so 3>22 continues that short sequence.",
+ "historiography": "Georgios Steiris devotes an article to Pico's engagement with Anaxagoras built around this thesis, quoting it in full together with his own English translation (steiris2014:112). Steiris argues that, against the ordinary reading of Anaxagoras's nous as unmixed, ‘Pico refutes instead Anaxagoras’s argument and insists that the Intellect is greatly mixed’ (steiris2014:683). The Latin is also excerpted, without further discussion visible in this packet, in the German-language study cited here as kabbalah_paradigma (kabbalah_paradigma:1707).",
+ "connections": [
+  "3.4",
+  "3>21",
+  "3>23",
+  "4>4"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Pico refutes instead Anaxagoras’s argument and insists that the Intellect is greatly mixed",
+   "work": "steiris2014",
+   "line": 683,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which Neo-Platonizing commentary on Aristotle's Physics 3.4 Pico may have used is not established by the sources consulted (farmer1998:20622 raises the possibility without naming a text)."
+ ],
+ "writer": "WRITER-swarm-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

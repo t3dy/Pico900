@@ -1,0 +1,45 @@
+{
+ "thesis_id": "11>20",
+ "tier": "A",
+ "latin": "Si interpretationem suam aduerterint Cabaliste super hac dictione, <tN>, quae significat tunc, de trinitatis mysterio multum illuminabuntur.",
+ "latin_source": "farmer1998:26806",
+ "latin_note": "The Hebrew word is corrupted in the OCR text as the placeholder '<tN>'; Wirszubski's quotation of the same thesis transliterates it as '<τκ>['αζ]' (wirszubski1989:5556), i.e. Hebrew אז ('az), glossed by the thesis itself, and by Farmer's note, as meaning 'then' (farmer1998:26837).",
+ "translation": "If the Kabbalists apply their interpretation to this word, [az], which means 'then', they will be greatly enlightened concerning the mystery of the Trinity.",
+ "translation_note": "'az' (Wirszubski's transliteration 'αζ', wirszubski1989:5556) is the Hebrew adverb 'then' (farmer1998:26837). Farmer's note reports that medieval kabbalists read its two letters, alef and zayin, as symbols of, respectively, the first three sefirot and the lower seven, following Wirszubski (1989: 174-75); Farmer adds that it is not clear how this bears on the 'mystery of the Trinity' Pico invokes (farmer1998:26837).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:26806",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26806).",
+ "sources": [
+  {
+   "text": "Farmer's note reporting Wirszubski (1989: 174-75) on the alef of 'az' as a symbol for the first three sefirot and the zayin for the lower seven",
+   "locator": "farmer1998:26837",
+   "pico_relation": "Farmer's account, citing Wirszubski, of the kabbalistic reading of the word 'az' behind the thesis; the cited page (174-75) is Farmer's own citation and has not independently been reopened here"
+  }
+ ],
+ "doctrine": "The thesis holds that attending to the Kabbalistic interpretation of the Hebrew word 'az' ('then') illuminates the mystery of the Trinity (farmer1998:26806). Farmer's note explains the kabbalistic reading behind it: the two letters of 'az', alef and zayin, were read by medieval kabbalists as symbols of the upper and lower sefirot respectively, citing Wirszubski (1989: 174-75); Farmer adds that it is not clear how this relates to the Trinity Pico invokes (farmer1998:26837). Wirszubski himself quotes the thesis three times as his 'Conclusio xx' in the course of a separate argument, in one place distinguishing what it involves from a different thesis discussed in the same context, without the distinction itself being given in the excerpt available here: “The essence of the difference is this: the latter thesis involves a Trinitarian…” (wirszubski1989:8237; wirszubski1989:8239).",
+ "context": "The thesis belongs to the Cabalistic conclusions confirming the Christian religion, in which Pico repeatedly proposes that Kabbalistic readings of Hebrew words and letters independently confirm Christian doctrines (farmer1998:26806). Farmer's cross-reference network links it to thesis 5>8, on Plato's five transcendental genera (Ens, Idem, Alterum, Status, Motus), though the material available here does not explain the connection (farmer1998:22241).",
+ "reception": null,
+ "historiography": "Wirszubski identifies an interpolation behind the thesis in a Hebrew original and quotes the Latin as his 'Conclusio xx' three times in building his argument (wirszubski1989:5556; wirszubski1989:8239; wirszubski1989:8874). A German-language study lists the thesis under Farmer's numbering, connecting it to Pico's account of Malchut representing the spirit, and reports that Wirszubski had already shown the Trinitarian interpretation of the underlying source, the Sefer ha-shorashim, to rest on an intervention made in Flavius Mithridates' Latin translation of it (kabbalah_paradigma:1562). A second study quotes the thesis in English translation and reports that Kocku von Stuckrad points to further, more explicit comments in Pico's Heptaplus that appear to echo the Pugio fidei, though the content of those comments is not given in the excerpt available (knots_spirals:271).",
+ "connections": [
+  "5>8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The essence of the difference is this: the latter thesis involves a Trinitarian…",
+   "work": "wirszubski1989",
+   "line": 8239,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Why Farmer's cross-reference network links 11>20 to 5>8 (on Plato's five transcendentals): not established by the sources consulted.",
+  "The full content of Wirszubski's contrast between this thesis and 'the latter thesis' mentioned at wirszubski1989:8237-8239: the excerpt available is cut off before naming it.",
+  "The content of the further Heptaplus comments that knots_spirals reports Kocku von Stuckrad connecting to this thesis: not established by the sources consulted.",
+  "Any commission or Apologia reception of this thesis: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

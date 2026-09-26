@@ -1,0 +1,30 @@
+{
+ "thesis_id": "11>15",
+ "tier": "A",
+ "latin": "Per nomen Iod he uahu he, quod est nomen ineffabile quod dicunt Cabaliste futurum esse nomen messiae, euidenter cognoscitur futurum eum deum dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum.",
+ "latin_source": "farmer1998:26703",
+ "latin_note": "The 1487 print reads 'jod he vahu he' for Farmer's 'Iod he uahu he' (farmer1998:26723); an unidentified German-language study transcribes the thesis with the further variant 'vahu' for 'uahu' (kabbalah_paradigma:1989).",
+ "translation": "By the name Yod He Vau He, which is the ineffable name that the Cabalists say will be the name of the Messiah, it is evidently known that he who is to be God the Son of God will be made man through the Holy Spirit, and that after him the Paraclete will descend upon men for the perfection of the human race.",
+ "translation_note": "'Paraclytum' (Paraclete) is glossed by Farmer as the Holy Spirit (farmer1998:26736); the tetragrammaton YHWH is here spelled out by Pico's Latin transliteration as 'Iod he uahu he.'",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:26703",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26703).",
+ "sources": [],
+ "doctrine": "Farmer states that, like most of Pico's longer Cabalistic secrets, the thesis is presumably to be demonstrated through Pico's 'revolutio alphabetariae' or a combination of that method with pure letter symbolism, and glosses 'Paraclete' as naming the Holy Spirit (farmer1998:26736). Busi's edition places the thesis alongside a companion conclusion in the same series holding that the divine names distribute among the three Persons of the Trinity, so that one name belongs to the Father, one ([Yhwh], the name at issue here) to the Son, and one to the Holy Spirit (busi2014:21993).",
+ "context": "Farmer cross-references the thesis to 5>6, on Orpheus's claim that Love is depicted without eyes because it is above intellect (farmer1998:22234).",
+ "reception": null,
+ "historiography": "Wirszubski gives the thesis as 'Conclusio xv' in his own numbering of Pico's Cabalistic conclusions and quotes its Latin text at more than one point in his study (wirszubski1989:8464; wirszubski1989:11014). An unidentified German-language study transcribes the thesis's number and Latin, with minor orthographic differences from Farmer's text, from the source it consulted (kabbalah_paradigma:1989).",
+ "connections": [
+  "5>6"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [],
+ "not_established": [
+  "No scholarly interpretive discussion in English, beyond transcription of the Latin and Farmer's brief methodological note, was found for this thesis in the sources consulted; its theological argument beyond that note is not established.",
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

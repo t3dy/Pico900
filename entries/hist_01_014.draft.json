@@ -1,0 +1,46 @@
+{
+ "thesis_id": "1.14",
+ "tier": "B",
+ "latin": "Corpus mobile est subiectum scientiae naturalis.",
+ "latin_source": "farmer1998:11153",
+ "translation": "The movable body is the subject-matter of natural science.",
+ "translation_note": "'Subiectum': scholastic technical term. 'Scientia naturalis': natural philosophy.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:11153",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11153).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on Aristotle's De anima, Book 1, Tract 1, Chapter 1 (Opera omnia, Cologne ed., vol. 7/1, p. 1)",
+   "locator": "edelheit2022:9954",
+   "pico_relation": "Edelheit identifies this passage as the locus of thesis 14's formula, quoting Albert: 'Licet igitur anima et opera eius et passiones non sint corpus mobile, quod subiectum est philosophiae naturalis...' (edelheit2022:9954)"
+  }
+ ],
+ "doctrine": "Farmer's note ties the thesis to a scholastic dispute over the proper objects of physics and metaphysics, cross-referencing 2.42, 7.20 and 7.38 (farmer1998:11219; note text cut off after 'Pico's usual hierarchical means of resolving such conflicts is'). Edelheit states that thesis 14 'states that movable body is the subject of natural science' and locates it in Albert's commentary on De anima, Book 1, Tract 1, Chapter 1 (edelheit2022:9928). There Albert argues that although the soul and its operations are not themselves the movable body that is the subject of natural philosophy, the soul is nonetheless an essential principle of such a body, and so belongs to natural science in that respect (edelheit2022:9954).",
+ "historiography": "Edelheit treats thesis 14 as one instance in which 'the same basic Aristotelian assumptions and their implications are also reflected in Pico's Theses' as in other commentators he discusses in the same context (edelheit2022:4184). He prints the Latin as it appears in Farmer's edition, page 216 (edelheit2022:4203, 9954).",
+ "connections": [
+  "1>16",
+  "2.42",
+  "2>61",
+  "3>9",
+  "4.22",
+  "7.20",
+  "7.41"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the same basic Aristotelian assumptions and their implications are also reflected in Pico’s Theses, for example in thesis 14 according to Albert the Great, which states that the mobile body is the subject of natural science",
+   "work": "edelheit2022",
+   "line": 4184,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The comparator to whom Edelheit likens Albert's discussion ('le Damoisiau') is not identified further in the material consulted (edelheit2022:4184).",
+  "Farmer's fuller note on Pico's method of resolving the physics/metaphysics conflict is cut off after 'Pico's usual hierarchical means of resolving such conflicts is' (farmer1998:11219); its continuation is not established by the sources consulted.",
+  "Whether Pico read Albert's commentary directly or at second hand is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

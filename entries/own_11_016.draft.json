@@ -1,0 +1,38 @@
+{
+ "thesis_id": "11>16",
+ "tier": "B",
+ "latin": "Ex mysterio trium litterarum quae sunt in dictione sciabat, id est, <NAW>, possumus interpretari cabalistice tunc sabbatiza/re mundum cum dei filius fit homo, et ultimo futurum sabbatum cum homines in dei filium regenerabuntur.",
+ "latin_source": "farmer1998:26709",
+ "latin_note": "'sabbatiza/re' marks an OCR-repaired line break in Farmer's text, not a word of Pico's. Farmer's bracketed transliteration <NAW> differs from the form <I''OW> given in Wirszubski's transcription of the same clause (wirszubski1989:8407); which Hebrew letters either represents is not established by the sources consulted.",
+ "translation": "From the mystery of the three letters that are in the word 'shabbat' — that is, [bracketed letters, reading uncertain] — we can interpret, in Kabbalistic fashion, that the world then keeps sabbath when the Son of God becomes man, and that the last sabbath will come when men are regenerated into the Son of God.",
+ "translation_note": "'sabbatizare' is glossed by Farmer as 'to rest' (farmer1998:26777). The bracketed transliteration in the Latin is left unrendered because the two witnesses consulted (Farmer's <NAW> and Wirszubski's <I''OW>) disagree, and neither has been checked here against a manuscript or the 1486 print.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:26709",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26709).",
+ "doctrine": "Farmer glosses 'shabbat' as 'Sabbath' and 'sabbatizare' as 'to rest', and states that 'Pico's precise methods here are again unknown, although there is presumably a connection with 11>14 via the mystical symbolism of the letter shin' (farmer1998:26777). He cross-references the thesis to 11>14, on the letter shin mediating in the name Jesus, and to 11>17, on 'the purest wine' among the Cabalists, as well as to 5>7 (Plato's Timaeus) and 8>6 (the Chaldean interpreters on 'double drunkenness') (farmer1998:26697, 26715, 22237, 24842).",
+ "historiography": "Wirszubski designates the thesis 'Conclusio xvi' and reads it, with the surrounding theses, as carrying 'eminently Christian connotations', remarking that '‘Ab (father) and ben (son) are too obvious for words. As for sabbat, here is what it meant to Pico'— namely, the sense given in the Latin he then quotes (wirszubski1989:8407). A study of Pico's epistemology and the Kabbalah cross-lists 11>16 with 28.13, 11>45, and 23.8 (from Iamblichus) as related instances, citing Greive's Die christliche Kabbalah (kabbalah_paradigma:2167-2168).",
+ "connections": [
+  "5>7",
+  "8>6",
+  "10>23",
+  "10>24",
+  "11>14",
+  "11>17"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "‘Ab (father) and ben (son) are too obvious for words. As for sabbat, here is what it meant to Pico",
+   "work": "wirszubski1989",
+   "line": 8407,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which Hebrew letters the bracketed transliteration (Farmer's <NAW>, Wirszubski's <I''OW>) is meant to represent is not established by the sources consulted.",
+  "Greive's discussion of this thesis, cited only at second hand (kabbalah_paradigma:2167-2168), was not opened directly and its content beyond the bibliographic grouping is not established here."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

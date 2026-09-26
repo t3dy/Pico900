@@ -1,0 +1,64 @@
+{
+ "thesis_id": "4>13",
+ "tier": "A",
+ "latin": "Non assentior communi sententiae theologorum dicentium posse deum quamlibet naturam suppositare, sed de rationali tamen hoc concedo.",
+ "latin_source": "farmer1998:21767",
+ "latin_note": "Copenhaver quotes the Apology's version of the thesis with 'de rationabili tantum' in place of Farmer's 'de rationali tamen' (copenhaver2022:6908; copenhaver2022:4907; copenhaver2022:6537); Edelheit's transcription of the Apology likewise reads 'rationabili tantum' (edelheit2022:7762; edelheit2022:20312; edelheit2022:20340).",
+ "translation": "I do not assent to the common opinion of the theologians, who say that God can make any nature whatsoever a supposit; this I grant only in the case of a rational nature.",
+ "translation_note": "'Suppositare' is not the ordinary verb 'supponere' but a rarer, factitive coinage meaning to make a nature the supposit of a divine person, as the Word assumed a human nature in the incarnation; Copenhaver counts Pico using suppo- words twenty-seven times across Q4 of the Apology (copenhaver2022:5464; copenhaver2022:5475), and surveys five modern scholarly translations of the verb that differ significantly: 'assume,' 'assume as a form,' 'be the substantial subject,' 'appear,' and 'take on' (copenhaver2022:5522; copenhaver2022:5555).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:21767",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:21767).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet 13.5 (ed. Decorte)",
+   "locator": "copenhaver2022:6111",
+   "pico_relation": "supplies most of the text of Q4 in the Apology, excerpted at length as Pico's chief authority for withholding assent from the common opinion (copenhaver2022:5776; copenhaver2022:6495)"
+  }
+ ],
+ "doctrine": "The thesis addresses whether God can make any created nature whatever the supposit of a divine person, and restricts an affirmative answer to a rational nature alone (copenhaver2022:2137; copenhaver2022:2178). Copenhaver traces the background to the pseudo-Ockham Centiloquium, current in the late Quattrocento, which held that an omnipotent God could take on any nature at all, even, in its own provocative examples, \"a stone, a stick of wood\" or an ass (copenhaver2022:2178). Pico's first-person verbs are deliberate: he withholds assent (non assentior) from the common opinion rather than asserting its contradiction, and Copenhaver argues that this assenting/asserting distinction, restated at the start and end of Q4, is the core of Pico's later defense (copenhaver2022:5712; copenhaver2022:6930; copenhaver2022:6943). Edelheit quotes Pico's own gloss on the condemned thesis, in which Pico denies intending to negate that God can make any nature whatever a supposit, saying he intended only to deny a particular assent (edelheit2022:7762).",
+ "context": "Most of the defense in Q4 of the Apology is a long verbatim excerpt from Henry of Ghent's Quodlibet 13.5, which Pico presented as evidence that the commission's verdict was mistaken (copenhaver2022:6495; copenhaver2022:5776). Henry had himself abandoned an earlier, more usual position that any nature could be made a divine supposit, and Pico argued that since Henry's revised view had never been denounced, and other named theologians (Bernard de Gannat, Durand, Godfrey of Fontaines, Scotus, and three others) had repeated it without censure, his own thesis should not have drawn a heresy charge either (copenhaver2022:6503; copenhaver2022:6518; copenhaver2022:6560). Farmer records that in Pico's oral response to the commission he argued, on Henry's authority, that the thesis was not false through any insufficiency in God, but because natures below the rational were not \"assumable\" (suppositabilis) (farmer1998:21789). Farmer's cross-reference network links the thesis to 4>2, which he says it contradicts, and to 1>3, 1>4, and 4>14 (farmer1998:21789; farmer1998:18582; farmer1998:18587; farmer1998:21771).",
+ "reception": "The papal commission found, in Farmer's report, that the thesis \"derogates from divine omnipotence, and this savors of heresy\" (farmer1998:21789); Copenhaver's own rendering of the court's finding, which Pico quoted at the close of Q4, is that the thesis \"detracts from God's omnipotence and thereby suggests heresy\" (copenhaver2022:6831). Pico protested that the judges had condemned the thesis \"in virtue of its language\" (de virtute sermonis) rather than for any doctrine it asserted, since it withheld assent from the common opinion without asserting its contrary (copenhaver2022:6894; copenhaver2022:6898). He argued that his judges were caught either way: if the thesis was in fact heretical it did more than merely suggest heresy and he was guilty outright, and if it was not, they had condemned him wrongly (copenhaver2022:6888; copenhaver2022:6894). Copenhaver observes that no other condemned thesis makes a comparable first-person statement of non-assent; the rest, like the Q13 proposition, are third-person doctrinal statements carrying no such doxastic commitment (copenhaver2022:5818; copenhaver2022:5850).",
+ "historiography": "Copenhaver devotes a full chapter, titled \"What Can Be Taken On?,\" to Pico's Q4 (copenhaver2022:128; copenhaver2022:5130). He argues the Latin text of Q4 as printed in the 1487 Apology is corrupt, with \"more than two dozen\" errors within a few pages, probably from a copyist's eye skipping between two similarly-ending lines (copenhaver2022:5678; copenhaver2022:5673). Surveying five modern scholarly translations of \"suppositare,\" he notes that \"serious scholars and skilled Latinists produced these significantly different versions of a pivotal term in the Q4 thesis\" (copenhaver2022:5522; copenhaver2022:5555). Dougherty cites the thesis to show \"what scholastic disputation can amount to, in a technical sense\" (dougherty2008:2437).",
+ "connections": [
+  "4>2",
+  "1>3",
+  "1>4",
+  "4>14"
+ ],
+ "condemned_flag": true,
+ "commission_verdict": "\"derogates from divine omnipotence, and this savors of heresy\" (farmer1998:21789); cf. Copenhaver's rendering, \"detracts from God's omnipotence and thereby suggests heresy\" (copenhaver2022:6831).",
+ "quotations": [
+  {
+   "text": "derogates from divine omnipotence, and this savors of heresy",
+   "work": "farmer1998",
+   "line": 21789,
+   "verbatim": true
+  },
+  {
+   "text": "detracts from God's omnipotence and thereby suggests heresy",
+   "work": "copenhaver2022",
+   "line": 6831,
+   "verbatim": true
+  },
+  {
+   "text": "serious scholars and skilled Latinists produced these significantly different versions of a pivotal term in the Q4 thesis",
+   "work": "copenhaver2022",
+   "line": 5555,
+   "verbatim": true
+  },
+  {
+   "text": "What scholastic disputation can amount to, in a technical sense",
+   "work": "dougherty2008",
+   "line": 2437,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Farmer's numbering of section 4> is internally consistent with his own chart count, a discrepancy the editorial standard flags for this section in general, is not confirmed for thesis 13 specifically by the sources consulted.",
+  "The exact reasoning by which the commission's judges reached their verdict, beyond the formula quoted, is not given in the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

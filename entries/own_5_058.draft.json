@@ -1,0 +1,31 @@
+{
+ "thesis_id": "5>58",
+ "tier": "B",
+ "latin": "Venatio illa Socratis, de qua in Protagora, conuenienter per sex gradus potest sic distribui: ut primus sit esse materiae extrinsecae, secundus esse particulare immateriale, tertius esse uniuersale, quartus esse rationale, quintus esse particulare intellectuale, sextus esse totale intellectuale; in septimo tanquam, in sabbato, cessandum est a uenatione.",
+ "latin_source": "farmer1998:23198",
+ "latin_note": "1486 reads 'immateriale. Tertius' (a full stop where 1487 has none) and lacks 'tanquam sabbato'; 1487 reads 'potest sic describi' for 'potest sic distribui' and adds 'tanquam sabbato' (farmer1998:23219).",
+ "translation": "That hunt of Socrates, of which he speaks in the Protagoras, can fittingly be divided into six degrees in this way: that the first is the being of extrinsic matter, the second the being of the particular immaterial, the third the being of the universal, the fourth the being of the rational, the fifth the being of the particular intellectual, the sixth the being of the total intellectual; in the seventh, as it were on the sabbath, one must cease from the hunt.",
+ "translation_note": "'Venatio': hunting imagery (Protagoras). 'Esse': grade of being.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch5, from Latin at farmer1998:23198",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:23198).",
+ "doctrine": "Farmer's note links the sixfold scheme to 'the quietism that Pico posited at the height of the mystical ascent', a discussion he refers to elsewhere but whose citation is cut off in the material consulted ('see above, pp.', farmer1998:23274). He cross-references the thesis to two other conclusions on Plato's dialogues in the same series, 5>59 (on the Euthydemus, on happiness as an act rather than a habit) and 5>60 (on the Laches, on the unity of scientific knowledge across time), as well as to 5>56 (on the Sophist), 2>74 (on the reflex act of the intellect) and 3>43 (on an act uniting the rational soul beyond intellect and will) (farmer1998:23188, 23205, 23209, 20099, 20885).",
+ "historiography": "Busi and Ebgi print the Latin of the thesis, numbered 5>58 at their page 456, without further discursive comment in the material consulted (busi2014:6332). The study on Pico's epistemology and Kabbalah cross-references thesis 5>58 with 3>67-68, on the correspondence of each series of souls to a single pure intellect (kabbalah_paradigma:1440, 1444).",
+ "connections": [
+  "2>74",
+  "3>1",
+  "3>43",
+  "5>56",
+  "5>59",
+  "5>60"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "What Farmer means by 'the quietism that Pico posited at the height of the mystical ascent' is not recoverable here, since his cross-reference ('see above, pp.') is cut off in the material consulted (farmer1998:23274).",
+  "Whether the sixfold scheme corresponds to a specific source beyond the Protagoras is not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

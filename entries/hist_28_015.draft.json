@@ -1,0 +1,41 @@
+{
+ "thesis_id": "28.15",
+ "tier": "B",
+ "latin": "Nisi nomen Abraam < DINNIAN>, id est he addita, fuisset, Abraam non generasset.",
+ "latin_source": "farmer1998:17847",
+ "latin_note": "The bracketed '<DINNIAN>' in Farmer's transcription stands for Hebrew letters that did not survive transliteration; Wirszubski's own quotation of the same conclusio likewise prints the Hebrew as a garbled bracketed string, '<0Π13Κ>' (wirszubski1989:1919), confirming the corruption is in the transmitted text or its reproduction rather than an error introduced by Farmer alone.",
+ "translation": "Had the name Abraham not been [the form given in Hebrew] — that is, with a he added — Abraham would not have procreated.",
+ "translation_note": "'he' is the Hebrew letter ה said, in Genesis 17:5, to have been added to 'Abram' to make 'Abraham'; 'generasset' is rendered 'procreated' (literally 'would not have generated/begotten [offspring]') to keep the verb's causal, generative sense distinct from mere naming.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:17847",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17847).",
+ "sources": [
+  {
+   "text": "Menahem Recanati's commentary, quoting the Bahir",
+   "locator": "wirszubski1989:1919",
+   "pico_relation": "Wirszubski identifies Recanati's commentary (fol. 46rb), quoting the Bahir §6 (ed. Scholem), as the parallel text for this thesis's claim about the added letter he"
+  }
+ ],
+ "doctrine": "The thesis turns on the addition of the letter he (ה) to Abram's name (Genesis 17:5), making it 'Abraham', as the condition of his capacity to procreate — a piece of Hebrew name-mysticism for which Wirszubski identifies a close textual parallel in Menahem Recanati's commentary, itself quoting the Bahir (wirszubski1989:1919).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski (1989) transcribes the Latin of this conclusio (his 'Conclusio XV' among the 'Conclusiones Cabalisticae secundum opinionem sapientum Hebraeorum Cabalistarum') and directs comparison to 'Recanati, fol. 46rb, where he quotes the Bahir (§6 ed. Scholem)' (wirszubski1989:1919). Wirszubski's book elsewhere numbers other, textually unrelated conclusions 'Conclusio xv' in different series (wirszubski1989:9894, 9913, 10001); those excerpts do not share this thesis's Latin and are not established as pertaining to 28.15.",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Compare Recanati, fol. 46rb, where he quotes the Bahir (§6 ed. Scholem)",
+   "work": "wirszubski1989",
+   "line": 1919,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer cross-references are recorded for this thesis in the research packet.",
+  "Farmer's own explanatory note beyond the bare translation at farmer1998:17899 is not further excerpted in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

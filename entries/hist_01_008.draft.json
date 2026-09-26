@@ -1,0 +1,49 @@
+{
+ "thesis_id": "1.8",
+ "tier": "B",
+ "latin": "Lumen non habet in medio nisi esse intentionale.",
+ "latin_source": "farmer1998:11047",
+ "translation": "Light has, in the medium, only intentional being.",
+ "translation_note": "'esse intentionale' is the scholastic term for a weaker, representational mode of existence, contrasted with 'esse reale' (real, physical existence); see the companion thesis 1.7, where sound is said to travel 'secundum esse reale'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:11047",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11047).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on Aristotle's De anima, Book 2, Tract. 3",
+   "locator": "edelheit2022:9579",
+   "pico_relation": "Edelheit locates Albert's discussion of light, sight, colour, medium and intention as the source for this thesis"
+  }
+ ],
+ "doctrine": "Farmer's note (shared with 1.7) traces theses 1.7-8 to commentary on Aristotle's De anima 2.7-8, reporting that for Albert the greater 'intentionality' (or 'spirituality') of light compared to sound was shown by sound being affected by wind while colour is not, though in medieval debate 'all sensual images become “spiritual” once they pass through the senses' (farmer1998:11115). Edelheit finds that 'thesis 8 states that light in a medium has only intentional existence' (edelheit2022:9579), locating Pico's exact wording at 900 Theses p. 214 and Albert's discussion in his De anima commentary, Book 2, Tract. 3 (edelheit2022:9611).",
+ "context": "Edelheit treats theses 7-10 as a set on sense perception drawn from Albert (edelheit2022:9488) and remarks that 'it is hard to tell... why Pico has chosen to dedicate several theses, for instance theses 7–10, to some very standard and rather limited accounts of sense perception,' finding the rationale for their place in the larger project of the 900 Theses unclear (edelheit2022:10159).",
+ "reception": null,
+ "historiography": "Edelheit (2022) traces the doctrine to Albert's Opera omnia commentary on De anima, Book 2, Tract. 3, Chapter 5, and to Albert's further discussion of sight, light, medium and colour in De homine (edelheit2022:9611), while questioning why Pico gave several theses to such standard material (edelheit2022:10159).",
+ "connections": [
+  "1.7",
+  "2.6",
+  "2.7",
+  "2>76",
+  "8.9",
+  "8.10",
+  "8.11",
+  "9.9"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 8 states that light in a medium has only intentional existence.",
+   "work": "edelheit2022",
+   "line": 9579,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's English translation of this thesis is not reproduced in the material consulted (no farmer_english_line is recorded in the inventory).",
+  "The full text of Albert's argument beyond Edelheit's summary is not established without consulting Albert's Opera omnia directly.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

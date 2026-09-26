@@ -1,0 +1,27 @@
+{
+ "thesis_id": "9>21",
+ "tier": "A",
+ "latin": "Non significatiuae uoces plus possunt in magia quam significatiue; et rationem conclusionis intelligere potest qui est profundus ex praecedenti conclusione.",
+ "latin_source": "farmer1998:25373",
+ "translation": "Non-signifying utterances have more power in magic than signifying ones; and the reason for this conclusion can be understood by one who has gone deep into the preceding conclusion.",
+ "translation_note": "'uoces significatiuae'/'non significatiuae' are 'signifying' and 'non-signifying' utterances, i.e. sounds that do or do not function as conventional linguistic signs. The thesis claims magical efficacy runs the reverse of ordinary semantic efficacy; it explicitly withholds its own reasoning, deferring to 'the preceding conclusion' (on the numbering of this section, thesis 9>20).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch6, from Latin at farmer1998:25373",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25373).",
+ "doctrine": "Farmer's note cross-refers the thesis to Iamblichus, De mysteriis 7.4-5, and glosses it as tied to Pico's view that language can only adequately describe the inferior world (farmer1998:25447). Farmer also cross-refers it to 9>22, which restricts the power of names in magical operation to Hebrew names or names derived proximately from Hebrew (farmer1998:25378); no explanation of the further cross-reference to 7.4 (Averroes, on the unity of the intellect, farmer1998:12947) is given in the material opened, and it is not established here. Akopyan (2018) prints the Latin of 9>21 within a longer run of consecutive theses on vocal efficacy in magic, according to which words and utterances have efficacy in the magical work because the first exercise of magic by nature is 'the voice of God,' and any utterance has power in magic to the extent that it is formed by the voice of God (paraphrase of the surrounding Latin, akopyan2018:627).",
+ "reception": null,
+ "historiography": "Akopyan (2018) and Akopyan (2021) both quote the Latin of 9>21 as part of a longer passage on Pico's account of vocal and nominal efficacy in magical operation, in the context of a Kabbalistic principle of a 'medium' between extremes appropriable through the use of letters (akopyan2018:627; akopyan2021:1352). Busi and Ebgi print the Latin of 9>21 together with the neighbouring thesis 9>20 in their apparatus to the *Conclusiones*, without further discussion in the material opened (busi2014:1614).",
+ "connections": [
+  "7.4",
+  "9>22"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Why Farmer cross-refers this thesis to 7.4 on the unity of the intellect: not established by the sources consulted.",
+  "Any reception of this thesis beyond the citations listed: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

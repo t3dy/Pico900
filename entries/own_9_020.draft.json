@@ -1,0 +1,35 @@
+{
+ "thesis_id": "9>20",
+ "tier": "A",
+ "latin": "Quaelibet uox uirtutem habet in magia, inquantum dei uoce formatur.",
+ "latin_source": "farmer1998:25370",
+ "translation": "Every utterance has power in magic, in so far as it is formed by the voice of God.",
+ "translation_note": "'uox' spans 'spoken sound', 'utterance' and 'word'; the thesis follows directly from 9>19's claim that words have magical efficacy because the first exercise of magic by nature is the voice of God (farmer1998:25366). Farmer's note ties the doctrine to word-magic and to God's creation of the world through speech in Genesis 1, mediated, on the Kabbalists' account, by the divine names and the Hebrew alphabet (farmer1998:25400).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:25370",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25370).",
+ "sources": [
+  {
+   "text": "Pico's own thesis 9>19: 'Ideo uoces et uerba in magico opere efficaciam habent, quia illud in quo primum magicam exercet natura, uox est dei.'",
+   "locator": "farmer1998:25366",
+   "pico_relation": "immediately preceding thesis in the same section; 9>20 states the conclusion that follows from 9>19's premise"
+  }
+ ],
+ "doctrine": "The thesis draws a conclusion from the immediately preceding one: because the first exercise of magic by nature is the voice of God, any utterance has magical power in so far as it is formed by that voice (farmer1998:25366; farmer1998:25370). Farmer's note connects the doctrine to word-magic generally and to God's creation of the world through speech in Genesis 1:1ff., mediated, according to the kabbalists, by the powers of the divine names and the Hebrew alphabet (farmer1998:25400). Akopyan's and Mandosio's citations show the thesis sitting within a short run on the sources of magical efficacy, alongside 9>21 on non-significative versus significative sounds and 9>24 on the power of characters and figures (busi2014:1616; mandosio2012:477).",
+ "context": "Mandosio quotes the thesis together with 9>19 as evidence that Pico grounds the vocal component of magic in the divine origin of speech, immediately before a further thesis restricting magically effective names to Hebrew ones or those directly derived from it (mandosio2012:477). Busi and Ebgi's edition numbers it as Conclusiones magicae 9>20, between 9>19 (unnumbered continuation) and 9>21 on non-significative sounds (busi2014:1616; busi2014:1617).",
+ "reception": null,
+ "historiography": "Akopyan and Mandosio both cite the thesis to illustrate Pico's theory of the natural, divinely grounded efficacy of magical language, in each case quoting it as part of a longer run of theses rather than commenting on it individually (akopyan2018:626; akopyan2021:1351; mandosio2012:477). Busi and Ebgi's apparatus records its place in Pico's own numbering, distinguishing it from the adjacent theses 9>21 and 9>24 (busi2014:1617; busi2014:26629).",
+ "connections": [
+  "9>19"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No discursive scholarly analysis of 9>20 by itself is present in the sources consulted; the scholar mentions quote its Latin within footnotes chiefly concerned with adjacent theses (9>19, 9>21, 9>24).",
+  "Whether Pico intends 'uox' as spoken sound in general or as a name/word specifically: not established by the sources consulted.",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

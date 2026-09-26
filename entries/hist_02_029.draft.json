@@ -1,0 +1,48 @@
+{
+ "thesis_id": "2.29",
+ "tier": "B",
+ "latin": "In generatione substantiali fit resolutio usque ad materiam primam.",
+ "latin_source": "farmer1998:11665",
+ "translation": "In substantial generation, dissolution occurs all the way down to prime matter.",
+ "translation_note": "'resolutio' is used in the scholastic sense of analytic reduction of a composite to its constituent principles, not 'resolution' in a modern sense; rendered 'dissolution' to keep this technical force.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:11665",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11665).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas's commentary on Aristotle's Metaphysics, Book 8, Lecture 4",
+   "locator": "edelheit2022:12020",
+   "pico_relation": "Edelheit locates the doctrine in Thomas's Metaphysics commentary"
+  }
+ ],
+ "doctrine": "Farmer's note supplies the Thomist background: Thomas held that matter cannot exist without form and posited only one substantial form per created nature, so that generating a new substance required destroying any form previously in its matter; 'Pico upheld the opposing view that matter had a distinct form of its own preceding the substantial form,' directing comparison to 16.1-2, 2>12, and 2>70 (farmer1998:11743). Edelheit confirms that 'Pico in thesis 29 according to Thomas Aquinas deals with substantial generation... stating that in substantial generation the resolution does take place all the way down to prime matter,' citing Pico's Latin at 900 Theses p. 226 (edelheit2022:4076, 4089).",
+ "context": "Edelheit contrasts the thesis with an Averroist-tradition view (his thesis 12, according to Averroes) in which substantial corruption need not proceed all the way to prime matter (edelheit2022:4076), and finds Pico's thesis 'in agreement with Thomas's view' as expressed in Thomas's commentary on Metaphysics, Book 8, Lecture 4 (edelheit2022:12020).",
+ "reception": null,
+ "historiography": "Edelheit (2022), citing Caroti, notes that the idea behind this thesis 'can be found in many commentaries on De generatione et corruptione from the fourteenth and fifteenth centuries' and 'can also be found in the Auctoritates Aristotelis' (edelheit2022:12040).",
+ "connections": [
+  "16.1",
+  "16.2",
+  "2.23",
+  "2.25",
+  "2.43",
+  "2>7",
+  "2>12",
+  "2>70"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico’s thesis is thus in agreement with Thomas’s view",
+   "work": "edelheit2022",
+   "line": 12020,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise argument of Thomas's Metaphysics VIII.4 beyond Edelheit's citation is not established without consulting Thomas's text directly.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

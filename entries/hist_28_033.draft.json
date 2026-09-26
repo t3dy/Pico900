@@ -1,0 +1,54 @@
+{
+ "thesis_id": "28.33",
+ "tier": "A",
+ "latin": "Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate,",
+ "latin_source": "farmer1998:18183",
+ "latin_note": "Farmer's transcribed line is truncated mid-sentence. The full text, quoted identically in wirszubski1989:2604-2606 (his 'Conclusio XXXIII') and closely in busi2014:20322 and mandosio2012:471, continues: '...maioritate, coronatione, clausura, apertura, et ordine decern numerationum secreta non manifestent' (wirszubski1989:2606; 'decern' as printed for 'decem').",
+ "translation": "There are no letters in the whole Law that do not manifest, in their shapes, combinations, separations, crookedness, direction, deficiency, superabundance, smallness, largeness, crowning, closure, opening, and order, the secrets of the ten numerations.",
+ "translation_note": "'tota lege' = 'the whole Law' (the Torah). 'numerationum' = the sefirot, per Farmer's note (farmer1998:18216). The sentence is an emphatic universal claim built on a double negative ('Nullae... quae... non manifestent'): every letter's formal and scribal features are held to encode sefirotic secrets.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:18183 (full sentence per wirszubski1989:2606)",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18183).",
+ "sources": [
+  {
+   "text": "Menahem Recanati's Hebrew text (Commentary on the Pentateuch)",
+   "locator": "wirszubski1989:3137",
+   "pico_relation": "Wirszubski identifies Recanati, rather than Nahmanides or Eleazar of Worms, as the source from which Pico learned that Masoretic letter-peculiarities encode sefirotic mysteries"
+  }
+ ],
+ "doctrine": "Thesis 28.33 holds that every letter of the Torah encodes, through its shape, combination, separation, orientation, and other scribal features, 'the secrets of the ten numerations' (farmer1998:18183; full text wirszubski1989:2606). Farmer's note calls this 'a close reading of Recanati's Hebrew text', citing Wirszubski (1989: 45-46), and treats the thesis as reflecting 'Pico's general views of the mystical and magical powers of Hebrew' (paraphrase; farmer1998:18216).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 11>35 (farmer1998:27129), 26.5 of the Chaldean theologians (farmer1998:17143), 28.47 (farmer1998:18410), 2>80 on Hebrew as the first language (farmer1998:20213), 3>55 on the order of the Hebrew language as a rule for finding the knowable (farmer1998:21095), and 9>22 on the necessity of Hebrew names in magical operation (farmer1998:25378). Busi and Ebgi's edition prints the Latin of 28.33 as a footnote to their discussion of thesis 3>55 (busi2014:20322), and Mandosio likewise cites it alongside 3>55 and 9>22 (mandosio2012:471).",
+ "reception": "Wirszubski quotes the thesis in full as his 'Conclusio XXXIII' (wirszubski1989:2604, 2606) and states directly: \"In the thirty-third thesis secundum secretam doctrinam sapientum Hebraeorum Cabalistarum, he states:\" before quoting it (wirszubski1989:8709).",
+ "historiography": "Wirszubski uses the thesis as a source-critical test case, concluding: \"It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot\" (wirszubski1989:3137).",
+ "connections": [
+  "11>35",
+  "26.5",
+  "28.47",
+  "2>80",
+  "3>55",
+  "9>22"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot",
+   "work": "wirszubski1989",
+   "line": 3137,
+   "verbatim": true
+  },
+  {
+   "text": "Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate, maioritate, coronatione, clausura, apertura, et ordine decern numerationum secreta non manifestent.",
+   "work": "wirszubski1989",
+   "line": 2606,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific passage of Recanati underlying the thesis is cited by Wirszubski only in general terms in the packet consulted, not quoted; not established further.",
+  "Farmer's cross-reference '2227, 358-9' (farmer1998:18216) could not be resolved to a specific work from the packet alone."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

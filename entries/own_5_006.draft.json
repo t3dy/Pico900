@@ -1,0 +1,45 @@
+{
+ "thesis_id": "5>6",
+ "tier": "B",
+ "latin": "Ideo amor ab Orpheo sine oculis dicitur, quia est supra intellectum.",
+ "latin_source": "farmer1998:22234",
+ "translation": "That is why Orpheus calls love blind: because it stands above the intellect.",
+ "translation_note": "'sine oculis', literally 'without eyes', is rendered idiomatically as 'blind'. Howlett's own translation, 'Love is said by Orpheus to be without eyes, because it is above the intellect' (howlett2021:7664), is a related but distinct phrasing and is not reproduced here.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch4, from Latin at farmer1998:22234",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:22234).",
+ "sources": [
+  {
+   "text": "An Orphic fragment (ed. O. Kern, fr. 82) describing love as blind or without eyes",
+   "locator": "busi2014:6435",
+   "pico_relation": "Busi identifies this as the ninth of Pico's own numbered sources for the Plato theses ('fonte 9') behind this thesis"
+  }
+ ],
+ "doctrine": "The thesis holds that Orpheus's description of love as without eyes signifies that love stands above the intellect (farmer1998:22234; busi2014:24375). Busi notes that Pico numbers the Orphic fragment behind the thesis as his ninth source, and observes that the idea of a love-power exceeding the intellect recurs in Pico's later De Ente et Uno (busi2014:6435).",
+ "context": "Farmer's cross-reference network links the thesis to eleven others across three sections: on beatitude residing essentially in the act of intellect (2.12), on the world-soul (23.9), on the six transcendentals the 'common doctrine' wrongly attributes to Aristotle (2>13), to a run of other Plato theses on love (5>7, 5>8, 5>14, 5>21, 5>24, 5>25, 5>48, 5>49), and to the Kabbalistic division of speculative and practical Kabbalah at 11>1 (farmer1998:11419; farmer1998:15761; farmer1998:19083; farmer1998:22237; farmer1998:22241; farmer1998:22358; farmer1998:22547; farmer1998:22561; farmer1998:22565; farmer1998:22987; farmer1998:22994; farmer1998:26318).",
+ "reception": null,
+ "historiography": "Howlett quotes the thesis, alongside Pico's Commentary on Benivieni's canzone, without extended discussion in the excerpt available (howlett2021:7664). Busi situates the thesis within Pico's own numbered source-apparatus for the Plato conclusions and connects its claim about a supra-intellectual love to Pico's later De Ente et Uno (busi2014:6435).",
+ "connections": [
+  "2.12",
+  "23.9",
+  "2>13",
+  "5>7",
+  "5>8",
+  "5>14",
+  "5>21",
+  "5>24",
+  "5>25",
+  "5>48",
+  "5>49",
+  "11>1"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether Pico's cross-references at 5>6 imply a systematic doctrine connecting Plato, the Kabbalah (11>1) and the transcendentals (2>13), or are only associative: not established by the sources consulted.",
+  "Any reception of this thesis by the 1487 commission or in the Apologia: not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-swarm-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

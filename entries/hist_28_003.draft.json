@@ -1,0 +1,50 @@
+{
+ "thesis_id": "28.3",
+ "tier": "B",
+ "latin": "Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii.",
+ "latin_source": "farmer1998:17540",
+ "translation": "Although the ineffable name is a property of clemency, it must nevertheless not be denied that it contains the property of judgment.",
+ "translation_note": "'nomen ineffabile' = the Tetragrammaton (YHVH), the ineffable divine name. 'clementiae'/'iudicii' = clemency and judgment; Farmer's note associates these with the sixth and fifth sefirot respectively (paraphrase; farmer1998:17608).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch3, from Latin at farmer1998:17540",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17540).",
+ "sources": [
+  {
+   "text": "Liber Combinationum, Cod. Vat. Ebr. 190, fol. 41r",
+   "locator": "wirszubski1989:1358",
+   "pico_relation": "identified by Wirszubski as the direct manuscript source of thesis 28.3"
+  }
+ ],
+ "doctrine": "Thesis 28.3 holds that the ineffable divine name, though a property of clemency, must also be granted to contain the property of judgment (farmer1998:17540). Farmer's note identifies the 'ineffable name' as YHVH, 'normally associated with the sixth of the ten sefirot', and 'clemency'/'judgment' as 'usual properties of the sixth and fifth sefirot respectively', glossing the thesis as an instance of 'Pico's standard... view that all divine properties exist in some way on every hierarchical level' (paraphrase; farmer1998:17608).",
+ "context": "Farmer's cross-reference apparatus ties the thesis to 1>4, on Aquinas, Scotus, and Giles agreeing fundamentally on the subject of theology despite verbal disagreement (farmer1998:18587), and to 24.16-17 of Proclus (farmer1998:16161, 16166).",
+ "reception": "Corazzol quotes the thesis in full, identifying it as 'the third of the forty-seven Conclusiones secundum secretam doctrinam sapientum Hebreorum cabalistarum', and asks: \"Can we assume that Pico indeed had an interest in Middat ha-Din, the 'Property of Judgment', and its power?\" (corazzol2019:919). Wirszubski quotes the thesis in full as his 'Conclusio III' (wirszubski1989:1355, 1358, 7253, 9235).",
+ "historiography": "Wirszubski identifies the thesis's direct manuscript source: \"The direct source is Liber Combinationum, Cod. Vat. Ebr. 190, fol. 41r:\" (wirszubski1989:1358). Corazzol frames the thesis as evidence of Pico's specific interest in the Kabbalistic concept of Middat ha-Din, the 'Property of Judgment' (corazzol2019:919).",
+ "connections": [
+  "1>4",
+  "24.16",
+  "24.17"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Can we assume that Pico indeed had an interest in Middat ha-Din, the “Property of Judgment”, and its power?",
+   "work": "corazzol2019",
+   "line": 919,
+   "verbatim": true
+  },
+  {
+   "text": "The direct source is Liber Combinationum, Cod. Vat. Ebr. 190, fol. 41r:",
+   "work": "wirszubski1989",
+   "line": 1358,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of the Liber Combinationum passage itself at fol. 41r is not quoted in the packet material consulted; not established beyond the citation.",
+  "Whether Pico's answer to Corazzol's framing question (his interest in Middat ha-Din specifically) is addressed further in Corazzol's article is not established from the excerpt consulted."
+ ],
+ "writer": "WRITER-swarm-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

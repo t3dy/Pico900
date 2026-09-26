@@ -1,0 +1,52 @@
+{
+ "thesis_id": "3.6",
+ "tier": "B",
+ "latin": "Nulla diffinitio adaequat diffinitum.",
+ "latin_source": "farmer1998:11990",
+ "translation": "No definition is adequate to [fully matches] the thing defined.",
+ "translation_note": "'diffinitum' is the scholastic substantive for the thing being defined (the definiendum); 'adaequat' carries the technical sense of exact correspondence or equality, not merely 'is suitable for'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:11990",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes (farmer1998:11990).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Tractatus formalitatum secundum doctrinam Francisci Mayronis",
+   "locator": "edelheit2022:13399",
+   "pico_relation": "Edelheit identifies this and the following thesis (3.7) as drawn from Francis's Tractatus formalitatum"
+  }
+ ],
+ "doctrine": "Edelheit places this thesis, together with 3.7, within Francis of Meyronnes's Tractatus formalitatum secundum doctrinam Francisci Mayronis (edelheit2022:13399), locating Pico's Latin at 900 Theses p. 232 (edelheit2022:13535). He reports that in the Tractatus, discussion of whether a 'formality' is definable proceeds by two analogies Francis presents (edelheit2022:13512), and that Pico's thesis states 'there is no definition which is adequate to the thing it defines' in 'slightly different formulation and focus' from Francis's own discussion (edelheit2022:13512). Farmer's note independently classes 3.6 among 'several theses with strong nominalistic overtones' (farmer1998:12063).",
+ "context": "Farmer groups 3.6 with a cluster of nominalism-inflected theses spanning both the historical and Pico's-own-opinion sections: 7.41, 13.1, 2>2-3, and 2>46 (farmer1998:12063).",
+ "reception": null,
+ "historiography": "Edelheit (2022) finds an apparent tension between Pico's thesis and Francis's actual doctrine: 'in the case of thesis 6 we do seem to have a problem since the opposite idea is found in Francis's writings,' which he calls 'an anomaly' that 'ought to be a subject for further research' (edelheit2022:13691). He attributes the divergence tentatively to 'the abbreviated nature of the theses' and to Pico's own understanding and 'interpretation' of Francis's discussion, which needed 'to change the focus of the original discussion' (edelheit2022:13691).",
+ "connections": [
+  "7.41",
+  "13.1",
+  "2>2",
+  "2>3",
+  "2>46",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "3>7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In the case of thesis 6 we do seem to have a problem since the opposite idea is found in Francis’s writings.",
+   "work": "edelheit2022",
+   "line": 13691,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which two analogies Francis presents for the indefinability of 'formality' is not detailed beyond Edelheit's summary (edelheit2022:13512).",
+  "Whether later scholarship has resolved the anomaly Edelheit flags is not established by the sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,46 @@
+{
+ "thesis_id": "1.10",
+ "tier": "B",
+ "latin": "Obiectum per se et proprie sensus communis est magnitudo, ut bene dixit Auicenna.",
+ "latin_source": "farmer1998:11053",
+ "translation": "The object of the common sense, in itself and properly, is magnitude, as Avicenna well said.",
+ "translation_note": "'sensus communis' is the scholastic 'common sense', the internal faculty synthesizing data from the five external senses, not the modern colloquial sense of the phrase; 'per se et proprie' rendered 'in itself and properly [speaking]'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch7, from Latin at farmer1998:11053",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11053).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on Aristotle's De anima, Book 2, Tract. 3, Chapter 5",
+   "locator": "edelheit2022:9662",
+   "pico_relation": "Edelheit locates Albert's division of the sensatum into two kinds as the source for the doctrine, with Avicenna as Pico's named authority"
+  }
+ ],
+ "doctrine": "Farmer's note explains that 'objects of common sense' (or 'common sensibles') comprised everything, like magnitude, perceptible by more than one sense organ, and that scholastic debate concerned how many such objects existed and whether a distinct faculty, the sensus communis, was needed to perceive them; Pico, Farmer adds, 'planned an extended discussion' of the topic (farmer1998:11125). Edelheit finds 'in thesis 10 it is stated that an object per se and especially of the common sense is magnitude, as Avicenna well argued,' tracing this to Albert's commentary on De anima, Book 2, Tract. 3, Chapter 5, where the sensatum (sensed object) is divided into two kinds (edelheit2022:9639, 9662).",
+ "context": "Edelheit again groups this thesis among 7-10, a set on sense perception drawn from Albert (edelheit2022:9488), and reiterates his difficulty in explaining Pico's rationale for devoting several theses to such standard, limited material (edelheit2022:10159).",
+ "reception": null,
+ "historiography": "Edelheit (2022) attributes the doctrine to Albert's De anima commentary on the division of the sensatum, citing Pico's wording at 900 Theses p. 214 (edelheit2022:9662).",
+ "connections": [
+  "10.3",
+  "13.3",
+  "2.6",
+  "2>30",
+  "2>58",
+  "3>41"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 10 it is stated that an object per se and especially of the common sense is magnitude, as Avicenna well argued.",
+   "work": "edelheit2022",
+   "line": 9639,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The nature of the 'extended discussion' Farmer says Pico planned (farmer1998:11125) is not further specified in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
