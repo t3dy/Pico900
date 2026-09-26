@@ -255,13 +255,40 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
+## 2026-09-25 — Phase 1 Prioritization (T)
+
+**Decision**: Prioritize Neoplatonic (S1) and Arabic philosopher sections (S3, S4) for Phase 1 Wave 1.
+
+**Rationale**:
+- Existing research in PicoDB covers these areas extensively (15+ study passes)
+- Megabase has translation passes + essay fragments on these sections
+- Fastest path to high-quality deliverables
+- Copenhaver provides backbone for theological (S9) sections; can defer those
+
+**Rules out**:
+- Default left-to-right section ordering
+- Starting with understudied sections (S8 on medieval Jewish philosophers)
+
+**Dispatch order for Phase 1**:
+1. Wave 1: S1 (Platonics), S3 (Averroes), S4 (Avicenna) — H2, H3, H4
+2. Wave 2: S2 (Aristotle), S5 (Zoroastrianism), S6 (Hermeticism) — H5, H6, H7
+3. Wave 3: S7 (Kabbalah) — H8 (strongest agent, due to source difficulty)
+4. Wave 4: S8 (Medieval Jewish) — H9
+5. Wave 5: S9 (Christian Theology) — H10
+
+**Implementation**:
+- Update PHASE_1_ROADMAP.md to reflect priority ordering
+- Create CRITICAL_EDITION_TAXONOMY.md with section priority tiers + incipit ranges
+- Dispatch log will track actual order (may differ from plan based on agent availability)
+
+---
+
 ## Next Decision Gates
 
-- **After H1-HARVESTER completes**: Validate JSON, dispatch P1-PORTER
-- **After P1 completes**: Dispatch S1 + S2 in parallel
-- **After S1 + S2 complete**: Dispatch R1-REVIEWER
-- **After R1 approves**: Dispatch RETROSPECTIVE
-- **After Phase 0 complete**: Evaluate heretical essay output. Retrospective: Did the pipeline work? What was slow? What to change for Phase 1?
-- **Before Phase 1 (Harvest all 900)**: Approve pipeline methodology based on Phase 0 learnings.
-- **Mid-project decision**: If heretical essay reveals structural problems, pause and re-architect before scaling.
+- **Phase 0 → GitHub**: Commit Phase 0 deliverables + push to GitHub Pages ✓ (DONE)
+- **Phase 1 infrastructure**: Create PHASE_1_ROADMAP.md, ORCHESTRATION.md, TAXONOMY.md, RESEARCH_QUEUE.json ✓ (IN PROGRESS)
+- **Phase 1 launch**: User approval to dispatch H2, H3, H4 for Wave 1 (awaiting)
+- **Mid-Phase 1**: Retrospective checkpoint after S1–S4 complete (optional)
+- **Phase 1 complete**: Evaluate all 900 conclusions against success criteria
+- **Phase 2 gate**: Approve website UI + deployment plan before building
 
