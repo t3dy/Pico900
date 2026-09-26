@@ -1,0 +1,25 @@
+{
+ "thesis_id": "4>25",
+ "tier": "B",
+ "latin": "Secunda conclusio est haec: Licet actus intellectus formaliter foelicitantis attingat obiecti essentiam, tamen quod actus suus circa illum actus sit foelicitatis, formaliter habet ab actu uoluntatis.",
+ "latin_source": "farmer1998:21973",
+ "translation": "The second conclusion is this: although the act of intellect that formally confers happiness attains the essence of its object, nevertheless that its act concerning that object is an act of happiness, it has formally from an act of will.",
+ "translation_note": "'Secunda conclusio est haec' marks this thesis as the direct continuation of 4>24's 'first' conclusion (farmer1998:21967).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21973",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, the second of the pair of conclusions announced at 4>24 (farmer1998:21967).",
+ "doctrine": "Completing 4>24, this thesis grants that the beatifying act of intellect attains the essence of its object, but holds that the act's character as an act of happiness specifically comes formally from an act of will, not from the intellect's own act (farmer1998:21973); Black quotes the thesis in full immediately after 4>24 in the same footnote sequence on Pico's theory of beatific cognition (black2006:10036).",
+ "historiography": "Black also connects this pair of theses to a related question among Pico's numerical conclusions, 'Utrum felicitas consistat in...' [whether happiness consists in...], though the material he quotes breaks off before the question's content or Pico's answer to it (black2006:10036).",
+ "connections": [
+  "4>24",
+  "4>11"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The full text and content of the related 'numerical conclusion' on felicity that Black cites at black2006:10036 is not given in the material consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

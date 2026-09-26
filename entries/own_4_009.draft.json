@@ -1,0 +1,40 @@
+{
+ "thesis_id": "4>9",
+ "tier": "B",
+ "latin": "Licet ita mihi uideatur probabile, non est tamen pertinaciter asserendum quod anima Christi per alium modum nobis ignotum non potuerit in infernum descendere.",
+ "latin_source": "farmer1998:21661",
+ "latin_note": "The 1486 print reads 'ignotum potuerit'; Pico's own Emendationes errorum corrects this to 'non potuerit', the reading the 1487 print and the text given here follow (farmer1998:21683).",
+ "translation": "Although this seems probable to me, one should not, however, insist obstinately that the soul of Christ could not, by some other way unknown to us, have descended into hell.",
+ "translation_note": "The double negative ('non...non potuerit') leaves open a possibility rather than denying one; my rendering follows the corrected 1487 reading (farmer1998:21683).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21661",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the theological conclusions 'against the common mode' (farmer1998:21661); Dougherty calls the immediately preceding thesis, which this one qualifies, 'the first questionable thesis' (dougherty2008:2264).",
+ "doctrine": "Where the immediately preceding thesis, 4>8, had denied that Christ 'truly and as to real presence descended into hell as Thomas and the common way hold, but only as to effect' (farmer1998:21657), this thesis immediately qualifies that denial, holding only probably, and refusing to assert obstinately, that Christ's soul could not have descended by some other, unknown way (farmer1998:21661); Farmer reads it as evidence that Pico recognized the theological danger already present in 4>8 as he had originally proposed it, adding that the papal commission passed over this qualification when it examined the preceding thesis (farmer1998:21742).",
+ "reception": "Dougherty observes that this thesis, 'immediately following the first questionable thesis, was not disputed, even though it may put all rational theology into jeopardy' (dougherty2008:2264); it is not among the thirteen theses the 1487 commission censured, unlike the thesis on the descent it qualifies (farmer1998:21657).",
+ "historiography": "Farmer's cross-reference apparatus for this thesis also points to 4>11-12, on the beatific vision (farmer1998:21848), and to 2>16, on the logician's treatise on supposition (farmer1998:19092), without explaining either connection in the note excerpted here.",
+ "connections": [
+  "2>16",
+  "4.15",
+  "4>8",
+  "4>10",
+  "4>11",
+  "4>12",
+  "4>17"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "thesis 4>9, immediately following the first questionable thesis, was not disputed, even though it may put all rational theology into jeopardy",
+   "work": "dougherty2008",
+   "line": 2264,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The 1486 print's reading before the Emendationes correction ('ignotum potuerit') is recorded, but its resulting sense is not glossed in the material consulted.",
+  "The relevance to this thesis of Farmer's further note on canon law and Origen at farmer1998:22115 is not clear from the excerpt consulted, and it is not asserted here."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

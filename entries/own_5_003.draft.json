@@ -1,0 +1,27 @@
+{
+ "thesis_id": "5>3",
+ "tier": "B",
+ "latin": "Qui nouerit modum illuminationis superiorum super media intelliget idem significare et Platonicos per congregationem animarum in Monte Ida, et hebreos per animarum congregationem in Monte Synao in auditione legis.",
+ "latin_source": "farmer1998:22219",
+ "translation": "Whoever has grasped the mode by which higher things give light to the intermediate ones will understand that the Platonists mean the same thing by the gathering of souls on Mount Ida as the Hebrews mean by the gathering of souls at Mount Sinai in the hearing of the Law.",
+ "translation_note": "This rendering is drafted independently from the Latin and checked for sense against, but does not reproduce, Farmer's own English paraphrase of the thesis (farmer1998:22282).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:22219",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the conclusions 'according to the doctrine of Plato' (farmer1998:22219).",
+ "doctrine": "The thesis asserts a concordist equivalence: the Platonists' account of souls gathering on Mount Ida and the Hebrews' account of souls gathering at Sinai to hear the Law both describe, in Pico's reading, the same process of illumination from higher to intermediate things (farmer1998:22219); Farmer's cross-reference apparatus links it forward to two neighboring theses on the same theme, 5>4, on Pherecydes and the Platonic doctrine of causation (farmer1998:22224), and 5>5, on Empedocles's 'intelligible sphere' as the archetypal world (farmer1998:22229).",
+ "historiography": "An unauthored German-language study cites this thesis together with the Kabbalistic conclusion 11>49 (kabbalah_paradigma:1644), and its footnote further reports that Valcke's Entre Raison et Foi, at pages it gives as 205 to 208, stresses the influence of Plotinus on this passage; that claim is taken here at second hand from the citing footnote and has not been checked against Valcke's book directly (kabbalah_paradigma:1644).",
+ "connections": [
+  "5>4",
+  "5>5",
+  "11>49"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The specific Plotinian influence Valcke is reported to identify (kabbalah_paradigma:1644) is not itself described in the material consulted.",
+  "Busi and Ebgi's index entries for this thesis (busi2014:20271, busi2014:26614) list page locations without further discussion in the excerpts consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

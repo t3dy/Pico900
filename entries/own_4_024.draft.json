@@ -1,0 +1,25 @@
+{
+ "thesis_id": "4>24",
+ "tier": "B",
+ "latin": "Tenendo communem uiam theologorum, quod foelicitas sit in intellectu uel in uoluntate, dico duas conclusiones, quarum prima est haec: quod intellectus ad foelicitatem non perueniret nisi esset actus uoluntatis, qui in hoc est ipso actu intellectus potior.",
+ "latin_source": "farmer1998:21967",
+ "translation": "Holding the common way of the theologians, that happiness lies in the intellect or in the will, I state two conclusions, the first of which is this: that the intellect would not arrive at happiness unless there were an act of the will, which in this respect is more powerful than the very act of the intellect.",
+ "translation_note": "'Tenendo communem uiam' echoes the same conditional framing ('si teneatur communis uia') that opens 4>11, again holding a common theological position for the sake of the argument that follows (farmer1998:21670).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21967",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, again cast as holding the common way of the theologians for argument's sake (farmer1998:21967).",
+ "doctrine": "Within the common theologians' alternative of locating happiness in intellect or in will, Pico's first conclusion holds that the intellect cannot reach happiness without an act of will, which is here the more powerful of the two acts (farmer1998:21967); Black quotes this thesis's Latin together with its companion, 4>25, in a discussion of Pico's theory of beatific cognition, immediately after quoting 4>11 in the same note (black2006:10033).",
+ "historiography": "Black's footnote sequence places this thesis and 4>25 directly after 4>11 and after a thesis from the Plotinus conclusions, treating the group as a connected set of statements on intellect, will, and felicity (black2006:10033).",
+ "connections": [
+  "4>11",
+  "4>25"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Whether Pico's own view coincides with, or merely entertains, the primacy of will over intellect asserted here is not addressed in the material consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,30 @@
+{
+ "thesis_id": "5>7",
+ "tier": "B",
+ "latin": "Cum dicit Plato in Timao in medio mundi positam animam, quicquid dicant caeteri Platonici, ego per medium lunam intelligo.",
+ "latin_source": "farmer1998:22237",
+ "latin_note": "Farmer's apparatus records a variant near 'caeteri' in the 1486 print, given only as the fragment 'coeten' in the material consulted (farmer1998:22247).",
+ "translation": "When Plato, in the Timaeus, says that the soul is placed in the middle of the world, whatever the other Platonists may say, I understand 'the middle' to mean the moon.",
+ "translation_note": "Pico's disclaimer, 'whatever the other Platonists may say,' sets his own reading against a rival interpretation Farmer's note associates with 23.9 (farmer1998:22320).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:22237",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, explicitly set against 'the other Platonists' (farmer1998:22237).",
+ "doctrine": "Against an unparticipated-soul reading of Timaeus's placement of the soul 'in the middle of the world', which Pico elsewhere reports for Iamblichus at 23.9, 'quam ideo in medio dicit positam, quia aequaliter omnibus adest, ab omni respectu et particulari habitudine liberata' [which is therefore said to be placed in the middle because it is present equally to all things, free from every relation and particular condition] (farmer1998:15761), this thesis proposes instead that Plato's 'middle' means, quite literally, the moon (farmer1998:22237); the identical disclaiming formula, 'whatever the other [authorities] may say, I...,' recurs in the Kabbalistic conclusions, where Pico writes 'Quicquid dicant caeteri Cabaliste, ego prima diuisione scientiam Cabalae...' [whatever the other Kabbalists may say, I, by a first division, would distinguish the science of Kabbalah...], there applied to his own division of Kabbalah into practical and speculative branches (11>1, farmer1998:26318).",
+ "historiography": "An unauthored German-language study cites this thesis together with the Kabbalistic conclusion 11>6 (kabbalah_paradigma:1510); the same footnote reports that Wirszubski's Pico's Book of Job, at a page it gives as 197, addresses an equation involving the sefirah Keter, though the rest of that claim is cut off in the material consulted, and it is reported here at second hand and has not been checked against Wirszubski's book directly (kabbalah_paradigma:1510).",
+ "connections": [
+  "11>1",
+  "23.9",
+  "5>8",
+  "11>6",
+  "2>13"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The content of the equation involving Keter that Wirszubski is reported to make (kabbalah_paradigma:1510) is not given complete in the material consulted.",
+  "The relevance of the cross-referenced theses 2>13 (on the transcendentals) and 5>8 (on the five Platonic transcendentals) to this thesis's specific claim about the moon is not explained in the sources consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
