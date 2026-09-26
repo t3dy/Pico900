@@ -3,11 +3,11 @@
  "tier": "C",
  "latin": "Non debet concedi partem in toto quantitatiuo a suo toto esse aliquo modo actu distinctam.",
  "latin_source": "farmer1998:19886",
- "latin_note": "The sheet's line-break slash in 'esse / aliquo' is repaired to a space.",
+ "latin_note": "The sheet's line-break slash in 'esse / aliquo' is repaired to a space (farmer1998:19886).",
  "translation": "It should not be granted that a part in a quantitative whole is in any way actually distinct from its whole.",
- "translation_note": "Sense checked; no further crux.",
+ "translation_note": "Sense checked against the Latin at farmer1998:19886, with no further crux identified.",
  "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19941; awaiting human check",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy) (farmer1998:19886).",
  "writer": "TRANSLATOR-T05, 2026-09-25"
 }

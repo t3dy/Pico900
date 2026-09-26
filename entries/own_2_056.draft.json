@@ -3,11 +3,11 @@
  "tier": "B",
  "latin": "Sonum non ex motu aeris intercepti inter duo corpora se percutientia, ut tenet Aristoteles_et expositores eius, sed ex contactu tali talium uel talium corporum, talem uel talem sonum causari, dico.",
  "latin_source": "farmer1998:19772",
- "latin_note": "1486 reads 'intercoepti' for 'intercepti'; an orthographic variant, sense unaffected.",
+ "latin_note": "1486 reads 'intercoepti' for 'intercepti' (farmer1998:19792); an orthographic variant, sense unaffected.",
  "translation": "I hold that sound is caused not by the motion of the air trapped between two colliding bodies, as Aristotle and his commentators maintain, but by the contact, of such-and-such a kind, of such-and-such bodies, producing such-and-such a sound.",
- "translation_note": "Sense checked; no further crux.",
+ "translation_note": "Sense checked.",
  "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19831; awaiting human check",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "attribution": "Pico's own.",
  "writer": "TRANSLATOR-T05, 2026-09-25"
 }
