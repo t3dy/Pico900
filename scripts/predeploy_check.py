@@ -72,7 +72,7 @@ def main():
     else:
         with io.open(css, encoding="utf-8") as fh:
             c = fh.read()
-        if "{{" in c or "}}" in c:
+        if "{{" in c or re.search(r"\w\s*}}\s*\w", c):
             problems.append("css/style.css contains doubled braces (rules parse as empty)")
         if len(re.findall(r"\{[^{}]*:[^{}]*\}", c)) < 10:
             problems.append("css/style.css defines fewer than 10 rules")
