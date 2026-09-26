@@ -5,7 +5,7 @@
  "latin_source": "farmer1998:25204",
  "latin_note": "Edelheit's transcription of the thesis, from the source he consulted, differs in word order at the close of the sentence: 'Miracula Christi non ratione rei facte sed ratione modi faciendi sue divinitatis argumentum sunt certissimum,' placing 'sunt' before 'certissimum' (edelheit2022:20927).",
  "translation": "The miracles of Christ are the most certain proof of his divinity, not by reason of the thing done, but by reason of the manner of doing it.",
- "translation_note": "The thesis contrasts 'ratione rei factae' (by reason of the thing done) with 'ratione modi faciendi' (by reason of the manner of doing), locating the evidentiary force of the miracle in how it is performed rather than in the deed itself.",
+ "translation_note": "Translated literally throughout.",
  "translator": "original translation, drafted 2026-09-26 by WRITER-swarm-batch1, from Latin at farmer1998:25204",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion (farmer1998:25204).",
@@ -13,7 +13,7 @@
  "doctrine": "Farmer directs readers to his discussion of theses 9>7 through 9>9 together, without paraphrasing the argument further in the note itself (farmer1998:25257). The three theses form a sequence: 9>7 denies that Christ's works could have been performed by the way of magic or the way of Cabala, this thesis (9>8) holds that Christ's miracles prove his divinity through their manner of performance rather than the deeds themselves, and 9>9 holds that no science confirms Christ's divinity more than magic and Cabala (farmer1998:25200; farmer1998:25204; farmer1998:25208).",
  "context": "The thesis stands in Farmer's numbering among the Magic conclusions, in a run with 9>7 and 9>9; Farmer also cross-references it to 1>6, on the Thomist-Scotist distinction ex natura rei, and to 9>10, holding that what the magician does through art, nature does naturally in making a human being (farmer1998:18596; farmer1998:25268).",
  "reception": "Copenhaver's numbering of the condemned theses gives Q11 the topic 'Miracle' (copenhaver2022:848); the identification of Q11 with this thesis, rather than with its neighbor 9>7, is not established by the sources consulted (see not_established).",
- "historiography": "An unidentified compilation, Knots and Spirals I: Pico della Mirandola, prints 9>7 through 9>9 together as a numbered run without extended argument (knots_spirals:501). Wirszubski, discussing Pico's fifth Quaestio (the Apology's defense of magic and Cabala), cites the thesis's Latin as Conclusiones Magicae no. 8, noting that in quotations from that Quaestio he corrected misprints in the 1487 editio princeps \"but retaining the spelling of the Basle edition\" (wirszubski1989:6283).",
+ "historiography": "An unidentified compilation, Knots and Spirals I: Pico della Mirandola, prints 9>7 through 9>9 together as a numbered run without extended argument (knots_spirals:501). Wirszubski, discussing Pico's fifth Quaestio (the Apology's defense of magic and Cabala), cites the thesis's Latin as Conclusiones Magicae number 8, noting that in quotations from that Quaestio he corrected misprints in the 1487 editio princeps \"but retaining the spelling of the Basle edition\" (wirszubski1989:6283).",
  "connections": [
   "1>6",
   "9>10",
