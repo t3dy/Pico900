@@ -3,13 +3,13 @@
  "tier": "B",
  "latin": "Per hanc dictionem <WN>; quae scribitur per Aleph, Iod, et / Scin, et significat Virum, quae deo attribuiturcum dicitur Vir belli, de trinitatis mysterio per uiam Cabalae perfectissime admonemur.",
  "latin_source": "farmer1998:27117",
- "latin_note": "The bracketed siglum '<WN>' in the corpus OCR represents the Hebrew word that the Latin itself says is spelled with Aleph, Iod, and Scin (shin) and signifies 'Virum' (man); the same OCR copy also runs 'attribuitur' and 'cum' together as 'attribuiturcum' (farmer1998:27117). The 1486 print reads 'dicitur. Vir belli' at the corresponding point (farmer1998:27143).",
+ "latin_note": "The bracketed siglum '<WN>' in the corpus OCR represents the Hebrew word that the Latin itself says is spelled with Aleph, Iod, and Scin (shin) and signifies 'Virum' (man); the same OCR copy also runs 'attribuitur' and 'cum' together as 'attribuiturcum' (farmer1998:27117). The 1486 print's apparatus places a full stop between 'dicitur' and 'Vir belli' at the corresponding point (farmer1998:27143).",
  "translation": "By this term <WN>, which is written with Aleph, Yod, and Shin and signifies 'Man' — a term attributed to God when he is called 'a man of war' — we are most perfectly admonished, by way of the Cabala, of the mystery of the Trinity.",
  "translation_note": "Wirszubski brackets the scriptural source of 'Vir belli' ('man of war') as Exodus 15:3 (wirszubski1989:9035).",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27117",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion (farmer1998:27117).",
- "doctrine": "Farmer's edition carries no note on this thesis (per the material consulted). The argument turns on a Hebrew word for 'man', spelled by the letters Aleph, Yod, and Shin and applied to God at Exodus 15:3 as 'Vir belli' ('a man of war'), from which Pico draws, by way of Cabala, an admonition concerning the Trinity (farmer1998:27117; wirszubski1989:9035). The Erkenntnistheorie study cross-references this thesis's spelling to 11>43, which concerns the two letters vau and iod and how they make known that the Messiah, as God, was the beginning of himself as man (kabbalah_paradigma:1949).",
+ "doctrine": "The argument turns on a Hebrew word for 'man', spelled by the letters Aleph, Yod, and Shin and applied to God at Exodus 15:3 as 'Vir belli' ('a man of war'), from which Pico draws, by way of Cabala, an admonition concerning the Trinity (farmer1998:27117; wirszubski1989:9035). The Erkenntnistheorie study cross-references this thesis's spelling to 11>43, which concerns the two letters vau and iod and how they make known that the Messiah, as God, was the beginning of himself as man (kabbalah_paradigma:1949).",
  "historiography": "Wirszubski states that 'it was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot' in this thesis (wirszubski1989:3137), and elsewhere quotes its Latin in full with the Exodus reference bracketed (wirszubski1989:9035, 9037).",
  "connections": [
   "11>43"
@@ -30,7 +30,7 @@
   }
  ],
  "not_established": [
-  "Farmer's edition carries no note on this thesis in the material consulted, so the background beyond the comparison with 11>43 and Exodus 15:3 is not established here.",
+  "The packet gives no Farmer note on this thesis; the doctrinal background beyond the comparison with 11>43 and Exodus 15:3 is not established here.",
   "The full content of the Erkenntnistheorie study's cross-reference beyond the bibliographic grouping is not established here, the German text not having been translated or opened beyond the cited line (kabbalah_paradigma:1949)."
  ],
  "writer": "WRITER-full-batch19 (agent), 2026-09-26",
