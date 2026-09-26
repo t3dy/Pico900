@@ -610,7 +610,7 @@
   {
    "id": "T-ENT-01",
    "title": "Tier-A entries for the 13 condemned + 49 most-cited theses (7 WRITER agents, launched 2026-09-25 21:15)",
-   "status": "doing",
+   "status": "review",
    "prompts": [],
    "owns": [
     "entries/"
@@ -622,12 +622,17 @@
     "writing"
    ],
    "gate": "",
-   "owner": "window-8857d983 (7 writer agents)",
+   "owner": "window-relaxed-feynman-04aunp (32 writer batches)",
    "history": [
     [
      "2026-09-26T04:38:13+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-09-26T06:50:11+00:00",
+     "review",
+     "All 900 theses now have entries (own_ + hist_), all pass entry_gate_local.py after 10-batch remediation (Sept 26). Real entry_gate.py cannot run in this sandbox (needs E:\\pdf). Corpus-verification pass against uploaded source texts underway: 393/477 quotations confirmed genuine so far, remainder being investigated/fixed for fabrication or misattribution before promotion."
     ]
    ]
   },
@@ -646,7 +651,7 @@
     "writing"
    ],
    "gate": "",
-   "owner": "window-8857d983 (10 translator agents)",
+   "owner": "window-relaxed-feynman-04aunp",
    "history": [
     [
      "2026-09-26T04:38:13+00:00",
@@ -657,6 +662,11 @@
      "2026-09-26T05:15:18+00:00",
      "review",
      "Interrupted at session limit; drafts in entries/ need entry_gate remediation"
+    ],
+    [
+     "2026-09-26T06:50:11+00:00",
+     "review",
+     "Folded into T-ENT-01 scope: all non-tier-A theses now covered by the same 900-entry build."
     ]
    ]
   },
