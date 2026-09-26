@@ -1,0 +1,35 @@
+{
+ "thesis_id": "11>47",
+ "tier": "B",
+ "latin": "Qui sciet proprietatem Aquilonis in cabala, sciet cur sathan Christo promisit regna mundi, si cadens eum adorasset.",
+ "latin_source": "farmer1998:27343",
+ "translation": "Whoever will know the property of the North Wind in the Kabbalah will know why Satan promised Christ the kingdoms of the world, if, falling down, he would worship him.",
+ "translation_note": "'Aquilonis' (the North Wind) is glossed as the standard symbol of the fifth sefirah, regularly associated with Satan and the origin of evil but also, for Pico, with magical power; whether 'regna mundi' (the kingdoms of the world) is meant to signify the sefirah Malkhut is left an open question by Farmer's note (paraphrase; farmer1998:27408).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27343",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27343).",
+ "doctrine": "Farmer's note identifies 'Aquilo' (the north wind) as the standard symbol of the fifth sefirah, one of whose properties was power, and reports that the fifth sefirah was regularly associated with Satan and the origin of evil, while Pico elsewhere also associates it with magical power (paraphrase; farmer1998:27408, cross-referring to 10>10). The thesis reads the Gospel temptation narrative, in which Satan offers Christ the kingdoms of the world (farmer1998:27343), as intelligible through this sefirotic property.",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism identifies the sefirah in question as Might or Judgment (Gevurah) and treats the thesis as an example, stated 'secundum opinionem propriam,' of Pico's independent kabbalistic reasoning (wirszubski1989:9590). A German study of Pico's Kabbalistic epistemology quotes the thesis's Latin in a discussion pairing it with theses 11>22 and 11>44 (kabbalah_paradigma:2106); its further German argument, including a remark relating the sefirah Geburah's effect structurally to original sin, is not established here in its full sense.",
+ "connections": [
+  "10>10"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "the sefirah called Might or Judgment, shows through Pico's forty-seventh Kabbalistic thesis secundum opinionem propriam",
+   "work": "wirszubski1989",
+   "line": 9590,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The full sense of the kabbalah_paradigma remark relating Geburah's effect to original sin ('Strukturell entspricht die Wirkung Geburah auf diese Weise der Erbsünde') is not established here, the German text not having been translated in full (kabbalah_paradigma:2106).",
+  "Whether Farmer's proposed identification of 'regna mundi' with the sefirah Malkhut is accepted in the scholarship consulted is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

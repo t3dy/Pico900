@@ -1,0 +1,39 @@
+{
+ "thesis_id": "11>64",
+ "tier": "B",
+ "latin": "In textu, Audi Israhel, dominus deus noster dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori ad inferius, quam ab inferiori ad superius bis.",
+ "latin_source": "farmer1998:27756",
+ "translation": "In the text 'Hear, O Israel, the Lord our God, the Lord is one,' it is more correct that there be understood a gathering from the lower to the higher, and from the higher to the lower, than from the lower to the higher twice.",
+ "translation_note": "The quoted text is the liturgical Shema, Deuteronomy 6:4, which Farmer's note identifies as, like this thesis, underscoring the oneness of God (paraphrase; farmer1998:27815).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27756",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27756).",
+ "sources": [
+  {
+   "text": "Deuteronomy 6:4 (the Shema, 'Audi Israhel...')",
+   "locator": "farmer1998:27815",
+   "pico_relation": "The thesis interprets the liturgical Shema, identified by Farmer's note as underscoring the oneness of God, as pointing to a kabbalistic 'gathering' between the seven inferior and three superior sefirot."
+  }
+ ],
+ "doctrine": "The thesis reads the repeated 'Lord' of the Shema (Deuteronomy 6:4) as pointing not to a double movement from the lower to the higher but to a reciprocal 'gathering,' from lower to higher and from higher to lower (farmer1998:27756). Farmer's note glosses this as pertaining to the underlying unity of the seven inferior and three superior sefirot, while stating that how the thesis bears on Christianity specifically is not clear from the note itself (paraphrase; farmer1998:27815).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism situates the thesis within a chapter linking 'the symbolism of the ten sefirot' to 'Pico's Kabbalistic confirmation of Christianity,' and quotes its Latin in full (wirszubski1989:9129, 9131).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "links the symbolism of the ten sefirot with Pico's Kabbalistic confirmation of Christianity",
+   "work": "wirszubski1989",
+   "line": 9129,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "How the thesis's sefirotic reading of the Shema bears specifically on Christian doctrine is, per Farmer's own note, not established (farmer1998:27815)."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

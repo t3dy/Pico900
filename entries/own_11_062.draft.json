@@ -1,0 +1,35 @@
+{
+ "thesis_id": "11>62",
+ "tier": "B",
+ "latin": "Qui profunde considerauerit nouenarium beatitudinum numerum de quo apud Matheum in euangelio, uidebit illas mirabiliter conuenire nouenario",
+ "latin_source": "farmer1998:27741",
+ "translation": "Whoever will have deeply considered the ninefold number of the beatitudes spoken of in the Gospel according to Matthew will see that they wonderfully agree with the ninefold [...]",
+ "translation_note": "The Latin given in data/inventory/theses.json ends mid-sentence at 'nouenario'; the translation stops at the same point, marked '[...]'. Busi and Ebgi's edition quotes a fuller continuation of the same thesis's Latin, extending through '...numerationum quae sunt infra primam, quae est inaccessibilis divinitatis abyssus' (busi2014:15610), but this continuation has not been collated against Farmer's copy-text and is not incorporated into the Latin field here.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27741",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27741).",
+ "sources": [
+  {
+   "text": "Matthew 5:1-12 (the Beatitudes)",
+   "locator": "farmer1998:27768",
+   "pico_relation": "Farmer's note identifies the Gospel text underlying the thesis's count of nine beatitudes, which the thesis correlates with a ninefold sefirotic scheme."
+  }
+ ],
+ "doctrine": "The thesis correlates the nine beatitudes of Matthew's Gospel (farmer1998:27768) with a ninefold numerological scheme; Farmer's note, reporting the sense of the thesis's remainder, glosses the 'inaccessible abyss of divinity' as not Ein Sof or God himself (paraphrase; farmer1998:27768, 27787).",
+ "context": null,
+ "reception": null,
+ "historiography": "Busi and Ebgi's edition quotes the thesis's Latin in full (in a text extending beyond the point at which Farmer's copy-text breaks off) as an instance of the 'abyss of divinity' image recurring in Pico's Kabbalistic theses stated in his own opinion (busi2014:15610); the surrounding Italian argument, including a comparison to Lewy's Chaldaean Oracles, is not established here. Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism likewise quotes the thesis's Latin in full (wirszubski1989:7404, 7406).",
+ "connections": [
+  "11>4",
+  "11>63"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "The Italian argument in Busi and Ebgi's edition surrounding its quotation of the thesis, including its comparison to Lewy's Chaldaean Oracles, is not established here, the Italian text not having been translated (busi2014:15610).",
+  "Whether Farmer's own English translation or Busi and Ebgi's fuller Latin correctly completes the OCR-truncated sentence is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

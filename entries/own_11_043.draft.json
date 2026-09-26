@@ -1,0 +1,38 @@
+{
+ "thesis_id": "11>43",
+ "tier": "B",
+ "latin": "Per mysterium duarum litterarum uau et iod scitur quomodo ipse messias ut deus fuit principium suiipsius ut homo.",
+ "latin_source": "farmer1998:27327",
+ "translation": "Through the mystery of the two letters vav and yod, it is known how the Messiah himself, as God, was the principle of himself as man.",
+ "translation_note": "'uau et iod' (vav and yod) are, per Farmer's note, the first and last letters of the Hebrew name rendered 'Jesus'; the thesis argues from this letter pair to the union of Christ's two natures in one person (farmer1998:27360).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27327",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27327).",
+ "doctrine": "Farmer's note glosses vav and yod as the first and last letters of the Hebrew name rendered 'Jesus', and observes that Pico likely intended to demonstrate the point through the kind of pure letter symbolism found in thesis 28.33 (paraphrase; farmer1998:27360). The thesis argues, from the mystery of these two Hebrew letters, that the Messiah as God was the principle of himself as man, that is, that the divine nature is the ground of the human nature united to it in Christ (farmer1998:27327).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism numbers the thesis the forty-third Kabbalistic conclusion and opens a discussion of Pico's symbolic use of the consonants yod and waw at this point in the text (wirszubski1989:8426, 8428). A German study of Pico's Kabbalistic epistemology quotes the thesis's Latin alongside thesis 11>33 in a discussion of the union of Iod and Vau realized in Christ (kabbalah_paradigma:1950); its argument, given in German, is not established here.",
+ "connections": [
+  "11>44",
+  "11>45",
+  "11>67",
+  "28.33"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Behind Pico's symbolic interpretation of the consonants yod and waw",
+   "work": "wirszubski1989",
+   "line": 8428,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of the kabbalah_paradigma discussion beyond the Latin quotation and page citation is not established here, the German text not having been translated (kabbalah_paradigma:1950).",
+  "Whether Pico executed the further letter-symbolism demonstration Farmer's note anticipates is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

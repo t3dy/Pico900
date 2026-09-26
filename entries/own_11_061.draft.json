@@ -1,0 +1,38 @@
+{
+ "thesis_id": "11>61",
+ "tier": "B",
+ "latin": "Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo omnia conuertuntur, et in quo demum sabbatizant omnia.",
+ "latin_source": "farmer1998:27736",
+ "translation": "By the same conclusion it can be known that this same Son, who is the wisdom of the Father, is he who unites all things in the Father, and through whom all things were made, and from whom all things are turned back, and in whom, finally, all things keep Sabbath.",
+ "translation_note": "'sapientia patris' (wisdom of the Father) echoes 1 Corinthians 1:25, per Farmer's note (paraphrase; farmer1998:27764).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27736",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27736).",
+ "doctrine": "Building on thesis 11>59's derivation of the Son from the letter Bet, this thesis identifies the Son with 'the wisdom of the Father,' echoing 1 Corinthians 1:25, and casts the Son as the agent of creation, the term of all things' reversion, and the ground of their final Sabbath-rest (farmer1998:27736). Farmer's note observes that Pico apparently planned further complex correspondences between 'Son' and the other terms generated in 11>59, and connects the association of Christ with the Sabbath to theses 11>16 and 11>18 (paraphrase; farmer1998:27764).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism quotes the thesis's Latin in full as part of a group of 'three interrelated theses' with 11>59 and 11>60 (wirszubski1989:8366, 8368), and elsewhere argues that, although the Tetragrammaton as a rule represents the sixth sefirah, Glory (Tiferet), 'there are several theses which clearly presuppose the identification of the Son with Wisdom,' naming this thesis and thesis 9>7 as two he had already quoted in full (wirszubski1989:8544).",
+ "connections": [
+  "11>16",
+  "11>18",
+  "11>4",
+  "11>59",
+  "11>62"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "there are several theses which clearly presuppose the identification of the Son with Wisdom",
+   "work": "wirszubski1989",
+   "line": 8544,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The further correspondences Pico is said by Farmer's note to have planned between 'Son' and the other terms of thesis 11>59 are not spelled out in the material consulted (farmer1998:27764)."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

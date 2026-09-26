@@ -1,0 +1,25 @@
+{
+ "thesis_id": "11>65",
+ "tier": "B",
+ "latin": "Rectius est ut AMEN tipheret dicat et regnum, ut per uiam numeri ostenditur, quam quod dicat regnum tantum, ut quidam uolunt.",
+ "latin_source": "farmer1998:27830",
+ "translation": "It is more correct that AMEN signify both Tiferet and Kingdom, as is shown by the way of number, than that it signify Kingdom alone, as some hold.",
+ "translation_note": "Farmer's apparatus records a minor spelling variant in the 1487 print at this point (farmer1998:27852); the entry follows Farmer's base text. 'tipheret' and 'regnum' are left transliterated/glossed as the sixth and tenth sefirot respectively; Farmer's note explains that Pico intended to show AMEN's convertibility with both terms by some form of gematria, his 'way of number,' and that his identification of Tiferet with 'the great Adam,' and so with Christ, would carry further symbolic implications here (paraphrase; farmer1998:27858).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27830",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27830).",
+ "doctrine": "The thesis holds, against 'some' unnamed interpreters, that the word AMEN corresponds numerically (by gematria) to both Tiferet, the sixth sefirah, and Kingdom (Malkhut), the tenth, rather than to Kingdom alone (farmer1998:27830). Farmer's note observes that Pico's association of Tiferet with 'the great Adam,' and so with Christ, would extend this numerical claim into further symbolic equations, though the note does not specify what these would be (paraphrase; farmer1998:27858).",
+ "context": null,
+ "reception": null,
+ "historiography": "A German study of Pico's Kabbalistic epistemology quotes the thesis's Latin in full at page 548, citing it in a note that also references Archangelus's Interpretationes in dogmata and a further Wirszubski study not consulted for this entry (kabbalah_paradigma:1881); the study's own discursive argument, given in German, is not established here.",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "The claim, reported only in the untranslated German of kabbalah_paradigma, that a further Wirszubski publication ('Giovanni Pico's Companion') identifies Sefer ha-Shorashim as a source for this thesis is not independently established here; that publication is not part of the corpus consulted (kabbalah_paradigma:1881).",
+  "What further symbolic equations Pico is said by Farmer's note to have intended beyond the identification of Tiferet with Christ is not established by the sources consulted (farmer1998:27858)."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

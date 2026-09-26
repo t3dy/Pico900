@@ -1,0 +1,29 @@
+{
+ "thesis_id": "11>67",
+ "tier": "B",
+ "latin": "Per dictum Cabalistarum quod Caeli sunt ex igne et aqua, simul et ueritatem. Theologicam de ipsis sephirot nobis manifestat, et philosophicam ueritatem quod elementa in caelo sint tantum secundum actiuam uirtutem.",
+ "latin_source": "farmer1998:27844",
+ "translation": "By the Cabalists' saying that the heavens are made of fire and water, it manifests to us at once both the theological truth about the sefirot themselves, and the philosophical truth that the elements exist in the heavens only according to active power.",
+ "translation_note": "The copy-text's internal punctuation ('...ex igne et aqua, simul et ueritatem. Theologicam de ipsis...') breaks the sentence with what appears to be a stray period before 'Theologicam'; punctuation is kept as the copy-text has it (farmer1998:27844), and the translation construes the sentence as continuous, as Wirszubski's own quotation of the Latin does not reproduce the internal period (wirszubski1989:9160).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27844",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27844).",
+ "doctrine": "The thesis holds that the Cabalists' teaching that the heavens are composed of fire and water simultaneously discloses a theological truth about the sefirot and a philosophical truth that the elements are present in the heavens only 'according to active power,' not in their full substantial mixture (farmer1998:27844). Farmer's note states that Pico explains this thesis himself in the second proem of the Heptaplus (paraphrase; farmer1998:27902).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism quotes the thesis's Latin in full as the sixty-seventh Kabbalistic conclusion (wirszubski1989:9160, 9162); no further discursive argument specific to the thesis is given in the material consulted.",
+ "connections": [
+  "23.4",
+  "3.4",
+  "7a>10",
+  "Heptaplus (second proem)"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "The content of Pico's own explanation of the thesis in the Heptaplus's second proem, beyond Farmer's bare citation of it, has not been independently read for this entry (farmer1998:27902)."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,28 @@
+{
+ "thesis_id": "11>45",
+ "tier": "B",
+ "latin": "Scitur in cabala apertissime cur dei filius cum aqua baptismi uenerit, et spiritus sanctus cum igne.",
+ "latin_source": "farmer1998:27335",
+ "translation": "It is known most clearly in the Kabbalah why the Son of God came with the water of baptism, and the Holy Spirit with fire.",
+ "translation_note": "'aqua'/'igne' (water/fire) are, per the note shared with the companion thesis 11>44, standard kabbalistic associations of water with the fourth sefirah and fire with the fifth (paraphrase; farmer1998:27363).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27335",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27335).",
+ "doctrine": "Farmer's note, covering theses 11>44-45 together, glosses 'water' as associated with the fourth sefirah, God's love or piety, and 'fire' with the fifth, God's judgment or power (paraphrase; farmer1998:27363). Thesis 11>45 argues that this pairing explains, from within the Kabbalah, why the Son of God came with the water of baptism and the Holy Spirit with fire (farmer1998:27335).",
+ "context": null,
+ "reception": null,
+ "historiography": "A German study of Pico's Kabbalistic epistemology cites the thesis alongside 28.13, 11>16, and a Iamblichan conclusion (23.8), referring to Greive's Die christliche Kabbalah and to Wirszubski's Encounter for further discussion (kabbalah_paradigma:2170); the substance of that further discussion, given in German, is not established here.",
+ "connections": [
+  "11>44",
+  "11>67"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "The content of the kabbalah_paradigma cross-references beyond the bibliographic note is not established here, the German text not having been translated (kabbalah_paradigma:2170).",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

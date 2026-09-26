@@ -1,0 +1,28 @@
+{
+ "thesis_id": "11>44",
+ "tier": "B",
+ "latin": "Scitur ex cabala per mysterium partis septentrionalis cur iudicabit deus saeculum per ignem.",
+ "latin_source": "farmer1998:27331",
+ "translation": "It is known from the Kabbalah, through the mystery of the northern part, why God will judge the world through fire.",
+ "translation_note": "'partis septentrionalis' (the northern part) is glossed by Farmer's note, shared with the companion thesis 11>45, as the standard kabbalistic association of 'north' and 'fire' with the fifth sefirah, God's judgment or power (paraphrase; farmer1998:27363).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27331",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27331).",
+ "doctrine": "Farmer's note, covering theses 11>44-45 together, explains that in medieval Kabbalism 'north' and 'fire' were most often associated with the fifth sefirah, God's judgment or power, and 'water' with the fourth, God's love or piety (paraphrase; farmer1998:27363). Thesis 11>44 uses this association to argue that kabbalistic symbolism accounts for the Christian teaching that God will judge the world by fire (farmer1998:27331).",
+ "context": null,
+ "reception": null,
+ "historiography": "A German study of Pico's Kabbalistic epistemology lists thesis 11>44 among a cluster of theses (11>22, 11>44, 11>47) cited together, quoting the Latin of 11>47 in full and citing 11>44 by number alongside it (kabbalah_paradigma:2106); the study's discursive argument, given in German, is not established here.",
+ "connections": [
+  "11>45",
+  "11>67"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "The content of the kabbalah_paradigma citation beyond the page and thesis-number reference is not established here, the German text not having been translated (kabbalah_paradigma:2106).",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

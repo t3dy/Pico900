@@ -1,0 +1,39 @@
+{
+ "thesis_id": "11>50",
+ "tier": "B",
+ "latin": "Cum dicunt cabalistae a septima et octaua petendos filios, ita dicas in merchiaua inferiori accipi, ut ab una petatur ut det, ab altera ne prohibeat. Et quae det et quae prohibeat potest intelligere ex praecedentibus conclusionibus qui fuerit intelligens in astrologia et cabala.",
+ "latin_source": "farmer1998:27439",
+ "translation": "When the Cabalists say that sons are to be sought from the seventh and the eighth, you should say that this is to be understood as occurring in the lower chariot: that from the one it is petitioned to grant, from the other that it not prohibit. And what it grants and what it prohibits, whoever is versed in astrology and the Kabbalah can understand from the preceding conclusions.",
+ "translation_note": "'merchiaua' renders merkabah, the kabbalistic chariot; 'septima et octaua' are the seventh and eighth sefirot (numerations); 'numerationibus' generally renders the sefirot, per Farmer's note on this cluster of theses (paraphrase; farmer1998:27453).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27439",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27439).",
+ "doctrine": "Farmer's note on theses 11>48-50 glosses 'numerations' as the sefirot and 'edifice' as the fourth through tenth sefirot (paraphrase; farmer1998:27453). The note further reports that Wirszubski (1989) read Pico's 'inferior chariot' as a symbol of a lower triad of the ten sefirot and treated this thesis as an example of magical use of the sefirotic system, while Farmer counters that Pico's own thesis 11>22 defines the 'inferior chariot' as the realm of sensible natures, so that the 'petitions' described here are directed either to the astrological bodies corresponding to the seventh and eighth sefirot (Saturn and Venus, per thesis 11>48) or to lower sensible natures, and that how Pico believed these petitions were to be directed is unknown (paraphrase; farmer1998:27453).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism quotes the thesis's Latin in full and argues from the identification of 'the seventh and eighth' with 'Eternity and Majesty' that 'merchiava, as understood by Pico, embraces sefirot' (wirszubski1989:7048, 7473). Dougherty's anthology also cites and translates the thesis (dougherty2008:7900); his English rendering, being copyrighted, is not reproduced here.",
+ "connections": [
+  "11>2",
+  "11>48",
+  "11>49",
+  "28.9",
+  "28.22"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "merchiava, as understood by Pico, embraces sefirot",
+   "work": "wirszubski1989",
+   "line": 7048,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "How Pico believed the 'petitions' of this thesis were to be directed is, per Farmer's own note, unknown (farmer1998:27453).",
+  "Dougherty's discursive comment on the thesis beyond the cited English rendering of its opening is not established here (dougherty2008:7900)."
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

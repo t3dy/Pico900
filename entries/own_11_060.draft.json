@@ -1,0 +1,32 @@
+{
+ "thesis_id": "11>60",
+ "tier": "B",
+ "latin": "Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit, de qua scribitur quod est immaculata, quod erat cum eo cuncta componens, quod est conuertens animas, quod facit dare fructum in tempore suo.",
+ "latin_source": "farmer1998:27644",
+ "translation": "From the preceding conclusion the contemplative man can understand why the law of God begins with the letter Bet, of which it is written that it is immaculate, that it was with him composing all things, that it converts souls, that it makes fruit be given in its season.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27644",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27644).",
+ "sources": [
+  {
+   "text": "Psalms 19:8 (Vulgate 18:8); Proverbs 8:30; Psalms 1:3",
+   "locator": "farmer1998:27723",
+   "pico_relation": "Farmer's note identifies these as the scriptural texts underlying the thesis's four descriptions of 'the law of God' as immaculate, all-composing, soul-converting, and fruit-bearing in season; Wirszubski's edition of the thesis brackets the same three references within the Latin at the corresponding clauses (wirszubski1989:8360)."
+  }
+ ],
+ "doctrine": "Building on the preceding thesis's derivation of Father, Son, and Sabbath from the letter Bet, this thesis argues that the same letter's opening of 'the law of God' (the Torah, which in Hebrew begins with Bet) implies the whole of the description then applied to that law (farmer1998:27644). Farmer's note identifies the four scriptural predicates -- immaculate, all-composing, soul-converting, fruit-bearing -- with Psalms 19:8, Proverbs 8:30, and Psalms 1:3, and states that the point is that the whole of the Christian Trinity and of salvation is implied in the first letter of the Hebrew Bible (paraphrase; farmer1998:27723).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism quotes the thesis's Latin in full, inserting the same three scriptural citations (Psalms 19:8, Proverbs 8:30, Psalms 1:3) in brackets at their corresponding clauses, independently confirming Farmer's identification of the biblical sources (wirszubski1989:8358, 8360).",
+ "connections": [
+  "11>59"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch20 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

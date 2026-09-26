@@ -1,0 +1,34 @@
+{
+ "thesis_id": "10>10",
+ "tier": "B",
+ "latin": "Qui praecedentis conclusionis opus attentauerit, adhibeat opus cabalae secundum appropriata timori Isaac.",
+ "latin_source": "farmer1998:25782",
+ "translation": "Whoever attempts the operation of the preceding conclusion should apply the operation of Cabala, according to what is appropriate to the Fear of Isaac.",
+ "translation_note": "'timor Isaac' (Genesis 31:42) is kept untranslated as a proper Kabbalistic term; Farmer identifies it as a standard symbol of the fifth sefirah, also called Gevurah, 'power' (farmer1998:25853).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25782",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 10> (Orphic Hymns) (farmer1998:25782).",
+ "sources": [],
+ "doctrine": "Farmer identifies 'fear of Isaac' as a standard kabbalistic symbol of the fifth sefirah, one of whose alternate names was Gevurah or 'power', and observes that combining this thesis with 10>9 equates the Orphic 'guardians', the Dionysian 'Powers', and the kabbalistic Gevurah (farmer1998:25853). Farmer states it is not clear what 'the work of the preceding conclusion' refers to, and notes that since the fifth sefirah is also associated with magic at 28.40 and 11>47, Pico appears to have believed these powers could be called down in some fashion (farmer1998:25853).",
+ "context": "Farmer characterizes the material bound up in this thesis and its predecessor as 'very dangerous material to be debating at Rome' (farmer1998:25853).",
+ "reception": null,
+ "historiography": "Wirszubski quotes the thesis's Latin immediately after 10>9, as 'Conclusio x', and remarks that 'Goodness only knows how one might employ opus Cabalae' (wirszubski1989:10014).",
+ "connections": ["10>9", "10>11", "10>12", "11>47", "28.40"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Goodness only knows how one might employ opus Cabalae",
+   "work": "wirszubski1989",
+   "line": 10014,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "This thesis is not identified among the thirteen theses censured by the 1487 commission (data/inventory/condemned_thirteen.json).",
+  "What, precisely, 'the work of the preceding conclusion' (10>9) required in practice is stated by Farmer to be unclear, and is not resolved by the sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
