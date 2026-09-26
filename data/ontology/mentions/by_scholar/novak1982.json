@@ -1,0 +1,71 @@
+{
+ "work": "novak1982",
+ "meta": {
+  "author": "B. C. Novak",
+  "title": "Giovanni Pico della Mirandola and Jochanan Alemanno",
+  "year": 1982,
+  "kind": "article",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\Journal_of_the_Warburg_and_Courtauld_Institutes_vol_45_B_C_Novak_Giovanni_Pico_della_Mirandola_a_pdf_1d4475d0.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\Journal of the Warburg and Courtauld Institutes vol 45 B C Novak Giovanni Pico della Mirandola and Jochanan Alemanno 10 2307_750969 libgen li.txt",
+  "word_count": 14674,
+  "source_file": "Journal of the Warburg and Courtauld Institutes vol 45 B C Novak Giovanni Pico della Mirandola and Jochanan Alemanno 10 2307_750969 libgen li.pdf"
+ },
+ "n_mentions": 4,
+ "n_theses": 4,
+ "mentions": [
+  {
+   "work": "novak1982",
+   "line": 871,
+   "method": "latin_quote",
+   "evidence": [
+    "per ea que dicunt",
+    "ea que dicunt cabaliste",
+    "que dicunt interpretes super",
+    "intelligentur per ea que"
+   ],
+   "context": "evidence of his interest in the style and themes of the Song. It is in the Commentothat he discusses both the Song of Songs and the morsosculi, but the latter is also found among the Conclusionesbased on the wisdom of Zoroaster: 7. Que dicunt interpretes super XIV aphorismo, perfecte intelligentur per ea, que dicunt Cabaliste de morte osculi.129 In addition, among the kabbalistic Conclusionessecundumopionionempropriamwe find: i i. Modus quo racionabiles anime per archangelum Deo sacrificantur, qui a Cabalistis non",
+   "thesis_id": "8>7"
+  },
+  {
+   "work": "novak1982",
+   "line": 874,
+   "method": "latin_quote",
+   "evidence": [
+    "morte osculi de quo",
+    "non exprimitur non est",
+    "anime per archangelum deo",
+    "nisi per accidens ut"
+   ],
+   "context": "7. Que dicunt interpretes super XIV aphorismo, perfecte intelligentur per ea, que dicunt Cabaliste de morte osculi.129 In addition, among the kabbalistic Conclusionessecundumopionionempropriamwe find: i i. Modus quo racionabiles anime per archangelum Deo sacrificantur, qui a Cabalistis non exprimitur, non est nisi per separacionem anime a corpore, non corporis ab anima nisi per accidens, ut contigit in morte osculi, de quo scribitur,praeciosain conspectudominimorssanctorumeius. (Psalm I15.15).1ao",
+   "thesis_id": "11>11"
+  },
+  {
+   "work": "novak1982",
+   "line": 995,
+   "method": "latin_quote",
+   "evidence": [
+    "uerborum corticem uidetur cum",
+    "per latentes profundi sensus",
+    "ita rabi moyses egyptius",
+    "egyptius in libro qui"
+   ],
+   "context": "We may consider him as the arch-rationalist, but that Pico thought otherwise is evident from one of his kabbalistic conclusions secundumopinionempropriam,of which we need only quote the latter half: .. ita Rabi Moyses Aegyptius in libro, qui a Latinis dicitur duxneutrorum,dum per superficialem verborum corticem videtur cum philosophia ambulare, per latentes profundi sensus intelligencias mysteria complectitur Cabal.149",
+   "thesis_id": "11>63"
+  },
+  {
+   "work": "novak1982",
+   "line": 1016,
+   "method": "latin_quote",
+   "evidence": [
+    "et coniungetur cum diuinitate",
+    "et coniungetur anime superiori",
+    "suo et coniungetur cum",
+    "loco suo et coniungetur"
+   ],
+   "context": "The second possible source is Menalhem Recanati, whose commentary on the Torah Pico also had in Latin translation. Recanati refers to death by the kiss of God, and Wirszubski shows that one of Pico's Conclusionesis taken directly from this passage: Cum anima comprehenderit quidquid poterit comprehendere, et coniungetur anime superiori, expoliebit indumentum terrenum a se, ut ex(s)tirpabitur de loco suo, et coniungetur cum diuinitate.s150 This is one of the kabbalistic conclusions, but it could serve equally as a translation of",
+   "thesis_id": "28.44"
+  }
+ ]
+}

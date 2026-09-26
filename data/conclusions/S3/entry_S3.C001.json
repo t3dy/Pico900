@@ -1,0 +1,40 @@
+{
+  "conclusion_id": "S3.C001",
+  "section": "S3",
+  "conclusion_num": "I.7.1",
+  "latin_incipit": "Possibilis est prophetia in somnis per illustrationem intellectus agentis super animam nostram.",
+  "english_translation": "Prophecy in dreams is possible through the illumination of our soul by the agent intellect.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Averroes maintains that the agent intellect can impress intelligible forms onto the passive imagination during sleep.",
+  "defense": "Pico accepts this doctrine as compatible with Christian theology, viewing such dreams as natural prophecy mediated by the divine intellect, not demonic deception.",
+  "exegesis": "Averroes (influenced by Avicenna) viewed dreams as potential vehicles of prophecy when the agent intellect impresses forms onto the passive imagination. The intellectus agens acts as a divine transmitter of truth. This view stands close to Neoplatonism and supports the prophetic function of the philosopher-sage.",
+  "scholar_citations": [
+    {
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "intellect",
+    "dreams",
+    "prophecy",
+    "agent intellect",
+    "Averroist psychology"
+  ],
+  "notes": "Key to understanding Averroist epistemology and Pico's defense of natural prophecy against charges of magic.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666068Z",
+  "updated_date": "2026-09-26T02:19:54.807299"
+}

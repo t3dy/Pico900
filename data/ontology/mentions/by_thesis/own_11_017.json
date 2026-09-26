@@ -1,0 +1,69 @@
+{
+ "thesis_id": "11>17",
+ "latin": "Qui sciuerit quid est uinum purissimum apud Cabalistas, sciet cur dixerit Dauid: Inebriabor ab ubertate domus tuae, et quam ebrietatem dixerit antiquus uates Museus esse foelicitatem, et quid significent tot Bacchi apud Orpheum.",
+ "farmer_latin_line": 26715,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 25207,
+   "method": "latin_quote",
+   "evidence": [
+    "est uinum purissimum apud",
+    "qui sciuerit quid est",
+    "purissimum apud cabalistas sciet",
+    "quid est uinum purissimum"
+   ],
+   "context": "[107] Dieta interpretum Chaldeorum super .XI. amphorismo, de duplici ebriatione, Bacchi et Sileni, perfecte intelligentur per dieta cabalistarum de duplici vino. [ro8] Qui sciverit quid est vinum purissimum apud Cabalistas, sciet cur dixeri t David: Inebriabor ab ubertate domus tuae (Sal. 36, 9) et quam ebrietatem dixerit antiquus vates Museus esse foelicita­ tem, et quid significent tot Bacchi apud Orpheum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9473,
+   "method": "latin_quote",
+   "evidence": [
+    "est uinum purissimum apud",
+    "qui sciuerit quid est",
+    "quid est uinum purissimum",
+    "ubertate domus tue et"
+   ],
+   "context": "Conclusio xvii: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae,5 et quam ebrietatem dixerit antiquus uates Museus6 esse felicitatem, et quid significent tot Bacchi apud Orpheum.7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9805,
+   "method": "latin_quote",
+   "evidence": [
+    "est uinum purissimum apud",
+    "qui sciuerit quid est",
+    "quid est uinum purissimum",
+    "ubertate domus tue et"
+   ],
+   "context": "\"drunkenness\" is also the subject of the seventeenth Kabbalistic thesis secundum opinionem propriam: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae, et quam ebrietatem dixerit antiquus uates Museus esse felicitatem, et quid significent tot Bacchi apud Orpheum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3199,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xvii"
+   ],
+   "resolved": false,
+   "context": "The sources of the first set of theses in Recanati are not distributed equally throughout his book: most of them are in the commentary on Genesis and Exodus. At the same time, the principal sources of Conclusiones xvii and xviii are two close passages in the commentary on Deuteronomy: one at fol. 212r and the other at fol. 213r-v. We must therefore reckon with the possibility that Pico read the whole commentary for his first set of theses, even though he may have skipped or made little"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9471,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xvii"
+   ],
+   "resolved": true,
+   "context": "Conclusiones Cabalisticae secundum opinionem propriam ... Christianam religionem maxime conflrmantes evidently outgrew their original purpose. Conclusio xvii: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae,5 et quam ebrietatem"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>23",
+  "10>24",
+  "5>7",
+  "8>6"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "thesis_id": "4.21",
+ "latin": "Substantia non cognoscitur per speciem propriam.",
+ "farmer_latin_line": 12379,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15111,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 21"
+   ],
+   "context": "the object is the cause for the object’s presence in front of the intellect in an intelligible existence.113 There is still a clear conceptual gap between what we have in Scotus and what we have in Pico’s thesis. Thesis 21 states that substance is not known through its proper species.114 Just like thesis 7 it can be found in Scotus’s Lectura 1, d. 3, pars 1, q. 1–2, in the midst of the same lengthy discussion, ‘on the cognition of God’ (De cognoscibil- itate Dei). While refuting arguments against his own assumption that the rela-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15137,
+   "method": "latin_quote",
+   "evidence": [
+    "cognoscitur per speciem propriam",
+    "substantia non cognoscitur per",
+    "non cognoscitur per speciem"
+   ],
+   "context": "et secundum hoc obiectum est causa quare species est praesens; sed tamen in secundo instanti naturae species perficiens intellectum et repraesentans obiectum in secundo instanti est causa quare obiectum est praesens intellectui in esse intelligibili.” 114 Pico, 900 Theses, p. 240: “Substantia non cognoscitur per speciem propriam.” ## Page 329"
+  }
+ ],
+ "farmer_crossrefs": [
+  "3>57"
+ ]
+}

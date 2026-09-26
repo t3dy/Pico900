@@ -1,0 +1,90 @@
+{
+ "thesis_id": "11>35",
+ "latin": "Si deus in se ut infinitum, ut unum, et secundum se intelligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clausionem, et extremam in remotissimo suae diuinitatis recessu profundam ac solitariam retractionem, de eo intelligimus ipso penitissime in abysso suarum tenebrarum se contegente, et nullo modo in dilatatione ac profusione suarum bonitatum ac fontani splendoris se manifestante.",
+ "farmer_latin_line": 27129,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 1764,
+   "method": "latin_quote",
+   "evidence": [
+    "et secundum se intelligatur",
+    "deus in se ut",
+    "se intelligatur ut sic",
+    "remotissimo sue diuinitatis recessu"
+   ],
+   "context": "78 <<Et si, nulla creaturarum sorte contentus, in unitatis centrum suae se receperit, unus cum Dea spiritus factus, in solitaria Patris caligine, qui est super omnia constitutus omnibus antestabit>> (Oratio, pp. I 2· I J, § 30). \" << Si deus in se ut infinitum, ut unum, et secundum se intelligatur, ut sic nihil intelli­ gimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clausionem, et extremam in remotissimo suae divinitatis recessu profundam ac solitariam retractionem, de eo intelligimus ipso penitissime in abysso suarum tenebrarum se contegente, et nullo"
+  },
+  {
+   "work": "busi2014",
+   "line": 24772,
+   "method": "latin_quote",
+   "evidence": [
+    "deus in se ut",
+    "remotissimo sue diuinitatis recessu",
+    "in seipso clausionem et",
+    "omnimodam sui in seipso"
+   ],
+   "context": "398 PICUS MYTHICUS, MAGICUS, CABALISTICUS [58] Si deus in se ut infinitum, ut unum, et secundum se intel­ ligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clausionem, et extremam in remotissimo suae divinitatis recessu profundam ac solitariam re­"
+  },
+  {
+   "work": "howlett2021",
+   "line": 6156,
+   "method": "latin_quote",
+   "evidence": [
+    "se intelligatur ut sic",
+    "et secundum se intelligatur",
+    "deus in se ut",
+    "remotissimo sue diuinitatis recessu"
+   ],
+   "context": "Heptaplus. 198. ‘…primum preceptum primae numerationi correspondere…’ (1998, 540–1). 199. ‘Si deus in se ut inﬁnitum, ut unum, et secundum se intelligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clausionem, et extremam in remotissimo suae diuinitatis recessu profundam ac solitariam retractionem, de eo intel-"
+  },
+  {
+   "work": "howlett2021",
+   "line": 7587,
+   "method": "latin_quote",
+   "evidence": [
+    "et secundum se intelligatur",
+    "deus in se ut",
+    "se intelligatur ut sic",
+    "remotissimo sue diuinitatis recessu"
+   ],
+   "context": "14. Pico, Heptaplus (1965b, 80). 15. Aristotle, Metaphysics 12, 1072a. 16. ‘…in solitaria Patris caligine…,’ Oration (2012, 120–21, 30). 17. Pico, Conclusions (1998, 534–35, 11 > 35) ‘Si deus in se ut inﬁnitum, ut unum, et secundum se intelligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et omnimodam sui in seipso clau- sionem, et extremam in remotissimo suae diuinitatis recessu profundam"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1505,
+   "method": "farmer_id",
+   "evidence": [
+    "11>35"
+   ],
+   "context": "89 Pico, Conclusio secundum propriam opinionem de modo intelligendi hymnos Orphei secundum Magiam, id est, secretam divinarum rerum naturaliumque sapientiam a me primum in eis repertam, 10>15. (S. 510), Conclusiones cabalisticae..., 11>5 (S. 522), 11>35, 11>36 (S. 534). Hierzu Greive, Die christliche Kabbalah, S. 146f., und besonders Wirszubski, Pico's Encounter, S. 235-238, der die Belege aus Azriel von Gerona und Moses Nachmanides bereithält. Zur Gleichsetzung von Keter und \"pN Wirszubski, Pico's Book of Job, S. 197."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11956,
+   "method": "latin_quote",
+   "evidence": [
+    "et secundum se intelligatur",
+    "deus in se ut",
+    "se intelligatur ut sic",
+    "remotissimo sue diuinitatis recessu"
+   ],
+   "context": "Conclusio xxxv: Si Deus in se ut infinitum, ut unum, et secundum se intelligatur ut sic nihil intelligimus ab eo procedere sed separationem a rebus et omnimodam sui in seipso clausionem et extremam in remotissimo suae diuinitatis recessu profundam ac solitariam retractationem de eo intelligimus ipso penitissime"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11954,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxv"
+   ],
+   "resolved": true,
+   "context": "Pico again in his thirty-fifth and thirty-sixth Kabbalistic theses secundum opinionem propriam, though in different terms. Conclusio xxxv: Si Deus in se ut infinitum, ut unum, et secundum se intelligatur ut sic nihil intelligimus ab eo procedere sed separationem a rebus et omnimodam sui in"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>36",
+  "28.35"
+ ]
+}

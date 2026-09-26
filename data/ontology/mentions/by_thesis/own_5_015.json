@@ -1,0 +1,41 @@
+{
+ "thesis_id": "5>15",
+ "latin": "Per extremorum et medii rationem cognoscere possumus conuenienter uniuersi gradus sic in quinque posse diuidi: In super ens, uere ens, non uere ens, non uere non ens, uere non ens.",
+ "farmer_latin_line": 22437,
+ "mentions": [
+  {
+   "work": "farmer1998",
+   "line": 22465,
+   "method": "latin_quote",
+   "evidence": [
+    "in super ens uere",
+    "super ens uere ens",
+    "uere ens non uere",
+    "ens uere ens non"
+   ],
+   "context": "5>15. 1486 diuidi.In super ens.uere ens.non uere ens. etc. 5>16. 1486 Per ipsum tale.vere tale.semper tale in Platonis"
+  },
+  {
+   "work": "howlett2021",
+   "line": 7627,
+   "method": "latin_quote",
+   "evidence": [
+    "uere non ens uere",
+    "non ens uere non",
+    "ens uere non ens",
+    "et medii rationem cognoscere"
+   ],
+   "context": "36. Pico, On Being and the One (1965c, 42). 37. Pico, On Being and the One (1965c, 43). 38. Pico, On Being and the One (1965c, 44–45). 39. Pico, Conclusions (1998, 442–43, 5 > 15) ‘Per extremorum et medii rationem cognoscere possumus conuenienter uniuersi gradus sic in quinque posse diuidi: In super ens, uere ens, non uere ens, non uere non ens, uere non ens.’"
+  }
+ ],
+ "farmer_crossrefs": [
+  "24.1",
+  "3>52",
+  "3>53",
+  "3>54",
+  "3>70",
+  "5>16",
+  "5>17",
+  "8>1"
+ ]
+}

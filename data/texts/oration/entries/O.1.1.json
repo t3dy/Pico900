@@ -1,0 +1,37 @@
+{
+  "conclusion_id": "O.1.1",
+  "text": "oration",
+  "section": 1,
+  "passage_number": 1,
+  "latin_text": "Cur enim non ipsos angelos et beatissimos caeli choros magis admiremur?",
+  "english_translation": "Indeed, why then would we not find the angels themselves and the blessed choirs of heaven even more admirable?",
+  "translation_source": "Borghesi critical edition",
+  "exegesis": "Pico initiates his Oration by inverting the conventional hierarchy of admiration. Rather than beginning with human excellence, he asks why we should not find angels more admirable—a rhetorical gesture that establishes the philosophical problem he must solve. Angels are fixed in their beatific state, bound by divine nature to their appointed station in the celestial hierarchy. [VERIFIED] This setup draws on Pseudo-Dionysius's rigid hierarchical metaphysics and Aquinas's doctrine of angelic immutability: angels cannot alter their metaphysical station, cannot choose to ascend or descend. Pico's question presages his radical response: human dignity lies precisely in this very mutability, this freedom to determine one's own metaphysical rank through the exercise of free will and philosophical cultivation. The passage exemplifies how Pico weaponizes Neoplatonic hierarchy itself against static angelology, turning fixity into a kind of ontological poverty compared to human plasticity.\n\nThis rhetorical maneuver serves a critical philosophical function in Pico's architecture. The question 'why not admire the angels more?' appears to concede the human's inferiority. But by asking it, Pico forces the reader to contemplate what humans *possess* that might compensate for their lower natural station—namely, indeterminacy and freedom. Angels occupy their rung of the ladder necessarily; humans alone can climb it through choice. The passage establishes the problem that the entire Oration will resolve: if hierarchy is fixed, how is human dignity possible? The answer, to come, will be: through freedom.\n\n[INFERRED] In cross-text resonance, this opening question echoes through Heptaplus 5.7 (angels as numbers, participating in unity but not possessing it), grounding the cosmological hierarchy that the Oration must transcend. In Being & Unity, the same hierarchy appears metaphysically as degrees of participated being—again, a graduated perfection that Pico uses as a ladder rather than a prison. The Commento's treatment of the three hypostases establishes the intelligible realm that the Oration positions as both the locus of dignity and its ultimate goal.",
+  "exegesis_status": "draft",
+  "lineage": "synthesis",
+  "key_concepts": [
+    "dignity",
+    "hierarchy",
+    "angels",
+    "human excellence"
+  ],
+  "tags": [
+    "angelology",
+    "hierarchy",
+    "dignity",
+    "heretical_adjacent"
+  ],
+  "cross_references": {
+    "same_text": [],
+    "other_texts": [
+      "Heptaplus 5.7",
+      "Conclusiones 1.6.7"
+    ],
+    "900_conclusions": [
+      "1.6.7"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "Pico opens his argument by asking why humans should be admired more than angels. This establishes the central problem: if humans are below angels in the natural hierarchy, what makes human dignity exceptional?"
+}

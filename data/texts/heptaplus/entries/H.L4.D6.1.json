@@ -1,0 +1,39 @@
+{
+  "conclusion_id": "H.L4.D6.1",
+  "text": "heptaplus",
+  "day": 6,
+  "layer": 4,
+  "layer_name": "Anagogical (Foundational)",
+  "passage_number": 1,
+  "latin_text": "It is a commonplace expression in the schools that man is a lesser world, in which are seen a body compounded from the elements, and a heavenly spirit, and the vegetative soul of plants, and the sense of brutes, and reason, and the angelic mind, and the likeness of God.",
+  "english_translation": "It is a commonplace expression in the schools that man is a lesser world, in which are seen a body compounded from the elements, and a heavenly spirit, and the vegetative soul of plants, and the sense of brutes, and reason, and the angelic mind, and the likeness of God.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "[VERIFIED] Pico invokes scholastic commonplace: humanity is a *lesser world* (*mundus minor*) containing all cosmic orders—elements, plants, animals, rational intellect, angelic mind, divine likeness. [INFERRED] The angelic mind is *within* the human soul as its highest faculty. This microcosmicstructure explains human dignity: humans recapitulate the entire cosmic hierarchy internally and can actualize every level.\n\nThe philosophical function is anthropological: understanding humans requires understanding their angelic component. The human soul is not merely rational but angelic at its apex. [INFERRED] This grounds mystical ascent: actualizing the angelic mind within oneself means ascending the inner ladder of one's own soul.\n\n[VERIFIED] Commento (C.2.6) develops human as the bond between worlds. Oration (O.1.3) describes ascent through all levels. Being & Unity grounds it: the microcosmic soul participates in all degrees of being.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | aquinas | plotinus",
+  "key_concepts": [
+    "human-soul-contains-angelic-intellect",
+    "-man-as-microcosm-mirrors-angelic-order"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalistic",
+    "heretical_adjacent"
+  ],
+  "layer_angelology_density": "medium",
+  "cross_references": {
+    "same_text": [],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S7 (mystical union)",
+      "Q1-Q7 (angelic exemplars)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.SP.5 | Human soul contains angelic intellect; man as microcosm mirrors angelic order"
+}

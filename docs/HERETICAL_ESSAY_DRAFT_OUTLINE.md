@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A2_essay_and_notes.md found that none of the 25 passages attributed to Copenhaver here is verbatim (17 appear in no source; 8 are altered paraphrases), the chronology is wrong (the commission sat in 1487, not March 1486; the bull is 4 August 1487), and the central argument is contradicted by Copenhaver (CT 8574-8577).  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Heretical Essay Outline: The 13 Condemned Conclusions (1486)
 
 ## Overview

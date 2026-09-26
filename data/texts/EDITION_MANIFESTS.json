@@ -1,0 +1,282 @@
+{
+  "four_text_editions_phase_1_alpha": {
+    "status": "queued_for_dispatch",
+    "created": "2026-09-25",
+    "scope": "Digital editions for Oration, Commento, Heptaplus, On Being and Unity with angelology focus",
+    "expected_deliverables": [
+      "Four digital edition websites (facing-page Latin/English)",
+      "~97 angelology-focused conclusion entries across four texts",
+      "Unified angelology commentary layer",
+      "Cross-reference web linking all four texts to shared angelology themes",
+      "Bonus: Heretical conclusions Q1, Q6, Q8 deeply contextualized via angelology"
+    ],
+    "editions": {
+      "oration": {
+        "full_title": "Oratio de dignitate hominis",
+        "english_title": "Oration on the Dignity of Man",
+        "short_name": "Oration",
+        "year": 1486,
+        "estimated_angelology_passages": 12,
+        "text_length_words": 5000,
+        "difficulty": "MEDIUM",
+        "status": "ready_for_harvesting",
+        "primary_source_markdown": "della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab.md",
+        "research_context": "Borghesi critical edition with extensive commentary. Copenhaver's Magic and Dignity analysis. Howlett's concordism framework.",
+        "key_angelology_sections": [
+          "Opening: Why are humans compared to angels? (Pseudo-Dionysius hierarchy)",
+          "Middle: The ladder of ascent (sensate -> rational -> angelic -> divine)",
+          "Middle: What is an angel? What is a human? (Contrast: fixity vs. freedom)",
+          "Closing: Philosophy as ascent to angelhood (the Platonic goal)"
+        ],
+        "synergy_with_heretical": "Understanding Oration's angelology is prerequisite for Q1 (incarnation via angelic intermediaries)"
+      },
+      "commento": {
+        "full_title": "Commento sopra una canzone d'amore",
+        "english_title": "Commentary on a Love Canzone by Girolamo Benivieni",
+        "short_name": "Commento",
+        "year": "1486-90",
+        "estimated_angelology_passages": 20,
+        "text_length_words": 20000,
+        "difficulty": "HARD",
+        "status": "ready_for_harvesting",
+        "primary_source_markdown": "Allen_MichaelJ_B_Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_Pico_Routledge_pdf_8084ac74.md (partial); full Commento may need sourcing from critical edition",
+        "research_context": "Allen's critical translation. Busi's Kabbalah analysis. Edelheit on scholastic psychology. Wirszubski on Sefirot.",
+        "key_angelology_sections": [
+          "Book I: Angels as exemplars of love (Plotinian eros)",
+          "Book I: Sefirotic correspondences (seraphim = Chokmah/Wisdom)",
+          "Book I-II: The ladder of love (human -> angelic -> divine)",
+          "Book II: Angelic intellection as model for human rational soul (participatory)",
+          "Book III: Seraphim as final union with divine love (contemplative goal)"
+        ],
+        "synergy_with_heretical": "Commento's angelology (especially seraphim as divine love) illuminates Q6 (eucharist as perpetual incarnation)"
+      },
+      "heptaplus": {
+        "full_title": "Heptaplus: On the Sevenfold Narration of the Six Days of Creation",
+        "english_title": "Heptaplus: Seven Interpretations of Genesis",
+        "short_name": "Heptaplus",
+        "year": 1489,
+        "estimated_angelology_passages": 50,
+        "text_length_words": 30000,
+        "difficulty": "VERY_HARD",
+        "status": "ready_for_harvesting",
+        "primary_source_markdown": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776.md",
+        "research_context": "Borghesi + Papio English translation. Black's definitive The Heptaplus study. Howlett on cosmology. Edelheit on angelology. Akopyan on astrology.",
+        "key_angelology_sections": [
+          "Day 1, Layer 1 (Literal): 'Light' as the angelic intellect created first",
+          "Day 1, Layer 2 (Allegorical): Angelic hierarchies as the cosmic Nous (Pseudo-Dionysius)",
+          "Day 2: Angelic separation of intelligible from material (the Veil)",
+          "Day 4: Sun/Moon/Stars as angelic ministers; planetary rulership",
+          "Day 5: Demonic opposition to angelic protection (the cosmic warfare)",
+          "Day 6: Human as battleground between angelic intellect and animal sense",
+          "Day 1, Layer 5 (Kabbalistic): Sefiroth with their angelic names and invocations",
+          "Day 1, Layer 6 (Astrological): Planetary angels as cosmic governors; magical correspondences"
+        ],
+        "synergy_with_heretical": "Heptaplus angelology is THE key to understanding heretical conclusions about cosmological intermediaries and demonic obstruction (Q8)"
+      },
+      "being_unity": {
+        "full_title": "De Ente et Uno",
+        "english_title": "On Being and Unity",
+        "short_name": "On Being and Unity",
+        "year": "1491-92",
+        "estimated_angelology_passages": 15,
+        "text_length_words": 10000,
+        "difficulty": "HARD",
+        "status": "ready_for_harvesting",
+        "primary_source_markdown": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776.md (same file as Heptaplus) OR separate Borghesi edition",
+        "research_context": "Borghesi critical text. Howlett on neoplatonism (Plotinus vs. Aristotle reconciliation). Edelheit on metaphysics. Allen on Ficino critique.",
+        "key_angelology_sections": [
+          "Book II: Angelic orders as hierarchical degrees of being (Pseudo-Dionysius via Plotinus)",
+          "Book II: Seraph as exemplar of pure unity approaching divinity",
+          "Book III: Human intellection as participatory in angelic intellect",
+          "Book IV: How angels relate to matter-form composition (Aquinas synthesis)",
+          "Demonic as privation (absence of being/goodness)"
+        ],
+        "synergy_with_heretical": "On Being and Unity's angelology solves Q1 (can God be embodied? Yes, through angelic intermediation)"
+      }
+    },
+    "harvesting_tasks": {
+      "H2-A_ORATION": {
+        "agent_type": "HARVESTER",
+        "task_description": "Extract angelology passages from Oration on the Dignity of Man",
+        "input_source": "della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab.md",
+        "output_file": "data/texts/oration/passages_angelology.json",
+        "estimated_passages": 12,
+        "priority": "HIGH",
+        "expected_token_cost": "8-12k",
+        "instructions": {
+          "extract_strategy": "Read Oration sequentially. Extract ALL passages mentioning angels, hierarchy, divine intellect, ascent, seraphim. For each passage: (1) exact Latin/English quote, (2) context (what is Pico arguing?), (3) lineage tag (Pseudo-Dionysius/Aquinas/Kabbalah/Plotinus), (4) cross-references to other Pico works.",
+          "key_passages_to_find": [
+            "Opening: dignity through free will (contrast to angels)",
+            "Comparison: angels as pure intellect vs. humans as flexible",
+            "Hierarchy: the ladder from beasts through humans to angels",
+            "Invocation: angelic hierarchies (Denys)",
+            "Closing: philosophy as ascent to angelhood"
+          ]
+        }
+      },
+      "H3-A_COMMENTO": {
+        "agent_type": "HARVESTER",
+        "task_description": "Extract angelology passages from Commento sopra una canzone d'amore",
+        "input_source": "Allen_MichaelJ_B_Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_Pico_Routledge_pdf_8084ac74.md + others",
+        "output_file": "data/texts/commento/passages_angelology.json",
+        "estimated_passages": 20,
+        "priority": "HIGH",
+        "expected_token_cost": "15-20k",
+        "instructions": {
+          "extract_strategy": "Commento is organized in Books I-III. Focus on: (1) Book I on angelic exemplars, (2) Sefirotic correspondences (seraphim=Chokmah), (3) Ascent through angelic knowledge, (4) Seraphim as final goal. Mark Kabbalistic passages explicitly.",
+          "key_passages_to_find": [
+            "Book I: Angels as exemplars (what we aspire to become)",
+            "Book I: Sefirotic ladder (Kabbalah)",
+            "Book I: Seraphim as pure love/fire",
+            "Book II: Human love ascending toward angelic love",
+            "Book III: Contemplative union with seraphim as perfection"
+          ]
+        }
+      },
+      "H4-A_HEPTAPLUS": {
+        "agent_type": "HARVESTER",
+        "task_description": "Extract angelology passages from Heptaplus (all seven layers, all six days)",
+        "input_source": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776.md",
+        "output_file": "data/texts/heptaplus/passages_angelology.json",
+        "estimated_passages": 50,
+        "priority": "CRITICAL",
+        "expected_token_cost": "25-35k",
+        "instructions": {
+          "extract_strategy": "Heptaplus is densely layered. For EACH day (1-6), extract angelology content from EACH layer (1-7), generating tagged passages. Day 1 is most angel-rich (creation of intellect/light). Layers 2, 5, 6 are angelology-heavy across all days.",
+          "layer_focus": {
+            "Layer_1_Literal": "Angels as light/intellect created on Day 1",
+            "Layer_2_Allegorical": "Angels as cosmic intellect (Nous); Pseudo-Dionysius hierarchy",
+            "Layer_5_Kabbalistic": "Sefiroth with angelic names; invocatory magic",
+            "Layer_6_Astrological": "Planetary angels as cosmic governors; stellar correspondences",
+            "Layers_3_4_7": "Note angelology-adjacent content (moral, anagogical, numerological implications)"
+          },
+          "key_passages_to_find_per_day": {
+            "Day_1": "Light as first creation (angels); hierarchies; Sefirotic emanation",
+            "Day_2": "The Veil (intelligible/material separation via angels)",
+            "Day_3": "Angelic governance of seas/earth",
+            "Day_4": "Sun/Moon/Stars as angelic ministers; planetary magic",
+            "Day_5": "Demonic opposition to angelic order",
+            "Day_6": "Human as soul (angelic intellect in animal body)"
+          }
+        }
+      },
+      "H5-A_BEING_UNITY": {
+        "agent_type": "HARVESTER",
+        "task_description": "Extract angelology passages from De Ente et Uno (On Being and Unity)",
+        "input_source": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776.md (if combined) OR separate Borghesi edition",
+        "output_file": "data/texts/being_unity/passages_angelology.json",
+        "estimated_passages": 15,
+        "priority": "HIGH",
+        "expected_token_cost": "12-18k",
+        "instructions": {
+          "extract_strategy": "On Being and Unity is metaphysically dense. Extract passages on: (1) angelic orders as degrees of being, (2) seraph as exemplar of unity, (3) human participation in angelic intellect, (4) demonic as privation. Connect to Aquinas, Plotinus, Pseudo-Dionysius as sources.",
+          "key_passages_to_find": [
+            "Book II: Angelic hierarchy as emanative levels of being",
+            "Book II: Seraph as simplicity/unity approaching God",
+            "Book III: Human soul receiving angelic intellection",
+            "Book IV: Angels and the matter-form principle",
+            "Demonic as absence/privation"
+          ]
+        }
+      }
+    },
+    "porting_tasks": {
+      "P1-A_ORATION": {
+        "agent_type": "PORTER",
+        "task_description": "Convert Oration angelology passages into standardized conclusion entries",
+        "input": "data/texts/oration/passages_angelology.json",
+        "output": "data/texts/oration/entries/O.[section].[number].json",
+        "estimated_entries": 12,
+        "priority": "HIGH"
+      },
+      "P2-A_COMMENTO": {
+        "agent_type": "PORTER",
+        "task_description": "Convert Commento angelology passages into standardized conclusion entries",
+        "input": "data/texts/commento/passages_angelology.json",
+        "output": "data/texts/commento/entries/C.[section].[number].json",
+        "estimated_entries": 20,
+        "priority": "HIGH"
+      },
+      "P3-A_HEPTAPLUS": {
+        "agent_type": "PORTER",
+        "task_description": "Convert Heptaplus angelology passages into standardized conclusion entries",
+        "input": "data/texts/heptaplus/passages_angelology.json",
+        "output": "data/texts/heptaplus/entries/H.[day].[layer].[number].json",
+        "estimated_entries": 50,
+        "priority": "CRITICAL"
+      },
+      "P4-A_BEING_UNITY": {
+        "agent_type": "PORTER",
+        "task_description": "Convert On Being and Unity angelology passages into standardized conclusion entries",
+        "input": "data/texts/being_unity/passages_angelology.json",
+        "output": "data/texts/being_unity/entries/U.[book].[number].json",
+        "estimated_entries": 15,
+        "priority": "HIGH"
+      }
+    },
+    "synthesis_tasks": {
+      "S1-A": {
+        "agent_type": "SYNTHESIZER",
+        "task_description": "Write angelology exegeses across all four texts (cross-text synthesis)",
+        "input": "All ported entries from P1-A, P2-A, P3-A, P4-A",
+        "output": "data/texts/[text]/exegeses/[entry]_exegesis.md",
+        "estimated_exegeses": 97,
+        "priority": "CRITICAL",
+        "instructions": "For each angelology entry across all four texts, write exegesis explaining: (1) what Pico says, (2) philosophical function (why this matters architecturally), (3) lineage (Pseudo-Dionysius/Aquinas/Kabbalah/Plotinus/synthesis), (4) cross-text resonance (where else does this idea appear?), (5) scholarly debate (what do Howlett, Edelheit, Wirszubski, Black argue?). Reference ANGELICRESEARCH.md throughout."
+      },
+      "S2-A": {
+        "agent_type": "SYNTHESIZER",
+        "task_description": "Create shared angelology scholarship database (lineage tagging + scholar debate log)",
+        "input": "All exegeses from S1-A + scholarship corpus",
+        "output": "data/scholarships/angels/[lineage].json + scholar_debate_log.json",
+        "priority": "HIGH",
+        "instructions": "Organize all angelology citations by lineage (Pseudo-Dionysius, Aquinas, Kabbalah, Plotinus). Log scholarly disagreements (e.g., Wirszubski vs. Allen on how deeply Pico understood Kabbalah). Create cross-reference web linking all four texts."
+      }
+    },
+    "review_tasks": {
+      "R1-A": {
+        "agent_type": "REVIEWER",
+        "task_description": "Validate angelology entries against ANGELICRESEARCH.md + STYLE_GUIDE.md",
+        "input": "All entries + exegeses from P1-A–P4-A and S1-A–S2-A",
+        "output": "Approval or revision requests",
+        "priority": "CRITICAL",
+        "checklist": [
+          "[ ] Angelology passage accurately quoted from source?",
+          "[ ] Lineage tag correct (Pseudo-Dionysius/Aquinas/Kabbalah/Plotinus)?",
+          "[ ] Cross-references point to correct locations in all four texts?",
+          "[ ] Scholarly citations backed by corpus (Howlett, Edelheit, Wirszubski, Black, Allen, Busi, Akopyan)?",
+          "[ ] Exegesis explains philosophical function, not just content?",
+          "[ ] No unsourced synthesis?",
+          "[ ] Tags consistent with schema?"
+        ]
+      }
+    },
+    "parallel_execution": {
+      "phases": [
+        "Phase 1-Alpha harvesting (H2-A through H5-A run in parallel)",
+        "Phase 1-Alpha porting (P1-A through P4-A run in parallel, after harvesting complete)",
+        "Phase 1-Alpha synthesis (S1-A + S2-A run in parallel, after porting complete)",
+        "Phase 1-Alpha review (R1-A runs after synthesis complete)"
+      ],
+      "estimated_total_tokens": "80-90k",
+      "estimated_wall_clock_time": "8-12 hours (parallel execution)"
+    },
+    "success_criteria": [
+      "✓ All 97 angelology passages extracted from four texts",
+      "✓ All passages standardized into conclusion entry format",
+      "✓ All entries have coherent exegeses explaining philosophical function",
+      "✓ All scholarly citations verified or marked [CITED]",
+      "✓ Cross-reference web fully linked (same-text + cross-text + 900-Conclusions references)",
+      "✓ Shared angelology database (lineages + debate log) complete",
+      "✓ All entries pass REVIEWER validation against ANGELICRESEARCH.md + STYLE_GUIDE.md",
+      "✓ Heretical conclusions Q1, Q6, Q8 now deeply contextualized with angelology"
+    ],
+    "next_steps_after_phase_1_alpha": [
+      "Integrate angelology research into Phase 1-B (900 Conclusions main pipeline)",
+      "Write heretical essay section 2 (angelology in condemned propositions)",
+      "Build four digital edition websites (Oration, Commento, Heptaplus, On Being and Unity)",
+      "Decide: ship four texts as standalone sites or integrated into Pico900?",
+      "Use four texts as context layer for navigating 900 Conclusions (readers start with Oration → Commento → Heptaplus → On Being and Unity → full conclusions with angelology cross-references)"
+    ]
+  }
+}

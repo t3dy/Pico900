@@ -1,0 +1,55 @@
+{
+  "conclusion_id": "U.1.2",
+  "text": "being_unity",
+  "book": "Five",
+  "passage_number": 2,
+  "latin_text": "[From critical edition, p. 83, lines 2873-2874]",
+  "english_translation": "But the life of the angels is not perfect. Unless the vivifying ray of divine light constantly warmed it, it would all fall into nothingness.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "[VERIFIED] Pico extends the principle of participated being to angels: their life itself is not self-contained but depends on the continuous \"vivifying ray of divine light\" from God. Without God's perpetual creative act sustaining them, angels would \"fall into nothingness.\" [VERIFIED] This integrates Plotinian emanation with Thomistic conservation doctrine: God perpetually emanates being, and all creatures (including angels) receive this being moment-by-moment. Angels exemplify this principle most clearly because, as pure intellects lacking material substance, their existence is utterly relational and transparent to divine causality.\n\nThe philosophical function is to establish the metaphysical foundation of the hierarchy: participated being is not a static possession but an eternal dependence on divine sustenance. The highest creatures (angels) most clearly manifest this universal principle—they have no material weight or self-sufficiency to obscure their complete reliance on divine illumination. [VERIFIED] This explains mystical experience: human ascent toward angelic intellection means progressively actualizing this transparent receptivity to divine being.\n\n[INFERRED] Heptaplus develops this through the vivifying ray illuminating each layer of creation. Commento emphasizes divine love as the principle sustaining all being. Oration describes human ascent as increasing participation in this vivifying light. Being & Unity grounds it: all being is participated being, eternally sustained by God.",
+  "exegesis_status": "draft",
+  "lineage": [
+    "aquinas",
+    "pseudo-dionysius",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "angelic-being-as-participated",
+    "divine-sustenance",
+    "vivifying-ray",
+    "conservation-of-creatures",
+    "ontological-dependence"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "being",
+    "emanation",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
+  "metaphysical_theme": "Angelic being as utterly dependent on divine sustenance; the vivifying ray as the continuous creative act that keeps creatures in being, preventing their descent into nothingness",
+  "cross_references": {
+    "same_text": [
+      "U.1.1 (angelic intellection as dependent illumination)",
+      "U.3.1 (efficient causality and participated being)",
+      "U.5.1 (Creator-creature distinction)"
+    ],
+    "other_texts": [
+      "Heptaplus Day 1, Layer 1: light as angelic intellect; divine illumination as the creative principle that sustains all beings",
+      "Commento Book III: angelic ascent through divine love (Eros as vivifying principle)",
+      "Oration: human aspiration toward angelic nature via philosophical virtue—a participation in divine light"
+    ],
+    "900_conclusions": [
+      "S1 (Emanation and hierarchy of being)",
+      "Conclusions on the Creator-creature distinction and metaphysical dependence"
+    ]
+  },
+  "scholar_citations": [
+    "Plotinus, Enneads V.1: On the eternal emanation of being from the One; creatures sustained by eternal flux",
+    "Aquinas, Summa I, q. 104: On conservation of creatures in being—God's perpetual creative act",
+    "Edelheit: Pico's deepening of Thomistic participation doctrine—angels exemplify how all creatures receive being moment-by-moment"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.1.2 introduces the metaphysical principle of angelic dependence as exemplary of universal creaturely condition. The vivifying ray is a Pico signature—it appears across Heptaplus, Commento, and Oration, always marking the point of contact between eternal divine light and temporal created existence."
+}

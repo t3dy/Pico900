@@ -1,0 +1,72 @@
+{
+ "thesis_id": "5>6",
+ "latin": "Ideo amor ab Orpheo sine oculis dicitur, quia est supra intellectum.",
+ "farmer_latin_line": 22234,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 5832,
+   "method": "farmer_id",
+   "evidence": [
+    "5>6"
+   ],
+   "context": "sua perfezione acquista in quanto al suo principio si congiunge [Com­ mento, p. 505]. [9] Amore è detto da Orfeo senza occhi, perché è al di sopra dell'intelletto [Conclusiones, p. 438, n. 5>6]. [IO] L 'amore di cui Platone parla nel Convivio non può trovarsi in Dio in alcun modo [Conclusiones, p. 444, n. 5>22]."
+  },
+  {
+   "work": "busi2014",
+   "line": 6435,
+   "method": "farmer_id",
+   "evidence": [
+    "5>6"
+   ],
+   "context": "cit., p. q8 [r6-r8]). \" Orphicorum fragmento, a cura di O. Kern, Berolini 1922, p. r 55 (fr. 82); cfr. Oifici. Te­ stimoniam:e e frammenti nell'edizione di Otto Kem, a cura di E. Verzura, Milano 2or r , p. 343· 48 Conclusiones, p. 438, n. 5>6 (fonte 9). Idea, questa, cui il Conte rimase fedele anche nei testi successivi, se è possibile scovare, tra le pagine del De Ente et Uno, trattato redat­ to intorno al 1491, un'esaltazione dell'amore, potenza capace di condurre l'anima oltre il piano intellettuale, che va di pari passo con il motivo del suo inabissarsi nelle tenebre del"
+  },
+  {
+   "work": "busi2014",
+   "line": 26615,
+   "method": "farmer_id",
+   "evidence": [
+    "5>6"
+   ],
+   "context": "Commentarii in Somnium Scipionis (Macrobio) 3>52: XXVI Il, 3, r: 184 3>55= 305 II, 3, 2: r85 5>3: 304 Commentariorum urbanorum . . . octo et tri­ 5>6: r6, 27 ginta libri 5>9: 136, 149, r69, 320 247r: LXXIX 5>ro: 159, 170 Commentarium ad mentem Platonis (Egidio 5>I I : 159, 171"
+  },
+  {
+   "work": "busi2014",
+   "line": 24375,
+   "method": "latin_quote",
+   "evidence": [
+    "dicitur quia est supra",
+    "oculis dicitur quia est",
+    "ab orpheo sine oculis",
+    "orpheo sine oculis dicitur"
+   ],
+   "context": "Amor, Oculi [9] Ideo amor ab Orpheo sine oculis dicitur, quia est supra in­ tellectum. [ro] Amor de quo in Symposio loquitur Plato, in deo nullo mo­ do esse potest."
+  },
+  {
+   "work": "howlett2021",
+   "line": 7664,
+   "method": "latin_quote",
+   "evidence": [
+    "dicitur quia est supra",
+    "quia est supra intellectum",
+    "oculis dicitur quia est",
+    "ab orpheo sine oculis"
+   ],
+   "context": "65. Pico, Commentary (1986, 39). 66. Pico, Commentary (1986, 39). 67. Pico, Conclusions (1998, 438–39, 5 > 6): ‘Love is said by Orpheus to be without eyes, because it is above the intellect.’ ‘Ideo amor ab Orpheo sine oculis dicitur, quia est supra intellectum.’ ## Page 174"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>1",
+  "2.12",
+  "23.9",
+  "2>13",
+  "5>14",
+  "5>21",
+  "5>24",
+  "5>25",
+  "5>48",
+  "5>49",
+  "5>7",
+  "5>8"
+ ]
+}

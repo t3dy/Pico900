@@ -1,0 +1,57 @@
+{
+  "conclusion_id": "U.5.1",
+  "text": "being_unity",
+  "book": "Nine",
+  "passage_number": 9,
+  "latin_text": "[From critical edition, p. 95, lines 3353-3358]",
+  "english_translation": "It follows from this knowledge that God is one, therefore no opposite can be conceived. See how those who imagine many principles, many gods, are in error. It follows immediately that God is most true. What does he who is existence itself have which might appear to be and not be? It follows certainly that he is truth itself.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "[VERIFIED] Pico establishes the fundamental Creator-creature distinction: God possesses being, unity, truth, goodness *essentially and identically*—not as acquired properties but as God's very essence. Creatures possess these properties *participatively*—received from another, limited, proportional to their hierarchical degree. [VERIFIED] This grounds the entire angelical hierarchy: angels are beings (not non-being), one (not multiplied), true (conforming to exemplar), good (oriented to source)—all participated properties.\n\nThe philosophical function is to establish being as the measure: God *is*; creatures *have* being. The seraph, as highest creature, possesses being, unity, truth, goodness to maximum creaturely capacity, approaching but never equaling God's essential simplicity. This single principle explains the hierarchy: each level has proportional being according to its distance from the source. [VERIFIED] Against pantheism, this maintains absolute Creator-creature distinction; against polytheism and emanationism, it maintains unified source in divine simplicity.\n\n[VERIFIED] Heptaplus develops this through the seven days: each day created through participation in God's being. Commento emphasizes angelic reception of divine being through love. Oration grounds human dignity: humans participate in being like angels, though through greater mediation. Being & Unity establishes: this is the single principle organizing all existence.",
+  "lineage": [
+    "aquinas",
+    "pseudo-dionysius",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "God-essential-unity",
+    "creatures-participated-unity",
+    "Creator-creature-distinction",
+    "God-as-being-itself",
+    "angels-as-participated-beings",
+    "hierarchy-of-being"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "being",
+    "theology",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
+  "metaphysical_theme": "God's essential unity and being vs. creatures' participated unity and being; the Creator-creature distinction as the ontological hierarchy that positions angels as the highest participated beings",
+  "cross_references": {
+    "same_text": [
+      "U.5.2 (reversal of causal order when God is understood as cause)",
+      "U.3.1 (participated being through efficient causality)",
+      "U.2.2 (God's transcendence beyond all predicates)"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 2: Angelic hierarchy as reflection of divine simplicity in emanated form; God's unity radiating through angelic orders",
+      "Heptaplus Layer 5: God as Chokmah (Wisdom, Unity) receiving illumination from divine darkness",
+      "Commento Book I: God as Chokmah with seraphim as closest angels to divine unity and simplicity",
+      "Oration: God as source of human dignity and capacity for ascent toward angelic unity; humans participate in being like angels"
+    ],
+    "900_conclusions": [
+      "S1 (Neoplatonic philosophy on the One)",
+      "Conclusions on divine simplicity and participated being",
+      "Conclusions on the Creator-creature distinction"
+    ]
+  },
+  "scholar_citations": [
+    "Aquinas, Summa I, q. 4: On God's simplicity and how God is being itself; creatures participate in being",
+    "Howlett on Pico's reconciliation of Aristotle and Plotinus regarding divine simplicity and emanation",
+    "Allen on participated being as the governing principle of Pico's hierarchy"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.5.1 is the apex of the metaphysical argument. It consolidates all previous distinctions into the fundamental principle: God is; creatures have being. This distinction grounds the entire hierarchy and justifies Pico's rejection of polytheism or emanationism that blurs the Creator-creature boundary. The hierarchy of being flows from this distinction: angels, as the highest creatures, most perfectly exemplify participated being, yet remain absolutely distinct from God's essential being."
+}

@@ -1,0 +1,30 @@
+{
+ "thesis_id": "11>60",
+ "latin": "Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit, de qua scribitur quod est immaculata, quod erat cum eo cuncta componens, quod est conuertens animas, quod facit dare fructum in tempore suo.",
+ "farmer_latin_line": 27644,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 8360,
+   "method": "latin_quote",
+   "evidence": [
+    "contemplatiuus homo intelligere cur",
+    "quod facit dare fructum",
+    "potest contemplatiuus homo intelligere",
+    "facit dare fructum in"
+   ],
+   "context": "Conclusio lx: Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit de qua [lege dei] scribitur quod est immaculata [Ps. 19:8], quod erat cum eo cuncta componens [Prov. 8:30], quod est conuertens animas [Ps. 19:8], quod facit dare fructum in tempore suo [Ps."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8358,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lx"
+   ],
+   "resolved": true,
+   "context": "tificae reunionis, uidebit litteram Beth cum prima littera primum, cum media medium, cum ultimis ultima operari. Conclusio lx: Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit de qua [lege dei] scribitur quod est immaculata [Ps."
+  }
+ ],
+ "farmer_crossrefs": []
+}

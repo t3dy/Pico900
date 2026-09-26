@@ -1,0 +1,117 @@
+{
+ "thesis_id": "11>15",
+ "latin": "Per nomen Iod he uahu he, quod est nomen ineffabile quod dicunt Cabaliste futurum esse nomen messiae, euidenter cognoscitur futurum eum deum dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum.",
+ "farmer_latin_line": 26703,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 21993,
+   "method": "latin_quote",
+   "evidence": [
+    "cognoscitur futurum eum deum",
+    "cabaliste futurum esse nomen",
+    "eum deum dei filium",
+    "he uahu he quod"
+   ],
+   "context": "secretis cabalistarum, per mirabile appropriationem tribus personis trinitatis ita debere at­ tributi, ut nomen ['hyh] sit patis, nomen [Yhwh] sit filii, nomen ['dny] sit spiritus sancti intelligere potest qui in scientia cabalae fuerit profundus>>. \"' Ibid. , p. 526, n. I I>I5: <<Per nomen !od he vahu he, quod est nomen ineffabile quod dicunt Cabaliste futurum esse nomen messiae, evidenter cognoscitur futurum eum deum dei filium per spiritum sanctum hominem factum . . . » L'identificazione tra sole e ti/'eret è comune tra i cabbalisti; cfr. The Gate o/ Heaven cit., vol. I, p. 225."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1989,
+   "method": "farmer_id",
+   "evidence": [
+    "11>15"
+   ],
+   "context": "128 Pico, Conclusio cabalistica..., 11>15. (S. 526): Per nomen Yod he vahu he, quod est nomen ineffabile, quod dicunt Cabalistae futurum esse messiae, evidenter cognoscitur futurum eum deum deifilium per spiritum sanctum hominem factum, et post eum adperfectionem humani generis super homines paraclytum descensurum."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1989,
+   "method": "latin_quote",
+   "evidence": [
+    "factum et post eum",
+    "sanctum hominem factum et",
+    "cognoscitur futurum eum deum",
+    "he uahu he quod"
+   ],
+   "context": "128 Pico, Conclusio cabalistica..., 11>15. (S. 526): Per nomen Yod he vahu he, quod est nomen ineffabile, quod dicunt Cabalistae futurum esse messiae, evidenter cognoscitur futurum eum deum deifilium per spiritum sanctum hominem factum, et post eum adperfectionem humani generis super homines paraclytum descensurum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8465,
+   "method": "latin_quote",
+   "evidence": [
+    "factum et post eum",
+    "sanctum hominem factum et",
+    "cognoscitur futurum eum deum",
+    "et post eum ad"
+   ],
+   "context": "gere potest, qui in scientia Cabalae fuerit profundus. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae10 futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11016,
+   "method": "latin_quote",
+   "evidence": [
+    "factum et post eum",
+    "sanctum hominem factum et",
+    "cognoscitur futurum eum deum",
+    "et post eum ad"
+   ],
+   "context": "Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum Dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8464,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": true,
+   "context": "he] sit filii, nomen o n x > [aleph, daleth, nun, yod\\ sit spiritus sancti, intelli- gere potest, qui in scientia Cabalae fuerit profundus. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae10 futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum dei filium per spiritum sanctum hominem factum, et post eum ad"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9894,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Son of God.311 need not go any further. The rest is too obvious for words. Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9913,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "chapters. Here it will suffice to quote the remaining three, each of which asserts the superiority of Kabbala over magic.33 Conclusio xv: Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10001,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11014,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": true,
+   "context": "cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae futurum esse nomen Messiae, euidenter cognoscitur futurum eum"
+  }
+ ],
+ "farmer_crossrefs": [
+  "5>6"
+ ]
+}

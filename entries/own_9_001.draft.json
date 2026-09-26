@@ -1,0 +1,37 @@
+{
+  "thesis_id": "9>1",
+  "tier": "A",
+  "latin": "Tota Magia quae in usu est apud modernos, et quam merito exterminat ecclesia, nullam habet firmitatem, nullum fundamentum, nullam ueritatem, quia pendet ex manu hostium primae ueritatis, potestatum harum tenebrarum, quae tenebras falsitatis male dispositis intellectibus obfundunt.",
+  "latin_source": "farmer1998:25111",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25111-25114), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); u/v as Farmer prints them. The section heading is 'Conclusiones magicae numero XXVI secundum opinionem propriam' (farmer1998:25106-25107). Akopyan and Busi reproduce the same wording with v for consonantal u (akopyan2021:1298; busi2014:1514).",
+  "translation": "The whole of the magic practised by the moderns, which the Church rightly roots out, lacks all stability, all foundation and all truth, since it hangs on the hand of the foes of the first truth, these powers of darkness who spread the shadows of falsehood over ill-disposed minds.",
+  "translation_note": "'pendet ex manu' is literally 'hangs from the hand', i.e. depends on the agency of (farmer1998:25113). 'potestatum harum tenebrarum' echoes Col. 1:13, as Farmer notes (farmer1998:25172). 'exterminat' is rendered 'roots out' in the sense of 'drives out of its bounds'; Busi's Italian has 'sradica' (busi2014:1493-1494). 'prima ueritas' is God as first truth, the enemies being demons (editorial inference from farmer1998:25113-25114 and the cross-reference to 22.9 at farmer1998:25172).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-B2), from the Latin, checked against the sense of Farmer's English at farmer1998:25151; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the first of the twenty-six magical conclusions according to his own opinion (farmer1998:25106-25111).",
+  "sources": [
+    {"text": "Col. 1:13, 'those powers of darkness'", "locator": "farmer1998:25172", "pico_relation": "biblical phrase adopted for the demonic agents of illicit magic"},
+    {"text": "Thesis 22.9 from Porphyry, on the two kinds of evil demons", "locator": "farmer1998:15550", "pico_relation": "Farmer's cross-reference for the demonology presupposed"},
+    {"text": "Oration, paragraphs 56-57, on the two senses of magic (goeteia and mageia)", "locator": "copenhaver2019:19582", "pico_relation": "parallel statement of the same distinction in the speech prepared for the debate"}
+  ],
+  "doctrine": "The thesis opens the series by setting aside one kind of magic before any positive claim is made: the magic current among the moderns is condemned, and condemned on grounds of truth, since it has no firmness, no foundation and no truth (farmer1998:25111-25113). The reason given is causal: such magic depends on the enemies of the first truth, the 'powers of darkness' of Col. 1:13, which cloud minds already badly disposed (farmer1998:25113-25114; farmer1998:25172). Farmer cross-refers the demonology to 22.9, where Porphyry divides evil demons into substantial souls and material, accidental powers (farmer1998:25172; farmer1998:15550). The thesis thus defines by exclusion the term 'goetia' used in the Oration: the magic that relies wholly on the work and authority of demons, which the Greeks called goeteia and never dignified with the name of magic (copenhaver2019:19582-19588). In the Oration Pico calls that kind the most dishonest of arts, hollow and useless, against a magic that is solid, strong and reliable (copenhaver2019:19595-19596). The three denials of 9>1 (no firmness, no foundation, no truth) answer point for point to that contrast (editorial inference from farmer1998:25112 and copenhaver2019:19595-19596).",
+  "context": "Farmer notes that medieval magical treatises regularly began by protesting that their magic was natural and not demonic (farmer1998:25172-25173). Copenhaver shows how little the late-antique legacy offered Pico for a clean line between good and bad magic: Augustine's was the usual Christian position, that magic needs demons, with whom any communication is evil (copenhaver2019:17349-17354). Copenhaver observes that the first four magical propositions distinguish good magic from bad in the same terms used by the Oration (copenhaver2019:17364-17365). Akopyan likewise reads 9>1-2 as a repetition in the Conclusions of the Oration's two forms of magic (akopyan2018:543-552). Busi treats the disclaimer as more a confession than an excuse, since the reputation of Pico the magician outlived him and Benivieni still had to deny it in a letter of 1514 (busi2014:1496-1500; busi2014:1558-1559).",
+  "reception": "In the Apology Pico made this thesis the anchor of his defence of the rest: speaking of figures and numbers in his conclusions, he said, he did not mean their superstitious use through pacts and agreements with demons, 'quia hec omnia reprobavi in prima conclusione mea' (busi2014:9914-9917). Busi and Ebgi summarise the Apology's argument as treating magic as an equivocal term, one sense rightly banished by the Church (busi2014:9849-9856). Farmer judges that the magical theses, despite all disclaimers, were always open to suspicions of demonology and witchcraft (farmer1998:1355-1357). Voltaire read the first proposition against its intent: from its words, he wrote, one sees that Pico would grant that magic is the work of demons, as commonly believed (copenhaver2019:8916-8920). Copenhaver cites this passage of the Essai among the jibes by which Voltaire reduced Pico to a figure of fun (copenhaver2019:8951-8952; copenhaver2019:23036).",
+  "historiography": "Farmer places the thesis within the conventional prologue of medieval magical writing, a protest of innocence rather than a new doctrine (farmer1998:25172-25173). Copenhaver reads the first four theses as a public strategy, advertising natural magic while keeping quiet about angel-magic (copenhaver2019:17361-17365). Busi reads it as a confession of the suspicion Pico expected, and quotes the thesis as the beginning of the first of the twenty-six magical conclusions (busi2014:1496; busi2014:1514-1516). The thesis matters for the whole series because the Apology later made it the explicit limit on every magical conclusion that followed (busi2014:9914-9917).",
+  "connections": ["9>2", "9>3", "9>4", "9>24", "22.9"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "quia hec omnia reprobavi in prima conclusione mea", "work": "busi2014", "line": 9917, "verbatim": true},
+    {"text": "The first four propositions distinguish good magic from bad", "work": "copenhaver2019", "line": 17364, "verbatim": true},
+    {"text": "Piu che una scusa è una confessione", "work": "busi2014", "line": 1496, "verbatim": true},
+    {"text": "Medieval magical treatises regularly began by protesting", "work": "farmer1998", "line": 25172, "verbatim": true}
+  ],
+  "not_established": [
+    "Which 'modern' magical practices or texts Pico had in mind: not established by the sources consulted.",
+    "Whether the commission examined this thesis at all: not established by the sources consulted; it is not among the thirteen topics listed by Copenhaver (copenhaver2022:846-850)."
+  ],
+  "writer": "WRITER-B2 (agent), 2026-09-25",
+  "verifier": null,
+  "verified_date": null
+}

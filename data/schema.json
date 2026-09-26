@@ -1,47 +1,46 @@
 {
-  "title": "Conclusion Entry Schema",
-  "version": "1.0",
+  "title": "Pico900 Thesis Entry (Farmer-keyed)",
+  "version": "2.0",
+  "description": "A single thesis from Pico's 900 Conclusions, identified by Farmer's numbering. Fields render only if graded sourced or unverified by scripts/integrity_gate.py. See docs/EDITORIAL_STANDARD.md section 5.",
+  "required": ["thesis_id", "tier", "latin", "translation"],
   "fields": {
-    "conclusion_id": "str (e.g., 'I.1.1')",
-    "section": "str (one of SECTIONS keys)",
-    "latin_incipit": "str (opening words of Latin text)",
-    "latin_source": "str enum: 'critical_edition' | 'megabase' | 'picodb'",
-    "latin_verified": "bool",
-    "english_translation": {
-      "text": "str",
-      "source": "str (megabase file or 'original_2026')",
-      "translator": "str enum: 'LLM' | 'Ted Hand'"
-    },
-    "exegesis": "str (1-2 paragraphs of philosophical context)",
-    "commentary_status": "str enum: 'unstarted' | 'draft' | 'sourced_quotations' | 'complete'",
-    "scholar_citations": [
+    "thesis_id": "str (Farmer numbering: '7.2' for section 7 thesis 2 (historical); '4>8' for section 4> thesis 8 (own-opinion))",
+    "tier": "str enum: 'A' (condemned or heavily discussed, 500-1000 words) | 'B' (identified source and scholarship, 150-400) | 'C' (rest, under 100) | 'D' (not yet researched, Latin and translation only)",
+    "section": "str (historical section name like 'Averroes' or own-opinion marker)",
+    "farmer_line": "int (line number in Farmer's Markdown; used to re-derive and verify)",
+    "latin": "str (full thesis, normalized u/v and i/j, copy-text line noted in apparatus; wrap in lang='la')",
+    "latin_source": "str enum: 'Farmer 1998' | 'Brown critical edition' | '1486 Rome print' | 'other'",
+    "latin_note": "str (apparatus criticus: lacunae, conjectures, variant readings)",
+    "translation": "str (English rendering, original, checked against Farmer's English but not copied; wrap in lang='en')",
+    "translation_note": "str (crux or interpretive choice)",
+    "translator": "str ('person name' or 'machine-drafted, human-checked by NAME' with 2026 date)",
+    "pico_stance": "str enum: 'reports' | 'endorses' | 'revises' | 'reverses' | 'unstated' (Pico's relationship to the thesis)",
+    "sources": [
       {
-        "scholar": "str (author name)",
-        "work": "str (title)",
-        "pages": "str or int (page or page range)",
-        "quotation": "str (exact quotation)",
-        "confidence": "str enum: 'VERIFIED' | 'CITED' | 'INFERRED'",
-        "relevance": "str (how this quotation illuminates the conclusion)"
+        "text": "str (author and work title)",
+        "locator": "str (edition and page/section, e.g., 'Aquinas Sent. I.37')",
+        "pico_relation": "str (how Pico uses this source)"
       }
     ],
-    "heretical_flag": "bool",
-    "heretical_notes": "str (if flagged: charge, defense, debate summary)",
-    "tags": [
-      "str (from allowed tag set)"
-    ],
-    "notes": "str (editorial notes, uncertainties, revisions)",
-    "status": "str enum: 'unstarted' | 'draft' | 'sourced' | 'complete' | 'reviewed'",
-    "created_date": "ISO 8601 date",
-    "updated_date": "ISO 8601 date",
-    "assigned_to": "str (LLM agent ID or 'Ted Hand' or None)"
+    "doctrine": "str (philosophical argument; define technical terms at first use)",
+    "context": "str (school debate, setting, why a reader would care or object)",
+    "reception": "str (commission verdict if condemned, Pico's reply in Apologia, later readers)",
+    "historiography": "str (named scholars, what each claims with page locators, disagreements)",
+    "connections": ["str (other theses by Farmer id bearing on this one)"],
+    "condemned_flag": "bool (true if one of the thirteen condemned; see data/inventory/condemned_thirteen.json)",
+    "commission_verdict": "str (exact verdict formula, e.g., 'false, erroneous, heretical')",
+    "verifier": "str (agent who last verified)",
+    "verified_date": "ISO 8601 date (last verification)"
   },
   "allowed_tags": [
     "angels",
-    "arabic_philosophy",
-    "aristotlelianism",
+    "arabian_philosophy",
+    "aristotelian",
     "astrology",
     "causality",
     "christian_theology",
+    "divine_names",
+    "emanation",
     "epistemology",
     "essence_existence",
     "eucharist",
@@ -52,30 +51,21 @@
     "logic",
     "magic",
     "metaphysics",
-    "platonism",
-    "prophecy",
+    "neoplatonism",
+    "separate_substances",
     "soul",
-    "theology"
+    "supposition",
+    "theology",
+    "theurgy"
   ],
-  "status_values": [
-    "unstarted",
-    "draft",
-    "sourced",
-    "complete",
-    "reviewed"
-  ],
-  "confidence_values": [
-    "VERIFIED",
-    "CITED",
-    "INFERRED"
-  ],
-  "sources": [
-    "critical_edition",
-    "megabase",
-    "picodb"
-  ],
-  "translators": [
-    "LLM",
-    "Ted Hand"
+  "provenance_grades": [
+    "sourced (text plus locator, re-found in source by second agent; renders)",
+    "unverified (plausible text, no locator or not yet re-found; renders with badge)",
+    "template (reused template sentence; never renders)",
+    "placeholder (generated filler; never renders)",
+    "misfiled (text in wrong field; never renders)",
+    "quarantined (proven wrong by audit; never renders)",
+    "restricted (in-copyright material; never renders)",
+    "missing (field is empty; labeled 'not yet edited')"
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "conclusion_id": "S3.C084",
+  "section": "S3",
+  "order": 84,
+  "section_name": "Secundum Averroem",
+  "topic": "Aristotelian Islamic Philosophy (Averroes)",
+  "latin_incipit": "[TO BE SOURCED FROM CRITICAL EDITION]",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "Causation operates through the celestial hierarchy.",
+    "source": "template_S3",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "exegesis": "Pico's conclusion on Agent Intellect within the Averroism (Islamic Aristotelianism) tradition.",
+  "commentary_status": "unstarted",
+  "charge": "Asserts doctrine condemned by medieval Christian councils",
+  "defense": "Averroes offers philosophical sophistication compatible with faith properly understood",
+  "scholar_citations": [
+    {
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "Agent Intellect",
+    "Eternity of World",
+    "God's Knowledge",
+    "pico900"
+  ],
+  "status": "unstarted",
+  "notes": "",
+  "created_date": "2026-09-26T02:07:10.415618",
+  "updated_date": "2026-09-26T02:19:54.843889",
+  "translation_status": "pending_sourcing"
+}

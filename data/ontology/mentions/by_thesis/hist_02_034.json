@@ -1,0 +1,34 @@
+{
+ "thesis_id": "2.34",
+ "latin": "Nulla uirtus moralis praeter iustitiam est subiectiue in uoluntate.",
+ "farmer_latin_line": 11770,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12319,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 34"
+   ],
+   "context": "rather unique terminology (actus entitativus positivus) which, more than anything else, reflects his own particular emphasis and understanding of Thomas’s views. Thesis 34 states that justice is the only moral virtue which is in the will in a subjective fashion.163 Let us examine first Thomas’s discussion at Summa the- ologiae, 1–2, q. 56, a. 6, entitled: ‘whether the will can be the subject of virtue’ (Utrum voluntas possit esse subiectum virtutis). According to Thomas the object"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12341,
+   "method": "latin_quote",
+   "evidence": [
+    "preter iustitiam est subiectiue",
+    "uirtus moralis preter iustitiam",
+    "nulla uirtus moralis preter",
+    "moralis preter iustitiam est"
+   ],
+   "context": "poralem immutationem, non pertinet ad virtutem quasi essentialis actus ejus; sed potest pertinere ad virtutem sicut materiale circa quod operatur virtus, quia etiam passiones corporales sunt materia virtutum.” 163 Pico, 900 Theses, p. 228: “Nulla virtus moralis praeter iustitiam est subiective in voluntate.” 164 Thomas Aquinas, Summa theologiae, 1–2, q. 56, a. 6: “Unde cum, sicut dictum est, obiec- tum voluntatis sit bonum rationis voluntati proportionatum, quantum ad hoc non indi- get voluntas virtute perficiente.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.11",
+  "2.24",
+  "2.37",
+  "4.10"
+ ]
+}

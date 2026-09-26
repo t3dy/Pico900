@@ -1,0 +1,45 @@
+{
+  "conclusion_id": "H.L2.D1.2",
+  "text": "heptaplus",
+  "day": 1,
+  "layer": 2,
+  "layer_name": "Allegorical",
+  "passage_number": 2,
+  "latin_text": "The light of intelligible forms covers the face, the exterior of the angelic intelligence, because their qualities are accidental to it and do not pertain to its essence.",
+  "english_translation": "The light of intelligible forms covers the face, the exterior of the angelic intelligence, because their qualities are accidental to it and do not pertain to its essence.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "[VERIFIED] Pico clarifies that intelligible forms, while illuminating the angel's intellectual operations (the \"face\" or exterior of its intellect), are accidental to its essence—they perfect the angel's intellective functioning without constituting its fundamental being. [INFERRED] This maintains a crucial metaphysical distinction: the angel's essence is its capacity for intellection; the angel's actuality (its perfection in operation) depends on receiving intelligible forms from God.\n\nThe philosophical function is to explain participated intellection: the angel *is* intellect essentially, but actualizes this intellect through receiving divine illumination accidentally. This explains why angels remain dependent on God eternally—they require perpetual illumination to function. [INFERRED] Humans ascending to angelic intellection participate in this same structure: receiving intelligible forms from the divine source.\n\n[INFERRED] Commento Book I emphasizes this participatory intellection. Being & Unity grounds it: creatures are while God acts; the creature's being is receptive actuality.",
+  "exegesis_status": "draft",
+  "lineage": "aquinas | synthesis",
+  "key_concepts": [
+    "intelligible-forms-as-accidental-to-angelic-substance"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalistic",
+    "heretical_adjacent"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.TE3.C1.1",
+      "H.TE3.C1.2",
+      "H.TE3.C1.3",
+      "H.TE3.C2.3",
+      "Day 2 (firmament/hierarchy)",
+      "Day 3 (governance)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S1 (Platonic theology)",
+      "S5 (celestial spirits)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.C2.2 | Intelligible forms as accidental to angelic substance"
+}

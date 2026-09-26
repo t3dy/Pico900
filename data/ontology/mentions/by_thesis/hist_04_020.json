@@ -1,0 +1,33 @@
+{
+ "thesis_id": "4.20",
+ "latin": "Actus intelligendi nobiliori modo causatur ab intellectu quam ab obiecto, quodcunque sit obiectum, modo non sit beatificum.",
+ "farmer_latin_line": 12375,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15020,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 20"
+   ],
+   "context": "must have been familiar with at least some of these contexts where Scotus dis- cussed ‘intellection’, or the ‘act of understanding’, and the involvement of the object and the intellect. Moving on to thesis 20 we find there that the act of understanding is caused in a nobler fashion when it results from the intellect than when it results from the object, whatever that object is, unless it is a beatific object.108 The superi- ority of the intellect over the object in the Father’s cognition or intellection"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15040,
+   "method": "latin_quote",
+   "evidence": [
+    "quam ab obiecto quodcunque",
+    "causatur ab intellectu quam",
+    "sit obiectum modo non",
+    "actus intelligendi nobiliori modo"
+   ],
+   "context": "repraesentativo, ut in specie repraesentante obiectum; nec obiectum per se, nec intel- lectus per se, sed utrumque simul faciunt unam causam sufficientem respectu notitiae genitae.” 108 Pico, 900 Theses, p. 240: “Actus intelligendi nobiliori modo causatur ab intellectu quam ab obiecto, quodcunque sit obiectum, modo non sit beatificum.” ## Page 327"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.40",
+  "3>57",
+  "4.19"
+ ]
+}

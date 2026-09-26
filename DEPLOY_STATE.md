@@ -1,55 +1,52 @@
-# Deployment State — Pico900
+# Deployment State: Pico900
 
-**Live URL**: https://t3dy.github.io/Pico900  
-**Repository**: https://github.com/t3dy/Pico900  
-**Host**: GitHub Pages  
-**Base path**: `/Pico900/`  
-**Status**: Bootstrapping (no live build yet)  
+**Status: NOT LIVE.** `https://t3dy.github.io/Pico900/` returned GitHub's "There isn't a GitHub Pages
+site here" (404) when checked on 2026-09-25. Nothing has been published. Any earlier document that says
+"deployed", "ready to deploy" or "live" is wrong; see `audit/A4_site_and_governance.md` Part B.
 
-## GitHub Pages Configuration
+| | |
+|---|---|
+| Canonical URL (intended) | https://t3dy.github.io/Pico900/ |
+| Host | GitHub Pages (workspace policy: `C:\Dev\CLAUDE.md` "Hosting policy"; static site, no server needed) |
+| Repo | https://github.com/t3dy/Pico900 |
+| Base path | `/Pico900/` (Pages serves from a repo subpath; a build without it 404s every asset) |
+| Build | `python scripts/build_site_v2.py` -> `site/` (gitignored); renders `entries/` (verified as edition text, drafts badged) |
+| Local root-served build | `PICO_BASE_PATH="" python scripts/build_site_v2.py` |
+| Gate before publishing | `python scripts/predeploy_check.py` must exit 0 |
+| Pages source | **not yet configured.** Decision pending: see below |
 
-- **Repository**: `t3dy/Pico900` (public)
-- **Branch**: `main`
-- **Source**: `/` (root of repo)
-- **Base URL**: `https://t3dy.github.io/Pico900/`
-- **Asset paths**: All assets served with `/Pico900/` prefix (not just `/`)
+## Do not do this
 
-## Build Environment
+`HANDOVER.md` (superseded) said: `Copy-Item -Recurse site docs -Force`, push, Pages source `main /docs`.
+`docs/` already holds the project's working documents (orchestration, audits, protocols). Copying `site`
+into an existing `docs/` nests it at `docs/site/`, so the Pages root 404s, and the working documents
+would be served to the public beside it. Never publish from `docs/`.
 
-- **Build command**: `python scripts/build_site.py`
-- **Output directory**: `site/` (gitignored; regenerated on each deploy)
-- **No npm, no Node, no frameworks**: Vanilla HTML/CSS/JS only
+## Recommended publish path (needs Ted's confirmation)
 
-## Known Gotchas
+Publish only the contents of `site/`, from a branch or an Actions artifact that contains nothing else.
+Simplest: a `gh-pages` branch holding the built `site/` and nothing more. One deployer; read this file first.
 
-1. **Base path `/Pico900/`**: All CSS, JS, and image paths in the HTML must include this prefix. If a page 404s or doesn't load styles, the base path is wrong.
-   - ✗ `<link rel="stylesheet" href="css/edition.css">`
-   - ✓ `<link rel="stylesheet" href="/Pico900/css/edition.css">`
+1. `python scripts/build_site_v2.py`
+2. `python scripts/predeploy_check.py` (exit 0)
+3. `grep -rn 'src="/\|href="/' --include=*.html site | grep -v '"/Pico900/'` prints nothing
+4. Publish `site/` to the `gh-pages` branch; set Pages source to that branch, root.
+5. **Load the live URL** and read an index page, a page with Latin, an unedited page and the About page.
+   A green build is not a working site (`C:\Dev\AGENTS.md`, DEPLOYER).
+6. Update this file to say what is actually live.
 
-2. **Static generation**: The site is built once locally and committed to the repo. There is no server-side computation. All filtering/search happens in the browser with vanilla JS.
+## What the site currently shows
 
-3. **Asset size**: Keep JSON data files small. The full 900-conclusion dataset should be <5MB. If it grows larger, split into conclusion chunks.
+Only fields graded `sourced` or `unverified` by `scripts/integrity_gate.py` render; anything filler,
+empty, misfiled, in-copyright or proven wrong is replaced by a labelled "not yet edited" state
+(`data/quarantine.json` lists fields proven wrong). At the time of writing, no entry is fully sourced,
+so publishing today would put up a Latin-and-badges skeleton with a work-in-progress banner. Whether
+that is worth publishing before the inventory is rebuilt from Farmer is Ted's call.
 
-## Deployment Workflow
+## Known gotchas
 
-1. Build locally: `python scripts/build_site.py`
-2. Test locally: Open `site/index.html` in a browser
-3. Commit changes: `git add . && git commit -m "message"`
-4. Push to GitHub: `git push origin main`
-5. GitHub Actions will deploy automatically (or it's already published to Pages)
-
-## Environment Variables
-
-None required for GitHub Pages deployment. All configuration is in `data/` JSON files.
-
-## Rollback
-
-If a deployment breaks:
-1. Revert the commit: `git revert <commit_hash>`
-2. Force rebuild locally: `rm -rf site/ && python scripts/build_site.py`
-3. Push: `git push origin main`
-
-## Future Considerations
-
-- If we ever need server-side search, move to Vercel (currently GitHub Pages only per workspace policy)
-- If the dataset grows past static site viability, consider splitting into a server-backed portal (but this is *not* planned for 2026)
+- The build reads the source Markdown on `E:\` to verify quotations. Without it (CI), quotations
+  fall back to `unverified` rather than `sourced`; the page stays honest but shows fewer `sourced` badges.
+- A root-absolute path (`/x`) without the base path is the most common way these sites break.
+- CSS was once written with doubled braces and parsed as empty; `predeploy_check.py` tests for it.
+- Farmer's English translation is in copyright; the gate grades it `restricted` and the build withholds it.

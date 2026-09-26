@@ -1,0 +1,68 @@
+{
+  "conclusion_id": "S1.C004",
+  "section": "S1",
+  "order": 4,
+  "latin_incipit": "[T4 — Soul]",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "The World Soul mediates between Intellect and Matter.",
+    "source": "template_S1",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "Soul as third hypostasis; intermediate principle between Intellect and Matter; vehicle of individuation",
+  "key_concepts": [
+    "Psyche",
+    "Soul",
+    "Individuation",
+    "Descent",
+    "Generation"
+  ],
+  "plotinian_parallel": "Enneads 4.8 (On the descent of the soul), 4.3 (Problems of the Soul)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus (soul ascent)",
+    "Pseudo-Dionysius"
+  ],
+  "charge": "Pico's claim that The One transcends being and intellect potentially denies the Christian doctrine of God's knowability and sustaining power.",
+  "defense": "Defends via Pseudo-Dionysius and Neoplatonic apophatic theology: God's transcendence compatible with Christian doctrine. The One known through negation, not affirmation.",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 5",
+      "page": null,
+      "quotation": "[ON Q13: soul's union]",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "soul",
+    "psyche",
+    "hypostasis",
+    "descent"
+  ],
+  "status": "standardized",
+  "notes": "Core to Pico's anthropology. Soul's capacity for ascent (via Oration and triplex via) connects to Q13 (condemned). Check for theurgy language (Iamblichan).",
+  "created_from_cluster": false,
+  "_sourcing": {
+    "cluster": "T1",
+    "theme": "The One and Emanation",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-26T02:19:32.321513",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Beauty within the Neoplatonism tradition."
+}

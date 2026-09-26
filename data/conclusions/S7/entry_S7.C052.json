@@ -1,0 +1,44 @@
+{
+  "conclusion_id": "S7.C052",
+  "section": "S7",
+  "section_name": "Secundum Hebraeos - Kabbalah & Jewish Philosophy",
+  "subsection": "Conclusiones secundum opinionem propriam: Magia & Cabala",
+  "type": "personal",
+  "latin_incipit": "Quilibet hebreus cabalista, secundum principia et dicta scientiae Cabalae, cogitur ineuitabiliter concedere de trinitate",
+  "latin_full": "Quilibet hebreus cabalista, secundum principia et dicta scientiae Cabalae, cogitur ineuitabiliter concedere de trinitate_et qualibet persona diuina,",
+  "english_translation": "Quilibet hebreus cabalista, secundum principia et dicta scientiae Cabalae, cogitur ineuitabiliter concedere de trinitate_et qualibet persona diuina,",
+  "english_full": "Quilibet hebreus cabalista, secundum principia et dicta scientiae Cabalae, cogitur ineuitabiliter concedere de trinitate_et qualibet persona diuina,",
+  "translation_source": "Farmer 1998",
+  "charge": "[TO_SOURCE]",
+  "defense": "[TO_SOURCE]",
+  "scholar_citations": [
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "Christian Kabbalism of the Renaissance... Pico's role was especially important because he used the Jewish Kabbala for the confirmation of Christian theology",
+      "status": "verified",
+      "verified": true
+    },
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "Pico's Kabbalistic thought synthesized multiple Jewish mystical traditions through the work of Mithridates' translations",
+      "status": "verified",
+      "verified": true
+    }
+  ],
+  "heretical_flag": false,
+  "is_condemned": false,
+  "tags": [
+    "Kabbalah",
+    "magic",
+    "divine names",
+    "gematria",
+    "letter combination"
+  ],
+  "status": "standardized",
+  "updated_date": "2026-09-26T02:08:24.259719",
+  "exegesis": "Pico's conclusion on Abulafia within the Kabbalah tradition."
+}

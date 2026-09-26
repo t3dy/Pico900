@@ -1,0 +1,41 @@
+{
+ "thesis_id": "3>62",
+ "latin": "Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.",
+ "farmer_latin_line": 21260,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 9626,
+   "method": "farmer_id",
+   "evidence": [
+    "3>62"
+   ],
+   "context": "49 See Dulles, Princeps Concordiae, 139–40, and Cassirer, “Giovanni Pico della Mirandola,” 19. As Dulles noted, Petrus Garsias (1440–1505) argued against Pico that if such knowledge is said to be “hidden,” it is not actual but latent. 50 Conclusions 3>62 (ed. and trans. Farmer, 418–19): “Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.” The passage is discussed in Michael J. B. Allen, “Cultura Hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man,” in Gio- vanni Pico della Mirandola: Convegno internazionale di Studi nel Cinquecentesimo Anniversario"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9626,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligit et se intelligendo",
+    "se intelligendo quodammodo omnia",
+    "et se intelligendo quodammodo",
+    "anima seipsam semper intelligit"
+   ],
+   "context": "49 See Dulles, Princeps Concordiae, 139–40, and Cassirer, “Giovanni Pico della Mirandola,” 19. As Dulles noted, Petrus Garsias (1440–1505) argued against Pico that if such knowledge is said to be “hidden,” it is not actual but latent. 50 Conclusions 3>62 (ed. and trans. Farmer, 418–19): “Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.” The passage is discussed in Michael J. B. Allen, “Cultura Hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man,” in Gio- vanni Pico della Mirandola: Convegno internazionale di Studi nel Cinquecentesimo Anniversario"
+  },
+  {
+   "work": "selfknowledge_notes",
+   "line": 1302,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligit et se intelligendo",
+    "se intelligendo quodammodo omnia",
+    "et se intelligendo quodammodo",
+    "quodammodo omnia entia intelligit"
+   ],
+   "context": "alia, et similiter animas beatorum per revelationes aut species infusas. Secundo dico quod intelligo de illo intel- ligere abdito quod est sine fantasmate vel adminiculo sensus aut fantasiae et non adhuc de quocunque tali, sed de intelligere abdito directo et permanenti, de quo proximam huic posui conclusionem dicentem: Anima semper seipsam intelligit et se intelligendo quodammodo omnia entia intelligit.” 75 See Emery 2001: 101–102, 110–124; Radke-Uhlmann 2009, cf. Schumacher 2011: 58–66; 186–194. Edelheit 2011 discusses Henry’s influence on Pico, but fails to address this particular passage from the Apologia. 76 Henry of Ghent, Quodlibeta IX.5; Emery 2001: 100. Henry draws here, as does Pic"
+  }
+ ],
+ "farmer_crossrefs": []
+}

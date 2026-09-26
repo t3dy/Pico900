@@ -1,0 +1,45 @@
+{
+ "thesis_id": "11>70",
+ "latin": "Per modum legendi sine punctis in lege, et modus scrıbendi res diuinas, et unialis continentia per indeterminatum ambitum rerum diuinarum, nobis ostenditur.",
+ "farmer_latin_line": 27932,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9245,
+   "method": "latin_quote",
+   "evidence": [
+    "modus scribendi res diuinas",
+    "diuinas et unialis continentia",
+    "continentia per indeterminatum ambitum",
+    "legendi sine punctis in"
+   ],
+   "context": "Conclusio lxx: Per modum legendi sine punctis in lege, et modus scribendi res diuinas, et unialis continentia per indeterminatum ambitum rerum diuinarum nobis ostenditur."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9272,
+   "method": "latin_quote",
+   "evidence": [
+    "per indeterminatum ambitum rerum",
+    "indeterminatum ambitum rerum diuinarum",
+    "continentia per indeterminatum ambitum",
+    "unialis continentia per indeterminatum"
+   ],
+   "context": "without vowels (sine punctis), can be combined again and again in differ- ent ways, it follows that the underlying unity and continuity of divine revelation admit of endless variations of meaning. This is in fact what to my mind Pico means by \"unialis continentia per indeterminatum ambi- tum rerum divinarum.\"29 \"The Torah has seventy faces\" states an old Rabbinic maxim; in other words, the Torah admits of an indefinite number of interpretations. No other thesis brings out Pico's awareness of"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9243,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxx"
+   ],
+   "resolved": true,
+   "context": "All the theses considered so far touch upon points of detail. The seventieth concerns the Law as a whole. Conclusio lxx: Per modum legendi sine punctis in lege, et modus scribendi res diuinas, et unialis continentia per indeterminatum ambitum rerum diuinarum nobis"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>10",
+  "28.40"
+ ]
+}

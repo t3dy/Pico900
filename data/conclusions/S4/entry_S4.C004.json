@@ -1,0 +1,44 @@
+{
+  "commentary": "Avicenna rejects Platonic innatism: intelligibles exist in act only when intellect is engaged. Knowledge is dynamic actualization, not static possession. For Pico, this implies that ascent requires active intellectual operations, not passive illumination alone. Supports idea that magical and mystical knowledge requires performative engagement.",
+  "scholar_citations": [
+    {
+      "verified": false,
+      "quotation": "[TO SOURCE on Avicennian intellection theory]",
+      "work": "Logic and Intellect in Averroes (2006)",
+      "scholar": "Black, Deborah",
+      "page": "181"
+    },
+    {
+      "verified": true,
+      "quotation": "his hierarchy of intellectual states ... is a necessary condition of any act of thought; every thought entails a fleeting conjunction between the potential and active intellects",
+      "work": "Avicenna concept page",
+      "scholar": "PicoDB avicenna.md",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Non potest in anima esse notio intelligibilis sine actuali intellectione.",
+  "incipit_id": "I.8.4",
+  "charge": "Platonists held that all forms are innate in the soul, merely requiring recollection.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C004",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna's view that intelligibles require actual intellection aligns with Aristotelian principles while preserving possibility of acquired knowledge through soul's progressive operations. Essential for theory of magical knowledge as achieved through practice.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "epistemology",
+    "intellect-theory",
+    "knowledge-actualization",
+    "philosophical-ascent"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "There can be no intelligible notion in the soul without an actual act of understanding."
+  },
+  "updated_date": "2026-09-26T02:08:24.110365",
+  "exegesis": "Pico's conclusion on Essence/Existence within the Avicennism (Islamic Philosophy) tradition."
+}

@@ -1,0 +1,43 @@
+{
+ "work": "borghesi2012",
+ "meta": {
+  "author": "Borghesi, Papio, Riva (eds.)",
+  "title": "Oration on the Dignity of Man: A New Translation and Commentary",
+  "year": 2012,
+  "kind": "edition",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\della Mirandola Pico_ Borghesi Francesco_ Papio Michael_ Riva Pico della Mirandola_ Oration on the Dignity of Man __ Text 10 1017_CBO97811.txt",
+  "word_count": 56105,
+  "source_file": "della Mirandola Pico_ Borghesi Francesco_ Papio Michael_ Riva Pico della Mirandola_ Oration on the Dignity of Man __ Text 10 1017_CBO97811.pdf"
+ },
+ "n_mentions": 2,
+ "n_theses": 2,
+ "mentions": [
+  {
+   "work": "borghesi2012",
+   "line": 1596,
+   "method": "latin_quote",
+   "evidence": [
+    "qui facit pacem in",
+    "facit pacem in excelsis"
+   ],
+   "context": "83. Percontemur et iustum Iob, qui foedus iniit cum Deo vitae prius quam ipse ederetur in vitam, quid summus Deus in decem illis centenis millibus qui assistunt ei potissimum desideret: pacem utique respondebit, iuxta id quod apud eum legitur: “Qui facit pacem in excelsis.” 84. Et quoniam supremi ordinis monita medius ordo inferioribus interpre- tatur, interpretetur nobis Iob theologi verba Empedocles philosophus. 85. Hic duplicem naturam in nostris animis sitam, quarum altera sursum tol-",
+   "thesis_id": "28.24"
+  },
+  {
+   "work": "borghesi2012",
+   "line": 4533,
+   "method": "latin_quote",
+   "evidence": [
+    "conclusione et conclusione paradoxa",
+    "ex ista conclusione et",
+    "paradoxa dogmatizante xluii sequitur",
+    "ista conclusione et conclusione"
+   ],
+   "context": "shows also that “one from his ‘paradoxical conclusions introducing new doctrines into philosophy’ [was] excluded” in the final draft (Farmer 1998, 461). The fourth of the “Conclusiones magicae […] secundum opinionem propriam” (“Magical conclusions accord- ing to my own opinion [9.4]”) in fact reads: ex ista conclusione et conclusione paradoxa dogmatizante .xlvii. sequitur … (“from that conclusion and the forty-seventh paradoxical conclusion, it follows …”) (Farmer 1998, 495), but the reference in 9.4 is actually to the forty-sixth “paradoxical dogmatizing conclusion” (Farmer 1998, 495, note). According",
+   "thesis_id": "9>4"
+  }
+ ]
+}

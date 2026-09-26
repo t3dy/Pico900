@@ -1,0 +1,21 @@
+{
+ "thesis_id": "5>8",
+ "latin": "Infra ambitum terminati entis recte quinque illa Platonis pro transcendentibus ponuntur: Ens, Idem, Alterum, Status, et Motus.",
+ "farmer_latin_line": 22241,
+ "mentions": [
+  {
+   "work": "farmer1998",
+   "line": 22249,
+   "method": "latin_quote",
+   "evidence": [
+    "ponuntur ens idem alterum",
+    "ens idem alterum status"
+   ],
+   "context": "527. 1486 coeten 528. 1486 ponuntur.Ens.Idem.Alterum.Status.&Motus."
+  }
+ ],
+ "farmer_crossrefs": [
+  "2>13",
+  "5>9"
+ ]
+}

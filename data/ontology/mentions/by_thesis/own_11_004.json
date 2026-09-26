@@ -1,0 +1,84 @@
+{
+ "thesis_id": "11>4",
+ "latin": "Ensoph non est aliis numerationibus connumeranda, quia est illarum",
+ "farmer_latin_line": 26396,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 24764,
+   "method": "latin_quote",
+   "evidence": [
+    "ensoph non est aliis",
+    "numerationibus connumeranda quia est",
+    "non est aliis numerationibus",
+    "connumeranda quia est illarum"
+   ],
+   "context": "[56] Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi velit illud dictum theologi indu­ centis opificem mundi noctem consulentem de opificio mundano. [57] Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinata."
+  },
+  {
+   "work": "howlett2021",
+   "line": 6140,
+   "method": "latin_quote",
+   "evidence": [
+    "numerationibus connumeranda quia est",
+    "ensoph non est aliis",
+    "non est aliis numerationibus",
+    "est aliis numerationibus connumeranda"
+   ],
+   "context": "196. Pico, Conclusions (1998, 520–21, 11 > 4): ‘the Ein-Sof should not be counted with the other numerations, because it is the abstract and uncommunicated unity of those numerations, not the coordinated unity.’ ‘Ensoph non est aliis numerationibus connumeranda, quia est ## Page 140"
+  },
+  {
+   "work": "howlett2021",
+   "line": 7597,
+   "method": "latin_quote",
+   "evidence": [
+    "ensoph non est aliis",
+    "numerationibus connumeranda quia est",
+    "connumeranda quia est illarum",
+    "non est aliis numerationibus"
+   ],
+   "context": "20. Pico, On Being and the One (1965c, 50). 21. Pico, Conclusions: ‘Ein-Sof should not be counted with the other numerations, because it is the abstract and uncommunicated unity of those numerations, not the coordinated unity.’ (‘Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinata.’) (1998, 520–21, 11 > 4)."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11833,
+   "method": "latin_quote",
+   "evidence": [
+    "ensoph non est aliis",
+    "numerationibus connumeranda quia est",
+    "non est aliis numerationibus",
+    "connumeranda quia est illarum"
+   ],
+   "context": "of Kabbala. Conclusio iv: Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinate. It always helps to understand Pico's encounter with Kabbala, if the lineage"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9972,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": false,
+   "context": "correspondences between the hymns and Kabbala that Pico pointed out in three theses, namely: Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11832,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": true,
+   "context": "opinionem propriam, hard on the heels of Pico's divisions and definitions of Kabbala. Conclusio iv: Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinate."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>15",
+  "11>35",
+  "11>36",
+  "3.1",
+  "3.2",
+  "5>1",
+  "6.1"
+ ]
+}

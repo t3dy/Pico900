@@ -1,0 +1,54 @@
+{
+ "thesis_id": "1.10",
+ "latin": "Obiectum per se et proprie sensus communis est magnitudo, ut bene dixit Auicenna.",
+ "farmer_latin_line": 11053,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 9488,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Theses 7–10"
+   ],
+   "context": "And yet Albert’s emphasis, in Chapter 13 for instance, on self-understanding of the intellect as the only activity which connects the intellect, while being in the body, to the intelligible realm, is not found in Pico.47 Theses 7–10 focus on sense perception. In thesis 7 we find that sound, accord- ing to its real existence, is brought to the beginning of the nerve responsible for hearing.48 This thesis in, of course, related to thesis 9 which is again about sound and hearing, but strangely enough, Pico placed between these two a the-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9639,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 10"
+   ],
+   "context": "light causes the existence of everything in nature.61 Clearly, such implications and nuances are missing from Pico’s thesis but they are necessary in order to understand it since they belong to the same context. In thesis 10 it is stated that an object per se and especially of the com- mon sense is magnitude, as Avicenna well argued.62 This idea can be found in Albert’s commentary on De anima, Book 2, Tract. 3, Chapter 5. According to Albert the sensual object (sensatum) is divided into two kinds: the first,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10159,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 7–10"
+   ],
+   "context": "Pico and Albert the Great 213 Albert’s comments. It is hard to tell though why Pico has chosen to dedicate several theses, for instance theses 7–10, to some very standard and rather lim- ited accounts of sense perception, and how this is related to his overall project of the 900 theses. It is also difficult to find a clear rationale behind the order in which Pico"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9662,
+   "method": "latin_quote",
+   "evidence": [
+    "per se et proprie",
+    "communis est magnitudo ut",
+    "se et proprie sensus",
+    "proprie sensus communis est"
+   ],
+   "context": "et motiva ad esse generabilium, inquantum est instrumentum intelligentiae, quae per motum luminarium lumine emisso movet ad esse omne quod in natura est, sicut etiam supra diximus.” 62 Pico, 900 Theses, p. 214: “Obiectum per se et proprie sensus communis est magnitudo, ut bene dicit Avicenna.” 63 Albert the Great, Opera omnia (Cologne Edition), vol. 7/1, p. 103: “Et ideo sensatum per se dividitur in duo, quorum unum quidem proprium est, quod sic convenit uni sensui, quod"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10.3",
+  "13.3",
+  "2.6",
+  "2>30",
+  "2>58",
+  "3>41"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "thesis_id": "6.1",
+ "latin": "Potentia generandi in diuinis nec est essentia diuina precise et absolute sumpta, nec relatio uel proprietas, nec constitutum ex ambobus, nec alterum istorum cum inclusione alterius, sed est essentia cum modo relatiuo.",
+ "farmer_latin_line": 12671,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15967,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 1–7"
+   ],
+   "context": "Pico and Giles of Rome 335 These 11 theses can clearly be divided into two groups: the first, theses 1–7, deal with theological issues such as the status of theology as a science and angelology; and the second, theses 8–11, deal with issues pertaining to natural philosophy such as the sense of taste, heat or vacuum. Yet often even these"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15973,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 1"
+   ],
+   "context": "philosophy such as the sense of taste, heat or vacuum. Yet often even these natural issues are taken from theological contexts where they are discussed as examples. Thesis 1 is relatively long and rather complicated. We find there that the power of generation in divine things is not the divine essence understood in a concise and absolute manner, nor is it a relation or a property, and it is not constituted of both, nor is it another thing of those with the inclusion of"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15996,
+   "method": "latin_quote",
+   "evidence": [
+    "sumpta nec relatio uel",
+    "diuina precise et absolute",
+    "nec relatio uel proprietas",
+    "relatio uel proprietas nec"
+   ],
+   "context": "Intellect’, in Emery Jr., Courtenay and Metzger (eds.), Philosophy and Theology in the Studia of the Religious Orders and at Papal and Royal Courts, pp. 409–478; Charles F. Briggs and Peter S. Eardley (eds.), A companion to Giles of Rome (Leiden, 2016). 2 Pico, 900 Theses, p. 246: “Potentia generandi in divinis nec est essentia divina precise et abso- lute sumpta, nec relatio vel proprietas, nec constitutum ex ambobus, nec alterum istorum cum inclusione alterius, sed est essentia cum modo relativo.” 3 Giles of Rome, In primum librum Sententiarum (Cordoba, 1699), p. 147: “Et ideo sicut manus"
+  }
+ ],
+ "farmer_crossrefs": []
+}

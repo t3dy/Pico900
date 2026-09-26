@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A3: certified by shape-only validators. See audit/A3_angelology_neoplatonism.md.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Neoplatonism Research Workflow for Pico900
 
 End-to-end workflow for researching and commenting on Pico's Neoplatonist theses.

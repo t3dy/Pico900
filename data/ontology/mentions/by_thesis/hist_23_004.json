@@ -1,0 +1,33 @@
+{
+ "thesis_id": "23.4",
+ "latin": "Elementa in octo coeli corporibus coelesti modo bis inueniuntur, quae quis inueniet si retrogrado ordine in illa bina numeratione processerit.",
+ "farmer_latin_line": 15651,
+ "mentions": [
+  {
+   "work": "black2006",
+   "line": 1838,
+   "method": "latin_quote",
+   "evidence": [
+    "corporibus celesti modo bis",
+    "elementa in octo celi",
+    "octo celi corporibus celesti",
+    "illa bina numeratione processerit"
+   ],
+   "context": "and Melancholy: Studies in the History of Natural Philosophy, Religion and Art (London: Nelson, 1964), 128. 27 For a possible source for this computation, unmentioned in the Heptaplus, see Conclusions, 74 (Conc. sec. Iamblichum, 4): “Elementa in octo caeli corporibus caelesti modo bis inveniuntur, quae quis inveniet si retrogrado ordine in illa bina numeratione processerit.” I do not think that Farmer’s understanding of “bina” as referring to the seﬁrah Binah is relevant here: see his Syncretism in the West, 310–311."
+  },
+  {
+   "work": "farmer1998",
+   "line": 10494,
+   "method": "latin_quote",
+   "evidence": [
+    "retrogrado ordine in illa",
+    "ordine in illa bina",
+    "in illa bina numeratione"
+   ],
+   "context": "fe primo mobiliter: ín animali ex fe mobiliter participatiue : in ccelo alíunde ordinate e luni alitide mobiliter inordinate. (Elementa in octo cceli corporibus cœlefti modo bis inueniun tur: quz quis inueniet ft retrogrado ordine in illa bina numera- tione proceflerite C Super hunc mundum quem uocant Theologi eft alius quem uocant & fuper hunc alius quem uocant"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>67"
+ ]
+}

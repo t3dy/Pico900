@@ -1,0 +1,32 @@
+{
+ "thesis_id": "4.4",
+ "latin": "In Christo fuerunt duo esse.",
+ "farmer_latin_line": 12153,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13918,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 4"
+   ],
+   "context": "been transmitted by an authority must be regarded as truth, says Scotus: but this does not mean that one must deny the truth of whatever has not been explicitly transmitted by an authority. Thesis 4 declares that in Christ there were two forms of existence.19 This issue is discussed by Scotus in Ordinatio 3, d. 6, q. 1 (Utrum in Christo sit ali- quod esse aliud ab esse increato).20 Here Scotus distinguishes between duo esse and duo entia and between human and divine existence. While the existence"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13931,
+   "method": "latin_quote",
+   "evidence": [
+    "fuerunt duo esse",
+    "in christo fuerunt",
+    "christo fuerunt duo"
+   ],
+   "context": "non est negandum esse verum quidquid ipsa non tradit: ‘Aestimo mundum non posse capere libros’ etc. Logice etiam loquendo, patet quod locus ab auctoritate non tenet nega- tive.” And see the continuation of these remarks on pp. 31–34. 19 Pico, 900 Theses, p. 236: “In Christo fuerunt duo esse.” 20 John Duns Scotus, Ordinatio 3, d. 6, q. 1, in Opera omnia, vol. 9 (Vatican City, 2006), pp. 233–248. This is indicated by Farmer in Pico, 900 Theses, p. 237."
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>5",
+  "2.16",
+  "2>25"
+ ]
+}

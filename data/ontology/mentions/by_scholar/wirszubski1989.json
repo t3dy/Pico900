@@ -1,0 +1,4091 @@
+{
+ "work": "wirszubski1989",
+ "meta": {
+  "author": "Chaim Wirszubski",
+  "title": "Pico della Mirandola's Encounter with Jewish Mysticism",
+  "year": 1989,
+  "kind": "monograph",
+  "role": "kabbalah_wirszubski",
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\Chaim Wirszubski Paul Oskar Kristeller Pico della Mirandola s Encounter with Jewish Mysticism libgen li.txt",
+  "word_count": 112020,
+  "source_file": "Chaim Wirszubski Paul Oskar Kristeller Pico della Mirandola s Encounter with Jewish Mysticism Harvard University Press.pdf"
+ },
+ "n_mentions": 342,
+ "n_theses": 136,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 196,
+   "method": "latin_quote",
+   "evidence": [
+    "docet nos legere in",
+    "legere in libro legis",
+    "nos legere in libro",
+    "cabala docet nos legere"
+   ],
+   "context": "13. Mors Osculi 153 14. The Old and the New in Pico's Kabbalistic Confirmation of Christianity 161 15. Cabala Docet Nos Legere in Libro Legis 170 16. New Relationships and Orientations 185",
+   "thesis_id": "11>72"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1246,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO I"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO I Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationa-",
+   "thesis_id": "28.1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1249,
+   "method": "latin_quote",
+   "evidence": [
+    "ita michel sacerdos superior",
+    "michel sacerdos superior sacrificat",
+    "sacrificat deo animas animalium",
+    "superior sacrificat animas animalium"
+   ],
+   "context": "CONCLUSIO I Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationa- lium, ita Michael sacerdos superior sacrificat animas animalium rationa- lium.",
+   "thesis_id": "28.1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1301,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO  II"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO II Nouem sunt angelorum hierarchiae quarum nomina Cherubim, Seraphim,",
+   "thesis_id": "28.2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1304,
+   "method": "latin_quote",
+   "evidence": [
+    "hierarchie quarum nomina cherubim",
+    "nouem sunt angelorum hierarchie",
+    "sunt angelorum hierarchie quarum",
+    "quarum nomina cherubim seraphim"
+   ],
+   "context": "CONCLUSIO II Nouem sunt angelorum hierarchiae quarum nomina Cherubim, Seraphim, Hasmalim, Haiot, Aralim, Tarsisim, Ophanim, Tephsraim [Tephsarim], Isim.",
+   "thesis_id": "28.2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1355,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO III"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO III Quamuis nomen ineffabile9 sit proprietas clementiae, negandum tarnen non",
+   "thesis_id": "28.3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1358,
+   "method": "latin_quote",
+   "evidence": [
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem",
+    "non est quin contineat"
+   ],
+   "context": "CONCLUSIO III Quamuis nomen ineffabile9 sit proprietas clementiae, negandum tarnen non est quin contineat proprietatem iudicii. The direct source is Liber Combinationum, Cod. Vat. Ebr. 190, fol. 41r:",
+   "thesis_id": "28.3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1390,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO IV"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis.",
+   "thesis_id": "28.4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1393,
+   "method": "latin_quote",
+   "evidence": [
+    "peccatum ade fuit truncatio",
+    "ade fuit truncatio regni"
+   ],
+   "context": "CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis. The prohibition of the fruit of the tree of knowledge, or, more precisely, Gen. 2:16, \"And the Lord God commanded the man saying,\" etc., is",
+   "thesis_id": "28.4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1459,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO V"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO V Cum arbore scientiae boni et mali in qua peccauit primus homo creauit",
+   "thesis_id": "28.5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1462,
+   "method": "latin_quote",
+   "evidence": [
+    "et mali in qua",
+    "in qua peccauit primus",
+    "homo creauit deus seculum",
+    "cum arbore scientie boni"
+   ],
+   "context": "CONCLUSIO V Cum arbore scientiae boni et mali in qua peccauit primus homo creauit deus saeculum. The direct source is Recanati, fol. 23vb, quoting the Zohar, part I, fol. 36r:",
+   "thesis_id": "28.5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1479,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO VI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO VI Magnus Aquilo fons est animarum omnium simpliciter, sicut alii dies",
+   "thesis_id": "28.6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1482,
+   "method": "latin_quote",
+   "evidence": [
+    "aquilo fons est animarum",
+    "dies quarundam et non",
+    "est animarum omnium simpliciter",
+    "magnus aquilo fons est"
+   ],
+   "context": "CONCLUSIO VI Magnus Aquilo fons est animarum omnium simpliciter, sicut alii dies quarundam et non omnium. The interpretation of this thesis depends entirely on the precise location of",
+   "thesis_id": "28.6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1501,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO VII"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39]",
+   "thesis_id": "28.7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1504,
+   "method": "latin_quote",
+   "evidence": [
+    "exaudi celum per celum",
+    "dicit salomon in oratione",
+    "uiridem debemus intelligere que",
+    "salomon in oratione sua"
+   ],
+   "context": "CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39] Exaudi, ο coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum.",
+   "thesis_id": "28.7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1529,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO VIII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO VIII Animae a tertio lumine ad quartam diem, et inde ad quintam descendunt;",
+   "thesis_id": "28.8"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1532,
+   "method": "latin_quote",
+   "evidence": [
+    "diem et inde ad",
+    "tertio lumine ad quartam",
+    "descendunt inde exeuntes corporis",
+    "quintam descendunt inde exeuntes"
+   ],
+   "context": "CONCLUSIO VIII Animae a tertio lumine ad quartam diem, et inde ad quintam descendunt; inde exeuntes corporis noctem subintrant. In the Kabbalistic sources with which Pico was acquainted the prevalent",
+   "thesis_id": "28.8"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1675,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO IX"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce-",
+   "thesis_id": "28.9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1678,
+   "method": "latin_quote",
+   "evidence": [
+    "sex dies geneseos habemus",
+    "bresith sicut procedunt cedri",
+    "geneseos habemus intelligere sex",
+    "sex extremitates edificii procedentes"
+   ],
+   "context": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce- dentes a Bresith sicut procedunt cedri a Libano. Cf. Recanati, fol. 14vb:",
+   "thesis_id": "28.9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1705,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvii"
+   ],
+   "resolved": false,
+   "context": "hoc indicatur per illud quod dicitur in textu [Eccl. 1:7] Omnes torrentes tendunt ad mare, quia scilicet per Tiphereth tendunt sex extrema quae dicuntur torrentes contenti in eo ad Athereth [Diadem, the tenth sefirah] quae dicitur mare [cf. Conclusio xxvii]. Si uero considerantur in particulari sunt pietas [Hesed, otherwise called Gedullah, the fourth sefirah], potentia, eternitas [Nesah, Eternity or Victory], decor, fundamentum seculi, et dia- dema.",
+   "thesis_id": "28.27"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1705,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvii"
+   ],
+   "resolved": false,
+   "context": "hoc indicatur per illud quod dicitur in textu [Eccl. 1:7] Omnes torrentes tendunt ad mare, quia scilicet per Tiphereth tendunt sex extrema quae dicuntur torrentes contenti in eo ad Athereth [Diadem, the tenth sefirah] quae dicitur mare [cf. Conclusio xxvii]. Si uero considerantur in particulari sunt pietas [Hesed, otherwise called Gedullah, the fourth sefirah], potentia, eternitas [Nesah, Eternity or Victory], decor, fundamentum seculi, et dia- dema.",
+   "thesis_id": "11>27"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1717,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X Rectius dicitur quod paradisus sit totum aedificium quam quod sit decima;",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1720,
+   "method": "latin_quote",
+   "evidence": [
+    "et in medio eius",
+    "eius est collocatus magnus",
+    "quam quod sit decima",
+    "quod sit decima et"
+   ],
+   "context": "CONCLUSIO X Rectius dicitur quod paradisus sit totum aedificium quam quod sit decima; et in medio eius est collocatus magnus Adam qui est Tipheret. Cf. Recanati, fols. 17va-18ra:",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1734,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XI"
+   ],
+   "resolved": true,
+   "context": "Sol. 4:12] \"A garden locked is my sister, my bride.\" CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad",
+   "thesis_id": "28.11"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1737,
+   "method": "latin_quote",
+   "evidence": [
+    "ad significandum quod ex",
+    "dictum est ex heden",
+    "exire fluuium qui diuiditur",
+    "procedit tertia que in"
+   ],
+   "context": "CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad significandum quod ex secunda numeratione procedit tertia, quae in quar- tam, quintam, sextam et decimam diuiditur.",
+   "thesis_id": "28.11"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1783,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe-",
+   "thesis_id": "28.12"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1786,
+   "method": "latin_quote",
+   "evidence": [
+    "fato si per fatum",
+    "omnia pendere ex fato",
+    "ex fato si per",
+    "erit omnia pendere ex"
+   ],
+   "context": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe- rimus. The source of this thesis can be either of two remarkably similar texts. One",
+   "thesis_id": "28.12"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1833,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X I I I Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mys-",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1833,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X I I I Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mys-",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1836,
+   "method": "latin_quote",
+   "evidence": [
+    "portarum intelligentie cognoscet mysterium",
+    "nouerit in cabala mysterium",
+    "in cabala mysterium portarum",
+    "qui nouerit in cabala"
+   ],
+   "context": "CONCLUSIO X I I I Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mys- terium magni Iobelei. The substance of this thesis, namely the notion that the year of jubilee is a",
+   "thesis_id": "28.13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1851,
+   "method": "latin_quote",
+   "evidence": [
+    "secretum quinquaginta portarum intelligentie",
+    "quinquaginta portarum intelligentie et"
+   ],
+   "context": "22:37] dicentis dilatabit gressus meos sub me quod scribitur hebraice cum nun contra morem ydiomatis ubi dicitur tarhib saadi tahteni ΉΪΧ 3ΤΠ0 '3ΠΠΠ cum debuisset dicere tahtai ΤΙΠΠ sed quod sit nun sub me quia nun numero est quinquaginta et est secretum quinquaginta portarum intelli- gentiae et locus hie vocatur Geulla id est redemptio quia ab hoc loco trahit deus uiuus el hai et ideo debet conjungi redemptio ad orationem vel philacterium quod dicitur teffilla. Si uero intellexeris secretum Iobelei et",
+   "thesis_id": "11>69"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1864,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X I V Qui nouerit proprietatem meridionalem in dextrali coordinatione, seiet cur",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1864,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X I V Qui nouerit proprietatem meridionalem in dextrali coordinatione, seiet cur",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1867,
+   "method": "latin_quote",
+   "evidence": [
+    "semper fit uersus austrum",
+    "meridionalem in dextrali coordinatione",
+    "proprietatem meridionalem in dextrali",
+    "qui nouerit proprietatem meridionalem"
+   ],
+   "context": "CONCLUSIO X I V Qui nouerit proprietatem meridionalem in dextrali coordinatione, seiet cur omnis profectio Abraham semper fit uersus austrum. Either of the following texts could be the source of this thesis. One is",
+   "thesis_id": "28.14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1916,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X V Nisi nomen15 Abraam <0Π13Κ>, id est he addita, fuisset, Abraam non",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1916,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X V Nisi nomen15 Abraam <0Π13Κ>, id est he addita, fuisset, Abraam non",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1919,
+   "method": "latin_quote",
+   "evidence": [
+    "est he addita fuisset",
+    "he addita fuisset abraam",
+    "addita fuisset abraam non",
+    "fuisset abraam non generasset"
+   ],
+   "context": "CONCLUSIO X V Nisi nomen15 Abraam <0Π13Κ>, id est he addita, fuisset, Abraam non generasset. Compare Recanati, fol. 46rb, where he quotes the Bahir (§6 ed. Scholem)",
+   "thesis_id": "28.15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1956,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X V I Omnes ante Moysen prophetarunt per ceruam unicornem.",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1956,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X V I Omnes ante Moysen prophetarunt per ceruam unicornem.",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1959,
+   "method": "latin_quote",
+   "evidence": [
+    "prophetarunt per ceruam unicornem",
+    "moysen prophetarunt per ceruam",
+    "omnes ante moysen prophetarunt",
+    "ante moysen prophetarunt per"
+   ],
+   "context": "CONCLUSIO X V I Omnes ante Moysen prophetarunt per ceruam unicornem. The thesis is a commonplace expressed in unusual language, and what it states is merely that unlike the prophecy of Moses (which was inspired by a",
+   "thesis_id": "28.16"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2005,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XVII"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XVII Vbicumque in scriptura fit mentio amoris maris et feminae nobis mystice",
+   "thesis_id": "28.17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2008,
+   "method": "latin_quote",
+   "evidence": [
+    "uel beth et tipheret",
+    "maris et femine nobis",
+    "mentio amoris maris et",
+    "scriptura fit mentio amoris"
+   ],
+   "context": "CONCLUSIO XVII Vbicumque in scriptura fit mentio amoris maris et feminae nobis mystice designator coniuncto Tipheret et Chieneseth Israel, uel Beth et Tipheret. Cf. Recanati, fol. 171 va:",
+   "thesis_id": "28.17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2057,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X V I I I Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2057,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X V I I I Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2060,
+   "method": "latin_quote",
+   "evidence": [
+    "copulabitur prospera erit ei",
+    "prospera erit ei omnis",
+    "qui media nocte cum",
+    "nocte cum tipheret copulabitur"
+   ],
+   "context": "CONCLUSIO X V I I I Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis generatio. Cf. Recanati, fol. 213rb-va:",
+   "thesis_id": "28.18"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2078,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X I X Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2078,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X I X Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2081,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi huius et nominis",
+    "triagrammaton et qui sciuerit",
+    "qui est princeps mundi",
+    "princeps mundi huius et"
+   ],
+   "context": "CONCLUSIO X I X Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio.",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2122,
+   "method": "latin_quote",
+   "evidence": [
+    "est princeps mundi huius",
+    "qui est princeps mundi"
+   ],
+   "context": "it an open question whether Mithridates misread the original and then interpolated the translation, or translated a faulty and interpolated Hebrew text. In any case, the translation \"nomen ipsius dei triagramaton ... continet in secreto cacodemona qui est princeps mundi huius\" suffi- ciently accounts for Pico's thesis, even if it leaves one wondering whether Pico in fact knew precisely how to deduce the name of Satan from the nomen dei triagramaton.22",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2129,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XX"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XX Cum fiet lux speculi non lucentis sicut speculi lucentis, erit nox sicut dies, ut",
+   "thesis_id": "28.20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2132,
+   "method": "latin_quote",
+   "evidence": [
+    "sicut speculi lucentis erit",
+    "nox sicut dies ut",
+    "lucentis sicut speculi lucentis",
+    "sicut dies ut dicit"
+   ],
+   "context": "CONCLUSIO XX Cum fiet lux speculi non lucentis sicut speculi lucentis, erit nox sicut dies, ut dicit Dauid. Kabbalistically speaking, this thesis states a truism. To pinpoint the",
+   "thesis_id": "28.20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2195,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXI Qui seiet proprietatem quae est secretum tenebrarum, seiet cur mali",
+   "thesis_id": "28.21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2198,
+   "method": "latin_quote",
+   "evidence": [
+    "cur mali demones plus",
+    "nocte quam die nocent",
+    "proprietatem que est secretum",
+    "mali demones plus in"
+   ],
+   "context": "CONCLUSIO XXI Qui seiet proprietatem quae est secretum tenebrarum, seiet cur mali demones plus in nocte quam die nocent. The direct source is most probably Recanati, fols. 7vb-8ra:",
+   "thesis_id": "28.21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2228,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXII"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XXII Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad",
+   "thesis_id": "28.22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2231,
+   "method": "latin_quote",
+   "evidence": [
+    "ex sexta septima octaua",
+    "que induit uau et",
+    "ordinandi ita ut ex",
+    "sunt quatuor phylacteria que"
+   ],
+   "context": "CONCLUSIO XXII Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium, duo sunt currus ordinandi, ita ut ex secunda, tertia, quarta, quinta fiat unus currus, et sunt quatuor phylacteria quae induit Vau; et ex sexta, septima, octaua et nona fit secundus currus, et sunt",
+   "thesis_id": "28.22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2291,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXIII Supra proprietatem penitentiae non est utendum uerbo dixit.",
+   "thesis_id": "28.23"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2294,
+   "method": "latin_quote",
+   "evidence": [
+    "non est utendum uerbo",
+    "est utendum uerbo dixit",
+    "penitentie non est utendum",
+    "supra proprietatem penitentie non"
+   ],
+   "context": "CONCLUSIO XXIII Supra proprietatem penitentiae non est utendum uerbo dixit. Cf. Recanati, fol. 6rb-va:",
+   "thesis_id": "28.23"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2310,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXIV Cum dixit lob [25:2] qui facit pacem in excelsis suis, aquam intellexit",
+   "thesis_id": "28.24"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2313,
+   "method": "latin_quote",
+   "evidence": [
+    "prefectos illorum de quibus",
+    "quibus non est ultra",
+    "septentrionalem et prefectos illorum",
+    "de quibus non est"
+   ],
+   "context": "CONCLUSIO XXIV Cum dixit lob [25:2] qui facit pacem in excelsis suis, aquam intellexit australem et ignem septentrionalem, et praefectos illorum, de quibus non est ultra dicendum.",
+   "thesis_id": "28.24"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2365,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIONES XXV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIONES XXV and XXVI Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit.",
+   "thesis_id": "28.25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2368,
+   "method": "latin_quote",
+   "evidence": [
+    "est bresith id est",
+    "principio creauit ac si",
+    "bresith id est in",
+    "dixisset in sapientia creauit"
+   ],
+   "context": "CONCLUSIONES XXV and XXVI Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit. Quod dixit anchelos chaldeus becadmin, id est cum aeternis uel peraeterna, triginta duas uias sapientiae intellexit.",
+   "thesis_id": "28.25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2370,
+   "method": "latin_quote",
+   "evidence": [
+    "becadmin id est cum",
+    "anchelos chaldeus becadmin id",
+    "id est cum eternis",
+    "chaldeus becadmin id est"
+   ],
+   "context": "Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit. Quod dixit anchelos chaldeus becadmin, id est cum aeternis uel peraeterna, triginta duas uias sapientiae intellexit. Notwithstanding the fact that the first thesis is an ancient commonplace",
+   "thesis_id": "28.26"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2401,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X V I I Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2401,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X V I I Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2404,
+   "method": "latin_quote",
+   "evidence": [
+    "est iustus ita mare",
+    "mare ad quod tendunt",
+    "iustus ita mare ad",
+    "quod tendunt omnia flumina"
+   ],
+   "context": "CONCLUSIO X X V I I Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est diuinitas. Cf. Recanati, fol. 9va:",
+   "thesis_id": "28.27"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2429,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X V I I I Per uolatile quod creatum est die quinta, debemus intelligere angelos",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2429,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X V I I I Per uolatile quod creatum est die quinta, debemus intelligere angelos",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2432,
+   "method": "latin_quote",
+   "evidence": [
+    "die quinta debemus intelligere",
+    "qui non apparent nisi",
+    "per uolatile quod creatum",
+    "apparent non eos qui"
+   ],
+   "context": "CONCLUSIO X X V I I I Per uolatile quod creatum est die quinta, debemus intelligere angelos mundanos, qui hominibus apparent, non eos qui non apparent nisi in spiritu.",
+   "thesis_id": "28.28"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2460,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIX"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XXIX Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2463,
+   "method": "latin_quote",
+   "evidence": [
+    "regno dauidis debet appropriari",
+    "quatuor litterarum quod est",
+    "ex mem sade pe",
+    "quod est ex mem"
+   ],
+   "context": "CONCLUSIO XXIX Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno Dauidis debet appropriari. The strange name fSXö MS PS is not a meaningful Hebrew word, but a vox",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2520,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X Nullus angelus habens sex alas unquam transformatur.",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2520,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X Nullus angelus habens sex alas unquam transformatur.",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2523,
+   "method": "latin_quote",
+   "evidence": [
+    "sex alas unquam transformatur",
+    "nullus angelus habens sex",
+    "habens sex alas unquam",
+    "angelus habens sex alas"
+   ],
+   "context": "CONCLUSIO X X X Nullus angelus habens sex alas unquam transformatur. Though the ultimate source of this thesis is undoubtedly the Zohar, part I, fol. 34v, there is no need to look for its immediate source beyond Recanati,",
+   "thesis_id": "28.30"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2540,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X I Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir-",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2540,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X I Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir-",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2543,
+   "method": "latin_quote",
+   "evidence": [
+    "est circumcisio ad liberationem",
+    "immundis que in circuitu",
+    "data est circumcisio ad",
+    "uirtutibus immundis que in"
+   ],
+   "context": "CONCLUSIO X X X I Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir- cuitu ambulant. Cf. Recanati, fol. 47va:",
+   "thesis_id": "28.31"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2573,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXII"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XXXII Ideo circumcisio fit octaua die, quia est superior quam sponsa uniuersali-",
+   "thesis_id": "28.32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2576,
+   "method": "latin_quote",
+   "evidence": [
+    "superior quam sponsa uniuersalizata",
+    "fit octaua die quia",
+    "die quia est superior",
+    "circumcisio fit octaua die"
+   ],
+   "context": "CONCLUSIO XXXII Ideo circumcisio fit octaua die, quia est superior quam sponsa uniuersali- zata. Recanati, fol. 47vb:",
+   "thesis_id": "28.32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2604,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXIII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXXIII Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate,",
+   "thesis_id": "28.33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2606,
+   "method": "latin_quote",
+   "evidence": [
+    "separationibus tortuositate directione defectu",
+    "sunt littere in tota",
+    "tortuositate directione defectu superabundantia",
+    "littere in tota lege"
+   ],
+   "context": "CONCLUSIO XXXIII Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate, maioritate, coronatione, clausura, apertura, et ordine decern numeratio- num secreta non manifestent.",
+   "thesis_id": "28.33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2636,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXXIV Qui intellexerit cur sit dictum quod Moyses abscondit faciem suam, et quod",
+   "thesis_id": "28.34"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2639,
+   "method": "latin_quote",
+   "evidence": [
+    "esse debeat orantis habitudo",
+    "cur sit dictum quod",
+    "qui intellexerit cur sit",
+    "facies suas ad parietem"
+   ],
+   "context": "CONCLUSIO XXXIV Qui intellexerit cur sit dictum quod Moyses abscondit faciem suam, et quod Ezechias uertit facies suas ad parietem, seiet quae esse debeat orantis habitudo et dispositio.",
+   "thesis_id": "28.34"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2665,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXXV Nulla res spiritualis descendens inferius operatur sine indumento.",
+   "thesis_id": "28.35"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2668,
+   "method": "latin_quote",
+   "evidence": [
+    "descendens inferius operatur sine",
+    "nulla res spiritualis descendens",
+    "spiritualis descendens inferius operatur",
+    "res spiritualis descendens inferius"
+   ],
+   "context": "CONCLUSIO XXXV Nulla res spiritualis descendens inferius operatur sine indumento. The direct source is Recanati, fol. 50ra:",
+   "thesis_id": "28.35"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2687,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Sources of the First Set of Theses CONCLUSIO X X X V I Peccatum Soddomae fuit per truncationem ultimae plantae.",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2687,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Sources of the First Set of Theses CONCLUSIO X X X V I Peccatum Soddomae fuit per truncationem ultimae plantae.",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2690,
+   "method": "latin_quote",
+   "evidence": [
+    "soddome fuit per truncationem",
+    "per truncationem ultime plante",
+    "fuit per truncationem ultime",
+    "peccatum soddome fuit per"
+   ],
+   "context": "CONCLUSIO X X X V I Peccatum Soddomae fuit per truncationem ultimae plantae. Cf. Recanati, fol. 51ra-b, interpreting Genesis 18:20-21:",
+   "thesis_id": "28.36"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2705,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X V I I Per secretum orationis antelucanae, nihil aliud debemus intelligere quam",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2705,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIO X X X V I I Per secretum orationis antelucanae, nihil aliud debemus intelligere quam",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2708,
+   "method": "latin_quote",
+   "evidence": [
+    "secretum orationis antelucane nihil",
+    "intelligere quam proprietatem pietatis",
+    "antelucane nihil aliud debemus",
+    "debemus intelligere quam proprietatem"
+   ],
+   "context": "CONCLUSIO X X X V I I Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis. Cf. Recanati, fol. 52va:",
+   "thesis_id": "28.37"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2723,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIONES X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIONES X X X V I I I and X X X I X Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2723,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIONES X"
+   ],
+   "resolved": false,
+   "context": "CONCLUSIONES X X X V I I I and X X X I X Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2726,
+   "method": "latin_quote",
+   "evidence": [
+    "amore ita intrinsecus est",
+    "ita intrinsecus est superior",
+    "extrinsecus timor est inferior",
+    "sicut extrinsecus timor est"
+   ],
+   "context": "CONCLUSIONES X X X V I I I and X X X I X Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior amore. Ex praecedenti conclusione intelligitur, cur in Genesi [22:12] a timore",
+   "thesis_id": "28.38"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2729,
+   "method": "latin_quote",
+   "evidence": [
+    "pietatis omnia fecisse ex",
+    "ex precedenti conclusione intelligitur",
+    "intelligitur cur in genesi",
+    "scimus per proprietatem pietatis"
+   ],
+   "context": "Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior amore. Ex praecedenti conclusione intelligitur, cur in Genesi [22:12] a timore laudatur Abraham, quem tarnen scimus per proprietatem pietatis omnia fecisse ex amore.",
+   "thesis_id": "28.39"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2774,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XL"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XL Quotienscunque ignoramus proprietatem a qua est influxus super petitione",
+   "thesis_id": "28.40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2777,
+   "method": "latin_quote",
+   "evidence": [
+    "influxus super petitione quam",
+    "petimus ad dominum naris",
+    "quam petimus ad dominum",
+    "dominum naris recurrendum est"
+   ],
+   "context": "CONCLUSIO XL Quotienscunque ignoramus proprietatem a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. While the notion of prayer to the \"master of the nose\" ultimately derives",
+   "thesis_id": "28.40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2814,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XLI Omnis anima bona est anima noua ueniens ab Oriente.",
+   "thesis_id": "28.41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2817,
+   "method": "latin_quote",
+   "evidence": [
+    "bona est anima noua",
+    "anima bona est anima",
+    "noua ueniens ab oriente",
+    "est anima noua ueniens"
+   ],
+   "context": "CONCLUSIO XLI Omnis anima bona est anima noua ueniens ab Oriente. The source of this thesis, as Gershom Scholem pointed out to me, is the Bahir (§104 ed. Scholem), Cod. Vat. Ebr. 191, fol. 312v:",
+   "thesis_id": "28.41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2833,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIONES XLII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIONES XLII and XLIII Ideo Ioseph ossibus tantum sepultus est et non corpore, quia eius ossa erant",
+   "thesis_id": "28.42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2836,
+   "method": "latin_quote",
+   "evidence": [
+    "eius ossa erant uirtutes",
+    "et militie arboris superioris",
+    "non corpore quia eius",
+    "ossa erant uirtutes et"
+   ],
+   "context": "CONCLUSIONES XLII and XLIII Ideo Ioseph ossibus tantum sepultus est et non corpore, quia eius ossa erant uirtutes et militiae arboris superioris uocati Sadich influentis ad terram superiorem.",
+   "thesis_id": "28.42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2840,
+   "method": "latin_quote",
+   "evidence": [
+    "sepulchrum nemo nouit quia",
+    "est in iobeleo superiore",
+    "exaltatus est in iobeleo",
+    "in iobeleo superiore et"
+   ],
+   "context": "uirtutes et militiae arboris superioris uocati Sadich influentis ad terram superiorem. Ideo Moysis sepulchrum nemo nouit, quia exaltatus est in Iobeleo super- iore, et super Iobeleum misit radices suas. The Zohar, part I, fol. 21v, considers the question why it was that, while",
+   "thesis_id": "28.43"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2880,
+   "method": "latin_quote",
+   "evidence": [
+    "iobeleum misit radices suas",
+    "et super iobeleum misit",
+    "super iobeleum misit radices"
+   ],
+   "context": "Given that neither the \"Superior Tree\" nor the \"Superior Earth\" nor Jer. 17:8 appears in the Zohar passage, their presence in Pico's theses argues conclusively that the direct source of these theses is Recanati, not the Zohar. Moreover, the translation of Jer. 17:8 in the form \"et super Iobeleum misit radices suas\" shows the touch of the same expert hand that translated the Liber de Radicibus, Cod. Vat. Ebr. 190, fol. 241r, s.v. YWBL: \"iobel id est Iobeleus, uel Cornu, uel Riuulus, indicat Intelligen-",
+   "thesis_id": "28.43"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2890,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XLIV Cum anima comprehenderit quicquid poterit comprehendere, et coniun-",
+   "thesis_id": "28.44"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2893,
+   "method": "latin_quote",
+   "evidence": [
+    "quicquid poterit comprehendere et",
+    "et coniungetur cum diuinitate",
+    "et extirpabitur de loco",
+    "se et extirpabitur de"
+   ],
+   "context": "CONCLUSIO XLIV Cum anima comprehenderit quicquid poterit comprehendere, et coniun- getur animae superiori, expoliabit indumentum terrenum a se, et extirpa- bitur de loco suo, et coniungetur cum diuinitate.",
+   "thesis_id": "28.44"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2917,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLV"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XLV Sapientes Israhel, post cessationem prophetiae per spiritum, prophetarunt",
+   "thesis_id": "28.45"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2920,
+   "method": "latin_quote",
+   "evidence": [
+    "per spiritum prophetarunt per",
+    "post cessationem prophetie per",
+    "prophetarunt per filiam uocis",
+    "sapientes israhel post cessationem"
+   ],
+   "context": "CONCLUSIO XLV Sapientes Israhel, post cessationem prophetiae per spiritum, prophetarunt per filiam uocis. Compare Recanati, fol. 83va-b:",
+   "thesis_id": "28.45"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2936,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLVI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XLVI Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in",
+   "thesis_id": "28.46"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2939,
+   "method": "latin_quote",
+   "evidence": [
+    "militia celestis in celo",
+    "punitur rex terre in",
+    "prius humilietur militia celestis",
+    "terra quin prius humilietur"
+   ],
+   "context": "CONCLUSIO XLVI Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in coelo. What this thesis states is not, strictly speaking, a specifically Kabbalistic",
+   "thesis_id": "28.46"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2975,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X L V I I Per dictionem AMEN ordo habetur expressus quomodo numerationum",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2975,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO X"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO X L V I I Per dictionem AMEN ordo habetur expressus quomodo numerationum",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2978,
+   "method": "latin_quote",
+   "evidence": [
+    "per dictionem amen ordo",
+    "quomodo numerationum procedant influxus",
+    "expressus quomodo numerationum procedant",
+    "habetur expressus quomodo numerationum"
+   ],
+   "context": "CONCLUSIO X L V I I Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus. Recanati affords all that is needed for the interpretation of this thesis. He",
+   "thesis_id": "28.47"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3137,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiii"
+   ],
+   "resolved": false,
+   "context": "Bahir and more often the Zohar. It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because",
+   "thesis_id": "28.33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3137,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiii"
+   ],
+   "resolved": false,
+   "context": "Bahir and more often the Zohar. It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because",
+   "thesis_id": "11>33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3140,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiv"
+   ],
+   "resolved": false,
+   "context": "represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because he read it with the eyes of Recanati that Pico understood the Zohar so well. We have seen not only that all such theses as argue Pico's acquaintance with the Zohar can be derived from Recanati, but also that about half of",
+   "thesis_id": "28.34"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3140,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiv"
+   ],
+   "resolved": false,
+   "context": "represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because he read it with the eyes of Recanati that Pico understood the Zohar so well. We have seen not only that all such theses as argue Pico's acquaintance with the Zohar can be derived from Recanati, but also that about half of",
+   "thesis_id": "11>34"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3177,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "the conspectus of sources is that the location of individual theses seems to be determined sometimes by the incidence of cognate subject matter in Recanati even when the direct source of the theses is in all likelihood not Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3177,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "the conspectus of sources is that the location of individual theses seems to be determined sometimes by the incidence of cognate subject matter in Recanati even when the direct source of the theses is in all likelihood not Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at",
+   "thesis_id": "11>29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3180,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxx"
+   ],
+   "resolved": false,
+   "context": "Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in",
+   "thesis_id": "28.30"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3180,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxx"
+   ],
+   "resolved": false,
+   "context": "Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in",
+   "thesis_id": "11>30"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3182,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in Recanati. Another case in point is Conclusio xli. It treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3182,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in Recanati. Another case in point is Conclusio xli. It treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in",
+   "thesis_id": "11>29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3184,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xli"
+   ],
+   "resolved": false,
+   "context": "12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in Recanati. Another case in point is Conclusio xli. It treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of",
+   "thesis_id": "28.41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3184,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xli"
+   ],
+   "resolved": false,
+   "context": "12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in Recanati. Another case in point is Conclusio xli. It treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of",
+   "thesis_id": "11>41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3188,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": false,
+   "context": "its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir",
+   "thesis_id": "28.40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3188,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": false,
+   "context": "its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir",
+   "thesis_id": "11>40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3189,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xlii"
+   ],
+   "resolved": false,
+   "context": "Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir which is the ultimate source of Pico's thesis. So here again, while the",
+   "thesis_id": "28.42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3189,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xlii"
+   ],
+   "resolved": false,
+   "context": "Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir which is the ultimate source of Pico's thesis. So here again, while the",
+   "thesis_id": "11>42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3199,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xvii"
+   ],
+   "resolved": false,
+   "context": "The sources of the first set of theses in Recanati are not distributed equally throughout his book: most of them are in the commentary on Genesis and Exodus. At the same time, the principal sources of Conclusiones xvii and xviii are two close passages in the commentary on Deuteronomy: one at fol. 212r and the other at fol. 213r-v. We must therefore reckon with the possibility that Pico read the whole commentary for his first set of theses, even though he may have skipped or made little",
+   "thesis_id": "28.17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3199,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xvii"
+   ],
+   "resolved": false,
+   "context": "The sources of the first set of theses in Recanati are not distributed equally throughout his book: most of them are in the commentary on Genesis and Exodus. At the same time, the principal sources of Conclusiones xvii and xviii are two close passages in the commentary on Deuteronomy: one at fol. 212r and the other at fol. 213r-v. We must therefore reckon with the possibility that Pico read the whole commentary for his first set of theses, even though he may have skipped or made little",
+   "thesis_id": "11>17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3215,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones  xiii"
+   ],
+   "resolved": false,
+   "context": "Pico's Kabbalistic Studies theses (Conclusiones xiii and xiv). Consequently, it is highly probable, and, in fact, almost certain, that Pico read it. The title of the book in the Latin translation is Saare Sedech Id Est Porte Iusticie seu de Diuinis Nominibus. As far as I am aware there is no manuscript authority for the",
+   "thesis_id": "28.13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3215,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones  xiii"
+   ],
+   "resolved": false,
+   "context": "Pico's Kabbalistic Studies theses (Conclusiones xiii and xiv). Consequently, it is highly probable, and, in fact, almost certain, that Pico read it. The title of the book in the Latin translation is Saare Sedech Id Est Porte Iusticie seu de Diuinis Nominibus. As far as I am aware there is no manuscript authority for the",
+   "thesis_id": "11>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3276,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xix"
+   ],
+   "resolved": true,
+   "context": "decern numerationes et viginti due litere • | f η [mem, nun, sadhe, pe, kaf] Speculatores uel episcopi dixerunt eas. The second commentary is the direct source of Conclusio xix: \"Eaedem sunt litterae nominis cacodemonis, qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio.\" It is remarkable that the only thesis in the entire",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3277,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi huius et nominis",
+    "triagrammaton et qui sciuerit",
+    "qui est princeps mundi",
+    "princeps mundi huius et"
+   ],
+   "context": "Speculatores uel episcopi dixerunt eas. The second commentary is the direct source of Conclusio xix: \"Eaedem sunt litterae nominis cacodemonis, qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio.\" It is remarkable that the only thesis in the entire first set which deals with names and transpositions of letters without any",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3284,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "reference to sefirot derives from a commentary on the Book of Creation. It is certain that Pico read the Bahir: Scholem proved it beyond doubt.5 But of the three theses that reflect recognizable passages in the Bahir only one (Conclusio xxix) derives in all likelihood from the Bahir itself, whereas the other two might equally well derive from quotations of the Bahir in Recanati's Commentary on the Pentateuch. The Bahir is the penultimate piece in Cod. Vat. Ebr. 191. It is the earliest extant text of Kabbala proper.",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3284,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "reference to sefirot derives from a commentary on the Book of Creation. It is certain that Pico read the Bahir: Scholem proved it beyond doubt.5 But of the three theses that reflect recognizable passages in the Bahir only one (Conclusio xxix) derives in all likelihood from the Bahir itself, whereas the other two might equally well derive from quotations of the Bahir in Recanati's Commentary on the Pentateuch. The Bahir is the penultimate piece in Cod. Vat. Ebr. 191. It is the earliest extant text of Kabbala proper.",
+   "thesis_id": "11>29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3319,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": false,
+   "context": "Finally, the Vaticanus 190. The first piece included in this manuscript is the anonymous Liber Combinationum. Pico certainly used it for his first set of theses: it is the direct source of Conclusio iii. The book, in Scholem's opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see",
+   "thesis_id": "28.3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3319,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": false,
+   "context": "Finally, the Vaticanus 190. The first piece included in this manuscript is the anonymous Liber Combinationum. Pico certainly used it for his first set of theses: it is the direct source of Conclusio iii. The book, in Scholem's opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see",
+   "thesis_id": "11>3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3323,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  ii"
+   ],
+   "resolved": false,
+   "context": "opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see Conclusio ii). The author of this book, Abraham Axelrad of Cologne, moved from Germany to Spain, and his Kabbala blends the numerologi- cal speculations of the German Hasidim with the Spanish Kabbalists' doctrine of the ten sefirot}",
+   "thesis_id": "28.2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3323,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  ii"
+   ],
+   "resolved": false,
+   "context": "opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see Conclusio ii). The author of this book, Abraham Axelrad of Cologne, moved from Germany to Spain, and his Kabbala blends the numerologi- cal speculations of the German Hasidim with the Spanish Kabbalists' doctrine of the ten sefirot}",
+   "thesis_id": "11>2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3992,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "15 See Scholem, On the Kabbalah and its Symbolism, pp. 42-43. 16 Cod. Vat. Ebr. 191, fol. 23r; see the discussion of Conclusio xix above in Chapter 3. 17 Bahir, Cod. Vat. Ebr. 191, fol. 310r. 18 Cod. Vat. Ebr. 191, fol. 64r.",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3992,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "15 See Scholem, On the Kabbalah and its Symbolism, pp. 42-43. 16 Cod. Vat. Ebr. 191, fol. 23r; see the discussion of Conclusio xix above in Chapter 3. 17 Bahir, Cod. Vat. Ebr. 191, fol. 310r. 18 Cod. Vat. Ebr. 191, fol. 64r.",
+   "thesis_id": "11>19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 4278,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "3 See the discussion of Conclusio xix in Chapter 3. 4 Aleph, mem, and sin: ttrax. 5 Midras BereSit Rabba, xii. 10 (pp. 107-110 ed. Theodor-Albeck).",
+   "thesis_id": "28.19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 4278,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "3 See the discussion of Conclusio xix in Chapter 3. 4 Aleph, mem, and sin: ttrax. 5 Midras BereSit Rabba, xii. 10 (pp. 107-110 ed. Theodor-Albeck).",
+   "thesis_id": "11>19"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 4353,
+   "method": "latin_quote",
+   "evidence": [
+    "medio existente inter utrosque",
+    "utrosque et appropriabili per",
+    "sicut caracteres sunt proprii",
+    "operi magico ita numeri"
+   ],
+   "context": "linguistic symbolism to numerical symbolism which makes itself felt throughout the translations of Mithridates is reflected in Pico's theses. Sicut caracteres sunt proprii operi magico, ita numeri sunt proprii operi cabalae, medio existente inter utrosque et appropriabili per declinationem ad extrema usu litterarum.7",
+   "thesis_id": "9>25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 5115,
+   "method": "latin_quote",
+   "evidence": [
+    "corticem uidetur cum philosophis",
+    "apologis uelarunt ipse sub",
+    "uerborum corticem uidetur cum",
+    "per latentes profundi sensus"
+   ],
+   "context": "their effect. The latter can be seen in the sixty-third Kabbalistic thesis secundum opinionem propriam, which states: Sicut Aristoteles diuiniorem philosophiam, quam philosophi antiqui sub fabulis et apologis uelarunt, ipse sub philosophicae speculationis facie dissimulauit, et uerborum breuitate obscurauit, ita Rabi Moyses Aegyptius in libro, qui a Latinis dicitur Dux Neutrorum, dum per superficialem",
+   "thesis_id": "11>63"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 5556,
+   "method": "latin_quote",
+   "evidence": [
+    "aduerterint cabaliste super hac",
+    "de trinitatis mysterio multum",
+    "significat tunc de trinitatis",
+    "tunc de trinitatis mysterio"
+   ],
+   "context": "Hebrew original. The effect of this interpolation can be seen in Pico's twentieth Kabbalistic thesis secundum opinionem propriam: Si interpretationem suam aduerterint Cabalistae super hac dictione <τκ>['αζ] quae significat tunc, de trinitatis mysterio multum illumina- buntur.3",
+   "thesis_id": "11>20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 5766,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxi"
+   ],
+   "resolved": true,
+   "context": "Cabalisticae secundum opinionem propriam. Conclusio xxi: Qui coniunxerit dictum Cabalistarum, dicentium quod ilia numeratio quae dicitur iustus et redemptor dicitur etiam Ze, cum dicto Thalmutistarum,",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 5768,
+   "method": "latin_quote",
+   "evidence": [
+    "coniunxerit dictum cabalistarum dicentium",
+    "numeratio que dicitur iustus",
+    "prefiguratum fuit adimpletum in",
+    "uidebit quod illud quod"
+   ],
+   "context": "Conclusio xxi: Qui coniunxerit dictum Cabalistarum, dicentium quod ilia numeratio quae dicitur iustus et redemptor dicitur etiam Ze, cum dicto Thalmutistarum, dicentium quod Isaac ibat sicut ze portans Crucem suam, uidebit quod illud quod fuit in Isaac praefiguratum fuit adimpletum in Christo, qui fuit verus",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6244,
+   "method": "latin_quote",
+   "evidence": [
+    "de diuinitate christi quam",
+    "diuinitate christi quam magia",
+    "est scientia que nos",
+    "nulla est scientia que"
+   ],
+   "context": "theses were condemned by the examiners. None of the Conclusiones Cabalisticae was condemned. But Kabbala is involved in one of the thirteen condemned theses, namely the magical thesis which states that \"nulla est scientia quae nos magis certificet de divinitate Christi quam magia et cabala.\" The reason it was unanimously declared by the examin- ers to be \"de virtute sermonis falsa, erronea, superstitiosa et heretica\"4 is not far to seek: the thesis seems to set magic and Kabbala above the",
+   "thesis_id": "9>9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6283,
+   "method": "latin_quote",
+   "evidence": [
+    "christi non ratione rei",
+    "ratione rei facte sed",
+    "ratione modi faciendi sue",
+    "non ratione rei facte"
+   ],
+   "context": "5 Opera, pp. 166 ff. In all quotations from the \"Quaestio Quinta\", I have checked the text against the Apology's editioprinceps ([Rome], 1487) correct- ing misprints, but retaining the spelling of the Basle edition. 6 Namely, \"Miracula Christi non ratione rei factae, sed ratione modi faciendi suae diuinitatis argumentum certissimum sunt\"; ConclusionesMagicaeNo. 8, Opera, p. 105.",
+   "thesis_id": "9>8"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6818,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  i"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio i: Quicquid dicant caeteri Cabalistae, ego prima diuisione scientiam Cabalae in scientiam Sephiroth et Semot, tanquam in practicam et speculatiuam",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6820,
+   "method": "latin_quote",
+   "evidence": [
+    "sephiroth et semot tanquam",
+    "tanquam in practicam et",
+    "in practicam et speculatiuam",
+    "et semot tanquam in"
+   ],
+   "context": "Conclusio i: Quicquid dicant caeteri Cabalistae, ego prima diuisione scientiam Cabalae in scientiam Sephiroth et Semot, tanquam in practicam et speculatiuam distinguerem.3",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6864,
+   "method": "latin_quote",
+   "evidence": [
+    "peccatum ade fuit truncatio",
+    "ade fuit truncatio regni"
+   ],
+   "context": "5 Scholem, \"Zur Geschichte der Anfänge der christlichen Kabbala,\" p. 164, n. 1. 6 Cf. Conclusiones Cabalisticae secundum secretam doctrinam sapientum Hebraeorum Cabalistarum, iv: \"Peccatum Adae fuit truncatio regni a caeteris plantis,\" Opera, p. 81. [134]",
+   "thesis_id": "28.4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6895,
+   "method": "latin_quote",
+   "evidence": [
+    "sephiroth et semot tanquam",
+    "tanquam in practicam et",
+    "et semot tanquam in",
+    "semot tanquam in practicam"
+   ],
+   "context": "numerationibus tam in ipsis nominibus.\" The superposition of the rela- tively late distinction between speculative and practical Kabbala7 upon the bipartite division of Kabbala into the science of sefirot and the science of names produced Pico's first division of Kabbala \"in scientiam sephi- roth et semot tanquam in practicam et speculativam.\" The theurgic or magical use of divine names in Judaism is older than the earliest known instance of the ten sefirot. The doctrine of the ten sefirot, as",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6940,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  ii"
+   ],
+   "resolved": true,
+   "context": "proprium is followed by the quadripartite division of speculative Kabbala in the second: Conclusio ii: Quicquid dicant alii cabalistae, ego partem speculatiuam Cabalae quadruplicem diuiderem, conrespondentes quadruplici partitioni",
+   "thesis_id": "11>2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6942,
+   "method": "latin_quote",
+   "evidence": [
+    "secunda tertia et quarta",
+    "merchiaua conrespondentes triplici philosophie",
+    "diuinis de mediis et",
+    "triplex merchiaua conrespondentes triplici"
+   ],
+   "context": "Conclusio ii: Quicquid dicant alii cabalistae, ego partem speculatiuam Cabalae quadruplicem diuiderem, conrespondentes quadruplici partitioni philosophiae quam ego solitus sum afferre. Prima est scientia quam ego uoco alphabetariae reuolutionis, conrespondentem parti philosophiae",
+   "thesis_id": "11>2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7048,
+   "method": "latin_quote",
+   "evidence": [
+    "septima et octaua petendos",
+    "ita dicas in merchiaua",
+    "dicas in merchiaua inferiori",
+    "in merchiaua inferiori accipi"
+   ],
+   "context": "elaborate interpretation of the Merkabah omits the sefirot, without which in my opinion triplex merchiava cannot be satisfactorily interpreted ad mentem Pici. Pico's fiftieth Kabbalistic thesis states: \"Cum dicunt cabalis- tae a septima et octaua petendos filios, ita dicas in merchiaua inferiori accipi,\" etc. Since Eternity and Majesty (\"septima et octaua\") are said by Pico to be \"in merchiava inferiori\", it follows (a) that merchiava, as understood by Pico, embraces sefirot, and (b) that the sefirot form more",
+   "thesis_id": "11>50"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7057,
+   "method": "latin_quote",
+   "evidence": [
+    "in dextrali coordinatione subordinationem",
+    "abraam in die suo",
+    "qui intellexerit in dextrali",
+    "suo per rectam lineam"
+   ],
+   "context": "Pico's thirty-seventh thesis bears out my conclusion: Qui intellexerit in dextrali coordinatione subordinationem pietatis ad sapientiam, perfecte intelliget per uiam Cabalae quomodo Abraam in die suo per rectam lineam uidit diem Christi et gauisus est.10",
+   "thesis_id": "11>37"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7110,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": true,
+   "context": "things: the art of combining letters and the doctrine of the ten sefirot. Pico defines practical Kabbala in his third thesis: Conclusio iii: Scientia quae est pars practica Cabalae, practicat totam metaphysicam formalem et theologiam inferiorem.",
+   "thesis_id": "11>3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7112,
+   "method": "latin_quote",
+   "evidence": [
+    "pars practica cabale practicat",
+    "que est pars practica",
+    "scientia que est pars",
+    "practica cabale practicat totam"
+   ],
+   "context": "Conclusio iii: Scientia quae est pars practica Cabalae, practicat totam metaphysicam formalem et theologiam inferiorem. According to Pico's own division of Kabbala \"in scientiam sephiroth et",
+   "thesis_id": "11>3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7115,
+   "method": "latin_quote",
+   "evidence": [
+    "sephiroth et semot tanquam",
+    "tanquam in practicam et",
+    "et semot tanquam in",
+    "semot tanquam in practicam"
+   ],
+   "context": "Scientia quae est pars practica Cabalae, practicat totam metaphysicam formalem et theologiam inferiorem. According to Pico's own division of Kabbala \"in scientiam sephiroth et semot tanquam in practicam et speculativam,\" the practical part of Kab- bala is scientia semot, the science of (sacred or divine) names. This much is certain. Nor is it surprising that Pico related practical Kabbala to meta-",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7148,
+   "method": "latin_quote",
+   "evidence": [
+    "sephiroth et semot tanquam",
+    "tanquam in practicam et",
+    "et semot tanquam in",
+    "semot tanquam in practicam"
+   ],
+   "context": "So far, so good. But intelligible and angelic forms are, in terms of Kabbala, the sefirot. Hence a problem: is it at all likely that the sefirot are involved in the practice of practical Kabbala as understood by Pico? All Kabbala was divided, in the first thesis, \"in scientiam sephiroth et semot tanquam in practicam et speculativam.\" We have seen furthermore that triplex merchiava, in the second thesis, was the triadic configuration of the ten sefirot. Is it likely, in view of the first and second theses, that the sefirot",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7158,
+   "method": "latin_quote",
+   "evidence": [
+    "medio existente inter utrosque",
+    "utrosque et appropriabili per",
+    "sicut caracteres sunt proprii",
+    "operi magico ita numeri"
+   ],
+   "context": "cabalae. In his twenty-fifth magical thesis Pico states: Sicut caracteres sunt proprii operi magico, ita numeri sunt proprii operi cabalae, medio existente inter utrosque et appropriabili per declinationem ad extrema usu litterarum.16",
+   "thesis_id": "9>25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7196,
+   "method": "latin_quote",
+   "evidence": [
+    "opere cabale cuius est",
+    "nullum est sine opere",
+    "omnem quantitatem formalem continuam",
+    "cabale cuius est proprium"
+   ],
+   "context": "tion of the proper or specific function of Kabbala, in the twenty-first Orphic thesis of the de modo intelligendi hymnos Orphei secundum magiam: Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quantitatem formalem continuam et discretam.18",
+   "thesis_id": "10>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7253,
+   "method": "latin_quote",
+   "evidence": [
+    "proprietas clementie negandum tamen",
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem"
+   ],
+   "context": "doctrinam sapientum Hebraeorum Cabalistarum: Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii. Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno",
+   "thesis_id": "28.3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7256,
+   "method": "latin_quote",
+   "evidence": [
+    "regno dauidis debet appropriari",
+    "quatuor litterarum quod est",
+    "ex mem sade pe",
+    "quod est ex mem"
+   ],
+   "context": "Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii. Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno Dauidis debet appropriari. The relationship or correspondence between the ten sefirot and divine",
+   "thesis_id": "28.29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7299,
+   "method": "latin_quote",
+   "evidence": [
+    "tanquam in practicam et",
+    "in scientiam sephiroth et",
+    "in practicam et speculatiuam"
+   ],
+   "context": "conception of practical Kabbala. I am aware that this conclusion is at variance with what for want of a better designation might be called the communis via cabbalistarum. It also is, or seems to be, at variance with the neat division of all Kabbala \"in scientiam sephiroth et semoth tanquam in practicam et speculativam.\" Nevertheless, I do not think that my interpre- tations of quantitas formalis continua et discreta and of triplex merchiava are mutually exclusive. Moreover, I submit that, Pico's first division of",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7396,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxi"
+   ],
+   "resolved": true,
+   "context": "clearly involved in Pico's Kabbalistic confirmation of Christianity. Con- sider the following Kabbalistic theses secundum opinionem propriam. Conclusio xxi: Qui coniunxerit dictum Cabalistarum dicentium quod ilia numeratio [my italics], quae dicitur iustus et redemptor, dicitur etiam Ze, cum dicto",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7398,
+   "method": "latin_quote",
+   "evidence": [
+    "coniunxerit dictum cabalistarum dicentium",
+    "prefiguratum fuit adimpletum in",
+    "uidebit quod illud quod",
+    "iustus et redemptor dicitur"
+   ],
+   "context": "Conclusio xxi: Qui coniunxerit dictum Cabalistarum dicentium quod ilia numeratio [my italics], quae dicitur iustus et redemptor, dicitur etiam Ze, cum dicto Thalmutistarum dicentium quod Isaac ibat sicut Ze portans crucem suam, uidebit quod illud quod fuit in Isaac praefiguratum fuit adimpletum in",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7404,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  lxii"
+   ],
+   "resolved": true,
+   "context": "uidebit quod illud quod fuit in Isaac praefiguratum fuit adimpletum in Christo, qui fuit verus Deus venditus argento. Conclusio lxii: Qui profunde considerauerit nouenarium beatitudinum numerum de quo apud Mattheum in Euangelio uidebit illas mirabiliter conuenire nouenario",
+   "thesis_id": "11>62"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7406,
+   "method": "latin_quote",
+   "evidence": [
+    "in euangelio uidebit illas",
+    "considerauerit nouenarium beatitudinum numerum",
+    "euangelio uidebit illas mirabiliter",
+    "uidebit illas mirabiliter conuenire"
+   ],
+   "context": "Conclusio lxii: Qui profunde considerauerit nouenarium beatitudinum numerum de quo apud Mattheum in Euangelio uidebit illas mirabiliter conuenire nouenario nouem numerationum [my italics], quae sunt infra primam, quae est inaccessibilis diuinitatis abyssus.",
+   "thesis_id": "11>62"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7473,
+   "method": "latin_quote",
+   "evidence": [
+    "ut ab una petatur",
+    "ut det ab altera",
+    "que det et que",
+    "septima et octaua petendos"
+   ],
+   "context": "Conclusio 1: Cum dicunt cabalistae a septima et octaua petendos filios, ita dicas in merchiaua inferiori accipi, ut ab una petatur ut det, ab altera ne prohibeat. Et quae det et quae prohibeat potest intelligere ex praecedentibus conclusionibus qui fuerit intelligens in astrologia et cabala.29",
+   "thesis_id": "11>50"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7555,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": true,
+   "context": "Kabbalistic theses secundum secretam doctrinam sapientum Hebraeorum Cabalistarum argue his acquaintance with the mysticism of prayer: Conclusio xl: Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est.",
+   "thesis_id": "28.40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7557,
+   "method": "latin_quote",
+   "evidence": [
+    "influxus super petitione quam",
+    "petimus ad dominum naris",
+    "quam petimus ad dominum",
+    "dominum naris recurrendum est"
+   ],
+   "context": "Conclusio xl: Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. Conclusio xlvii:",
+   "thesis_id": "28.40"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7560,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xlvii"
+   ],
+   "resolved": true,
+   "context": "Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. Conclusio xlvii: Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus.",
+   "thesis_id": "28.47"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7562,
+   "method": "latin_quote",
+   "evidence": [
+    "per dictionem amen ordo",
+    "quomodo numerationum procedant influxus",
+    "expressus quomodo numerationum procedant",
+    "habetur expressus quomodo numerationum"
+   ],
+   "context": "Conclusio xlvii: Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus. Kawwanah is known to be consistent with the obtainment of practical",
+   "thesis_id": "28.47"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7588,
+   "method": "latin_quote",
+   "evidence": [
+    "si debita musica animi",
+    "musica animi intentio et",
+    "intentio et cetere circumstantie",
+    "et cetere circumstantie quas"
+   ],
+   "context": "32 \"Nihil efficacius hymnis Orphei in naturali magia, si debita musica animi intentio et ceterae circumstantiae quas norunt sapientes fuerint adhibitae,\" Opera, p. 106. 33 See the quotation from Gicatilla's Portae Iustitiae, above, page 31.",
+   "thesis_id": "10>2"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7712,
+   "method": "latin_quote",
+   "evidence": [
+    "sephiroth et semot tanquam",
+    "tanquam in practicam et",
+    "et semot tanquam in",
+    "semot tanquam in practicam"
+   ],
+   "context": "The variety in the Kabbala Pico read is reflected in the theses he wrote. The upshot of this long chapter is that the relationship between mysti- cism and magic in Kabbala, as it emerges from Pico's own theses, does not quite tally with his neat division of Kabbala in \"scientiam sephiroth et semot tanquam in practicam et speculativam.\" Kabbala, being a mystical discipline, has never been plain sailing; to be baffled and confused by it is no reproach to anyone. At the same time, it seems to me that three",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8079,
+   "method": "latin_quote",
+   "evidence": [
+    "nisi per separationem anime",
+    "in conspectu domini mors",
+    "nisi per accidens ut",
+    "exprimitur non est nisi"
+   ],
+   "context": "am aware, in Pico's Kabbalistic sources, appears in his eleventh Kabbalis- tic thesis secundum opinionem propriam. Modus quo rationales animae per archangelum deo sacrificantur, qui a Cabalistis non exprimitur, non est nisi per separationem animae a corpore, non corporis ab anima, nisi per accidens, ut contigit in morte osculi de quo scribitur [Ps. 116:15] Praeciosa in conspectu domini mors sanctorum eius.",
+   "thesis_id": "11>11"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8118,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": true,
+   "context": "Death of the Kiss appears again, and for the last time, in Pico's thirteenth thesis secundum opinionem propriam: Conclusio xiii: Qui operatur in Cabala sine admixtione extranei, si diu erit in opere, morietur ex binsica; et si errabit in opere aut non purificatus accesserit",
+   "thesis_id": "11>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8120,
+   "method": "latin_quote",
+   "evidence": [
+    "in cabala sine admixtione",
+    "accesserit deuorabitur ab azazele",
+    "aut non purificatus accesserit",
+    "sine admixtione extranei si"
+   ],
+   "context": "Conclusio xiii: Qui operatur in Cabala sine admixtione extranei, si diu erit in opere, morietur ex binsica; et si errabit in opere aut non purificatus accesserit deuorabitur ab Azazele13 per proprietatem iudicii.",
+   "thesis_id": "11>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8153,
+   "method": "latin_quote",
+   "evidence": [
+    "operari per puram cabalam",
+    "non est rationaliter intellectualis",
+    "potest operari per puram",
+    "per puram cabalam qui"
+   ],
+   "context": "What kind of Kabbalistic operation creates the state of intellectual rapture which is the initial stage of the soul's union with God? Three undisputed facts suggest the answer to this question. First, the twelfth thesis states: \"non potest operari per puram Cabalam qui non est rational- iter intellectualis.\" Second, the Death of the Kiss, both in Pico's sources and in his Commento, is the crowning achievement of a contemplative life. Third, Pico was acquainted with two variations of contemplative Kab-",
+   "thesis_id": "11>12"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8206,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": true,
+   "context": "debate concerning the question how Pico might, could, or would have argued a thesis like the seventh: Conclusio vii: Nullus Hebraeus Cabalista potest negare quod nomen Iesu, si eum2 secun- dum modum et principia cabalae interpretemur, hoc totum precise et nihil aliud signiflcat, id est deum dei filium patrisque sapientiam per tertiam",
+   "thesis_id": "11>7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8207,
+   "method": "latin_quote",
+   "evidence": [
+    "que est ardentissimus amoris",
+    "in unitate suppositi unitum",
+    "interpretemur hoc totum precise",
+    "humane in unitate suppositi"
+   ],
+   "context": "argued a thesis like the seventh: Conclusio vii: Nullus Hebraeus Cabalista potest negare quod nomen Iesu, si eum2 secun- dum modum et principia cabalae interpretemur, hoc totum precise et nihil aliud signiflcat, id est deum dei filium patrisque sapientiam per tertiam",
+   "thesis_id": "11>7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8216,
+   "method": "latin_quote",
+   "evidence": [
+    "secundum principia et dicta",
+    "cabale cogitur ineuitabiliter concedere",
+    "diuina patre filio et",
+    "quilibet hebreus cabalista secundum"
+   ],
+   "context": "1 The heading of the second set of Pico's Kabbalistic theses reads: \"Conclusi- ones Cabalisticae numero LXXI<I>, secundum opinionem propriam, ex ipsis Hebraeorum sapientum fundamentis Christianam religionem maxime con- firmantes.\" The fifth thesis states: \"Quilibet Hebraeus Cabalista secundum principia et dicta scientiae Cabalae cogitur ineuitabiliter concedere de trini- tate, et qualibet persona diuina, patre, filio, et spiritu sancto, illud praecise sine additione, diminutione, aut uariatione, quod ponit fides catholica",
+   "thesis_id": "11>5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8237,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xx"
+   ],
+   "resolved": true,
+   "context": "order to see that what this thesis involves is quite different from what is involved, for instance, in the twentieth: Conclusio xx: Si interpretationem suam aduerterint Cabalistae super hac dictione < T X > ['az], quae significat tunc, de trinitatis mysterio multum illuminabuntur.3",
+   "thesis_id": "11>20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8239,
+   "method": "latin_quote",
+   "evidence": [
+    "aduerterint cabaliste super hac",
+    "de trinitatis mysterio multum",
+    "significat tunc de trinitatis",
+    "tunc de trinitatis mysterio"
+   ],
+   "context": "Conclusio xx: Si interpretationem suam aduerterint Cabalistae super hac dictione < T X > ['az], quae significat tunc, de trinitatis mysterio multum illuminabuntur.3 The essence of the difference is this: the latter thesis involves a Trinitarian",
+   "thesis_id": "11>20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8251,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxi"
+   ],
+   "resolved": true,
+   "context": "low are significant examples. My first example consists of four successive theses, all of a similar stamp. Conclusio xxi: Qui coniunxerit dictum Cabalistarum dicentium quod ilia numeratio, quae dicitur iustus et redemptor, dicitur etiam Ze, cum dicto Thalmutistarum dicentium quod Isaac ibat sicut Ze portans crucem suam, uidebit quod illud",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8252,
+   "method": "latin_quote",
+   "evidence": [
+    "coniunxerit dictum cabalistarum dicentium",
+    "numeratio que dicitur iustus",
+    "prefiguratum fuit adimpletum in",
+    "uidebit quod illud quod"
+   ],
+   "context": "theses, all of a similar stamp. Conclusio xxi: Qui coniunxerit dictum Cabalistarum dicentium quod ilia numeratio, quae dicitur iustus et redemptor, dicitur etiam Ze, cum dicto Thalmutistarum dicentium quod Isaac ibat sicut Ze portans crucem suam, uidebit quod illud quod fuit in Isaac praefiguratum fuit adimpletum in Christo, qui fuit uerus",
+   "thesis_id": "11>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8258,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxii"
+   ],
+   "resolved": true,
+   "context": "quod fuit in Isaac praefiguratum fuit adimpletum in Christo, qui fuit uerus Deus uenditus argento. Conclusio xxii: Per dicta Cabalistarum de rubedine Esau, et dictum illud quod est in libro Bresit Rhaba quod Esau fuit rubeus et rubeus eum ulciscetur de quo dicitur Quare rubeum uestimentum tuum, habetur expresse quod Christus de quo",
+   "thesis_id": "11>22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8259,
+   "method": "latin_quote",
+   "evidence": [
+    "quod christus de quo",
+    "esau fuit rubeus et",
+    "uestimentum tuum habetur expresse",
+    "dicitur quare rubeum uestimentum"
+   ],
+   "context": "Deus uenditus argento. Conclusio xxii: Per dicta Cabalistarum de rubedine Esau, et dictum illud quod est in libro Bresit Rhaba quod Esau fuit rubeus et rubeus eum ulciscetur de quo dicitur Quare rubeum uestimentum tuum, habetur expresse quod Christus de quo nostri Doctores eundem textum exponunt ille erit qui ultionem faciet de",
+   "thesis_id": "11>22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8265,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xxiii"
+   ],
+   "resolved": true,
+   "context": "nostri Doctores eundem textum exponunt ille erit qui ultionem faciet de uirtutibus immundis.4 Conclusio xxiii: Per illud dictum Hieremiae5 Lacerauit uerbum suum, secundum expositio-",
+   "thesis_id": "11>23"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8266,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligere quod deum sanctum",
+    "lacerauit uerbum suum secundum",
+    "illud dictum hieremie lacerauit",
+    "dictum hieremie lacerauit uerbum"
+   ],
+   "context": "uirtutibus immundis.4 Conclusio xxiii: Per illud dictum Hieremiae5 Lacerauit uerbum suum, secundum expositio-",
+   "thesis_id": "11>23"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8289,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxiv"
+   ],
+   "resolved": true,
+   "context": "nem Cabalistarum6 habemus intelligere quod Deum sanctum et benedic- tum lacerauit Deus pro peccatoribus. Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta est particula mortis Mariae particulae uitulae ruffae, et per",
+   "thesis_id": "11>24"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8291,
+   "method": "latin_quote",
+   "evidence": [
+    "dele me et per",
+    "christi satisfaceret pro peccato",
+    "cabalistarum ad questionem quare",
+    "dicta in libro zoar"
+   ],
+   "context": "Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta est particula mortis Mariae particulae uitulae ruffae, et per expositionem eorum super eo passu ubi Moyses in peccato uituli dixit [Exod. 32:32] Dele me, et per dicta in libro Zoar super eotextu [Isa. 53:5] Et",
+   "thesis_id": "11>24"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8352,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lix"
+   ],
+   "resolved": true,
+   "context": "My next example consists of three interrelated theses: Conclusio lix: Qui profunde considerauerit quadruplicem rerum statum: primo unionis et stabilitate mansionis, secundo processionis, tertio reuersionis, quarto bea- tificae reunionis, uidebit litteram Beth cum prima littera primum, cum",
+   "thesis_id": "11>59"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8353,
+   "method": "latin_quote",
+   "evidence": [
+    "reunionis uidebit litteram beth",
+    "primum cum media medium",
+    "litteram beth cum prima",
+    "littera primum cum media"
+   ],
+   "context": "My next example consists of three interrelated theses: Conclusio lix: Qui profunde considerauerit quadruplicem rerum statum: primo unionis et stabilitate mansionis, secundo processionis, tertio reuersionis, quarto bea- tificae reunionis, uidebit litteram Beth cum prima littera primum, cum media medium, cum ultimis ultima operari.",
+   "thesis_id": "11>59"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8358,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lx"
+   ],
+   "resolved": true,
+   "context": "tificae reunionis, uidebit litteram Beth cum prima littera primum, cum media medium, cum ultimis ultima operari. Conclusio lx: Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit de qua [lege dei] scribitur quod est immaculata [Ps.",
+   "thesis_id": "11>60"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8360,
+   "method": "latin_quote",
+   "evidence": [
+    "contemplatiuus homo intelligere cur",
+    "quod facit dare fructum",
+    "potest contemplatiuus homo intelligere",
+    "facit dare fructum in"
+   ],
+   "context": "Conclusio lx: Ex praecedenti conclusione potest contemplatiuus homo intelligere cur lex dei a Beth littera incipit de qua [lege dei] scribitur quod est immaculata [Ps. 19:8], quod erat cum eo cuncta componens [Prov. 8:30], quod est conuertens animas [Ps. 19:8], quod facit dare fructum in tempore suo [Ps.",
+   "thesis_id": "11>60"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8366,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxi"
+   ],
+   "resolved": true,
+   "context": "conuertens animas [Ps. 19:8], quod facit dare fructum in tempore suo [Ps. 1:3]. Conclusio lxi: Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo",
+   "thesis_id": "11>61"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8368,
+   "method": "latin_quote",
+   "evidence": [
+    "in quo demum sabbatizant",
+    "quo omnia conuertuntur et",
+    "patre et per quem",
+    "sapientia patris est qui"
+   ],
+   "context": "Conclusio lxi: Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo omnia conuertuntur, et in quo demum sabbatizant omnia.",
+   "thesis_id": "11>61"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8407,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xvi"
+   ],
+   "resolved": true,
+   "context": "carry eminently Christian connotations. 'Ab (father) and ben (son) are too obvious for words. As for sabbat, here is what it meant to Pico: Conclusio xvi: Ex mysterio trium litterarum quae sunt in dictione Sciabat id est <I\"OW> possumus interpretari Cabalistice tunc sabbatizare mundum cum dei filius",
+   "thesis_id": "11>16"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8409,
+   "method": "latin_quote",
+   "evidence": [
+    "in dictione sciabat id",
+    "dei filius fit homo",
+    "homines in dei filium",
+    "sunt in dictione sciabat"
+   ],
+   "context": "Conclusio xvi: Ex mysterio trium litterarum quae sunt in dictione Sciabat id est <I\"OW> possumus interpretari Cabalistice tunc sabbatizare mundum cum dei filius fit homo, et ultimo futurum sabbatum cum homines in dei filium regenera- buntur.",
+   "thesis_id": "11>16"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8419,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": true,
+   "context": "symbolism. It is indeed a fact that Pico resorted to letter symbolism more often than to combination of letters. Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice, quod tum perfecte quieuit tanquam in sua perfectione mundus",
+   "thesis_id": "11>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8421,
+   "method": "latin_quote",
+   "evidence": [
+    "tum perfecte quieuit tanquam",
+    "uerus dei filius et",
+    "perfecte quieuit tanquam in",
+    "significatur nobis cabalistice quod"
+   ],
+   "context": "Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice, quod tum perfecte quieuit tanquam in sua perfectione mundus cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo.",
+   "thesis_id": "11>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8426,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xliii"
+   ],
+   "resolved": true,
+   "context": "cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo. Conclusio xliii: Per mysterium duarum litterarum Vau et Iod scitur quomodo ipse messias ut deus fuit principium sui ipsius ut homo.",
+   "thesis_id": "11>43"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8428,
+   "method": "latin_quote",
+   "evidence": [
+    "messias ut deus fuit",
+    "scitur quomodo ipse messias",
+    "mysterium duarum litterarum uau",
+    "ut deus fuit principium"
+   ],
+   "context": "Conclusio xliii: Per mysterium duarum litterarum Vau et Iod scitur quomodo ipse messias ut deus fuit principium sui ipsius ut homo. Behind Pico's symbolic interpretation of the consonants yod and waw,",
+   "thesis_id": "11>43"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8456,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": true,
+   "context": "able without the equation of the Tetragrammaton with the second person of the Trinity. Conclusio vi: Tria magna Dei nomina quaternaria,' quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui,",
+   "thesis_id": "11>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8458,
+   "method": "latin_quote",
+   "evidence": [
+    "dei nomina quaternaria que",
+    "in secretis cabalistarum per",
+    "in scientia cabale fuerit",
+    "tribus personis trinitatis ita"
+   ],
+   "context": "Conclusio vi: Tria magna Dei nomina quaternaria,' quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <ΓΡΠΧ> [alefli, he, yod, he] sit patris, nomen <ΓΠΓΡ> [yod, he, waw, he] sit filii, nomen o n x > [aleph, daleth, nun, yod\\ sit spiritus sancti, intelli-",
+   "thesis_id": "11>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8464,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": true,
+   "context": "he] sit filii, nomen o n x > [aleph, daleth, nun, yod\\ sit spiritus sancti, intelli- gere potest, qui in scientia Cabalae fuerit profundus. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae10 futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum dei filium per spiritum sanctum hominem factum, et post eum ad",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8465,
+   "method": "latin_quote",
+   "evidence": [
+    "factum et post eum",
+    "sanctum hominem factum et",
+    "cognoscitur futurum eum deum",
+    "et post eum ad"
+   ],
+   "context": "gere potest, qui in scientia Cabalae fuerit profundus. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae10 futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum.",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8518,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxvii"
+   ],
+   "resolved": true,
+   "context": "how Christian Kabbala is created through the superposition of the sym- bolic language of Jewish Kabbala upon an eminently Christian text. Conclusio xxxvii: Qui intellexerit in dextrali coordinatione subordinationem pietatis ad sapientiam, perfecte intelliget per uiam Cabalae quomodo Abraam in die",
+   "thesis_id": "11>37"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8520,
+   "method": "latin_quote",
+   "evidence": [
+    "in dextrali coordinatione subordinationem",
+    "abraam in die suo",
+    "qui intellexerit in dextrali",
+    "suo per rectam lineam"
+   ],
+   "context": "Conclusio xxxvii: Qui intellexerit in dextrali coordinatione subordinationem pietatis ad sapientiam, perfecte intelliget per uiam Cabalae quomodo Abraam in die suo per rectam lineam uidit diem Christi et gauisus est.",
+   "thesis_id": "11>37"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8544,
+   "method": "latin_quote",
+   "evidence": [
+    "dei filium patrisque sapientiam",
+    "deum dei filium patrisque"
+   ],
+   "context": "although the ineffable Tetragrammaton as a rule represents the sixth sefirah, Glory (Tiferet), there are several theses which clearly presuppose the identification of the Son with Wisdom. Two of them, the seventh (\"deum dei filium patrisque sapientiam\") and the sixty-first, (\"idem filius qui est sapientia patris\"), I have quoted in full earlier in this chapter.",
+   "thesis_id": "11>7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8544,
+   "method": "latin_quote",
+   "evidence": [
+    "idem filius qui est",
+    "filius qui est sapientia",
+    "qui est sapientia patris"
+   ],
+   "context": "although the ineffable Tetragrammaton as a rule represents the sixth sefirah, Glory (Tiferet), there are several theses which clearly presuppose the identification of the Son with Wisdom. Two of them, the seventh (\"deum dei filium patrisque sapientiam\") and the sixty-first, (\"idem filius qui est sapientia patris\"), I have quoted in full earlier in this chapter.",
+   "thesis_id": "11>61"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8558,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xlii"
+   ],
+   "resolved": true,
+   "context": "Another, the thirty-seventh, I have discussed just now. Two more are variations of the same theme. Conclusio xlii: Scitur per fundamenta Cabalae quam recte dixerit Iesus [John 8:58] Ante- quam nasceretur Abraam ego sum.",
+   "thesis_id": "11>42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8560,
+   "method": "latin_quote",
+   "evidence": [
+    "quam recte dixerit iesus",
+    "antequam nasceretur abraam ego",
+    "cabale quam recte dixerit",
+    "fundamenta cabale quam recte"
+   ],
+   "context": "Conclusio xlii: Scitur per fundamenta Cabalae quam recte dixerit Iesus [John 8:58] Ante- quam nasceretur Abraam ego sum. Granted that Abraham is the fourth seflrah, Jesus cannot be anterior to",
+   "thesis_id": "11>42"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8570,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxix"
+   ],
+   "resolved": true,
+   "context": "made easy not only by the seventh and sixty-first theses but also by the thirty-ninth: Conclusio xxxix: Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus Iesus quis esset rectissime",
+   "thesis_id": "11>39"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8572,
+   "method": "latin_quote",
+   "evidence": [
+    "posita sequitur quod quilibet",
+    "principium qui loquor uobis",
+    "superius posita sequitur quod",
+    "sum principium qui loquor"
+   ],
+   "context": "Conclusio xxxix: Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus Iesus quis esset rectissime respondit dicens [John 8:25] Ego sum principium qui loquor uobis.",
+   "thesis_id": "11>39"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8638,
+   "method": "latin_quote",
+   "evidence": [
+    "docet nos legere in",
+    "legere in libro legis",
+    "nos legere in libro",
+    "cabala docet nos legere"
+   ],
+   "context": "15 CABALA DOCET NOS LEGERE IN LIBRO LEGIS",
+   "thesis_id": "11>72"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8709,
+   "method": "latin_quote",
+   "evidence": [
+    "separationibus tortuositate directione defectu",
+    "tortuositate directione defectu superabundantia",
+    "lege que in formis",
+    "in tota lege que"
+   ],
+   "context": "spelling represented mysteries. In the thirty-third thesis secundum secre- tam doctrinam sapientum Hebraeorum Cabalistarum, he states: Nullae sunt literae in tota lege, quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate, maior- itate, coronatione, clausura, apertura, et ordine decern numerationum secreta non manifestent.",
+   "thesis_id": "28.33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8716,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xli"
+   ],
+   "resolved": true,
+   "context": "Moreover, his own theses afford a remarkable example. Conclusio xli: Sciri potest in Cabala per mysterium Mem clausi, cur post se Christus miserit paraclytum.",
+   "thesis_id": "11>41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8717,
+   "method": "latin_quote",
+   "evidence": [
+    "clausi cur post se",
+    "post se christus miserit",
+    "mem clausi cur post",
+    "cur post se christus"
+   ],
+   "context": "Moreover, his own theses afford a remarkable example. Conclusio xli: Sciri potest in Cabala per mysterium Mem clausi, cur post se Christus miserit paraclytum. The so-called closed mem — as distinct from the open mem — is the",
+   "thesis_id": "11>41"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8868,
+   "method": "latin_quote",
+   "evidence": [
+    "ego sum principium qui",
+    "principium qui loquor uobis",
+    "sum principium qui loquor"
+   ],
+   "context": "We have seen in the previous chapter that \"Principium\" and \"Sapientia\" are interchangeable symbols. Hence, insofar as Deifilius est sapientia patris, Jesus could say of himself Ego sum principium qui loquor vobis. On the other hand, in his twentieth Kabbalistic thesis secundum opinionem propriam Pico argues:",
+   "thesis_id": "11>39"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8874,
+   "method": "latin_quote",
+   "evidence": [
+    "aduerterint cabaliste super hac",
+    "de trinitatis mysterio multum",
+    "significat tunc de trinitatis",
+    "tunc de trinitatis mysterio"
+   ],
+   "context": "Conclusion xx: Si interpretationem suam aduerterint Cabalistae super hac dictione <TK> ['az] quae significat tunc, de trinitatis mysterio multum illuminabuntur. The Kabbalistic interpretation of the word 'az is well documented in the",
+   "thesis_id": "11>20"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8919,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxxii"
+   ],
+   "resolved": true,
+   "context": "with its principal function that Kabbala is said to teach us how to read the Law. Conclusio lxxii: Sicut uera astrologia docet nos legere in libro Dei,13 ita Cabala docet nos legere in libro legis.",
+   "thesis_id": "11>72"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8920,
+   "method": "latin_quote",
+   "evidence": [
+    "legere in libro dei",
+    "legere in libro legis",
+    "sicut uera astrologia docet",
+    "dei ita cabala docet"
+   ],
+   "context": "Law. Conclusio lxxii: Sicut uera astrologia docet nos legere in libro Dei,13 ita Cabala docet nos legere in libro legis.",
+   "thesis_id": "11>72"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8960,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxviii"
+   ],
+   "resolved": true,
+   "context": "considered. I shall now consider the remaining nine to see if they shed some light on what Kabbala meant to Pico. Conclusio xxviii: Per dictionem <ns> ['et], quae bis ponitur in illo textu [Gen. 1:1] In principio creauit Deus coelum et terram, ego credo signiflcari a Moyse",
+   "thesis_id": "11>28"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8962,
+   "method": "latin_quote",
+   "evidence": [
+    "in principio creauit deus",
+    "ponitur in illo textu",
+    "deus celum et terram",
+    "animalis que naturali ordine"
+   ],
+   "context": "Conclusio xxviii: Per dictionem <ns> ['et], quae bis ponitur in illo textu [Gen. 1:1] In principio creauit Deus coelum et terram, ego credo signiflcari a Moyse creationem naturae intellectualis et naturae animalis, quae naturali ordine praecessit creationem coeli et terrae.",
+   "thesis_id": "11>28"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8973,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxi"
+   ],
+   "resolved": true,
+   "context": "hard put to prove it, that the thesis harks back to Abulafia in the Latin translation of Flavius Mithridates, Cod. Vat. Ebr. 190, fol. 343r.14 Conclusio xxxi: Cum audis Cabalistas ponere in Thesua informitatem, intellige informita- tem per antecedentiam ad formalitatem, non per priuationem.",
+   "thesis_id": "11>31"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8974,
+   "method": "latin_quote",
+   "evidence": [
+    "in thesua informitatem intellige",
+    "per antecedentiam ad formalitatem",
+    "informitatem intellige informitatem per",
+    "ponere in thesua informitatem"
+   ],
+   "context": "translation of Flavius Mithridates, Cod. Vat. Ebr. 190, fol. 343r.14 Conclusio xxxi: Cum audis Cabalistas ponere in Thesua informitatem, intellige informita- tem per antecedentiam ad formalitatem, non per priuationem. Whether Thesua is a misprint or a slip of the pen I dare not say. But I",
+   "thesis_id": "11>31"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9006,
+   "method": "latin_quote",
+   "evidence": [
+    "cum audis cabalistas ponere",
+    "audis cabalistas ponere in"
+   ],
+   "context": "which was form and which matter. Tohu, conceived of as formless matter, was identified by some Kabbalists with the second sefirah·, others identi- fied it with the third.16 It is the latter view that occasioned Pico's statement \"cum audis Cabalistas ponere in Thesu<u>a informitatem,\" etc. Conclusio xxxii:",
+   "thesis_id": "11>31"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9008,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxii"
+   ],
+   "resolved": true,
+   "context": "fied it with the third.16 It is the latter view that occasioned Pico's statement \"cum audis Cabalistas ponere in Thesu<u>a informitatem,\" etc. Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxerimus ad duplex Aleph quod est in textu [Prov. 8:22] Deus",
+   "thesis_id": "11>32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9010,
+   "method": "latin_quote",
+   "evidence": [
+    "possedit me ab initio",
+    "cabale intelligemus ibi iacob",
+    "initio et ad duplex",
+    "uiam cabale intelligemus ibi"
+   ],
+   "context": "Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxerimus ad duplex Aleph quod est in textu [Prov. 8:22] Deus possedit me ab initio, et ad duplex Aleph quod est in textu [Gen. 1:2] Terra autem erat inanis, per viam Cabalae intelligemus ibi Iacob de illo Messia",
+   "thesis_id": "11>32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9035,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiii"
+   ],
+   "resolved": true,
+   "context": "carrying latent messiological connotations that corroborate each other, or seem to do so, by sheer juxtaposition. Conclusio xxxiii: Per hanc dictionem <WX> quae scribitur per Aleph, Iod, et Sein (et signifi- cat uirum) quae Deo attribuitur, cum dicitur [Exod. 15:3] Vir belli, de",
+   "thesis_id": "11>33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9037,
+   "method": "latin_quote",
+   "evidence": [
+    "scribitur per aleph iod",
+    "de trinitatis mysterio per",
+    "per aleph iod et",
+    "que scribitur per aleph"
+   ],
+   "context": "Conclusio xxxiii: Per hanc dictionem <WX> quae scribitur per Aleph, Iod, et Sein (et signifi- cat uirum) quae Deo attribuitur, cum dicitur [Exod. 15:3] Vir belli, de trinitatis mysterio per uiam Cabalae perfectissime admonemur.",
+   "thesis_id": "11>33"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9061,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones vi"
+   ],
+   "resolved": false,
+   "context": "texts concerning Is as an appellation of God are discussed in the Pugio Fidei.l% Pico, however, considers Is as a reminder of the mystery of the Trinity. Whether Pico meant to interpret the word tP'X as an acronym (for instance, Π'ΠΧ, mn\\ raw; cf. Conclusiones vi and lix), I do not know, nor does it matter.\" What matters is that it is only by the three letters, aleph, yod, sin, and not by the meaning vir that \"we are perfectly reminded of the mystery of the Trinity.\"",
+   "thesis_id": "28.6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9061,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones vi"
+   ],
+   "resolved": false,
+   "context": "texts concerning Is as an appellation of God are discussed in the Pugio Fidei.l% Pico, however, considers Is as a reminder of the mystery of the Trinity. Whether Pico meant to interpret the word tP'X as an acronym (for instance, Π'ΠΧ, mn\\ raw; cf. Conclusiones vi and lix), I do not know, nor does it matter.\" What matters is that it is only by the three letters, aleph, yod, sin, and not by the meaning vir that \"we are perfectly reminded of the mystery of the Trinity.\"",
+   "thesis_id": "11>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9066,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  liii"
+   ],
+   "resolved": true,
+   "context": "yod, sin, and not by the meaning vir that \"we are perfectly reminded of the mystery of the Trinity.\" Conclusio liii: Cum fieri lucem nihil sit aliud quam participare lucem, conueniens est ualde ilia Cabalistarum expositio, ut in li20 fiat lux, per lucem speculum lucens intelligamus, et in li facta est lux speculum non lucens.",
+   "thesis_id": "11>53"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9067,
+   "method": "latin_quote",
+   "evidence": [
+    "lux per lucem speculum",
+    "cum fieri lucem nihil",
+    "per lucem speculum lucens",
+    "speculum lucens intelligamus et"
+   ],
+   "context": "mystery of the Trinity.\" Conclusio liii: Cum fieri lucem nihil sit aliud quam participare lucem, conueniens est ualde ilia Cabalistarum expositio, ut in li20 fiat lux, per lucem speculum lucens intelligamus, et in li facta est lux speculum non lucens.",
+   "thesis_id": "11>53"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9114,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lviii"
+   ],
+   "resolved": true,
+   "context": "(participare lucem) — coincide in the same symbols. This is, if I may borrow Pico's own expression elsewhere, maxime cabalisticum. Conclusio lviii: Rectius foret illud Becadmin, quod ponit glossa Chaldaica super dictionem Bresit, exponere de sapientialibus ideis quam de triginta duabus uiis, ut",
+   "thesis_id": "11>58"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9116,
+   "method": "latin_quote",
+   "evidence": [
+    "est rectum in cabala",
+    "ut dicunt alii cabaliste",
+    "illud becadmin quod ponit",
+    "bresit exponere de sapientialibus"
+   ],
+   "context": "Conclusio lviii: Rectius foret illud Becadmin, quod ponit glossa Chaldaica super dictionem Bresit, exponere de sapientialibus ideis quam de triginta duabus uiis, ut dicunt alii Cabalistae, utrumque tarnen est rectum in Cabala.",
+   "thesis_id": "11>58"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9123,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xxv"
+   ],
+   "resolved": false,
+   "context": "It is certainly noteworthy that Pico's first choice is the Platonic or Philonic ideas23 rather than the thirty-two paths of wisdom which appear in the first sentence of the Book of Creation. But it is even more important that this thesis, being an obvious sequel to Conclusiones xxv and xxvi secundum secretam doctrinam sapientum Hebraeorum Cabalistarum,24 presupposes the equation of Beginning with Wisdom. This equation, as we have seen in Chapter 14, links the symbolism of the ten sefirot with Pico's Kabbalistic",
+   "thesis_id": "28.25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9123,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xxv"
+   ],
+   "resolved": false,
+   "context": "It is certainly noteworthy that Pico's first choice is the Platonic or Philonic ideas23 rather than the thirty-two paths of wisdom which appear in the first sentence of the Book of Creation. But it is even more important that this thesis, being an obvious sequel to Conclusiones xxv and xxvi secundum secretam doctrinam sapientum Hebraeorum Cabalistarum,24 presupposes the equation of Beginning with Wisdom. This equation, as we have seen in Chapter 14, links the symbolism of the ten sefirot with Pico's Kabbalistic",
+   "thesis_id": "11>25"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9129,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxiv"
+   ],
+   "resolved": true,
+   "context": "Chapter 14, links the symbolism of the ten sefirot with Pico's Kabbalistic confirmation of Christianity. Conclusio lxiv: In textu [Deut. 6:4] Audi Israhel Dominus Deus noster Dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori",
+   "thesis_id": "11>64"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9131,
+   "method": "latin_quote",
+   "evidence": [
+    "ibi collectio ab inferiori",
+    "inferiori ad superius et",
+    "intelligatur ibi collectio ab",
+    "unus rectius est ut"
+   ],
+   "context": "Conclusio lxiv: In textu [Deut. 6:4] Audi Israhel Dominus Deus noster Dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori ad inferius, quam ab inferiori ad superius bis.",
+   "thesis_id": "11>64"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9160,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxvii"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio lxvii: Per dictum Cabalistarum, quod coeli sunt ex igne et aqua, simul et uerita- tem theologicam de ipsis Sephirot nobis manifestat, et philosophicam",
+   "thesis_id": "11>67"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9162,
+   "method": "latin_quote",
+   "evidence": [
+    "per dictum cabalistarum quod",
+    "simul et ueritatem theologicam",
+    "quod celi sunt ex",
+    "ipsis sephirot nobis manifestat"
+   ],
+   "context": "Conclusio lxvii: Per dictum Cabalistarum, quod coeli sunt ex igne et aqua, simul et uerita- tem theologicam de ipsis Sephirot nobis manifestat, et philosophicam ueritatem, quod elementa in coelo sint tantum secundum actiuam uirtu- tem.",
+   "thesis_id": "11>67"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9218,
+   "method": "latin_quote",
+   "evidence": [
+    "exaudi celum per celum",
+    "dicit salomon in oratione",
+    "uiridem debemus intelligere que",
+    "salomon in oratione sua"
+   ],
+   "context": "theses. The seventh thesis secundum secretam doctrinam sapientum Hebraeorum Cabalistarum states: Cum dicit Salomon in oratione sua in libro Regum, Exaudi, ο coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum. The \"green line that encircles the universe\" is Intelligence, the third",
+   "thesis_id": "28.7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9235,
+   "method": "latin_quote",
+   "evidence": [
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem",
+    "non est quin contineat"
+   ],
+   "context": "Tetragrammaton, it is noteworthy that in the third thesis secundum secre- tam doctrinam sapientum Hebraeorum Cabalistarum Pico states: Quamuis nomen ineffabile sit proprietas clementiae, negandum tarnen non est quin contineat proprietatem iudicii. Judgment and Clemency are the Fire and the Water of which Heaven",
+   "thesis_id": "28.3"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9243,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxx"
+   ],
+   "resolved": true,
+   "context": "All the theses considered so far touch upon points of detail. The seventieth concerns the Law as a whole. Conclusio lxx: Per modum legendi sine punctis in lege, et modus scribendi res diuinas, et unialis continentia per indeterminatum ambitum rerum diuinarum nobis",
+   "thesis_id": "11>70"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9245,
+   "method": "latin_quote",
+   "evidence": [
+    "modus scribendi res diuinas",
+    "diuinas et unialis continentia",
+    "continentia per indeterminatum ambitum",
+    "legendi sine punctis in"
+   ],
+   "context": "Conclusio lxx: Per modum legendi sine punctis in lege, et modus scribendi res diuinas, et unialis continentia per indeterminatum ambitum rerum diuinarum nobis ostenditur.",
+   "thesis_id": "11>70"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9272,
+   "method": "latin_quote",
+   "evidence": [
+    "per indeterminatum ambitum rerum",
+    "indeterminatum ambitum rerum diuinarum",
+    "continentia per indeterminatum ambitum",
+    "unialis continentia per indeterminatum"
+   ],
+   "context": "without vowels (sine punctis), can be combined again and again in differ- ent ways, it follows that the underlying unity and continuity of divine revelation admit of endless variations of meaning. This is in fact what to my mind Pico means by \"unialis continentia per indeterminatum ambi- tum rerum divinarum.\"29 \"The Torah has seventy faces\" states an old Rabbinic maxim; in other words, the Torah admits of an indefinite number of interpretations. No other thesis brings out Pico's awareness of",
+   "thesis_id": "11>70"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9471,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xvii"
+   ],
+   "resolved": true,
+   "context": "Conclusiones Cabalisticae secundum opinionem propriam ... Christianam religionem maxime conflrmantes evidently outgrew their original purpose. Conclusio xvii: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae,5 et quam ebrietatem",
+   "thesis_id": "11>17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9473,
+   "method": "latin_quote",
+   "evidence": [
+    "est uinum purissimum apud",
+    "qui sciuerit quid est",
+    "quid est uinum purissimum",
+    "ubertate domus tue et"
+   ],
+   "context": "Conclusio xvii: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae,5 et quam ebrietatem dixerit antiquus uates Museus6 esse felicitatem, et quid significent tot Bacchi apud Orpheum.7",
+   "thesis_id": "11>17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9478,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": true,
+   "context": "dixerit antiquus uates Museus6 esse felicitatem, et quid significent tot Bacchi apud Orpheum.7 Conclusio xxix: Quod dicitur a Cabalistis, quod linea uiridis gyrat uniuersum, conuenien- tissime dicitur ad conclusionem ultimam quam diximus ex mente Porphyrii.8",
+   "thesis_id": "11>29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9479,
+   "method": "latin_quote",
+   "evidence": [
+    "uiridis gyrat uniuersum conuenientissime",
+    "cabalistis quod linea uiridis",
+    "quod linea uiridis gyrat",
+    "linea uiridis gyrat uniuersum"
+   ],
+   "context": "Bacchi apud Orpheum.7 Conclusio xxix: Quod dicitur a Cabalistis, quod linea uiridis gyrat uniuersum, conuenien- tissime dicitur ad conclusionem ultimam quam diximus ex mente Porphyrii.8",
+   "thesis_id": "11>29"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9519,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxviii"
+   ],
+   "resolved": true,
+   "context": "New Relationships and Orientations Conclusio lxviii: Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit naturam primi numeri sphaerici, seiet illud quod ego adhuc apud aliquem",
+   "thesis_id": "11>68"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9521,
+   "method": "latin_quote",
+   "evidence": [
+    "ego adhuc apud aliquem",
+    "quod sit fundamentum secreti",
+    "magni iobelei in cabala",
+    "sit fundamentum secreti magni"
+   ],
+   "context": "Conclusio lxviii: Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit naturam primi numeri sphaerici, seiet illud quod ego adhuc apud aliquem Cabalistam non legi, et est quod sit fundamentum secreti magni Iobelei in Cabala.9",
+   "thesis_id": "11>68"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9573,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio x"
+   ],
+   "resolved": false,
+   "context": "of Hermes Trismegistus (Conclusiones secundum priscam doctrinam Mer- curii Trismegisti Aegyptii). Conclusio x: Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio, uidebit profundus contemplator correspondere malae coordinationi",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9573,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio x"
+   ],
+   "resolved": false,
+   "context": "of Hermes Trismegistus (Conclusiones secundum priscam doctrinam Mer- curii Trismegisti Aegyptii). Conclusio x: Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio, uidebit profundus contemplator correspondere malae coordinationi",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9575,
+   "method": "latin_quote",
+   "evidence": [
+    "dixit secundum mercurium precedens",
+    "mercurium precedens conclusio uidebit",
+    "cabalisticis conclusionibus nihil posui",
+    "et prefectis illius de"
+   ],
+   "context": "Conclusio x: Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio, uidebit profundus contemplator correspondere malae coordinationi denariae in Cabala, et praefectis illius, de quibus ego in Cabalisticis conclu- sionibus nihil posui, quia est secretum.14",
+   "thesis_id": "27.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9590,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xlvii"
+   ],
+   "resolved": true,
+   "context": "sefirah called Might or Judgment, shows through Pico's forty-seventh Kabbalistic thesis secundum opinionem propriam. Conclusio xlvii: Qui seiet proprietatem Aquilonis in Cabala, seiet cur Sathan Christo promisit regna mundi si cadens eum adorasset.16",
+   "thesis_id": "11>47"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9592,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi si cadens eum",
+    "si cadens eum adorasset",
+    "christo promisit regna mundi",
+    "cur sathan christo promisit"
+   ],
+   "context": "Conclusio xlvii: Qui seiet proprietatem Aquilonis in Cabala, seiet cur Sathan Christo promisit regna mundi si cadens eum adorasset.16 The ten avengers are \"within us\" (\"decern intra unumquemque sunt",
+   "thesis_id": "11>47"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9628,
+   "method": "latin_quote",
+   "evidence": [
+    "hoc totum ut ad",
+    "prima per intellectum cum",
+    "per hoc totum ut",
+    "quinta per liberum arbitrium"
+   ],
+   "context": "Pico's view of the correspondence between the human soul and the ten sefirot, which is outlined in the sixty-sixth Kabbalistic thesis: Ego animam nostram sic decern Sephirot adapto, ut per unitatem suam sit cum prima, per intellectum cum secunda, per rationem cum tertia, per superiorem concupiscibilem cum quarta, per superiorem irascibilem cum quinta, per liberum arbitrium cum sexta, et per hoc totum ut ad superiora",
+   "thesis_id": "11>66"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9641,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxxi"
+   ],
+   "resolved": false,
+   "context": "seventy-first and last of the Conclusiones paradoxae numero LXXI secundum opinionem propriam, noua in philosophia dogmata inducentes. Conclusio lxxi: Empedocles per litem et amicitiam in anima nihil aliud intelligit quam potentiam sursum ductiuam et deorsum ductiuam in ea, quas ego credo proportionari in scientia Sephirot aeternitati [= septimae] et decori [=",
+   "thesis_id": "11>71"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9642,
+   "method": "latin_quote",
+   "evidence": [
+    "proportionari in scientia sephirot",
+    "quas ego credo proportionari",
+    "sursum ductiuam et deorsum",
+    "et amicitiam in anima"
+   ],
+   "context": "secundum opinionem propriam, noua in philosophia dogmata inducentes. Conclusio lxxi: Empedocles per litem et amicitiam in anima nihil aliud intelligit quam potentiam sursum ductiuam et deorsum ductiuam in ea, quas ego credo proportionari in scientia Sephirot aeternitati [= septimae] et decori [= octavae].18",
+   "thesis_id": "3>71"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9650,
+   "method": "latin_quote",
+   "evidence": [
+    "scibilis perfecte inueniendi normam",
+    "perfecte inueniendi normam et",
+    "in scientiis seruare nouerit",
+    "normam et regulam habebit"
+   ],
+   "context": "Unless I am mistaken, Kabbala was also in Pico's mind when he wrote the fifty-fifth thesis of the Conclusiones paradoxae: Qui ordinem Hebraicae linguae profunde et radicaliter tenuerit, atque ilium proportionabiliter in scientiis seruare nouerit, cuiuscunque scibilis perfecte inueniendi normam et regulam habebit.\"",
+   "thesis_id": "3>55"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9665,
+   "method": "latin_quote",
+   "evidence": [
+    "illam esse hebraicam multis",
+    "lingua prima et non",
+    "est lingua prima et",
+    "hebraicam multis patet coniecturis"
+   ],
+   "context": "18 Ibid., p. 93. 19 Ibid., p. 92. 20 Conclusiones philosophicae secundum propriam opinionem, Conclusio lxxx {Opera, p. 89): \"Si qua est lingua prima et non causalis, illam esse Hebraicam multis patet coniecturis.\" See also the Conclusiones Magicae, Conclusio xxii (Opera, p. 105): \"Nulla nomina ut significatiua, et in quantum nomina sunt, singula et per se sumpta, in Magico opere uirtutem habere possunt, nisi sint",
+   "thesis_id": "2>80"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9666,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxii"
+   ],
+   "resolved": false,
+   "context": "19 Ibid., p. 92. 20 Conclusiones philosophicae secundum propriam opinionem, Conclusio lxxx {Opera, p. 89): \"Si qua est lingua prima et non causalis, illam esse Hebraicam multis patet coniecturis.\" See also the Conclusiones Magicae, Conclusio xxii (Opera, p. 105): \"Nulla nomina ut significatiua, et in quantum nomina sunt, singula et per se sumpta, in Magico opere uirtutem habere possunt, nisi sint Hebraica, uel inde proxime deriuata.\"",
+   "thesis_id": "28.22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9666,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxii"
+   ],
+   "resolved": false,
+   "context": "19 Ibid., p. 92. 20 Conclusiones philosophicae secundum propriam opinionem, Conclusio lxxx {Opera, p. 89): \"Si qua est lingua prima et non causalis, illam esse Hebraicam multis patet coniecturis.\" See also the Conclusiones Magicae, Conclusio xxii (Opera, p. 105): \"Nulla nomina ut significatiua, et in quantum nomina sunt, singula et per se sumpta, in Magico opere uirtutem habere possunt, nisi sint Hebraica, uel inde proxime deriuata.\"",
+   "thesis_id": "11>22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9667,
+   "method": "latin_quote",
+   "evidence": [
+    "sumpta in magico opere",
+    "et per se sumpta",
+    "uel inde proxime deriuata",
+    "sunt singula et per"
+   ],
+   "context": "20 Conclusiones philosophicae secundum propriam opinionem, Conclusio lxxx {Opera, p. 89): \"Si qua est lingua prima et non causalis, illam esse Hebraicam multis patet coniecturis.\" See also the Conclusiones Magicae, Conclusio xxii (Opera, p. 105): \"Nulla nomina ut significatiua, et in quantum nomina sunt, singula et per se sumpta, in Magico opere uirtutem habere possunt, nisi sint Hebraica, uel inde proxime deriuata.\"",
+   "thesis_id": "9>22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9683,
+   "method": "latin_quote",
+   "evidence": [
+    "omnis scibilis inuestigationem et",
+    "ad omnis scibilis inuestigationem",
+    "uia ad omnis scibilis",
+    "per numeros habetur uia"
+   ],
+   "context": "quoted, and I shall not add any except the eleventh thesis of Pico's Conclusiones de Mathematicis secundum opinionem propriam: Per numeros habetur uia ad omnis scibilis inuestigationem et intellectio- nem ...21 According to the Book of Creation, God created the world with \"thirty-",
+   "thesis_id": "7>11"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9694,
+   "method": "latin_quote",
+   "evidence": [
+    "numeratio homo dicitur",
+    "sexta numeratio homo",
+    "quare sexta numeratio"
+   ],
+   "context": "ises to answer seventy-four questions per viam numerorum. One of them, the sixty-seventh, is eminently Kabbalistic: Quare sexta numeratio homo dicitur.22 I shall not try to guess how Pico meant to answer this question per viam numerorum. But there is no need of guesswork to know what is touched",
+   "thesis_id": "7a>67"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9702,
+   "method": "latin_quote",
+   "evidence": [
+    "et in medio eius",
+    "eius est collocatus magnus",
+    "quam quod sit decima",
+    "quod sit decima et"
+   ],
+   "context": "listicae secundum secretam doctrinam sapientum Hebraeorum Cabalista- rum: Rectius dicitur quod paradisus sit totum aedificium quam quod sit decima; et in medio eius est collocatus magnus Adam qui est Tipheret. Adam means homo, and Tiferet (Glory or Beauty) is the sixth sefirah.",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9710,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxii"
+   ],
+   "resolved": false,
+   "context": "propriam opinionem numero LXII in doctrinam Platonis, links Plato's Epinomis with Kabbala. Conclusio xxxii: Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur seculum",
+   "thesis_id": "28.32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9710,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxii"
+   ],
+   "resolved": false,
+   "context": "propriam opinionem numero LXII in doctrinam Platonis, links Plato's Epinomis with Kabbala. Conclusio xxxii: Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur seculum",
+   "thesis_id": "11>32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9712,
+   "method": "latin_quote",
+   "evidence": [
+    "cabalistas dicitur seculum uenturum",
+    "per aliam uitam in",
+    "credo idem esse quod",
+    "esse quod apud cabalistas"
+   ],
+   "context": "Conclusio xxxii: Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur seculum uenturum.23",
+   "thesis_id": "5>32"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9767,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": false,
+   "context": "Renaissance than for the history of Christian Kabbala.25 Here I shall consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino.",
+   "thesis_id": "28.6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9767,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": false,
+   "context": "Renaissance than for the history of Christian Kabbala.25 Here I shall consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino.",
+   "thesis_id": "11>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9768,
+   "method": "latin_quote",
+   "evidence": [
+    "amphorismo de duplici ebriatione",
+    "interpretum chaldeorum super xi",
+    "bacchi et sileni perfecte",
+    "sileni perfecte intelligentur per"
+   ],
+   "context": "consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino.",
+   "thesis_id": "8>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9798,
+   "method": "latin_quote",
+   "evidence": [
+    "cabalistarum de duplici uino",
+    "dicta cabalistarum de duplici"
+   ],
+   "context": "tenth sefirah, \"diadema et eternitatem et decorem, quia vinum per se indicat diadema et uve sunt eternitas et decor\"; the latter signifies \"latus immundum.\"28 It makes sense to assume, even if it cannot be proved, that some such distinction was what Pico meant by \"dicta Cabalistarum de duplici vino.\" The relationship between the Kabbalistic \"wine\" and the Platonic",
+   "thesis_id": "8>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9805,
+   "method": "latin_quote",
+   "evidence": [
+    "est uinum purissimum apud",
+    "qui sciuerit quid est",
+    "quid est uinum purissimum",
+    "ubertate domus tue et"
+   ],
+   "context": "\"drunkenness\" is also the subject of the seventeenth Kabbalistic thesis secundum opinionem propriam: Qui sciuerit quid est uinum purissimum apud Cabalistas, seiet cur dixerit Dauid [Ps. 36:9] Inebriabor ab ubertate domus tuae, et quam ebrietatem dixerit antiquus uates Museus esse felicitatem, et quid significent tot Bacchi apud Orpheum.",
+   "thesis_id": "11>17"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9814,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": false,
+   "context": "\"vinum observatum in uvis suis,\" that is, the tenth sefirah. Kabbala appears again in the seventh Zoroastrian thesis: Conclusio vii: Quae dicunt interpretes super xiiii amphorismo, perfecte intelligentur per ea, quae dicunt Cabalistae de morte osculi.",
+   "thesis_id": "28.7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9814,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": false,
+   "context": "\"vinum observatum in uvis suis,\" that is, the tenth sefirah. Kabbala appears again in the seventh Zoroastrian thesis: Conclusio vii: Quae dicunt interpretes super xiiii amphorismo, perfecte intelligentur per ea, quae dicunt Cabalistae de morte osculi.",
+   "thesis_id": "11>7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9816,
+   "method": "latin_quote",
+   "evidence": [
+    "xiiii amphorismo perfecte intelligentur",
+    "per ea que dicunt",
+    "ea que dicunt cabaliste",
+    "que dicunt interpretes super"
+   ],
+   "context": "Conclusio vii: Quae dicunt interpretes super xiiii amphorismo, perfecte intelligentur per ea, quae dicunt Cabalistae de morte osculi. Which verse or verses of the Chaldaean Oracles might count as the",
+   "thesis_id": "8>7"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9843,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Kabbala is not explicitly mentioned in the thirteenth Zoroastrian thesis, but I think it is there: Conclusio xiii: Per puerum apud interpretes nihil aliud in teilige quam intellectual.",
+   "thesis_id": "28.13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9843,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Kabbala is not explicitly mentioned in the thirteenth Zoroastrian thesis, but I think it is there: Conclusio xiii: Per puerum apud interpretes nihil aliud in teilige quam intellectual.",
+   "thesis_id": "11>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9845,
+   "method": "latin_quote",
+   "evidence": [
+    "apud interpretes nihil aliud",
+    "per puerum apud interpretes",
+    "puerum apud interpretes nihil"
+   ],
+   "context": "Conclusio xiii: Per puerum apud interpretes nihil aliud in teilige quam intellectual. I do not know in what context puer was used by the interpreters of Zoroaster's sayings. Nevertheless, the chances are that the connecting link",
+   "thesis_id": "8>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9856,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": false,
+   "context": "Kabbalistic books. The fourteenth thesis goes to the heart of Christian Kabbala. Conclusio xiv: Per dictum illud Zoroastris, adhuc tres dies sacrificabitis, et non ultra, apparuit mihi per Arithmeticam superioris merchiaue illos computandos",
+   "thesis_id": "28.14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9856,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": false,
+   "context": "Kabbalistic books. The fourteenth thesis goes to the heart of Christian Kabbala. Conclusio xiv: Per dictum illud Zoroastris, adhuc tres dies sacrificabitis, et non ultra, apparuit mihi per Arithmeticam superioris merchiaue illos computandos",
+   "thesis_id": "11>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9858,
+   "method": "latin_quote",
+   "evidence": [
+    "mihi per arithmeticam superioris",
+    "non ultra apparuit mihi",
+    "tres dies sacrificabitis et",
+    "apparuit mihi per arithmeticam"
+   ],
+   "context": "Conclusio xiv: Per dictum illud Zoroastris, adhuc tres dies sacrificabitis, et non ultra, apparuit mihi per Arithmeticam superioris merchiaue illos computandos [computandieditio princeps] dies esse, <et> in eo dicto expresse praedictum aduentum Christi.",
+   "thesis_id": "8>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9894,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Son of God.311 need not go any further. The rest is too obvious for words. Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus.",
+   "thesis_id": "28.15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9894,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Son of God.311 need not go any further. The rest is too obvious for words. Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus.",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9896,
+   "method": "latin_quote",
+   "evidence": [
+    "zoroastrem intelliget qui legerit",
+    "capras apud zoroastrem intelliget",
+    "que agnis cum spiritibus",
+    "bair que sit affinitas"
+   ],
+   "context": "Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus. The direct source of the Kabbalistic part of this thesis was pinpointed by",
+   "thesis_id": "8>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9913,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "chapters. Here it will suffice to quote the remaining three, each of which asserts the superiority of Kabbala over magic.33 Conclusio xv: Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum.",
+   "thesis_id": "28.15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9913,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "chapters. Here it will suffice to quote the remaining three, each of which asserts the superiority of Kabbala over magic.33 Conclusio xv: Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum.",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9915,
+   "method": "latin_quote",
+   "evidence": [
+    "magica alicuius efficacie nisi",
+    "esse operatio magica alicuius",
+    "potest esse operatio magica",
+    "nulla potest esse operatio"
+   ],
+   "context": "Conclusio xv: Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum. Conclusio xviii:",
+   "thesis_id": "9>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9918,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xviii"
+   ],
+   "resolved": false,
+   "context": "Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum. Conclusio xviii: Illius natura quae est Orizon aeternitatis temporalis est Mago proxima, sed super eum et ei proxima est Cabala.",
+   "thesis_id": "28.18"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9918,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xviii"
+   ],
+   "resolved": false,
+   "context": "Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum. Conclusio xviii: Illius natura quae est Orizon aeternitatis temporalis est Mago proxima, sed super eum et ei proxima est Cabala.",
+   "thesis_id": "11>18"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9920,
+   "method": "latin_quote",
+   "evidence": [
+    "que est orizon eternitatis",
+    "proxima sed super eum",
+    "illius natura que est",
+    "sed super eum et"
+   ],
+   "context": "Conclusio xviii: Illius natura quae est Orizon aeternitatis temporalis est Mago proxima, sed super eum et ei proxima est Cabala. I take it that \"orizon aeternitatis temporalis\" in this thesis, \"orizon",
+   "thesis_id": "9>18"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9948,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvi"
+   ],
+   "resolved": false,
+   "context": "New Relationships and Orientations Conclusio xxvi: Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit",
+   "thesis_id": "28.26"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9948,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvi"
+   ],
+   "resolved": false,
+   "context": "New Relationships and Orientations Conclusio xxvi: Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit",
+   "thesis_id": "11>26"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9950,
+   "method": "latin_quote",
+   "evidence": [
+    "si sit pura cabala",
+    "attingitur per mediationem causarum",
+    "aliquid quod non attingitur",
+    "ita per opus cabale"
+   ],
+   "context": "Conclusio xxvi: Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit pura Cabala et immediata, fit aliquid quod nulla Magia attingit.",
+   "thesis_id": "9>26"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9972,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": false,
+   "context": "correspondences between the hymns and Kabbala that Pico pointed out in three theses, namely: Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae.",
+   "thesis_id": "28.4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9972,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": false,
+   "context": "correspondences between the hymns and Kabbala that Pico pointed out in three theses, namely: Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae.",
+   "thesis_id": "11>4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9973,
+   "method": "latin_quote",
+   "evidence": [
+    "uere licite et naturalis",
+    "ita hymni orphei operi",
+    "hymni orphei operi uere",
+    "operi uere licite et"
+   ],
+   "context": "three theses, namely: Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae. Conclusio xiii:",
+   "thesis_id": "10>4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9976,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae. Conclusio xiii: Idem est Typhon apud Orpheum et Zamael36 in Cabala.",
+   "thesis_id": "28.13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9976,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae. Conclusio xiii: Idem est Typhon apud Orpheum et Zamael36 in Cabala.",
+   "thesis_id": "11>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9977,
+   "method": "latin_quote",
+   "evidence": [
+    "idem est typhon apud",
+    "typhon apud orpheum et",
+    "est typhon apud orpheum",
+    "orpheum et zamel in"
+   ],
+   "context": "Orphei operi uerae, licitae, et naturalis Magiae. Conclusio xiii: Idem est Typhon apud Orpheum et Zamael36 in Cabala.",
+   "thesis_id": "10>13"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9987,
+   "method": "latin_quote",
+   "evidence": [
+    "hymnis elicitam fas non",
+    "nobis primum ex orphei",
+    "ex orphei hymnis elicitam",
+    "est in publicum explicare"
+   ],
+   "context": "propriam opinionem de modo intelligendi hymnos Orphei secundum Magiam, id est secretam diuinarum rerum naturaliumque sapientiam a me primum in eis repertam. Similarly, the beginning of the first Orphic thesis: \"Sicut secretam Magiam a nobis primum ex Orphei hymnis elicitam fas non est in publicum explicare,\" etc. Opera, pp. 106-107. 35 The magical application of Psalms is called simmusey Tehillym, which might be translated as \"practica Psalmorum.\"",
+   "thesis_id": "10>1"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10001,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala.",
+   "thesis_id": "28.15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10001,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala.",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10003,
+   "method": "latin_quote",
+   "evidence": [
+    "idem est nox apud",
+    "nox apud orpheum et",
+    "et ensoph in cabala",
+    "apud orpheum et ensoph"
+   ],
+   "context": "Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala. What I have in mind is the fact that sefirot and Hebrew names of God are sometimes involved in the magic that Pico discovered in the Orphic",
+   "thesis_id": "10>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10009,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio ix"
+   ],
+   "resolved": false,
+   "context": "sometimes involved in the magic that Pico discovered in the Orphic Hymns. Conclusio ix: Idem sunt Curetes apud Orpheum et potestates apud Dionysium.",
+   "thesis_id": "28.9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10009,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio ix"
+   ],
+   "resolved": false,
+   "context": "sometimes involved in the magic that Pico discovered in the Orphic Hymns. Conclusio ix: Idem sunt Curetes apud Orpheum et potestates apud Dionysium.",
+   "thesis_id": "11>9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10011,
+   "method": "latin_quote",
+   "evidence": [
+    "et potestates apud dionysium",
+    "orpheum et potestates apud",
+    "curetes apud orpheum et",
+    "apud orpheum et potestates"
+   ],
+   "context": "Conclusio ix: Idem sunt Curetes apud Orpheum et potestates apud Dionysium. Conclusio x: Qui praecedentis conclusionis opus attentauerit, adhibeat opus Cabalae",
+   "thesis_id": "10>9"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10013,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio x"
+   ],
+   "resolved": false,
+   "context": "Idem sunt Curetes apud Orpheum et potestates apud Dionysium. Conclusio x: Qui praecedentis conclusionis opus attentauerit, adhibeat opus Cabalae secundum appropriata timori Isaac.",
+   "thesis_id": "28.10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10013,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio x"
+   ],
+   "resolved": false,
+   "context": "Idem sunt Curetes apud Orpheum et potestates apud Dionysium. Conclusio x: Qui praecedentis conclusionis opus attentauerit, adhibeat opus Cabalae secundum appropriata timori Isaac.",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10014,
+   "method": "latin_quote",
+   "evidence": [
+    "adhibeat opus cabale secundum",
+    "cabale secundum appropriata timori",
+    "attentauerit adhibeat opus cabale",
+    "opus cabale secundum appropriata"
+   ],
+   "context": "Idem sunt Curetes apud Orpheum et potestates apud Dionysium. Conclusio x: Qui praecedentis conclusionis opus attentauerit, adhibeat opus Cabalae secundum appropriata timori Isaac. Goodness only knows how one might employ opus Cabalae, that is to say",
+   "thesis_id": "10>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10027,
+   "method": "latin_quote",
+   "evidence": [
+    "opere cabale cuius est",
+    "nullum est sine opere",
+    "omnem quantitatem formalem continuam",
+    "cabale cuius est proprium"
+   ],
+   "context": "useful to recall the twenty-first Orphic thesis, which has already been discussed:38 Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quantitatem formalem continuam et discretam.",
+   "thesis_id": "10>21"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10059,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio v"
+   ],
+   "resolved": false,
+   "context": "not even mentioned in it. And yet the thesis is eminently Kabbalistic. Conclusio v: Tantus est numerus hymnorum Orphei, quantus est numerus cum quo Deus triplex creauit saeculum sub quaternarii Pythagorici forma nume-",
+   "thesis_id": "28.5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10059,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio v"
+   ],
+   "resolved": false,
+   "context": "not even mentioned in it. And yet the thesis is eminently Kabbalistic. Conclusio v: Tantus est numerus hymnorum Orphei, quantus est numerus cum quo Deus triplex creauit saeculum sub quaternarii Pythagorici forma nume-",
+   "thesis_id": "11>5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10061,
+   "method": "latin_quote",
+   "evidence": [
+    "orphei quantus est numerus",
+    "numerus hymnorum orphei quantus",
+    "cum quo deus triplex",
+    "quo deus triplex creauit"
+   ],
+   "context": "Conclusio v: Tantus est numerus hymnorum Orphei, quantus est numerus cum quo Deus triplex creauit saeculum sub quaternarii Pythagorici forma nume- ratus.",
+   "thesis_id": "10>5"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10081,
+   "method": "latin_quote",
+   "evidence": [
+    "dei nomina quaternaria que",
+    "in secretis cabalistarum per",
+    "in scientia cabale fuerit",
+    "tribus personis trinitatis ita"
+   ],
+   "context": "probable answer: Tria magna Dei nomina quaternaria, quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <ΓΡηχ> [aleph, he, yod, he] sit patris, nomen <mn,> [yod, he, waw, he] sit fllii, nomen <TIN> [aleph, daleth, nun, yod] sit spiritus sancti, intelli-",
+   "thesis_id": "11>6"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10151,
+   "method": "latin_quote",
+   "evidence": [
+    "illud quod apud cabalistas",
+    "sine dubio quod ab",
+    "parmenide sphera intelligibilis nominatur",
+    "quod ab orpheo pallas"
+   ],
+   "context": "nem propriam, where Kabbala and all the illustrious representatives of prisca gentilium theologia appear side by side: Illud quod apud Cabalistas dicitur < > illud est sine dubio quod ab Orpheo Pallas, a Zoroastre paterna mens, a Mercurio Dei filius, a Pytha- gora sapientia, a Parmenide sphaera intelligibilis nominatur.",
+   "thesis_id": "11>10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10689,
+   "method": "latin_quote",
+   "evidence": [
+    "purgationes quam corruptiones uocabit",
+    "causam diluuiorum incendiorumque cognouerit",
+    "finalem causam diluuiorum incendiorumque",
+    "qui finalem causam diluuiorum"
+   ],
+   "context": "4 Giovanni Pico della Mirandola, Conclusiones sive Theses DCCCC Romae anno 1486publice disputandae sednon admissae, ed. and ann. Bohdan Kiesz- kowski (Geneva, 1973), pp. 1-2. 5 For instance, Conclusiones secundum Iamblichum viii: \"Qui finalem causam diluviorum incendiorumque cognoverit licet potius. i. fidest] purgationes quam corruptiones vocabit.\" The reading licet appears in the text. The correction hec was added in the margin. Also Conclusiones Cabalisticae",
+   "thesis_id": "23.8"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10693,
+   "method": "latin_quote",
+   "evidence": [
+    "sunt in dictione sciabat",
+    "dictione sciabat id est",
+    "que sunt in dictione",
+    "in dictione sciabat id"
+   ],
+   "context": "diluviorum incendiorumque cognoverit licet potius. i. fidest] purgationes quam corruptiones vocabit.\" The reading licet appears in the text. The correction hec was added in the margin. Also Conclusiones Cabalisticae secundum opinionempropriam xvi: \"Ex misterio trium l[itte]rarum que sunt in dictione sciabat id est possumus interpretari,\" etc. Similarly, Conclusiones Cabalisticae secundum opinionem sapientum Hebraeorum Cabalistarum xv: \"Nisi nomen Abraam id est he addita fuisset Abraam non generasset.\"",
+   "thesis_id": "11>16"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10696,
+   "method": "latin_quote",
+   "evidence": [
+    "est he addita fuisset",
+    "he addita fuisset abraam",
+    "addita fuisset abraam non",
+    "fuisset abraam non generasset"
+   ],
+   "context": "secundum opinionempropriam xvi: \"Ex misterio trium l[itte]rarum que sunt in dictione sciabat id est possumus interpretari,\" etc. Similarly, Conclusiones Cabalisticae secundum opinionem sapientum Hebraeorum Cabalistarum xv: \"Nisi nomen Abraam id est he addita fuisset Abraam non generasset.\" [210]",
+   "thesis_id": "28.15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11007,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": true,
+   "context": "siah are identical, it is certainly noteworthy that nomen Jesu and nomen Messiae are by no means identical in Pico's theses. Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice quod tum perfecte quieuit tanquam in sua perfectione mundus",
+   "thesis_id": "11>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11009,
+   "method": "latin_quote",
+   "evidence": [
+    "tum perfecte quieuit tanquam",
+    "uerus dei filius et",
+    "perfecte quieuit tanquam in",
+    "significatur nobis cabalistice quod"
+   ],
+   "context": "Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice quod tum perfecte quieuit tanquam in sua perfectione mundus cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo.",
+   "thesis_id": "11>14"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11014,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": true,
+   "context": "cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo. Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae futurum esse nomen Messiae, euidenter cognoscitur futurum eum",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11016,
+   "method": "latin_quote",
+   "evidence": [
+    "factum et post eum",
+    "sanctum hominem factum et",
+    "cognoscitur futurum eum deum",
+    "et post eum ad"
+   ],
+   "context": "Conclusio xv: Per nomen Iod he uau he, quod est nomen ineffabile, quod dicunt Cabalis- tae futurum esse nomen Messiae, euidenter cognoscitur futurum eum Deum Dei filium per spiritum sanctum hominem factum, et post eum ad perfectionem humani generis super homines paraclytum descensurum.",
+   "thesis_id": "11>15"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11832,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": true,
+   "context": "opinionem propriam, hard on the heels of Pico's divisions and definitions of Kabbala. Conclusio iv: Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinate.",
+   "thesis_id": "11>4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11833,
+   "method": "latin_quote",
+   "evidence": [
+    "ensoph non est aliis",
+    "numerationibus connumeranda quia est",
+    "non est aliis numerationibus",
+    "connumeranda quia est illarum"
+   ],
+   "context": "of Kabbala. Conclusio iv: Ensoph non est aliis numerationibus connumeranda, quia est illarum numerationum unitas abstracta et incommunicata, non unitas coordinate. It always helps to understand Pico's encounter with Kabbala, if the lineage",
+   "thesis_id": "11>4"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11954,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxv"
+   ],
+   "resolved": true,
+   "context": "Pico again in his thirty-fifth and thirty-sixth Kabbalistic theses secundum opinionem propriam, though in different terms. Conclusio xxxv: Si Deus in se ut infinitum, ut unum, et secundum se intelligatur ut sic nihil intelligimus ab eo procedere sed separationem a rebus et omnimodam sui in",
+   "thesis_id": "11>35"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11956,
+   "method": "latin_quote",
+   "evidence": [
+    "et secundum se intelligatur",
+    "deus in se ut",
+    "se intelligatur ut sic",
+    "remotissimo sue diuinitatis recessu"
+   ],
+   "context": "Conclusio xxxv: Si Deus in se ut infinitum, ut unum, et secundum se intelligatur ut sic nihil intelligimus ab eo procedere sed separationem a rebus et omnimodam sui in seipso clausionem et extremam in remotissimo suae diuinitatis recessu profundam ac solitariam retractationem de eo intelligimus ipso penitissime",
+   "thesis_id": "11>35"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11963,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxvi"
+   ],
+   "resolved": true,
+   "context": "in abysso suarum tenebrarum se contegente et nulo modo in dilatatione ac profusione suarum bonitatum ac fontani splendoris se manifestante. Conclusio xxxvi: Ex praecedenti conclusione intelligi potest cur dicatur apud Cabalistas quod Deus induit se decern uestimentis quando creauit seculum.",
+   "thesis_id": "11>36"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11965,
+   "method": "latin_quote",
+   "evidence": [
+    "quod deus induit se",
+    "dicatur apud cabalistas quod",
+    "cabalistas quod deus induit",
+    "apud cabalistas quod deus"
+   ],
+   "context": "Conclusio xxxvi: Ex praecedenti conclusione intelligi potest cur dicatur apud Cabalistas quod Deus induit se decern uestimentis quando creauit seculum.",
+   "thesis_id": "11>36"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 12068,
+   "method": "latin_quote",
+   "evidence": [
+    "deus celum et terram",
+    "creauit deus celum et"
+   ],
+   "context": "formanda hypothesi ad conversionem Judaeorum proficua, in Knorr von Rosenroth, Kabbala Denudata, II, 2 (Frankfort o/M, 1684). 2 Ibid., p. 9: \"Et hue etiam refero quod Gen. I v. 1 dicitur rVBWO Per Principium (i.e. Messiam) creavit Deus coelum et terram.\" 3 Ibid., p. 18: \"Jesod sive fundamentum apud Cabbalistas vocari solet justi nomine, Prov. χ vers. 25, ubi dicitur Iustus est fundamentum mundi. Hoc autem nomen tribuitur Messiae nostro.\"",
+   "thesis_id": "11>28"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 12236,
+   "method": "latin_quote",
+   "evidence": [
+    "conclusionem ex procli mente",
+    "quod apud grecos legitur",
+    "apud chaldeos aliter et",
+    "exponi unum ex dictis"
+   ],
+   "context": "Appendices Secundum praecedentem conclusionem ex Procli mente potest exponi unum ex dictis Zoroastris, secundum quod apud Graecos legitur, quam- quam apud Chaldaeos aliter et legitur et exponitur.8",
+   "thesis_id": "24.31"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 12669,
+   "method": "latin_quote",
+   "evidence": [
+    "theologia distincte sint diuine",
+    "distincte sint diuine hierarchie",
+    "licet ut tradit theologia",
+    "ut tradit theologia distincte"
+   ],
+   "context": "Compare also Pico, Conclusiones secundum Proclum 17: Licet ut tradit theologia distinctae sint divinae hierarchiae, intelligendum est tarnen omnia in omnibus esse modo suo.12 The preceding discussion and collocation of texts show that two motifs",
+   "thesis_id": "24.17"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "thesis_id": "2.31",
+ "latin": "Essentia et existentia in quolibet creato realiter distinguuntur.",
+ "farmer_latin_line": 11760,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12161,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 31"
+   ],
+   "context": "categories with William Ockham’s distinction between ‘being’, ‘one’ and the categories,153 but this is obviously beyond the scope of this chapter. Thesis 31 brings us to the well-known distinction between essence and existence. It states that essence and existence in any created being are in fact distinguished.154 This distinction is discussed in Thomas’s De ente et essentia. According to Thomas essence and existence can be easily separated on a con-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12189,
+   "method": "latin_quote",
+   "evidence": [
+    "et existentia in quolibet",
+    "existentia in quolibet creato",
+    "quolibet creato realiter distinguuntur",
+    "in quolibet creato realiter"
+   ],
+   "context": "dum quod ex ista littera accipiunt multi quod ‘ens’ dicitur aequivoce de decem praedica- mentis et non univoce; et ideo sibi non correspondet conceptus unus in mente, sed solum est unum nomen commune, et conceptus correspondentes sunt distincti.” 154 Pico, 900 Theses, p. 228: “Essentia et existentia in quolibet creato realiter distinguuntur.” 155 Thomas Aquinas, De ente et essentia, p. 112: “Omnis autem essentia vel quiditas potest intelligi sine hoc quod aliquid intelligatur de esse suo: possum enim intelligere quid est homo vel fenix et tamen ignorare an esse habeat in rerum natura; ergo patet quod esse est"
+  }
+ ],
+ "farmer_crossrefs": []
+}

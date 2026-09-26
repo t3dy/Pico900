@@ -1,0 +1,61 @@
+{
+ "thesis_id": "3>52",
+ "latin": "Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis, seruata proportione extremi ad extremum, medii ad extrema, et extremorum ad medium.",
+ "farmer_latin_line": 21081,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 1150,
+   "method": "farmer_id",
+   "evidence": [
+    "3>52"
+   ],
+   "context": "\" G. Pico della Mirandola, Conclusiones nongentae [Conclusiones], in S. A. Farmer, Syncretism in the West. Pico's 900 Theses ( r 486). Tbe Evolution o/ Traditional Religious and Philosophica!Systems, Tempe 1998, p. 414, n. 3>52: <<Eadem est scientia de deo, homine, et materia prima, et qui de uno scientia habuerit, habebit et de reliquis, servat a proportio­ ne extremi ad extremum, medii ad extrema, et extremum ad medium»."
+  },
+  {
+   "work": "busi2014",
+   "line": 26612,
+   "method": "farmer_id",
+   "evidence": [
+    "3>52"
+   ],
+   "context": "1 389, 39·52: 76 28.33= 305 1479. 25' 1 1 5 28. 35' 213 1503, 8-I I : 289 3>43' 273 Commentarii in Somnium Scipionis (Macrobio) 3>52: XXVI Il, 3, r: 184 3>55= 305 II, 3, 2: r85 5>3: 304 Commentariorum urbanorum . . . octo et tri­ 5>6: r6, 27"
+  },
+  {
+   "work": "busi2014",
+   "line": 1150,
+   "method": "latin_quote",
+   "evidence": [
+    "deo homine et materia",
+    "et qui de uno",
+    "et materia prima et",
+    "prima et qui de"
+   ],
+   "context": "\" G. Pico della Mirandola, Conclusiones nongentae [Conclusiones], in S. A. Farmer, Syncretism in the West. Pico's 900 Theses ( r 486). Tbe Evolution o/ Traditional Religious and Philosophica!Systems, Tempe 1998, p. 414, n. 3>52: <<Eadem est scientia de deo, homine, et materia prima, et qui de uno scientia habuerit, habebit et de reliquis, servat a proportio­ ne extremi ad extremum, medii ad extrema, et extremum ad medium»."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1697,
+   "method": "farmer_id",
+   "evidence": [
+    "3>52"
+   ],
+   "context": "102 Pico, Conclusiones paradoxae..., 3>60. (S. 418): Nihil intellegit actu et distincte anima, nisi se ipsam., 3>61.: Tota substantia animae rationalis est pars intellectualis., 3>66.: Potest anima per extrinsecam informationem ad hoc devenire, ut omnia per substantialem suam formam indivisibiliter intelligat., zusammen mit 3>52. (S. 414): Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis, servata proportione extremi ad extremum, medii ad extrema, et extremorum ad medium. und Conclusio...in doctrina Piatonis, 5>29. (S. 446)."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1697,
+   "method": "latin_quote",
+   "evidence": [
+    "deo homine et materia",
+    "seruata proportione extremi ad",
+    "eadem est scientia de",
+    "et de reliquis seruata"
+   ],
+   "context": "102 Pico, Conclusiones paradoxae..., 3>60. (S. 418): Nihil intellegit actu et distincte anima, nisi se ipsam., 3>61.: Tota substantia animae rationalis est pars intellectualis., 3>66.: Potest anima per extrinsecam informationem ad hoc devenire, ut omnia per substantialem suam formam indivisibiliter intelligat., zusammen mit 3>52. (S. 414): Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis, servata proportione extremi ad extremum, medii ad extrema, et extremorum ad medium. und Conclusio...in doctrina Piatonis, 5>29. (S. 446)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "3>50"
+ ]
+}

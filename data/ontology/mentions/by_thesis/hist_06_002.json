@@ -1,0 +1,44 @@
+{
+ "thesis_id": "6.2",
+ "latin": "Theologia nec est practica nec speculatiua, sed affectiua.",
+ "farmer_latin_line": 12676,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15967,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 1–7"
+   ],
+   "context": "Pico and Giles of Rome 335 These 11 theses can clearly be divided into two groups: the first, theses 1–7, deal with theological issues such as the status of theology as a science and angelology; and the second, theses 8–11, deal with issues pertaining to natural philosophy such as the sense of taste, heat or vacuum. Yet often even these"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16066,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 2"
+   ],
+   "context": "Pico and Giles of Rome 337 The science or discipline of theology is the subject of the next two theses. Thesis 2 states that theology is neither practical nor is it speculative, but rather it is affective.6 This is found in Giles’s commentary on the Sentences, 1, pro- log., q. 3, a. 4. According to Giles, since charity is simply the end or purpose of Scripture, it should be designated by charity; and since charity belongs to"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16095,
+   "method": "latin_quote",
+   "evidence": [
+    "practica nec speculatiua sed",
+    "theologia nec est practica",
+    "nec speculatiua sed affectiua",
+    "est practica nec speculatiua"
+   ],
+   "context": "6 Pico, 900 Theses, p. 246: “Theologia nec est practica nec speculativa, sed affectiva.” 7 Giles of Rome, In primum librum Sententiarum, p. 31: “… et quia charitas est simpliciter finis Sacrae Paginae, ut probatum est, quia ubique in ea intenditur ut principalis finis, ab ea denominari debet; et quia charitas est in affectu, non in intellectu, intellectus autem dividi-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>3",
+  "1>4",
+  "2>27",
+  "3>8",
+  "7a>37"
+ ]
+}

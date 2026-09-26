@@ -1,0 +1,62 @@
+{
+ "thesis_id": "28.15",
+ "latin": "Nisi nomen Abraam < DINNIAN>, id est he addita, fuisset, Abraam non generasset.",
+ "farmer_latin_line": 17847,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1919,
+   "method": "latin_quote",
+   "evidence": [
+    "est he addita fuisset",
+    "he addita fuisset abraam",
+    "addita fuisset abraam non",
+    "fuisset abraam non generasset"
+   ],
+   "context": "CONCLUSIO X V Nisi nomen15 Abraam <0Π13Κ>, id est he addita, fuisset, Abraam non generasset. Compare Recanati, fol. 46rb, where he quotes the Bahir (§6 ed. Scholem)"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10696,
+   "method": "latin_quote",
+   "evidence": [
+    "est he addita fuisset",
+    "he addita fuisset abraam",
+    "addita fuisset abraam non",
+    "fuisset abraam non generasset"
+   ],
+   "context": "secundum opinionempropriam xvi: \"Ex misterio trium l[itte]rarum que sunt in dictione sciabat id est possumus interpretari,\" etc. Similarly, Conclusiones Cabalisticae secundum opinionem sapientum Hebraeorum Cabalistarum xv: \"Nisi nomen Abraam id est he addita fuisset Abraam non generasset.\" [210]"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9894,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Son of God.311 need not go any further. The rest is too obvious for words. Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9913,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "chapters. Here it will suffice to quote the remaining three, each of which asserts the superiority of Kabbala over magic.33 Conclusio xv: Nulla potest esse operatio magica alicuius efficaciae, nisi annexum habeat opus cabalae explicitum uel implicitum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10001,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xv"
+   ],
+   "resolved": false,
+   "context": "Pico's Encounter with Jewish Mysticism Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala."
+  }
+ ],
+ "farmer_crossrefs": []
+}

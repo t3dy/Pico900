@@ -1,0 +1,70 @@
+{
+ "thesis_id": "7>5",
+ "latin": "Sicut dictum Aristotelis de antiquis, dicentis quod ideo errarunt in physica contemplatione, quia mathematice_res physicas tractarunt, uerum esset si illi materialiter mathematica non formaliter accepissent, ita est uerissimum modernos, qui de naturalibus mathematice disputant, naturalis philosophiae fundamenta destruere.",
+ "farmer_latin_line": 23628,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 4411,
+   "method": "latin_quote",
+   "evidence": [
+    "antiquis dicentis quod ideo",
+    "formaliter accepissent ita est",
+    "si illi materialiter mathematica",
+    "ideo errarunt in physica"
+   ],
+   "context": "those regarding mathematics according to his own view – that Aristotle says distinguishing natural philosophy and mathematics is characteristic of the ‘ancients’, as opposed to the ‘moderns’, who discussed natural philosophy mathematically (qui de naturalibus mathematice disputant), destroying the foundations of natural philosophy.88 If we apply Pico’s criterion, Versor, while keeping the distinction between the three parts of ‘real’ and contemplative philosophy, represents the ‘ancient’ position. And indeed Versor does mention"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 17740,
+   "method": "latin_quote",
+   "evidence": [
+    "antiquis dicentis quod ideo",
+    "sicut dictum aristotelis de",
+    "aristotelis de antiquis dicentis",
+    "dictum aristotelis de antiquis"
+   ],
+   "context": "explicitly arguing against the ‘moderns’ and their use of mathematics in discussions of natural philosophy, which, according to Pico, ‘destroys the foundations of natural philos- ophy’, in his fifth thesis (among eighty five) ‘on mathematics according to his own opin- ion’. See Pico, 900 Theses, p. 466: “Sicut dictum Aristotelis de antiquis, dicentis quod ideo ## Page 386"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 17771,
+   "method": "latin_quote",
+   "evidence": [
+    "formaliter accepissent ita est",
+    "si illi materialiter mathematica",
+    "modernos qui de naturalibus",
+    "non formaliter accepissent ita"
+   ],
+   "context": "errarunt in physica contemplatione, quia mathematice res physicas tractarunt, verum esset si illi materialiter mathematica non formaliter accepissent, ita est verissimum mod- ernos, qui de naturalibus mathematice disputant, naturalis philosophiae fundamenta destruere.” But see Caroti’s speculation regarding the use of moderni here as a reference"
+  },
+  {
+   "work": "mandosio2012",
+   "line": 466,
+   "method": "latin_quote",
+   "evidence": [
+    "antiquis dicentis quod ideo",
+    "formaliter accepissent ita est",
+    "si illi materialiter mathematica",
+    "ideo errarunt in physica"
+   ],
+   "context": "59 Ibid., fol. 13r (theorem 7), pp. 158–159: ‘Geometras docere, Lineam, ex puncti ﬂuxu, produci: Nos hic simili ratione, ﬁeri monemus: Dum Elementares nostræ Lineæ, ex Stillæ, (tanquam Puncti, Physici) continuo Casu, (quasi ﬂuxu) in Mechanica nostra producantur Magia.’ On Dee’s ‘mechanical magic’, see Mandosio (2003), pp. 489–490. 60 Ibid., p. 489: ‘Dee adopte le mode d’exposition des géomètres, non pour dévoiler la vérité, mais pour la dissimuler . . . ’ 61 Cf. Pico (1998), p. 466 (Concl. math., 5): ‘Sicut dictum Aristotelis de antiquis, dicentis quod ideo errarunt in physica contemplatione, quia mathematice res physicas tractarunt, verum esset si illi materialiter mathematica non formalite"
+  },
+  {
+   "work": "selfknowledge_notes",
+   "line": 1241,
+   "method": "farmer_id",
+   "evidence": [
+    "7>5"
+   ],
+   "context": "within Late Antique Platonism. However, since Pico owned a Greek manuscript of Proclus’ Commentary on the Elements of Euclid (Kibre 1966: 184, no. 489), it is rather likely that he specifically referred to Euclidean mathe- matics as practised by the moderni, whom he overtly criticizes in the immediately preceding conclusion (Con- clusiones 7>5, Farmer 1998: 466). Farmer identifies these “Moderns” with the Oxford Calculators of the 14th Century, on which see Sylla (1982)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "7>1",
+  "7>2",
+  "7>3",
+  "7>4"
+ ]
+}

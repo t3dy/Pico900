@@ -1,0 +1,22 @@
+{
+ "thesis_id": "23.2",
+ "latin": "Opifex sensibilis mundi septimus est hierarchiae intellectualis.",
+ "farmer_latin_line": 15643,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1499,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi septimus est hierarchie",
+    "septimus est hierarchie intellectualis",
+    "opifex sensibilis mundi septimus",
+    "sensibilis mundi septimus est"
+   ],
+   "context": "88 Pico, Conclusio secundum Iamblichum, 23.2 (S. 310): Opifex sensibilis mundi septimus est hierarchiae intellectualis zusammen mit Conclusio cabalistica..., 28.5. (S. 346): Cum arbore scientiae boni et mali, in qua peccavit primus homo, creavit deus saeculum. 89 Pico, Conclusio secundum propriam opinionem de modo intelligendi hymnos Orphei"
+  }
+ ],
+ "farmer_crossrefs": [
+  "22.1"
+ ]
+}

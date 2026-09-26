@@ -1,0 +1,40 @@
+{
+  "conclusion_id": "S3.C009",
+  "section": "S3",
+  "conclusion_num": "I.7.9",
+  "latin_incipit": "Coelum est corpus simplex, non compositum ex materia et forma.",
+  "english_translation": "Heaven is a simple body, not composed of matter and form.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Averroes defends the Aristotelian doctrine that the heavens are composed of a simple, fifth element (aether) without terrestrial matter and form.",
+  "defense": "Pico accepts this to uphold the distinction between incorruptible heavens and corruptible terrestrial bodies, key to medieval cosmology.",
+  "exegesis": "Contrary to terrestrial bodies, the heavens are simple, immutable substances. Pico registers this to uphold celestial incorruptibility, a key cosmological distinction.",
+  "scholar_citations": [
+    {
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "cosmology",
+    "celestial",
+    "substance",
+    "incorruptibility",
+    "aether"
+  ],
+  "notes": "Defends the coherence of medieval two-tiered cosmology (celestial vs. terrestrial). Challenged by modern physics but important to Renaissance thought.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666195Z",
+  "updated_date": "2026-09-26T02:19:54.811038"
+}

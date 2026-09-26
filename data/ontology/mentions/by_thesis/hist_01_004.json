@@ -1,0 +1,36 @@
+{
+ "thesis_id": "1.4",
+ "latin": "In quolibet puncto materiae sunt per habitum inchoationis potestatiuum",
+ "farmer_latin_line": 11028,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 9289,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 4"
+   ],
+   "context": "Pico and Albert the Great 195 Thesis 4 states that in any point of matter there are essences of all the natu- ral forms through the powerful habit of generation; according to philosophers these forms are coeternal with matter, while according to faith they are jointly created with matter.32 In Albert’s commentary on Physics, Book 1, Tract. 3,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9297,
+   "method": "latin_quote",
+   "evidence": [
+    "quolibet puncto materie sunt",
+    "puncto materie sunt per",
+    "sunt per habitum inchoationis",
+    "in quolibet puncto materie"
+   ],
+   "context": "that is, in what sense can we say that matter desires form, we find that matter already contains in itself the ability to be divine by receiving the act of the mover; for this reason it desires as much as it can to be changed.33 Pico’s words in quolibet puncto materiae sunt per habitum inchoationis potestativum essen- tiae, might echo Albert’s materia iam habeat incohationem esse divini. Albert further explains that ‘form’ is what distinguishes and shapes the shapeless matter; it is called ‘species’ when it provides existence and cognition to a thing,"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.1",
+  "2.27",
+  "2>34",
+  "2>54",
+  "3>52",
+  "7>5"
+ ]
+}

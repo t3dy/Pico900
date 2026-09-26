@@ -1,0 +1,32 @@
+{
+ "work": "ogren2009",
+ "meta": {
+  "author": "Brian Ogren",
+  "title": "The Beginning of the World in Renaissance Jewish Thought: Ma'aseh Bereshit in Italian Jewish Philosophy and Kabbalah, 1492-1535",
+  "year": 2009,
+  "kind": "monograph",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\Abravanel_Isaac_Allemanno_Johanan_ben_Isaac_Hebreo_León_Ogren_Brian_Pico_della_Mirandola_Giovann_pdf_2c2c7b8a.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\Abravanel Isaac_Allemanno Johanan ben Isaac_Hebreo León_Ogren Brian_Pico della Mirandola Giovanni The beginning of the wor.txt",
+  "word_count": 95554,
+  "source_file": "Abravanel Isaac_Allemanno Johanan ben Isaac_Hebreo León_Ogren Brian_Pico della Mirandola Giovanni The beginning of the wor.pdf"
+ },
+ "n_mentions": 1,
+ "n_theses": 1,
+ "mentions": [
+  {
+   "work": "ogren2009",
+   "line": 5689,
+   "method": "latin_quote",
+   "evidence": [
+    "de diuinitate christi quam",
+    "diuinitate christi quam magia",
+    "est scientia que nos",
+    "nulla est scientia que"
+   ],
+   "context": "reference is probably a very thinly veiled allusion to the Zohar. Indeed, Pico 18 Heptaplus, 87. 19 Farmer 496: “Nulla est scientia quae nos magis certificet de divinitate Christi quam magia et cabala.” 20 Heptaplus, 87.",
+   "thesis_id": "9>9"
+  }
+ ]
+}

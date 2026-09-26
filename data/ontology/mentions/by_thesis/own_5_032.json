@@ -1,0 +1,41 @@
+{
+ "thesis_id": "5>32",
+ "latin": "Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur saeculum uenturum.",
+ "farmer_latin_line": 22752,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1817,
+   "method": "farmer_id",
+   "evidence": [
+    "5>32"
+   ],
+   "context": "folgenden Ausführungen versuchen, Picos Begriffsschema differenzierter zu betrachten. 116 Pico, Conclusio cabalistica..., 28.27. (S. 356): Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est divinitas., dazu Conclusio...in doctrina Piatonis, 5>32 (S. 448): Per aliam vitam in Epinomide intelligere debemus connexionempartis cum suo toto, et credo idem esse quod apud Cabalistas dicitur saeculum venturum. Akteur der Vereinigung ist also die Sefirah Jesod, die regelkonform als KID O^IV, als >kommende Welt< bezeichnet werden kann. Hierzu auch Wirszubski, Pico's Encounter, S. 190f. Nicht"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1817,
+   "method": "latin_quote",
+   "evidence": [
+    "cabalistas dicitur seculum uenturum",
+    "per aliam uitam in",
+    "credo idem esse quod",
+    "esse quod apud cabalistas"
+   ],
+   "context": "folgenden Ausführungen versuchen, Picos Begriffsschema differenzierter zu betrachten. 116 Pico, Conclusio cabalistica..., 28.27. (S. 356): Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est divinitas., dazu Conclusio...in doctrina Piatonis, 5>32 (S. 448): Per aliam vitam in Epinomide intelligere debemus connexionempartis cum suo toto, et credo idem esse quod apud Cabalistas dicitur saeculum venturum. Akteur der Vereinigung ist also die Sefirah Jesod, die regelkonform als KID O^IV, als >kommende Welt< bezeichnet werden kann. Hierzu auch Wirszubski, Pico's Encounter, S. 190f. Nicht"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9712,
+   "method": "latin_quote",
+   "evidence": [
+    "cabalistas dicitur seculum uenturum",
+    "per aliam uitam in",
+    "credo idem esse quod",
+    "esse quod apud cabalistas"
+   ],
+   "context": "Conclusio xxxii: Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur seculum uenturum.23"
+  }
+ ],
+ "farmer_crossrefs": []
+}

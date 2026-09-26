@@ -1,0 +1,38 @@
+{
+ "thesis_id": "1.15",
+ "latin": "Corporis in eo quod corpus consideratio ad methaphysicum spectat.",
+ "farmer_latin_line": 11156,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 9969,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 15"
+   ],
+   "context": "which is subjected to movement.84 Albert goes on and distinguishes between three kinds of bodies: natural, mathematical, and an absolutely simple body which precede the previous two kinds, and this brings to the next thesis. Thesis 15 states that the consideration of the body (that in which it is a body) is a consideration for the metaphysician.85 In Albert’s commentary on De anima, Book 1, Tract. 1, Chapter 7, we find a distinction between a body inasmuch as it is movable (corpus inquantum est mobile) – the object of nat-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9994,
+   "method": "latin_quote",
+   "evidence": [
+    "eo quod corpus consideratio",
+    "in eo quod corpus",
+    "corporis in eo quod",
+    "quod corpus consideratio ad"
+   ],
+   "context": "enim scientia est alicuius generis subiecti, de quo probantur passiones et cuius conside- rat partes et differentias. Hoc autem in omni scientia naturali absque dubio est corpus mobile, prout motui subicitur.” 85 Pico, 900 Theses, p. 216: “Corporis in eo quod corpus consideratio ad metaphysicum spectat.” 86 Albert the Great, Opera omnia (Cologne Edition), vol. 7/1, pp. 14–15: “Scire enim causas corporis humani physici est, non medici. Sed formarum, quae quidem secundum esse"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.14",
+  "1>16",
+  "2.42",
+  "2>61",
+  "3>9",
+  "4.22",
+  "7.20",
+  "7.41"
+ ]
+}

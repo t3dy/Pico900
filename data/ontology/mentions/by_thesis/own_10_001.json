@@ -1,0 +1,47 @@
+{
+ "thesis_id": "10>1",
+ "latin": "Sicut secretam magiam a nobis primum ex Orphei hymnis elicitam_fas non est in publicum explicare, ita nutu quodam, ut in infrascriptis fiet conclusionibus, eam per amphorismorum capita demonstrasse, utile erit ad excitandas contemplatiuorum mentes.",
+ "farmer_latin_line": 25569,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 17236,
+   "method": "farmer_id",
+   "evidence": [
+    "10>1"
+   ],
+   "context": "cui figure sono racchiusi i misteri delle sfere celesti42• \" Cfr. Conclusiones, p. 504, n. 10>1: « Sicut secretam magiam a nobis primum ex Or­ phei hymnis elicitam fas non est in publicum explicare, ita nutu quodam, ut in infrascriptus fiet conclusionibus, eam per amphorismorum capita demonstrasse, utile eri t ad excitandas contemplativorum mentes>>."
+  },
+  {
+   "work": "busi2014",
+   "line": 17237,
+   "method": "latin_quote",
+   "evidence": [
+    "hymnis elicitam fas non",
+    "nutu quodam ut in",
+    "ita nutu quodam ut",
+    "per amphorismorum capita demonstrasse"
+   ],
+   "context": "\" Cfr. Conclusiones, p. 504, n. 10>1: « Sicut secretam magiam a nobis primum ex Or­ phei hymnis elicitam fas non est in publicum explicare, ita nutu quodam, ut in infrascriptus fiet conclusionibus, eam per amphorismorum capita demonstrasse, utile eri t ad excitandas contemplativorum mentes>>. \" Cfr. ibid. , p. 510, n. 1o>r5 (fonte 55). Per un commento a questa tesi, vedi la voce"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9987,
+   "method": "latin_quote",
+   "evidence": [
+    "hymnis elicitam fas non",
+    "nobis primum ex orphei",
+    "ex orphei hymnis elicitam",
+    "est in publicum explicare"
+   ],
+   "context": "propriam opinionem de modo intelligendi hymnos Orphei secundum Magiam, id est secretam diuinarum rerum naturaliumque sapientiam a me primum in eis repertam. Similarly, the beginning of the first Orphic thesis: \"Sicut secretam Magiam a nobis primum ex Orphei hymnis elicitam fas non est in publicum explicare,\" etc. Opera, pp. 106-107. 35 The magical application of Psalms is called simmusey Tehillym, which might be translated as \"practica Psalmorum.\""
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>2",
+  "10>3",
+  "10>7",
+  "11>57",
+  "8>6"
+ ]
+}

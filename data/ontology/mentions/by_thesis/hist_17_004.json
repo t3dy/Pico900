@@ -1,0 +1,29 @@
+{
+ "thesis_id": "17.4",
+ "latin": "Eadem pars rationalis, ut seipsam exiens, dicitur intellectus possibilis; ut vero est talis ut se ipsam ut possibilis est possit perficere, dicitur intellectus agens.",
+ "farmer_latin_line": 14557,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 4115,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 3 and 4"
+   ],
+   "context": "sense of touch or many. Pico in thesis 4 according to Mohammed of Toledo determines that there is not one sense of touch.61 In the discussion of Book Three of De anima Hennon discusses two questions regarding the agent and possible intellects, which more or less correspond to theses 3 and 4 according to Simplicius in Pico’s account.62 In his commentaries on Book Two of Aristotle’s Metaphysica Hennon discusses whether the difficulty in understanding comes from our intellect or from the things we try to understand; and he concludes"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 4135,
+   "method": "latin_quote",
+   "evidence": [
+    "perficere dicitur intellectus agens",
+    "ipsam ut possibilis est",
+    "possibilis ut uero est",
+    "rationalis ut seipsam exiens"
+   ],
+   "context": "“Dubitatur secundo utrum intellectus agens sit nobilior possibili. Dubitatur tercio utrum intellectus agens et possibilis sint due potencie anime realiter distincte.” Pico, 900 Theses, p. 286: “Cum anima in se perfecte redit, tunc intellectus agens ab intellectu possibili lib- eratur. Eadem pars rationalis, ut seipsam exiens, dicitur intellectus possibilis; ut vero est talis ut se ipsam ut possibilis est possit perficere, dicitur intellectus agens.” 63 Bakker, ‘Natural Philosophy and Metaphysics in Late Fifteenth-Century Paris. I’, p. 154: “Circa hunc textum queritur utrum difficultas cognoscendi sit ex parte intellectus nostri"
+  }
+ ],
+ "farmer_crossrefs": []
+}

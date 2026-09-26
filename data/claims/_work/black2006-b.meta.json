@@ -1,0 +1,46 @@
+{
+ "packet": "black2006-b",
+ "researcher": "R-BLACK-B",
+ "created": "2026-09-26",
+ "scope": {
+  "work": "black2006",
+  "line_start": 4700,
+  "line_end": 9306
+ },
+ "not_mined": [
+  "Lines 4700-5029 (end of ch. 3): only the Heptaplus-versus-Psalms contrast, the Psalm 47 physical exposition and the tohu/bohu and asciamaim points were taken; the Psalms commentaries' four-senses detail (Psalms 6, 10, 11, 17, 18) was left to whoever covers exegetical practice.",
+  "Lines 5288-5427: the Heptaplus/Commento/Apologia parallel table was taken only through Black's summary of it, not item by item.",
+  "Lines 5620-6130 and 6199-6420: the detail on Clement, Origen, Basil, Jerome, Augustine, Gregory, the catenae and the Reformers is summarised in about a dozen claims; the Greek quotations from Clement and Origen were not extracted (OCR Greek is garbled and cannot pass the gate).",
+  "Footnote apparatus throughout (Latin and Greek originals of Maimonides, Dionysius, Clement, Origen) was used only where it carries a Pico or Dionysius text bearing on angelology or the three worlds.",
+  "Ch. 6 begins at line 9319, after the range end; the range ends with the last paragraph of ch. 5 (line 9306)."
+ ],
+ "proposed_topics": [
+  {
+   "id": "esotericism",
+   "label": "Esotericism in Christian, Neoplatonic and Jewish traditions; Moses and the philosophers (Heptaplus first proem)"
+  },
+  {
+   "id": "mutual-containment",
+   "label": "Mutual containment of the worlds: whatever is in all is in each; Proclus prop. 103, Dionysius, Aquinas (could be merged into three-worlds)"
+  },
+  {
+   "id": "anagogy-allegory",
+   "label": "Pico's theory of allegory as Dionysian anagogy: names and things, exegesis as ascent"
+  },
+  {
+   "id": "sefirot-heptaplus",
+   "label": "Sefirot and the Heptaplus: Black's denial that the three worlds or ten spheres need a sefirotic reading"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "alemanno",
+   "name": "Johanan Alemanno"
+  },
+  {
+   "id": "elijah-delmedigo",
+   "name": "Elijah Delmedigo"
+  }
+ ],
+ "notes": "CRUXES. (1) Sefirot: Black (7530-7556, 8343-8355, 8375-8380) says the sefirot as a system are absent from the Heptaplus and add nothing to reading the three worlds; he reports Wirszubski's equation of the three worlds with a triadic sefirot grouping and Kristeller's view (8153-8172) that the scheme is from Hebrew, probably cabalistic, sources, while Black himself stresses a Judeo-Aristotelian, not specifically kabbalistic, setting (8397-8406). A linker should set these against each other; do not resolve. (2) Empyrean/angelic world inconsistency (7936-7977): Pico treats the empyrean as the first celestial sphere though the angelic world is the top of the three. (3) Black on the One (8082-8089): Pico places God or the One in the angelic world, blurring the first two Plotinian hypostases; this bears on the Ficino dispute over the One and Being but Black names no dispute. (4) Nahmanides quotation at 7338-7341: the OCR lost the italics, so the phrase Wirszubski called an interpolation cannot be identified; the angels clause may or may not be the interpolation. (5) Black's Garin correction at 8964: the fewer-forms passage is in Divine Names VII, not Celestial Hierarchy 7. (6) The claim that Pico met Alemanno only in 1488 is Black's inference (8393). OCR: Greek and Hebrew are garbled or missing (quotations avoid them); ligatures fi/fl appear as single characters; printed page numbers are in running heads only, so no page fields are given. Pico's own Latin and Italian, quoted in Black's footnotes, are cited as Black claims with Pico's words as quotation (e.g. 8005-8010, 8530-8536), not as primary_text. Ficino appears only as translator of Iamblichus (7668) and as an exponent of the hierarchy of being (9033): no relationship claim beyond that. Note: the printed running head reads chapter three for pages 88-93 and the chapter numbering in the brief (ch. 4 first proem, ch. 5 second proem) matches the text at lines 5029 and 7818."
+}

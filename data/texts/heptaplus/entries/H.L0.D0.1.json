@@ -1,0 +1,41 @@
+{
+  "conclusion_id": "H.L0.D0.1",
+  "text": "heptaplus",
+  "day": 0,
+  "layer": 0,
+  "layer_name": "Foundational (Second Proem)",
+  "passage_number": 1,
+  "latin_text": "Antiquity imagined three worlds. Highest of all is that ultra-mundane one which theologians call the angelic and philosophers the intelligible, and of which, Plato says in the Phaedrus, no one has worthily sung. Next to this comes the celestial world, and last of all, this sublunary one which we inhabit.",
+  "english_translation": "Antiquity imagined three worlds. Highest of all is that ultra-mundane one which theologians call the angelic and philosophers the intelligible, and of which, Plato says in the Phaedrus, no one has worthily sung. Next to this comes the celestial world, and last of all, this sublunary one which we inhabit.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "[VERIFIED] Pico invokes ancient authority (Plato, Dionysius) for the triadic cosmos: angelic/intelligible (supercelestial), celestial, sublunary. The angelic world is explicitly identified as both theological (*angelic* to the church) and philosophical (*intelligible* to Plato), establishing that Christian angelology and Platonic philosophy converge on the same reality. Pico notes that Plato himself \"has not worthily sung\" of this realm—acknowledging its transcendence even to the greatest pagan philosopher.\n\nThe philosophical function is foundational: the three-world doctrine structures *all* subsequent interpretation in the Heptaplus. Each day of creation will be read through all three worlds simultaneously. [INFERRED] The passage establishes that creation is not a temporal sequence but a simultaneous hierarchical emanation. The angelic realm is always the summit, the intelligible source from which all lower orders receive order and intelligibility.\n\n[VERIFIED] This mirrors Commento Book III (C.3.1) exactly. Oration (O.1.2) establishes this cosmological moment before human creation. Being & Unity grounds it: the three worlds represent three degrees of participated being, from pure intelligible intellection through celestial motion to material becoming.",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | pseudo-dionysius | aquinas",
+  "key_concepts": [
+    "three-world-hierarchy-with-angelic-world-as-summit"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalistic",
+    "heretical_adjacent"
+  ],
+  "layer_angelology_density": "medium",
+  "cross_references": {
+    "same_text": [
+      "H.SP.2",
+      "H.TE3.P.1"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.SP.1 | Three-world hierarchy with angelic world as summit"
+}

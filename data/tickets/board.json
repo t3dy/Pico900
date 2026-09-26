@@ -1,0 +1,707 @@
+{
+ "tickets": [
+  {
+   "id": "T-SYS-01",
+   "title": "System files: PROMPTS.md, claims model, tickets, briefs wired into CLAUDE.md, ORCHESTRATION.md, HANDOVER.md, DECISIONS.md",
+   "status": "doing",
+   "prompts": [
+    "P20260926041326",
+    "P20260926002233",
+    "P20260926035544"
+   ],
+   "owns": [
+    "PROMPTS.md",
+    "scripts/harvest_prompts.py",
+    "scripts/tickets.py",
+    "data/tickets/"
+   ],
+   "deps": [],
+   "labels": [
+    "system"
+   ],
+   "gate": "",
+   "owner": "window-3bc261ff",
+   "history": [
+    [
+     "2026-09-26T04:32:12+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-01",
+   "title": "Claims layer: corpuslib, corpus_tool, claims_verify, claims_pack, claims_score, commentary_check, CLAIMS_MODEL.md",
+   "status": "doing",
+   "prompts": [
+    "P20260926041129"
+   ],
+   "owns": [
+    "scripts/corpuslib.py",
+    "scripts/corpus_tool.py",
+    "scripts/claims_verify.py",
+    "scripts/claims_pack.py",
+    "scripts/claims_score.py",
+    "scripts/commentary_check.py",
+    "docs/CLAIMS_MODEL.md",
+    "docs/briefs/",
+    "data/claims/scoring.json"
+   ],
+   "deps": [],
+   "labels": [
+    "claims"
+   ],
+   "gate": "",
+   "owner": "window-3bc261ff",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-02",
+   "title": "Angelology and Ficino claims sweep: 15 packets from Allen, Black, Oration, Heptaplus, De ente, Howlett, Edelheit, Dougherty, Copenhaver, Wirszubski",
+   "status": "doing",
+   "prompts": [
+    "P20260926003059",
+    "P20260926040957",
+    "P20260926041806"
+   ],
+   "owns": [
+    "data/claims/angelology/",
+    "data/claims/_work/",
+    "data/claims/manifest.json"
+   ],
+   "deps": [],
+   "labels": [
+    "claims",
+    "angelology"
+   ],
+   "gate": "",
+   "owner": "window-3bc261ff (14 researcher agents)",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-03",
+   "title": "Semantic verification: a second agent reads each packet sample sheet; overreaching claims are ticketed and fixed",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041129"
+   ],
+   "owns": [
+    "data/verification/claims/"
+   ],
+   "deps": [
+    "T-CLAIMS-02"
+   ],
+   "labels": [
+    "claims"
+   ],
+   "gate": "no claim in a sample marked overreaches or wrong",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-04",
+   "title": "LINKER: cross-packet links (supports, contradicts, qualifies, depends_on, same_claim) with stated basis",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041129"
+   ],
+   "owns": [
+    "data/claims/angelology/links.json"
+   ],
+   "deps": [
+    "T-CLAIMS-03"
+   ],
+   "labels": [
+    "claims"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-05",
+   "title": "Score: importance, tiers, relevance, open questions, graph (claims_score.py)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041129",
+    "P20260926041711"
+   ],
+   "owns": [
+    "data/claims/angelology/scores.json",
+    "data/claims/angelology/relevance.json",
+    "data/claims/angelology/open_questions.json",
+    "data/claims/angelology/graph.json"
+   ],
+   "deps": [
+    "T-CLAIMS-04"
+   ],
+   "labels": [
+    "claims"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ANG-01",
+   "title": "Commentary on the angelic material in Oration, Commento, Heptaplus from Allen and Black (claims only; commentary_check clean)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926040957",
+    "P20260926003059"
+   ],
+   "owns": [
+    "docs/angelology/COMMENTARY.md"
+   ],
+   "deps": [
+    "T-CLAIMS-05"
+   ],
+   "labels": [
+    "writing",
+    "angelology"
+   ],
+   "gate": "commentary_check.py exit 0; semantic verifier sample clean",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ANG-02",
+   "title": "ANGELICRESEARCH finding aid rebuilt from verified claims (replaces quarantined docs/ANGELICRESEARCH.md)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926003059"
+   ],
+   "owns": [
+    "docs/ANGELICRESEARCH.md",
+    "docs/angelology/FINDING_AID.md"
+   ],
+   "deps": [
+    "T-CLAIMS-05"
+   ],
+   "labels": [
+    "writing",
+    "angelology"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-FIC-01",
+   "title": "Essay: the Ficino-Pico dispute over the One; a tour through De ente et uno and Aquinas encountering Dionysius",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041806"
+   ],
+   "owns": [
+    "docs/essays/"
+   ],
+   "deps": [
+    "T-CLAIMS-05"
+   ],
+   "labels": [
+    "writing",
+    "essay"
+   ],
+   "gate": "commentary_check.py exit 0; tour data builds",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-REL-01",
+   "title": "Merge data/claims/parties.json into data/network/persons.json (network_bootstrap --source parties.json --merge); person ids replace slugs",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711"
+   ],
+   "owns": [
+    "data/network/"
+   ],
+   "deps": [],
+   "labels": [
+    "relations"
+   ],
+   "gate": "",
+   "owner": "window-a08fd9b0 (network system)",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-REL-02",
+   "title": "Thesis x person relevance for all 900 theses from the mention harvest and verified claims",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711"
+   ],
+   "owns": [
+    "data/network/text_person_relationships.json"
+   ],
+   "deps": [
+    "T-REL-01"
+   ],
+   "labels": [
+    "relations"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-REL-03",
+   "title": "Site reads ONE relevance source (network scores, or claims relevance until they exist), never both",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711"
+   ],
+   "owns": [
+    "scripts/build_cards.py"
+   ],
+   "deps": [
+    "T-REL-02"
+   ],
+   "labels": [
+    "relations",
+    "site"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-01",
+   "title": "build_cards.py: cards, facets, search index, card pages from claims, scores, relevance (prototype: angelology and Ficino topics)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041446",
+    "P20260926041502",
+    "P20260926041418"
+   ],
+   "owns": [
+    "scripts/build_cards.py",
+    "site/cards/"
+   ],
+   "deps": [
+    "T-CLAIMS-05"
+   ],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-02",
+   "title": "Card frames, colour and control CSS/JS: sort, facets, search, expand, collect (localStorage)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041446",
+    "P20260926041502"
+   ],
+   "owns": [
+    "src/css/cards.css",
+    "src/js/cards.js"
+   ],
+   "deps": [
+    "T-SITE-01"
+   ],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-03",
+   "title": "Relation strips, backlinks, trail, compare, ego graph, matrix view",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041418",
+    "P20260926041711"
+   ],
+   "owns": [
+    "src/js/relations.js"
+   ],
+   "deps": [
+    "T-SITE-02"
+   ],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-04",
+   "title": "Tour template and the Ficino-Pico tour",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041806"
+   ],
+   "owns": [
+    "src/js/tour.js",
+    "site/tours/"
+   ],
+   "deps": [
+    "T-SITE-02",
+    "T-FIC-01"
+   ],
+   "labels": [
+    "site",
+    "essay"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-05",
+   "title": "Sources tab (30-100 word blurbs sortable by tradition) and People tab; merge PicoDB scholars, figures, sources, documents",
+   "status": "backlog",
+   "prompts": [
+    "P20260926004626",
+    "P20260926005522",
+    "P20260926005558",
+    "P20260926005916"
+   ],
+   "owns": [
+    "data/sources.json"
+   ],
+   "deps": [],
+   "labels": [
+    "site",
+    "picodb"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-06",
+   "title": "Thesis cards for all 900 with relevance bars",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711",
+    "P20260926020557"
+   ],
+   "owns": [
+    "site/conclusions/"
+   ],
+   "deps": [
+    "T-REL-02",
+    "T-SITE-02"
+   ],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:14+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-07",
+   "title": "Workbench Stage 1: browser collections, notes, lenses, export",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711"
+   ],
+   "owns": [
+    "src/js/workbench.js"
+   ],
+   "deps": [
+    "T-SITE-02"
+   ],
+   "labels": [
+    "site",
+    "workbench"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:15+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-08",
+   "title": "Workbench Stage 2: accounts, server storage, sharing (host and auth provider recorded in DECISIONS.md)",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041711"
+   ],
+   "owns": [],
+   "deps": [
+    "T-SITE-07"
+   ],
+   "labels": [
+    "site",
+    "workbench"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:15+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-09",
+   "title": "Interface verification pass (SITE_DESIGN s10), then DEPLOYER steps",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041418"
+   ],
+   "owns": [],
+   "deps": [
+    "T-SITE-03"
+   ],
+   "labels": [
+    "site"
+   ],
+   "gate": "VERIFIED.md entry: what was driven, what remains unconfirmed",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:32:15+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-RES-01",
+   "title": "Research layer: Farmer-derived inventory (900), corpus registry, deterministic mention harvest, research packets, entry gate",
+   "status": "done",
+   "prompts": [],
+   "owns": [
+    "scripts/extract_farmer_theses.py",
+    "scripts/build_corpus_registry.py",
+    "scripts/harvest_mentions.py",
+    "scripts/build_dossiers.py",
+    "scripts/entry_gate.py",
+    "data/inventory/",
+    "data/corpus/",
+    "data/ontology/",
+    "research-packets/"
+   ],
+   "deps": [],
+   "labels": [
+    "research"
+   ],
+   "gate": "",
+   "owner": "window-8857d983",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "done",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-01",
+   "title": "Tier-A entries for the 13 condemned + 49 most-cited theses (7 WRITER agents, launched 2026-09-25 21:15)",
+   "status": "doing",
+   "prompts": [],
+   "owns": [
+    "entries/"
+   ],
+   "deps": [
+    "T-RES-01"
+   ],
+   "labels": [
+    "writing"
+   ],
+   "gate": "",
+   "owner": "window-8857d983 (7 writer agents)",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-02",
+   "title": "Original translations + attribution for all non-tier-A theses (10 TRANSLATOR agents, one block each)",
+   "status": "doing",
+   "prompts": [],
+   "owns": [
+    "entries/"
+   ],
+   "deps": [
+    "T-RES-01"
+   ],
+   "labels": [
+    "writing"
+   ],
+   "gate": "",
+   "owner": "window-8857d983 (10 translator agents)",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-03",
+   "title": "VERIFIER swarm: entry_gate then re-find every quotation/date; promote entries/*.draft.json to *.json; verdicts to data/verification/",
+   "status": "backlog",
+   "prompts": [],
+   "owns": [
+    "entries/",
+    "data/verification/"
+   ],
+   "deps": [
+    "T-ENT-01",
+    "T-ENT-02"
+   ],
+   "labels": [
+    "verification"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-V2",
+   "title": "build_site_v2.py: thesis pages from entries/ (verified as text, drafts badged), cited-by from harvest, Farmer cross-refs; baseline until T-SITE-06 cards",
+   "status": "done",
+   "prompts": [],
+   "owns": [
+    "scripts/build_site_v2.py"
+   ],
+   "deps": [],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "window-8857d983",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "done",
+     "created"
+    ]
+   ]
+  }
+ ]
+}

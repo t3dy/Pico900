@@ -1,0 +1,33 @@
+{
+ "thesis_id": "10>28",
+ "latin": "Frustra adit naturam et protheum, qui pana non attraxerit.",
+ "farmer_latin_line": 26127,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 19679,
+   "method": "farmer_id",
+   "evidence": [
+    "10>28"
+   ],
+   "context": "ca, avesse proposto una diversa esegesi della figura di Proteo, basata per lo piu sull'inter­ pretazione del dio proposta da Proda in passi del suo commento alla Repubblica di Platone di cui Marsilio aveva preparato una versione latina; cfr. Ficino, Opera omnia cit., p. 939· \" Conclusiones, p. 514, n. 10>28 (fonte Bo). \" Hymni Orphici, XI, 9-1 1; Inni otfici cit., p. 37· ## Page 425"
+  },
+  {
+   "work": "busi2014",
+   "line": 24979,
+   "method": "latin_quote",
+   "evidence": [
+    "et protheum qui pana",
+    "qui pana non attraxerit",
+    "protheum qui pana non",
+    "adit naturam et protheum"
+   ],
+   "context": "Enoch sanctum in angelum divinitatis, quem vocant jnvvo, nunc in alia alios numina reformant; et Pythagorici scelestos homines et in bruta deformant et, si Empedocli creditur, etiam in plantas. [8o] Frustra adit naturam et Protheum, qui Pana non attraxerit. Cabala"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>26",
+  "4>8",
+  "5>52"
+ ]
+}

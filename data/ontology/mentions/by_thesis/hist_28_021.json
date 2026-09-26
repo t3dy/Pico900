@@ -1,0 +1,44 @@
+{
+ "thesis_id": "28.21",
+ "latin": "Qui sciet proprietatem quae est secretum tenebrarum, sciet cur mali demones plus in nocte quam die nocent.",
+ "farmer_latin_line": 17955,
+ "mentions": [
+  {
+   "work": "corazzol2019",
+   "line": 1374,
+   "method": "latin_quote",
+   "evidence": [
+    "sciet proprietatem que est",
+    "cur mali demones plus",
+    "nocte quam die nocent",
+    "secretum tenebrarum sciet cur"
+   ],
+   "context": "of judgment”. 71. As Recanati often repeats, since Middat ha-Din dominates at night, it coincides with the Middat Lailah, “property of night”. It is therefore clear that conclusion 28.21 refers to the same seﬁrotic power: “Qui sciet proprietatem quae est secretum tenebrarum, sciet cur mali demones plus in nocte quam die nocent”; see ibid., 354–55: “Whoever knows the property that is the secret of darkness knows why evil demons injure more at night than by day”. 72. Lawrence A. Englander and Herbert W. Basser, Mystical Study of Ruth, 71 (with minor"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2198,
+   "method": "latin_quote",
+   "evidence": [
+    "cur mali demones plus",
+    "nocte quam die nocent",
+    "proprietatem que est secretum",
+    "mali demones plus in"
+   ],
+   "context": "CONCLUSIO XXI Qui seiet proprietatem quae est secretum tenebrarum, seiet cur mali demones plus in nocte quam die nocent. The direct source is most probably Recanati, fols. 7vb-8ra:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2195,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXI Qui seiet proprietatem quae est secretum tenebrarum, seiet cur mali"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>2"
+ ]
+}

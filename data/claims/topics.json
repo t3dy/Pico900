@@ -1,0 +1,24 @@
+{
+  "_note": "Topic vocabulary for claim.topics[]. Seeded from audit/A3 s6.3 (each row there cites corpus lines). Add topics by proposing them in a packet's `proposed_topics`; the orchestrator merges. Angelology first (P20260926003059, P20260926040957); the Ficino dispute (P20260926041806) has its own topics.",
+  "topics": [
+    {"id": "angel-location", "label": "Location, motion and knowledge of angels; Thomas and Scotus; Tempier 1277; the trial (Apology Q1)"},
+    {"id": "oration-orders", "label": "The Oration's angelic orders: seraph, cherub, throne; the Order of Pallas"},
+    {"id": "enoch-metatron", "label": "Enoch, Metatron, the Agent Intellect; the textual crux at Oration section 35"},
+    {"id": "three-worlds", "label": "The three worlds and mutual containment (Heptaplus second proem); the Anaxagoras attribution"},
+    {"id": "heptaplus-structure", "label": "The Heptaplus as seven expositions (subject fixed, framework changing); sabbath as form"},
+    {"id": "heptaplus-angelic-world", "label": "The Third Exposition: the angelic world, Hebrew and Dionysian plans, number and unity, Hierotheus"},
+    {"id": "commento-angelic-mind", "label": "The Commento's angelic Mind: second hypostasis, Proclus, Hermias, Syrianus, Saturn/Uranus, Poros and Penia"},
+    {"id": "death-of-the-kiss", "label": "Binsica, the Death of the Kiss; Symposium and Song of Songs"},
+    {"id": "dionysian-hebrew-orders", "label": "Dionysian orders and the Hebrew hierarchies kept distinct; Conclusio II; sefirot as emanations, not angels"},
+    {"id": "dionysius-transmission", "label": "Dionysius in the Latin West: Traversari 1436, Hilduin, Eriugena, Aquinas on Dionysius; Proclean setting"},
+    {"id": "aquinas-dionysius", "label": "Aquinas's reception of Dionysius (commentary on the Divine Names; the Summa)"},
+    {"id": "de-ente", "label": "De ente et uno: being and one convertible; Plato and Aristotle in concord; the Parmenides"},
+    {"id": "ficino-dispute", "label": "The Ficino-Pico exchange over the One and Being, Plato and Aristotle"},
+    {"id": "one-beyond-being", "label": "The One beyond being: Plotinus, Proclus, Dionysius, Ficino, Pico"},
+    {"id": "separate-substances", "label": "Separate substances and intellect: angels in the scholastic metaphysics Pico engages"},
+    {"id": "kabbalistic-sources", "label": "Pico's Kabbalistic sources and their dates (Abulafia, Gikatilla, Zohar, Mithridates)"},
+    {"id": "agent-intellect", "label": "The Agent Intellect and its identifications"},
+    {"id": "reception-critics", "label": "Contemporary and later critics (Cittadini, others) and reception"},
+    {"id": "other", "label": "Anything else the source discusses that bears on Pico's angelology or the One; state it in `text`"}
+  ]
+}

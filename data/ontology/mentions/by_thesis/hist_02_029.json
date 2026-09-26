@@ -1,0 +1,59 @@
+{
+ "thesis_id": "2.29",
+ "latin": "In generatione substantiali fit resolutio usque ad materiam primam.",
+ "farmer_latin_line": 11665,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 4076,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 29"
+   ],
+   "context": "thesis 12 according to Averroës.58 In his commentaries on Book One of De generatione et corruptione Hennon deals with substantial corruption, which, according to him, does not necessarily occur all the way down to prime matter. Pico in thesis 29 according to Thomas Aquinas deals with substantial genera- tion, using the same standard terminology but stating that in substantial gen- eration the resolution does take place all the way down to prime matter.59 In his commentaries on Book One of De anima Hennon states that the science of"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12020,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 29"
+   ],
+   "context": "Pico’s thesis is thus in agreement with Thomas’s view, but these qualifications regarding ‘reason’ and the ‘rational soul’ are necessary and without them it will be difficult to understand this thesis. Thesis 29 states that in a substantial generation the dissolution (resolutio – the process of tracing the results by moving ‘backwards’ from the effect to the cause) reaches all the way to prime matter.144 It can be found in Thomas’s com- mentary on Aristotle’s Metaphysics, Book 8, Lect. 4, where, just after consider-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 4089,
+   "method": "latin_quote",
+   "evidence": [
+    "fit resolutio usque ad",
+    "generatione substantiali fit resolutio",
+    "resolutio usque ad materiam",
+    "usque ad materiam primam"
+   ],
+   "context": "movent se per accidens movendo medium per se”, but without mentioning a vacuum. 59 Bakker, ‘Natural Philosophy and Metaphysics in Late Fifteenth-Century Paris. I’, p. 148: “Conclusio responsalis: in corrupcione substanciali non est necesse fieri resolucionem usque ad materiam primam tam ex parte formarum substancialium quam accidenta- lium.” Pico, 900 Theses, p. 226: “In generatione substantiali fit resolutio usque ad materiam primam.” And see also Johannes le Damoisiau’s account of Book One of De generatione et corruptione; for the table of contents of these commentaries on Aristotle see Bakker,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12040,
+   "method": "latin_quote",
+   "evidence": [
+    "fit resolutio usque ad",
+    "generatione substantiali fit resolutio",
+    "resolutio usque ad materiam",
+    "usque ad materiam primam"
+   ],
+   "context": "dicimur esse liberi arbitrii. Si tamen rationale a rationis potentia sumeretur, praedicta auctoritas significaret rationem esse primam liberi arbitrii originem, non autem imme- diatum electionis principium.” 144 Pico, 900 Theses, p. 226: “In generatione substantiali fit resolutio usque ad materiam primam.” According to Caroti, this thesis can be found in many commentaries on De gen- eratione et corruptione from the fourteenth and fifteenth centuries; the idea behind it can also be found in the Auctoritates Aristotelis. See Caroti, ‘Note sulle fonti medievali di Pico"
+  }
+ ],
+ "farmer_crossrefs": [
+  "16.1",
+  "16.2",
+  "2.23",
+  "2.25",
+  "2.43",
+  "2>12",
+  "2>7",
+  "2>70"
+ ]
+}

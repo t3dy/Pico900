@@ -1,0 +1,54 @@
+{
+ "thesis_id": "28.25",
+ "latin": "Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit.",
+ "farmer_latin_line": 18066,
+ "mentions": [
+  {
+   "work": "howlett2021",
+   "line": 7698,
+   "method": "latin_quote",
+   "evidence": [
+    "est bresith id est",
+    "principio creauit ac si",
+    "bresith id est in",
+    "dixisset in sapientia creauit"
+   ],
+   "context": "74. Pico, Commentary (1986, 82): ‘…the second seﬁroth, that is, numbering, which proceeds from the First Father and is in itself the ﬁrst ideal wisdom.’ 75. ‘Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit.’ (1998, 356–57). 76. 1965a, 170. 77. Ogren (2016, 16)."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2368,
+   "method": "latin_quote",
+   "evidence": [
+    "est bresith id est",
+    "principio creauit ac si",
+    "bresith id est in",
+    "dixisset in sapientia creauit"
+   ],
+   "context": "CONCLUSIONES XXV and XXVI Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit. Quod dixit anchelos chaldeus becadmin, id est cum aeternis uel peraeterna, triginta duas uias sapientiae intellexit."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2365,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIONES XXV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIONES XXV and XXVI Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9123,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones xxv"
+   ],
+   "resolved": false,
+   "context": "It is certainly noteworthy that Pico's first choice is the Platonic or Philonic ideas23 rather than the thirty-two paths of wisdom which appear in the first sentence of the Book of Creation. But it is even more important that this thesis, being an obvious sequel to Conclusiones xxv and xxvi secundum secretam doctrinam sapientum Hebraeorum Cabalistarum,24 presupposes the equation of Beginning with Wisdom. This equation, as we have seen in Chapter 14, links the symbolism of the ten sefirot with Pico's Kabbalistic"
+  }
+ ],
+ "farmer_crossrefs": [
+  "9>19"
+ ]
+}

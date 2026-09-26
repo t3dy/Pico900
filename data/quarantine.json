@@ -1,0 +1,71 @@
+{
+ "_note": "Fields proven wrong by audit. integrity_gate.py grades them 'quarantined' and the build never renders them. Remove an item only when a verified replacement exists.",
+ "items": [
+  {
+   "id": "H.1.1",
+   "field": "latin",
+   "reason": "Latin reconstructed, differs from Farmer 4>8 (A1 s2a)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.4",
+   "field": "latin",
+   "reason": "Invented thesis; not in the 900 (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.4",
+   "field": "translation",
+   "reason": "Invented thesis; not in the 900 (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.6",
+   "field": "latin",
+   "reason": "Inverted: reverses 'sine ... paneitatis anihilatione' (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.6",
+   "field": "translation",
+   "reason": "Inverted: reverses 'sine ... paneitatis anihilatione' (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.9",
+   "field": "latin",
+   "reason": "Not a thesis of the 900; states the opposite of 4>1 (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.9",
+   "field": "translation",
+   "reason": "Not a thesis of the 900; states the opposite of 4>1 (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.10",
+   "field": "latin",
+   "reason": "Latin invented; English adds 'is true' (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "H.1.10",
+   "field": "translation",
+   "reason": "Latin invented; English adds 'is true' (A1 s2a, s3)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "S4.C001",
+   "field": "citations",
+   "reason": "Fabricated 'Farmer' quotation and title (A1 s2b-4)",
+   "audit": "A1_conclusions.md"
+  },
+  {
+   "id": "S4.C002",
+   "field": "citations",
+   "reason": "Fabricated 'Farmer' quotation (A1 s2b-4)",
+   "audit": "A1_conclusions.md"
+  }
+ ]
+}

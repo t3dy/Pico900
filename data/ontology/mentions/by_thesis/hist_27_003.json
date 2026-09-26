@@ -1,0 +1,27 @@
+{
+ "thesis_id": "27.3",
+ "latin": "Anima in corpore, mens in anima, in mente uerbum, tum horum pater deus.",
+ "farmer_latin_line": 17248,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1397,
+   "method": "latin_quote",
+   "evidence": [
+    "in corpore mens in",
+    "corpore mens in anima",
+    "mente uerbum tum horum",
+    "anima in corpore mens"
+   ],
+   "context": "könnte, liefert Cadafaz de Matos, Giovanni Pico, S. 271-277. 80 Pico, Conclusio secundum Porphyrium, 22.12. (S. 308), Conclusio paradoxa..., 3>49. (S. 412), Conclusio secundum priscam doctrinam Mercurii Trismegisti Aegyptii, 27.3. (S. 340): Anima in corpore, mens in anima, in mente verbum, tum horum pater deus. Brought to you by | UCL - University College London Authenticated"
+  }
+ ],
+ "farmer_crossrefs": [
+  "20.3",
+  "21.4",
+  "21.5",
+  "21.6",
+  "27.5",
+  "7.1"
+ ]
+}

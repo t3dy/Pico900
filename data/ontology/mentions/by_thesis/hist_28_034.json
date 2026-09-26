@@ -1,0 +1,43 @@
+{
+ "thesis_id": "28.34",
+ "latin": "Qui intellexerit cur sit dictum quod Moyses abscondit faciem suam, et quod Ezechias uertit facies suas ad parietem, sciet quae esse debeat orantis habitudo et dispositio.",
+ "farmer_latin_line": 18190,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2639,
+   "method": "latin_quote",
+   "evidence": [
+    "esse debeat orantis habitudo",
+    "cur sit dictum quod",
+    "qui intellexerit cur sit",
+    "facies suas ad parietem"
+   ],
+   "context": "CONCLUSIO XXXIV Qui intellexerit cur sit dictum quod Moyses abscondit faciem suam, et quod Ezechias uertit facies suas ad parietem, seiet quae esse debeat orantis habitudo et dispositio."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2636,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXXIV Qui intellexerit cur sit dictum quod Moyses abscondit faciem suam, et quod"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3140,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiv"
+   ],
+   "resolved": false,
+   "context": "represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because he read it with the eyes of Recanati that Pico understood the Zohar so well. We have seen not only that all such theses as argue Pico's acquaintance with the Zohar can be derived from Recanati, but also that about half of"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>35",
+  "26.5"
+ ]
+}

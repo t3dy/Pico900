@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pico's Intellectual Sources — Pico900</title>
+    <link rel="stylesheet" href="/Pico900/css/edition.css">
+    <style>
+        .sources-header {
+            margin: 2rem 0;
+            padding: 2rem;
+            background: linear-gradient(135deg, #f5f5f0 0%, #fffbf7 100%);
+            border-left: 4px solid #8B7355;
+        }
+
+        .sources-header h1 {
+            font-size: 2.2rem;
+            margin: 0 0 0.5rem 0;
+            font-weight: 600;
+            color: #2c2c2c;
+        }
+
+        .sources-header p {
+            font-size: 1rem;
+            color: #666;
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        .controls {
+            margin: 2rem 0;
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .sort-control, .filter-control {
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+            font-size: 0.95rem;
+        }
+
+        .sort-control label, .filter-control label {
+            font-weight: 600;
+            color: #333;
+        }
+
+        select, .filter-buttons {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.95rem;
+        }
+
+        select:hover, select:focus {
+            border-color: #999;
+        }
+
+        .filter-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .filter-btn:hover {
+            border-color: #999;
+            background: #f5f5f5;
+        }
+
+        .filter-btn.active {
+            background: #333;
+            color: white;
+            border-color: #333;
+        }
+
+        .sources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .source-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            padding: 1.5rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .source-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--tradition-color);
+            transition: height 0.3s ease;
+        }
+
+        .source-card:hover {
+            border-color: #999;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transform: translateY(-2px);
+        }
+
+        .source-card:hover::before {
+            height: 6px;
+        }
+
+        .card-header {
+            margin-bottom: 0.75rem;
+        }
+
+        .tradition-tag {
+            display: inline-block;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            background: var(--tradition-color);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            margin-bottom: 0.5rem;
+        }
+
+        .source-author {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #2c2c2c;
+            margin: 0.5rem 0;
+        }
+
+        .source-work {
+            font-size: 0.95rem;
+            font-style: italic;
+            color: #555;
+            margin: 0.25rem 0;
+        }
+
+        .source-dates {
+            font-size: 0.85rem;
+            color: #999;
+            margin-bottom: 1rem;
+        }
+
+        .source-blurb {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #555;
+            margin-bottom: 1rem;
+        }
+
+        .source-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+            font-size: 0.85rem;
+            color: #999;
+        }
+
+        .conclusion-count {
+            background: #f5f5f5;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-weight: 600;
+            color: #555;
+        }
+
+        .priority-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+
+        .priority-CORE {
+            background: #2c3e50;
+            color: white;
+        }
+
+        .priority-MAJOR {
+            background: #3498db;
+            color: white;
+        }
+
+        .priority-SECONDARY {
+            background: #95a5a6;
+            color: white;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: #999;
+            font-size: 1.1rem;
+        }
+
+        .sources-footer {
+            margin-top: 3rem;
+            padding: 2rem;
+            background: #f9f9f9;
+            border-left: 4px solid #999;
+            border-radius: 4px;
+        }
+
+        .sources-footer h3 {
+            margin: 0 0 1rem 0;
+            font-size: 1.1rem;
+        }
+
+        .sources-footer p {
+            margin: 0.5rem 0;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #666;
+        }
+
+        @media (max-width: 768px) {
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .sort-control, .filter-control {
+                flex-direction: column;
+            }
+
+            select, .filter-buttons {
+                width: 100%;
+            }
+
+            .sources-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .sources-header h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="site-nav">
+        <div class="nav-container">
+            <a href="/Pico900/" class="nav-logo">Pico900</a>
+            <ul class="nav-links">
+                <li><a href="/Pico900/">Conclusions</a></li>
+                <li><a href="/Pico900/sources/" class="active">Sources</a></li>
+                <li><a href="/Pico900/about/">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="content">
+        <div class="sources-header">
+            <h1>Pico's Intellectual Sources</h1>
+            <p>The complete library of works, authors, and traditions that shaped Giovanni Pico della Mirandola's philosophical writings. Explore 87 major sources across eight traditions: Scholastic, Platonic, Aristotelian, Islamic, Kabbalistic, Patristic, Hermetic, and Scientific.</p>
+        </div>
+
+        <div class="controls">
+            <div class="sort-control">
+                <label for="sort-select">Sort by:</label>
+                <select id="sort-select">
+                    <option value="tradition">Tradition</option>
+                    <option value="priority">Priority</option>
+                    <option value="conclusions">Conclusions Linked</option>
+                    <option value="author">Author Name</option>
+                </select>
+            </div>
+            <div class="filter-control">
+                <label>Filter by tradition:</label>
+                <div class="filter-buttons" id="filter-buttons"></div>
+            </div>
+        </div>
+
+        <div class="sources-grid" id="sources-grid"></div>
+
+        <div class="sources-footer">
+            <h3>About These Sources</h3>
+            <p><strong>Organization:</strong> Sources are organized by philosophical tradition, not chronologically. This reflects how Pico synthesized different intellectual lineages.</p>
+            <p><strong>Priority Levels:</strong> <span class="priority-badge priority-CORE">CORE</span> sources are foundational to Pico's thought; <span class="priority-badge priority-MAJOR">MAJOR</span> sources significantly influenced his work; <span class="priority-badge priority-SECONDARY">SECONDARY</span> sources provided supplementary ideas or represent later developments in traditions Pico engaged.</p>
+            <p><strong>Conclusions Linked:</strong> The number of 900 Conclusions that reference or engage with each source.</p>
+            <p><strong>Scholarship:</strong> Each source entry cites the modern scholars (Copenhaver, Wirszubski, Howlett, etc.) who have written on Pico's engagement with that source.</p>
+        </div>
+    </main>
+
+    <script>
+        // Data will be injected by build script
+        const sourcesData = {SOURCES_JSON_PLACEHOLDER};
+
+        const traditions = sourcesData.traditions;
+        let currentFilter = 'all';
+        let currentSort = 'tradition';
+
+        // Initialize filter buttons
+        function initializeFilters() {
+            const container = document.getElementById('filter-buttons');
+
+            // All button
+            const allBtn = document.createElement('button');
+            allBtn.className = 'filter-btn active';
+            allBtn.textContent = 'All';
+            allBtn.dataset.tradition = 'all';
+            allBtn.addEventListener('click', () => filterByTradition('all'));
+            container.appendChild(allBtn);
+
+            // Tradition buttons
+            traditions.forEach(tradition => {
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn';
+                btn.textContent = tradition.label;
+                btn.dataset.tradition = tradition.id;
+                btn.addEventListener('click', () => filterByTradition(tradition.id));
+                container.appendChild(btn);
+            });
+        }
+
+        function filterByTradition(traditionId) {
+            currentFilter = traditionId;
+
+            // Update active button
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.dataset.tradition === traditionId) {
+                    btn.classList.add('active');
+                }
+            });
+
+            renderCards();
+        }
+
+        document.getElementById('sort-select').addEventListener('change', (e) => {
+            currentSort = e.target.value;
+            renderCards();
+        });
+
+        function getFilteredSources() {
+            let filtered = [];
+
+            if (currentFilter === 'all') {
+                traditions.forEach(t => filtered.push(...t.sources));
+            } else {
+                const tradition = traditions.find(t => t.id === currentFilter);
+                if (tradition) {
+                    filtered = tradition.sources;
+                }
+            }
+
+            return filtered;
+        }
+
+        function sortSources(sources) {
+            const sorted = [...sources];
+
+            switch(currentSort) {
+                case 'priority':
+                    const priorityOrder = { CORE: 0, MAJOR: 1, SECONDARY: 2 };
+                    sorted.sort((a, b) => priorityOrder[a.priority] - priorityOrder[b.priority]);
+                    break;
+                case 'conclusions':
+                    sorted.sort((a, b) => b.conclusions_linked - a.conclusions_linked);
+                    break;
+                case 'author':
+                    sorted.sort((a, b) => a.name.localeCompare(b.name));
+                    break;
+                case 'tradition':
+                default:
+                    // Keep original order (by tradition as displayed)
+                    break;
+            }
+
+            return sorted;
+        }
+
+        function renderCards() {
+            const container = document.getElementById('sources-grid');
+            const sources = getFilteredSources();
+            const sorted = sortSources(sources);
+
+            if (sorted.length === 0) {
+                container.innerHTML = '<div class="no-results">No sources match your filter.</div>';
+                return;
+            }
+
+            container.innerHTML = '';
+            sorted.forEach(source => {
+                const tradition = traditions.find(t =>
+                    t.sources.some(s => s.id === source.id)
+                );
+
+                const card = document.createElement('div');
+                card.className = 'source-card';
+                card.style.setProperty('--tradition-color', tradition.color);
+                card.innerHTML = `
+                    <div class="card-header">
+                        <div class="tradition-tag">${tradition.label}</div>
+                    </div>
+                    <div class="source-author">${source.name}</div>
+                    <div class="source-work">${source.work}</div>
+                    <div class="source-dates">${source.dates}</div>
+                    <div class="source-blurb">${source.blurb}</div>
+                    <div class="source-meta">
+                        <span class="conclusion-count">${source.conclusions_linked} conclusions</span>
+                        <span class="priority-badge priority-${source.priority}">${source.priority}</span>
+                    </div>
+                `;
+
+                card.addEventListener('click', () => {
+                    window.location.href = `/Pico900/sources/${source.id}/`;
+                });
+
+                container.appendChild(card);
+            });
+        }
+
+        // Initialize
+        initializeFilters();
+        renderCards();
+    </script>
+</body>
+</html>

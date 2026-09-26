@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.22",
+ "latin": "Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium duo sunt currus ordinandi, ita ut ex secunda, tertia, quarta, quinta, fiat unus currus, et sunt quatuor phylacteria quae induit Vau; et ex sexta, septima, octaua, et nona fit secundus currus, et sunt phylacteria quae induit ultima He.",
+ "farmer_latin_line": 17959,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2231,
+   "method": "latin_quote",
+   "evidence": [
+    "ex sexta septima octaua",
+    "que induit uau et",
+    "ordinandi ita ut ex",
+    "sunt quatuor phylacteria que"
+   ],
+   "context": "CONCLUSIO XXII Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium, duo sunt currus ordinandi, ita ut ex secunda, tertia, quarta, quinta fiat unus currus, et sunt quatuor phylacteria quae induit Vau; et ex sexta, septima, octaua et nona fit secundus currus, et sunt"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2228,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXII"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XXII Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9666,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxii"
+   ],
+   "resolved": false,
+   "context": "19 Ibid., p. 92. 20 Conclusiones philosophicae secundum propriam opinionem, Conclusio lxxx {Opera, p. 89): \"Si qua est lingua prima et non causalis, illam esse Hebraicam multis patet coniecturis.\" See also the Conclusiones Magicae, Conclusio xxii (Opera, p. 105): \"Nulla nomina ut significatiua, et in quantum nomina sunt, singula et per se sumpta, in Magico opere uirtutem habere possunt, nisi sint Hebraica, uel inde proxime deriuata.\""
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>2"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "thesis_id": "28.30",
+ "latin": "Nullus angelus habens sex alas unquam transformatur.",
+ "farmer_latin_line": 18086,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2523,
+   "method": "latin_quote",
+   "evidence": [
+    "sex alas unquam transformatur",
+    "nullus angelus habens sex",
+    "habens sex alas unquam",
+    "angelus habens sex alas"
+   ],
+   "context": "CONCLUSIO X X X Nullus angelus habens sex alas unquam transformatur. Though the ultimate source of this thesis is undoubtedly the Zohar, part I, fol. 34v, there is no need to look for its immediate source beyond Recanati,"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3180,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxx"
+   ],
+   "resolved": false,
+   "context": "Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in"
+  }
+ ],
+ "farmer_crossrefs": [
+  "28.28"
+ ]
+}

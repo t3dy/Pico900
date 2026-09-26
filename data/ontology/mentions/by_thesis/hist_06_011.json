@@ -1,0 +1,70 @@
+{
+ "thesis_id": "6.11",
+ "latin": "Dato uacuo, si aliquid in eo moueatur, in instanti mouebitur.",
+ "farmer_latin_line": 12790,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 4072,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 11"
+   ],
+   "context": "of suggested topics for discussion. Thus, for instance, in Hennon’s account of Book Four of Aristotle’s Physica we have discussions of local movement in a vacuum and of the movement of heavy and light bodies in a vacuum; Pico mentions some of these issues in thesis 11 according to Giles of Rome and in thesis 12 according to Averroës.58 In his commentaries on Book One of De generatione et corruptione Hennon deals with substantial corruption, which, according to him, does not necessarily occur all the way down to prime matter."
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15969,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 8–11"
+   ],
+   "context": "These 11 theses can clearly be divided into two groups: the first, theses 1–7, deal with theological issues such as the status of theology as a science and angelology; and the second, theses 8–11, deal with issues pertaining to natural philosophy such as the sense of taste, heat or vacuum. Yet often even these natural issues are taken from theological contexts where they are discussed as examples."
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16900,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 11"
+   ],
+   "context": "ordinated sciences is a real possibility for Giles. He further examines the differ- ences between subordinating and subordinated sciences,75 much against the spirit of Pico’s thesis. Thesis 11 states that assuming the existence of vacuum, in case that some- thing is moved inside it, it will be moved instantaneously.76 This is discussed by Giles in his Reportatio of his commentary on the Sentences, 1, q. 6, entitled: ‘whether the movement of an angel is measured by time’ (utrum motus angeli"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16994,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 11"
+   ],
+   "context": "cannot be reflected in a short thesis, thesis 6 brings into relief Pico’s unique for- mulation. For Pico attributes to Giles a very standard Aristotelian view regard- ing the sense of taste in thesis 8 is difficult to explain, just as in the case of thesis 11, where a standard account of movement in vacuum which is obviously taken from Averroës commenting on Aristotle’s Physics. The discussion of these 115 theses, explicitly taken from six scholastic mas- ters is by no means a conclusive account of scholastic philosophy present in"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 4085,
+   "method": "latin_quote",
+   "evidence": [
+    "si aliquid in eo",
+    "dato uacuo si aliquid",
+    "uacuo si aliquid in",
+    "in eo moueatur in"
+   ],
+   "context": "58 Ibid., p. 143: “Dubitatur tercio utrum corpus in vacuo positum successive moveatur ad ubi”; “… utrum, si vacuum esset, grave vel leve posset moveri localiter.” Pico, 900 Theses, p. 248: “Dato vacuo, si aliquid in eo moveatur, in instanti movebitur”; p. 254: “Gravia et levia movent se per accidens movendo medium per se”, but without mentioning a vacuum. 59 Bakker, ‘Natural Philosophy and Metaphysics in Late Fifteenth-Century Paris. I’, p. 148: “Conclusio responsalis: in corrupcione substanciali non est necesse fieri resolucionem"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16921,
+   "method": "latin_quote",
+   "evidence": [
+    "si aliquid in eo",
+    "dato uacuo si aliquid",
+    "uacuo si aliquid in",
+    "in eo moueatur in"
+   ],
+   "context": "alternata modo sensibili et per applicationem ad materiam, ideo una est fere univoca alteri.” 75 Ibid., ff. f7v–f8r. 76 Pico, 900 Theses, p. 248: “Dato vacuo, si aliquid in eo moveatur, in instanti movebitur.” According to Caroti, this thesis is commonly held as a doctrine of Aristotle; however, he provides a citation from the Auctoritates Aristotelis which is not identical to what we have in Pico. See Caroti, ‘Note sulle fonti medievali di Pico della Mirandola’, pp. 68–69, and n. 31"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.37"
+ ]
+}

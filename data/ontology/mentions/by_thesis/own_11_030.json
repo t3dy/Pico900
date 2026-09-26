@@ -1,0 +1,21 @@
+{
+ "thesis_id": "11>30",
+ "latin": "Necessario habent concedere Cabaliste secundum sua principia quod uerus Messias futurus est talis, ut de eo uere dicatur quod est Deus et dei filius.",
+ "farmer_latin_line": 27017,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 3180,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxx"
+   ],
+   "resolved": false,
+   "context": "Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>28",
+  "11>39"
+ ]
+}

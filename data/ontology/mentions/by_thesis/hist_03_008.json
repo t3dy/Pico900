@@ -1,0 +1,31 @@
+{
+ "thesis_id": "3.8",
+ "latin": "Esse non est de quiditate dei, sed dicitur de eo in secundo modo.",
+ "farmer_latin_line": 12079,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13642,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 8"
+   ],
+   "context": "notion in another text of Francis? Could he just cite from memory and made a mistake, or could it be a textual error, in which a ‘non’ was omitted between ‘diffinitio’ and ‘adaequat’? These questions must remain open for the moment. In thesis 8 we find that existence is not about the quiddity of God but rather it is said about God in a second mode.54 The relation between ‘being’, ‘quid- dity’ and the divine essence is discussed in the Commentary on the Sentences 1, Prologue, q. 6, entitled: ‘whether “being” can be said in a quidditative manner"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13668,
+   "method": "latin_quote",
+   "evidence": [
+    "esse non est de",
+    "de quiditate dei sed",
+    "dei sed dicitur de",
+    "eo in secundo modo"
+   ],
+   "context": "Overall, Pico shows a familiarity with, and competent understanding of several of Francis’s complicated metaphysical and theological issues, thereby 54 Pico, 900 Theses, p. 234: “Esse non est de quiditate dei, sed dicitur de eo in secundo modo.” 55 Francis of Mayronnes, Scriptum super Primum Sententiarum, pp. a8r–b1r. This was indi- cated by Farmer; see Pico, 900 Theses, p. 235. 56 Ibid., p. b1r: “Ad questionem igitur dico quod ens non dicitur in quidditate de divina essen-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.35"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "conclusion_id": "S7.C114",
+  "section": "S7",
+  "section_name": "Secundum Hebraeos - Kabbalah & Jewish Philosophy",
+  "subsection": "Conclusiones secundum opinionem propriam: Magia & Cabala",
+  "type": "personal",
+  "latin_incipit": "Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit",
+  "latin_full": "Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit",
+  "english_translation": "Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit",
+  "english_full": "Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit",
+  "translation_source": "Farmer 1998",
+  "charge": "[TO_SOURCE]",
+  "defense": "[TO_SOURCE]",
+  "scholar_citations": [
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "Christian Kabbalism of the Renaissance... Pico's role was especially important because he used the Jewish Kabbala for the confirmation of Christian theology",
+      "status": "verified",
+      "verified": true
+    },
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "Pico's Kabbalistic thought synthesized multiple Jewish mystical traditions through the work of Mithridates' translations",
+      "status": "verified",
+      "verified": true
+    }
+  ],
+  "heretical_flag": false,
+  "is_condemned": false,
+  "tags": [
+    "Kabbalah",
+    "magic",
+    "divine names",
+    "gematria",
+    "letter combination"
+  ],
+  "status": "standardized",
+  "updated_date": "2026-09-26T02:08:24.286245",
+  "exegesis": "Pico's conclusion on Magic within the Kabbalah tradition."
+}

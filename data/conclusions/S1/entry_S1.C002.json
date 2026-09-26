@@ -1,0 +1,64 @@
+{
+  "conclusion_id": "S1.C002",
+  "section": "S1",
+  "order": 2,
+  "latin_incipit": "[T2 — Emanation]",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "All reality emanates from the One in graduated descent.",
+    "source": "template_S1",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "Emanation as procession without loss or diminishment from source",
+  "key_concepts": [
+    "Proodos",
+    "Emanation",
+    "Procession",
+    "First cause",
+    "Generation"
+  ],
+  "plotinian_parallel": "Enneads 5.1.6 (Procession as natural outflow), 4.8.6 (Soul's generation)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Proclus"
+  ],
+  "charge": "Pico's claim that The One transcends being and intellect potentially denies the Christian doctrine of God's knowability and sustaining power.",
+  "defense": "Defends via Pseudo-Dionysius and Neoplatonic apophatic theology: God's transcendence compatible with Christian doctrine. The One known through negation, not affirmation.",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Brian P Copenhaver",
+      "work": "Pico della Mirandola on Trial",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "emanation",
+    "procession",
+    "ontology"
+  ],
+  "status": "standardized",
+  "notes": "Pico must reconcile Plotinian emanation with Christian creation doctrine. Check whether Pico distinguishes emanation (eternal) from creation (temporal).",
+  "created_from_cluster": false,
+  "_sourcing": {
+    "cluster": "T1",
+    "theme": "The One and Emanation",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-26T02:19:54.714419",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Intellect within the Neoplatonism tradition."
+}

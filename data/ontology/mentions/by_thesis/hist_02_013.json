@@ -1,0 +1,39 @@
+{
+ "thesis_id": "2.13",
+ "latin": "Sacramenta noue legis sunt causa gratiae, non solum sine qua non, sed per quam.",
+ "farmer_latin_line": 11426,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10811,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 13"
+   ],
+   "context": "against the opposite view, represented in this case, for instance, by Ockham and Pecham, while committing Thomas to a position which is perhaps just beyond his intentions. We also notice the different terminology used by Pico. Thesis 13 is a declaration concerning the sacraments of the New Testament. It states that these sacraments are the cause of grace not only as an indispen- sable cause, but also as an efficient cause.52 This topic is discussed in Thomas’s commentary on the Sentences, 4, d. 1, q. 1, a. 4. Thomas examines here in what"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10837,
+   "method": "latin_quote",
+   "evidence": [
+    "non solum sine qua",
+    "solum sine qua non",
+    "qua non sed per",
+    "sunt causa gratie non"
+   ],
+   "context": "tenente, et intellectu apprehendente, et in voluntate fruente, et tamen principaliter in actu voluntatis.” 52 Pico, 900 Theses, p. 222: “Sacramenta nove legis sunt causa gratiae, non solum sine qua non, sed per quam.” 53 Thomas Aquinas, Scriptum super Sententiis, 4, d. 1, q. 1, a. 4 [120]: “Quidam enim dicunt quod [sacramenta novae legis] non sunt causae quasi facientes aliquid in anima, sed cau-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.14",
+  "2.20",
+  "2>3",
+  "4.12",
+  "4.14",
+  "4.15",
+  "4>1",
+  "4>10",
+  "4>2"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "thesis_id": "7>6",
+ "latin": "Nihil magis nociuum theologo quam frequens et assidua in mathematicis Euclidis exercitatio.",
+ "farmer_latin_line": 23713,
+ "mentions": [
+  {
+   "work": "cassirer1942",
+   "line": 1099,
+   "method": "latin_quote",
+   "evidence": [
+    "quam frequens et assidua",
+    "magis nociuum theologo quam",
+    "frequens et assidua in",
+    "theologo quam frequens et"
+   ],
+   "context": "GIOVANNI PICO DELLA MIRANDOLA 143 nor any specificvalue.30 And for this reason he concludes that it is harmful to real and genuine knowledge of God: \"Nihil magis nocivum theologo quam frequens et assidua in mathematicisEu- clidis exercitatio.\"31 So far as the empirical knowledge of nature is concerned,Pico"
+  },
+  {
+   "work": "mandosio2012",
+   "line": 411,
+   "method": "latin_quote",
+   "evidence": [
+    "quam frequens et assidua",
+    "magis nociuum theologo quam",
+    "frequens et assidua in",
+    "theologo quam frequens et"
+   ],
+   "context": "55 Dee (1964), fol. 26v, pp. 212–213: ‘Numeri nostri hanc habent Dignitatem: Ut illorum violare Leges, Peccatum sit contra Naturæ Sapientiam: quæ, eisdem nos docere velit, (in Mysteriis suis maximis examinandis) quibus certis Limitibus Statisque, Illi, devinciantur.’ See also Dee’s letter to William Cecil (above, note 24). 56 See above, note 48. 57 Pico (1998), p. 468 (Concl. math., 6): ‘Nihil magis nocivum theologo quam frequens et assidua in mathematicis Euclidis exercitatio.’ Ibid., p. 468 (Concl. math., 4): ‘Sicut subjecta mathematicorum, si absolute accipiantur, intellectum nihil perﬁciunt, ita si ut imagines accipiantur superiorum, immediate nos ad intelligibilium speculationem manu du"
+  },
+  {
+   "work": "selfknowledge_notes",
+   "line": 1237,
+   "method": "farmer_id",
+   "evidence": [
+    "7>6"
+   ],
+   "context": "Radke-Uhlmann’s monograph on number theory in Platonism, 2003: 488–496, 594–595. Pico himself had accor- ded a significant place to Pythagorean and Platonic mathematics in his project, while being rather contemptuous of Euclid: “Nihil magis nocivum theologo quam frequens et assidua in mathematicis Euclidis exercitatio” (Con- clusiones 7>6, Farmer 1998: 468). This contravenes the established commentary tradition on Euclid’s Elements within Late Antique Platonism. However, since Pico owned a Greek manuscript of Proclus’ Commentary on the Elements of Euclid (Kibre 1966: 184, no. 489), it is rather likely that he specifically referred to Euclidean mathe- matics as practised by the moderni, whom "
+  },
+  {
+   "work": "selfknowledge_notes",
+   "line": 1236,
+   "method": "latin_quote",
+   "evidence": [
+    "quam frequens et assidua",
+    "magis nociuum theologo quam",
+    "frequens et assidua in",
+    "theologo quam frequens et"
+   ],
+   "context": "71 The problem of the relationship between Platonic mathematics and self-knowledge has been addressed in Radke-Uhlmann’s monograph on number theory in Platonism, 2003: 488–496, 594–595. Pico himself had accor- ded a significant place to Pythagorean and Platonic mathematics in his project, while being rather contemptuous of Euclid: “Nihil magis nocivum theologo quam frequens et assidua in mathematicis Euclidis exercitatio” (Con- clusiones 7>6, Farmer 1998: 468). This contravenes the established commentary tradition on Euclid’s Elements within Late Antique Platonism. However, since Pico owned a Greek manuscript of Proclus’ Commentary on the Elements of Euclid (Kibre 1966: 184, no. 489), it is "
+  }
+ ],
+ "farmer_crossrefs": [
+  "7>7",
+  "7>8",
+  "7>9"
+ ]
+}

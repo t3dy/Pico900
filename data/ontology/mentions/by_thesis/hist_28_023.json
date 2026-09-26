@@ -1,0 +1,35 @@
+{
+ "thesis_id": "28.23",
+ "latin": "Supra proprietatem penitentiae non est utendum uerbo dixit.",
+ "farmer_latin_line": 17966,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2294,
+   "method": "latin_quote",
+   "evidence": [
+    "non est utendum uerbo",
+    "est utendum uerbo dixit",
+    "penitentie non est utendum",
+    "supra proprietatem penitentie non"
+   ],
+   "context": "CONCLUSIO XXIII Supra proprietatem penitentiae non est utendum uerbo dixit. Cf. Recanati, fol. 6rb-va:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2291,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXIII Supra proprietatem penitentiae non est utendum uerbo dixit."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>11",
+  "11>31",
+  "11>45",
+  "28.1"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "thesis_id": "5.2",
+ "latin": "Paternitas est principium generandi in patre.",
+ "farmer_latin_line": 12486,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15330,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 2"
+   ],
+   "context": "322 chapter 10 Thesis 2 brings us to Trinitarian theology. We find there that paternity is the principle of producing in the Father.9 It comes from Henry’s Quodlibet III, q. 3, where Henry argues that the Father’s own characteristic feature, pater- nity, is the reason of production, not the divine essence, although one can say"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15357,
+   "method": "latin_quote",
+   "evidence": [
+    "paternitas est principium generandi",
+    "principium generandi in patre",
+    "est principium generandi in"
+   ],
+   "context": "solus Deus docere hanc scientiam menti imprimendo lumen fidei, vel aliquam aliam illu- strationem in ea faciendo, quae ut infra dicetur sufficiat ad veritates credibilium menti humanae manifestandas.” 9 Pico, 900 Theses, p. 242: “Paternitas est principium generandi in patre.” 10 Henry of Ghent, Quodlibet III, q. 3, ed. Badius (Paris, 1518; repr. Louvain, 1961), f. 40r: “… utrum ratio generandi in patre sit divina essentia, vel proprietas eius ut paternitas, vel utrumque … Circa primum arguitur quod ratio generandi in patre esset paternitas,"
+  }
+ ],
+ "farmer_crossrefs": []
+}

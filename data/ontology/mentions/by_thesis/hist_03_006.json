@@ -1,0 +1,57 @@
+{
+ "thesis_id": "3.6",
+ "latin": "Nulla diffinitio adaequat diffinitum.",
+ "farmer_latin_line": 11990,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13399,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 6"
+   ],
+   "context": "Pico and Francis of Mayronnes 281 The next two theses seem to come from the Tractatus formalitatum. Let us begin with thesis 7 first and then go back and discuss thesis 6. Thesis 7 states that plurality of formalities stands with real identity.34 These issues are dis- cussed in the Tractatus formalitatum secundum doctrinam Francisci Mayronis. While discussing in the very beginning of the tractate, ‘whether those things"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13512,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 6"
+   ],
+   "context": "This in fact is what we have in Pico’s thesis but in slightly different formulation and focus. Coming back to thesis 6 we find that there is no definition which is adequate to the thing it defines.45 In the second conclusion in the first article we seem to come close to what we have in this thesis. We find here that ‘formality’ is not definable reason of an adequate thing; Francis presents two analogies to"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13691,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 6"
+   ],
+   "context": "and that of Francis’s texts. These differences can be explained by the abbre- viated nature of the theses and by the fact that they reflect Pico’s own under- standing (and to some extent interpretation) and need to change the focus of the original discussion. In the case of thesis 6 we do seem to have a problem since the opposite idea is found in Francis’s writings. Such an anomaly ought to be a subject for further research."
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13535,
+   "method": "latin_quote",
+   "evidence": [
+    "nulla diffinitio adequat",
+    "diffinitio adequat diffinitum"
+   ],
+   "context": "44 Ibid., p. 268C: “… in divinis ubi attributa multiplicantur sive plurificantur et formalitas multiplicatur, tamen res divine essentie non multiplicantur; igitur relinquitur quod cum distinctione formali stat identitas realis aut essentialis.” 45 Pico, 900 Theses, p. 232: “Nulla diffinitio adaequat diffinitum.” ## Page 295"
+  }
+ ],
+ "farmer_crossrefs": [
+  "13.1",
+  "2>2",
+  "2>3",
+  "2>46",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "3>7",
+  "7.41"
+ ]
+}

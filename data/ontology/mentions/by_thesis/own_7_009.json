@@ -1,0 +1,26 @@
+{
+ "thesis_id": "7>9",
+ "latin": "Per arithmeticam non materialem, sed formalem, habetur optima uia ad prophetiam naturalem.",
+ "farmer_latin_line": 23724,
+ "mentions": [
+  {
+   "work": "mandosio2012",
+   "line": 313,
+   "method": "latin_quote",
+   "evidence": [
+    "formalem habetur optima uia",
+    "materialem sed formalem habetur",
+    "sed formalem habetur optima",
+    "uia ad prophetiam naturalem"
+   ],
+   "context": ". . . ’ 32 Ibid. (same conclusion): ‘Possibile est ut pars rationalis animæ nostræ . . . ad hoc perveniat, ut sine conjunctione ad phantasmata discurrat et operetur.’ 33 Ibid., p. 380 (Concl. phil., 31): ‘Non dari species intelligibiles a phantasmatibus abstractas . . . ut veram . . . sententiam asserimus.’ See Farmer’s commentary, ibid., pp. 102–105. 34 Ibid., p. 468 (Concl. math., 9): ‘Per arithmeticam non materialem, sed formalem, habetur optima via ad prophetiam naturalem.’ 35 See the tenth mathematical conclusion, quoted above (note 21). 36 Thus, Pico would not have used the word ‘quatercentenary’, as in John Dee Quatercentenary Conference, to speak of a four-hundred year period, but on"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>57",
+  "3>26",
+  "3>7",
+  "5>5",
+  "9>23"
+ ]
+}

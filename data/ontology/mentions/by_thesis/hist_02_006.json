@@ -1,0 +1,34 @@
+{
+ "thesis_id": "2.6",
+ "latin": "Ex diuina bonitate potest sumi ratio praedestinationis aliquorum et reprobationis aliorum, et sola diuina uoluntas est ratio quod istos reprobet et illos eligat in gloriam.",
+ "farmer_latin_line": 11324,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10367,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 6"
+   ],
+   "context": "218 chapter 7 In thesis 6 Pico states that the reason of the predestination of some and the reprobation of others can be inferred from divine goodness, and only the divine will is the reason for condemning the latter and electing the first to glory.17 This can be found in Thomas’s Summa theologiae, 1, q. 23, a. 5, enti-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10390,
+   "method": "latin_quote",
+   "evidence": [
+    "aliorum et sola diuina",
+    "et reprobationis aliorum et",
+    "diuina uoluntas est ratio",
+    "aliquorum et reprobationis aliorum"
+   ],
+   "context": "does not impose in a general fashion necessity upon things willed (res volitae).22 17 Pico, 900 Theses, p. 220: “Ex divina bonitate potest sumi ratio praedestinationis aliquorum et reprobationis aliorum, et sola divina voluntas est ratio quod istos reprobat et illos eligat in gloriam.” 18 Thomas Aquinas, Summa theologiae, 1, q. 23, a. 5: “Respondeo dicendum quod, cum"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ]
+}

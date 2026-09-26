@@ -1,0 +1,835 @@
+{
+ "sections": [
+  {
+   "section": "1",
+   "name": "Albert the Great",
+   "printed": 16,
+   "latin_found": 16,
+   "missing": [],
+   "extra": [],
+   "english_found": 15
+  },
+  {
+   "section": "2",
+   "name": "Thomas Aquinas",
+   "printed": 45,
+   "latin_found": 45,
+   "missing": [],
+   "extra": [],
+   "english_found": 45
+  },
+  {
+   "section": "3",
+   "name": "Francis of Meyronnes",
+   "printed": 8,
+   "latin_found": 8,
+   "missing": [],
+   "extra": [],
+   "english_found": 8
+  },
+  {
+   "section": "4",
+   "name": "Scotus",
+   "printed": 22,
+   "latin_found": 22,
+   "missing": [],
+   "extra": [],
+   "english_found": 22
+  },
+  {
+   "section": "5",
+   "name": "Henry of Ghent",
+   "printed": 13,
+   "latin_found": 13,
+   "missing": [],
+   "extra": [],
+   "english_found": 11
+  },
+  {
+   "section": "6",
+   "name": "Giles of Rome",
+   "printed": 11,
+   "latin_found": 11,
+   "missing": [],
+   "extra": [],
+   "english_found": 11
+  },
+  {
+   "section": "7",
+   "name": "Averroes",
+   "printed": 41,
+   "latin_found": 41,
+   "missing": [],
+   "extra": [],
+   "english_found": 40
+  },
+  {
+   "section": "8",
+   "name": "Avicenna",
+   "printed": 12,
+   "latin_found": 12,
+   "missing": [],
+   "extra": [],
+   "english_found": 11
+  },
+  {
+   "section": "9",
+   "name": "al-Farabi",
+   "printed": 11,
+   "latin_found": 11,
+   "missing": [],
+   "extra": [],
+   "english_found": 10
+  },
+  {
+   "section": "10",
+   "name": "Isaac of Narbonne",
+   "printed": 4,
+   "latin_found": 4,
+   "missing": [],
+   "extra": [],
+   "english_found": 4
+  },
+  {
+   "section": "11",
+   "name": "Abumaron",
+   "printed": 4,
+   "latin_found": 4,
+   "missing": [],
+   "extra": [],
+   "english_found": 4
+  },
+  {
+   "section": "12",
+   "name": "Moses of Egypt",
+   "printed": 3,
+   "latin_found": 3,
+   "missing": [],
+   "extra": [],
+   "english_found": 3
+  },
+  {
+   "section": "13",
+   "name": "Mohammed of Toledo",
+   "printed": 5,
+   "latin_found": 5,
+   "missing": [],
+   "extra": [],
+   "english_found": 5
+  },
+  {
+   "section": "14",
+   "name": "Avempace",
+   "printed": 2,
+   "latin_found": 2,
+   "missing": [],
+   "extra": [],
+   "english_found": 2
+  },
+  {
+   "section": "15",
+   "name": "Theophrastus",
+   "printed": 4,
+   "latin_found": 4,
+   "missing": [],
+   "extra": [],
+   "english_found": 4
+  },
+  {
+   "section": "16",
+   "name": "Ammonius",
+   "printed": 3,
+   "latin_found": 3,
+   "missing": [],
+   "extra": [],
+   "english_found": 3
+  },
+  {
+   "section": "17",
+   "name": "Simplicius",
+   "printed": 9,
+   "latin_found": 9,
+   "missing": [],
+   "extra": [],
+   "english_found": 9
+  },
+  {
+   "section": "18",
+   "name": "Alexander of Aphrodisias",
+   "printed": 8,
+   "latin_found": 8,
+   "missing": [],
+   "extra": [],
+   "english_found": 7
+  },
+  {
+   "section": "19",
+   "name": "Themistius",
+   "printed": 5,
+   "latin_found": 5,
+   "missing": [],
+   "extra": [],
+   "english_found": 5
+  },
+  {
+   "section": "20",
+   "name": "Plotinus",
+   "printed": 15,
+   "latin_found": 15,
+   "missing": [],
+   "extra": [],
+   "english_found": 15
+  },
+  {
+   "section": "21",
+   "name": "Adeland the Arab",
+   "printed": 8,
+   "latin_found": 8,
+   "missing": [],
+   "extra": [],
+   "english_found": 6
+  },
+  {
+   "section": "22",
+   "name": "Porphyry",
+   "printed": 12,
+   "latin_found": 12,
+   "missing": [],
+   "extra": [],
+   "english_found": 12
+  },
+  {
+   "section": "23",
+   "name": "Iamblichus",
+   "printed": 9,
+   "latin_found": 9,
+   "missing": [],
+   "extra": [],
+   "english_found": 9
+  },
+  {
+   "section": "24",
+   "name": "Proclus",
+   "printed": 55,
+   "latin_found": 55,
+   "missing": [],
+   "extra": [],
+   "english_found": 53
+  },
+  {
+   "section": "25",
+   "name": "Pythagorean mathematics",
+   "printed": 14,
+   "latin_found": 14,
+   "missing": [],
+   "extra": [],
+   "english_found": 14
+  },
+  {
+   "section": "26",
+   "name": "Chaldean theologians",
+   "printed": 6,
+   "latin_found": 6,
+   "missing": [],
+   "extra": [],
+   "english_found": 6
+  },
+  {
+   "section": "27",
+   "name": "Mercury Trismegistus",
+   "printed": 10,
+   "latin_found": 10,
+   "missing": [],
+   "extra": [],
+   "english_found": 9
+  },
+  {
+   "section": "28",
+   "name": "Hebrew Cabalists",
+   "printed": 47,
+   "latin_found": 47,
+   "missing": [],
+   "extra": [],
+   "english_found": 47
+  },
+  {
+   "section": "1>",
+   "name": "Paradoxical reconciliations",
+   "printed": 17,
+   "latin_found": 17,
+   "missing": [],
+   "extra": [],
+   "english_found": 16
+  },
+  {
+   "section": "2>",
+   "name": "Philosophical, against the common view",
+   "printed": 80,
+   "latin_found": 80,
+   "missing": [],
+   "extra": [],
+   "english_found": 78
+  },
+  {
+   "section": "3>",
+   "name": "Paradoxical, new doctrines",
+   "printed": 71,
+   "latin_found": 71,
+   "missing": [],
+   "extra": [],
+   "english_found": 69
+  },
+  {
+   "section": "4>",
+   "name": "Theological, against the common mode",
+   "printed": 29,
+   "latin_found": 29,
+   "missing": [],
+   "extra": [],
+   "english_found": 29
+  },
+  {
+   "section": "5>",
+   "name": "Plato",
+   "printed": 62,
+   "latin_found": 62,
+   "missing": [],
+   "extra": [],
+   "english_found": 60
+  },
+  {
+   "section": "6>",
+   "name": "Book of Causes",
+   "printed": 10,
+   "latin_found": 10,
+   "missing": [],
+   "extra": [],
+   "english_found": 9
+  },
+  {
+   "section": "7>",
+   "name": "Mathematics",
+   "printed": 11,
+   "latin_found": 11,
+   "missing": [],
+   "extra": [],
+   "english_found": 11
+  },
+  {
+   "section": "7a>",
+   "name": "Questions to be answered by numbers",
+   "printed": 74,
+   "latin_found": 74,
+   "missing": [],
+   "extra": [],
+   "english_found": 72
+  },
+  {
+   "section": "8>",
+   "name": "Zoroaster and Chaldeans",
+   "printed": 15,
+   "latin_found": 15,
+   "missing": [],
+   "extra": [],
+   "english_found": 14
+  },
+  {
+   "section": "9>",
+   "name": "Magic",
+   "printed": 26,
+   "latin_found": 26,
+   "missing": [],
+   "extra": [],
+   "english_found": 24
+  },
+  {
+   "section": "10>",
+   "name": "Orphic Hymns",
+   "printed": 31,
+   "latin_found": 31,
+   "missing": [],
+   "extra": [],
+   "english_found": 28
+  },
+  {
+   "section": "11>",
+   "name": "Cabalistic, confirming the Christian religion",
+   "printed": 72,
+   "latin_found": 72,
+   "missing": [],
+   "extra": [],
+   "english_found": 64
+  }
+ ],
+ "unresolved": [
+  {
+   "section": "1",
+   "line": 10960,
+   "token": "1897",
+   "text": "45; Kibre 1936: 203)."
+  },
+  {
+   "section": "1",
+   "line": 11001,
+   "token": "21.1-3",
+   "text": "For Pico’s views, see 21.3, 2>1, 2>31, 2>77, 3>40, 3>60-66."
+  },
+  {
+   "section": "1",
+   "line": 11102,
+   "token": "1.8",
+   "text": "Light in a medium has only intentional existence."
+  },
+  {
+   "section": "2",
+   "line": 11741,
+   "token": "2.28",
+   "text": "See 2.12 note."
+  },
+  {
+   "section": "4",
+   "line": 12174,
+   "token": "54",
+   "text": "See also 5.9."
+  },
+  {
+   "section": "4",
+   "line": 12339,
+   "token": "2",
+   "text": "d. 26, q. 1, art. 3."
+  },
+  {
+   "section": "5",
+   "line": 12638,
+   "token": "5.10",
+   "text": "Friendship is a virtue."
+  },
+  {
+   "section": "5",
+   "line": 12653,
+   "token": "5.10",
+   "text": "C£. note 2.11."
+  },
+  {
+   "section": "6",
+   "line": 12708,
+   "token": "6.1",
+   "text": "See notes 2.1, 4.16-17."
+  },
+  {
+   "section": "6",
+   "line": 12770,
+   "token": "6.7",
+   "text": "On illuminaüonism, see note 5.7."
+  },
+  {
+   "section": "6",
+   "line": 12801,
+   "token": "6.8",
+   "text": "Commenting on Aristotle De anima 2.10. Cf. 13.4, 2259 and note."
+  },
+  {
+   "section": "7",
+   "line": 13184,
+   "token": "7.14",
+   "text": "Series starts at 6.10."
+  },
+  {
+   "section": "7",
+   "line": 13186,
+   "token": "7.15",
+   "text": "Senes starts at 1.1."
+  },
+  {
+   "section": "7",
+   "line": 13251,
+   "token": "7.20",
+   "text": "Senes starts at 1.14—15."
+  },
+  {
+   "section": "7",
+   "line": 13298,
+   "token": "7.22",
+   "text": "Senes starts at 2.37—38."
+  },
+  {
+   "section": "7",
+   "line": 13306,
+   "token": "7.24",
+   "text": "See note 4.16-17."
+  },
+  {
+   "section": "7",
+   "line": 13456,
+   "token": "7.34",
+   "text": "Number is found in abstract things just as in material things."
+  },
+  {
+   "section": "7",
+   "line": 13484,
+   "token": "7.37",
+   "text": "Series starts at 2.24."
+  },
+  {
+   "section": "7",
+   "line": 13514,
+   "token": "7.38",
+   "text": "Senes starts at 1.14—15."
+  },
+  {
+   "section": "8",
+   "line": 13633,
+   "token": "8.4",
+   "text": "An intelligible notion cannot exist in the soul without actual intellection. (16"
+  },
+  {
+   "section": "8",
+   "line": 13649,
+   "token": "8.4",
+   "text": "Series starts at 1.1."
+  },
+  {
+   "section": "9",
+   "line": 13813,
+   "token": "9.1",
+   "text": "See note 7.26-28."
+  },
+  {
+   "section": "9",
+   "line": 13933,
+   "token": "9.9",
+   "text": "Images in a medium exist in an intermediate way between spiritual and material e"
+  },
+  {
+   "section": "10",
+   "line": 14029,
+   "token": "10.1",
+   "text": "See 11.2 note."
+  },
+  {
+   "section": "11",
+   "line": 14121,
+   "token": "11.3",
+   "text": "See note 10.4."
+  },
+  {
+   "section": "13",
+   "line": 14282,
+   "token": "13.3",
+   "text": "Senes starts at 1.10."
+  },
+  {
+   "section": "17",
+   "line": 14662,
+   "token": "17.7",
+   "text": "Series starts at 1.13."
+  },
+  {
+   "section": "18",
+   "line": 14787,
+   "token": "18.4",
+   "text": "God understands neither evils nor privations."
+  },
+  {
+   "section": "18",
+   "line": 14804,
+   "token": "18.2",
+   "text": "Series starts at 7.7—8."
+  },
+  {
+   "section": "18",
+   "line": 14806,
+   "token": "18.3",
+   "text": "Series starts at 2.33."
+  },
+  {
+   "section": "18",
+   "line": 14817,
+   "token": "18.6",
+   "text": "Senes starts at 1.6."
+  },
+  {
+   "section": "18",
+   "line": 14840,
+   "token": "18.7",
+   "text": "Series starts at 5.7."
+  },
+  {
+   "section": "24",
+   "line": 15936,
+   "token": "2.3-7",
+   "text": "26.2, 28.12, 1>15, 2>14-15, 5227, 5>35, 5>47, 6>10, 10>29."
+  },
+  {
+   "section": "26",
+   "line": 17225,
+   "token": "26.6",
+   "text": "Cf. 2>41."
+  },
+  {
+   "section": "27",
+   "line": 17342,
+   "token": "27.7",
+   "text": "Cf. 7.1, 21.4-6, etc."
+  },
+  {
+   "section": "28",
+   "line": 17626,
+   "token": "11>35-36",
+   "text": "etc."
+  },
+  {
+   "section": "28",
+   "line": 17756,
+   "token": "1",
+   "text": "Keter (crown)"
+  },
+  {
+   "section": "28",
+   "line": 17758,
+   "token": "3",
+   "text": "Binah (intelligence) 2. Hokhmak (wisdom)"
+  },
+  {
+   "section": "28",
+   "line": 17762,
+   "token": "6",
+   "text": "Tiferet (beauty)"
+  },
+  {
+   "section": "28",
+   "line": 17764,
+   "token": "8",
+   "text": "Hod (majesty) 7. Nezah (endurance)"
+  },
+  {
+   "section": "28",
+   "line": 17768,
+   "token": "10",
+   "text": "Malkhut (kingdom)"
+  },
+  {
+   "section": "1>",
+   "line": 18673,
+   "token": "1>6",
+   "text": "On distinctions in general, see 3.7 note."
+  },
+  {
+   "section": "1>",
+   "line": 18729,
+   "token": "128",
+   "text": "Re Peter Lombard Sentences 2, d. 5."
+  },
+  {
+   "section": "1>",
+   "line": 18815,
+   "token": "1>16",
+   "text": "Series begins at 1.14-15."
+  },
+  {
+   "section": "2>",
+   "line": 19417,
+   "token": "2735",
+   "text": "Seres starts at 1.2."
+  },
+  {
+   "section": "2>",
+   "line": 19524,
+   "token": "221",
+   "text": "253)."
+  },
+  {
+   "section": "2>",
+   "line": 19798,
+   "token": "2252",
+   "text": "Series begins at 2.33."
+  },
+  {
+   "section": "2>",
+   "line": 19851,
+   "token": "2>55",
+   "text": "Pico’s series on metaphysical unity begins at 2.23."
+  },
+  {
+   "section": "2>",
+   "line": 20009,
+   "token": "2>65",
+   "text": "See my discussion above, pp. 98-99."
+  },
+  {
+   "section": "2>",
+   "line": 20019,
+   "token": "2>68",
+   "text": "See note 2.21."
+  },
+  {
+   "section": "2>",
+   "line": 20049,
+   "token": "2>68",
+   "text": "In all things below God matter is the same in essence, different in existence."
+  },
+  {
+   "section": "2>",
+   "line": 20070,
+   "token": "2>70",
+   "text": "Commenting on De anima 2.1—2. On the forma corporeitatis or \"material form,” see"
+  },
+  {
+   "section": "2>",
+   "line": 20220,
+   "token": "2278",
+   "text": "Series starts at 2.24."
+  },
+  {
+   "section": "2>",
+   "line": 20247,
+   "token": "2>80",
+   "text": "Cf. 28.33 note."
+  },
+  {
+   "section": "3>",
+   "line": 20955,
+   "token": "3>43",
+   "text": "Series begins at 2.12. See above, pp. 107-108."
+  },
+  {
+   "section": "5>",
+   "line": 22264,
+   "token": "5>4",
+   "text": "Drawn from Proclus In Timaeum 3 (here I used Taylor, trans., 1:431)."
+  },
+  {
+   "section": "5>",
+   "line": 22578,
+   "token": "5>20",
+   "text": "Cf. 5>23, 5>26."
+  },
+  {
+   "section": "5>",
+   "line": 22627,
+   "token": "5223",
+   "text": "Re Symposium 180d ff. Cf. 5>20, 5>26, Commento (Gann, Sentti van, 498), Plotinus"
+  },
+  {
+   "section": "5>",
+   "line": 22634,
+   "token": "5>25",
+   "text": "Re Symposium 195a ff."
+  },
+  {
+   "section": "5>",
+   "line": 23281,
+   "token": "5>60",
+   "text": "Cf. Laches 198d, note 5>56."
+  },
+  {
+   "section": "7a>",
+   "line": 24123,
+   "token": "7a>22",
+   "text": "Cf. 1.14-15, etc."
+  },
+  {
+   "section": "7a>",
+   "line": 24130,
+   "token": "7a>25",
+   "text": "Cf. 2>14-15, etc."
+  },
+  {
+   "section": "7a>",
+   "line": 24241,
+   "token": "7a>35",
+   "text": "Cf. 3215."
+  },
+  {
+   "section": "7a>",
+   "line": 24287,
+   "token": "7a>36",
+   "text": "God's existence is \"unial.\" Cf. 321, 3>15."
+  },
+  {
+   "section": "7a>",
+   "line": 24350,
+   "token": "7a>44",
+   "text": "Series begins at 2.37-38. For Pico’s views, see 2>36."
+  },
+  {
+   "section": "7a>",
+   "line": 24521,
+   "token": "7a>56",
+   "text": "Cf. 3218, 3236, etc."
+  },
+  {
+   "section": "7a>",
+   "line": 24583,
+   "token": "7a>62",
+   "text": "Cf., e.g., 3>47."
+  },
+  {
+   "section": "7a>",
+   "line": 24585,
+   "token": "7a>63",
+   "text": "Cf. 3>60-66."
+  },
+  {
+   "section": "8>",
+   "line": 24979,
+   "token": "8>10",
+   "text": "Cf. 8>12-13."
+  },
+  {
+   "section": "10>",
+   "line": 25834,
+   "token": "10>9",
+   "text": "Guardians in Orpheus and powers in Dionysius are the same."
+  },
+  {
+   "section": "10>",
+   "line": 25976,
+   "token": "10>17",
+   "text": "On Porus (“plenty” in thesis 5>21) as “son of counsel,” see Symposium 203b. Pico"
+  },
+  {
+   "section": "11>",
+   "line": 26577,
+   "token": "11>8",
+   "text": "Cf. Phil. 2: 9-10."
+  },
+  {
+   "section": "11>",
+   "line": 26683,
+   "token": "11>13",
+   "text": "binsica = see note 8>7; cf. 11>11. Azazel = demon in the scapegoat ritual in Lev"
+  },
+  {
+   "section": "11>",
+   "line": 27864,
+   "token": "11266",
+   "text": "See my discussion above, pp. 81-82."
+  }
+ ],
+ "inferred": [
+  {
+   "section": "3>",
+   "line": 21264,
+   "assigned": 63,
+   "token": "3765",
+   "why": "garbled token; assigned by sequence"
+  },
+  {
+   "section": "7a>",
+   "line": 24505,
+   "assigned": 63,
+   "token": "74",
+   "why": "garbled token; assigned by sequence"
+  }
+ ],
+ "apparatus_unplaced": [
+  {
+   "section": "7",
+   "line": 12977,
+   "token": "1992",
+   "text": "1997: 143ff.). The metaphorical language that Nifo ascribes to Pico is not close"
+  }
+ ],
+ "cumulative_mismatches": []
+}

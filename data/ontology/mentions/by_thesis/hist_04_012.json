@@ -1,0 +1,32 @@
+{
+ "thesis_id": "4.12",
+ "latin": "Corpus Christi ex se fuit impassibile.",
+ "farmer_latin_line": 12255,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14473,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 12"
+   ],
+   "context": "basically what we have in Pico’s thesis, only that Pico uses the adverb subiective which is not found in Scotus. Thesis 12 states that the body of Christ was in itself incapable of suffering.58 This is discussed by Scotus in Ordinatio 4, d. 49, pars 2, q. unica, entitled: ‘whether the body of the blessed person after resurrection will be incapable of suffering’ (Utrum corpus hominis beati post resurrectionem erit impassibile).59"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14499,
+   "method": "latin_quote",
+   "evidence": [
+    "christi ex se fuit",
+    "corpus christi ex se",
+    "ex se fuit impassibile"
+   ],
+   "context": "respicit actum meritorium: et haec potentia est voluntas. Gratia igitur primo ponenda est in voluntate.” 58 Pico, 900 Theses, p. 238: “Corpus Christi ex se fuit impassibile.” 59 John Duns Scotus, Ordinatio 4, d. 49, pars 2, q. unica, in Opera omnia, vol. 14 (Vatican City, 2013), pp. 395–411. 60 Ibid., pp. 396–397: “Patet quod ita est ex praecedente quaestione, quia homo non potest"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.10",
+  "2.15",
+  "2.8"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+  "conclusion_id": "S1.C025",
+  "section": "S1",
+  "order": 25,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "Individual souls possess immortality through theosis.",
+    "source": "template_S1",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Intellective functions and divine attributes — Knowledge, providence, beauty, necessity",
+  "key_concepts": [
+    "Divine intellection",
+    "Providence",
+    "Beauty",
+    "Necessity",
+    "Contingency",
+    "Knowledge"
+  ],
+  "plotinian_parallel": "Enneads 5.8 (Intelligible beauty), 3.2–3.3 (Providence), 6.8 (On free will and divine knowledge)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus",
+    "Proclus (providence)",
+    "Pseudo-Dionysius (beauty)"
+  ],
+  "charge": "The hierarchy potentially denies the sovereignty of God over creation or introduces intermediate emanations competing with divine omnipotence.",
+  "defense": "Hierarchy is eternal and atemporean. Emanation derives from God's superabundant goodness, not diminishment. Follows Plotinus, Porphyry, Proclus.",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Brian P Copenhaver",
+      "work": "Pico della Mirandola on Trial",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "divine_intellection",
+    "providence",
+    "knowledge",
+    "beauty",
+    "necessity"
+  ],
+  "status": "standardized",
+  "notes": "T21–T40 constitute the second major cluster. Pico explores how divine intellection, providence, and beauty function in Neoplatonic hierarchy. Likely draws on Plotinus Enneads 3.2, 5.8 and Proclus *Elements of Theology*. Check Copenhaver's Q12 (divine nature) analysis.",
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T6-T20",
+    "theme": "Metaphysical Hierarchy, Being, Intellect",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-26T02:19:54.725123",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Emanation within the Neoplatonism tradition."
+}

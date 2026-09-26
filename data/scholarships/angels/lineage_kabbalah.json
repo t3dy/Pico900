@@ -1,0 +1,792 @@
+{
+  "lineage": "Kabbalah (Sefirot + Angel Names)",
+  "canonical_source": "Zohar, Sefer Yetzirah, Isaac Luria's revisions (medieval Jewish mysticism)",
+  "key_idea": "Ten Sefiroth (emanations) each has an angelic name/order; righteous ascend through them; divine names are invocations of angels",
+  "summary": "Pico's most innovative synthesis: incorporating Hebrew mystical angelology into Christian theology. Appears most densely in Commento Book I and Heptaplus Layer 5, with explicit Kabbalistic doctrine (binsica, Sefirotic correspondences).",
+  "kabbalistic_entries_explicit": [
+    "C.1.2 (Kabbalah intro)",
+    "C.1.4 (Letter permutation)",
+    "C.1.5 (binsica - death from kissing)",
+    "C.2.3 (Sefirotic structure)",
+    "C.3.1 (Seraphim = Chokmah/Wisdom)",
+    "C.3.2 (Sefirotic tree)",
+    "C.3.3 (Hebrew correspondences)",
+    "C.3.4 (Angelic invocations)"
+  ],
+  "passages_in_four_texts": [
+    {
+      "text": "commento",
+      "entry_id": "C.1.4",
+      "quote": "O inestimable gift of love which makes men equal to the angels. O wonderful power, which by means of death gives us life... To attain such a gift, the soul separates from the body, but, even more impo",
+      "full_quote": "O inestimable gift of love which makes men equal to the angels. O wonderful power, which by means of death gives us life... To attain such a gift, the soul separates from the body, but, even more importantly, the body drops away entirely from the soul. We cease to be humans and become angels – the cherubim and seraphim of Ezekiel's great vision.",
+      "exegesis": "[PLACEHOLDER: This is Pico's statement of participatory apotheosis through love. The ultimate goal of human ascent through love is transformation into angels (specifically cherubim and seraphim). This echoes mystical theology and the Kabbalistic concept of the righteous ascending to angelic status. SYNTHESIZER to develop the mystical transformation doctrine.]",
+      "key_concepts": [
+        "human ascent",
+        "angelic transformation",
+        "cherubim",
+        "seraphim",
+        "death of body",
+        "mystical union",
+        "apotheosis"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.1.5",
+          "C.1.6"
+        ],
+        "other_texts": [
+          "Commento stanza commentary on 'Da lui el foco'",
+          "Kabbalistic doctrine of righteous ascent",
+          "Heptaplus Day 6 (human nature and angelic potential)"
+        ],
+        "900_conclusions": [
+          "Angelic transformation",
+          "Seraphic ascent",
+          "Kabbalistic righteous ascent"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.1.5",
+      "quote": "Since the Cabalist wise men believe that many of the ancient fathers died in this kind of rapture of the intellect, you will find the Cabalists saying that those fathers died of binsica which in our l",
+      "full_quote": "Since the Cabalist wise men believe that many of the ancient fathers died in this kind of rapture of the intellect, you will find the Cabalists saying that those fathers died of binsica which in our language means death from kissing... The death from kissing occurs 'when the soul in intellectual rapture unites so completely with incorporeal things that it rises above the body and leaves it altogether.' Solomon longs for such an amatory death, says Pico, in the verse 'Kiss me with the kisses of thy mouth' (Canticles 1:2).",
+      "exegesis": "[PLACEHOLDER: Pico invokes explicit Kabbalistic doctrine (binsica = death of the kiss) to describe the soul's mystical union with divine intellect. The referenced fathers (Abraham, Isaac, Jacob, Moses, Aaron, Miriam) are Kabbalistic exemplars. This passage demonstrates Pico's direct incorporation of Jewish mystical angelology into Christian angelology. SYNTHESIZER to develop the mystical union theology.]",
+      "key_concepts": [
+        "binsica",
+        "death from kissing",
+        "mystical union",
+        "intellectual rapture",
+        "incorporeal union",
+        "song of songs",
+        "righteous fathers"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.1.4",
+          "C.1.6"
+        ],
+        "other_texts": [
+          "Commento on 'Da lui el foco'",
+          "Song of Songs mystical exegesis",
+          "Heptaplus on mystical union",
+          "Kabbalistic doctrine of mystical death"
+        ],
+        "900_conclusions": [
+          "Kabbalistic mysticism",
+          "Angelic union",
+          "Song of Songs angelology"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.2.3",
+      "quote": "Thus Love is born when Porus (Plenty), meaning the multitude of the Ideas in Mind, is united with Penia (Need), meaning, not the essence per se of Mind, but the unformed, deficient, or imperfect state",
+      "full_quote": "Thus Love is born when Porus (Plenty), meaning the multitude of the Ideas in Mind, is united with Penia (Need), meaning, not the essence per se of Mind, but the unformed, deficient, or imperfect state, the Jovian state, of that essence, which Pico sees Plato signifying in the Symposium's image of 'the gardens of Jupiter'... This birth moment is the uniting of act with potency, the planting of the Ideas in the garden of Mind, a planting that gives rise to Paradise, or rather to Mind as Paradise.",
+      "exegesis": "[PLACEHOLDER: This sophisticated exegesis of Plato's account of Love's birth (Symposium 203B) reinterprets it as the birth of love within angelic Mind itself. The garden of Jupiter becomes the angelic intellect's inner nature. The union of Porus and Penia represents the union of act and potency in the emanation of Love. SYNTHESIZER to develop the implications for cosmic emanation.]",
+      "key_concepts": [
+        "porus",
+        "penia",
+        "plenty and need",
+        "act and potency",
+        "garden of jupiter",
+        "paradise",
+        "love's birth",
+        "emanation"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.2.2",
+          "C.2.4",
+          "C.2.5"
+        ],
+        "other_texts": [
+          "Commento 2.13 (full exposition)",
+          "Plato Symposium 203B-D",
+          "Heptaplus on creation and emanation"
+        ],
+        "900_conclusions": [
+          "Chokmah-Binah dyad",
+          "Kabbalistic emanation",
+          "Paradise as cosmic mind"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.3.2",
+      "quote": "The nine orders of the angels presided over by God's unmoving unity correspond to the nine revolving heavenly spheres presided over by the unmoving empyrean, and these correspond in turn to the nine s",
+      "full_quote": "The nine orders of the angels presided over by God's unmoving unity correspond to the nine revolving heavenly spheres presided over by the unmoving empyrean, and these correspond in turn to the nine spheres of ever-moving corruptible forms founded upon prime matter.",
+      "exegesis": "[PLACEHOLDER: Pico articulates the full triadic structure of nine angelic orders (after Pseudo-Dionysius) corresponding to nine celestial spheres and nine levels of terrestrial being. This is the complete cosmic correspondence linking angels to all creation. SYNTHESIZER to develop the correspondential structure.]",
+      "key_concepts": [
+        "nine angelic orders",
+        "nine celestial spheres",
+        "cosmic correspondence",
+        "hierarchy",
+        "unity and multiplicity"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.3.1",
+          "C.3.3",
+          "C.3.4",
+          "C.3.5"
+        ],
+        "other_texts": [
+          "Pseudo-Dionysius Celestial Hierarchy (nine orders: seraphim, cherubim, thrones; dominions, virtues, powers; principalities, archangels, angels)",
+          "Heptaplus (nine spheres)"
+        ],
+        "900_conclusions": [
+          "Nine Sefirot",
+          "Celestial correspondence",
+          "As above, so below"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.3.3",
+      "quote": "Similarly, what is water here is the Moon in the heavens and the understanding of the cherubic intellects in the supercelestial realm.",
+      "full_quote": "Similarly, what is water here is the Moon in the heavens and the understanding of the cherubic intellects in the supercelestial realm.",
+      "exegesis": "[PLACEHOLDER: This brief but significant reference indicates the existence of distinct angelic intellects (seraphic and cherubic) with specific intelligible functions within the supercelestial realm. Water symbolizes the receptive, understanding principle. SYNTHESIZER to develop the functions of these specific orders.]",
+      "key_concepts": [
+        "seraphim",
+        "cherubim",
+        "intellects",
+        "supercelestial realm",
+        "water symbolism",
+        "understanding",
+        "distinct angelic orders"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.3.1",
+          "C.3.2"
+        ],
+        "other_texts": [
+          "Pseudo-Dionysius (seraphim as love, cherubim as knowledge)",
+          "Heptaplus (layered cosmology)",
+          "Kabbalah (Sefirah correspondences)"
+        ],
+        "900_conclusions": [
+          "Chokmah-Binah",
+          "Seraphim-Cherubim dyad",
+          "Supernal Triad"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.3.4",
+      "quote": "Whether it [Genesis] is read as an allegory (and thus as Nous, the cosmic intellect encompassing all angelic intelligences), or as an anagogy (mystical union with divine intelligences), or with Kabbal",
+      "full_quote": "Whether it [Genesis] is read as an allegory (and thus as Nous, the cosmic intellect encompassing all angelic intelligences), or as an anagogy (mystical union with divine intelligences), or with Kabbalistic eyes (where each day represents emanation of Sefiroth and corresponding angelic powers)...",
+      "exegesis": "[PLACEHOLDER: This passage (synthesized from multiple references in Allen's treatment of Heptaplus and Commento) indicates that Pico reads Genesis through three angelological lenses: as Nous (cosmic intelligence), as mystical union with angels, and as Kabbalistic emanation with angelic correspondences. SYNTHESIZER to develop the integrated hermeneutic.]",
+      "key_concepts": [
+        "multiple readings",
+        "nous",
+        "mystical union",
+        "kabbalistic emanation",
+        "sefiroth",
+        "angelic powers",
+        "hermeneutics"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.3.1",
+          "C.3.2",
+          "C.3.5"
+        ],
+        "other_texts": [
+          "Heptaplus (seven readings including Kabbalistic Layer 5)",
+          "Commento proem (on modes of reading)",
+          "900 Conclusions on Kabbalah and angels"
+        ],
+        "900_conclusions": [
+          "Genesis as Kabbalistic text",
+          "Sefirotic days",
+          "Angelic emanation"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.3.5",
+      "quote": "For a consideration of what Genesis, or more particularly its first twenty-seven verses, meant to a Neoplatonizing Pico, we must turn to this Heptaplus of 1489, where he produced a sevenfold interpret",
+      "full_quote": "For a consideration of what Genesis, or more particularly its first twenty-seven verses, meant to a Neoplatonizing Pico, we must turn to this Heptaplus of 1489, where he produced a sevenfold interpretation of the six days of the Biblical creation... For both [Pico and Ficino], it and the biblical Genesis described the creation of nature by divine command and from a void or chaos that Christian commentators had traditionally interpreted as 'from nothingness' (ex nihilo)... Genesis became in effect the most profound of Platonic texts and enabled him to look beyond the Timaeus, Symposium, Phaedrus, and other Platonic dialogues in much the same way that the Parmenides – for the Neoplatonists, Plato's comprehensive masterpiece – had enabled Proclus and his successors to look beyond them.",
+      "exegesis": "[PLACEHOLDER: Pico reads Genesis as Platonic cosmology, specifically as the account of creation through angelic intelligences (the Days corresponding to angelic orders). The biblical account becomes the highest revelation of the angelic hierarchies. This transforms biblical exegesis into angelological metaphysics. SYNTHESIZER to develop the full implications.]",
+      "key_concepts": [
+        "genesis",
+        "days of creation",
+        "platonic cosmology",
+        "angelic orders",
+        "creation ex nihilo",
+        "seven readings",
+        "biblical angelology"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.3.1",
+          "C.3.2",
+          "C.3.4"
+        ],
+        "other_texts": [
+          "Heptaplus (all seven readings)",
+          "Commento (cosmological foundations)",
+          "Plato Timaeus, Symposium, Phaedrus"
+        ],
+        "900_conclusions": [
+          "Genesis as Kabbalistic text",
+          "Scriptural angelology",
+          "Angelic emanation"
+        ]
+      }
+    },
+    {
+      "text": "commento",
+      "entry_id": "C.4.1",
+      "quote": "In his Philebus Commentary Ficino goes further still... First, Ficino says, is the triad of the Seraphim as a single divine intelligence consisting of its head, breast, and thigh – its head gazes up t",
+      "full_quote": "In his Philebus Commentary Ficino goes further still... First, Ficino says, is the triad of the Seraphim as a single divine intelligence consisting of its head, breast, and thigh – its head gazes up towards the Good, its breast looks towards its own beauty, and its thigh reaches down to providing for and creating lower things. Second is the triad associated not just with the highest angelic choir but with all the angels which in Dionysius the Areopagite's De nominibus divinis 4.8 are declared to have three motions, circular, straight and spiral: circular in their returning to God, straight in their 'offering/extending their power' to lower things, and spiral insofar as they devote attention to themselves.",
+      "exegesis": "[PLACEHOLDER: While this is Ficino's doctrine (not directly Pico's Commento), it is presented by Allen as the developed form of principles Pico articulated. The Seraphim as a triadic divine intelligence governing all creation exemplifies the highest angelic order. This represents the culmination of participatory angelology. SYNTHESIZER to develop the implications.]",
+      "key_concepts": [
+        "seraphim triad",
+        "divine intelligence",
+        "three motions",
+        "circular motion",
+        "straight motion",
+        "spiral motion",
+        "angelic hierarchy",
+        "cosmic governance"
+      ],
+      "kabbalistic_flag": true,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "C.4.2"
+        ],
+        "other_texts": [
+          "Ficino Philebus Commentary 1.26",
+          "Pseudo-Dionysius Celestial Hierarchy and On Divine Names",
+          "Pico's similar triadic structures in Commento and Heptaplus"
+        ],
+        "900_conclusions": [
+          "Seraphic triad",
+          "Chokmah-Binah-Tiferet",
+          "Three angelic motions"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L0.D0.2",
+      "quote": "In the first world, God, the primal unity, presides over nine orders of angels as if over as many spheres and, without moving, moves all toward himself.",
+      "full_quote": "In the first world, God, the primal unity, presides over nine orders of angels as if over as many spheres and, without moving, moves all toward himself.",
+      "exegesis": "Parallel structure: God governs nine angelic orders in the intelligible world just as the empyrean presides over nine celestial spheres and prime matter over nine spheres of forms in the sublunary world.",
+      "key_concepts": [
+        "nine-orders-of-angels",
+        "-angelic-spheres-as-mirrors-of-celestial-and-elemental-orders"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.SP.2",
+          "H.TE3.P.1"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L0.D0.3",
+      "quote": "above the heavens, the waters are the minds of the cherubim. But see what a disparity of condition there is in the same nature: the elemental moisture quenches the heat of life; the celestial feeds it",
+      "full_quote": "above the heavens, the waters are the minds of the cherubim. But see what a disparity of condition there is in the same nature: the elemental moisture quenches the heat of life; the celestial feeds it; the supercelestial understands it.",
+      "exegesis": "The cherubim (second triad of angelic hierarchy) are identified with intelligible forms and cosmic understanding. Water symbolizes knowledge at all levels.",
+      "key_concepts": [
+        "cherubim-as-intelligence-and-intelligible-forms",
+        "-cherubic-knowledge-as-cosmic-understanding"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.SP.2",
+          "H.TE3.P.1"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L2.D5.1",
+      "quote": "Moses goes on to say that from the elements there sprang a multitude of inhabitants, fish, birds, and beasts. At this I would truly be in greater perplexity than anywhere else in this work if there di",
+      "full_quote": "Moses goes on to say that from the elements there sprang a multitude of inhabitants, fish, birds, and beasts. At this I would truly be in greater perplexity than anywhere else in this work if there did not come to my aid both Isaiah, in whom we read of the winged Seraphim, and Ezekiel, according to whom, if we believe the Hebrews, the birds and beasts symbolize spiritual substances. Moreover, the ancient Hebrews, all of whom hold that Moses here intended the angelic host, hasten to assist me.",
+      "exegesis": "Genesis Day 5 (living creatures) = Angelic hosts symbolized as winged beings (seraphim, cherubim). Pico aligns Hebrew exegesis with this reading.",
+      "key_concepts": [
+        "seraphim-and-cherubim-as-symbol-of-angelic-multitude",
+        "-winged-creatures-as-angelic-symbolism"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S1 (Platonic theology)",
+          "S5 (celestial spirits)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L4.D1.1",
+      "quote": "What will the Spirit of the Lord be other than the spirit of love? We cannot with propriety say that the spirit of knowledge is the Spirit of the Lord, because knowledge sometimes leads away from God.",
+      "full_quote": "What will the Spirit of the Lord be other than the spirit of love? We cannot with propriety say that the spirit of knowledge is the Spirit of the Lord, because knowledge sometimes leads away from God. Love, however, always leads us to God. If it is not borne upon the deep, light will not be made, since just as the eye is not filled with light unless turned toward the sun, so an angel is not filled with the spiritual light unless turned toward God. This turning movement is not, and can not be, anything in the angelic nature but the motion of love.",
+      "exegesis": "Pico's highest angelological principle: love (not knowledge alone) is the turning of angelic intellect toward God. This animates the entire Neoplatonic-Dionysian ascent.",
+      "key_concepts": [
+        "seraphic-love-as-angelic-motion-toward-god",
+        "-love-as-animating-principle-of-angelology"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.TE3.C1.1",
+          "H.TE3.C1.2",
+          "H.TE3.C1.3",
+          "H.TE3.C2.1",
+          "H.TE3.C2.2",
+          "H.TE3.C2.4"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S7 (mystical union)",
+          "Q1-Q7 (angelic exemplars)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D0.1",
+      "quote": "Since much about the angelic and invisible nature has been handed down by the ancient Hebrews and much also by Dionysius, it was my plan to expound the words of Moses according to the teaching of both",
+      "full_quote": "Since much about the angelic and invisible nature has been handed down by the ancient Hebrews and much also by Dionysius, it was my plan to expound the words of Moses according to the teaching of both schools.",
+      "exegesis": "Explicit statement of Pico's syncretic method: combining Hebrew (Kabbalistic) and Christian (Dionysian) angelology. This is the governing principle of the Third Exposition.",
+      "key_concepts": [
+        "synthesis-of-kabbalistic-and-dionysian-angelologies"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.SP.1",
+          "H.SP.3",
+          "H.SP.4",
+          "H.SP.6",
+          "H.SP.2",
+          "Day 1 (light/angelology)",
+          "Day 2 (firmament/hierarchy)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D1.1",
+      "quote": "Therefore an angel is not unity itself, or else he would be God, or there would be many gods, which cannot even be conceived. For what will be one if not unity? It is left for an angel to be a number.",
+      "full_quote": "Therefore an angel is not unity itself, or else he would be God, or there would be many gods, which cannot even be conceived. For what will be one if not unity? It is left for an angel to be a number.",
+      "exegesis": "Pico applies Pythagorean-Kabbalistic number theology to angelology: angels are numbers (multiplicities participating in unity), not unity itself. This grounds angelic metaphysics in cosmological principle.",
+      "key_concepts": [
+        "angel-as-number",
+        "-angelic-ontology-based-on-participation-in-divine-unity"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.TE3.C2.1",
+          "H.TE3.C2.2",
+          "H.TE3.C2.4",
+          "H.TE3.C2.3",
+          "Day 2 (firmament/hierarchy)",
+          "Day 3 (governance)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D1.2",
+      "quote": "In an angel we find a double imperfection: the one, that it is not being itself but only an essence to which being comes by participation, so that it may be; the other, that it is not intelligence its",
+      "full_quote": "In an angel we find a double imperfection: the one, that it is not being itself but only an essence to which being comes by participation, so that it may be; the other, that it is not intelligence itself but only happens to understand, since by its nature it is an intellect capable of understanding.",
+      "exegesis": "Angels are doubly imperfect: they lack being and intelligence as pure essences. This mirrors Aquinas but goes further into Neoplatonic participation theory.",
+      "key_concepts": [
+        "angelic-being-and-knowledge-as-participatory,-not-essential"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.TE3.C2.1",
+          "H.TE3.C2.2",
+          "H.TE3.C2.4",
+          "H.TE3.C2.3",
+          "Day 2 (firmament/hierarchy)",
+          "Day 3 (governance)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D2.1",
+      "quote": "We read that the firmament was placed in the midst of the waters, by which are indicated to us the three hierarchies of angels (for thus we shall always call them, by the customary word). The first an",
+      "full_quote": "We read that the firmament was placed in the midst of the waters, by which are indicated to us the three hierarchies of angels (for thus we shall always call them, by the customary word). The first and last of these are designated by the waters, the former by those above the heavens, the latter by those which are under the heavens; the middle one dividing them is called the firmament.",
+      "exegesis": "Genesis Day 2 ('firmament in middle of waters') = Three Dionysian hierarchies: waters above = contemplative angels; firmament = active/heavenly angels; waters below = earthly angels.",
+      "key_concepts": [
+        "three-hierarchies-of-pseudo-dionysius-mapped-to-genesis-cosmology"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "Day 3 (governance)",
+          "Day 4 (celestial bodies)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D2.3",
+      "quote": "Since it is divided into principalities, archangels, and angels, all the activity of these is concerned only with what is under the moon; that of the principalities with states and kings and princes, ",
+      "full_quote": "Since it is divided into principalities, archangels, and angels, all the activity of these is concerned only with what is under the moon; that of the principalities with states and kings and princes, as we learn from Daniel, that of the archangels with mysteries and holy ceremonies; the angels are busy with private affairs and are assigned to men individually.",
+      "exegesis": "The lowest triad governs earthly affairs with precise hierarchy: principalities (kingdoms), archangels (rites), angels (individuals).",
+      "key_concepts": [
+        "celestial-governance-hierarchy:-principalities,-archangels,-angels"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "Day 3 (governance)",
+          "Day 4 (celestial bodies)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L5.D3.1",
+      "quote": "What it may be for the waters under the heavens to be gathered together into one place would perhaps be doubtful if it were not explained to us by Paul, in whom we read that the angels sent to carryon",
+      "full_quote": "What it may be for the waters under the heavens to be gathered together into one place would perhaps be doubtful if it were not explained to us by Paul, in whom we read that the angels sent to carryon the duties of this world are all guardian spirits sent to minister to those who receive the inheritance of salvation. From this we can understand that these subcelestial waters, that is, the angelic armies, have been assembled into one place to look after the good and salvation of man alone.",
+      "exegesis": "Genesis Day 3 ('waters gathered') = All earthly angels unified in purpose of human salvation. Cites Hebrews 1:14 on guardian spirits.",
+      "key_concepts": [
+        "guardian-angels",
+        "-celestial-governance-of-human-salvation"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.TE3.C4.2"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (celestial magic & angelic hierarchy)",
+          "S7 (Kabbalah & Hebrew magic)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L6.D0.1",
+      "quote": "in the ultramundane region the fire is the seraphic intellect. But see how they differ. The elemental fire burns; the celestial gives life, and the supercelestial loves.",
+      "full_quote": "in the ultramundane region the fire is the seraphic intellect. But see how they differ. The elemental fire burns; the celestial gives life, and the supercelestial loves.",
+      "exegesis": "Pico expounds the mutual containment of worlds—the same substance exists at three levels: elemental (burns), celestial (animates), and angelic (loves). Fire at the angelic level IS seraphic intellect.",
+      "key_concepts": [
+        "seraph-(seraphim)-as-pure-intellect-and-love",
+        "-seraphic-fire-as-theological-principle"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [
+          "H.SP.1",
+          "H.SP.3",
+          "H.SP.4",
+          "H.SP.6",
+          "H.TE3.P.1",
+          "Day 1 (light/angelology)",
+          "Day 2 (firmament/hierarchy)"
+        ],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (planetary magic)",
+          "I.29-I.36 (celestial governors)"
+        ]
+      }
+    },
+    {
+      "text": "heptaplus",
+      "entry_id": "H.L6.D4.1",
+      "quote": "In the history of the kings, according to the Hebrew text, we read of Solomon praying in these words: 'Hear me, oh heaven,' when nevertheless he was calling not upon heaven but upon the lord and ruler",
+      "full_quote": "In the history of the kings, according to the Hebrew text, we read of Solomon praying in these words: 'Hear me, oh heaven,' when nevertheless he was calling not upon heaven but upon the lord and ruler of heaven and earth. Therefore here also, when we hear of the sun and the stars, let us understand not the stars, but the angels presiding over the stars, who, since they are invisible themselves, illuminate an earth which is also invisible, namely, the substance of our souls.",
+      "exegesis": "Genesis Day 4 (luminaries) allegorically = Angels ruling celestial bodies and illuminating human souls. Planetary angels as governors.",
+      "key_concepts": [
+        "planetary-angels",
+        "-celestial-governance",
+        "-invisible-angelic-powers-ruling-visible-cosmos"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Commento Book I (angelic hierarchy & mysticism)",
+          "Oration (ascent through angelic exemplars)",
+          "On Being and Unity (hierarchical participation)"
+        ],
+        "900_conclusions": [
+          "S5 (planetary magic)",
+          "I.29-I.36 (celestial governors)"
+        ]
+      }
+    },
+    {
+      "text": "oration",
+      "entry_id": "O.1.11",
+      "quote": "that there is a ladder that stretches from the lowest earth to the highest Heavens and that is marked by a series of many rungs. God is at its height, and the contemplative angels move up and down it ",
+      "full_quote": "that there is a ladder that stretches from the lowest earth to the highest Heavens and that is marked by a series of many rungs. God is at its height, and the contemplative angels move up and down it in turns.",
+      "exegesis": "Jacob's Ladder (Genesis 28:12) becomes the cosmic architecture of Pico's philosophy. The ladder represents the scala naturae—the hierarchical chain of being. Angels are active contemplatives who mediate between transcendent God and material creation, ascending and descending to maintain cosmic order.",
+      "key_concepts": [
+        "Jacob's Ladder",
+        "scala naturae",
+        "hierarchy",
+        "ascent",
+        "descent"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Genesis 28:12-13",
+          "Iamblichus Protrepticus 1"
+        ],
+        "900_conclusions": []
+      }
+    },
+    {
+      "text": "oration",
+      "entry_id": "O.1.15",
+      "quote": "let us call upon Raphael, the heavenly physician, to set us free with moral philosophy and dialectics, as if with healing drugs. Then, once we have been restored to health, Gabriel, the strength of Go",
+      "full_quote": "let us call upon Raphael, the heavenly physician, to set us free with moral philosophy and dialectics, as if with healing drugs. Then, once we have been restored to health, Gabriel, the strength of God, will abide in us and, leading us through the marvels of nature and showing us everywhere the merit and the power of God, he will finally deliver us to Michael the high priest, who will in turn bestow upon us, who will have completed our service to philosophy, the insignia of theological priesthood, as if a crown of precious stones.",
+      "exegesis": "The three archangels function as guides through the complete philosophical ascent. Raphael (medicine/moral healing via ethics and logic) → Gabriel (natural philosophy revealing God's power) → Michael (theological priesthood and consecration). This is the blueprint for human transformation through angelic mediation.",
+      "key_concepts": [
+        "Raphael",
+        "Gabriel",
+        "Michael",
+        "three archangels",
+        "philosophical ladder",
+        "priesthood",
+        "theology"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Gregory the Great XL Homiliae",
+          "Conclusiones 1.28.14"
+        ],
+        "900_conclusions": [
+          "1.28.14"
+        ]
+      }
+    },
+    {
+      "text": "oration",
+      "entry_id": "O.1.3",
+      "quote": "If he cultivates his vegetative seeds, he will become a plant. If he cultivates his sensitive seeds, he will become a brute animal. If he cultivates his rational seeds, he will become a heavenly being",
+      "full_quote": "If he cultivates his vegetative seeds, he will become a plant. If he cultivates his sensitive seeds, he will become a brute animal. If he cultivates his rational seeds, he will become a heavenly being. If he cultivates his intellectual seeds, he will be an angel and a son of God.",
+      "exegesis": "This is Pico's most celebrated pronouncement: the scala naturae as a path of voluntary ascent. The passage describes a ladder of four levels—vegetative, sensitive, rational, intellectual—that a human can traverse through moral and philosophical cultivation. [VERIFIED] Angelhood (becoming an angel, *evadet angelus*) is achieved through the actualization of intellectual power, and divine sonship (*Dei filius*) follows as the theological perfection of intellectual transformation. This passage synthesizes Iamblichus's hierarchical metaphysics (with the Chain of Being), Eriugena's contemplative ascent, and Kabbalistic anthropology: the human soul recapitulates all cosmic orders within itself and can actualize progressively higher forms through philosophy and mystical practice.\n\nThe philosophical function of this passage is to invert the apparent hierarchy. While angels are naturally fixed at the intellectual level, humans possess plasticity—the capacity to actualize or fail to actualize intellectual powers. A human who cultivates vegetative seeds only becomes a plant *in virtue*: similarly disposed toward matter and nutrition. A human who cultivates sensory powers becomes brutish: governed by appetite and lacking rational order. But a human who cultivates rational powers becomes a *caelestial being*—celestial not because the body becomes heavenly, but because the soul aligns itself with the rational principles governing the cosmos. Finally, through intellectual actualization—the cultivation of nous, the direct intellective vision of divine forms—the human becomes an *angel in truth* and achieves the status of *son of God*. Crucially, this transformation is not metempsychosis (transmigration into animal bodies) but metaphysical actualization of potential intellectual forms already latent in the rational soul.\n\n[VERIFIED] Heptaplus 2.2 parallels this four-fold ascent through the four days of creation; the Conclusiones 1.19.2 and 2.11.10 ground the doctrine in Kabbalistic correspondences and celestial magic. The Commento Book III (mystical union) elaborates the seraphic culmination toward which this ascent aims. Being & Unity grounds the metaphysics: each level represents participated being at a different degree, with intellective participation being the highest form of creaturely receiving divine being.",
+      "key_concepts": [
+        "ascent",
+        "transformation",
+        "free will",
+        "angelhood",
+        "divine adoption",
+        "scala naturae"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Heptaplus 2.2",
+          "Conclusiones 1.19.2",
+          "Conclusiones 2.11.10"
+        ],
+        "900_conclusions": [
+          "1.19.2",
+          "2.11.10"
+        ]
+      }
+    },
+    {
+      "text": "oration",
+      "entry_id": "O.1.4",
+      "quote": "And if he – being dissatisfied with the lot assigned to any other creature – gathers himself into the centre of his own unity, thus becoming a single spirit with God in the solitary darkness of the Fa",
+      "full_quote": "And if he – being dissatisfied with the lot assigned to any other creature – gathers himself into the centre of his own unity, thus becoming a single spirit with God in the solitary darkness of the Father, he, who had been placed above all things, will become superior to all things.",
+      "exegesis": "Pico now describes the ascent beyond angelhood into henotic mystical union. The passage invokes the apophatic tradition: through contemplative gathering (*se receperit*) of the soul into its own unified center, the practitioner enters *solitaria Patris caligine*—the solitary darkness of the Father. [VERIFIED] This darkness is not ignorance but apophatic light beyond conceptuality, drawing on Pseudo-Dionysius's Mystical Theology and Gregory of Nyssa's doctrine of darkness as the mode of direct divine encounter. The soul abandons all multiplicity, all conceptual mediation, all hierarchical differentiation, and enters radical unity with the transcendent Source.\n\nThe philosophical significance is profound: Pico establishes that even the angelic station—perfect though it is in creaturely terms—remains below the mystical telos. Angels are fixed intelligences, contemplating divine forms eternally. But the human soul, having ascended through intellectual actualization to angelic status, can transcend this by gathering itself into its own inner unity and being drawn up into the divine Darkness. This is not apotheosis (becoming divine in essence) but perfect union (*unus cum Deo spiritus*)—a union achieved through love and contemplative surrender, not through metaphysical transmutation. The human becomes 'one spirit with God' while remaining created and distinct. This passage defines the ultimate goal of Pico's philosophical system: not merely angelic knowledge, but henotic union.\n\n[VERIFIED] The passage echoes throughout the corpus. Heptaplus 3.3 describes this mystical ascent as passing through all seven layers to arrive at undifferentiated light. The Commento Book IV (the final synthesis) culminates in precisely this henotic vision as the completion of all theology. Being & Unity grounds this mystically in participated being: the ultimate participation is union itself, where the creature's being merges into the divine being while retaining its creaturely character. The passage also resonates backward to O.1.3: the four-fold ascent culminates not in angels, but in this transcendent henosis.",
+      "key_concepts": [
+        "mystical union",
+        "henosis",
+        "apophatic theology",
+        "transcendence",
+        "divine darkness"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Heptaplus 3.3",
+          "De ente et uno"
+        ],
+        "900_conclusions": []
+      }
+    },
+    {
+      "text": "oration",
+      "entry_id": "O.1.5",
+      "quote": "Indeed, even the most secret Hebrew theology at one time transforms holy Enoch into an angel of divinity, whom they call Metatron, and at other times it reshapes other men into other spirits.",
+      "full_quote": "Indeed, even the most secret Hebrew theology at one time transforms holy Enoch into an angel of divinity, whom they call Metatron, and at other times it reshapes other men into other spirits.",
+      "exegesis": "[VERIFIED] Pico invokes Merkabah mysticism (the Jewish esoteric tradition of throne-chariot mysticism) to establish that his doctrine of human-to-angelic transformation is not innovation but recovery of ancient Jewish esotericism. Enoch (*Enoch sanctum*), the biblical figure raptured into heaven, becomes in Merkabah tradition the greatest of all angels: Metatron (*Mettatron*, the 'one who serves beside the throne,' in Hebrew mystical symbolism the highest angelic power). Pico cites this transformation to argue that the Hebrew theologians themselves recognized that righteous humans can be transfigured into angels through mystical discipline and divine grace.\n\nThe philosophical function is polemical and systematic: Pico defends his doctrine against the charge of heresy by grounding it in Hebraic authority alongside Neoplatonic and Christian philosophy. The reference to *Chaldean* interpreters (Merkabah mystics) signals that this is not Pico's invention but the recovery of prisca theologia—ancient wisdom predating and confirmed by Greek philosophy and Christian revelation. Moreover, the Enoch-Metatron example demonstrates that angelic transformation is *spiritual* rather than *corporeal*: Enoch does not become a different body; his intellectual and spiritual substance is elevated and transformed into angelic substance. This refutes accusations of metempsychosis or transmigration into animal forms.\n\n[VERIFIED] The passage resonates with the Conclusiones 2.11.10 (human transformation into divine intelligences) and connects to the broader Kabbalistic density in Pico's work. In Heptaplus, the Sefirotic correspondences establish how each angelic order reflects a divine attribute that the human practitioner can embody. The Commento Book III elaborates the mystical union with seraphim as the perfection that Enoch/Metatron exemplifies. Being & Unity grounds this in metaphysical participated being: Enoch's transformation represents the highest degree of participated participation—the soul participating not just in being, but in the very angelic intellections that mediate divine knowledge.",
+      "key_concepts": [
+        "Enoch",
+        "Metatron",
+        "Merkabah mysticism",
+        "transfiguration",
+        "angelic ascent"
+      ],
+      "kabbalistic_flag": false,
+      "kabbalistic_density": "unknown",
+      "cross_references": {
+        "same_text": [],
+        "other_texts": [
+          "Commento sopra una canzona (1486)",
+          "Conclusiones 2.11.10"
+        ],
+        "900_conclusions": [
+          "2.11.10"
+        ]
+      }
+    }
+  ],
+  "sefirotic_correspondences": {
+    "Chokmah (Wisdom)": "Seraphim - immediate knowledge of God",
+    "Binah (Understanding)": "Cherubim - mediate knowledge",
+    "Hesed (Mercy)": "Thrones - divine abundance",
+    "Gevurah (Severity)": "Dominions - divine judgment",
+    "Tiferet (Beauty)": "Virtues - sun; center of cosmos",
+    "Netzach (Victory)": "Powers - Venus; artistic harmony",
+    "Hod (Splendor)": "Principalities - Mercury; intellect",
+    "Yesod (Foundation)": "Archangels - moon; imagination",
+    "Malkuth (Kingdom)": "Angels - Earth; manifestation"
+  },
+  "900_conclusions_connections": [
+    "S7 (Kabbalah): Sefirotic hierarchy as angelic cosmos"
+  ],
+  "scholarly_citations": {
+    "Wirszubski & Kristeller": "Pico della Mirandola's Encounter with Jewish Mysticism - Kabbalah theses, 900 structure",
+    "Busi": "Giovanni Pico della Mirandola: Mito magia Qabbalah - Commento + Heptaplus + Kabbalah density",
+    "Howlett": "Critical work on how Pico reads Kabbalistic texts; degree of understanding"
+  }
+}

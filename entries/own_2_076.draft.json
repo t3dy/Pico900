@@ -1,0 +1,13 @@
+{
+ "thesis_id": "2>76",
+ "tier": "C",
+ "latin": "Sicut quilibet philosophus habet dicere quod uirtutes sensitiue sunt in corde, ita quilibet medicus habet dicere quod sint in cerebro.",
+ "latin_source": "farmer1998:20108",
+ "latin_note": "The sheet's line-break slash in 'sensitiue / sunt' is repaired to a space.",
+ "translation": "Just as every philosopher must say that the sensitive powers reside in the heart, so every physician must say that they reside in the brain.",
+ "translation_note": "Farmer's note reads this as a secular double-truth harmonizing Aristotle and Galen; both claims form Pico's own reconciling formula rather than a report of a single ascribed view, so pico_stance is given as endorses.",
+ "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:20170; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "writer": "TRANSLATOR-T05, 2026-09-25"
+}

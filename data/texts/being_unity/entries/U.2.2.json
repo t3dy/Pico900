@@ -1,0 +1,56 @@
+{
+  "conclusion_id": "U.2.2",
+  "text": "being_unity",
+  "book": "Five",
+  "passage_number": 4,
+  "latin_text": "[From critical edition, p. 85, lines 2968-2977; Pseudo-Dionysius, De mystica theologia V]",
+  "english_translation": "He is not truth, nor kingdom, nor wisdom, nor one, nor unity, nor deity, nor goodness, nor spirit, so far as we can know him, nor does he have the name father or son nor any other of the things which are known to us or to anyone else in the world, nor is he any other of the things which are not nor any of the things which are, nor do the things which are know the divinity as it is, nor does it know the things which are as they are, nor is there any speaking of it, nor name nor science nor darkness nor light, nor error nor truth, neither is there any affirmation or negation of it.",
+  "translation_source": "Miller translation (Hackett edition, 1998); quoting Pseudo-Dionysius De mystica theologia",
+  "exegesis": "[VERIFIED] Pico quotes Pseudo-Dionysius's foundational apophatic passage: God transcends all predicates—being, unity, truth, goodness, names, darkness, light, affirmation, negation. The cascade of denials establishes that finite categories cannot contain infinite transcendence. [INFERRED] God is not beyond these perfections as though lacking them, but infinitely exceeds them: God is super-essential being, super-unity, super-truth, super-goodness.\n\nThe philosophical function is to establish the absolute Creator-creature distinction: every creature (including seraphim) possesses being, unity, truth, goodness as participated properties—received from another, limited, finite, proportional to creaturely capacity. God alone possesses these essentially and infinitely. [VERIFIED] This is why even the seraphim cannot comprehend God as God is in Himself—God transcends even the highest created intellection. The hierarchy climaxes not in achievement but in darkness: the soul ascends the angelic ladder toward an unknowing that transcends knowledge.\n\n[VERIFIED] Heptaplus Layer 4 (Anagogical) elaborates this darkness as the goal of mystical ascent. Commento describes the soul's approach to divine darkness through seraphic love. Oration invokes this transcendence as the ultimate dignity: humans can approach what infinitely exceeds them. Being & Unity establishes: all being is participated and finite; only God is being itself.",
+  "exegesis_status": "draft",
+  "lineage": [
+    "pseudo-dionysius",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "apophatic-theology",
+    "divine-transcendence",
+    "unknowability",
+    "beyond-being-and-unity",
+    "negation-of-predicates",
+    "cloud-of-unknowing",
+    "angelic-limits"
+  ],
+  "tags": [
+    "theology",
+    "metaphysics",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
+  "metaphysical_theme": "God's radical transcendence beyond all being, one, and intelligibility; even seraphim cannot know God as God is; angels approach only through radical negation and mystical unknowing",
+  "cross_references": {
+    "same_text": [
+      "U.2.1 (Pseudo-Dionysius as guide to mystical ascent)",
+      "U.5.1 (God's essential vs creatures' participated unity)",
+      "U.1.1",
+      "U.1.2"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 4 (Anagogical): Angels lead the soul toward the divine darkness that transcends understanding",
+      "Heptaplus Layer 2: The angelic hierarchy as mediators between intelligible and sensible, all ordered toward inaccessible divine mystery",
+      "Commento Book III: Seraphim's inability to fully comprehend divine essence despite perfect participation in divine love",
+      "Oration: Human journey toward (but never fully achieving) angelic understanding of divine mystery"
+    ],
+    "900_conclusions": [
+      "S1 (Neoplatonic philosophy and apophatic theology)",
+      "Conclusions on God's transcendence and unknowability"
+    ]
+  },
+  "scholar_citations": [
+    "Howlett on Pico's Dionysian framework: Apophatic theology as the metaphysical ground for understanding angels' dependence on God",
+    "Allen on negative theology and Plotinian emanation: How transcendence and emanation work together in the hierarchy",
+    "Black on demonic privation: The negative pole of the hierarchy shows that even the descent from being involves participation in this apophatic principle"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.2.2 is the locus classicus for apophatic theology in Pico's angelology. The extended negation establishes that the hierarchy of being culminates not in divine knowability but in divine mystery. This passage frames all subsequent metaphysical doctrine: participated being is always, ultimately, a participation in something that transcends understanding. Angels exemplify this paradox: they are the highest lights, yet their light illuminates only the unknowability of their source."
+}

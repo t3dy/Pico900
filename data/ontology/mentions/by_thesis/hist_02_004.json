@@ -1,0 +1,34 @@
+{
+ "thesis_id": "2.4",
+ "latin": "Contingentia ad utrumlibet futurorum cognitorum a deo simul stat cum infallibilitate diuinae scientiae.",
+ "farmer_latin_line": 11318,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10328,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 4"
+   ],
+   "context": "and probably cannot, reflect even some of the complexities involved in this issue, being a conclusion or a thesis only. The next two theses also deal with the problem of future contingencies and originate in the same place in Thomas’s Summa. Thesis 4 emphasizes that the contingent nature for us of each of the future contingencies, is from God’s per- spective, necessary, as a concomitant of the infallibility of divine knowledge;14 we have already seen these notions in Thomas (nn. 11–13). Thesis 5 states"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10351,
+   "method": "latin_quote",
+   "evidence": [
+    "contingentia ad utrumlibet futurorum",
+    "ad utrumlibet futurorum cognitorum",
+    "simul stat cum infallibilitate",
+    "deo simul stat cum"
+   ],
+   "context": "13 Ibid.: “Unde manifestum est quod contingentia et infallibiliter a Deo cognoscuntur, inquantum subduntur divino conspectui secundum suam praesentialitatem: et tamen sunt futura contingentia, suis causis comparata.” 14 Pico, 900 Theses, p. 220: “Contingentia ad utrumlibet futurorum cognitorum a Deo simul stat cum infallibilitate divinae scientiae.” 15 Ibid.: “Quodcunque contingens Deus scivit esse futurum, necessario scivit illud esse futurum.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ]
+}

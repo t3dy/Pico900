@@ -1,0 +1,83 @@
+{
+ "thesis_id": "28.33",
+ "latin": "Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate,",
+ "farmer_latin_line": 18183,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 20322,
+   "method": "latin_quote",
+   "evidence": [
+    "sunt littere in tota",
+    "nulle sunt littere in",
+    "directione defectu superabundantia minoritate",
+    "littere in tota lege"
+   ],
+   "context": "\" Ibid., p. 414, n. 3>55' «Qui ordinem hebraicae linguae profunde et radicaliter te­ nuerit, atque illum proportionabiliter in scientiis servare noverit, cuiuscunque scibilis per­ fecte inveniendi normam et regulam habebit>>. \" Ibid., p. 358, n. 28.3y << Nullae sunt litterae in tota lege guae in formis, coniunctioni­ bus, separationibus, tortositate, directione, defectu, superabundantia, minoritate, maioritate, coronatione, clausura, apertura, et ordine, decem numerationum secreta non manifestent>>."
+  },
+  {
+   "work": "mandosio2012",
+   "line": 471,
+   "method": "latin_quote",
+   "evidence": [
+    "separationibus tortuositate directione defectu",
+    "tortuositate directione defectu superabundantia",
+    "coniunctionibus separationibus tortuositate directione",
+    "in formis coniunctionibus separationibus"
+   ],
+   "context": "fundamenta destruere.’ In Dee’s Mathematicall praeface, even the more ‘material’ branches of mathematics are applied to the physical world. On his position in the early modern discussions about the so called ‘intermediary sciences’ between physics and mathematics, see Mandosio (1994). 62 Pico (1998), p. 396 (Concl. phil., 80): ‘Siqua est lingua prima et non casualis, illam esse Hebraicam multis patet conjecturis.’ 63 Ibid., p. 358 (Conclusiones cabalisticæ . . . secundum secretam doctrinam sapientum Hebræorum cabalistarum, 33): ‘Nullæ sunt litteræ in tota lege quæ in formis, conjunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate, majoritate, coronatio"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2606,
+   "method": "latin_quote",
+   "evidence": [
+    "separationibus tortuositate directione defectu",
+    "sunt littere in tota",
+    "tortuositate directione defectu superabundantia",
+    "littere in tota lege"
+   ],
+   "context": "CONCLUSIO XXXIII Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate, maioritate, coronatione, clausura, apertura, et ordine decern numeratio- num secreta non manifestent."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8709,
+   "method": "latin_quote",
+   "evidence": [
+    "separationibus tortuositate directione defectu",
+    "tortuositate directione defectu superabundantia",
+    "lege que in formis",
+    "in tota lege que"
+   ],
+   "context": "spelling represented mysteries. In the thirty-third thesis secundum secre- tam doctrinam sapientum Hebraeorum Cabalistarum, he states: Nullae sunt literae in tota lege, quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate, maior- itate, coronatione, clausura, apertura, et ordine decern numerationum secreta non manifestent."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2604,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXXIII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXXIII Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separatio- nibus, tortuositate, directione, defectu, superabundantia, minoritate,"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3137,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxiii"
+   ],
+   "resolved": false,
+   "context": "Bahir and more often the Zohar. It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings of Eleazar of Worms, that Pico learned that all peculiarities of the Masorah represented mysteries of the ten seflrot (Conclusio xxxiii). It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of texts that brought out some particular points, such as the proper attitude at prayer (Conclusio xxxiv). And, above all, it was because"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>35",
+  "26.5",
+  "28.47",
+  "2>80",
+  "3>55",
+  "9>22"
+ ]
+}

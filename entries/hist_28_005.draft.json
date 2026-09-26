@@ -1,0 +1,78 @@
+{
+  "thesis_id": "28.5",
+  "tier": "A",
+  "latin": "Cum arbore scientiae boni et mali, in qua peccauit primus homo, creauit deus saeculum.",
+  "latin_source": "farmer1998:17547",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:17547-17548), u/v as Farmer prints them. The 1486 print reads 'soeculum' (farmer1998:17557). Wirszubski prints the thesis without commas (wirszubski1989:1462-1463).",
+  "translation": "God created the world by means of the tree of knowing good and evil, the tree in which the first man sinned.",
+  "translation_note": "'cum arbore' is taken as instrumental ('by means of'), as in the source sentence 'With this tree God created the world' (wirszubski1989:1467). 'saeculum' is rendered 'world'; the word also means 'age', and Pico uses it again in 11>36 of the world God created in ten garments (farmer1998:27137-27138).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-B1), checked against the sense of Farmer's English at farmer1998:17601; awaiting human check",
+  "pico_stance": "reports",
+  "attribution": "The Hebrew Cabalist wise men: fifth of the forty-seven conclusions given according to their secret doctrine, not Pico's own opinion (farmer1998:17476-17479, 17547).",
+  "sources": [
+    {
+      "text": "Menahem Recanati, Commentary on the Torah, fol. 23vb, quoting the Zohar, part I, fol. 36r",
+      "locator": "wirszubski1989:1465",
+      "pico_relation": "direct source according to Wirszubski; the thesis keeps the proposition Recanati approves"
+    },
+    {
+      "text": "Zohar, part I, fol. 35v-36r, on the tree 'in which death dwells', via Recanati",
+      "locator": "wirszubski1989:1446",
+      "pico_relation": "source of the companion thesis 28.4 on the severing of the plants"
+    }
+  ],
+  "doctrine": "Wirszubski identifies the direct source as Menahem Recanati's Commentary on the Torah, folio 23vb, where Recanati quotes the Zohar, part I, folio 36r (wirszubski1989:1465). In that passage the serpent tells the woman that God created the world with this tree, and Rabbi Yehudah replies that the serpent would have spoken correctly had it said only that; its lie was to say that God ate of the tree (wirszubski1989:1467-1470). Recanati adds, in Wirszubski's translation, that on Rabbi Yehudah's view it is true that God created the world with this tree, 'because everything is created by mediation' (wirszubski1989:1470-1473). The thesis reports the proposition that Recanati approves and omits both the serpent and the denial (editorial inference from farmer1998:17547-17548 and wirszubski1989:1467-1474). Farmer reads the tree as the sefirot, the emanated states of God's nature (farmer1998:17608-17609), which the Kabbalah also figures as the 'tree of paradise' (farmer1998:17618-17619, 17623). On his gloss the thesis means that God considered transcendentally, the Ein-Sof, created the world through his manifested nature, the ten sefirot (farmer1998:17623-17624). The preceding thesis supplies the other face of the symbol: Adam's sin was the severing of 'kingdom', the tenth sefirah, from the other shoots (farmer1998:17544, 17617-17620). Its Zoharic source, as Recanati quotes it, allows eating of every tree of the garden when all are united and says that whoever eats of this tree by itself dies (wirszubski1989:1446-1453). Read together, 28.4 and 28.5 make one tree the instrument of creation when joined to the whole and the occasion of sin when cut off from it (editorial inference from wirszubski1989:1449-1453, 1471-1473).",
+  "context": "Farmer states that every thesis of this section was drawn from late-medieval texts, although Pico believed that they derived from oral traditions going back to Moses (farmer1998:17435-17436). Wirszubski judged Recanati 'demonstrably the direct source of some twenty-five theses' of the set and the likeliest source of another dozen (wirszubski1989:3119-3123). Farmer accepts that Pico drew on Recanati in some form (farmer1998:17484-17486). He rejects Wirszubski's claim that Pico depended on Flavius Mithridates' Latin translations, arguing from Gaffarel's description that Mithridates' version of Recanati was finished months after the theses went to press (farmer1998:17441-17451). In the second Cabalistic set, speaking for himself, Pico explains from the hiddenness of God why the Cabalists say that God put on ten garments when he created the world (farmer1998:27129-27138). Farmer cross-refers 28.5 to those theses, 11>35-36 (farmer1998:17624-17626). Wirszubski identifies the ten garments with the ten sefirot and names the problem of 11>36 as the mediation of the sefirot between the hidden God and the world (wirszubski1989:11969-11972).",
+  "reception": "Paul Richard Blum, in the essay 'Pico, Theology, and the Church' in Dougherty's volume (dougherty2008:115-116), sets 28.5 beside a disputation, held a few years later under Lorenzo de' Medici, on whether God is the proper and principal cause of every good or evil effect (dougherty2008:2446-2451). He reports that Poliziano there maintained that God is the cause of good and evil, and calls that proposition 'fairly compatible' with 28.5 (dougherty2008:2450-2453). His footnote rests on Farmer's note, reading the tree as both paradise and the ten sefirot, so that knowledge and sin accompany the creation of the world (dougherty2008:2472-2474). Blum calls 28.5 Pico's thesis, although it stands in the section reported according to the Cabalists (editorial observation on dougherty2008:2452 and farmer1998:17476-17479).",
+  "historiography": "Wirszubski's contribution is the identification of the source and of Recanati as the filter through which Pico read the Zohar (wirszubski1989:1465, 3142-3145). Farmer gives the thesis a systematic reading, the tree as the sefirot through which the Ein-Sof creates (farmer1998:17623-17624). The German study of Pico as the model for Ricci, whose author is not named in the corpus copy (kabbalah_paradigma:19-36), pairs 28.5 with Pico's Iamblichus thesis 23.2 on the demiurge as the seventh of the intellectual hierarchy (kabbalah_paradigma:1499-1501). It reads the tree of good and evil as the ninth sefirah, Yesod, which Pico identifies with an immanent and demiurgic intellect (kabbalah_paradigma:1472-1476). The two readings disagree: for Farmer the tree is the sefirotic system, for the German study a single sefirah (farmer1998:17623; kabbalah_paradigma:1476). The Zohar passage behind 28.4 distinguishes this tree from every tree of the garden, which tells against a reading of it as the whole of the sefirot without deciding which sefirah is meant (editorial inference from wirszubski1989:1447-1451). The thesis shows Pico taking over a Zoharic claim about creation already corrected and approved by Recanati, which his own theses 11>35-36 later recast as a doctrine of mediation between the hidden God and the world (editorial inference from wirszubski1989:1471-1473, 11969-11972).",
+  "connections": [
+    "28.4",
+    "28.36",
+    "11>35",
+    "11>36",
+    "23.2",
+    "10>15"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "The direct source is Recanati, fol. 23vb, quoting the Zohar, part I, fol. 36r",
+      "work": "wirszubski1989",
+      "line": 1465,
+      "verbatim": true
+    },
+    {
+      "text": "because everything is created by mediation",
+      "work": "wirszubski1989",
+      "line": 1472,
+      "verbatim": true
+    },
+    {
+      "text": "demonstrably the direct source of some twenty-five theses",
+      "work": "wirszubski1989",
+      "line": 3121,
+      "verbatim": true
+    },
+    {
+      "text": "fairly compatible with Pico’s “Cabbalistic” thesis 28.5",
+      "work": "dougherty2008",
+      "line": 2452,
+      "verbatim": true
+    },
+    {
+      "text": "Baum von Gut und Böse in der neunten Sefirah Jesod",
+      "work": "kabbalah_paradigma",
+      "line": 1476,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico read Recanati in Hebrew, in Mithridates' Latin, in extracts, or through oral instruction: Farmer holds the question unsettled (farmer1998:17488-17496).",
+    "Which sefirah, or whether the whole sefirotic tree, the 'tree of knowledge' denotes in Pico's reading: not established by the sources consulted.",
+    "Any reaction to this thesis by the papal commission or by Pico's contemporaries: not established by the sources consulted.",
+    "The author of the German study (kabbalah_paradigma): the corpus copy begins at 'Erster Teil' without a title page; not established."
+  ],
+  "writer": "WRITER-B1 (agent), 2026-09-25",
+  "verifier": null,
+  "verified_date": null
+}

@@ -1,0 +1,48 @@
+{
+ "thesis_id": "28.47",
+ "latin": "Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus.",
+ "farmer_latin_line": 18410,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2978,
+   "method": "latin_quote",
+   "evidence": [
+    "per dictionem amen ordo",
+    "quomodo numerationum procedant influxus",
+    "expressus quomodo numerationum procedant",
+    "habetur expressus quomodo numerationum"
+   ],
+   "context": "CONCLUSIO X L V I I Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus. Recanati affords all that is needed for the interpretation of this thesis. He"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7562,
+   "method": "latin_quote",
+   "evidence": [
+    "per dictionem amen ordo",
+    "quomodo numerationum procedant influxus",
+    "expressus quomodo numerationum procedant",
+    "habetur expressus quomodo numerationum"
+   ],
+   "context": "Conclusio xlvii: Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus. Kawwanah is known to be consistent with the obtainment of practical"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7560,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xlvii"
+   ],
+   "resolved": true,
+   "context": "Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. Conclusio xlvii: Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>65",
+  "24.27",
+  "24.28",
+  "24.29",
+  "28.33"
+ ]
+}

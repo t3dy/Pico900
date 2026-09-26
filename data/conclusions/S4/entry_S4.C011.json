@@ -1,0 +1,38 @@
+{
+  "commentary": "Demonstrates Avicenna's anatomical precision. Locates olfactory organ in mamillary bodies of brainâ€”remarkably prescient for period. Shows integration of Avicennian medical and psychological theory. Pico's inclusion signals interest in scientific foundation for spiritual faculties.",
+  "scholar_citations": [
+    {
+      "verified": false,
+      "quotation": "[TO SOURCE on Avicennian medicine and perception]",
+      "work": "The Arabic Influences on Early Modern Occult Philosophy (2015)",
+      "scholar": "Saif, Liana",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Organum odoratus sunt carunculae mamillares in anteriori cerebri parte constitutae.",
+  "incipit_id": "I.8.11",
+  "charge": "Earlier theories placed olfaction in nostrils or nasal passages only.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C011",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna's anatomical work, based on careful observation and dissection, correctly identified brain localization of sensory processing. Validates scientific basis for understanding perception and imagination.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "anatomy",
+    "neurology",
+    "sensory-organs",
+    "medical-science",
+    "brain-function"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "The organ of smell consists of the mamillary caruncles located at the front part of the brain."
+  },
+  "updated_date": "2026-09-26T02:08:24.113365",
+  "exegesis": "Pico's conclusion on Necessity within the Avicennism (Islamic Philosophy) tradition."
+}

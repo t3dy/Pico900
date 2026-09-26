@@ -1,0 +1,44 @@
+{
+ "thesis_id": "3>26",
+ "latin": "Ex praecedentibus conclusionibus potest intelligi qui sit formalis numerus, quem dixit Pythagoras esse principium omnium rerum.",
+ "farmer_latin_line": 20648,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 10178,
+   "method": "latin_quote",
+   "evidence": [
+    "precedentibus conclusionibus potest intelligi",
+    "formalis numerus quem dixit",
+    "dixit pythagoras esse principium",
+    "ex precedentibus conclusionibus potest"
+   ],
+   "context": "to ebraico). In proposito, vedi Wirszubski, Pico della Mirandola's Encountercit., pp. 77-83. \" Non per nulla, agli occhi di Pico, che aveva imparato bene la lezione dei pitagorici, i numeri - quelli formali, s'intende, - non sarebbero altro se non i principi di ogni ente; cfr. Conclusiones, p. 406, n. p26: <<Ex praecedentibus Conclusionibus potest intelligi qui ## Page 220"
+  },
+  {
+   "work": "mandosio2012",
+   "line": 247,
+   "method": "latin_quote",
+   "evidence": [
+    "formalis numerus quem dixit",
+    "dixit pythagoras esse principium",
+    "numerus quem dixit pythagoras",
+    "quem dixit pythagoras esse"
+   ],
+   "context": "26 Brach (2009), p. 76, deﬁnes the formal number as ‘number considered as wholly independent from any condition or restraint that would result from it being connected to the continuum, or to any other substratum to which it is supposedly inherent, such as collections of beings or things.’ See also Valcke (1985), pp. 45–48. On Plato and formal numbers, see Crombie (1979), vol. 2, pp. 447 sqq. 27 Pico (1998), p. 406 (Conclusiones paradoxæ . . . nova in philosophia dogmata inducentes, 26): ‘formalis numerus, quem dixit Pythagoras esse principium omnium rerum.’ According to Reuchlin’s interpretation, Pythagoras, in this sentence, meant ‘number’ allegorically, for the ‘principle of all things’ is"
+  }
+ ],
+ "farmer_crossrefs": [
+  "3>24",
+  "3>25",
+  "3>27",
+  "3>28",
+  "3>29",
+  "3>30",
+  "3>31",
+  "3>32",
+  "3>33",
+  "4>5",
+  "7>9"
+ ]
+}

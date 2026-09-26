@@ -1,0 +1,29 @@
+{
+ "thesis_id": "11>65",
+ "latin": "Rectius est ut AMEN tipheret dicat et regnum, ut per uiam numeri ostenditur, quam quod dicat regnum tantum, ut quidam uolunt.",
+ "farmer_latin_line": 27830,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1881,
+   "method": "farmer_id",
+   "evidence": [
+    "11>65"
+   ],
+   "context": "ter, S. 193. 121 Pico, Conclusio cabalistica..., 28.18. (S. 352). Dazu auch Archangelus, Interpretationes in dogmata, fol. 766. 122 Pico, Conclusio cabalistica..., 11>65.,(S. 548)\\ Rectius est ut AMEN tipheret dicat et reg- num, ut per viam numeri ostenditur, quam quod dicat regnum tantum, ut quidam volunt. Hierzu Wirszubski, Giovanni Pico's Companion, S. 356, der als Quelle das >Sefer ha- Shorashim< identifizieren konnte, Archangelus, Interpretationes in dogmata, fol. 867f., und"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1881,
+   "method": "latin_quote",
+   "evidence": [
+    "per uiam numeri ostenditur",
+    "ut amen tipheret dicat",
+    "rectius est ut amen",
+    "et regnum ut per"
+   ],
+   "context": "ter, S. 193. 121 Pico, Conclusio cabalistica..., 28.18. (S. 352). Dazu auch Archangelus, Interpretationes in dogmata, fol. 766. 122 Pico, Conclusio cabalistica..., 11>65.,(S. 548)\\ Rectius est ut AMEN tipheret dicat et reg- num, ut per viam numeri ostenditur, quam quod dicat regnum tantum, ut quidam volunt. Hierzu Wirszubski, Giovanni Pico's Companion, S. 356, der als Quelle das >Sefer ha- Shorashim< identifizieren konnte, Archangelus, Interpretationes in dogmata, fol. 867f., und"
+  }
+ ],
+ "farmer_crossrefs": []
+}

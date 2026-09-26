@@ -1,0 +1,54 @@
+{
+ "thesis_id": "28.9",
+ "latin": "Per sex dies geneseos habemus intelligere sex extremitates aedificii procedentes a Bresith, sicut procedunt cedri a Libano.",
+ "farmer_latin_line": 17649,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 15767,
+   "method": "latin_quote",
+   "evidence": [
+    "sex extremitates edificii procedentes",
+    "bresith sicut procedunt cedri",
+    "per sex dies geneseos",
+    "intelligere sex extremitates edificii"
+   ],
+   "context": "20 Cfr. Recanati, Be'ur 'al ha-Torah ci t., Be-re'sit, c. roa. 21 «I cedri del LibanO>>. il Libano è qui pokmah, mentre i sei cedri sono le sefirot da pesed a yesod. Cosi anche Pico, Conclusiones p. 348, n. 28.9: <<Per sex dies geneseos habe­ mus intelligere sex extremitates aedificii procedentes a Bresith, sicut procedunt cedri a Libano [Con i sei giorni della genesi dobbiamo intendere le sei estremità dell'edificio che procedono da Bereshit, come i cedri procedono dal Libano]>>."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1678,
+   "method": "latin_quote",
+   "evidence": [
+    "sex dies geneseos habemus",
+    "bresith sicut procedunt cedri",
+    "geneseos habemus intelligere sex",
+    "sex extremitates edificii procedentes"
+   ],
+   "context": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce- dentes a Bresith sicut procedunt cedri a Libano. Cf. Recanati, fol. 14vb:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1675,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO IX"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce-"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10009,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio ix"
+   ],
+   "resolved": false,
+   "context": "sometimes involved in the magic that Pico discovered in the Orphic Hymns. Conclusio ix: Idem sunt Curetes apud Orpheum et potestates apud Dionysium."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>48"
+ ]
+}

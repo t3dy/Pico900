@@ -1,0 +1,35 @@
+{
+ "thesis_id": "10>21",
+ "latin": "Opus praecedentium hymnorum nullum est sine opere Cabale, cuius est proprium practicare omnem quantitatem formalem, continuam et discre-",
+ "farmer_latin_line": 26004,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 7196,
+   "method": "latin_quote",
+   "evidence": [
+    "opere cabale cuius est",
+    "nullum est sine opere",
+    "omnem quantitatem formalem continuam",
+    "cabale cuius est proprium"
+   ],
+   "context": "tion of the proper or specific function of Kabbala, in the twenty-first Orphic thesis of the de modo intelligendi hymnos Orphei secundum magiam: Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quantitatem formalem continuam et discretam.18"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10027,
+   "method": "latin_quote",
+   "evidence": [
+    "opere cabale cuius est",
+    "nullum est sine opere",
+    "omnem quantitatem formalem continuam",
+    "cabale cuius est proprium"
+   ],
+   "context": "useful to recall the twenty-first Orphic thesis, which has already been discussed:38 Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quantitatem formalem continuam et discretam."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>20",
+  "7a>38"
+ ]
+}

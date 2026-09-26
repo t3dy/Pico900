@@ -1,0 +1,42 @@
+{
+  "conclusion_id": "S5.C051",
+  "section": "S5",
+  "order": 51,
+  "section_name": "Secundum Zoroastrem",
+  "topic": "Persian & Magian Philosophy",
+  "latin_incipit": "[TO BE SOURCED FROM CRITICAL EDITION]",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "The cosmos is fundamentally dualistic in structure.",
+    "source": "template_S5",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "exegesis": "Pico's conclusion on Cosmology within the Zoroastrian Philosophy tradition.",
+  "commentary_status": "unstarted",
+  "charge": "Adopts Persian dualism incompatible with Christian monotheism",
+  "defense": "Zoroastrian cosmology illuminates theodicy and divine sovereignty",
+  "scholar_citations": [
+    {
+      "scholar": "Brian P Copenhaver",
+      "work": "Magic and the Dignity of Man",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "Dualism",
+    "Cosmology",
+    "Evil",
+    "pico900"
+  ],
+  "status": "unstarted",
+  "notes": "",
+  "created_date": "2026-09-26T02:07:15.341255",
+  "updated_date": "2026-09-26T02:19:54.929714",
+  "translation_status": "pending_sourcing"
+}

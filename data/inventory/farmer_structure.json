@@ -1,0 +1,317 @@
+{
+ "_provenance": "Transcribed from audit/A1_conclusions.md s1a, which read Farmer's edition (Syncretism in the West, MRTS 167, Tempe 1998). Line numbers (F:) are into E:\\pdf\\renaissance magic\\Pico\\Markdown\\Stephen_A_Farmer_..._c99b971b.md. Counts are Farmer's printed counts; headings and chart disagree by one in four places (noted in the names). Not yet re-derived by a second agent.",
+ "printed_total": 900,
+ "historical_total": 402,
+ "own_opinion_total": 498,
+ "historical": [
+  {
+   "group": "Latins",
+   "section": 1,
+   "name": "Albert (the Great)",
+   "count": 16,
+   "heading_line": 10920,
+   "repo_home": null
+  },
+  {
+   "group": "Latins",
+   "section": 2,
+   "name": "Thomas Aquinas",
+   "count": 45,
+   "heading_line": 11238,
+   "repo_home": null
+  },
+  {
+   "group": "Latins",
+   "section": 3,
+   "name": "Francis of Meyronnes",
+   "count": 8,
+   "heading_line": 11969,
+   "repo_home": null
+  },
+  {
+   "group": "Latins",
+   "section": 4,
+   "name": "Scotus",
+   "count": 22,
+   "heading_line": 12135,
+   "repo_home": null
+  },
+  {
+   "group": "Latins",
+   "section": 5,
+   "name": "Henry of Ghent",
+   "count": 13,
+   "heading_line": 12477,
+   "repo_home": null
+  },
+  {
+   "group": "Latins",
+   "section": 6,
+   "name": "Giles of Rome",
+   "count": 11,
+   "heading_line": 12666,
+   "repo_home": null
+  },
+  {
+   "group": "Arabs",
+   "section": 7,
+   "name": "Averroes",
+   "count": 41,
+   "heading_line": 12859,
+   "repo_home": "S3 (11 real + 109 filler)"
+  },
+  {
+   "group": "Arabs",
+   "section": 8,
+   "name": "Avicenna",
+   "count": 12,
+   "heading_line": 13561,
+   "repo_home": "S4 (12 real + 93 filler)"
+  },
+  {
+   "group": "Arabs",
+   "section": 9,
+   "name": "al-Farabi",
+   "count": 11,
+   "heading_line": 13767,
+   "repo_home": null
+  },
+  {
+   "group": "Arabs",
+   "section": 10,
+   "name": "Isaac of Narbonne",
+   "count": 4,
+   "heading_line": 13964,
+   "repo_home": "S8 (filler)"
+  },
+  {
+   "group": "Arabs",
+   "section": 11,
+   "name": "Abumaron (= Avenzoar, F:14071-14074)",
+   "count": 4,
+   "heading_line": 14049,
+   "repo_home": "S8 (filler)"
+  },
+  {
+   "group": "Arabs",
+   "section": 12,
+   "name": "Moses of Egypt (= Maimonides, F:14153-14154)",
+   "count": 3,
+   "heading_line": 14134,
+   "repo_home": "S6 (95 filler, mislabelled)"
+  },
+  {
+   "group": "Arabs",
+   "section": 13,
+   "name": "Mohammed of Toledo",
+   "count": 5,
+   "heading_line": 14209,
+   "repo_home": null
+  },
+  {
+   "group": "Arabs",
+   "section": 14,
+   "name": "Avempace",
+   "count": 2,
+   "heading_line": 14297,
+   "repo_home": null
+  },
+  {
+   "group": "Greek Peripatetics",
+   "section": 15,
+   "name": "Theophrastus (heading says III, chart says 4: F:14363 vs F:10627)",
+   "count": 4,
+   "heading_line": 14362,
+   "repo_home": null
+  },
+  {
+   "group": "Greek Peripatetics",
+   "section": 16,
+   "name": "Ammonius",
+   "count": 3,
+   "heading_line": 14469,
+   "repo_home": null
+  },
+  {
+   "group": "Greek Peripatetics",
+   "section": 17,
+   "name": "Simplicius",
+   "count": 9,
+   "heading_line": 14541,
+   "repo_home": null
+  },
+  {
+   "group": "Greek Peripatetics",
+   "section": 18,
+   "name": "Alexander of Aphrodisias",
+   "count": 8,
+   "heading_line": 14710,
+   "repo_home": null
+  },
+  {
+   "group": "Greek Peripatetics",
+   "section": 19,
+   "name": "Themistius",
+   "count": 5,
+   "heading_line": 14876,
+   "repo_home": null
+  },
+  {
+   "group": "Platonists",
+   "section": 20,
+   "name": "Plotinus",
+   "count": 15,
+   "heading_line": 14987,
+   "repo_home": "S1 (loose)"
+  },
+  {
+   "group": "Platonists",
+   "section": 21,
+   "name": "'Adeland the Arab'",
+   "count": 8,
+   "heading_line": 15274,
+   "repo_home": "S1"
+  },
+  {
+   "group": "Platonists",
+   "section": 22,
+   "name": "Porphyry",
+   "count": 12,
+   "heading_line": 15433,
+   "repo_home": "S1"
+  },
+  {
+   "group": "Platonists",
+   "section": 23,
+   "name": "Iamblichus",
+   "count": 9,
+   "heading_line": 15632,
+   "repo_home": "S1"
+  },
+  {
+   "group": "Platonists",
+   "section": 24,
+   "name": "Proclus",
+   "count": 55,
+   "heading_line": 15838,
+   "repo_home": "S1"
+  },
+  {
+   "group": "Ancient sages",
+   "section": 25,
+   "name": "Pythagorean mathematics (heading XIII, chart 14)",
+   "count": 14,
+   "heading_line": 16886,
+   "repo_home": null
+  },
+  {
+   "group": "Ancient sages",
+   "section": 26,
+   "name": "Chaldean theologians",
+   "count": 6,
+   "heading_line": 17119,
+   "repo_home": "S5 (filler)"
+  },
+  {
+   "group": "Ancient sages",
+   "section": 27,
+   "name": "Mercury Trismegistus",
+   "count": 10,
+   "heading_line": 17236,
+   "repo_home": null
+  },
+  {
+   "group": "Ancient sages",
+   "section": 28,
+   "name": "Hebrew Cabalists",
+   "count": 47,
+   "heading_line": 17420,
+   "repo_home": "S7 C001-C047"
+  }
+ ],
+ "own_opinion": [
+  {
+   "section": "1>",
+   "name": "Paradoxical reconciliations",
+   "count": 17,
+   "heading_line": 18494,
+   "repo_home": null
+  },
+  {
+   "section": "2>",
+   "name": "Philosophical, against the common view",
+   "count": 80,
+   "heading_line": 18858,
+   "repo_home": null
+  },
+  {
+   "section": "3>",
+   "name": "Paradoxical, new doctrines",
+   "count": 71,
+   "heading_line": 20258,
+   "repo_home": null
+  },
+  {
+   "section": "4>",
+   "name": "Theological, against the common mode (title says 31; text has 29)",
+   "count": 29,
+   "heading_line": 21432,
+   "repo_home": null
+  },
+  {
+   "section": "5>",
+   "name": "Plato",
+   "count": 62,
+   "heading_line": 22132,
+   "repo_home": null
+  },
+  {
+   "section": "6>",
+   "name": "Book of Causes",
+   "count": 10,
+   "heading_line": 23348,
+   "repo_home": null
+  },
+  {
+   "section": "7>/7a>",
+   "name": "Mathematics (11 + 74)",
+   "count": 85,
+   "heading_line": 23606,
+   "repo_home": null
+  },
+  {
+   "section": "8>",
+   "name": "Zoroaster and Chaldeans",
+   "count": 15,
+   "heading_line": 24715,
+   "repo_home": "S5 (filler)"
+  },
+  {
+   "section": "9>",
+   "name": "Magic",
+   "count": 26,
+   "heading_line": 25106,
+   "repo_home": null
+  },
+  {
+   "section": "10>",
+   "name": "Orphic Hymns",
+   "count": 31,
+   "heading_line": 25560,
+   "repo_home": null
+  },
+  {
+   "section": "11>",
+   "name": "Cabalistic, confirming the Christian religion (title says 71 at F:26276; text runs to 72, ends '(900)' at F:28088)",
+   "count": 72,
+   "heading_line": 26227,
+   "repo_home": "S7 C048-C118 (71 of 72; 11>66 missing)"
+  }
+ ],
+ "id_scheme": "Cite as Farmer's section.thesis: '7.2' for historical, '4>8' for own-opinion. The repo's S1..S9 ids are retired.",
+ "repo_sections_with_no_counterpart": [
+  "S2 Aristotle",
+  "S9 Theologians"
+ ],
+ "note": "The thirteen condemned theses are flags on 4>, 3> and 9> theses, not a section; see condemned_thirteen.json"
+}

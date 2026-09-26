@@ -1,0 +1,52 @@
+{
+ "thesis_id": "28.4",
+ "latin": "Peccatum Adae fuit truncatio regni a caeteris plantis.",
+ "farmer_latin_line": 17544,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1393,
+   "method": "latin_quote",
+   "evidence": [
+    "peccatum ade fuit truncatio",
+    "ade fuit truncatio regni"
+   ],
+   "context": "CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis. The prohibition of the fruit of the tree of knowledge, or, more precisely, Gen. 2:16, \"And the Lord God commanded the man saying,\" etc., is"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 6864,
+   "method": "latin_quote",
+   "evidence": [
+    "peccatum ade fuit truncatio",
+    "ade fuit truncatio regni"
+   ],
+   "context": "5 Scholem, \"Zur Geschichte der Anfänge der christlichen Kabbala,\" p. 164, n. 1. 6 Cf. Conclusiones Cabalisticae secundum secretam doctrinam sapientum Hebraeorum Cabalistarum, iv: \"Peccatum Adae fuit truncatio regni a caeteris plantis,\" Opera, p. 81. [134]"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1390,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO IV"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9972,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio iv"
+   ],
+   "resolved": false,
+   "context": "correspondences between the hymns and Kabbala that Pico pointed out in three theses, namely: Conclusio iv: Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>35",
+  "11>36",
+  "1>4"
+ ]
+}

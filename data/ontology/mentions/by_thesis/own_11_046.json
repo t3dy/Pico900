@@ -1,0 +1,69 @@
+{
+ "thesis_id": "11>46",
+ "latin": "Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod tunc passus est filius dei et uerus messias.",
+ "farmer_latin_line": 27339,
+ "mentions": [
+  {
+   "work": "akopyan2018",
+   "line": 690,
+   "method": "latin_quote",
+   "evidence": [
+    "dei et uerus messias",
+    "accidit in morte christi",
+    "morte christi sciri potest",
+    "que accidit in morte"
+   ],
+   "context": "52. “Sicut fuit luna plena in Salomone, ita fuit plenus Sol in uero Messia qui fuit Iesus. Et de cor- respondencia ad diminutionem in Sedechia potest quis coniectare, si profundat in cabala” (Conclu- siones Cabalisticae, 51). 53. “Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod tunc passus est ﬁlius dei et uerus messias” (ibid., 46). 54. Ibid., 5–6, 14–15. 55. For a brief description of this idea, see Secret, I cabbalisti cristiani, 60, 77–78, 137–39."
+  },
+  {
+   "work": "akopyan2021",
+   "line": 1404,
+   "method": "latin_quote",
+   "evidence": [
+    "morte christi sciri potest",
+    "in morte christi sciri",
+    "potest secundum fundamenta cabale",
+    "filius dei et uerus"
+   ],
+   "context": "76 Conclusiones Cabalisticae, 51: ‘Sicut fuit luna plena in Salomone, ita fuit plenus Sol in vero Messia qui fuit Iesus. Et de correspondencia ad diminutionem in Sedechia potest quis coniectare, si profundat in cabala.’ 77 Ibid., 46: ‘Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fun- damenta cabalae quod tunc passus est filius dei et verus messias.’ 78 Ibid., 5–6; 14–15. 79 Secret, I cabbalisti cristiani del Rinascimento, pp. 60, 77–78, 137–39; Robert J. Wilkinson,"
+  },
+  {
+   "work": "busi2014",
+   "line": 25054,
+   "method": "latin_quote",
+   "evidence": [
+    "passus est filius dei",
+    "dei et uerus messias",
+    "accidit in morte christi",
+    "morte christi sciri potest"
+   ],
+   "context": "404 PICUS MYTHICUS, MAGICUS, CABALISTICUS [93] Per eclipsationem solis guae accidit in morte Christi sciri potest secundum fondamenta cabalae quod tunc passus est filius dei et verus messias. [94] Sicut fuit luna piena in Salomone, ita fuit plenus Sol in ve­"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2122,
+   "method": "farmer_id",
+   "evidence": [
+    "11>46"
+   ],
+   "context": "die Kabbalah, in diesem Zusammenhang aufeinander abzubilden, wie es auch Ricci später tun wird. 134 Zum Tempelvorhang Pico, Conclusio secundum...Zoroastris, 8>9. (S. 490), Conclusiones cabalisticae..., 11>38. (S. 536), 11>46. (S. 538): Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod tunc passus est filius die et verus messias. Zu dieser Conclusio und ihren Hintergründen auch Pompeo Faracovi, II tema dell'eclissi, passim."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2122,
+   "method": "latin_quote",
+   "evidence": [
+    "accidit in morte christi",
+    "morte christi sciri potest",
+    "que accidit in morte",
+    "per eclipsationem solis que"
+   ],
+   "context": "die Kabbalah, in diesem Zusammenhang aufeinander abzubilden, wie es auch Ricci später tun wird. 134 Zum Tempelvorhang Pico, Conclusio secundum...Zoroastris, 8>9. (S. 490), Conclusiones cabalisticae..., 11>38. (S. 536), 11>46. (S. 538): Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod tunc passus est filius die et verus messias. Zu dieser Conclusio und ihren Hintergründen auch Pompeo Faracovi, II tema dell'eclissi, passim."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>10",
+  "11>47",
+  "11>51"
+ ]
+}

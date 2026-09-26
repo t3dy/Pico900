@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A2 found factual and bibliographic errors here (mis-gendered scholars, unconfirmed titles, speculative attributions to works not read).  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # S2 SYNTHESIZER Methodology Report: Heretical Essay Outline
 
 **Agent**: S2-HERETICAL-ESSAY (SYNTHESIZER)  

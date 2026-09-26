@@ -1,0 +1,38 @@
+{
+ "thesis_id": "3>61",
+ "latin": "Tota substantia animae rationalis est pars intellectualis.",
+ "farmer_latin_line": 21257,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1695,
+   "method": "farmer_id",
+   "evidence": [
+    "3>61"
+   ],
+   "context": "101 Pico, Conclusiones paradoxae..., 3>7. (S. 400), zusammen mit 3>40. (S. 410). 102 Pico, Conclusiones paradoxae..., 3>60. (S. 418): Nihil intellegit actu et distincte anima, nisi se ipsam., 3>61.: Tota substantia animae rationalis est pars intellectualis., 3>66.: Potest anima per extrinsecam informationem ad hoc devenire, ut omnia per substantialem suam formam indivisibiliter intelligat., zusammen mit 3>52. (S. 414): Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis,"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1765,
+   "method": "farmer_id",
+   "evidence": [
+    "3>61"
+   ],
+   "context": "geworden ist, belegt Farmer, Syncretism in the West, S. 97-101. 112 Pico, Conclusio philosophica..., 2>50. (S. 386). 1,3 Pico, Conclusiones philosophicae..., 2>65., 2>73. (S. 394), 2>78. (S. 396)., Conclusio paradoxa..., 3>61. (S. 418). Hierzu auch Roulier, Jean Pic de la Mirandole, S. 359-363, und Farmer, Syncretism in the West, S. 112-114, wenn auch ohne die von uns gezogenen Schlußfolgerungen. 114 Pico, Conclusiones paradoxae..., 3>23. (S. 404): Sicut formae substantiates in secundo"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1695,
+   "method": "latin_quote",
+   "evidence": [
+    "substantia anime rationalis est",
+    "rationalis est pars intellectualis",
+    "anime rationalis est pars",
+    "tota substantia anime rationalis"
+   ],
+   "context": "101 Pico, Conclusiones paradoxae..., 3>7. (S. 400), zusammen mit 3>40. (S. 410). 102 Pico, Conclusiones paradoxae..., 3>60. (S. 418): Nihil intellegit actu et distincte anima, nisi se ipsam., 3>61.: Tota substantia animae rationalis est pars intellectualis., 3>66.: Potest anima per extrinsecam informationem ad hoc devenire, ut omnia per substantialem suam formam indivisibiliter intelligat., zusammen mit 3>52. (S. 414): Eadem est scientia de deo, homine, et materia prima, et qui de uno scientiam habuerit, habebit et de reliquis,"
+  }
+ ],
+ "farmer_crossrefs": []
+}

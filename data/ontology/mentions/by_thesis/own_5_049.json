@@ -1,0 +1,30 @@
+{
+ "thesis_id": "5>49",
+ "latin": "Ex eo nomine quo dei nominant amorem, patet diligenter aduertenti quod in actu amoris non est foelicitas.",
+ "farmer_latin_line": 22994,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 6542,
+   "method": "farmer_id",
+   "evidence": [
+    "5>49"
+   ],
+   "context": "\" Conclusiones, p. 452, n. 5>49. '6 Platone, Phaedrus, 252b; Id., Tutte le opere cit., p. 560. \" Cfr. Pseudo·Dionigi Areopagita, De divinis nominibus, I, 589a; Id., Tutte le opere cit., pp. 254-55."
+  },
+  {
+   "work": "busi2014",
+   "line": 26620,
+   "method": "farmer_id",
+   "evidence": [
+    "5>49"
+   ],
+   "context": "247r: LXXIX 5>ro: 159, 170 Commentarium ad mentem Platonis (Egidio 5>I I : 159, 171 da Viterbo) 5>12: 159 dist. I, 17: 1 3 5>49' 29 Commentarium in Cantica Canticorum (Ger­ 5>58: 25 sonide): 361 7>7: 326 Commentarium in Philebum (Ficino): 1 2 7>8: 326"
+  }
+ ],
+ "farmer_crossrefs": [
+  "3>43",
+  "3>48",
+  "3>49"
+ ]
+}

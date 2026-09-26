@@ -1,0 +1,54 @@
+{
+ "thesis_id": "28.24",
+ "latin": "Cum dixit Iob, qui facit pacem in excelsis suis, aquam intellexit australem et ignem septentrionalem, et praefectos illorum de quibus non est ultra dicendum.",
+ "farmer_latin_line": 17969,
+ "mentions": [
+  {
+   "work": "borghesi2012",
+   "line": 1596,
+   "method": "latin_quote",
+   "evidence": [
+    "qui facit pacem in",
+    "facit pacem in excelsis"
+   ],
+   "context": "83. Percontemur et iustum Iob, qui foedus iniit cum Deo vitae prius quam ipse ederetur in vitam, quid summus Deus in decem illis centenis millibus qui assistunt ei potissimum desideret: pacem utique respondebit, iuxta id quod apud eum legitur: “Qui facit pacem in excelsis.” 84. Et quoniam supremi ordinis monita medius ordo inferioribus interpre- tatur, interpretetur nobis Iob theologi verba Empedocles philosophus. 85. Hic duplicem naturam in nostris animis sitam, quarum altera sursum tol-"
+  },
+  {
+   "work": "edelheit2008",
+   "line": 16246,
+   "method": "latin_quote",
+   "evidence": [
+    "qui facit pacem in",
+    "facit pacem in excelsis"
+   ],
+   "context": "trines, represented as the task of natural and moral philosophy as well as of dialectic, in Pico’s famous speech which he wrote for the opening of the assembly he planned to hold in Rome to discuss his 900 theses. Discordia and dissidia are contrasted to pax, which is related to God (qui facit pacem in excelsis), and thus, Empedocles becomes rele- vant as an interpreter of Job; see Garin [ed.], De hominis dignitate, heptaplus… pp. 116–118: “Percontemur et iustum Iob, qui foedus iniit cum Deo vitae prius quam ipse ederetur in vitam, quid summus Deus in decem illis centenis milibus, qui assistunt ei, potissi-"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2313,
+   "method": "latin_quote",
+   "evidence": [
+    "prefectos illorum de quibus",
+    "quibus non est ultra",
+    "septentrionalem et prefectos illorum",
+    "de quibus non est"
+   ],
+   "context": "CONCLUSIO XXIV Cum dixit lob [25:2] qui facit pacem in excelsis suis, aquam intellexit australem et ignem septentrionalem, et praefectos illorum, de quibus non est ultra dicendum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2310,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XXIV Cum dixit lob [25:2] qui facit pacem in excelsis suis, aquam intellexit"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>11",
+  "11>45",
+  "28.1"
+ ]
+}

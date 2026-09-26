@@ -1,0 +1,80 @@
+{
+ "thesis_id": "11>48",
+ "latin": "Quicquid dicant caeteri cabalistae, ego decem spheras sic decem numerationibus correspondere dico, ut ab aedificio incipiendo, Iupiter sit quartae, Mars quintae, Sol sextae, Saturnus septimae, Venus octauae, Mercurius nonae, Luna decimae; tum supra aedificium, firmamentum tertiae, Primum mobile secundae, caelum empyreum decimae.",
+ "farmer_latin_line": 27423,
+ "mentions": [
+  {
+   "work": "akopyan2018",
+   "line": 743,
+   "method": "latin_quote",
+   "evidence": [
+    "ceteri cabaliste ego decem",
+    "mars quinte sol sexte",
+    "quinte sol sexte saturnus",
+    "sexte saturnus septime uenus"
+   ],
+   "context": "sion, whatever other Cabalists say, that the ﬁrst commandment corresponds to the ﬁrst numeration, the second to the second, the third to the third, the fourth to the seventh, the ﬁfth to the fourth, the sixth to the ﬁfth, the seventh to the ninth, the eighth to the eighth, the ninth to the sixth, the tenth to the tenth” (Quicquid dicant ceteri cabaliste, ego decem spheras sic decem numeracionibus correspondere dico, ut ediﬁcio incipiendo, Iupiter sit quarte, Mars quinte, Sol sexte, Saturnus septime, Venus octaue, Mercu- rius none, Luna decime, cum supra ediﬁcium ﬁrmamentum tercia, primum mobile secunda, celum Empyreum prima. Qui sciverit correspondenciam decem preceptorum ad prohibencia per "
+  },
+  {
+   "work": "akopyan2021",
+   "line": 1455,
+   "method": "latin_quote",
+   "evidence": [
+    "edificio incipiendo iupiter sit",
+    "ceteri cabaliste ego decem",
+    "mars quinte sol sexte",
+    "mercurius none luna decime"
+   ],
+   "context": "tizare et quiescere convenientius fit post Christum die dominico, quam die sabbati.’ 82 In the Kabbalah, the ten sefirot are considered revelations or emanations of the will of God. 83 Conclusiones Cabalisticae, 48–49: ‘Quicquid dicant ceteri cabaliste, ego decem spheras sic decem numeracionibus correspondere dico, ut edificio incipiendo, Iupiter sit quarte, Mars quinte, Sol sexte, Saturnus septime, Venus octave, Mercurius none, Luna decime, cum supra edificium firmamentum tercia, primum mobile secunda, celum Empyreum"
+  },
+  {
+   "work": "busi2014",
+   "line": 24617,
+   "method": "latin_quote",
+   "evidence": [
+    "mobile secunde celum empyreum",
+    "supra edificium firmamentum tertie",
+    "quarte mars quinte sol",
+    "tum supra edificium firmamentum"
+   ],
+   "context": "[4o] Predictis vitis cooperantur Sol et Luna ut causae univer­ sales et per appropriationem: Luna Mercurio et Saturno, Sol Ve­ neri et Marti, simul uterque lovi. [41] Quicquid dicant caeteri cabalistae, ego decem spheras sic decem numerationibus correspondere dico, ut ab aedificio in­ cipiendo, lupiter sit quartae, Mars quintae, Sol sextae, Saturnus septimae, Venus octavae, Mercurius nonae, Luna decimae; tum"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7890,
+   "method": "farmer_id",
+   "evidence": [
+    "11>48"
+   ],
+   "context": "Among the Kabbalistic theses with magical themes are four that dealt with astrology: 11>48. Whatever other Cabalists say, I say that the ten spheres correspond to the ten numerations [seﬁrot] like this: so that starting from the ediﬁce, Jupiter corresponds to the fourth, Mars to the ﬁfth. . . ."
+  },
+  {
+   "work": "howlett2021",
+   "line": 7774,
+   "method": "latin_quote",
+   "evidence": [
+    "mobile secunde celum empyreum",
+    "quarte mars quinte sol",
+    "spheras sic decem numerationibus",
+    "luna decime tum supra"
+   ],
+   "context": "Israeli, a North African Jew of the ninth century. 121. Pico, Heptaplus (1965b, 96 and n3). 122. Pico, Heptaplus (1965b, 96). 123. Pico, Conclusions (1998, 540–1, 11 > 48) ‘Quicquid dicant caeteri cabalistae, ego decem spheras sic decem numerationibus correspon- dere dico, ut ab aediﬁcio incipiendo, Iupiter sit quartae, Mars quintae, Sol sextae, Saturnus septimae, Venus octauae, Mercurius nonae, Luna"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1566,
+   "method": "farmer_id",
+   "evidence": [
+    "11>48"
+   ],
+   "context": "Kabbalah, S. 150f. Schon Wirszubski, Pico's Companion, S. 358f., hat zeigen können, daß der trinitarischen Auslegung der hier vorliegenden Quelle, dem >Sefer ha-shorashim<, in der lateinischen Übersetzung des Flavius Mithradates ein wenig nachgeholfen wurde. 96 Pico, Conclusio cabalistica..., 11>48 (S. 540), ebenso auch die Verbindung der Seelen- vermögen mit dem Sefirotmuster, Conclusio cabbalistica..., 11>66 (S. 548): Ego animam nostram sic decern sephirot adapto, ut per unitatem suam sit cum prima, per intellectum cum secunda, per rationem cum tertia, per superiorem concupiscibilem cum quarta, per"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>2",
+  "11>49",
+  "11>50",
+  "28.22",
+  "28.9"
+ ]
+}

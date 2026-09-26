@@ -1,0 +1,33 @@
+{
+ "thesis_id": "4.1",
+ "latin": "Charitas non est distinctus habitus ab habitu gratiae, quo mediante spiritus sanctus animam inhabitat.",
+ "farmer_latin_line": 12140,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13746,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 1"
+   ],
+   "context": "Pico and John Duns Scotus 289 In thesis 1 we read that charity (caritas) should not be regarded as a dif- ferent habit from the habit of grace, which, through the mediation of the Holy Spirit, inheres in the soul.4 Scotus discusses the habit of charity in his Ordinatio 1, d. 17, pars 1, q. 1–2.5 The source for Pico’s thesis is found at the heart"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13770,
+   "method": "latin_quote",
+   "evidence": [
+    "est distinctus habitus ab",
+    "charitas non est distinctus",
+    "spiritus sanctus animam inhabitat",
+    "quo mediante spiritus sanctus"
+   ],
+   "context": "and also the Lectura completa (Scotus’s lecture notes on Book 3) are discussed there on pp. 7–8. 4 Pico, 900 Theses, p. 236: “Charitas non est distinctus habitus ab habitu graciae, quo mediante spiritus sanctus animam inhabitat.” 5 John Duns Scotus, Ordinatio 1, d. 17, pars 1, q. 1–2, in Opera omnia, ed. C. Balić et al. (Studio et cura Commissionis Scotisticae), vol. 5 (Vatican City, 1959), pp. 139–231. This is indicated by"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.9",
+  "3.5",
+  "4.22"
+ ]
+}

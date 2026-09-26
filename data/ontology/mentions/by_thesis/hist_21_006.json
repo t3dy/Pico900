@@ -1,0 +1,24 @@
+{
+ "thesis_id": "21.6",
+ "latin": "Quia sicut dixit Abdala, videre somnia est fortitudo imaginationis, intelligere ea est fortitudo intellectus, ideo qui uidet ea ut plurimum non intelligit ea.",
+ "farmer_latin_line": 15358,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 1241,
+   "method": "latin_quote",
+   "evidence": [
+    "fortitudo intellectus ideo qui",
+    "dixit abdala uidere somnia",
+    "sicut dixit abdala uidere",
+    "quia sicut dixit abdala"
+   ],
+   "context": "con Abdallah ibn Salam, ebreo di Medina a cui la tradizione riferisce Corano 46, IO. Per quanto noto, nessuna fonte attribuisce però a tale personaggio un detto simile a quello ri­ portato qui da Pico. Va detto che il Conte cita il misterioso autore anche in Conclusiones, n. 2 I .6: <<Quia sicut dixit Abdala, videre somnia est fortitudo imaginationis, intelligere ea est fortitudo intellectus, ideo qui videt ea ut plurimum non intellegit ea». Fatte salve tutte le riserve del caso, visti i falsi sparsi qua e là da Mitridate, non si può negare che l'esaltazione delle capacità dell'uomo, qui attribuita ad Abdalla, e un'antropologia per certi versi affi­"
+  }
+ ],
+ "farmer_crossrefs": [
+  "21.4",
+  "3>3",
+  "7.1"
+ ]
+}

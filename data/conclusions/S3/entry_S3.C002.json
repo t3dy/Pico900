@@ -1,0 +1,41 @@
+{
+  "conclusion_id": "S3.C002",
+  "section": "S3",
+  "conclusion_num": "I.7.2",
+  "latin_incipit": "Una est anima intellectiva in omnibus hominibus.",
+  "english_translation": "There is one intellective soul in all human beings.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Averroes holds the doctrine of monopsychism: the potential intellect (intellectus possibilis) is singular and eternal, shared by all humanity.",
+  "defense": "Pico explicitly rejects this in I.7.4, asserting that personal immortality and individual soul survival are possible even if the agent intellect is universal.",
+  "exegesis": "This is Averroes's famous doctrine of the unity of the intellect—there is only one eternal, shared intellectus possibilis (potential intellect) for all people. Individual thought is the result of this intellect acting through particular faculties. This was controversial, especially for Christian theologians who insisted on individual immortality.",
+  "scholar_citations": [
+    {
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": true,
+  "heretical_notes": "This doctrine was condemned by the Church as incompatible with Christian personal immortality, individual moral responsibility, and the afterlife. It relates to Q8 (epistemology of belief) in the heretical essay.",
+  "tags": [
+    "intellect",
+    "unity",
+    "monopsychism",
+    "soul",
+    "heretical",
+    "Q8_epistemology"
+  ],
+  "notes": "Central to understanding both Averroist philosophy and Pico's heretical propositions. Pico preserves elements while rejecting the most problematic implications.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666121Z",
+  "updated_date": "2026-09-26T02:19:54.807759"
+}

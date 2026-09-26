@@ -1,0 +1,90 @@
+{
+ "thesis_id": "8>6",
+ "latin": "Dicta interpretum Chaldeorum super .xi. amphorismo, de duplici ebriatione, Bacchi et Sileni, perfecte intelligentur per dicta cabalistarum de duplici uino.",
+ "farmer_latin_line": 24842,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 20272,
+   "method": "farmer_id",
+   "evidence": [
+    "8>6"
+   ],
+   "context": "27 Conclusiones, p. 438, n. 5>3. \" Ibid. , p. 488, n. 8>6. 29 Ibid. , p. 506, n. 10>4. \"' Ibid. , p. 510, n. 10>15."
+  },
+  {
+   "work": "busi2014",
+   "line": 23351,
+   "method": "farmer_id",
+   "evidence": [
+    "8>6"
+   ],
+   "context": "[107] I detti degli interpreti caldei a proposito dell'XI aforisma sui due tipi di ebbrezza, di Bacco e di Sileno, si comprendono perfet­ tamente con quanto dicono i cabbalisti sui due tipi di vino [Conclu­ siones, p. 488, n. 8>6]. [108] Chi sappia cos'è il vino purissimo presso i cabbalisti sa per­ ché Davide disse: «Mi inebrierò dell'abbondanza della tua casa» (Sal. 3 6, 9) e quale sia l'ebrezza che l'antico vate Museo ha definito feli­"
+  },
+  {
+   "work": "busi2014",
+   "line": 26624,
+   "method": "farmer_id",
+   "evidence": [
+    "8>6"
+   ],
+   "context": "Commentarium in Cantica Canticorum (Ger­ 5>58: 25 sonide): 361 7>7: 326 Commentarium in Philebum (Ficino): 1 2 7>8: 326 XXVI: 382 8>6: 304, 367 Commento agli Oracoli caldaici (Psello): 93 8>1 2: 8r I I33a5-8: 93 9>6: 198 I I37d5-1 140a2: 264 9>9= 295"
+  },
+  {
+   "work": "busi2014",
+   "line": 25204,
+   "method": "latin_quote",
+   "evidence": [
+    "amphorismo de duplici ebriatione",
+    "interpretum chaldeorum super xi",
+    "bacchi et sileni perfecte",
+    "sileni perfecte intelligentur per"
+   ],
+   "context": "Vinum [107] Dieta interpretum Chaldeorum super .XI. amphorismo, de duplici ebriatione, Bacchi et Sileni, perfecte intelligentur per dieta cabalistarum de duplici vino. [ro8] Qui sciverit quid est vinum purissimum apud Cabalistas,"
+  },
+  {
+   "work": "corazzol2019",
+   "line": 496,
+   "method": "latin_quote",
+   "evidence": [
+    "amphorismo de duplici ebriatione",
+    "interpretum chaldeorum super xi",
+    "bacchi et sileni perfecte",
+    "sileni perfecte intelligentur per"
+   ],
+   "context": "consisted in worshipping the tenth seﬁrah as though it were a god on its own, different and separate from the one and only God. Thus, failing at unifying the seﬁrotic realm causes harm to the latter and can potentially lead to an act of idolatry. We can now turn to conclusion 8 > 6: “Dicta interpretum Chaldeorum super xi amphorismo de duplici ebriatione, Bacchi et Sileni, perfecte intelligentur per dicta ## Page 10"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9768,
+   "method": "latin_quote",
+   "evidence": [
+    "amphorismo de duplici ebriatione",
+    "interpretum chaldeorum super xi",
+    "bacchi et sileni perfecte",
+    "sileni perfecte intelligentur per"
+   ],
+   "context": "consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9798,
+   "method": "latin_quote",
+   "evidence": [
+    "cabalistarum de duplici uino",
+    "dicta cabalistarum de duplici"
+   ],
+   "context": "tenth sefirah, \"diadema et eternitatem et decorem, quia vinum per se indicat diadema et uve sunt eternitas et decor\"; the latter signifies \"latus immundum.\"28 It makes sense to assume, even if it cannot be proved, that some such distinction was what Pico meant by \"dicta Cabalistarum de duplici vino.\" The relationship between the Kabbalistic \"wine\" and the Platonic"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>1",
+  "11>11",
+  "11>13",
+  "11>17",
+  "11>57",
+  "28.35",
+  "8>7",
+  "8>8"
+ ]
+}

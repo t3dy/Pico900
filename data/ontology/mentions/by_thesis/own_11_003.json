@@ -1,0 +1,80 @@
+{
+ "thesis_id": "11>3",
+ "latin": "Scientia quae est pars practica cabalae_practicat totam methaphysicam formalem et theologiam inferiorem.",
+ "farmer_latin_line": 26392,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 20078,
+   "method": "latin_quote",
+   "evidence": [
+    "formalem et theologiam inferiorem",
+    "est pars practica cabale",
+    "pars practica cabale practicat",
+    "methaphysicam formalem et theologiam"
+   ],
+   "context": "sefirot>> senza tuttavia riuscire a individuare alcun passo cabbalistico ove si parli espressa­ mente di << tre merkavot». Si è tentati di pensare che allo studioso israeliano siano sfuggiti i testi di Giqatilla e di Recanati mezionati qui sopra. \" Conclusiones, p. 520, n. r r>y <<Scientia guae est pars practica cabalae practicat to­ tam methaphysicam formalem et theologiam inferiorem>>. ## Page 433"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2843,
+   "method": "farmer_id",
+   "evidence": [
+    "11>3"
+   ],
+   "context": "Pico claims an original stance and distinguishes practical from specula- tive Cabala. Unsurprisingly, the next two theses clarify what he means. Thesis 11>3 teaches, “The science that is the practical part of the Cabala practices all formal metaphysics and inferior theology.”67 To the reader, trained in scholastic terminology, this is a debatable but not outrageous statement. Even though it is not quite clear what “formal” means with"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2953,
+   "method": "farmer_id",
+   "evidence": [
+    "11>3"
+   ],
+   "context": "of revolving alphabets as closely connected with biblical hermeneutics, which is justiﬁed by Pico’s remarks in the Apology but raises another question concerning his quasi-hermeneutic approach to reality. Unfor- tunately, Zorzi does not reconcile theses 11>2 and 11>3, which seem to contradict one another insofar as metaphysics and theology are qualiﬁed one time as speculative, another time as practical. Nevertheless, the bulk of the 72 Cabalistic theses do as promised, since"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7112,
+   "method": "latin_quote",
+   "evidence": [
+    "pars practica cabale practicat",
+    "que est pars practica",
+    "scientia que est pars",
+    "practica cabale practicat totam"
+   ],
+   "context": "Conclusio iii: Scientia quae est pars practica Cabalae, practicat totam metaphysicam formalem et theologiam inferiorem. According to Pico's own division of Kabbala \"in scientiam sephiroth et"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3319,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": false,
+   "context": "Finally, the Vaticanus 190. The first piece included in this manuscript is the anonymous Liber Combinationum. Pico certainly used it for his first set of theses: it is the direct source of Conclusio iii. The book, in Scholem's opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7110,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": true,
+   "context": "things: the art of combining letters and the doctrine of the ten sefirot. Pico defines practical Kabbala in his third thesis: Conclusio iii: Scientia quae est pars practica Cabalae, practicat totam metaphysicam formalem et theologiam inferiorem."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>15",
+  "11>1",
+  "11>35",
+  "11>36",
+  "2>27",
+  "3.1",
+  "3.2",
+  "5>1",
+  "6.1"
+ ]
+}

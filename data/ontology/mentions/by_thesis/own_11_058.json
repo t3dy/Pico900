@@ -1,0 +1,30 @@
+{
+ "thesis_id": "11>58",
+ "latin": "Rectius foret illud Becadmin, quod ponit glosa chaldaica super dictione Bresit, exponere de sapientialibus ideis_quam de trigintaduabus uiis, ut dicunt alii Cabalistae; utrunque tamen est rectum in Cabala.",
+ "farmer_latin_line": 27633,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9116,
+   "method": "latin_quote",
+   "evidence": [
+    "est rectum in cabala",
+    "ut dicunt alii cabaliste",
+    "illud becadmin quod ponit",
+    "bresit exponere de sapientialibus"
+   ],
+   "context": "Conclusio lviii: Rectius foret illud Becadmin, quod ponit glossa Chaldaica super dictionem Bresit, exponere de sapientialibus ideis quam de triginta duabus uiis, ut dicunt alii Cabalistae, utrumque tarnen est rectum in Cabala."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9114,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lviii"
+   ],
+   "resolved": true,
+   "context": "(participare lucem) — coincide in the same symbols. This is, if I may borrow Pico's own expression elsewhere, maxime cabalisticum. Conclusio lviii: Rectius foret illud Becadmin, quod ponit glossa Chaldaica super dictionem Bresit, exponere de sapientialibus ideis quam de triginta duabus uiis, ut"
+  }
+ ],
+ "farmer_crossrefs": []
+}

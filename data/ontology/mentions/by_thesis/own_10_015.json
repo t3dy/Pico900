@@ -1,0 +1,77 @@
+{
+ "thesis_id": "10>15",
+ "latin": "Idem est nox apud Orpheum_et ensoph in Cabala.",
+ "farmer_latin_line": 25892,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 15078,
+   "method": "farmer_id",
+   "evidence": [
+    "10>15"
+   ],
+   "context": "le nell'abisso della prima unità e nella caligine delle prime tenebre [Conclusiones, p. 338, n. 26.5]. [55] La Notte di Oifeo e l'En Sof cabbalistico sono la stessa cosa [Conclusiones, p. 510, n. 10>15]. [56] In base alla precedente tesi si può dedurre, in modo piu cor­ retto di quanto non faccia Proclo, il significato di quel detto del teolo­ go che rappresenta ilfabbricatore del mondo consultarsi con la Notte"
+  },
+  {
+   "work": "busi2014",
+   "line": 20274,
+   "method": "farmer_id",
+   "evidence": [
+    "10>15"
+   ],
+   "context": "27 Conclusiones, p. 438, n. 5>3. \" Ibid. , p. 488, n. 8>6. 29 Ibid. , p. 506, n. 10>4. \"' Ibid. , p. 510, n. 10>15. ## Page 437"
+  },
+  {
+   "work": "busi2014",
+   "line": 24760,
+   "method": "latin_quote",
+   "evidence": [
+    "idem est nox apud",
+    "nox apud orpheum et",
+    "et ensoph in cabala",
+    "apud orpheum et ensoph"
+   ],
+   "context": "tione ut dixit Amasis aegyptius, sed est super omnem intellectua­ lem hierarchiam in abysso primae unitatis, et sub caligine prima­ rum tenebrarum, inparticipaliter abscondita. [55] Idem est nox apud Orpheum et ensoph in Cabala. [56] Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi velit illud dictum theologi indu­ centis opificem mundi noctem consulentem de opificio mundano."
+  },
+  {
+   "work": "howlett2021",
+   "line": 6267,
+   "method": "latin_quote",
+   "evidence": [
+    "idem est nox apud",
+    "nox apud orpheum et",
+    "et ensoph in cabala",
+    "apud orpheum et ensoph"
+   ],
+   "context": "intelligibilis, nominator.’ 231. Wirszubski (1989, 199). 232. Wirszubski (1989, 194). 233. Pico, Conclusions (1998, 510–11, 10 > 15): ‘Idem est nox apud Orpheum et ensoph in Cabala.’ 234. Pico, Conclusions (1998, 540–41, 11 > 48). 235. Pico, Conclusions (1998, 540–41, 11 > 49)."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1504,
+   "method": "farmer_id",
+   "evidence": [
+    "10>15"
+   ],
+   "context": "arbore scientiae boni et mali, in qua peccavit primus homo, creavit deus saeculum. 89 Pico, Conclusio secundum propriam opinionem de modo intelligendi hymnos Orphei secundum Magiam, id est, secretam divinarum rerum naturaliumque sapientiam a me primum in eis repertam, 10>15. (S. 510), Conclusiones cabalisticae..., 11>5 (S. 522), 11>35, 11>36 (S. 534). Hierzu Greive, Die christliche Kabbalah, S. 146f., und besonders Wirszubski, Pico's Encounter, S. 235-238, der die Belege aus Azriel von Gerona und Moses Nachmanides bereithält. Zur Gleichsetzung von Keter und \"pN Wirszubski, Pico's"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10003,
+   "method": "latin_quote",
+   "evidence": [
+    "idem est nox apud",
+    "nox apud orpheum et",
+    "et ensoph in cabala",
+    "apud orpheum et ensoph"
+   ],
+   "context": "Conclusio xv: Idem est nox apud Orpheum et Ensoph in Cabala. What I have in mind is the fact that sefirot and Hebrew names of God are sometimes involved in the magic that Pico discovered in the Orphic"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>16",
+  "11>35",
+  "11>36",
+  "11>4",
+  "5>9"
+ ]
+}

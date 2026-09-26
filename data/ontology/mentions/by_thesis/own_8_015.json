@@ -1,0 +1,22 @@
+{
+ "thesis_id": "8>15",
+ "latin": "Quid sit intelligendum per capras apud Zoroastrem intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus.",
+ "farmer_latin_line": 25046,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9896,
+   "method": "latin_quote",
+   "evidence": [
+    "zoroastrem intelliget qui legerit",
+    "capras apud zoroastrem intelliget",
+    "que agnis cum spiritibus",
+    "bair que sit affinitas"
+   ],
+   "context": "Conclusio xv: Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus. The direct source of the Kabbalistic part of this thesis was pinpointed by"
+  }
+ ],
+ "farmer_crossrefs": [
+  "28.1"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "thesis_id": "28.13",
+ "latin": "Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mysterium magni lobelei.",
+ "farmer_latin_line": 17741,
+ "mentions": [
+  {
+   "work": "black2006",
+   "line": 11922,
+   "method": "latin_quote",
+   "evidence": [
+    "portarum intelligentie cognoscet mysterium",
+    "nouerit in cabala mysterium",
+    "in cabala mysterium portarum",
+    "qui nouerit in cabala"
+   ],
+   "context": "braeorum Cabalistarum, 13): “Qui noverit in cabala mysterium portarum intelligen- tiae, cognoscet mysterium magni Iobelei.” 34 Numeratio commonly means ‘counting’. I have left it untranslated here because Mithridates uses it to translate the Hebrew term seﬁrah: see Ch. 4, section 5.1."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1836,
+   "method": "latin_quote",
+   "evidence": [
+    "portarum intelligentie cognoscet mysterium",
+    "nouerit in cabala mysterium",
+    "in cabala mysterium portarum",
+    "qui nouerit in cabala"
+   ],
+   "context": "CONCLUSIO X I I I Qui nouerit in Cabala mysterium portarum intelligentiae, cognoscet mys- terium magni Iobelei. The substance of this thesis, namely the notion that the year of jubilee is a"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3215,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones  xiii"
+   ],
+   "resolved": false,
+   "context": "Pico's Kabbalistic Studies theses (Conclusiones xiii and xiv). Consequently, it is highly probable, and, in fact, almost certain, that Pico read it. The title of the book in the Latin translation is Saare Sedech Id Est Porte Iusticie seu de Diuinis Nominibus. As far as I am aware there is no manuscript authority for the"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9843,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Kabbala is not explicitly mentioned in the thirteenth Zoroastrian thesis, but I think it is there: Conclusio xiii: Per puerum apud interpretes nihil aliud in teilige quam intellectual."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9976,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xiii"
+   ],
+   "resolved": false,
+   "context": "Sicut hymni Dauid open Cabalae mirabiliter deseruiunt,35 ita hymni Orphei operi uerae, licitae, et naturalis Magiae. Conclusio xiii: Idem est Typhon apud Orpheum et Zamael36 in Cabala."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>20",
+  "10>21",
+  "11>37",
+  "11>68",
+  "11>69"
+ ]
+}

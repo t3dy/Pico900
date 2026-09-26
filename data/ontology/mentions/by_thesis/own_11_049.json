@@ -1,0 +1,66 @@
+{
+ "thesis_id": "11>49",
+ "latin": "Qui sciuerit correspondentiam decem preceptorum ad prohibentia per coniunctionem ueritatis astrologicae cum ueritate theologica, uidebit ex fundamento nostro praecedentis conclusionis, quicquid alii dicant Cabalistae, primum preceptum primae numerationi correspondere, Secundum secundae, Tertium tertiae, Quartum septimae, Quintum quartae, Sextum quintae, Septi-",
+ "farmer_latin_line": 27430,
+ "mentions": [
+  {
+   "work": "akopyan2018",
+   "line": 746,
+   "method": "latin_quote",
+   "evidence": [
+    "cum ueritate theologica uidebit",
+    "theologica uidebit ex fundamento",
+    "quartum septime quintum quarte",
+    "septime quintum quarte sextum"
+   ],
+   "context": "(Quicquid dicant ceteri cabaliste, ego decem spheras sic decem numeracionibus correspondere dico, ut ediﬁcio incipiendo, Iupiter sit quarte, Mars quinte, Sol sexte, Saturnus septime, Venus octaue, Mercu- rius none, Luna decime, cum supra ediﬁcium ﬁrmamentum tercia, primum mobile secunda, celum Empyreum prima. Qui sciverit correspondenciam decem preceptorum ad prohibencia per coniunc- tionem veritatis astrologice cum veritate theologica, videbit ex fundamento nostro precedentis con- clusionis, quicquid alii dicant cabaliste, primum preceptum prime numeracioni correspondere, secundum secunde,tertius tercie,quartum septime, quintum quarte, sextum quinte, septimum none, octauum octaue,"
+  },
+  {
+   "work": "akopyan2021",
+   "line": 1459,
+   "method": "latin_quote",
+   "evidence": [
+    "cum ueritate theologica uidebit",
+    "theologica uidebit ex fundamento",
+    "quartum septime quintum quarte",
+    "septime quintum quarte sextum"
+   ],
+   "context": "sic decem numeracionibus correspondere dico, ut edificio incipiendo, Iupiter sit quarte, Mars quinte, Sol sexte, Saturnus septime, Venus octave, Mercurius none, Luna decime, cum supra edificium firmamentum tercia, primum mobile secunda, celum Empyreum prima. Qui sciverit correspondenciam decem preceptorum ad prohibencia per coni- unctionem veritatis astrologice cum veritate theologica, videbit ex fundamento nostro precedentis conclusionis, quicquid alii dicant cabaliste, primum preceptum prime nu- meracioni correspondere, secundum secunde, tertius tercie, quartum septime, quintum"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7894,
+   "method": "farmer_id",
+   "evidence": [
+    "11>49"
+   ],
+   "context": "to the ten numerations [seﬁrot] like this: so that starting from the ediﬁce, Jupiter corresponds to the fourth, Mars to the ﬁfth. . . . 11>49. Anyone who knows the correspondence of the Ten Commandments through the conjunction of astrological truth with theological truth will see from the foundation that I set out in the preceding conclusion, whatever other Cabalists say, that the ﬁrst commandment corresponds to the ﬁrst"
+  },
+  {
+   "work": "howlett2021",
+   "line": 6154,
+   "method": "latin_quote",
+   "evidence": [
+    "primum preceptum prime numerationi",
+    "preceptum prime numerationi correspondere"
+   ],
+   "context": "Wirszubski (1989, 237–38 and 250) who also points to a strong rela- tionship between Platonism and Kabbalism at the beginning of the Heptaplus. 198. ‘…primum preceptum primae numerationi correspondere…’ (1998, 540–1). 199. ‘Si deus in se ut inﬁnitum, ut unum, et secundum se intelligatur, ut sic nihil intelligimus ab eo procedere, sed separationem a rebus, et"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1643,
+   "method": "farmer_id",
+   "evidence": [
+    "11>49"
+   ],
+   "context": "vergleichbaren astrologisch motivierten Parallelisierungen zum Ende seines Lebens in sei- nen >Disputationes contra astrologiam< skeptisch gegenüberstand, muß sicher nicht mehr eigens hervorgehoben werden, hierzu zuletzt Vanden Brocke, The Limits, S. 55-80. 97 Pico, Conclusio cabbalistica..., 11>49 (S. 540), dazu außerdem Conclusio... in doctrina Piatonis, 5>3 (S. 438): Qui noverit modum illuminationis superiorum super media intelli- get idem significare et Platonico per congregationem animarum in Monte Ida, et hebreos per animarum congregationem in Monte Synao in auditione legis."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>2",
+  "11>48",
+  "11>50",
+  "28.22",
+  "28.9"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "conclusion_id": "H.L0.D0.4",
+  "text": "heptaplus",
+  "day": 0,
+  "layer": 0,
+  "layer_name": "Foundational (Second Proem)",
+  "passage_number": 4,
+  "latin_text": "By this we are also reminded of the higher mystery of the Gospel. Since the way to the supercelestial world, to communion with the angels, was opened for us by the cross and blood of Christ, for that reason, at the moment of his death, the veil of the temple was rent asunder, the veil by which the Holy of Holies, which we have said signifies the angelic world, was separated from the other parts. This was a sign that the approach to the kingdom of God now lay open for men, the approach to God Himself, who flies above the cherubim, the approach closed off by the laws of justice from the beginning because of the sin of the first father.",
+  "english_translation": "By this we are also reminded of the higher mystery of the Gospel. Since the way to the supercelestial world, to communion with the angels, was opened for us by the cross and blood of Christ, for that reason, at the moment of his death, the veil of the temple was rent asunder, the veil by which the Holy of Holies, which we have said signifies the angelic world, was separated from the other parts. This was a sign that the approach to the kingdom of God now lay open for men, the approach to God Himself, who flies above the cherubim, the approach closed off by the laws of justice from the beginning because of the sin of the first father.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "[VERIFIED] Pico interprets Christ's Passion christologically: the veil of the temple rent at Jesus's death signifies the opening of the way to angelic communion. The Holy of Holies (separated from the people by the veil) represents the angelic world and divine throne. Christ's blood removes the barrier of sin-imposed separation between human and angelic realms. [VERIFIED] This grounds angelic transformation soteriologically: humans can ascend to angelhood because Christ has inaugurated the way through his incarnation and redemptive death.\n\nThe philosophical function is to integrate angelology with Christian salvation history. The Heptaplus is not merely Neoplatonic cosmology but theological narrative: creation established the hierarchy; sin closed access; Christ opened it. Human ascent to angelhood is not natural promotion but redemptive recovery, made possible by Christ's incarnational descent.\n\n[INFERRED] Oration (O.1.13) develops this soteriological function. Commento (Books III-IV) treats angelic communion as the fruit of Christ's redemption. Being & Unity grounds it: Christ's assumption of human nature establishes metaphysically that creatures can participate in divine nature.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | aquinas | plotinus",
+  "key_concepts": [
+    "christological-angelology",
+    "-angelic-communion-as-fruits-of-incarnation"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalistic",
+    "heretical_adjacent"
+  ],
+  "layer_angelology_density": "medium",
+  "cross_references": {
+    "same_text": [
+      "H.SP.2",
+      "H.TE3.P.1"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.SP.6 | Christological angelology; angelic communion as fruits of Incarnation"
+}

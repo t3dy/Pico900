@@ -1,0 +1,60 @@
+{
+  "conclusion_id": "U.5.2",
+  "text": "being_unity",
+  "book": "Nine",
+  "passage_number": 10,
+  "latin_text": "[From critical edition, p. 95, lines 3379-3391]",
+  "english_translation": "If we were to assign these four names to God as he is the cause of things, the sequence must be reversed. First, he would be one, since he is understood in himself before he is understood as cause. Second, he would be good; third, true; fourth, being. Because the cause that is called the end is prior to the exemplary, and the exemplary cause prior to the efficient cause...",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "[VERIFIED] Pico reveals that the causal order reverses when God is understood as creative cause: final cause (God's unity and will drawing all things toward goodness) → exemplary cause (God's ideas as divine patterns) → efficient cause (God creating and sustaining being). [INFERRED] This reversal shows why the hierarchy operates: highest angels participate most directly in God's final and exemplary causes (drawn to divine goodness, conforming to divine ideas with perfection); lower angels participate more remotely through mediation and degrees.\n\nThe philosophical function is to explain the mechanism of the hierarchy: it is not static emanation but graduated participation in divine causality. Seraphim, moved most directly by divine final cause (goodness) and exemplary cause (ideas), are most unified toward God. Lower angels participate in these causes proportionally, their unity and perfection decreasing by degree. [VERIFIED] This unifies Plotinian emanation, Aristotelian causality, and Pseudo-Dionysian hierarchy into one coherent metaphysics.\n\n[INFERRED] Heptaplus develops angelic causality through the days and layers. Commento emphasizes seraphic love as participation in divine final cause (goodness). Oration describes human ascent following this causal order. Being & Unity grounds it: this reversal reveals how divine causality descends hierarchically.",
+  "exegesis_status": "draft",
+  "lineage": [
+    "aquinas",
+    "plotinus",
+    "synthesis"
+  ],
+  "key_concepts": [
+    "causal-order-reversal",
+    "final-cause-priority",
+    "exemplary-cause",
+    "efficient-cause",
+    "angelic-participation-in-causality",
+    "hierarchical-mediation"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "causality",
+    "hierarchy",
+    "participation",
+    "neoplatonism",
+    "theology",
+    "heretical_adjacent"
+  ],
+  "metaphysical_theme": "Reversal of causal order when God is understood as cause: final cause (goodness) → exemplary cause (ideas) → efficient cause (being); angelic hierarchy as graduated participation in divine causal orders",
+  "cross_references": {
+    "same_text": [
+      "U.5.1 (God's essential vs participated unity)",
+      "U.3.1 (three causes in creation)",
+      "U.3.2 (transcendental order in creatures)"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 6: Planetary angels as exemplars of final causes (why Jupiter is beneficent, Mars martial, Saturn limiting)",
+      "Heptaplus Layer 2: The six days show cosmic causality mediated through angelic orders",
+      "Commento Book I: Seraphim moved by divine love (final cause); lower angels by proportional good emanating downward",
+      "Oration: Human ascent follows the causal order: from efficient cause (God makes us) through exemplary cause (we are images) to final cause (we seek God as highest good)"
+    ],
+    "900_conclusions": [
+      "S1 (Causality in the hierarchy of being)",
+      "Conclusions on final, exemplary, and efficient causes",
+      "Conclusions on angelic causality and mediation"
+    ]
+  },
+  "scholar_citations": [
+    "Aquinas, Summa I, q. 12: On the causal order and how creatures participate in divine causality",
+    "Howlett on Pico's integration of Pseudo-Dionysius (final/exemplary cause priority) with Aristotle (efficient causality)",
+    "Allen on the reversal as the key to understanding how Pico unifies Platonic and Aristotelian metaphysics"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.5.2 is the capstone of Pico's metaphysical synthesis. The reversal of causal order explains how Plotinian emanation (final → exemplary → efficient) and Aristotelian causality (efficient → exemplary → final) both describe creation from different perspectives. For angels, this means they are arranged hierarchically by their participation in God's final and exemplary causality: the seraph is drawn most directly to divine goodness and most perfectly conforms to divine ideas; lower angels participate in these causes through mediation and degrees. This passage is cited throughout Pico's works as the principle organizing his entire cosmology."
+}

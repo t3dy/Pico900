@@ -1,0 +1,20 @@
+{
+ "thesis_id": "18.1",
+ "latin": "Anima rationalis est immortalis.",
+ "farmer_latin_line": 14716,
+ "mentions": [
+  {
+   "work": "black2006",
+   "line": 10082,
+   "method": "latin_quote",
+   "evidence": [
+    "rationalis est immortalis",
+    "anima rationalis est"
+   ],
+   "context": "49 A pertinent example of the difﬁculty in interpreting the Conclusiones can be seen in the case of the ﬁrst of the Conclusiones secundum Alexandrum Aphrodiseum (ed. Schefer, p. 62) which states “Anima rationalis est immortalis.” The contention that according to Alexander the rational soul is immortal is contrary to common understanding of Alexander’s position and we have no information as to how Pico would have presented his case; see B. Nardi, “Il commento di Simplicio al De"
+  }
+ ],
+ "farmer_crossrefs": [
+  "7.4"
+ ]
+}

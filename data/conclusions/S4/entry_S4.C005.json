@@ -1,0 +1,37 @@
+{
+  "commentary": "Reflects Avicennian biology and theory of spontaneous generation (inherited from Aristotle). Reveals that form can emerge from corrupted matter under certain conditions. Fascinated Renaissance thinkers because it suggested transformation and alchemical generation are natural, not miraculous. Implies permeability between matter and form.",
+  "scholar_citations": [
+    {
+      "verified": false,
+      "quotation": "[TO SOURCE on Avicennian natural philosophy and generation]",
+      "work": "Syncretism in the West: Pico's Platform (1998)",
+      "scholar": "Farmer, S. A.",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Possibile est hominem ex putrefactione generari.",
+  "incipit_id": "I.8.5",
+  "charge": "Traditional biology held that humans can only be generated through sexual reproduction.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C005",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna and Aristotelian natural philosophy permitted spontaneous generation under particular conditions (extreme heat, decomposition, etc.). This opens possibility of natural transformation relevant to alchemy and magical operations on matter.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "natural-philosophy",
+    "spontaneous-generation",
+    "alchemy",
+    "matter-transformation"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "It is possible for a human to be generated from putrefaction."
+  },
+  "updated_date": "2026-09-26T02:08:24.110791",
+  "exegesis": "Pico's conclusion on Divine Attributes within the Avicennism (Islamic Philosophy) tradition."
+}

@@ -1,0 +1,56 @@
+{
+  "manifest_version": "1.0",
+  "project": "Pico900 S1 Content Sourcing",
+  "date_created": "2026-09-25",
+  "description": "Tracking sourcing status for 95 Neoplatonism conclusions (S1). Coordinates Latin incipits, English translations, scholar quotations, and heretical flags.",
+  "total_entries": 95,
+  "sourcing_phases": {
+    "phase_1_framework": {
+      "status": "COMPLETE",
+      "date": "2026-09-25",
+      "task": "Initialize S1 JSON stubs with cluster info, heretical flags, scholar citation templates",
+      "result": "95 files updated with _sourcing metadata, heretical flags for C81-C95 set"
+    },
+    "phase_2_translations": {
+      "status": "IN_PROGRESS",
+      "task": "Harvest English translations from megabase 2025-07-04 exegesis file",
+      "coverage": "13 translations extracted from megabase (I.21.1-8, II.6.1-10); full coverage TBD"
+    },
+    "phase_3_quotations": {
+      "status": "PLANNED",
+      "task": "Extract scholar quotations (Copenhaver, Allen, Howlett, Wirszubski, Edelheit)",
+      "sources": [
+        "megabase 2025-07-05 Copenhaver summary",
+        "heretical research notes with Q1-Q13 quotations",
+        "local scholar PDFs in E:\\pdf\\renaissance magic\\Pico\\"
+      ]
+    },
+    "phase_4_latin": {
+      "status": "PLANNED",
+      "task": "Source Latin incipits from Brown critical edition",
+      "notes": "Critical edition available online; may require parsing or manual entry"
+    }
+  },
+  "heretical_conclusions": {
+    "flagged_range": "S1.C081 - S1.C095",
+    "count": 15,
+    "reason": "Q13 cluster: Soul's union with God (mystical henosis)",
+    "references": ["Apology Q13", "S1_RESEARCH_NOTES.md"]
+  },
+  "scholarly_sources": {
+    "copenhaver": {
+      "type": "megabase_summary",
+      "location": "megabase/chats_2025/2025-07-05_Pico della Mirandola Summary.md",
+      "citations_count": 15
+    },
+    "allen": {
+      "type": "cited_reference",
+      "works": ["Neoplatonism and the Platonic Tradition"]
+    },
+    "howlett": {
+      "type": "cited_reference",
+      "focus": "Soul, concordism"
+    }
+  },
+  "completion_status": "Phase 1 complete (95 files initialized with framework). Phases 2-4 in progress."
+}

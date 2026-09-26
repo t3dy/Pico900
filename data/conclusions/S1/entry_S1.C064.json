@@ -1,0 +1,69 @@
+{
+  "conclusion_id": "S1.C064",
+  "section": "S1",
+  "order": 64,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "The World Soul mediates between Intellect and Matter.",
+    "source": "template_S1",
+    "translator": "template_based"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Celestial hierarchy — Daemons, angels, intelligences, their roles and natures; cosmic ordering",
+  "key_concepts": [
+    "Daemons",
+    "Angels",
+    "Intelligences",
+    "Hierarchy",
+    "Cosmos",
+    "Intermediaries"
+  ],
+  "plotinian_parallel": "Enneads 3.5 (Daemons), 5.5 (Intelligible world and cosmos), Porphyry *On Abstinence* III (daemon theory)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus (theurgic daemons)",
+    "Proclus",
+    "Pseudo-Dionysius (hierarchies)"
+  ],
+  "charge": "The doctrine of soul's descent into body and materiality potentially implies necessity rather than divine will.",
+  "defense": "Soul's descent is voluntary and recuperative (soul purifies matter through organizing and enlivening it). Follows Plotinian and Porphyrian psychology.",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Brian P Copenhaver",
+      "work": "Pico della Mirandola on Trial",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
+  "heretical_flag": true,
+  "heretical_notes": "Daemon and angel theses likely connected to heretical Q5 (magic/theurgy). Copenhaver analyzes these in context of theurgic innovation and magic trial. Check whether Iamblichan theurgy (ritual invocation of daemons) appears here; if so, mark for heretical essay.",
+  "tags": [
+    "daemons",
+    "angels",
+    "intermediaries",
+    "hierarchy",
+    "theurgy"
+  ],
+  "status": "standardized",
+  "notes": "T61–T80 address celestial beings and intermediary powers. CRITICAL for heretical essay: theurgy, daemon magic, and theurgic innovation are condemned (Q5). Pico draws on Iamblichus *De Mysteriis* and Proclus's henad theory. Daemon theses intersect with Kabbalah (sefirot as intermediaries). Check for 'divine names' language (sign of theurgic engagement).",
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T21-T30",
+    "theme": "Soul's Faculties and Descent",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-26T02:19:54.745146",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Beauty within the Neoplatonism tradition."
+}

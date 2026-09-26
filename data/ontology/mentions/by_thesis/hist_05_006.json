@@ -1,0 +1,37 @@
+{
+ "thesis_id": "5.6",
+ "latin": "Operationes angelorum mensurantur tempore discreto.",
+ "farmer_latin_line": 12499,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15499,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Theses 6 and 7"
+   ],
+   "context": "fire.20 While Henry mentions here only the Devil as a concrete example of a spiritual entity, Pico mentions demons and sinful souls; but beyond this differ- ence, Pico’s thesis accurately reflects Henry’s opinion. Theses 6 and 7 deal with angelology. In thesis 6 we find that operations of angels are measured by definite time.21 We can find traces of it at Quodlibet II, q. 9, which, as we have seen in the discussion of Pico’s Apology in Chapter 5, the Renaissance philosopher knew well. Henry is presenting here his account"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15521,
+   "method": "latin_quote",
+   "evidence": [
+    "operationes angelorum mensurantur",
+    "mensurantur tempore discreto",
+    "angelorum mensurantur tempore"
+   ],
+   "context": "20 Ibid.: “Restat igitur ut videtur quod deus nature spiritus angelici et humani communem vim qua pati possit ab igne corporali, imprimit supernaturaliter.” Compare with the oppo- site view presented in Quodlibet XII, q. 9, ed. J. Decorte (Louvain, 1987), pp. 47–50. 21 Pico, 900 Theses, p. 242: “Operationes angelorum mensurantur tempore discreto.” ## Page 337"
+  }
+ ],
+ "farmer_crossrefs": [
+  "18.7",
+  "1>8",
+  "5>41",
+  "6.7",
+  "6>1",
+  "7.17",
+  "7a>28",
+  "7a>29"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "thesis_id": "2.12",
+ "latin": "Beatitudo est essentialiter in actu intellectus.",
+ "farmer_latin_line": 11419,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10678,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 12"
+   ],
+   "context": "mentioned in Pico’s thesis? The act of a cardinal virtue, he says, is directed towards a proper end ( finis proprius), to which someone has attained through meritorious acts of virtues.43 Thesis 12 leads us to considering the relation between beatitude, intellec- tual activity and the activity of the will. We find there that beatitude consists essentially in an act of the intellect. The corollary states that neither fruition ( fruitio) nor any act of the will is essentially beatitude.44 This is discussed by"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10700,
+   "method": "latin_quote",
+   "evidence": [
+    "beatitudo est essentialiter in",
+    "essentialiter in actu intellectus",
+    "est essentialiter in actu"
+   ],
+   "context": "reverentiam ad Deum habebit, ex qua in hac vita omnia mundi prospera contempsit.” 43 Ibid., [99]: “Actus vero virtutis cardinalis erit circa finem proprium, quem quis consecutus est ex meritoriis actibus virtutum …” 44 Pico, 900 Theses, p. 222: “Beatitudo est essentialiter in actu intellectus. Correlarium: Nec fruitio, nec aliquis actus voluntatis, est essentialiter beatitudo.” ## Page 236"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>23",
+  "10>24",
+  "10>31",
+  "11>17",
+  "17.3",
+  "2.13",
+  "2.14",
+  "2.19",
+  "2.28",
+  "20.7",
+  "24.44",
+  "2>74",
+  "3.3",
+  "3>43",
+  "4.14",
+  "4.15",
+  "4>1",
+  "4>10",
+  "4>2",
+  "5>46",
+  "5>48",
+  "7.2",
+  "7a>51"
+ ]
+}

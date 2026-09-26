@@ -1,0 +1,32 @@
+{
+ "thesis_id": "1.16",
+ "latin": "Potentia respectiua materiae non addit supra materiam rem, sed rationem.",
+ "farmer_latin_line": 11159,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10060,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 16"
+   ],
+   "context": "Pico and Albert the Great 211 In thesis 16 we find that potency regarding matter does not add anything to matter beyond reason.91 In Albert’s commentary on Physics, Book 1, Tract. 3, Chapter 13, we read that matter, when it is intelligible but without privation and understood without form, is simple, but it is not in the end of simplicity."
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10090,
+   "method": "latin_quote",
+   "evidence": [
+    "potentia respectiua materie non",
+    "materiam rem sed rationem",
+    "non addit supra materiam",
+    "addit supra materiam rem"
+   ],
+   "context": "91 Pico, 900 Theses, p. 216: “Potentia respectiva materiae non addit supra materiam rem, sed rationem.” 92 Albert the Great, Opera omnia (Cologne Edition), vol. 4/1, p. 63: “Propter quod dicimus, quod materia, intelligibilis sine privatione et accepta sine forma, simplex est, non in fine"
+  }
+ ],
+ "farmer_crossrefs": [
+  "4.22",
+  "7.41"
+ ]
+}

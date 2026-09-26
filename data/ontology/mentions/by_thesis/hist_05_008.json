@@ -1,0 +1,34 @@
+{
+ "thesis_id": "5.8",
+ "latin": "Irascibilis et concupiscibilis ita distinguuntur in appetitu superiori sicut in",
+ "farmer_latin_line": 12505,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15631,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 8"
+   ],
+   "context": "intellect, being informed by intelligible species, not to understand.30 Further on in the question we have more or less the same formulation that we find in Pico’s thesis.31 Thesis 8 states that irascible and concupiscent [powers] are divided in the same way in both the superior and the inferior appetite.32 It is discussed at Quodlibet VIII, q. 15, where Henry deals with the question whether in the rational appetite there is a distinction between irascible and concupiscent"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15657,
+   "method": "latin_quote",
+   "evidence": [
+    "ita distinguuntur in appetitu",
+    "concupiscibilis ita distinguuntur in",
+    "et concupiscibilis ita distinguuntur",
+    "distinguuntur in appetitu superiori"
+   ],
+   "context": "scientialis intellectui angelico naturaliter impressus tanquam illud quod sibi connaturale est ad explendam operationem naturalem inquantum est unum intellectuale, que opera- tio est ipsum intelligere.” 32 Pico, 900 Theses, p. 242: “Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.” 33 Henry of Ghent, Quodlibet … VIII, q. 15, ff. 326r–326v: “Et sequitur has potentias [concu- piscibilitas et irascibilitas] habet antequam corpori miscetur; naturales siquidem sunt ei."
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.34",
+  "25.9",
+  "4.10",
+  "7a>70"
+ ]
+}

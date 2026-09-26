@@ -1,0 +1,79 @@
+{
+ "thesis_id": "5>9",
+ "latin": "Platonice loquendo de anima, dico animam uiuere cum Saturno uitam contemplatiuam, cum Ioue politicam et practicam, cum Marte irascibilem et ambitiosam, cum Venere concupiscibilem et uoluptuosam, cum Mercurio uegetalem cum stupido sensu.",
+ "farmer_latin_line": 22335,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 11838,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9"
+   ],
+   "context": "[34] Parlando dell'anima in modo platonico, dico che l'anima vive con Saturno vita contemplativa, con Giove vita politica e pratica, con Marte irascibile e ambiziosa, con Venere concupiscibile e voluttuosa, con Mercurio vegettativa con sensi attoniti [Conclusiones, p. 440, n. 5>9] . [35] Infatti in se stesso, questo bene si leva al di sopra di tutto, ce­ lato negli abissi della propria divinità; nelle cose, si trova diffuso dap­ pertutto, qua piu perfetto, là meno, secondo la condizione delle cose"
+  },
+  {
+   "work": "busi2014",
+   "line": 12510,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9"
+   ],
+   "context": "42 Conclusiones, p. 440, n. 5>9 (fonte 34). \" Commento, p. 473 (fonte 32). ## Page 268"
+  },
+  {
+   "work": "busi2014",
+   "line": 13526,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9"
+   ],
+   "context": "mentre sfiora, con la sua bacchetta, sottili strati di nuvole. Per questo e ulteriori riferimen­ ti alla figura di Mercurio nell'opera del Landino, vedi C. Poncet, The Judgment o/Lorenzo, in <<Bruniana & Campanelliana>>, 14, 2 (2oo8), pp. 541-6 1 : pp. 551-54. \" Cfr. Conclusiones, p. 440, n. 5>9 (fonte 34). ## Page 291"
+  },
+  {
+   "work": "busi2014",
+   "line": 21047,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9"
+   ],
+   "context": "ut . . . per hoc totum ut ad superiora se convertitur cum septima [lo adatto la nostra anima alle dieci sefirot in modo che essa corrisponda . . . alla settima per tutto ciò che nell'anima si converte verso i gradi superiori]». \" Cfr. ibid. , p. 440, n. 5>9 (fonte 34). ## Page 455"
+  },
+  {
+   "work": "busi2014",
+   "line": 26616,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9"
+   ],
+   "context": "Il, 3, r: 184 3>55= 305 II, 3, 2: r85 5>3: 304 Commentariorum urbanorum . . . octo et tri­ 5>6: r6, 27 ginta libri 5>9: 136, 149, r69, 320 247r: LXXIX 5>ro: 159, 170 Commentarium ad mentem Platonis (Egidio 5>I I : 159, 171 da Viterbo) 5>12: 159"
+  },
+  {
+   "work": "busi2014",
+   "line": 24572,
+   "method": "latin_quote",
+   "evidence": [
+    "loquendo de anima dico",
+    "practicam cum marte irascibilem",
+    "politicam et practicam cum",
+    "uoluptuosam cum mercurio uegetalem"
+   ],
+   "context": "Iuppiter [34] Platonice loquendo de anima, dico animam vivere cum Saturno vitam contemplativam, cum lave politicam et practicam, cum Marte irascibilem et ambitiosam, cum Venere concupiscibi­ lem et voluptuosam, cum Mercurio vegetalem cum stupido sensu."
+  },
+  {
+   "work": "txt_medieval_and_early_modern_science_",
+   "line": 1446,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9–12"
+   ],
+   "context": "chapter three inspecifictypesofintellect,inwhichindividualsoulscometopar- ticipatethroughcelestialvirtue,withheavenbeing\"acelestialani- mal.\" [Footnote: Farmer, Syncretism in the West, pp. 306–307 (conclusions 22.4–8). These conclu- sions seem to be connected to Pico's own Platonic theses 5>9–12 (Farmer, Syncretism intheWest,pp.440–441).Farmer,SyncretismintheWest,pp.448–449(conclusion] TheenterprisebaffledPico'sFlorentinefriendsandcontem- poraries.SomethreemonthsbeforePico'sdeath,MarsilioFicino (1433–1499) had a very difficult time convincing Angelo Poliziano"
+  }
+ ],
+ "farmer_crossrefs": [
+  "22.4",
+  "5>10",
+  "5>11",
+  "5>12"
+ ]
+}

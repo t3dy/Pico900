@@ -1,0 +1,33 @@
+{
+ "thesis_id": "4.10",
+ "latin": "In appetitu superiore ponendae sunt uirtutes.",
+ "farmer_latin_line": 12249,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14374,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 10"
+   ],
+   "context": "302 chapter 9 In thesis 10 we find that the virtues should be placed in the superior appetite.51 This is discussed by Scotus in his Lectura 3, d. 33, q. unica. Scotus clarifies here, following Augustine, that those who claim that habit is responsi- ble for moderating passions which are not in the will are wrong since to rejoice"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14403,
+   "method": "latin_quote",
+   "evidence": [
+    "superiore ponende sunt uirtutes",
+    "in appetitu superiore ponende",
+    "appetitu superiore ponende sunt"
+   ],
+   "context": "51 Pico, 900 Theses, p. 238: “In appetitu superiore ponendae sunt virtutes.” 52 John Duns Scotus, Lectura 3, d. 33, q. unica, in Opera omnia, vol. 21 (Vatican City, 2004), pp. 281–282: “Quod ulterius dicunt, scilicet quod habitus est ad moderandum passiones quae non sunt in voluntate, dicendum quod hoc est falsum, quia gaudere et tristari, quae"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.10",
+  "2.15",
+  "2.34",
+  "2.8"
+ ]
+}

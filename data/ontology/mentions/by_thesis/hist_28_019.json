@@ -1,0 +1,72 @@
+{
+ "thesis_id": "28.19",
+ "latin": "Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinare transpositionem deducet unum ex alio.",
+ "farmer_latin_line": 17862,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2081,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi huius et nominis",
+    "triagrammaton et qui sciuerit",
+    "qui est princeps mundi",
+    "princeps mundi huius et"
+   ],
+   "context": "CONCLUSIO X I X Eaedem sunt litterae nominis cacodemonis qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2122,
+   "method": "latin_quote",
+   "evidence": [
+    "est princeps mundi huius",
+    "qui est princeps mundi"
+   ],
+   "context": "it an open question whether Mithridates misread the original and then interpolated the translation, or translated a faulty and interpolated Hebrew text. In any case, the translation \"nomen ipsius dei triagramaton ... continet in secreto cacodemona qui est princeps mundi huius\" suffi- ciently accounts for Pico's thesis, even if it leaves one wondering whether Pico in fact knew precisely how to deduce the name of Satan from the nomen dei triagramaton.22"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3277,
+   "method": "latin_quote",
+   "evidence": [
+    "mundi huius et nominis",
+    "triagrammaton et qui sciuerit",
+    "qui est princeps mundi",
+    "princeps mundi huius et"
+   ],
+   "context": "Speculatores uel episcopi dixerunt eas. The second commentary is the direct source of Conclusio xix: \"Eaedem sunt litterae nominis cacodemonis, qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio.\" It is remarkable that the only thesis in the entire first set which deals with names and transpositions of letters without any"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3276,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xix"
+   ],
+   "resolved": true,
+   "context": "decern numerationes et viginti due litere • | f η [mem, nun, sadhe, pe, kaf] Speculatores uel episcopi dixerunt eas. The second commentary is the direct source of Conclusio xix: \"Eaedem sunt litterae nominis cacodemonis, qui est princeps mundi huius et nominis dei Triagrammaton, et qui sciuerit ordinäre transpositionem deducet unum ex alio.\" It is remarkable that the only thesis in the entire"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3992,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "15 See Scholem, On the Kabbalah and its Symbolism, pp. 42-43. 16 Cod. Vat. Ebr. 191, fol. 23r; see the discussion of Conclusio xix above in Chapter 3. 17 Bahir, Cod. Vat. Ebr. 191, fol. 310r. 18 Cod. Vat. Ebr. 191, fol. 64r."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 4278,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xix"
+   ],
+   "resolved": false,
+   "context": "3 See the discussion of Conclusio xix in Chapter 3. 4 Aleph, mem, and sin: ttrax. 5 Midras BereSit Rabba, xii. 10 (pp. 107-110 ed. Theodor-Albeck)."
+  }
+ ],
+ "farmer_crossrefs": []
+}
