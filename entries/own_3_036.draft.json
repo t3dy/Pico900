@@ -4,11 +4,11 @@
  "latin": "Sicut intellectus dei unitatem multiplicat, ita anima intellectus multitudinem quantificat et extendit.",
  "latin_source": "farmer1998:20767",
  "translation": "Just as the divine intellect multiplies unity, so the soul quantifies and extends the multitude belonging to intellect.",
- "translation_note": "No crux beyond ordinary vocabulary.",
+ "translation_note": "None beyond standard vocabulary.",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20767",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion",
- "doctrine": "The thesis draws a parallel between the divine intellect and the soul with respect to unity and multiplicity: just as God's intellect multiplies unity, so the soul quantifies and extends the multitude that belongs to intellect (farmer1998:20767). Farmer records no explanatory note on this thesis and no cross-reference to another (per the sources consulted).",
+ "doctrine": "The thesis draws a parallel between the divine intellect and the soul with respect to unity and multiplicity: just as God's intellect multiplies unity, so the soul quantifies and extends the multitude that belongs to intellect (farmer1998:20767).",
  "historiography": "The German study Erkenntnistheorie und christliche Kabbalah quotes the thesis in full while discussing how the sefirot can, for Pico, be read as the communicated and thought unity of God beyond his absolute unity, a reading it attributes in turn to Massetani's La filosofia cabbalistica (kabbalah_paradigma:1710).",
  "connections": [],
  "condemned_flag": false,
@@ -21,6 +21,7 @@
   }
  ],
  "not_established": [
+  "Farmer offers no note on this thesis: not established by the sources consulted (farmer1998:20767).",
   "Whether Pico's own text draws an explicit link to the sefirot here, or this is the German study's interpretive framing built on Massetani: not established beyond the excerpt consulted (kabbalah_paradigma:1710); Massetani's own argument was not itself opened."
  ],
  "writer": "WRITER-full-batch13 (agent), 2026-09-26",

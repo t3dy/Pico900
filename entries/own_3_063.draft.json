@@ -3,14 +3,14 @@
  "tier": "B",
  "latin": "Quamuis in anima ita sit actu natura intellectualis per quam cum angelo conuenit, sicut est natura rationalis per quam ab eo distinguitur, nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intelligere.",
  "latin_source": "farmer1998:21264",
- "latin_note": "The 1486 print punctuated the passage differently, reading \"distinguitur. Nihil\" as the start of a new sentence (farmer1998:21282).",
+ "latin_note": "The 1486 print divides the sentence differently, starting a new sentence at \"Nihil\" (farmer1998:21282).",
  "translation": "Although the intellectual nature by which the soul agrees with the angel is as fully actual in it as the rational nature by which it is distinguished from the angel, nothing intrinsic to the soul enables it, without a species of its own, to understand anything distinct from itself.",
- "translation_note": "No crux beyond ordinary vocabulary; \"species\" is kept as the scholastic technical term rather than translated as \"form\" or \"image\".",
+ "translation_note": "\"species\" is kept as the scholastic technical term rather than translated as \"form\" or \"image\" (farmer1998:21264).",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:21264",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion",
- "doctrine": "The thesis holds that although the soul possesses, as fully in act, the intellectual nature by which it agrees with the angel as it possesses the rational nature by which it is distinguished from the angel, nothing intrinsic to the soul enables it to understand anything distinct from itself without a species of its own (farmer1998:21264). Farmer records no explanatory note on this thesis and no cross-reference to another (per the sources consulted).",
- "context": "M. V. Dougherty's edited volume quotes the thesis's closing clause within a discussion of Pico's account of the soul's need for a species of its own to know what is other than itself, and cross-references it to 2>31 and to 2>77, where Pico rejects abstraction as the intellect's \"first operation\" (dougherty2008:9517).",
+ "doctrine": "The thesis holds that although the soul possesses, as fully in act, the intellectual nature by which it agrees with the angel as it possesses the rational nature by which it is distinguished from the angel, nothing intrinsic to the soul enables it to understand anything distinct from itself without a species of its own (farmer1998:21264).",
+ "context": "Dougherty's edited volume quotes the thesis's closing clause within a discussion of Pico's account of the soul's need for a species of its own to know what is other than itself, and cross-references it to 2>31 and to 2>77, where Pico rejects abstraction as the intellect's \"first operation\" (dougherty2008:9517).",
  "historiography": "Dougherty's volume is the only scholarly discussion of the thesis located in the sources consulted, and situates it within a progression it traces across Pico's conclusions on knowledge, beginning with his citation of Albert the Great in the first of the historical conclusions (dougherty2008:9517).",
  "connections": [
   "2>31",
@@ -24,6 +24,9 @@
    "line": 9517,
    "verbatim": true
   }
+ ],
+ "not_established": [
+  "Farmer offers no note on this thesis: not established by the sources consulted (farmer1998:21264)."
  ],
  "writer": "WRITER-full-batch13 (agent), 2026-09-26",
  "verifier": null,
