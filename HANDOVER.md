@@ -101,3 +101,44 @@ python scripts/build_site_v2.py                        # Rebuild static site fro
 python scripts/integrity_gate.py --verify-quotes       # Check legacy entries
 python scripts/predeploy_check.py                      # Pre-deployment validation gate
 ```
+---
+
+## 5. What does NOT go to GitHub (read before adding any file)
+
+`github.com/t3dy/Pico900` is PUBLIC. Per Ted, 2026-09-27: "don't commit anything copyrighted to the github just our
+digital edition and project and website etc we've been building." (D-28, D-29). Never `git add`:
+
+- `data/corpus/` — full-text Markdown/plain-text conversions of in-copyright scholarly books (libgen-sourced). A
+  commit that added 73 MB of this was found and removed from `main`'s history entirely (D-28), not just reverted.
+- `data/texts/` — a generated complete-Latin file derived from that same corpus staging; regenerate locally if needed.
+- `docs/resources/` — copied SEP entries and similar external reference material.
+- `research-packets/` and `data/ontology/mentions/` — the harvester's per-thesis dossiers, each embedding hundreds
+  of ~700-character verbatim excerpts from in-copyright scholarship (D-29). Reproducible locally at any time via
+  `python scripts/harvest_mentions.py && python scripts/build_dossiers.py` against the local corpus (which itself
+  lives outside git, under `E:\pdf\renaissance magic\Pico\Markdown\` or wherever this machine's copy is).
+
+All four are listed in `.gitignore`. What *is* the edition, and does get pushed: `entries/` (our prose, with short
+attributed quotations), `data/inventory/` (Pico's own public-domain Latin, the primary text), `data/ontology/theses.json`
+and `MENTION_STATS.md`/`stats.json` (aggregate counts, not excerpt text), `data/corpus/registry.json` (metadata: which
+work has which key, not its content), `docs/`, `scripts/`, `site/` when built, and every project-management file
+(`DECISIONS.md`, `HANDOVER.md`, `PROMPTS.md`, `TICKETS.md`, `README.md`).
+
+A cloud session that needs the actual corpus text gets it from Ted out of band (a private mount, a zip he supplies),
+never from `git` on this public repo.
+
+## 2026-09-26 morning (window-8857d983): relaunch after the session limit
+
+- Gate rule 4 narrowed to the commentary fields (D-26): 89/118 drafts pass; the 29 left are 22 renderings too close
+  to Farmer's wording and 7 notes naming him without a locator, assigned to a TRANSLATOR-FIX agent.
+- Relaunched what the limit killed, with incremental writes (D-27): 6 WRITERs for the 45 missing tier-A entries,
+  9 TRANSLATORs for the blocks that produced nothing (T01-T04, T06-T10), 1 fix agent for 1>/2>.
+- VERIFIER-V1 (the nine condemned drafts + Q9-Q10) and VERIFIER-V2 (the other ten tier-A drafts) launched; verdicts to
+  `data/verification/entries/`, promoted entries written as `entries/<slug>.json`.
+
+## 2026-09-27 (window-8857d983): copyrighted material removed from history; main pushed
+
+The commit behind D-24 (73 MB of in-copyright corpus text) was dropped from `main`'s history with
+`git rebase --onto` (verified clean: nothing later depended on its files). `research-packets/` and
+`data/ontology/mentions/` were untracked (`git rm --cached`, kept on disk) for the same reason (D-29).
+`.gitignore` now excludes all four paths. `main` was pushed to `origin/main` after this cleanup; `gh-pages`
+already carries a live built site (see `DEPLOY_STATE.md`) and was not touched here.
