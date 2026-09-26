@@ -1,0 +1,46 @@
+{
+ "thesis_id": "3.3",
+ "tier": "B",
+ "latin": "Voluntas potest non frui ostenso obiecto fruibili.",
+ "latin_source": "farmer1998:11981",
+ "translation": "The will can fail to enjoy an enjoyable object [even] when it is presented to it.",
+ "translation_note": "Farmer's note records that Pico's Basel editors inserted a gratuitous 'non' into this thesis ('the will is not able not to enjoy'), reversing Francis's intellectualist-leaning position into its opposite; the present translation follows the reading in farmer1998:11981 (farmer1998:12011).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:11981",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes, third of the eight theses from his commentary (farmer1998:11969, 11981).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Scriptum super Primum Sententiarum, pp. c3r-c4r, on Sentences 1, distinction 1, question 7 ('it is asked [whether the will necessarily enjoys the ultimate end when apprehended]')",
+   "locator": "edelheit2022:13216",
+   "pico_relation": "Edelheit identifies this question as the discussion behind the thesis."
+  }
+ ],
+ "doctrine": "The thesis states that the will 'is able not to enjoy when it is presented in front of an enjoyable object,' which Edelheit identifies as 'the beatific vision' in Scotist debate over whether the will necessarily enjoys the ultimate end once apprehended (edelheit2022:13216). Farmer notes that Pico's own Basel editors printed the thesis with an added 'non,' making it assert the opposite, intellectualist claim that the will cannot fail to enjoy (farmer1998:12011).",
+ "context": "Farmer links the thesis to the run of theses beginning at 2.12 and, in his own cross-reference, 'especially' to 4.5 from Scotus (farmer1998:12011).",
+ "reception": null,
+ "historiography": "Edelheit situates the thesis 'straight to the heart of the Scotist school,' in the Commentary on the Sentences 1, distinction 1, question 7 (edelheit2022:13216), and quotes Francis's own statement of the alternative position, that the will 'necessarily enjoys' ('fruitur') the apprehended ultimate end, before Francis's own qualified denial that it must always do so (edelheit2022:13244).",
+ "connections": [
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "3>7",
+  "4.5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 3 takes us straight to the heart of the Scotist school. We find there that the will is able not to enjoy when it is presented in front of an enjoyable object.",
+   "work": "edelheit2022",
+   "line": 13216,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

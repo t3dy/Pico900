@@ -1,0 +1,41 @@
+{
+ "thesis_id": "4.6",
+ "tier": "B",
+ "latin": "Vnumquodque indiuiduum est indiuiduum per propriam differentiam indiuidualem, quae dicitur hecheitas.",
+ "latin_source": "farmer1998:12236",
+ "translation": "Each individual is an individual through its own individual difference, which is called haecceity.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12236",
+ "pico_stance": "reports",
+ "attribution": "Reports Duns Scotus, on the principle of individuation, paired with 4.7 (farmer1998:12135, 12269).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 2, distinction 3, part 1, question 4, in Opera omnia, vol. 7 (Vatican City, 1973), pp. 426-427",
+   "locator": "edelheit2022:14114",
+   "pico_relation": "Edelheit identifies this question, on individuation, as the discussion behind the thesis."
+  }
+ ],
+ "doctrine": "The thesis states the Scotist principle of individuation: each individual is individual through 'a special individual difference which is called haecceity or thisness' (edelheit2022:14090). Farmer's note glosses haecceity as the 'thisness' of a thing, a formal distinction differentiating each individual from every other (farmer1998:12269).",
+ "context": "Edelheit contrasts Pico's wording with the Scotist source, noting that where the Scotist discussion he cites uses actus ('act'), Pico's thesis prefers operatio ('operation'), which he judges makes Pico's phrasing 'a little more obscure' (edelheit2022:14090).",
+ "reception": null,
+ "historiography": "Edelheit locates the doctrine of individuation in Scotus's Ordinatio 2, distinction 3, part 1, question 4, where 'Scotus wishes to clarify' what he means by individuation, quoting Scotus's opening statement of the question (edelheit2022:14090, 14114).",
+ "connections": [
+  "2.26",
+  "3>20",
+  "4.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 6 deals with the principle of individuation. It states that any indi- viduum is an individuum thanks to a special individual difference which is called ‘haecceity’ or ‘thisness’ (hecceitas).",
+   "work": "edelheit2022",
+   "line": 14090,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

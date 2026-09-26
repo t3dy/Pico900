@@ -1,0 +1,49 @@
+{
+ "thesis_id": "4.3",
+ "tier": "B",
+ "latin": "Qui dixerit personas in diuinis absolutis proprietatibus distingui, catholicae ueritati non repugnabit.",
+ "latin_source": "farmer1998:12149",
+ "translation": "Whoever says that the Persons are distinguished in God by absolute properties will not be at odds with Catholic truth.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12149",
+ "pico_stance": "reports",
+ "attribution": "Reports Duns Scotus, third of the theses drawn from his work, part of a series beginning at 2.1 (farmer1998:12135, 12214).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 1, distinction 8, part 1, question 4, in Opera omnia, vol. 4 (Vatican City, 1956), pp. 230-277",
+   "locator": "edelheit2022:13874",
+   "pico_relation": "Edelheit identifies this question, on distinguishing the divine Persons, as the passage behind the thesis, citing Farmer's own note to the same effect."
+  }
+ ],
+ "doctrine": "The thesis holds that it is compatible with Catholic truth to say the divine Persons are distinguished by 'absolute properties' rather than by relations alone (edelheit2022:13850). Farmer's note observes that the phrase in divinis is best rendered simply 'in God,' and places the thesis in a series on Trinitarian distinction beginning at 2.1 (farmer1998:12214).",
+ "context": "Edelheit calls the thesis 'crucial for understanding one of Pico's main lines of argumentation in the Apology,' since it establishes that a view unsupported by an explicit authority is not thereby shown false: 'it is clear that this issue is not regarded negatively by authority' (edelheit2022:13910).",
+ "reception": null,
+ "historiography": "Edelheit locates the source discussion in Scotus's Ordinatio 1, distinction 8, part 1, question 4, on the tension between divine simplicity and the distinction of Persons (edelheit2022:13850, 13874), a passage he says Farmer had already indicated (edelheit2022:13874).",
+ "connections": [
+  "1>2",
+  "1>5",
+  "2.16",
+  "2>25",
+  "3.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 3 we find that arguing that the three Persons in the Trinity are distinguished in divine absolute properties is not against the Catholic truth.",
+   "work": "edelheit2022",
+   "line": 13850,
+   "verbatim": true
+  },
+  {
+   "text": "It clearly implies that although the view that the Persons in the Trinity are dis- tinguished by absolute individual characters is not supported by an authority,",
+   "work": "edelheit2022",
+   "line": 13910,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

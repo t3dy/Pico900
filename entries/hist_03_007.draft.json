@@ -1,0 +1,37 @@
+{
+ "thesis_id": "3.7",
+ "tier": "B",
+ "latin": "Pluralitas formalitatum stat cum idemtitate reali.",
+ "latin_source": "farmer1998:12076",
+ "translation": "A plurality of formalities stands together with real identity.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12076",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes, from the Tractatus formalitatum (edelheit2022:13399).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Tractatus formalitatum secundum doctrinam Francisci Mayronis (Venice, 1520), p. 263D",
+   "locator": "edelheit2022:13426",
+   "pico_relation": "Edelheit quotes this passage as the discussion of formal versus real distinction behind the thesis."
+  }
+ ],
+ "doctrine": "The thesis asserts that a 'plurality of formalities' -- the Scotist compromise between a real and a merely rational distinction -- can coexist with 'real identity' in one and the same thing (farmer1998:12090). Farmer's note explains that formalities were held to be metaphysically real yet inseparable, even by God, from the objects in which they were found, and that later scholastics invoked them to reconcile texts that stressed a thing's unity with texts that stressed its internal distinctions (farmer1998:12090). Edelheit identifies the source as the Tractatus formalitatum secundum doctrinam Francisci Mayronis (edelheit2022:13399), quoting its opening question, 'whether those things which are distinguished really are [also] distinguished formally' (edelheit2022:13426).",
+ "context": "Farmer notes that this thesis begins a series continuing from 2.23, though he records no further cross-reference for 3.7 specifically (farmer1998:12090).",
+ "reception": null,
+ "historiography": "Edelheit treats theses 3.6 and 3.7 as both drawn from the Tractatus formalitatum, discussing 3.7 first because it 'states that plurality of formalities stands with real identity' before turning back to 3.6 (edelheit2022:13399).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 7 states that plurality of formalities stands with real identity.",
+   "work": "edelheit2022",
+   "line": 13399,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's cross-reference network records none for this thesis (no 'Cf.' entries located)."
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

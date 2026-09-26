@@ -1,0 +1,44 @@
+{
+ "thesis_id": "4.8",
+ "tier": "B",
+ "latin": "Ens de suis passionibus et ultimis differentiis quiditatiue non praedicatur.",
+ "latin_source": "farmer1998:12243",
+ "translation": "Being is not predicated quidditatively of its own attributes [passiones] and ultimate differences.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12243",
+ "pico_stance": "reports",
+ "attribution": "Reports Duns Scotus, paired with 4.7 as a single discussion (farmer1998:12135, 12275).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 1, distinction 3, part 1, questions 1-2, in Opera omnia, vol. 16, pp. 262-263",
+   "locator": "edelheit2022:14259",
+   "pico_relation": "Edelheit quotes this passage as Scotus's own statement of the doctrine behind the thesis."
+  }
+ ],
+ "doctrine": "The thesis holds that being (ens), though the first, most universal object of the intellect, is not itself predicated quidditatively of its own attributes and ultimate differences (edelheit2022:14228). Farmer's extended note treats 4.7-4.8 as reflecting 'the most important Thomist-Scotist conflict that Pico planned to resolve at Rome': Scotus read Thomas as confining metaphysics to 'individual quiddities,' a reading that for Scotus undercut metaphysical knowledge of being qua being, and Scotus accordingly held that being is said 'univocally,' not merely 'analogically,' of God and creatures (farmer1998:12275). Farmer adds that this transcendental, maximally indeterminate concept of being is what the formula in 4.8 reflects (farmer1998:12275).",
+ "context": "Farmer states that Pico's own rejection of Scotus's reading of Thomas is suggested elsewhere in the 900, at 2.42 and 2>5, and that Pico planned further treatment of the point at 1>14 (farmer1998:12275).",
+ "reception": null,
+ "historiography": "Edelheit calls thesis 8 'a conceptual continuation of thesis 7,' both drawn from the same Scotist discussion of the unique status of the concept of being with respect to knowledge of God, an instance of what he terms the concatenatio, or internal connection, linking different theses (edelheit2022:14232). He locates Scotus's own formulation in the Lectura 1, distinction 3, part 1, questions 1-2 (edelheit2022:14259).",
+ "connections": [
+  "1>14",
+  "2.42",
+  "2>5",
+  "3.4",
+  "3.8",
+  "4.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "What we have here is an obvious connection between differ- ent theses, yet another indication of the concatenatio, an internal connection between different theses.",
+   "work": "edelheit2022",
+   "line": 14232,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

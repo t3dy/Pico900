@@ -1,0 +1,41 @@
+{
+ "thesis_id": "4.1",
+ "tier": "B",
+ "latin": "Charitas non est distinctus habitus ab habitu gratiae, quo mediante spiritus sanctus animam inhabitat.",
+ "latin_source": "farmer1998:12140",
+ "translation": "Charity is not a habit distinct from the habit of grace, by whose mediation the Holy Spirit indwells the soul.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12140",
+ "pico_stance": "reports",
+ "attribution": "Reports Duns Scotus, first of the theses drawn from his work (farmer1998:12135, 12140).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 1, distinction 17, part 1, questions 1-2, in Opera omnia, ed. C. Balić et al., vol. 5 (Vatican City, 1959), pp. 139-231",
+   "locator": "edelheit2022:13746",
+   "pico_relation": "Edelheit identifies this as the passage where Scotus discusses the habit of charity underlying the thesis."
+  }
+ ],
+ "doctrine": "The thesis denies that charity is a distinct habit from the habit of grace, holding instead that grace is the very habit 'through the mediation of' which the Holy Spirit indwells the soul (edelheit2022:13746). Farmer's note glosses a 'habit' as a modification of a substance that predisposes it to act in a particular way, and remarks that the thesis's apparent deterministic implications are qualified elsewhere in the 900 (farmer1998:12169).",
+ "context": "Farmer cross-references the thesis to 2.9 from Thomas, on the merit of acts elicited by charity, and to 4.22, a later Scotus thesis on habits as partial efficient causes of acts (farmer1998:12169).",
+ "reception": null,
+ "historiography": "Edelheit identifies Scotus's Ordinatio 1, distinction 17, part 1, questions 1-2 as the passage behind the thesis, and quotes Scotus's own formulation that charity 'does not seem to be really a different habit from that by which the Holy Spirit indwells the soul,' so that the Spirit does not move the soul to love, as it moves it to believe and hope, through an intermediate habit distinct from indwelling itself (edelheit2022:13770).",
+ "connections": [
+  "2.9",
+  "3.5",
+  "4.22"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 1 we read that charity (caritas) should not be regarded as a dif- ferent habit from the habit of grace, which, through the mediation of the Holy Spirit, inheres in the soul.",
+   "work": "edelheit2022",
+   "line": 13746,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

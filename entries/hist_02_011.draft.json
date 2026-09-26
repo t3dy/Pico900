@@ -1,0 +1,49 @@
+{
+ "thesis_id": "2.11",
+ "tier": "B",
+ "latin": "Virtutes morales et cardinales remanebunt in patria post resurrectionem.",
+ "latin_source": "farmer1998:11415",
+ "translation": "The moral and cardinal virtues will remain in the homeland after the resurrection.",
+ "translation_note": "'in patria' ('in the homeland') is the scholastic term for the state of the blessed in heaven, as opposed to life 'in via' on earth.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11415",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11415).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas's commentary on the Sentences, 3, d. 34, q. 1, a. 3",
+   "locator": "edelheit2022:10624",
+   "pico_relation": "Edelheit cites Thomas's discussion, arguing a contrary position, as the background to the thesis"
+  }
+ ],
+ "doctrine": "The thesis holds that the moral and cardinal virtues persist in the blessed after the resurrection (farmer1998:11415). Edelheit reports that moral and cardinal virtues are at the centre of thesis 11, which states that they remain in patria after the resurrection, and finds this discussed by Thomas in his commentary on the Sentences, 3, d. 34, q. 1, a. 3, where Thomas argues, aiming to support a contrary position, in the response to argument 6 (edelheit2022:10624). Farmer places the thesis within a diffuse set of theses on the virtues (farmer1998:11454).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) judges that Thomas's discussion is much more elaborate than Pico's single-sentence thesis, while finding the latter's formulation adequate to and reflective of familiarity with Thomas's treatment (edelheit2022:10624).",
+ "connections": [
+  "2.34",
+  "20.11",
+  "20.8",
+  "20.9",
+  "25.8",
+  "2>2",
+  "4.10",
+  "5.10",
+  "5.8",
+  "7a>70"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Moral and cardinal virtues are at the centre of thesis 11. It states that moral and cardinal virtues remain in patria after resurrection.",
+   "work": "edelheit2022",
+   "line": 10624,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Thomas's 'contrary position' and its argument 6, beyond Edelheit's bare reference, are not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

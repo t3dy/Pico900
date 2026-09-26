@@ -1,0 +1,43 @@
+{
+ "thesis_id": "2.5",
+ "tier": "B",
+ "latin": "Quodcunque contingens deus sciuit esse futurum, necessario sciuit illud esse futurum.",
+ "latin_source": "farmer1998:11321",
+ "translation": "Whatever contingent thing God knew would be future, he knew necessarily that it would be future.",
+ "translation_note": null,
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11321",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11321).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Summa theologiae, 1, q. 14, a. 13",
+   "locator": "edelheit2022:10331",
+   "pico_relation": "Edelheit finds Thomas emphasizing the same necessity shortly after the passage behind thesis 2.4"
+  }
+ ],
+ "doctrine": "The thesis holds that whatever contingent future thing God knew, he knew it necessarily (farmer1998:11321). Edelheit states that thesis 5 holds that whatever future contingency God knows is known to him in a necessary fashion, and that this necessity is emphasized again by Thomas a little later in the same discussion as thesis 4, in the Summa, 1, q. 14, a. 13 (edelheit2022:10331). Farmer groups this thesis with 2.2-9 under the divine omnipotence/free will problem (farmer1998:11348).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) reads theses 4 and 5 as a pair restating, in Pico's compressed form, the same page of Thomas's Summa, 1, q. 14, a. 13 (edelheit2022:10331).",
+ "connections": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 5 states that, whatever future contingency God knows is known to Him in a necessary fashion.",
+   "work": "edelheit2022",
+   "line": 10331,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

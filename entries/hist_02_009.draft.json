@@ -1,0 +1,43 @@
+{
+ "thesis_id": "2.9",
+ "tier": "B",
+ "latin": "Opus ab anima charitate formata elicitum meretur aeternam gloriam decondigno.",
+ "latin_source": "farmer1998:11334",
+ "translation": "A work elicited by a soul formed by charity merits eternal glory by condign merit.",
+ "translation_note": "'decondigno' (de condigno) is the technical term for merit measured by an equality between service and return, as against merit 'de congruo'; Edelheit cites the Catholic Encyclopedia's account of the distinction (edelheit2022:10539).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11334",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11334).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas's commentary on the Sentences, 2, d. 28, q. 1, a. 2",
+   "locator": "edelheit2022:10518",
+   "pico_relation": "Edelheit finds Thomas's distinction between resisting sin and condign merit as background to the thesis"
+  }
+ ],
+ "doctrine": "The thesis holds that an act elicited by a soul formed by charity merits eternal glory de condigno, by strict equivalence of merit and reward (farmer1998:11334). Edelheit reports that thesis 9 states that an act performed by a soul formed with charity is worthy of eternal glory due to condign merit, tracing it to Thomas's commentary on the Sentences, 2, d. 28, q. 1, a. 2 (edelheit2022:10518). Farmer groups this thesis with 2.2-9 under the divine omnipotence/free will problem (farmer1998:11348).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) suggests that Pico is here pushing a notion found in Thomas somewhat beyond its original scope, in response to a challenge from Ockham (edelheit2022:10518).",
+ "connections": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It states that an act which was performed by a soul which was formed with charity is worthy of eternal glory due to condign merit.",
+   "work": "edelheit2022",
+   "line": 10518,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific 'challenge from Ockham' Edelheit has in mind is referenced but not quoted in the excerpt consulted, so its content is not established here."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,54 @@
+{
+ "thesis_id": "3.5",
+ "tier": "B",
+ "latin": "Quiditates habent ab aeterno suum esse formale a se, non ab extrinseco.",
+ "latin_source": "farmer1998:11987",
+ "translation": "Quiddities have their formal being from eternity of themselves, not from something extrinsic.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:11987",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes, on quiddities as ideas in the divine mind (farmer1998:11969, 12056).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Scriptum super Primum Sententiarum, pp. x9v-y1r, on Sentences 1, distinction 42, question 2 ('whether quiddities ... have existence from eternity of themselves and not from an external cause')",
+   "locator": "edelheit2022:13379",
+   "pico_relation": "Edelheit cites this passage, already indicated by Farmer, as the source of the thesis."
+  }
+ ],
+ "doctrine": "The thesis holds that 'quiddities' -- for Francis, the ideas in the mind of God -- 'formally hold their existence by themselves and from eternity, not by anything external' (edelheit2022:13351), and so do not 'require an external cause' (edelheit2022:13379). Farmer glosses 'quiddities' here as referring to the divine ideas, distinct from the material-essence sense of the term used elsewhere in the 900 (e.g. 2.42) and from the sense used of ideas reflected in the separate intelligences (e.g. 7.36), a distinction Farmer says Pico meant to rank hierarchically in his planned Roman debate (farmer1998:12056).",
+ "context": "Farmer records that the thesis is 'opposed to' 4.2 from Scotus and 'strongly linked' to 5.9 from Henry of Ghent, and that 11>58 may bear further on Pico's own view of the same issue (farmer1998:12056).",
+ "reception": null,
+ "historiography": "Edelheit identifies the source discussion as Francis of Meyronnes's commentary on Sentences 1, distinction 42, question 2, citing Scriptum super Primum Sententiarum, pp. x9v-y1r, and notes that this identification 'was indicated by Farmer' (edelheit2022:13379).",
+ "connections": [
+  "11>58",
+  "13.1",
+  "2.42",
+  "2>2",
+  "2>3",
+  "2>46",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "3>7",
+  "4.2",
+  "5.9",
+  "7.36",
+  "7.41"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 5 we learn that quiddities formally hold their existence by them- selves and from eternity, not by anything external.",
+   "work": "edelheit2022",
+   "line": 13351,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,44 @@
+{
+ "thesis_id": "3.2",
+ "tier": "B",
+ "latin": "Potest uideri essentia sine personis, et una persona sine alia.",
+ "latin_source": "farmer1998:11978",
+ "translation": "The essence can be seen without the Persons, and one Person without another.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:11978",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes, the second of the eight theses drawn from his commentary (farmer1998:11969, 11978).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Scriptum super Primum Sententiarum, pp. s9v-t1v",
+   "locator": "edelheit2022:13155",
+   "pico_relation": "Edelheit cites this stretch of Francis's commentary as the source Farmer already indicated for the thesis."
+  }
+ ],
+ "doctrine": "The thesis holds, on Trinitarian logic, that the divine essence 'can be seen without the Persons, and one Person without another' (farmer1998:11978). Edelheit paraphrases it directly: 'According to Pico it is possible that essence could be seen without Persons, and that one Person could be seen without another Person' (edelheit2022:13130). Farmer's shared note on 3.1-3.2 glosses 'the essence' as the abstract divine nature considered independently of the Persons (farmer1998:12005).",
+ "context": "Edelheit places the question in Francis's commentary on the Sentences, and records that Francis 'goes on and demonstrates further different components of this proposition,' a discussion Edelheit judges to go beyond what the thesis itself states (edelheit2022:13130).",
+ "reception": null,
+ "historiography": "Edelheit reads the thesis as continuing the Trinitarian logic of thesis 3.1, remarking that it 'brings us of course to the subtleties of Trinitarian theology' (edelheit2022:13130), and identifies Francis of Meyronnes, Scriptum super Primum Sententiarum, pp. s9v-t1v, as the passage Farmer had already indicated (edelheit2022:13155).",
+ "connections": [
+  "11>4",
+  "2.1",
+  "2>47",
+  "2>48",
+  "3.1",
+  "4.5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "According to Pico it is possible that essence could be seen without Persons, and that one Person could be seen without another Person.",
+   "work": "edelheit2022",
+   "line": 13130,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

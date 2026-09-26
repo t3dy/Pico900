@@ -1,0 +1,52 @@
+{
+ "thesis_id": "1.13",
+ "tier": "B",
+ "latin": "Licet ad receptionem speciei concurrat sensus passiue, ad iudicandum tamen de sensibili actiue concurrit.",
+ "latin_source": "farmer1998:11149",
+ "translation": "Although sense concurs passively in receiving the species, it concurs actively, however, in judging the sensible object.",
+ "translation_note": "'species' is the sensible form received by the sense organ; the active/passive contrast is Albert the Great's, per Farmer's note on this thesis (farmer1998:11214).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11149",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11149).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on Aristotle's De anima, Book 2, Tract 4, Chapter 2",
+   "locator": "edelheit2022:9874",
+   "pico_relation": "Edelheit identifies this passage as underlying Pico's wording in thesis 13"
+  }
+ ],
+ "doctrine": "The thesis distinguishes two ways sense is said to concur in perception: passively in receiving a sensible species, and actively in judging the sensible object (farmer1998:11149). Edelheit reports that in thesis 13 Pico holds that sense concurs with the retention of species in a passive manner but concurs with judgment of a sensible object in an active manner, and traces this to Albert's commentary on De anima, Book 2, Tract 4, Chapter 2 (edelheit2022:9874). Farmer's note glosses the doctrine as Albert's view that every sense combines an active and a passive element, a duality Farmer says Pico found appealing for its symmetry with the structure of higher cognitive powers (farmer1998:11214).",
+ "context": "Farmer's note groups thesis 1.13 with related historical theses, some in conflict with it, at 8.10, 10.3, 17.1 and 17.7, and links it to Pico's own-opinion thesis 2>1 on the direct abstraction of inferior universals by the senses (farmer1998:11214).",
+ "reception": null,
+ "historiography": "Edelheit (2022) discusses thesis 13 within his chapter on Pico and Albert the Great, quoting the Latin as printed at page 216 of the 900 Theses and citing Albert's Opera omnia (Cologne edition, vol. 7/1, p. 150) in support (edelheit2022:9900).",
+ "connections": [
+  "1.14",
+  "10.3",
+  "17.1",
+  "1>16",
+  "2.42",
+  "2>1",
+  "2>61",
+  "3>9",
+  "4.22",
+  "7.20",
+  "7.41",
+  "8.10"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 13 we find that it is possible that sense would concur with the retention of species in a passive manner, yet it would concur with the judgment of species regarding a sensible object in an active manner.",
+   "work": "edelheit2022",
+   "line": 9874,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's note names related theses (8.10, 10.3, 17.1, 17.7) as partly conflicting but does not, in the excerpt consulted, spell out the point of conflict.",
+  "The precise content of Albert's discussion in De anima Book 2, Tract 4, Chapter 2 beyond Edelheit's identification of the passage is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

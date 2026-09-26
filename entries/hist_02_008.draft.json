@@ -1,0 +1,43 @@
+{
+ "thesis_id": "2.8",
+ "tier": "B",
+ "latin": "Nec habens gratiam potest, etiam de potentia dei absoluta, deo non esse acceptus ad uitam aeternam, nec non habens esse acceptus.",
+ "latin_source": "farmer1998:11331",
+ "translation": "Neither can one who has grace, even by God's absolute power, fail to be accepted by God to eternal life, nor can one who lacks grace be accepted.",
+ "translation_note": "'de potentia dei absoluta' (by God's absolute power) marks the scholastic distinction between what God could do considered apart from the order he has established (potentia absoluta) and what he does within it, per Edelheit's citation of Thomas's parallel discussion (edelheit2022:10454).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11331",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11331).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super Sententiis, 3, d. 20, q. 1, a. 1",
+   "locator": "edelheit2022:10454",
+   "pico_relation": "Edelheit cites this passage, on whether God could remit sin absolutely without any penalty, as bearing on the thesis"
+  }
+ ],
+ "doctrine": "The thesis holds that grace and acceptance to eternal life are inseparable even under God's absolute power: one with grace cannot fail to be accepted, one without it cannot be accepted (farmer1998:11331). Edelheit reports that thesis 8 takes up grace, salvation and the absolute power of God, stating that neither is it possible, even through God's absolute power, that someone who has grace would not be accepted by God into eternal life, nor that someone who does not have grace be accepted, and cites Thomas's Scriptum super Sententiis, 3, d. 20, q. 1, a. 1, on God's absolute power to remit sin (edelheit2022:10454). Farmer groups this thesis with 2.2-9 under the divine omnipotence/free will problem (farmer1998:11348).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) elsewhere connects thesis 8 to thesis 36's treatment of accidents, describing thesis 8 as a case in which Pico critically reacts to Ockham through the mediation of Thomas (edelheit2022:12450).",
+ "connections": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 8 takes us to issues pertaining to grace, salvation, and the absolute power of God.",
+   "work": "edelheit2022",
+   "line": 10428,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The exact sense in which Edelheit takes thesis 8 to react to Ockham 'through the mediation of Thomas' is stated only in passing at edelheit2022:12450 and not developed further in the material consulted."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,43 @@
+{
+ "thesis_id": "2.4",
+ "tier": "B",
+ "latin": "Contingentia ad utrumlibet futurorum cognitorum a deo simul stat cum infallibilitate diuinae scientiae.",
+ "latin_source": "farmer1998:11318",
+ "translation": "The contingency, open to either outcome, of future things known by God stands together with the infallibility of divine knowledge.",
+ "translation_note": null,
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11318",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11318).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Summa theologiae, 1, q. 14, a. 13",
+   "locator": "edelheit2022:10328",
+   "pico_relation": "Edelheit places this thesis in the same Thomistic discussion of future contingents as thesis 2.3"
+  }
+ ],
+ "doctrine": "The thesis holds that the contingency of future events known by God coexists with the infallibility of divine knowledge (farmer1998:11318). Edelheit states that thesis 4 emphasizes that the contingent nature, for us, of each future contingency is, from God's perspective, necessary, as a concomitant of the infallibility of divine knowledge, and notes that theses 3-5 originate in the same place in Thomas's Summa (edelheit2022:10328). Farmer groups this thesis with 2.2-9 under the divine omnipotence/free will problem (farmer1998:11348).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) reads theses 4 and 5 together as restating, from Thomas's discussion in the Summa, 1, q. 14, a. 13, the compatibility of contingency for the created intellect with necessity for the divine (edelheit2022:10328).",
+ "connections": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 4 emphasizes that the contingent nature for us of each of the future contingencies, is from God's perspective, necessary, as a concomitant of the infallibility of divine knowledge.",
+   "work": "edelheit2022",
+   "line": 10328,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,40 @@
+{
+ "thesis_id": "3.8",
+ "tier": "B",
+ "latin": "Esse non est de quiditate dei, sed dicitur de eo in secundo modo.",
+ "latin_source": "farmer1998:12079",
+ "latin_note": "Farmer's apparatus records a 1487 variant reading, 'Esse non de est quiditate' (farmer1998:12084); the present entry follows the reading at farmer1998:12079.",
+ "translation": "Existence is not of the quiddity of God, but is said of him in the second mode [of per se predication].",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12079",
+ "pico_stance": "reports",
+ "attribution": "Reports Francis of Meyronnes, the last of the eight theses drawn from his commentary (farmer1998:11969, 12079).",
+ "sources": [
+  {
+   "text": "Francis of Meyronnes, Scriptum super Primum Sententiarum, pp. a8r-b1r, on Sentences 1, Prologue, question 6 ('whether \"being\" can be said in a quidditative manner [of God]')",
+   "locator": "edelheit2022:13668",
+   "pico_relation": "Edelheit cites this passage, already indicated by Farmer, as the source of the thesis."
+  }
+ ],
+ "doctrine": "The thesis holds that God's existence (esse) is not part of his quiddity but is predicated of him 'in the second mode' of per se predication (farmer1998:12079), a mode Farmer's note treats as making existence, idiosyncratically, a 'proper accident' of the divine nature, and cross-references to his notes on 2.35 and 2.24 for the sense of 'second mode' (farmer1998:12121). Edelheit states the same content: 'existence is not about the quiddity of God but rather it is said about God in a second mode' (edelheit2022:13642).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit locates the discussion in Francis of Meyronnes's commentary on Sentences 1, Prologue, question 6, citing Scriptum super Primum Sententiarum, pp. a8r-b1r, and notes this identification 'was indicated by Farmer' (edelheit2022:13668). He also records, as an open question of his own, whether an apparent discrepancy elsewhere in Francis's text reflects Pico citing from memory or a textual error (edelheit2022:13642).",
+ "connections": [
+  "2.35"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 8 we find that existence is not about the quiddity of God but rather it is said about God in a second mode.",
+   "work": "edelheit2022",
+   "line": 13642,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

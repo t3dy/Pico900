@@ -1,0 +1,47 @@
+{
+ "thesis_id": "1.15",
+ "tier": "B",
+ "latin": "Corporis in eo quod corpus consideratio ad methaphysicum spectat.",
+ "latin_source": "farmer1998:11156",
+ "translation": "Consideration of body, insofar as it is a body, belongs to the metaphysician.",
+ "translation_note": "'in eo quod corpus' ('insofar as it is a body') marks the formal respect under which body is considered, distinguishing this from the physicist's consideration of body as mobile (farmer1998:11219).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11156",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11156).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on De anima, Book 1, Tract 1, Chapter 7",
+   "locator": "edelheit2022:9969",
+   "pico_relation": "Edelheit cites Albert's distinction between body as movable and body absolutely as the background to this thesis"
+  }
+ ],
+ "doctrine": "The thesis assigns the metaphysician, rather than the natural philosopher, the consideration of body taken absolutely as body (farmer1998:11156). Edelheit states that thesis 15 holds that the consideration of the body, in that in which it is a body, is a consideration for the metaphysician, and connects it to Albert's distinction, in his commentary on De anima Book 1, Tract 1, Chapter 7, between a body inasmuch as it is movable and body considered more simply (edelheit2022:9969). Farmer's note treats theses 14-15 together as part of scholastic disputes over the objects proper to natural science and metaphysics (farmer1998:11219).",
+ "context": "Farmer cross-references the same dispute over the objects of physics and metaphysics at 2.42, 7.20 and 7.38, and notes that Pico's usual way of resolving such conflicts was hierarchical (farmer1998:11219).",
+ "reception": null,
+ "historiography": "Edelheit (2022) reads thesis 15 as continuing his discussion of thesis 14 on kinds of body, quoting Pico's Latin at page 216 of the 900 Theses and Albert's Opera omnia (Cologne edition, vol. 7/1, pp. 14-15) as its source (edelheit2022:9994).",
+ "connections": [
+  "1.14",
+  "1>16",
+  "2.42",
+  "2>61",
+  "3>9",
+  "4.22",
+  "7.20",
+  "7.41"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 15 states that the consideration of the body (that in which it is a body) is a consideration for the metaphysician.",
+   "work": "edelheit2022",
+   "line": 9969,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's cited resolution of the physics/metaphysics conflict ('Pico's usual hierarchical means of resolving such conflicts is...') is truncated in the excerpt consulted and not established further here."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

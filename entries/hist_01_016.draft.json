@@ -1,0 +1,41 @@
+{
+ "thesis_id": "1.16",
+ "tier": "B",
+ "latin": "Potentia respectiua materiae non addit supra materiam rem, sed rationem.",
+ "latin_source": "farmer1998:11159",
+ "translation": "The relative potency of matter adds to matter, over and above matter itself, not a thing, but a concept [ratio].",
+ "translation_note": "The res/ratio contrast distinguishes something existing concretely (res) from its formal or conceptual possibility (ratio), per Farmer's note (farmer1998:11224).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11159",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11159).",
+ "sources": [
+  {
+   "text": "Albert the Great's commentary on the Physics, Book 1, Tract 3, Chapter 13",
+   "locator": "edelheit2022:10060",
+   "pico_relation": "Edelheit cites Albert's account of matter understood without form as simple, though not at the limit of simplicity, as the thesis's background"
+  }
+ ],
+ "doctrine": "The thesis holds that a 'respective' potency in matter adds to matter nothing real, only a conceptual distinction (farmer1998:11159). Edelheit states that in thesis 16 potency regarding matter does not add anything to matter beyond reason (ratio), and traces this to Albert's commentary on the Physics, Book 1, Tract 3, Chapter 13, on matter understood as intelligible without privation and without form (edelheit2022:10060). Farmer's note reads the thesis as qualifying thesis 1.4, on the model of how Pico elsewhere used a sect leader's final thesis to qualify an earlier one, comparing 4.22 (from Scotus) and 7.41 (from Averroes) (farmer1998:11224).",
+ "context": null,
+ "reception": null,
+ "historiography": "Edelheit (2022) quotes Pico's Latin at page 216 of the 900 Theses and Albert's Opera omnia (Cologne edition, vol. 4/1, p. 63) in support of the identification (edelheit2022:10090).",
+ "connections": [
+  "4.22",
+  "7.41"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 16 we find that potency regarding matter does not add anything to matter beyond reason.",
+   "work": "edelheit2022",
+   "line": 10060,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's claim that thesis 1.16 qualifies thesis 1.4 specifically is stated in his note but the content of thesis 1.4 itself was not consulted here, so the qualification cannot be independently confirmed."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

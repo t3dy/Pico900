@@ -1,0 +1,58 @@
+{
+ "thesis_id": "2.10",
+ "tier": "B",
+ "latin": "Potuerunt tres personae diuinae simul suppositare unam naturam.",
+ "latin_source": "farmer1998:11412",
+ "translation": "The three divine Persons could at once have made one nature their supposit.",
+ "translation_note": "'suppositare': to make a nature the supposit of a divine Person, as in the hypostatic union; Copenhaver's own rendering, 'the three divine persons together could have supposited a single nature', appears in his discussion of this thesis (copenhaver2022:5494).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch2, from Latin at farmer1998:11412",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11412).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Summa contra gentiles, 4, 39, n. 3",
+   "locator": "edelheit2022:10573",
+   "pico_relation": "Edelheit identifies this passage, on hypostatic union and union in supposit in Christ, as the thesis's source"
+  }
+ ],
+ "doctrine": "The thesis holds that the three divine Persons could together have taken up a single nature as their common supposit (farmer1998:11412). Copenhaver explains that everyone agreed there are three supposits in the Trinity, one for each Person, so that Pico's thesis raises the counterfactual of a single supposited nature shared among the three (copenhaver2022:5494). Edelheit reports that thesis 10 states that the three divine Persons can at once assume one nature, and locates it in Thomas's Summa contra gentiles, 4, 39, n. 3, where hypostatic union and union in supposit in Christ are discussed (edelheit2022:10573). Farmer's note treats this thesis under the limits of divine power, and reports that Thomas, in his Sentences commentary, 3, d. 1, q. 2, art. 4, held that while all three Persons assuming human nature as a single Person would be contradictory, no contradiction follows from God having assumed one nature as three Persons (farmer1998:11445). Farmer adds that Pico himself dispensed with the principle of noncontradiction with respect to the divine nature (farmer1998:11445).",
+ "context": null,
+ "reception": null,
+ "historiography": "Both Copenhaver (2022) and Edelheit (2022) treat this thesis as a Trinitarian speculation on shared supposit, with Edelheit specifying Thomas's Summa contra gentiles passage as the source and noting Ockham's parallel doctrine of condign merit in his gloss on the neighboring thesis 2.9 (edelheit2022:10604).",
+ "connections": [
+  "2.20",
+  "2.32",
+  "2.34",
+  "2.8",
+  "20.11",
+  "20.8",
+  "20.9",
+  "25.8",
+  "4.10",
+  "4.13",
+  "5.10",
+  "5.8",
+  "7a>70"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The three divine persons together could have supposited a single nature.",
+   "work": "copenhaver2022",
+   "line": 5494,
+   "verbatim": true
+  },
+  {
+   "text": "Thesis 10 brings us again to Trinitarian theology and speculations. We find there that the three divine Persons can at once assume one nature.",
+   "work": "edelheit2022",
+   "line": 10573,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's cross-reference to thesis 2.32 on the principle of noncontradiction was not independently read for this entry; the claim that Pico dispensed with the principle rests on Farmer's note alone."
+ ],
+ "writer": "WRITER-full-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

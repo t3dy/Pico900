@@ -1,0 +1,48 @@
+{
+ "thesis_id": "4.9",
+ "tier": "B",
+ "latin": "In Christo non fuit scientia acquisita.",
+ "latin_source": "farmer1998:12246",
+ "translation": "In Christ there was no acquired knowledge.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:12246",
+ "pico_stance": "reports",
+ "attribution": "Reports Duns Scotus, on Christ's knowledge, against Thomas (farmer1998:12135, 12331).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 3, distinction 14, question 3, 'whether Christ's soul knew everything in its particular genus' (Utrum anima Christi novit omnia in genere proprio), in Opera omnia, vol. 9, pp. 459-474",
+   "locator": "edelheit2022:14286",
+   "pico_relation": "Edelheit identifies this question as the discussion behind the thesis, citing Farmer's own note to the same effect."
+  }
+ ],
+ "doctrine": "The thesis denies that Christ possessed 'acquired knowledge,' as opposed to knowledge that is infused or otherwise not gained through ordinary human learning (edelheit2022:14286). Farmer's note calls this 'another issue dividing the Scotists and Thomists,' cross-referencing Thomas's Summa theologiae 3a, questions 11-12, and records that in the Apology Pico charged Thomas with inconsistency on the topic (farmer1998:12331).",
+ "context": "Edelheit quotes the Scotist text under discussion distinguishing 'infused' from 'acquired' cognition in Christ's soul (edelheit2022:14314).",
+ "reception": null,
+ "historiography": "Edelheit locates the doctrine in Scotus's Lectura 3, distinction 14, question 3, on whether Christ's soul knew everything within its own genus, and quotes the opening of the relevant distinction between infused and acquired cognition (edelheit2022:14286, 14314).",
+ "connections": [
+  "2.10",
+  "2.15",
+  "2.34",
+  "2.8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 9 states that in Christ there was no acquired knowledge.",
+   "work": "edelheit2022",
+   "line": 14286,
+   "verbatim": true
+  },
+  {
+   "text": "Hic distinguitur de cognitione infusa et acquisita.",
+   "work": "edelheit2022",
+   "line": 14314,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch5 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
