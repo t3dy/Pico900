@@ -36,7 +36,7 @@ def is_placeholder(value):
 def load_json_safe(filepath):
     """Load JSON with error handling."""
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+        with open(filepath, 'r', encoding='utf-8-sig') as f:
             return json.load(f)
     except Exception as e:
         return {"_error": str(e), "_filepath": filepath}
