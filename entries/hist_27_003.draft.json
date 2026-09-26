@@ -1,0 +1,47 @@
+{
+ "thesis_id": "27.3",
+ "tier": "B",
+ "latin": "Anima in corpore, mens in anima, in mente uerbum, tum horum pater deus.",
+ "latin_source": "farmer1998:17248",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17248",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Soul is in body, mind is in soul, in mind is the word, and God is the father of these three.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17248. 'Tum horum pater deus' is taken as naming God the father of the three preceding terms (body, soul, mind), rather than of the word alone.",
+ "pico_stance": "reports",
+ "attribution": "Mercury Trismegistus",
+ "sources": [],
+ "doctrine": "The thesis states a graded procession from body through soul and mind to the word, naming God as the father of the series (farmer1998:17248). The thesis is headed, in the edition consulted, 'Conclusio secundum priscam doctrinam Mercurii Trismegisti Aegyptii', which frames it as a report of Hermetic doctrine rather than Pico's own claim (kabbalah_paradigma:1397). Farmer pairs it with the following thesis, 27.4, and directs comparison to thesis 22.12 of Porphyry (farmer1998:17338).",
+ "historiography": "A study of Pico's Kabbalistic epistemology cites this thesis by its full rubric and text at page 340 of the edition it consults, grouping it in a footnote with theses 22.12 and 3>49 and referring the reader to Cadafaz de Matos's study of Pico for further discussion, without stating in the passage consulted what connects the three theses (kabbalah_paradigma:1397).",
+ "connections": [
+  "20.3",
+  "21.4",
+  "21.5",
+  "21.6",
+  "27.5",
+  "7.1",
+  "22.12",
+  "3>49"
+ ],
+ "quotations": [
+  {
+   "text": "Conclusio secundum priscam doctrinam Mercurii Trismegisti Aegyptii, 27.3.",
+   "work": "kabbalah_paradigma",
+   "line": 1397,
+   "verbatim": true
+  },
+  {
+   "text": "Anima in corpore, mens in anima, in mente verbum, tum horum pater deus.",
+   "work": "kabbalah_paradigma",
+   "line": 1397,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "What specifically connects theses 22.12, 3>49 and 27.3 in the study's footnote is not established by the sources consulted; kabbalah_paradigma:1397 gives only the citation, not the argument.",
+  "The full text of thesis 22.12 of Porphyry, cross-referenced by Farmer's note, is not given in this packet and is not reproduced here."
+ ]
+}

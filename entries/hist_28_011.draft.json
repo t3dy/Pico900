@@ -1,0 +1,43 @@
+{
+ "thesis_id": "28.11",
+ "tier": "B",
+ "latin": "Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita, ad significandum quod ex secunda numeratione procedit tertia, quae in quartam, quintam, sextam, et decimam diuiditur.",
+ "latin_source": "farmer1998:17732",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17791",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "It is said that a river goes out from Eden and divides into four heads, to signify that from the second numeration the third proceeds, which is divided into the fourth, the fifth, the sixth, and the tenth.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17732, checked against Farmer's sense at farmer1998:17791.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Genesis 2:10-14 (the four rivers of Eden)",
+   "locator": "farmer1998:17811",
+   "pico_relation": "the biblical text allegorized in the thesis as a figure of the sefirotic numerations"
+  }
+ ],
+ "doctrine": "The thesis allegorizes the four rivers of Eden as a figure for the kabbalistic sefirot, using 'numeration' as a literal rendering of the Hebrew sefirah for the procession of the third numeration from the second, and its further division into the fourth, fifth, sixth and tenth (farmer1998:17811). Farmer directs the reader to Pico's further treatment of the symbolism of the four rivers of paradise in the Oration (farmer1998:17811).",
+ "historiography": "Busi and Ebgi print this conclusion together with its immediate neighbors in their edition, among the theses on the sefirotic 'edifice' (busi2014:24877). Wirszubski quotes the same Latin as the eleventh conclusion of the Cabalistic set (wirszubski1989:1734, 1737).",
+ "connections": [
+  "11>68",
+  "11>69",
+  "1>8",
+  "24.2",
+  "3>1"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad",
+   "work": "wirszubski1989",
+   "line": 1734,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Pico's own further discussion of the four rivers of paradise in the Oration, cross-referenced by Farmer at farmer1998:17811, was not itself consulted and is not stated here."
+ ]
+}

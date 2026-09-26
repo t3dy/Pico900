@@ -1,0 +1,43 @@
+{
+ "thesis_id": "28.17",
+ "tier": "B",
+ "latin": "Vbicunque in scriptura fit mentio amoris maris_et feminae_nobis mystice designatur coniuncto Tipheret et Chieneseth Israhel, uel Beth et Tipheret.",
+ "latin_source": "farmer1998:17854",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17906",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Wherever Scripture mentions the love of male and female, the conjunction of Tiferet and Keneset Israel, or of Beit and Tiferet, is mystically signified for us.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17854, checked against Farmer's sense at farmer1998:17906.",
+ "latin_note": "The 1487 print reads 'chienseth' at this point in the text (farmer1998:17869).",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Menahem Recanati's Pentateuch commentary",
+   "locator": "farmer1998:18383",
+   "pico_relation": "identified by Farmer as the likely source for this thesis and its neighbors 28.42-43, against Wirszubski's proposal of Mithridates' translation of Recanati"
+  }
+ ],
+ "doctrine": "The thesis treats every scriptural mention of the love between male and female as a mystical sign of the conjunction of two sefirotic pairs, Tiferet and Keneset Israel, or Beit and Tiferet, applying the standard kabbalistic association of male and female with superior and inferior sefirot, whose mating symbolizes mystical or eschatological union, or the original creation of the world through the sefirot (farmer1998:17923). Farmer's further note groups this thesis with theses 28.42-43 among those he traces to Recanati's commentary, and states that no evidence supports Wirszubski's claim that Pico instead used Mithridates' translation of that work, since it was not completed until after Pico's Conclusiones were published (farmer1998:18383).",
+ "historiography": "A study of Pico's Kabbalistic epistemology quotes the Latin of this conclusion together with thesis 28.28 and thesis 11>53, in a discussion of Wirszubski's account of Pico's sources (kabbalah_paradigma:1826). Wirszubski quotes the same Latin as the seventeenth conclusion of the Cabalistic set and compares it to Recanati's commentary (wirszubski1989:2005, 2008).",
+ "connections": [
+  "28.42",
+  "28.43",
+  "28.28",
+  "11>53"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO XVII Vbicumque in scriptura fit mentio amoris maris et feminae nobis mystice",
+   "work": "wirszubski1989",
+   "line": 2005,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico distinguishes a separate sense for the pairing 'Beth et Tipheret' from that for 'Tipheret et Chieneseth Israhel' is not established by the sources consulted."
+ ]
+}

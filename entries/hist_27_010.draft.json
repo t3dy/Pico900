@@ -1,0 +1,40 @@
+{
+ "thesis_id": "27.10",
+ "tier": "B",
+ "latin": "Decem ultores, de quibus dixit secundum Mercurium praecedens conclusio, uidebit profundus contemplator correspondere male coordinationi denariae in cabala_et praefectis illius, de quibus ego in cabalisticis conclusionibus nihil posui, quia est secretum.",
+ "latin_source": "farmer1998:17362",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17398",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "The ten avengers of the preceding conclusion, spoken of according to Mercury, will be seen by a discerning observer to answer to the evil tenfold ordering in the Cabala and its rulers; of these I have set down nothing among my Cabalistic conclusions, for it is a secret.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17362, and checked for sense, without reproducing its wording, against Farmer's own paraphrase at farmer1998:17398. 'Ultores' is rendered 'avengers' rather than 'punishers'.",
+ "latin_note": "Wirszubski's transcription reads 'correspondere malae coordinationi denariae in Cabala' where Farmer's copy-text has 'correspondere male coordinationi denariae in cabala' (wirszubski1989:9575).",
+ "pico_stance": "reports",
+ "attribution": "Mercury Trismegistus",
+ "sources": [
+  {
+   "text": "the Hermetic Corpus and the editio princeps, which name twelve avengers rather than ten",
+   "locator": "farmer1998:17407",
+   "pico_relation": "Farmer reports that Pico reduced the Hermetic count of twelve to ten in his Emendationes errorum to preserve the correspondence stated in this thesis"
+  }
+ ],
+ "doctrine": "The thesis completes the sequence begun at thesis 27.9, which lists ten avengers within each person: ignorance, sorrow, inconstancy, desire, injustice, luxury, envy, fraud, wrath, and malice (farmer1998:17358). It maps that decad onto the Cabala's own tenfold ordering and its governing powers, while withholding further explanation as a secret reserved for Pico's own Cabalistic conclusions (farmer1998:17362). Farmer records that the Hermetic Corpus and the editio princeps name twelve avengers, and that Pico reduced the number to ten in his Emendationes errorum in order to preserve this correspondence (farmer1998:17407).",
+ "historiography": "Wirszubski transcribes the thesis as the tenth conclusion of the first set and gives its Latin without further comment in the passage consulted (wirszubski1989:9575).",
+ "connections": [
+  "27.9"
+ ],
+ "quotations": [
+  {
+   "text": "Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio",
+   "work": "wirszubski1989",
+   "line": 9575,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's 'praefecti' of the Cabalistic decad correspond to a specific, named sefirah-by-sefirah mapping is not established by the sources consulted; farmer1998:17407 discusses only the reduction from twelve avengers to ten, not the identity of the governors."
+ ]
+}

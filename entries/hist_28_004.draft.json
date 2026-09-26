@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.4",
+ "tier": "B",
+ "latin": "Peccatum Adae fuit truncatio regni a caeteris plantis.",
+ "latin_source": "farmer1998:17544",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17598",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "The sin of Adam was the severing of the kingdom from the rest of the shoots.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17544, checked against Farmer's sense at farmer1998:17598.",
+ "latin_note": "Farmer's apparatus records a variant reading, 'coetens', in the 1486 print at this point in the text, without identifying which word of the 1487/copy-text reading it replaces (farmer1998:17555).",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "the Zohar and Menahem Recanati's commentary (as cited via Scholem and Wirszubski)",
+   "locator": "farmer1998:17617",
+   "pico_relation": "Farmer's note traces the 'severing of the shoots' image, here applied to Adam's sin, to this common kabbalistic association of the sefirot with the tree of paradise"
+  }
+ ],
+ "doctrine": "The thesis reads Adam's sin kabbalistically, as the severing of 'the kingdom' — the tenth sefirah — from the other 'shoots', the higher sefirot figured as a tree, a standard symbol for the origin of sin found in the Zohar and in Recanati (farmer1998:17617). Farmer directs the reader to Scholem and to Wirszubski's own discussion of the same image (farmer1998:17617).",
+ "historiography": "Wirszubski identifies this as the fourth conclusion of Pico's Cabalistic set and quotes it twice in his discussion of its background (wirszubski1989:1390, 1393).",
+ "connections": [
+  "11>35",
+  "11>36",
+  "1>4"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis.",
+   "work": "wirszubski1989",
+   "line": 1390,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "A further Wirszubski record found under the same search (wirszubski1989:9972) quotes a differently numbered 'Conclusio iv', on the correspondence of David's and Orpheus's hymns to the Cabala and to magic; that record concerns a different thesis of Pico's, its own Farmer id is not resolved in the packet, and it is not used in this entry."
+ ]
+}

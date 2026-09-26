@@ -1,0 +1,38 @@
+{
+ "thesis_id": "28.12",
+ "tier": "B",
+ "latin": "Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexerimus.",
+ "latin_source": "farmer1998:17737",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17796",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "It will be true that all things depend on fate, if by 'fate' we understand the supreme fate.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17737, checked against Farmer's sense at farmer1998:17796.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [],
+ "doctrine": "The thesis qualifies the claim that all things depend on fate by restricting the term to 'supreme fate', implying that other, lower modes of fate are to be distinguished, which Farmer presumes correspond to different sefirot (farmer1998:17818). Farmer cross-references this thesis to the network of related conclusions gathered under his note to thesis 24.2 of Proclus (farmer1998:17818).",
+ "historiography": "Wirszubski quotes the thesis as the twelfth conclusion of the Cabalistic set and states that its source can be either of two closely similar texts, without identifying them in the passage consulted (wirszubski1989:1783, 1786).",
+ "connections": [
+  "10>20",
+  "10>21",
+  "11>37",
+  "11>68",
+  "11>69",
+  "24.2"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe-",
+   "work": "wirszubski1989",
+   "line": 1783,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which two texts Wirszubski proposes as the possible source of this thesis is not established by the sources consulted; his sentence identifying them is cut off before naming either (wirszubski1989:1786)."
+ ]
+}

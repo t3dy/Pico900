@@ -1,0 +1,25 @@
+{
+  "thesis_id": "7>2",
+  "tier": "B",
+  "latin": "Si foelicitas sit in speculatiua perfectione, mathematicae non faciunt ad foelicitatem.",
+  "latin_source": "farmer1998:23616",
+  "translation": "If happiness consists in speculative perfection, the mathematical sciences do not conduce to happiness.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23616",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "This is the second of five conclusions on mathematics that Pico states as his own opinion (7>1-7>5), a set Farmer reads as directed against the fourteenth-century calculatores, who applied mathematical treatment to physical questions traditionally handled qualitatively in Aristotelian physics (farmer1998:23698). Farmer adds that the wider claim that Renaissance Platonism promoted the mathematical physics of the later scientific revolution finds little support in this group of theses (farmer1998:23698).",
+  "historiography": "Black quotes the Latin of this conclusion alongside conclusions 4 and 6 of the same series in a discussion of the numerical questions Pico promises to answer in the Conclusiones (black2006:10041). Cassirer's 1942 study cites the conclusion together with 7>1 and 7>3 as evidence for Pico's early view that a supersensible knowledge alone can disclose the obscure, supersensible nature of things (cassirer1942:1134).",
+  "connections": [
+    "7>1",
+    "7>3",
+    "7>4",
+    "7>5"
+  ],
+  "condemned_flag": false,
+  "not_established": [
+    "Farmer's cross-reference 'Cf. 5233' at farmer1998:23698 could not be resolved to a further thesis or note from the sources consulted."
+  ],
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

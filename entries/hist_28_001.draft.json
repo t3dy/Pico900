@@ -1,0 +1,50 @@
+{
+ "thesis_id": "28.1",
+ "tier": "B",
+ "latin": "Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationalium, ita Michael sacerdos superior sacrificat animas animalium rationalium.",
+ "latin_source": "farmer1998:17532",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17586",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Just as man, the lower priest, sacrifices to God the souls of irrational animals, so Michael, the higher priest, sacrifices the souls of rational animals.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17532, checked against Farmer's sense at farmer1998:17586.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "two texts proposed by Wirszubski (1989: 21-22) concerning the symbolism of the sefirot",
+   "locator": "farmer1998:17563",
+   "pico_relation": "identified by Wirszubski as possible sources for the sacrificial image, though Farmer notes they do not themselves address the mystical point Pico draws from it"
+  },
+  {
+   "text": "Abraham Abulafia, De secretis legis",
+   "locator": "kabbalah_paradigma:1459",
+   "pico_relation": "cited as supplying the Latin Abulafia passages relevant to this thesis"
+  }
+ ],
+ "doctrine": "The thesis sets a priestly analogy between man, the 'lower priest', who offers the souls of irrational animals to God, and the archangel Michael, the 'higher priest', who offers the souls of rational animals (farmer1998:17532). Farmer records that Pico himself points to a mystical reading of this conclusion in thesis 11>11, and that the two texts Wirszubski proposes as its Kabbalistic sources concern the symbolism of the sefirot without addressing that mystical point (farmer1998:17563).",
+ "historiography": "A study of Pico's Kabbalistic epistemology quotes the thesis under its full heading, 'Conclusio cabalistica secundum secretam doctrinam sapientium Hebraeorum cabalistarum', and connects it to Abraham Abulafia's De secretis legis and to Archangelus's Interpretationes in dogmata (kabbalah_paradigma:1459). Wirszubski transcribes the same Latin as the first conclusion of Pico's Cabalistic set (wirszubski1989:1246, 1249).",
+ "connections": [
+  "11>11"
+ ],
+ "quotations": [
+  {
+   "text": "Conclusio cabalistica secundum secretam doctrinam sapientium Hebraeorum cab- alistarum",
+   "work": "kabbalah_paradigma",
+   "line": 1459,
+   "verbatim": true
+  },
+  {
+   "text": "CONCLUSIO I Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationa-",
+   "work": "wirszubski1989",
+   "line": 1246,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which of the two Kabbalistic texts Wirszubski proposes underlies the specific image of Michael as 'sacerdos superior' is not established by the sources consulted."
+ ]
+}

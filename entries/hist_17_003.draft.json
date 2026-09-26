@@ -1,0 +1,39 @@
+{
+ "thesis_id": "17.3",
+ "tier": "B",
+ "latin": "Cum anima in se perfecte redit, tunc intellectus agens ab intelle/ctu possibili liberatur.",
+ "latin_source": "farmer1998:14553",
+ "translation": "When the soul returns perfectly into itself, then the agent intellect is freed from the possible intellect.",
+ "translation_note": "'redit in se' (returns into itself) reflects Neoplatonic language for the soul's self-reversion; the thesis holds that upon this perfect self-return the agent intellect is freed from the possible intellect, a claim Edelheit connects to a Parisian scholastic dispute over whether the agent intellect and the possible intellect are really distinct powers of the soul (edelheit2022:4134).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14553",
+ "pico_stance": "reports",
+ "attribution": "Reports Simplicius (farmer1998:14553).",
+ "sources": [
+  {
+   "text": "the Parisian scholastic dispute, via Bakker's edition, whether the agent intellect is more noble than the possible, and whether the two are really distinct powers of the soul",
+   "locator": "edelheit2022:4134",
+   "pico_relation": "Edelheit's footnote situates this thesis, and the next, 17.4, within this dispute"
+  }
+ ],
+ "doctrine": "The thesis holds that when the soul returns perfectly into itself, the agent intellect is freed from the possible intellect (farmer1998:14553). Edelheit reports that this thesis, together with 17.4, corresponds 'more or less' to two questions the commentator he calls Hennon raises in discussing Book Three of Aristotle's De anima 'regarding the agent and possible intellects' (edelheit2022:4115). His footnote, quoting both theses' Latin together, traces the background, via Bakker's edition of these Parisian discussions, to the questions whether the agent intellect is more noble than the possible, and whether the agent and possible intellects are two really distinct powers of the soul (edelheit2022:4134).",
+ "context": "",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar in the material opened to discuss this thesis (edelheit2022:4115; edelheit2022:4134).",
+ "connections": ["17.4"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Dubitatur secundo utrum intellectus agens sit nobilior possibili. Dubitatur tercio utrum intellectus agens et possibilis sint due potencie anime realiter distincte.",
+   "work": "edelheit2022",
+   "line": 4134,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's edition provides no separate explanatory note or cross-reference for this thesis, per the research packet's harvest.",
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

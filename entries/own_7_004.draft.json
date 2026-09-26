@@ -1,0 +1,23 @@
+{
+  "thesis_id": "7>4",
+  "tier": "B",
+  "latin": "Sicut subiecta mathematicorum, si absolute accipiantur, intellectum nihil perficiunt, ita si ut imagines accipiantur superiorum, immediate nos ad intelligibilium speculationem manu ducunt.",
+  "latin_source": "farmer1998:23623",
+  "translation": "Just as the subjects of the mathematicians, if taken absolutely, perfect the intellect in nothing, so, if taken as images of higher things, they lead us by the hand directly to the contemplation of intelligible things.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23623",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "The fourth of Pico's five own-opinion conclusions on mathematics turns the propaedeutic claim of 7>3 into an account of mathematical objects as images (imagines) of higher, intelligible realities rather than objects of knowledge in their own right (farmer1998:23620, farmer1998:23623). Farmer places the conclusion within the series directed against the calculatores' mathematical treatment of physical questions (farmer1998:23698).",
+  "historiography": "Mandosio quotes the Latin of this conclusion together with the sixth conclusion of the series, on the danger of excessive practice in Euclidean mathematics for a theologian, in a discussion of how Pico intended his mathematical conclusions to be understood (mandosio2012:411).",
+  "connections": [
+    "7>1",
+    "7>2",
+    "7>3",
+    "7>5",
+    "7>9"
+  ],
+  "condemned_flag": false,
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

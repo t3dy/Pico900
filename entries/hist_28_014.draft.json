@@ -1,0 +1,46 @@
+{
+ "thesis_id": "28.14",
+ "tier": "B",
+ "latin": "Qui nouerit proprietatem meridionalem in dextrali coordinatione, sciet cur omnis profectio Abraam semper fit uersus austrum.",
+ "latin_source": "farmer1998:17745",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17804",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Whoever knows the southern property within the right-hand ordering will know why every journey of Abraham is always made toward the south.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17745, checked against Farmer's sense at farmer1998:17804.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Genesis 12:9 (Abraham's journeys)",
+   "locator": "farmer1998:17827",
+   "pico_relation": "the biblical narrative allegorized in the thesis as a figure of the fourth sefirah"
+  },
+  {
+   "text": "Joseph Gikatilla, Portae Iustitiae, in Flavius Mithridates' Latin translation",
+   "locator": "farmer1998:17827",
+   "pico_relation": "proposed by Wirszubski, and disputed by Farmer, as the source of the phrase 'right-hand order'"
+  }
+ ],
+ "doctrine": "The thesis reads Abraham's journeys as symbols keyed to the 'right-hand order', which distinguishes the emanation of the true sefirot from the evil 'left-hand order' that mirrors it; 'southern property' and 'Abraham' are standard symbols of the fourth sefirah, called 'love' or 'piety' in Pico (farmer1998:17827). Farmer reports and disputes Wirszubski's further claim that the phrase 'right-hand order' derives from Mithridates' translation of Gikatilla's Portae Iustitiae, objecting that Pico's own phrase 'dextralis coordinatio' has no counterpart in that translation, which uses only 'dextra' (farmer1998:17827).",
+ "historiography": "Wirszubski quotes the Latin and proposes two possible source-texts without resolving between them in the passage consulted; Farmer's note reports, and contests, Wirszubski's further claim that the phrase 'right-hand order' derives from Mithridates' translation of Gikatilla (farmer1998:17827; wirszubski1989:1867).",
+ "connections": [
+  "11>37",
+  "1>8",
+  "3>1"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO XIV Qui nouerit proprietatem meridionalem in dextrali coordinatione",
+   "work": "wirszubski1989",
+   "line": 1867,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which of the two source-texts Wirszubski proposes he regards as more likely is not established by the sources consulted."
+ ]
+}

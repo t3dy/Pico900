@@ -1,0 +1,33 @@
+{
+ "thesis_id": "9>6",
+ "tier": "B",
+ "latin": "Quodcunque fiat opus mirabile, siue sit magicum, siue cabalisticum, siue cuiuscunque alterius generis, principalissime referendum est in deum gloriosum et benedictum, cuius gratia supercaelestes mirabilium uirtutum aquas super contemplatiuos homines bonae uoluntatis quotidie pluit liberaliter.",
+ "latin_source": "farmer1998:25194",
+ "translation": "Whatever marvelous work is done, whether magical, or cabalistic, or of any other kind, must be referred above all to the glorious and blessed God, by whose grace the supercelestial waters of marvelous powers rain down daily and generously upon contemplative men of good will.",
+ "translation_note": "'supercaelestes...aquas' evokes the 'waters above the firmament' of Genesis 1; Busi and Ebgi's commentary links the image to a parallel passage describing these waters as a divine balm descending like abundant rain (busi2014:14949).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25194",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25194).",
+ "sources": [],
+ "doctrine": "The thesis subordinates every marvelous operation, magical or cabalistic, to the grace of God, imaged as supercelestial waters raining daily on contemplative men of good will (farmer1998:25194). Farmer groups this thesis with 9>12 and 9>20 as together suggesting that Pico's imitative magic did not work mechanically but depended on the mediation of the purified soul (farmer1998:25253), and his cross-reference network ties it to the Christological magic theses 9>7-9>9 and to the reconciling principle of 1>6 (farmer1998:18596; farmer1998:25200; farmer1998:25204; farmer1998:25208).",
+ "context": null,
+ "reception": null,
+ "historiography": "Busi and Ebgi find a parallel to this thesis's image elsewhere in Pico, where the supercelestial waters are treated as a divine balm that descends, in their words, 'a guisa di abbondante pioggia sulla mente degli uomini contemplativi, mossi da retta volontà' ('like abundant rain on the mind of contemplative men, moved by right will'), citing Conclusiones, p. 496, n. 9>6, and the Commento, pp. 510-11 (busi2014:14949).",
+ "connections": ["1>6", "9>7", "9>8", "9>9", "9>12", "9>20"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "le acque sopracelesti sono considerate alla stregua di un balsamo divino, che scende a guisa di abbondante pioggia sulla mente degli uomini contemplativi, mossi da retta volontà",
+   "work": "busi2014",
+   "line": 14949,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Busi and Ebgi's fuller commentary on this parallel (their Commento, pp. 510-11, fonte 50) is not given beyond the summary citation consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,26 @@
+{
+  "thesis_id": "7>7",
+  "tier": "B",
+  "latin": "Sicut medicina mouet spiritus principaliter ut regunt corpus, ita musica mouet spiritus ut seruiunt animae.",
+  "latin_source": "farmer1998:23717",
+  "translation": "Just as medicine moves the spirits chiefly insofar as they govern the body, so music moves the spirits insofar as they serve the soul.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23717",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "This conclusion and its pair, 7>8, apply the physiology of the spiritus, the quasi-physical vehicle of Greek medicine mediating between body and soul, to explain how medicine and music each act on the person by moving the same intermediary substance toward different ends (farmer1998:23743). Farmer notes that belief in the curative power of music was a commonplace of traditional thought both inside and outside the West (farmer1998:23743).",
+  "historiography": "Busi and Ebgi print the Latin of this conclusion and its pair 7>8 together with an Italian translation, treating the two as a single statement on the reciprocal relation of medicine and music (busi2014:21347), and their edition's index locates the pair on the same page of the Conclusiones (busi2014:26622).",
+  "connections": [
+    "7>8",
+    "10>2",
+    "11>57",
+    "1>3",
+    "3>26",
+    "3>7",
+    "5>5",
+    "9>23"
+  ],
+  "condemned_flag": false,
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

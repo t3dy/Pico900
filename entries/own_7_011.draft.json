@@ -1,0 +1,38 @@
+{
+  "thesis_id": "7>11",
+  "tier": "B",
+  "latin": "Per numeros habetur uia ad omnis scibilis inuestigationem et intellectionem; ad cuius conclusionis uerificationem polliceor me ad infrascriptas xxiii. questiones per uiam numerorum responsurum.",
+  "latin_source": "farmer1998:23732",
+  "latin_note": "The copy-text breaks 'intellectionem' across a line ('in/tellectionem'); the break is repaired here rather than reproduced as a word division (farmer1998:23732).",
+  "translation": "Through numbers a way is had to the investigation and understanding of everything knowable; and to verify this conclusion I promise to answer the twenty-three questions written below by the way of numbers.",
+  "translation_note": "'via' is rendered 'way' rather than more freely as 'method', following Mandosio's argument that the literal rendering is preferable (mandosio2012:166).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23732",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "This is the last and most sweeping of the mathematical conclusions in the series, claiming for number a route to the investigation and understanding of everything knowable, and committing Pico to defend the claim through the twenty-three numerical questions that follow it in the text (farmer1998:23732). Farmer calls it one of three or four methods the text credits with leading to knowledge 'of everything knowable', a claim he notes de Lubac denies Pico makes anywhere (farmer1998:23794).",
+  "historiography": "Wirszubski quotes the conclusion as the last of a series before turning to the Sefer Yetzirah's teaching on the number of ways the world was created, adding no comment of his own beyond the quotation (wirszubski1989:9683). Mandosio quotes the same Latin and argues that via should be translated literally as 'way' rather than more idiomatically as Farmer's 'method' (mandosio2012:166).",
+  "connections": [
+    "7>9",
+    "7>10",
+    "3>52",
+    "3>54",
+    "3>55",
+    "3>70",
+    "5>15",
+    "11>2",
+    "11>72",
+    "7a>74"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "quoted, and I shall not add any except the eleventh thesis of Pico's Conclusiones de Mathematicis secundum opinionem propriam",
+      "work": "wirszubski1989",
+      "line": 9683,
+      "verbatim": true
+    }
+  ],
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

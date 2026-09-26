@@ -1,0 +1,27 @@
+{
+ "thesis_id": "11>71",
+ "tier": "B",
+ "latin": "Per id quod dicunt Cabalistae de aegypto, et attestata est experientia, habemus credere quod terra aegypti sit in analogia, et subordinatione proprietatis potentiae.",
+ "latin_source": "farmer1998:27937",
+ "latin_note": "The 1487 print reads 'subordinationis' (genitive) where the 1486 text has 'subordinatione' (ablative) (farmer1998:27948).",
+ "translation": "From what the Kabbalists say about Egypt, and as experience attests, we are bound to believe that the land of Egypt stands in analogy to, and in subordination under, the property of power.",
+ "translation_note": "'Proprietas potentiae' (property of power): Farmer's note identifies this with Gevurah, the fifth sefirah (farmer1998:28019).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch21, from Latin at farmer1998:27937",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27937).",
+ "doctrine": "The thesis holds that the land of Egypt stands, on Kabbalistic testimony and 'attested experience,' in analogy and subordination to a 'property of power.' Farmer's note identifies this power as Gevurah, the fifth sefirah, so that a text discussing Egypt can be read symbolically as referring to God's power and, as in the neighboring theses 10>10 and 28.40, to magic (farmer1998:28019). Farmer locates the thesis's apparent inspiration in commentaries on Exodus 7:1 and following, the chapters narrating the confrontation of Moses and Aaron with Pharaoh (farmer1998:28019).",
+ "historiography": "No scholarly discussion of this thesis was found among the sources consulted. The single scholar mention recorded in the research packet (wirszubski1989:9641) quotes a passage headed \"Conclusiones paradoxae numero LXXI secundum opinionem propriam\" and concerning Empedocles' strife and friendship in the soul; that passage does not quote or address this thesis's Latin text and the packet itself flags the match as unresolved, so it is not used here.",
+ "connections": [
+  "10>10",
+  "28.40"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "No scholarly commentary specifically addressing thesis 11>71 was found among the sources consulted.",
+  "Whether the wirszubski1989:9641 passage bears any relation to this thesis, beyond an automated phrase match on the word 'Conclusio lxxi', is not established; on its face it concerns a differently titled and numbered set of conclusions."
+ ],
+ "writer": "WRITER-full-batch21 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

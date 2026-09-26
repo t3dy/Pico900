@@ -1,0 +1,56 @@
+{
+ "thesis_id": "18.1",
+ "tier": "B",
+ "latin": "Anima rationalis est immortalis.",
+ "latin_source": "farmer1998:14716",
+ "translation": "The rational soul is immortal.",
+ "translation_note": "Straightforward vocabulary; no special rendering issues (farmer1998:14716).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14716",
+ "pico_stance": "reports",
+ "attribution": "Reports Alexander of Aphrodisias (farmer1998:14716).",
+ "sources": [
+  {
+   "text": "the later scholastic conflict on this topic at the University of Padua involving Nicoletto Vernia and Agostino Nifo",
+   "locator": "farmer1998:14753",
+   "pico_relation": "Farmer's note connects Pico's thesis to this later dispute, citing Mahoney (1969), and states both Vernia and Nifo were linked to Pico"
+  },
+  {
+   "text": "B. Nardi's study of Simplicius' commentary on the De anima",
+   "locator": "black2006:10082",
+   "pico_relation": "Black cites Nardi as bearing on the difficulty of interpreting Pico's attribution of this view to Alexander"
+  }
+ ],
+ "doctrine": "The thesis states baldly that the rational soul is immortal, attributed to Alexander of Aphrodisias (farmer1998:14716). Farmer's note calls this a reversal of the usual reading of Alexander's views as reported by Averroes, and cross-references thesis 7.4, on the Averroist question of individual survival after death (farmer1998:14753; farmer1998:12947). Farmer suggests Pico may have been drawing on the spurious second book of Alexander's commentary on De anima, including a section entitled De intellectu (farmer1998:14753).",
+ "context": "Farmer's note connects the thesis to a later scholastic dispute at the University of Padua between Nicoletto Vernia and Agostino Nifo, both of whom, Farmer states, were linked to Pico, citing Mahoney's 1969 study for analysis of that later conflict (farmer1998:14753).",
+ "reception": "",
+ "historiography": "Black treats this thesis as 'a pertinent example of the difficulty in interpreting the Conclusiones', citing it under the first of the Conclusiones secundum Alexandrum Aphrodiseum in the Schefer edition, page 62 (black2006:10082). He states that ascribing to Alexander the view that the rational soul is immortal is 'contrary to common understanding of Alexander's position', and that 'we have no information as to how Pico would have presented his case', referring to B. Nardi's study of Simplicius' commentary on De anima for further background (black2006:10082).",
+ "connections": ["7.4", "17.9"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "a pertinent example of the difficulty in interpreting the Conclusiones",
+   "work": "black2006",
+   "line": 10082,
+   "verbatim": true
+  },
+  {
+   "text": "contrary to common understanding of Alexander's position",
+   "work": "black2006",
+   "line": 10082,
+   "verbatim": true
+  },
+  {
+   "text": "we have no information as to how Pico would have presented his case",
+   "work": "black2006",
+   "line": 10082,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico did in fact draw on the spurious second book of Alexander's De anima commentary, as Farmer suggests only as a possibility, or on some other source, is not established with certainty by the material consulted.",
+  "Nardi's own argument about Alexander's position, beyond Black's citation of it, is not established by the sources consulted, since Nardi's text itself was not opened."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

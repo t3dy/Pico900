@@ -1,0 +1,44 @@
+{
+ "thesis_id": "13.4",
+ "tier": "B",
+ "latin": "Sensus tactus non est unus sensus.",
+ "latin_source": "farmer1998:14225",
+ "translation": "The sense of touch is not a single sense.",
+ "translation_note": "'Sensus tactus' is the sense of touch; the thesis denies that touch is a single, unified sense, addressing the scholastic question, discussed via Bakker's edition of a Parisian commentator on Aristotle's De anima, of whether the sense of touch is one or many (edelheit2022:4129).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14225",
+ "pico_stance": "reports",
+ "attribution": "Reports Mohammed of Toledo (farmer1998:14225).",
+ "sources": [
+  {
+   "text": "the Parisian scholastic question, in a commentary on Book Two of Aristotle's De anima, whether the sense of touch is one or many",
+   "locator": "edelheit2022:4129",
+   "pico_relation": "Edelheit identifies this question, via Bakker's edition, as the background to this thesis"
+  }
+ ],
+ "doctrine": "The thesis denies that touch is a single, unified sense (farmer1998:14225). Farmer's note identifies it as commenting on Aristotle's De anima 2.11, and cross-references it to 6.8, attributed to Giles of Rome, on whether the sense of taste perceives more than flavor, and to Pico's own thesis 2>59, on the qualities of the elements (farmer1998:14284). Edelheit reports that Pico's thesis answers the same question that the commentator he calls Hennon raises in discussing Book Two of Aristotle's De anima, whether there is one sense of touch or many, with Pico 'in thesis 4 according to Mohammed of Toledo' determining 'that there is not one sense of touch' (edelheit2022:4112). His footnote traces the underlying scholastic question, via Bakker's edition of these Parisian discussions, to the formulation 'Dubitatur primo utrum sensus tactus sit unus vel plures', and quotes Pico's thesis alongside it (edelheit2022:4129).",
+ "context": "",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar in the material opened to discuss this thesis; he situates it within the same run of late-medieval Parisian De anima commentary, via Bakker's edition of the commentator he calls Hennon, that he uses to source several neighboring theses (edelheit2022:4112; edelheit2022:4129).",
+ "connections": ["6.8", "2>59"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "determines that there is not one sense of touch",
+   "work": "edelheit2022",
+   "line": 4112,
+   "verbatim": true
+  },
+  {
+   "text": "Dubitatur primo utrum sensus tactus sit unus vel plures",
+   "work": "edelheit2022",
+   "line": 4129,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

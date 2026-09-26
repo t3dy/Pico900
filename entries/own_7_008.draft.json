@@ -1,0 +1,26 @@
+{
+  "thesis_id": "7>8",
+  "tier": "B",
+  "latin": "Medicina sanat animam per corpus, musica autem corpus per animam.",
+  "latin_source": "farmer1998:23721",
+  "translation": "Medicine heals the soul through the body, while music heals the body through the soul.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23721",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "Paired with 7>7, this conclusion states a converse relation: where 7>7 has medicine and music each moving the mediating spiritus toward body or soul, here each art is said to heal the opposite part indirectly, medicine reaching the soul by way of the body and music reaching the body by way of the soul (farmer1998:23717, farmer1998:23721). Farmer reads both conclusions against the ancient theory of the spiritus and a broadly attested belief in the curative power of music (farmer1998:23743).",
+  "historiography": "Busi and Ebgi's edition gives the Latin and an Italian translation of this conclusion together with 7>7 (busi2014:21350), and its index lists the pair on the same page of the Conclusiones (busi2014:26623).",
+  "connections": [
+    "7>7",
+    "10>2",
+    "11>57",
+    "1>3",
+    "3>26",
+    "3>7",
+    "5>5",
+    "9>23"
+  ],
+  "condemned_flag": false,
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

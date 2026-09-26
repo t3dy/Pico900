@@ -1,0 +1,44 @@
+{
+ "thesis_id": "18.8",
+ "tier": "B",
+ "latin": "Methaphysicus et dialecticus aeque de omnibus disputant, sed ille demonstratiue, hic probabiliter.",
+ "latin_source": "farmer1998:14833",
+ "translation": "The metaphysician and the dialectician dispute about all things equally, but the former demonstratively, the latter probably.",
+ "translation_note": "'ille' (the former) refers back to the metaphysician, 'hic' (the latter) to the dialectician; 'probabiliter' carries the technical Aristotelian sense of arguing from reputable premises (dialectic), as opposed to demonstrative syllogism (farmer1998:14833; edelheit2022:4336).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14833",
+ "pico_stance": "reports",
+ "attribution": "Reports Alexander of Aphrodisias (farmer1998:14833).",
+ "sources": [
+  {
+   "text": "Aristotle's Prior Analytics 1.1 and Topics 1.1, on demonstrative versus dialectical argument",
+   "locator": "farmer1998:14863",
+   "pico_relation": "Farmer's note gives these as the classical background to the thesis, alongside the wording of Pico's own thesis 3>9"
+  },
+  {
+   "text": "material on this question gathered for Pico by Elia del Medigo, cited in Kieszkowski (1964), pages 52-55",
+   "locator": "farmer1998:14863",
+   "pico_relation": "Farmer's note states this material bears on the question"
+  }
+ ],
+ "doctrine": "The thesis holds that the metaphysician and the dialectician dispute about all the same matters, but the metaphysician demonstratively and the dialectician only probably (farmer1998:14833). Farmer's note traces the background to Aristotle's Prior Analytics 1.1 and Topics 1.1, and to the wording of Pico's own thesis 3>9, and states that Elia del Medigo gathered material on this question for Pico, citing Kieszkowski's 1964 study, pages 52-55 (farmer1998:14863). Edelheit cites the thesis, quoting it in full, as pertinent to the terminology and practice of 'the sceptical Academy' regarding probable argument, in a discussion that also refers the reader to Rudolf Schuessler's account of the later scholastic debate on probable opinions (edelheit2022:4336).",
+ "context": "Edelheit's discussion situates the thesis within a broader treatment of scepticism and probabilism in Pico's vocabulary (edelheit2022:4336).",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar in the material opened to discuss this thesis; he quotes its Latin verbatim and treats it as evidence for Pico's engagement with the vocabulary of probable versus demonstrative argument (edelheit2022:4336; edelheit2022:4337).",
+ "connections": ["3>9"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It is worth citing, in this context, Pico's thesis 8 according to Alexander of Aphrodisias",
+   "work": "edelheit2022",
+   "line": 4336,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of the material gathered by Elia del Medigo for Pico on this question, beyond Farmer's citation of Kieszkowski (1964), is not established by the sources consulted.",
+  "Farmer's cross-reference to '1.1' in the harvested network appears to key to Pico's thesis 1.1 (Albert the Great), but Farmer's own note wording indicates it means Aristotle's Prior Analytics 1.1 instead; treated here as the latter (farmer1998:14863)."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

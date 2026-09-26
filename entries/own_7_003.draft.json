@@ -1,0 +1,22 @@
+{
+  "thesis_id": "7>3",
+  "tier": "B",
+  "latin": "Mathematicae scientiae non sunt propter se, sed ut uia ad alias scientias quaerendae.",
+  "latin_source": "farmer1998:23620",
+  "translation": "The mathematical sciences are not to be sought for their own sake, but as a way toward other sciences.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23620",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "This is the third of the five mathematical conclusions Pico states as his own opinion (7>1-7>5), a series Farmer connects to the fourteenth-century calculatores, who treated physical questions mathematically where earlier Aristotelian physics had reasoned qualitatively (farmer1998:23698). It states the instrumental, propaedeutic role of mathematics that conclusion 7>4 goes on to specify in terms of mathematical objects functioning as images of higher things (farmer1998:23623).",
+  "historiography": "Cassirer cites this conclusion together with 7>1 and 7>2 in his account of Pico's early conviction that sense knowledge cannot disclose the supersensible nature of things (cassirer1942:1133).",
+  "connections": [
+    "7>1",
+    "7>2",
+    "7>4",
+    "7>5"
+  ],
+  "condemned_flag": false,
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

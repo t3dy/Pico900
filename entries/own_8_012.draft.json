@@ -1,0 +1,22 @@
+{
+  "thesis_id": "8>12",
+  "tier": "B",
+  "latin": "Per Syrenam apud Zoroastrem nihil aliud intelligas quam partem animae rationalem.",
+  "latin_source": "farmer1998:24956",
+  "latin_note": "The 1486 print reads 'intrlligas' for 'intelligas' (farmer1998:24966).",
+  "translation": "By the Siren in Zoroaster, understand nothing other than the rational part of the soul.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:24956",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "The conclusion is the first of a pair (8>12-8>13) that Farmer connects to 8>10's reading of Zoroaster's dog as the irrational part of the soul, extending the same interpretive method to the Siren as the rational soul and, in 8>13, the boy as the intellect (farmer1998:25026). Busi and Ebgi place the Siren, so understood, within a wider Homeric allegory in which Circe stands for the power superior to sense-knowledge and Calypso for fantasy, with the Siren corresponding to reason (busi2014:9112).",
+  "historiography": "Busi and Ebgi quote the Latin of the conclusion with an Italian translation in their edition, glossing the Siren as reason within this Homeric allegorical scheme (busi2014:9112).",
+  "connections": [
+    "8>10",
+    "8>13",
+    "11>10"
+  ],
+  "condemned_flag": false,
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

@@ -1,0 +1,25 @@
+{
+  "thesis_id": "8>14",
+  "tier": "B",
+  "latin": "Per dictum illud Zoroastris, adhuc tres dies sacrificabitis et non ultra, apparuit mihi per arithmeticam superioris merchiaue illos computandi dies, esse in eo dicto expresse praedictum aduentum Christi.",
+  "latin_source": "farmer1998:25041",
+  "latin_note": "Wirszubski quotes the conclusion with the editio princeps reading 'computandos' where Farmer's text has 'computandi' (wirszubski1989:9858).",
+  "translation": "Through that saying of Zoroaster's, you shall sacrifice for three more days and no longer, it has appeared to me, by reckoning those days through the arithmetic of the higher chariot, that the coming of Christ is expressly foretold in that saying.",
+  "translation_note": "'merchiaue' is read as merkabah, the 'chariot', the term Farmer glosses as the speculative part of the Cabala concerned with divine matters (farmer1998:25053).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:25041",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "The conclusion applies a numerological method to a saying attributed to Zoroaster, finding in it, by way of the 'superior chariot' (merkabah), an arithmetical prediction of the coming of Christ (farmer1998:25041). Farmer reports a conjectural reading by Wirszubski: since 'days' can symbolize particular sefirot elsewhere in Pico's Cabalistic conclusions, counting from the first sefirah downward would put the third day at Binah, though Farmer's note breaks off before completing the identification (farmer1998:25053).",
+  "historiography": "Wirszubski quotes the Latin of the conclusion, noting that the editio princeps reads 'computandos' where Farmer's text has 'computandi dies' (wirszubski1989:9858).",
+  "connections": [
+    "28.22",
+    "28.6"
+  ],
+  "condemned_flag": false,
+  "not_established": [
+    "Farmer's conjectural completion of Wirszubski's sefirotic reading beyond 'the third day would be Binah' is not established by the source consulted; the note breaks off at that point (farmer1998:25053)."
+  ],
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

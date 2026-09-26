@@ -1,0 +1,46 @@
+{
+ "thesis_id": "28.7",
+ "tier": "B",
+ "latin": "Cum dicit Salomon in oratione sua in libro Regum: Exaudi o_coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum.",
+ "latin_source": "farmer1998:17641",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17691",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "When Solomon says, in his prayer in the Book of Kings, 'Hear, O heaven,' by 'heaven' we are to understand the green line that girds the universe.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17641, checked against Farmer's sense at farmer1998:17691.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "1 Kings 8 (Solomon's dedicatory prayer)",
+   "locator": "farmer1998:17673",
+   "pico_relation": "the biblical text the thesis allegorizes with the kabbalistic sense of the 'green line' for the third sefirah"
+  }
+ ],
+ "doctrine": "The thesis reads Solomon's prayer kabbalistically: the vocative 'heaven' is glossed as the 'green line' that girds the universe, a standard symbol for the third sefirah, 'intelligence' (farmer1998:17673). Farmer notes an occult link to thesis 22.12 of Porphyry, drawn by way of thesis 11>29, and reports that the two texts from Mithridates that Wirszubski cites for the phrase 'green line' do not themselves explain Pico's sense here (farmer1998:17673).",
+ "historiography": "Wirszubski quotes the thesis as the seventh conclusion of the Cabalistic set and glosses 'the green line that encircles the universe' as Intelligence, the third sefirah, in his discussion of Pico's sources (wirszubski1989:1501, 1504, 9218).",
+ "connections": [
+  "11>29",
+  "22.12"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39]",
+   "work": "wirszubski1989",
+   "line": 1501,
+   "verbatim": true
+  },
+  {
+   "text": "The \"green line that encircles the universe\" is Intelligence, the third",
+   "work": "wirszubski1989",
+   "line": 9218,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "A further Wirszubski record found under the same search (wirszubski1989:9814) quotes a differently numbered 'Conclusio vii', on interpreters of a Zoroastrian aphorism; that record concerns a different thesis, is unresolved to a Farmer id in the packet, and is not used in this entry."
+ ]
+}

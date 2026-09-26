@@ -1,0 +1,33 @@
+{
+ "thesis_id": "9>7",
+ "tier": "B",
+ "latin": "Non potuerunt opera Christi uel per uiam magiae uel per uiam cabalae fieri.",
+ "latin_source": "farmer1998:25200",
+ "translation": "The works of Christ could not have come about either by the way of magic or by the way of Cabala.",
+ "translation_note": "Translated literally; 'uia' ('way') is kept as 'way' rather than 'means' to preserve Pico's parallel with the twin theses 9>8-9, which speak of the 'ratione modi' (manner) proper to Christ's miracles (farmer1998:25204).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25200",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25200).",
+ "sources": [],
+ "doctrine": "Farmer directs readers to a joint discussion of theses 9>7 through 9>9, without paraphrasing the argument further in the note itself (farmer1998:25257). The three form a sequence: this thesis denies that Christ's works could have been performed by magic or Cabala, 9>8 holds that Christ's miracles prove his divinity by their manner of performance rather than the deeds themselves, and 9>9 holds that no science confirms Christ's divinity better than magic and Cabala (farmer1998:25200; farmer1998:25204; farmer1998:25208). Farmer's cross-reference network also ties the thesis to 1>6 and to 9>10 (farmer1998:18596; farmer1998:25268).",
+ "context": null,
+ "reception": "Black reports that, in the Apology, Pico cited this very conclusion against the charge of practicing an unlawful Cabala, writing that he had 'expresse reprobavi, ponens conclusionem specialem de directo contra istam, quae dicit quod miracula Christi non potuerunt fieri per viam Cabalae' ('expressly rejected it, positing a special conclusion directly against it, which says that the miracles of Christ could not come about by the way of Cabala'), and quoting the conclusion again from the Conclusiones as 'Non potuerunt opera Christi vel per viam Magiae, vel per viam Cabalae fieri' (black2006:6916).",
+ "historiography": "The unsigned study Knots and Spirals I: Pico della Mirandola reads 9>7-9 together as meaning that, while wonders may be wrought by magic and Cabala, 'Christ had no need of them, for he was divine and above such methods as would be plied by earthly means' (knots_spirals:508).",
+ "connections": ["1>6", "9>8", "9>9", "9>10"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "non solum ego non approbavi in conclusionibus meis aut sequutus sum, sed expresse reprobavi",
+   "work": "black2006",
+   "line": 6916,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The project's reconciliation of the thirteen theses censured by the 1487 commission records the identification of Q11 ('Miracle') as unconfirmed between 9>8 and this thesis, 9>7 (data/inventory/condemned_thirteen.json, q=11); this entry follows the identification already adopted for 9>8 (entries/own_9_008.draft.json) and does not mark 9>7 as condemned.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

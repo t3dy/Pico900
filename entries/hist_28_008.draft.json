@@ -1,0 +1,39 @@
+{
+ "thesis_id": "28.8",
+ "tier": "B",
+ "latin": "Animae a tertio lumine ad quartam diem, et inde ad quintam descendunt, inde exeuntes corporis noctem subintrant.",
+ "latin_source": "farmer1998:17645",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17695",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Souls descend from the third light to the fourth day, and from there to the fifth; departing from there, they enter the night of the body.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17645, checked against Farmer's sense at farmer1998:17695.",
+ "latin_note": "The 1486 print reads 'luminae' where the 1487 print, and Farmer's copy-text here, read 'lumine' (farmer1998:17655).",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Menahem Recanati's Pentateuch commentary, and Mithridates' translations of kabbalistic material (as identified by Wirszubski)",
+   "locator": "kabbalah_paradigma:1515",
+   "pico_relation": "proposed as the background for Pico's sefirotic reading of 'light' and 'day' in this thesis"
+  }
+ ],
+ "doctrine": "The thesis maps the soul's descent onto a sequence of 'light' and 'day', terms that in medieval Hebrew sources together symbolize the superior three and inferior seven sefirot; the 'third light' corresponds to Binah, 'intelligence', the sefirah Pico most often associates with the intellectual nature (farmer1998:17706). Farmer records Wirszubski's argument, built on Mithridates' translations, that Pico idiosyncratically identifies the 'fifth day' of this thesis with the tenth sefirah, and directs comparison to theses 28.6 and 28.41 on the emanation of souls (farmer1998:17706).",
+ "historiography": "A study of Pico's Kabbalistic epistemology quotes this conclusion in full and connects it to Wirszubski's discussion, citing Menahem Recanati's Pentateuch commentary and Archangelus's Interpretationes in dogmata as further points of reference (kabbalah_paradigma:1515). Wirszubski quotes the same Latin as the eighth conclusion of the Cabalistic set (wirszubski1989:1529, 1532).",
+ "connections": [
+  "11>48",
+  "28.6"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO VIII Animae a tertio lumine ad quartam diem, et inde ad quintam descendunt;",
+   "work": "wirszubski1989",
+   "line": 1529,
+   "verbatim": true
+  }
+ ],
+ "not_established": []
+}

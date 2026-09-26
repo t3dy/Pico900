@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.16",
+ "tier": "B",
+ "latin": "Omnes ante Moysen prophetarunt per ceruam unicornem.",
+ "latin_source": "farmer1998:17851",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17903",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "All who came before Moses prophesied through the hind-unicorn.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17851, checked against Farmer's sense at farmer1998:17903. 'Cerua unicornem' is kept as a single compound figure, per Farmer's note on its origin (farmer1998:17885).",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Flavius Mithridates' Latin translation of a kabbalistic source using the Hebrew term ayalah ('hind')",
+   "locator": "farmer1998:17885",
+   "pico_relation": "proposed by Farmer, following Wirszubski, as the origin of Pico's phrase 'cerua unicornis'"
+  }
+ ],
+ "doctrine": "The thesis holds that everyone before Moses prophesied 'through the hind-unicorn', a phrase Farmer traces to Flavius Mithridates' rendering of the Hebrew ayalah, 'hind', a symbol of the tenth sefirah, by the doublet 'cerva vel unicornis' (farmer1998:17885). On Farmer's reading, the thesis's point is that Moses' own prophecy drew on higher levels of the divine nature than the prophecy of his predecessors, a point Pico cross-references at thesis 28.45 (farmer1998:17885).",
+ "historiography": "Wirszubski calls the thesis 'a commonplace expressed in unusual language' and reads its point as setting Moses' directly inspired prophecy apart from what came before, in the passage consulted (wirszubski1989:1959).",
+ "connections": [
+  "28.45"
+ ],
+ "quotations": [
+  {
+   "text": "a commonplace expressed in unusual language",
+   "work": "wirszubski1989",
+   "line": 1959,
+   "verbatim": true
+  }
+ ],
+ "not_established": []
+}

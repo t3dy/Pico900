@@ -1,0 +1,39 @@
+{
+ "thesis_id": "17.4",
+ "tier": "B",
+ "latin": "Eadem pars rationalis, ut seipsam exiens, dicitur intellectus possibilis; ut vero est talis ut se ipsam ut possibilis est possit perficere, dicitur intellectus agens.",
+ "latin_source": "farmer1998:14557",
+ "translation": "The same rational part, insofar as it goes forth from itself, is called the possible intellect; but insofar as it is such that it can perfect itself as it is in potency, it is called the agent intellect.",
+ "translation_note": "The thesis treats the agent and possible intellect not as two distinct powers but as the same rational part of the soul considered under two aspects or functions, continuing the doctrine of the immediately preceding thesis, 17.3, on the soul's self-return (farmer1998:14553).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14557",
+ "pico_stance": "reports",
+ "attribution": "Reports Simplicius (farmer1998:14557).",
+ "sources": [
+  {
+   "text": "the Parisian scholastic dispute, via Bakker's edition, whether the agent intellect is more noble than the possible, and whether the two are really distinct powers of the soul",
+   "locator": "edelheit2022:4135",
+   "pico_relation": "Edelheit's footnote situates this thesis, together with the preceding 17.3, within this dispute"
+  }
+ ],
+ "doctrine": "The thesis holds that the same rational part of the soul is called the possible intellect insofar as it goes forth from itself, and the agent intellect insofar as it is able to perfect itself (farmer1998:14557). Edelheit reports that this thesis, together with the preceding 17.3, corresponds 'more or less' to two questions the commentator he calls Hennon raises discussing Book Three of Aristotle's De anima on the agent and possible intellects (edelheit2022:4115). His footnote, quoting the Latin of both theses together, traces the background to the Parisian question, via Bakker's edition, whether the agent intellect is more noble than the possible, and whether the two are really distinct powers of the soul (edelheit2022:4135).",
+ "context": "",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar in the material opened to discuss this thesis (edelheit2022:4115; edelheit2022:4135).",
+ "connections": ["17.3"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Dubitatur secundo utrum intellectus agens sit nobilior possibili. Dubitatur tercio utrum intellectus agens et possibilis sint due potencie anime realiter distincte.",
+   "work": "edelheit2022",
+   "line": 4135,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's edition provides no separate explanatory note or cross-reference for this thesis, per the research packet's harvest.",
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

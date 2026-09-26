@@ -1,0 +1,43 @@
+{
+ "thesis_id": "26.2",
+ "tier": "B",
+ "latin": "Fatum non est necessitas primae potentiae seminalis, sed est intellectualiter participata habitudo animalium rationum, indeclinans a superioribus, ineuitabilis ab inferioribus.",
+ "latin_source": "farmer1998:17129",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17129",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "Fate is not the necessity of the primary seminal potency, but is a condition of rational living things, shared in intellectually, that does not swerve away from what is above and cannot be evaded by what is below.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17129. Busi and Ebgi's Italian gloss agrees in sense with this reading (busi2014:19145).",
+ "pico_stance": "reports",
+ "attribution": "the Chaldean theologians",
+ "sources": [
+  {
+   "text": "a fragment of the Chaldean Oracles in George Gemistus Pletho's recension",
+   "locator": "busi2014:19145",
+   "pico_relation": "Busi and Ebgi compare the thesis's language on fate and seminal potency to that Oracles fragment"
+  }
+ ],
+ "doctrine": "The thesis distinguishes fate as the necessity of a first seminal potency from fate as a condition of rational living things, received intellectually and binding without exception on what stands below it (farmer1998:17129). Farmer's note directs comparison to thesis 24.2, which sets out different legal orders governing different classes of soul, as the parallel for this thesis's hierarchy of necessity (farmer1998:17214).",
+ "historiography": "Busi and Ebgi print the Latin and note its resemblance to a fragment of the Chaldean Oracles in George Gemistus Pletho's recension, reading the thesis against Pico's own discussion of fate in the Commento (busi2014:19145).",
+ "connections": [
+  "11>35",
+  "2.17",
+  "24.2",
+  "2>41",
+  "5>5"
+ ],
+ "quotations": [
+  {
+   "text": "Fatum non est necessitas primae potentiae seminalis, sed est intellectualiter participata habitudo animalium rationum",
+   "work": "busi2014",
+   "line": 19145,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's 'animalium rationum' picks out human souls specifically, or a wider class of rational creatures, is not established by the sources consulted."
+ ]
+}

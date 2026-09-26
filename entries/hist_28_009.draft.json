@@ -1,0 +1,39 @@
+{
+ "thesis_id": "28.9",
+ "tier": "B",
+ "latin": "Per sex dies geneseos habemus intelligere sex extremitates aedificii procedentes a Bresith, sicut procedunt cedri a Libano.",
+ "latin_source": "farmer1998:17649",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17699",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "By the six days of Genesis we are to understand the six extremities of the edifice proceeding from Bereshit, just as cedars proceed from Lebanon.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17649, checked against Farmer's sense at farmer1998:17699.",
+ "pico_stance": "reports",
+ "attribution": "the Hebrew Cabalists",
+ "sources": [
+  {
+   "text": "Menahem Recanati's commentary on Genesis",
+   "locator": "busi2014:15767",
+   "pico_relation": "cited by Busi and Ebgi as the point of reference for the cedars-of-Lebanon gloss on the sefirot"
+  }
+ ],
+ "doctrine": "The thesis reads the six days of creation as the six lower sefirot, called the 'edifice', proceeding from 'Bereshit', a term Pico elsewhere treats as a symbol for the second sefirah, Hokhmah, itself read in his second, Christianizing set of Cabalistic conclusions as a figure of Christ, the Wisdom of the Father (farmer1998:17712). Farmer glosses the 'cedars of Lebanon' as the sefirot from Hesed to Yesod, and cross-references Pico's own numbering of the sefirot at thesis 11>48 (farmer1998:17760, 17766).",
+ "historiography": "Busi and Ebgi print the Latin and gloss the cedars of Lebanon as the six sefirot from Hesed to Yesod, citing Recanati's commentary on Genesis (busi2014:15767). Wirszubski quotes the same Latin as the ninth conclusion of the Cabalistic set and compares it to Recanati (wirszubski1989:1675, 1678).",
+ "connections": [
+  "11>48"
+ ],
+ "quotations": [
+  {
+   "text": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce-",
+   "work": "wirszubski1989",
+   "line": 1675,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "A further Wirszubski record found under the same search (wirszubski1989:10009) quotes a differently numbered 'Conclusio ix', on the Curetes and the powers of Dionysius; that record concerns a different thesis, is unresolved to a Farmer id in the packet, and is not used in this entry."
+ ]
+}

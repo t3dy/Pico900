@@ -1,0 +1,41 @@
+{
+ "thesis_id": "26.5",
+ "tier": "B",
+ "latin": "Coordinatio intelligibilis non est in intellectuali coordinatione ut dixit Amosis aegyptius, sed est super omnem intellectualem hierarchiam in abysso primae unitatis, et sub caligine primarum tenebrarum, inparticipaliter abscondita.",
+ "latin_source": "farmer1998:17143",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch10, from Latin at farmer1998:17143",
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "writer": "WRITER-full-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation": "The intelligible ordering is not within the intellectual ordering, as Amosis the Egyptian said, but is hidden, without any participation, above every intellectual hierarchy, in the abyss of the first unity and beneath the darkness of the first shadows.",
+ "translation_note": "Rendered directly from the Latin at farmer1998:17143. 'Inparticipaliter abscondita' is taken as 'hidden, without any participation', qualifying the whole preceding clause rather than only the darkness.",
+ "pico_stance": "reports",
+ "attribution": "the Chaldean theologians",
+ "sources": [
+  {
+   "text": "a figure Farmer identifies, tentatively, with Ahmose II (Amasis II), named as an ideal priest-king at Timaeus 21e",
+   "locator": "farmer1998:17222",
+   "pico_relation": "proposed by Farmer as the referent of 'Amosis aegyptius' in the thesis"
+  }
+ ],
+ "doctrine": "The thesis denies that the 'intelligible ordering' invoked under the name of Amosis the Egyptian belongs to the order of intellectual things, placing it instead above every intellectual hierarchy, hidden in the abyss of the first unity and beneath the darkness of the first shadows (farmer1998:17143). Farmer identifies 'Amosis' as probably Ahmose II, called Amasis II, the ideal priest-king named in the Timaeus, and directs comparison to thesis 11>35 (farmer1998:17222).",
+ "historiography": "Busi and Ebgi print the Latin under the heading 'Nox, Tenebrae, Caliga, Ensoph', reading the thesis's imagery of darkness together with the kabbalistic Ein Sof (busi2014:24756).",
+ "connections": [
+  "11>35",
+  "2>41",
+  "5>5"
+ ],
+ "quotations": [
+  {
+   "text": "Nox, Tenebrae, Caliga, Ensoph",
+   "work": "busi2014",
+   "line": 24756,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's identification of 'Amosis' rests on a direct reading of the Timaeus or on an intermediary source is not established by the sources consulted; farmer1998:17222 gives only Farmer's own identification."
+ ]
+}

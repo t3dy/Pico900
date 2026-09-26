@@ -1,0 +1,38 @@
+{
+  "thesis_id": "7>10",
+  "tier": "B",
+  "latin": "Ioachin in prophetiis suis alia uia non processit quam per numeros formales.",
+  "latin_source": "farmer1998:23728",
+  "translation": "Joachim, in his prophecies, proceeded by no way other than through formal numbers.",
+  "translation_note": "'Ioachin' is Joachim of Fiore (farmer1998:23792).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch16, from Latin at farmer1998:23728",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "doctrine": "The conclusion assigns Joachim of Fiore's prophetic method entirely to formal number, the same category of number that 7>9 credits with a route to natural prophecy (farmer1998:23724, farmer1998:23728). Farmer identifies 'Ioachin' as Joachim of Fiore and cross-refers to his own earlier discussion of the abbot (farmer1998:23792).",
+  "historiography": "John Dee cites this conclusion in his Mathematicall Praeface as authority for his own numerology, in a passage naming 'the noble Earle of Mirandula' as witness that Joachim proceeded by formal numbers alone (quoted in mandosio2012:229). Mandosio treats the passage as a direct early modern use of the conclusion (mandosio2012:229).",
+  "connections": [
+    "7>9",
+    "7>11",
+    "3>52",
+    "3>54",
+    "3>55",
+    "3>70",
+    "5>15",
+    "11>2",
+    "11>72",
+    "7a>74"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Part of this profound and divine Science, had Joachim the Prophesier atteyned unto: by Numbers Formall, Naturall, and Rationall, forseyng, concludyng, and forshewyng great particular events, long before their comming ... And the noble Earle of Mirandula, (besides that,) a sufficient witnesse: that Joachim, in his prophesies, proceded by no other way, then by Numbers Formall.",
+      "work": "mandosio2012",
+      "line": 229,
+      "verbatim": true,
+      "note": "John Dee's words, quoted within Mandosio's article; cited here at Mandosio's locator."
+    }
+  ],
+  "writer": "WRITER-full-batch16 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}
