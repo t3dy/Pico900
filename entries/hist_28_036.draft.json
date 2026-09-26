@@ -1,0 +1,38 @@
+{
+ "thesis_id": "28.36",
+ "tier": "B",
+ "latin": "Peccatum Soddomae_fuit per truncationem ultimae plantae.",
+ "latin_source": "farmer1998:18198",
+ "latin_note": "Farmer's transcription shows an underscore, 'Soddomae_fuit'; read as two words, 'Soddomae fuit' (farmer1998:18198). Wirszubski's quotation of the same conclusio reads 'Peccatum Soddomae fuit per truncationem ultimae plantae' without the underscore (wirszubski1989:2690).",
+ "translation": "The sin of Sodom occurred through the truncation of the last plant.",
+ "translation_note": "'truncationem ultimae plantae' is left literal ('the truncation of the last plant'); the packet consulted does not gloss which sefirah 'the last plant' names, so no symbolic equivalence is supplied here (see not_established).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18198",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18198).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, interpreting Genesis 18:20-21",
+   "locator": "wirszubski1989:2690",
+   "pico_relation": "Wirszubski cross-refers the thesis to Recanati fol. 51ra-b on this passage"
+  }
+ ],
+ "doctrine": "Farmer's note ties the thesis to Genesis 18:20 and following, the narrative of Sodom's condemnation, and directs the reader to thesis 28.4 for 'the symbolism of the \"severing of the shoots\"' (paraphrase, farmer1998:18273). Thesis 28.4 itself states, in Pico's Latin, that 'the sin of Adam was a truncation of the kingdom from the other plants' (farmer1998:17544), so Farmer's cross-reference sets Sodom's sin and Adam's sin as parallel instances of a 'truncation' involving 'plants' in Pico's Kabbalistic vocabulary, without his note here specifying what the plants or the truncation represent (farmer1998:18273).",
+ "historiography": "Wirszubski quotes the thesis as his 'Conclusio XXXVI' and cross-refers it to Recanati, fol. 51ra-b, as the passage interpreting Genesis 18:20-21 (wirszubski1989:2690).",
+ "connections": ["24.6", "28.4"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "CONCLUSIO XXXVI Peccatum Soddomae fuit per truncationem ultimae plantae.",
+   "work": "wirszubski1989",
+   "line": 2690,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "What 'the last plant' (ultima planta) symbolizes in Pico's sefirotic vocabulary is not stated in the material consulted; not established by the sources consulted.",
+  "The content of Recanati's fol. 51ra-b, beyond Wirszubski's cross-reference to it, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
