@@ -1,0 +1,33 @@
+{
+ "thesis_id": "9>16",
+ "tier": "B",
+ "latin": "Illa natura quae est orizon temporis aeternalis_est proxima mago, sed infra eum.",
+ "latin_source": "farmer1998:25354",
+ "translation": "The nature forming the horizon of eternal time lies near the magus, though below him.",
+ "translation_note": "'orizon' (horizon) is kept as a technical term marking a threshold nature between eternity and time; the same term recurs in the paired theses 9>17-18, which assign the nature at the corresponding horizon to magic and to Cabala respectively (farmer1998:25358; farmer1998:25362).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25354",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25354).",
+ "sources": [],
+ "doctrine": "This is the first of a linked triad of 'horizon' theses: this thesis places a nature at the 'horizon of eternal time' just below the magus, 9>17 assigns to the neighboring 'horizon of time and eternity' nature the discipline of magic, sought 'by the due methods known to the wise' (farmer1998:25358), and 9>18 places a third, superior 'horizon of temporal eternity' nature above the magus, proper to it being Cabala (farmer1998:25362).",
+ "context": null,
+ "reception": null,
+ "historiography": "Mandosio prints all three horizon theses together from Pico's 1998 edition, page 500 (Concl. mag. 16-18), and states that Wirszubski 'wrongly interpreted these conclusions,' citing Wirszubski 1989, p. 194, without giving the nature of the error in the material consulted (mandosio2012:559).",
+ "connections": ["9>17", "9>18"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Wirszubski wrongly interpreted these conclusions",
+   "work": "mandosio2012",
+   "line": 559,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific nature of the error Mandosio attributes to Wirszubski's reading of these theses is not given in the material consulted beyond the page citation (mandosio2012:559).",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

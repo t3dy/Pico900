@@ -1,0 +1,44 @@
+{
+ "thesis_id": "20.4",
+ "tier": "B",
+ "latin": "Anima quae peccauit uel in terreno uel in aereo corpore post mortem bruti uitam uiuit.",
+ "latin_source": "farmer1998:15094",
+ "translation": "The soul that has sinned, whether in an earthly or an aerial body, lives the life of a brute after death.",
+ "translation_note": "The thesis states a doctrine of metempsychosis into non-rational animal life as punishment for sin, attributed to Plotinus; 'aereo corpore' reflects the Neoplatonic notion of an intermediate, aerial vehicle of the soul distinct from its earthly body (farmer1998:15094).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:15094",
+ "pico_stance": "reports",
+ "attribution": "Reports Plotinus (farmer1998:15094).",
+ "sources": [
+  {
+   "text": "Pico's own thesis 5>51, which Farmer glosses as opposing Plotinus, arguing from a saying of Plato in the Phaedrus",
+   "locator": "farmer1998:23083",
+   "pico_relation": "Farmer's note explicitly cross-references this thesis as 'opposing Plotinus'"
+  },
+  {
+   "text": "the belief in transcorporation of souls among all the wise men of the Indians, Persians, Egyptians and Chaldeans, in Pico's own thesis 21.8",
+   "locator": "farmer1998:15366",
+   "pico_relation": "Farmer's note groups this thesis with 21.8 under the same topic of transmigration"
+  }
+ ],
+ "doctrine": "The thesis holds that a soul which has sinned, whether in an earthly or an aerial body, lives the life of a brute animal after death (farmer1998:15094). Farmer's note cross-references three other theses on the same topic of the transmigration of souls: 21.8, attributed to 'Adeland the Arab,' which states that all the wise men of the Indians, Persians, Egyptians, and Chaldeans believed in the transcorporation of souls (farmer1998:15366); Pico's own thesis 5>51, which Farmer glosses as opposing Plotinus, arguing from a saying of Plato in the Phaedrus that, rightly understood, it shows Plotinus's position positing the transmigration of souls into brutes to be mistaken (farmer1998:23083); and 8>4, on transanimation into plant life, which Farmer connects to a similar view in Empedocles (farmer1998:24832). Farmer's note also cites Plotinus's Enneads 1.1.11 and following as the classical source (farmer1998:15126).",
+ "context": "Howlett reports Ogren's argument that, on this point of Kabbalistic-Platonic doctrine, Pico 'leans more on Plotinus, Ficino on Kabbalism,' citing this thesis's Latin (howlett2021:9186).",
+ "reception": "",
+ "historiography": "Howlett's footnotes are the only scholarship on this thesis in the material opened; besides reporting Ogren's argument, she notes that Copenhaver 'notes that the transmigration of souls was...', a sentence cut off in the material consulted (howlett2021:9186).",
+ "connections": ["21.8", "5>51", "8>4"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico leans more on Plotinus, Ficino on Kabbalism",
+   "work": "howlett2021",
+   "line": 9186,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Copenhaver's note on the transmigration of souls, referenced by Howlett but cut off in the material consulted, is not established by the sources consulted.",
+  "The specific argument in Ogren (2009a) beyond Howlett's summary is not established, since Ogren's own text was not opened."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
