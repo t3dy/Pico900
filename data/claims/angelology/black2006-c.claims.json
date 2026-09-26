@@ -1,8 +1,12 @@
 {
  "packet": "black2006-c",
- "researcher": "",
- "created": "",
- "scope": null,
+ "researcher": "R-BLACK-C",
+ "created": "2026-09-25",
+ "scope": {
+  "work": "black2006",
+  "line_start": 9300,
+  "line_end": 12394
+ },
  "claims": [
   {
    "claimant": "Crofton Black",
@@ -14,7 +18,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "The tradition of commentary on Aristotle's two factors of the intellect reached no consensus on whether the active intellect is God, a transcendent entity between God and man, or an aspect of the human soul.",
+   "text": "The tradition of commentary on the two factors of the intellect reached no consensus on whether the active intellect is God, a transcendent entity between God and man, or an aspect of the human soul.",
    "quotes": [
     {
      "text": "no consensus was reached on whether the potential intellect was mortal or immortal, or on whether the active intellect was God himself, or a transcendent entity between God and man, or an aspect of the individual human soul",
@@ -50,7 +54,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Every Peripatetic commentator Black discusses held a model of intellectual ascent that culminated in the potential intellect becoming united with the active intellect.",
+   "text": "The commentators Black discusses each held a model of intellectual ascent that culminated in the potential intellect becoming united with the active intellect.",
    "quotes": [
     {
      "text": "each of these commentators, in some form or other, subscribed to a model of progression or ascent in intellectual ability and capacity which culminated in the potential intellect becoming somehow united or conjoined with the active intellect",
@@ -84,8 +88,15 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Faced with the Averroist controversy, a philosopher who wanted felicity to depend on intellectual attainment could either adopt a Peripatetic model of conjunction, disagreeing with Aquinas, or take the Platonist route, as Ficino did.",
+   "text": "Black says a philosopher who wanted felicity to depend on intellectual attainment could adopt an Aristotelian model of conjunction, disagreeing with Thomas Aquinas and his followers, or take the route of Platonism, chosen most prominently by Marsilio Ficino.",
    "quotes": [
+    {
+     "text": "In so doing he would speciﬁcally be disagreeing with Thomas Aquinas and his followers.",
+     "work": "black2006",
+     "line": 9916,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "On the other hand there was the route of Platonism. This was the option chosen by (to give the most prominent example) Marsilio Ficino.",
      "work": "black2006",
@@ -135,6 +146,13 @@
      "line": 9953,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Ficino, preface to Plotini Epitomae seu argumenta, commentaria et annotationes",
+     "work": "black2006",
+     "line": 9985,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -173,9 +191,16 @@
    "text": "Ficino's preface, as Black translates it, says almost all the world is held by Alexandrian and Averroist Peripatetics who ruin religion, and that few interpret Aristotle with due piety except Pico, whom Ficino calls his co-Platonist.",
    "quotes": [
     {
-     "text": "with the exception of the sublime Pico, my co-Platonist—interpret with that piety with which previously Theophrastus, Themistius, Porphyry, Simplicius and Avicenna, and recently Pletho, interpreted him",
+     "text": "For almost the whole of the world is occupied by Peripatetics, who are mostly divided into two sects, the Alexandrian and the Averroist. The former think that our intellect is mortal and the latter think it is unique. Both of them utterly ruin all religion, especially since they seem to deny divine providence concerning men. And in both cases [they seem] to have abandoned their Aristotle, whose mind few today—with the exception of the sublime Pico, my co-Platonist—interpret with that piety with which previously Theophrastus, Themistius, Porphyry, Simplicius and Avicenna, and recently Pletho, interpreted him.",
      "work": "black2006",
-     "line": 9962,
+     "line": 9957,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Ficino, preface to Plotini Epitomae seu argumenta, commentaria et annotationes",
+     "work": "black2006",
+     "line": 9985,
      "page": null,
      "page_basis": null
     }
@@ -221,12 +246,19 @@
     "ref": "proem to seventh exposition"
    },
    "theses": [],
-   "text": "Black argues that Pico's own stance on intellect was more nuanced than Ficino's remark suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.",
+   "text": "Black argues that Pico's own stance on intellect was more nuanced than the preceding remark by Ficino suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.",
    "quotes": [
     {
      "text": "Pico’s own position regarding these matters, however, was more nuanced than this remark might suggest, and represented (in the Heptaplus, at least) a concerted effort to maintain the idea of intellec- tual ascent without committing himself exclusively to any one camp",
      "work": "black2006",
      "line": 9967,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Ficino, preface to Plotini Epitomae seu argumenta, commentaria et annotationes",
+     "work": "black2006",
+     "line": 9985,
      "page": null,
      "page_basis": null
     }
@@ -412,7 +444,7 @@
     "ref": "seeds of all kinds"
    },
    "theses": [],
-   "text": "Black's translation of the Oratio has Pico say that if a man cultivates intellectual seeds he will be an angel and a son of God, and that if he withdraws into the centre of his unity he will stand before all things.",
+   "text": "Black's translation of the Oration has Pico say that if a man cultivates intellectual seeds he will be an angel and a son of God, and that if he withdraws into the centre of his unity he will stand before all things.",
    "quotes": [
     {
      "text": "If he cultivates intellectual ones, he will be an angel and a son of God. If, not content with the lot of any creature, he withdraws into the centre of his unity, having become one spirit with God, he will stand before all things",
@@ -453,6 +485,13 @@
    "text": "Black says Pico takes the Cherubim as the exemplar for human life, and reads their Dionysian threefold process (cleansed, illuminated, perfected) as a method of intellectual ascent.",
    "quotes": [
     {
+     "text": "Pico urges his audience to approach the Cherubim ﬁrst, since they will provide the path to the others. They are the “exem- plar” on which human life should be formed.",
+     "work": "black2006",
+     "line": 10110,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "The example they provide is the method of intellectual ascent, which Pico interprets allegorically from a phrase of Pseudo-Dionysius: “they are cleansed, then illuminated, ﬁnally perfected”.",
      "work": "black2006",
      "line": 10113,
@@ -489,7 +528,7 @@
     "ref": "ascent analogies"
    },
    "theses": [],
-   "text": "Black reads the stages of the Oratio's ascent (moral science and dialectic, then natural philosophy, then divine things) as a hierarchical progression from morality through knowledge to religion, repeated in several analogies.",
+   "text": "Black reads the stages of the Oration's ascent (moral science and dialectic, then natural philosophy, then divine things) as a hierarchical progression from morality through knowledge to religion, repeated in several analogies.",
    "quotes": [
     {
      "text": "Illumi- nation then corresponds to knowledge of natural philosophy, and perfection to knowledge of “divine things”.",
@@ -616,6 +655,13 @@
    "theses": [],
    "text": "Black says Pico reads Benivieni's last stanzas as a six-stage ascent from sense to conjunction with the first mind, and that Pico disagrees with the many Aristotelians who hold the universal concept to be the highest knowledge attainable while joined to the body.",
    "quotes": [
+    {
+     "text": "Benivieni’s canzone relates the progress of the heart in search of love.",
+     "work": "black2006",
+     "line": 10168,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "This ascent is demarcated in six stages.",
      "work": "black2006",
@@ -839,6 +885,13 @@
      "line": 10378,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Jewish philosophers, as well as Al-Farabi in the work he wrote On Principles, explicitly called this substance “Spirit of the Lord”.",
+     "work": "black2006",
+     "line": 10381,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -942,6 +995,13 @@
    "text": "Black states that he has not found the direct source of Pico's attribution to Maimonides, Ibn Bajja and others of the view that the greater intellect acts only with the body, though the idea seems to have been commonplace.",
    "quotes": [
     {
+     "text": "This is the idea which Pico attributes to “Moses Aegyptius [Maimonides] et Abubacher Arabs [Ibn Bajja] et quidam alii”.",
+     "work": "black2006",
+     "line": 10451,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "I have not found the direct source for Pico’s citation of these authors. The idea itself, however, seems to have been fairly commonplace.",
      "work": "black2006",
      "line": 10452,
@@ -988,6 +1048,20 @@
    "theses": [],
    "text": "Black says the correlation of the transcendent active intellect with the Holy Spirit is in Al-Farabi but not in direct Latin transmission; a composite text attributed to Averroes carried it, and it is at least possible that Pico used it.",
    "quotes": [
+    {
+     "text": "formed part of the composite text, attributed to Averroes, which circulated under the title De perfectione naturalis intellectus",
+     "work": "black2006",
+     "line": 10410,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The correlation of transcendent active intellect and Holy Spirit is found in Al-Farabi’s Kitab al-siyasa al- madaniyya",
+     "work": "black2006",
+     "line": 10404,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "These texts did not exist in Latin in direct transmission.",
      "work": "black2006",
@@ -1486,7 +1560,7 @@
     "ref": "peace, Empedocles and Job"
    },
    "theses": [],
-   "text": "Black holds that in the Oratio Pico envisages a union in which all souls come together in one mind above every mind, and that this first mind is not, according to most philosophers, God.",
+   "text": "Black holds that in the Oration Pico envisages a union in which all souls come together in one mind above every mind, and that this first mind is not, according to most philosophers, God.",
    "quotes": [
     {
      "text": "Pico envisages a level of intellectual attainment in which “all souls come together in one mind which is above every mind”. As we have seen, this mind is the “ﬁrst of all intellectual things” but it is not, according to most philosophers, God.",
@@ -1575,7 +1649,7 @@
     "ref": "seeds of all kinds"
    },
    "theses": [],
-   "text": "Black maps the Oratio's seeds onto the ascent: cultivating rational seeds gives a heavenly animal, cultivating intellectual seeds gives an angel and a son of God, and withdrawing into the centre of unity gives one spirit with God, which Pico later calls supernatural felicity.",
+   "text": "Black maps the Oration's seeds onto the ascent: cultivating rational seeds gives a heavenly animal, cultivating intellectual seeds gives an angel and a son of God, and withdrawing into the centre of unity gives one spirit with God, which Pico later calls supernatural felicity.",
    "quotes": [
     {
      "text": "If he cultivates the higher intellectual seeds— the capacity to obtain knowledge of intelligibles directly—“he will be an angel and a son of God”. Beyond even this, however, is a state in which “he withdraws into the centre of his unity” and becomes “one spirit with God”. This is the state which Pico later calls supernatural felicitas.",
@@ -1783,7 +1857,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black argues that the theme of intellectual ascent connects the Commento, the Conclusiones, the Oratio and Apologia, and the Heptaplus, in three modes: an allegorical reading of a poem, a justification of treating differing philosophies, and a biblical commentary.",
+   "text": "Black argues that the theme of intellectual ascent connects the Commento, the Conclusiones, the Oration and Apologia, and the Heptaplus, in three modes: an allegorical reading of a poem, a justification of treating differing philosophies, and a biblical commentary.",
    "quotes": [
     {
      "text": "The theme of intellectual ascent therefore provides us with a perspective in which to view all of Pico’s philosophical works up to 1489. It is the thread which connects the Commento, the Conclu- siones, the Oratio and Apologia and the Heptaplus.",
@@ -1821,6 +1895,13 @@
    "theses": [],
    "text": "Black reports that Gersonides's commentary on the Song of Songs was translated for Pico by Mithridates and survives in a manuscript with copious marks and marginal comments in Pico's hand.",
    "quotes": [
+    {
+     "text": "The epistemological basis of felicitas, and the ascent of the human intellect to its attainment, is the subject of Gersonides’s commentary on the Song of Songs.",
+     "work": "black2006",
+     "line": 10859,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "This was among the texts translated for Pico by Mithridates; the translation is extant in Ms. Vat. Lat. 4273.",
      "work": "black2006",
@@ -1873,6 +1954,13 @@
    "text": "Black reports that Gersonides holds Scripture to contain, beyond moral commands, a concealed speculative knowledge that the masses do not know, and that the Song of Songs is a guide only for the intellectual elite.",
    "quotes": [
     {
+     "text": "This distinction between the masses and the elite, linked to the twin problems of moral turpitude and speculative confusion, is fun- damental to Gersonides’s account.",
+     "work": "black2006",
+     "line": 10954,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "Scripture also contains a concealed ‘speculative’ knowledge which is not known to the masses.",
      "work": "black2006",
      "line": 10958,
@@ -1916,7 +2004,7 @@
     "ref": "Commento particulare, stanza IV"
    },
    "theses": [],
-   "text": "Black says Gersonides interprets the kiss of the Song of Songs as the death of the kiss, signifying conjunction with God, and that Pico too used the death of the kiss to signify the attainment of felicity, in the Commento.",
+   "text": "Black says Gersonides interprets the kiss as the death of the kiss, signifying conjunction with God, and that Pico too used the death of the kiss to signify the attainment of felicity, in the Commento.",
    "quotes": [
     {
      "text": "the “kiss” referred to is the “death of the kiss”, from which Moses, Aaron and Mary died, and it signiﬁes “conjunction with God himself”.",
@@ -1926,7 +2014,7 @@
      "page_basis": null
     },
     {
-     "text": "Pico, too, used the image of the “death of the kiss” to signify the attainment of felicitas. It appears as such in the Commento",
+     "text": "Pico, too, used the image of the “death of the kiss” to signify the attainment of felicitas. It appears as such in the Commento, where, just like in Gersonides’s commentary, it is interpreted as",
      "work": "black2006",
      "line": 11076,
      "page": null,
@@ -2025,6 +2113,13 @@
    "theses": [],
    "text": "Black argues that Pico goes a step beyond Gersonides: for Pico the Genesis narrative does not merely instruct the reader to achieve knowledge but contains that knowledge hidden within it, namely the emanation of things from God and the grade, number and order of the parts of the worlds.",
    "quotes": [
+    {
+     "text": "Gersonides, like Maimonides before him and Alemanno after him, argues that the ascent to felicitas is composed of a number of stages",
+     "work": "black2006",
+     "line": 11132,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "Pico takes this idea a step further. The Genesis narrative, for him, does not merely instruct the reader to achieve knowledge; it actually contains this knowledge—described as “the emanation of all things from God, the grade, number and order of the parts of the worlds”—hidden within it, like buried treasure.",
      "work": "black2006",
@@ -2144,6 +2239,13 @@
      "line": 11173,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "not only through their own knowledge, but also through the inspiration of the Holy Spirit “which not only knew all these things, but made them”.",
+     "work": "black2006",
+     "line": 11171,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2212,6 +2314,13 @@
    "theses": [],
    "text": "Black holds that Moses applied the principle of mutual containment to his words, so that a single term such as terra can do the work of many, and that this allowed the knowledge of man, the three worlds and their connections to be encoded in a short text.",
    "quotes": [
+    {
+     "text": "Moses, he says, was the foremost of all the ancient fathers.",
+     "work": "black2006",
+     "line": 11180,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "His special ability, as author of the Pentateuch, was to apply the principle of mutual containment to his words.",
      "work": "black2006",
@@ -2536,6 +2645,13 @@
    "text": "Black reports Wirszubski's view that the author of the Liber combinationum was a disciple or latter-day follower of Abulafia, unless he was Abulafia himself.",
    "quotes": [
     {
+     "text": "Liber combinationum, Vat. Ebr. 190, ff. 60v–62v",
+     "work": "black2006",
+     "line": 11365,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "Wirszubski notes that the author of this book was “a disciple or latter-day follower of Abraham Abulaﬁa (unless he was Abulaﬁa himself)”.",
      "work": "black2006",
      "line": 11366,
@@ -2655,6 +2771,13 @@
    "text": "Black summarises the Recanati passage: bereshit is an utterance containing all the rest of the utterances, and it points to the second highest sefirah, Hokhmah, not to the topmost, Keter, though some think a part of the written letter points to Keter.",
    "quotes": [
     {
+     "text": "The passage in which Recanati comments upon the word bereshit deserves to be quoted",
+     "work": "black2006",
+     "line": 11355,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "Bereshit is an utterance which contains all the rest of the utter- ances [A, K, P].",
      "work": "black2006",
      "line": 11456,
@@ -2698,6 +2821,13 @@
    "theses": [],
    "text": "Black notes that once the three letters that signify the three highest sefirot are discounted, the remainder of bereshit spells shabbat, sabbath, in the Recanati passage.",
    "quotes": [
+    {
+     "text": "The passage in which Recanati comments upon the word bereshit deserves to be quoted",
+     "work": "black2006",
+     "line": 11355,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "Once the three letters in bereshit that signify the three highest seﬁrot are discounted, the remainder of the letters spell (shabbat, “sabbath”) [J].",
      "work": "black2006",
@@ -2771,6 +2901,13 @@
    "text": "Black states that the manuscript in which Pico read Recanati is no longer extant, so the exact form in which he read the text cannot be known.",
    "quotes": [
     {
+     "text": "Only the following sections of the Recanati passage are relevant to the Heptaplus",
+     "work": "black2006",
+     "line": 11511,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "It is unfortunate that the manuscript in which Pico read this text is no longer extant. We cannot, therefore, know precisely the form in which he read it.",
      "work": "black2006",
      "line": 11523,
@@ -2812,8 +2949,15 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black suggests that if Mithridates translated ma'amar as verbum throughout the corpus, as he does in the Bahir, Pico would have read the Recanati sentence as a word containing other words, losing the sefirotic and numerical sense.",
+   "text": "Black suggests that if Mithridates translated ma'amar as verbum throughout the corpus, as he does in the Bahir, Pico would have read that sentence as a word containing other words, losing the sefirotic and numerical sense.",
    "quotes": [
+    {
+     "text": "The word ma\"amar also occurs in the Bahir, which was translated for Pico by Mithridates",
+     "work": "black2006",
+     "line": 11545,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "If Mithridates was consistent throughout the corpus, then Pico would merely have read this sentence as “this word bereshit is a word which contains all the rest of the words”.",
      "work": "black2006",
@@ -3072,6 +3216,13 @@
      "text": "it is appropriate that as a seventh and (so to speak) sabbatical narration, we should now brieﬂy touch on the felicitas of created beings, and of their return to God",
      "work": "black2006",
      "line": 11643,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "unlocking what Moses, in the present Scripture, very openly hid concerning these matters, so that it may happen that this very explicit prophecy of the advent of Christ, the advancement of the Church and the conversion of the Gentiles is plainly read.",
+     "work": "black2006",
+     "line": 11645,
      "page": null,
      "page_basis": null
     }
@@ -3389,6 +3540,13 @@
      "line": 11759,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "prophecies of the coming of Christ, the advancement of the Church and the conversion of the Gentiles.",
+     "work": "black2006",
+     "line": 11763,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3478,6 +3636,13 @@
      "line": 11806,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "it remains that we should listen to Moses, discussing as a true prophet all the things to come.",
+     "work": "black2006",
+     "line": 11809,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3512,6 +3677,13 @@
      "text": "the literal sabbath is a microcosm of the allegorical sabbath. This microcosmic approach is also evident in the subdivisions of the work",
      "work": "black2006",
      "line": 11816,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "in the seventh and ﬁnal chapter of each exposition, he will discuss Christ,",
+     "work": "black2006",
+     "line": 11819,
      "page": null,
      "page_basis": null
     }
@@ -3672,7 +3844,7 @@
      "page_basis": null
     },
     {
-     "text": "The great sabbath is the great jubilee.",
+     "text": "From the work entitled Expositio decem numerationum: “The great sabbath is the great jubilee.",
      "work": "black2006",
      "line": 11896,
      "page": null,
@@ -3762,6 +3934,13 @@
    "text": "Black reports that the Babylonian Talmud says fifty gates of understanding were created in the world, forty-nine of them revealed to Moses, because God made him a little lower than the angels.",
    "quotes": [
     {
+     "text": "The doctrine of the gates of understanding appears as early as the Babylonian Talmud (third to ﬁfth century).",
+     "work": "black2006",
+     "line": 11959,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "Here, it is stated that ﬁfty gates of understanding were created in the world, of which forty-nine were revealed to Moses, “because God made him just a little lower than the angels”.",
      "work": "black2006",
      "line": 11960,
@@ -3811,6 +3990,13 @@
      "text": "In effect, Nahmanides claims that there are forty-nine different categories of created thing",
      "work": "black2006",
      "line": 12028,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "and that Moses acquired knowledge of each of them.",
+     "work": "black2006",
+     "line": 12032,
      "page": null,
      "page_basis": null
     }
@@ -3998,7 +4184,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Black argues that the non-literal way of knowing is how the contents of Moses's prophetic vision, the forty-nine gates, were incorporated into the Pentateuch, and that this is the key to a crucial statement in the second proem about Moses on Sinai.",
+   "text": "Black argues that the non-literal way of knowing is how the contents of Moses's prophetic vision, the forty-nine gates, were incorporated into the Pentateuch, and that this is the key to a crucial statement in the second proem about Moses's experience.",
    "quotes": [
     {
      "text": "This second “way of knowing” is the non-literal way, by which the contents of Moses’s prophetic vision—the forty-nine gates, in other words—were incorporated into the Pentateuch. This provides the key to understanding a crucial statement in the second proem",
@@ -4195,6 +4381,13 @@
    "text": "Black says the commentators on Aristotle argued that if the human intellect rises to comprehend immaterial separate substances it becomes equivalent to the angelic intellect and, in some accounts, is gifted with prophecy.",
    "quotes": [
     {
+     "text": "Commentators on Aristotle in late antiquity and the Middle Ages, while generally afﬁrming the dependence of the rational soul on sense data and therefore on matter",
+     "work": "black2006",
+     "line": 12219,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "grappled with ways in which the human intellect could rise to a comprehension of immaterial, ‘sep- arate’ substances—and thus to felicitas. If it succeeds, they argued, it becomes equivalent to the angelic intellect, and (in some accounts) is gifted with prophecy.",
      "work": "black2006",
      "line": 12221,
@@ -4233,9 +4426,16 @@
    "text": "Black holds that in the Jewish tradition Moses was considered to have ascended from knowledge of manifold material substances to the highest level of angels, separate intelligences and pure intelligibles, and that Pico's project was to find how this knowledge is encoded in Moses's text.",
    "quotes": [
     {
-     "text": "Moses, author of the Pentateuch, was con- sidered to have attained the highest intellectual level possible for mankind; hence the efﬁcacy of his books. He had, in other words, ascended from the level of knowledge of manifold material sub- stances (which make up the lowest strata of creation) to the highest level of angels, separate intelligences and pure intelligibles. Pico’s project was to ﬁnd and interpret the ways in which this knowledge was encoded in Moses’s text.",
+     "text": "In the Jewish tradition—as exempliﬁed not only by such kab- balists as Gikatilla and Nahmanides but also by the philosophical writings of Maimonides—Moses, author of the Pentateuch, was con- sidered to have attained the highest intellectual level possible for mankind",
      "work": "black2006",
-     "line": 12228,
+     "line": 12226,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "He had, in other words, ascended from the level of knowledge of manifold material sub- stances (which make up the lowest strata of creation) to the highest level of angels, separate intelligences and pure intelligibles. Pico’s project was to ﬁnd and interpret the ways in which this knowledge was encoded in Moses’s text.",
+     "work": "black2006",
+     "line": 12230,
      "page": null,
      "page_basis": null
     }
@@ -4271,6 +4471,13 @@
    "theses": [],
    "text": "Black argues that Moses's text expresses the same concepts with very few forms, that is words, and so represents the simplicity of forms by which angels, and by extension prophets, understand things normally beyond human reach.",
    "quotes": [
+    {
+     "text": "Pico’s project was to ﬁnd and interpret the ways in which this knowledge was encoded in Moses’s text.",
+     "work": "black2006",
+     "line": 12233,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "whereas average human understanding requires a large number of forms with which to understand concepts ‘discursively’",
      "work": "black2006",
@@ -5049,8 +5256,29 @@
    "id": "black2006-c:118"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "9330-9700 and 9720-9740: the medieval history of the intellect (Alexander, Themistius, Al-Farabi, Avicenna, Averroes, Thomas's De unitate intellectus, Tempier 1277, Vienne 1311, Lateran V 1513) is read but mined only for the agent-intellect crux, Thomas on separate substances, and the Padua context; the rest is background exposition with no bearing on Pico's angelology.",
+  "9807-9898: Maimonides's parable of the king's palace, read, not extracted as claims (it bears on the ascent by disciplines, already covered by the Alemanno and Oration claims).",
+  "10855-11060: Gersonides's account of impediments, masses versus elite, and the four elements of speculation, read; only the points Black ties to Pico (kiss, Scripture as guide, six shared themes) are extracted.",
+  "Footnote apparatus throughout (Latin originals of Pico, Averroes, Maimonides): used to check translations, not extracted.",
+  "Appendix to ch. 7 (12162-12193): the Hebrew text of the Recanati passage, unreadable OCR letters only; the English is at 11381-11446 and is covered.",
+  "Bibliography (12396-13160) and Index (13164-13650): read only to identify works Black cites; no claims."
+ ],
+ "proposed_topics": [
+  {
+   "id": "knowledge-felicity",
+   "label": "Knowledge, felicity and the ascent: natural and supernatural felicity, union with the first mind, the sabbath of celestial love, intelligentia and the rational soul"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "elijah-delmedigo",
+   "name": "Elijah Delmedigo"
+  },
+  {
+   "id": "johanan-alemanno",
+   "name": "Yohanan Alemanno"
+  }
+ ],
+ "notes": "Line map: ch. 6 is 9319-11220 (medieval felicity 9347-9973; ascent in Pico's works 9974-10855; Gersonides 10856-11128; Genesis and knowledge 11130-11219). Ch. 7 is 11223-12160: Bereshit 11231-11597, Structural Role of the Sabbath 11599-11823 (the audit's 11600-11760 is right for the core but the argument runs to 11821), Sabbath, Jubilee and the Gates of Understanding 11825-12158. Conclusion 12197-12392. Black's Kabbalah-in-the-Heptaplus argument is in ch. 7 (11508-11562, 11585-11591) and depends on ch. 4 s5 and ch. 5 s1.2 (B's range). CRUXES: (1) Black's claim that the sevenfold form is dictated by the sabbath and not by the material (11694-11709) is hedged ('appears') but is the boldest structural claim; expect it to be contradicted or qualified by other scholars. (2) The forty-nine gates as the model of the seven-by-seven structure (12155-12158, 12329-12338) is Black's own proposal, hedged ('I have proposed'); Nahmanides as a source is left open by Black (12071). (3) Black on the higher intellect: Pico's sympathies 'seem' to lie with the view that it is a mind nearer to man, not God (10430). ATTRIBUTION: where Black translates Pico (Oration, Commento, Heptaplus proems) the claim is scholar_report, because the packet gate refuses primary_text from a scholarly work; the Pico edition (Garin) is not in the registry as a work here. Primary-text warrants were therefore omitted. OCR: '## Page N' markers and running heads sit inside sentences, so quotations that span a page break were split into two quotes; footnote numerals run into text at 9312-9315 etc. Hebrew letters are missing in the OCR (blank space), so entity names such as Hokhmah appear only in transliteration. BEARS_ON: parties elijah-delmedigo and johanan-alemanno are proposed, not yet in parties.json."
 }

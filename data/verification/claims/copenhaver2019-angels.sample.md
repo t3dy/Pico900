@@ -4,79 +4,29 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## copenhaver2019-angels:001 (Brian P. Copenhaver, assertive)
 
-**Restatement:** Dionysius the Areopagite is presented as a Platonist in the manner of Proclus.
+**Restatement:** Dionysius is presented as a Platonist in the manner of Proclus.
 
 > Dionysius—a Platonist in the way of Proclus and likewise drunk on metaphysics—warned the faithful against “imagining that nothing exists supersubstantially, beyond particular entities.”
 > (copenhaver2019:14848)
 
 
-## copenhaver2019-angels:003 (Brian P. Copenhaver, assertive)
+## copenhaver2019-angels:018 (Brian P. Copenhaver, assertive)
 
-**Restatement:** The only glorious change mentioned in this part of the Oration is Enoch becoming Metatron, the highest angel, stationed behind the throne.
+**Restatement:** In a Kabbalist text known to Pico, nine hierarchies of angels bear names different from the Dionysian ones and appear in a different order; Copenhaver cites thesis T1K2, which lists Cherubim before Seraphim.
 
-> The only glorious change mentioned in this part of the speech is Enoch becoming Metatron, the highest of all angels, stationed behind the throne of the Almighty.
-> (copenhaver2019:15010)
+> The Areopagite’s nine ranks became canonical for Christians, though Jewish tradition often preferred ten groups. In a Kabbalist text known to Pico, the names were those that he used in the Conclusions, while changing the order:
+> (copenhaver2019:15256)
 
-
-## copenhaver2019-angels:013 (Brian P. Copenhaver, assertive)
-
-**Restatement:** In the Zohar, Asaph gathers good angels to guard the righteous; Heman leads in the morning, Jeduthun at twilight, and Asaph at midnight, and the angels prepare for Metatron's arrival.
-
-> The Zohar reveals more about Asaph: he protects people in times of danger by ‘gathering’ (’asaf) good angels to guard those who are righteous.
-> (copenhaver2019:15165)
-
-> their leaders are Heman in the morning, Jeduthun at twilight, and at midnight Asaph is the “one official appointed over them.” They prepare for Metatron’s arrival
-> (copenhaver2019:15168)
+> There are nine hierarchies of angels, whose names are Cherubim, Seraphim, Hasmalim, Haiot, Aralim, Tarsisim, Ophanim, Thephsarim, and Isim.
+> (copenhaver2019:15260)
 
 
-## copenhaver2019-angels:014 (Brian P. Copenhaver, assertive)
+## copenhaver2019-angels:023 (Brian P. Copenhaver, assertive)
 
-**Restatement:** Copenhaver says Pico knew a Kabbalist comment on the Psalm 'gods and sons of the Most High' that deflated human arrogance by belittling man's nearness to the angels while recalling his kinship with beasts.
+**Restatement:** Pico had abundant help from Ficino, since much of the ancient theology in Plato's dialogues had already been explicated by Proclus, whose insights Ficino used in his own commentaries.
 
-> Pico also knew a Kabbalist comment on this Psalm that deflated human arrogance by belittling man’s nearness to the angels in one breath and recalling his kinship with beasts in the next.
-> (copenhaver2019:15157)
-
-
-## copenhaver2019-angels:016 (Brian P. Copenhaver, assertive)
-
-**Restatement:** Pico arranged the highest three angelic orders in a hierarchy by agency (active, contemplative, unitive), psychology (judgment, contemplation, love) and substance (mass, light, fire), with humans living like Thrones, Cherubs or Seraphs accordingly.
-
-> Pico arranged this highest order of three in a hierarchy according to agency (active, contemplative, unitive), psychology (judgment, contemplation, love) and substance (mass, light, fire).
-> (copenhaver2019:15236)
-
-> Humans “bent on a life full of action who accept concern for lower things” could live a holy life like Thrones, who are angels of firm judgment. But others “detached from active matters” would rise higher to contemplation and “gleam with Cherubic light.” And those who reached the summit of love would burn with Seraphic fire and be consumed.
-> (copenhaver2019:15238)
-
-
-## copenhaver2019-angels:017 (Brian P. Copenhaver, assertive)
-
-**Restatement:** The Areopagite did not connect Thrones with judging but with detachment from the earthly, and Gregory the Great described them as channels of God's judgments; Pico, thinking of a Psalm, read them as judging.
-
-> Pico was thinking about a Psalm again: “There sat thrones for judgment.” But the Areopagite connected them with nothing so practical as judging.
-> (copenhaver2019:15246)
-
-> He took the Greek name to signify “their complete detachment from any subjugation to the earthly and their otherworldly inclination toward the higher.” Gregory the Great, however, described them as channeling the Creator’s activity to creatures
-> (copenhaver2019:15250)
-
-
-## copenhaver2019-angels:024 (Brian P. Copenhaver, hedged)
-
-**Restatement:** Copenhaver holds that when Ficino first met Pico, around ten years before the Plotinus edition, Pico was a boy, immature, arrogant and careless even with friends like Marsilio, so that sour notes from earlier times must have tempered the festive music of 1492.
-
-> Pico was a charismatic prince. But when Ficino first met him—around ten years before the Plotinus edition was ready—he was also a boy: immature, arrogant, and careless, even with friends like Marsilio. Sour notes from earlier times must have tempered the festive music in 1492.
-> (copenhaver2019:15375)
-
-- warrant [inference]: An inference from Ficino's letter to Lorenzo about Pico's arrival and the later ten-year gap.
-
-## copenhaver2019-angels:026 (Brian P. Copenhaver, assertive)
-
-**Restatement:** Recognizing the wise Pallas as the Cherub shows which angels Pico wanted humans to emulate: the message of the Oration to this point is to form our lives on the Cherubic life, though those who mind the flesh cannot reach even Cherubs and must consult the ancient Fathers.
-
-> Recognizing the wise Pallas as the Cherub, however, we now know which angels Pico wanted humans to emulate. Up to this point, the message of the Oration is “to form our lives on the model of the Cherubic life.”
-> (copenhaver2019:15404)
-
-> Meanwhile, for humans who “mind the flesh and smell like dirt,” even Cherubs are beyond reach, so pilgrims must look for guidance to the “ancient Fathers.”
-> (copenhaver2019:15413)
+> To solve such puzzles or set them, the prince had abundant help from his friend Ficino. When the older philosopher translated Plato’s dialogues and commented on them, much of the ancient theology that he found in them had already been explicated by Proclus, whose insights Ficino used in his own commentaries.
+> (copenhaver2019:15347)
 
 
 ## copenhaver2019-angels:028 (Brian P. Copenhaver, assertive)
@@ -87,20 +37,31 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (copenhaver2019:15459)
 
 
+## copenhaver2019-angels:031 (Brian P. Copenhaver, assertive)
+
+**Restatement:** In Jacob's dream, angels went up the ladder and down again to examine the person whose face they had seen carved into the Throne; Copenhaver reads Pico's Jacob passage against this rabbinical motif.
+
+> After Paul and the Areopagite—both of them Christians—Pico consulted Jacob, a Jew, and began with two images: carving the Throne and climbing the ladder, both from stories of Jacob’s vision of angels.
+> (copenhaver2019:15519)
+
+> Angels went up the ladder and down again to examine the person whose face they had seen carved into the Throne, as in Ezekiel’s vision
+> (copenhaver2019:15530)
+
+
 ## copenhaver2019-angels:033 (Brian P. Copenhaver, assertive)
 
-**Restatement:** Angels are everywhere in the Oration, and Pico's first question to Job, about God's myriads of angels, is answered by the thesis that God wanted peace among angelic warriors, the Southern Water and the Northern Fire with their Commanders.
+**Restatement:** Angels are everywhere in the Oration, and Pico's first question to Job, what God wanted from his myriads of angels, is answered by the thesis that God wanted peace among angelic warriors, the Southern Water and the Northern Fire with their Commanders.
 
 > None of this, neither theodicy nor mystical conjunction, is on the surface of Pico’s first question to Job: What did God want from his myriads of angels? Angels are everywhere in the Oration, however, and the orator answered immediately: What God wanted was peace, and Job gave the proof when he said that the Lord “makes peace on high.” According to Pico’s thesis T1K24, Job was thinking of “the Southern Water, the Northern Fire and their Commanders.”
 > (copenhaver2019:15684)
 
 
-## copenhaver2019-angels:037 (Brian P. Copenhaver, assertive)
+## copenhaver2019-angels:034 (Brian P. Copenhaver, assertive)
 
-**Restatement:** Copenhaver reads the peace that God makes on high between his angelic armies, who descend so that humans ascending might be made into angels, as an angel magic, a theurgy emulating Enoch's transformation into Metatron and a joyous surrender of human personality.
+**Restatement:** The peace on high ends warfare between Michael, commanding the Southern Waters of S4, and Gabriel, commander of the Northern Fire of S5, who reconcile at S6; Gersonides saw their harmony as a fixed order of stars.
 
-> Not philosophy, then, but the theology that transcends it offers the “holiest peace”—the perfect Pythagorean friendship that will erase individual differences, “the peace that God makes on high” between his angelic armies, who then descend to earth so that humans, “ascending to heaven, might be made into angels.” This angel magic—a theurgy to emulate Enoch’s transformation into Metatron—is a joyous surrender of human personality when all traces of the individual dissolve in God’s supernal peace.
-> (copenhaver2019:15787)
+> God created peace by making order (bohu) out of disorder (tohu) on the first day—a sacred calm that descends through the Sefirot to end the warfare between Michael, commanding the Southern Waters (mayim) of S4, and Gabriel, commander of the Northern Fire (’esh) of S5. The two archangels reconcile on the heavenly heights of S6 (shamayim as ’esh + mayim), but Gersonides saw their harmony as a fixed order of stars.
+> (copenhaver2019:15698)
 
 
 ## copenhaver2019-angels:039 (Brian P. Copenhaver, assertive)
@@ -111,11 +72,66 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (copenhaver2019:15947)
 
 
+## copenhaver2019-angels:041 (Brian P. Copenhaver, assertive)
+
+**Restatement:** Copenhaver characterizes the mysticism of the Oration as Dionysian, Kabbalist and Neoplatonic, and says its project fixed the role of the self in Pico's Cherubic program: a person's happiest end is to be consumed in the Godhead.
+
+> But Pico mentioned the incarnation only once in the Oration—in a list of doctrines supported by Kabbalah. This fundamental dogma has no other role in his speech, whose mysticism is Dionysian, Kabbalist and Neoplatonic.
+> (copenhaver2019:16381)
+
+> It also fixed the role of the self in his Cherubic program: a person’s happiest end was to be consumed in the Godhead.
+> (copenhaver2019:16386)
+
+
+## copenhaver2019-angels:042 (Brian P. Copenhaver, assertive)
+
+**Restatement:** Pico's description of the climax of initiation, transported beyond ourselves like burning Seraphs, is offered as the point at which the soul is no longer itself but becomes the One who made it.
+
+> Recapitulating Plato’s myth, Pico explained that initiation proceeds by forgetting the body. The climax comes when we look upon “primeval beauty” as its “winged lovers.” Then, “driven wild by desire . . . and transported beyond ourselves like burning Seraphs, . . . we shall be ourselves no longer, but shall be Him, the very One who made us.”
+> (copenhaver2019:16231)
+
+
 ## copenhaver2019-angels:048 (Brian P. Copenhaver, assertive)
 
-**Restatement:** Michael, the archangel who vanquished his fallen brethren and will preside at the Last Judgment, is the patriarch's partner at S4 and a messenger of death whose death is benign; the priesthood of theology is what he will bestow on us after service in philosophy.
+**Restatement:** Michael, the archangel who vanquished his fallen brethren and will preside on the final Day of Judgment, is the patriarch's partner at S4 and a messenger of death whose death is benign; the priesthood of theology is what he will bestow on us after service in philosophy.
 
 > The patriarch’s partner at S4 is the archangel who vanquished his fallen brethren before the dawn of human time and who will preside on the final Day of Judgment, sorting the saved from the damned as he once fought Satan for the soul of Moses and battled Samael, the Angel of Death. Michael, this dreadful spirit and high priest of heaven, who “will bestow on us, after we have served our time in philosophy, the priesthood of theology,” is himself a Messenger of Death, but the death is benign and blessed.
 > (copenhaver2019:16638)
 
+
+## copenhaver2019-angels:050 (Brian P. Copenhaver, hedged)
+
+**Restatement:** Copenhaver asks whether Pico wanted to advertise natural magic while keeping quiet about angel-magic, and says his theses on magic suggest so; he notes that a plea to Saint Michael was a short step from a liturgy for Metatron, a secret but arguably lawful magic invoking an angel.
+
+> Although “rites of evil demons” were unnatural and forbidden to Christians, the faithful were taught to venerate angels and address them openly in prayer. From a plea in church to Saint Michael it was a short step to a liturgy for Metatron, a secret but arguably lawful magic invoking a good personal agent with superhuman powers—an angel. Did Pico want to advertise natural magic while keeping quiet about angel-magic? His theses on magic (M) in the ninth part of T2 suggest so.
+> (copenhaver2019:17357)
+
+
+## copenhaver2019-angels:052 (Brian P. Copenhaver, assertive)
+
+**Restatement:** Pico did not invoke angels when he defended magic in the Oration, nor did he turn, as Ficino did, to the occult qualities of scholastic metaphysics; Kabbalah was on hand to solve the problem of two types of magic.
+
+> The magical phase of the Cherubic life starts in Nature but rises higher if a magus can speak the language of Kabbalah to angels: angelic and sefirotic rites reach beyond the limits of natural magic because supernatural persons are addressed. Nonetheless, Pico did not invoke angels when he defended magic in the Oration, nor did he turn—as Ficino did—to the ‘occult qualities’ of scholastic metaphysics. But Kabbalah was on hand to solve the problem
+> (copenhaver2019:17399)
+
+
+## copenhaver2019-angels:060 (Brian P. Copenhaver, assertive)
+
+**Restatement:** Copenhaver says Pico listed atonement, orders of angels and a heavenly Jerusalem among topics connecting the two faiths of Abraham, on which he expected to defeat Jews in debate.
+
+> The prince was ready to try his findings out on Jews who refused to convert: there is “hardly any point of contention,” he exclaimed, “on which these books by Kabbalists cannot defeat and rebut them.” Some items on his list of topics to dispute—the Trinity, the Incarnation, Jesus as a divine Messiah—divided Christians from Jews. Others connected the two faiths of Abraham: atonement, orders of angels, and a heavenly Jerusalem.
+> (copenhaver2019:18303)
+
+
+## copenhaver2019-angels:071 (Brian P. Copenhaver, hedged)
+
+**Restatement:** Copenhaver thinks Pico probably deliberately avoided the Asclepius passages on making gods, in which the souls of demons or angels are called up into idols, to keep his magic natural.
+
+> to discover the divine nature and how to make it. . . . Using a power arising from the nature of matter, . . . they could not make souls, so they mixed this power in and called up the souls of demons or angels and implanted them in likenesses through holy and divine mysteries
+> (copenhaver2019:13678)
+
+> Moreover, since both god-making passages start with the theme of human wonder that Pico knew from elsewhere in the Asclepius and used to start the Oration, avoiding these texts was probably intentional—to keep his magic natural.
+> (copenhaver2019:13695)
+
+- warrant [scholar_evidence]: Copenhaver quotes the Asclepius on animating idols with the souls of demons or angels.
 

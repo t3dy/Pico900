@@ -1,0 +1,13 @@
+{
+ "thesis_id": "1>10",
+ "tier": "B",
+ "latin": "De re nominaliter concepta, primus conceptus qui habetur est conceptus rei conceptae proprius et conuertibilis.",
+ "latin_source": "farmer1998:18698",
+ "latin_note": "The sheet's underscore in 'habetur_est' is restored to a space. 1486 reads 'est conceptus universalissimus'; the Emendationes errorum corrects to the reading given here ('est conceptus rei conceptae proprius et convertibilis'); the 1487 reprint left the error unemended, apparently having swapped this reading with that of 1>11 (Farmer's note at farmer1998:18731).",
+ "translation": "When a thing is conceived by its name, the concept first grasped is the concept proper to, and convertible with, that conceived thing.",
+ "translation_note": "'nominaliter' (1>10) versus 'definitiue' (1>11) mark two modes of conceiving a thing — by name versus by definition — kept distinct in translation.",
+ "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:18756; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 1>, paradoxical reconciliations of Aristotle, Plato, and other doctors)",
+ "writer": "TRANSLATOR-T05, 2026-09-25"
+}

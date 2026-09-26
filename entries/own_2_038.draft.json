@@ -1,0 +1,13 @@
+{
+ "thesis_id": "2>38",
+ "tier": "C",
+ "latin": "Ordo librorum naturalis philosophiae ab Aristotele tradite est iste: Liber Physicorum, coeli et mundi, de generatione, metheororum, mineralium, de plantis, de generatione animalium, de partibus animalium, de progressu animalium, de anima, tum libri qui dicuntur parui naturales.",
+ "latin_source": "farmer1998:19442",
+ "latin_note": "The sheet's line-break slash in 'metheororum,/mineralium' is repaired to a comma-and-space. 1486 reads 'ab Aristotle est iste' (omitting 'tradite'); the Emendationes errorum inserts 'tradite', giving the reading followed here, which (unlike other emendations in this stretch) the 1487 reprint adopted.",
+ "translation": "The order of the books of natural philosophy handed down by Aristotle is this: the book of the Physics, on the heaven and the world, on generation, the Meteorology, on minerals, on plants, on the generation of animals, on the parts of animals, on the progression of animals, on the soul, and then the books called the minor natural works.",
+ "translation_note": "Sense checked; no further crux.",
+ "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19500; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "writer": "TRANSLATOR-T05, 2026-09-25"
+}

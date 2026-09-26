@@ -2,48 +2,34 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## edelheit2022:002 (Amos Edelheit, hedged)
+## edelheit2022:003 (Amos Edelheit, assertive)
 
-**Restatement:** Gianfrancesco Pico, in his Vita of his uncle, mentions Cittadini as the only critic named there, calls him an excellent philosopher, and answered the fourth objection after Giovanni's death; Edelheit gives lost interest or untimely death as the probable reasons Giovanni did not answer it.
+**Restatement:** The proem of De ente et uno, on Edelheit's reading, implicitly faults Lorenzo's reliance on the Platonists against Aristotle over being and the one, and anticipates an implicit criticism of Ficino developed chiefly in the second chapter.
 
-> We possess an interesting account of Cittadini’s reaction to Pico’s De ente et uno in the Vita of his uncle by Pico’s nephew and biographer, Gianfrancesco Pico
-> (edelheit2022:22545)
-
-> This is the only reference in Gianfrancesco’s biography to any critic of his uncle and, since he regarded Cittadini as an ‘excellent philosopher’ (egregius philosophus), he felt obliged to respond to Cittadini’s fourth objection, to which his uncle did not respond, probably because he lost interest in this debate or because of his untimely death.
-> (edelheit2022:22547)
+> What is suggested by Pico already in the proem, in an implicit manner (an anticipation of his implicit criticism of Ficino, mainly in the second chapter of this text), is that Lorenzo’s reliance (“innixus”) on the Platonists for his arguments against Aristotle on the issue of being and the one is unfair and problematic.
+> (edelheit2022:22638)
 
 
-## edelheit2022:007 (Amos Edelheit, assertive)
+## edelheit2022:013 (Amos Edelheit, assertive)
 
-**Restatement:** Pico argues that Parmenides, speaking as a Pythagorean, meant God by 'the one' that is what exists, and elsewhere in his poem allowed division and plurality; this detaches Parmenides from the doctrine that the one is above being.
+**Restatement:** Cittadini holds it false that the Platonists say God is not being, citing Themistius for the view that the idea, which is the principle of things, is properly being and one, and that many Platonists identified the idea with God; Edelheit notes he used Barbaro's 1481 translation of Themistius.
 
-> In fact, Pico contends, there is no real superiority of the one over being in Parmenides himself, who is using ‘one’ here as a Pythagorean, and thus refers to God when he states that the one is what exists, as Simplicius and those who were defending him from his detractors argued.
-> (edelheit2022:22698)
+> Moreover, to claim that for the Academics or Platonists, who follow Plato, God – in reality and properly speaking – is not being, is simply false according to Cittadini. He refers to Themistius who demonstrated that the idea (idea) according to Plato is both being and the one.
+> (edelheit2022:22844)
 
-> Pico points out that in that part of the poem Parmenides does allow for the existence of division, multitude and plurality in reality.
-> (edelheit2022:22732)
-
-
-## edelheit2022:009 (Amos Edelheit, assertive)
-
-**Restatement:** For Pico the divine names 'being', 'one', 'good' and 'true' each denote only a particular perfection, whereas God unites all in one perfection and is the principle and cause of plurality; the Peripatetics, followed by the Parisian theologians, allow all these names in God, while Dionysius and then the Platonists deny life, intellect and wisdom of God.
-
-> Moreover: Pico himself, focusing on the divine attributes, which he regards as ‘names’ (nomina), concludes, after some analysis, that God is ‘being’, ‘one’, ‘good’, and ‘true’. But while all these ‘names’ represent only a particular perfection (which still allows for plurality and division), God’s perfection is unique, just as His infinity and deity are.
-> (edelheit2022:22739)
-
-> He is the unifying principle of Himself and in this regard, Pico explains, God as one does not stand in contrast to plurality but rather He is superior to plurality, and in fact He is the principle and cause of plurality. This line of argumentation is attributed by Pico to the Peripatetics, who are followed in almost every matter by the Parisian theologians.
-> (edelheit2022:22743)
-
-> Quod respicientes et Dionysius et deinde Platonici in Deo et vitam et intellectum et sapientiam atque his similia esse negant.
-> (edelheit2022:22770)
+> Antonio Cittadini is obviously another case of this tendency only that this time, a Renaissance scholastic is criticizing a humanist-oriented philosopher using a recent humanist translation: Ermolao Barbaro’s 1481 translation of Themistius’ paraphrses of De anima.
+> (edelheit2022:22870)
 
 
-## edelheit2022:011 (Amos Edelheit, assertive)
+## edelheit2022:015 (Amos Edelheit, assertive)
 
-**Restatement:** Pico's final move in De ente et uno reorders the four names when God is considered as cause: one first, then good, true and being, following final, exemplary and efficient causes.
+**Restatement:** Cittadini finds it more astonishing that Pico imposes on Aristotle the view that God is not being, since being divides into substance and accident and God, beyond every genus, is neither, and in Aristotle's tradition some place God in a category of His own.
 
-> Regarding God as the cause of things necessitates, according to Pico, reordering the hierarchy between the four ‘names’. If previously (n. 12) we had ‘being’, ‘one’, ‘good’ and ‘true’, now we have ‘one’ first, since it is understood in itself before being understood as a cause; then we have ‘good’, ‘true’ and ‘being’, arranged in accordance with the hierarchy of causes they represent: final, exemplary (or formal) and efficient.
-> (edelheit2022:22794)
+> It is even more astonishing, Cittadini argues, that Pico is trying not only to show that God is not being for Plato, but that he is also imposing the same view on Aristotle.
+> (edelheit2022:22885)
+
+> God cannot be regarded either as accident or as substance, which is genus, since God is beyond the limits of any genus. But there is no good reason, claims Cittadini, to ascribe to Aristotle the opinion of Plato – denying ‘being’ from God – if indeed it is Plato’s opinion.
+> (edelheit2022:22889)
 
 
 ## edelheit2022:018 (Amos Edelheit, assertive)
@@ -54,6 +40,14 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (edelheit2022:22981)
 
 
+## edelheit2022:019 (Amos Edelheit, assertive)
+
+**Restatement:** Pico agrees with Cittadini that no concrete name, whether 'the one' or 'being', can be attributed to God, but holds that the division of being into substance and accident shows that God is beyond being, an opinion he finds in Thomas.
+
+> Pico agrees with Cittadini that a concrete name (concretum nomen) cannot be attributed to God, be it ‘the one’ or ‘being’. The division of being into substance and accident – a standard distinction among Aristotelians – shows, in fact, that God is not ‘being’ but rather beyond being (supra ens esse), and this opinion can be found in Thomas Aquinas, regarded as the authority on Aristotle by Cittadini.
+> (edelheit2022:23027)
+
+
 ## edelheit2022:022 (Amos Edelheit, assertive)
 
 **Restatement:** Cittadini, dissatisfied with the reply, argues in his second objections that if Themistius shows that the idea, foundation of everything, is properly being, then the claim that Platonists following Plato deny God is properly being is untrue, since the idea is God.
@@ -62,92 +56,136 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (edelheit2022:23128)
 
 
-## edelheit2022:032 (Amos Edelheit, assertive)
+## edelheit2022:024 (Amos Edelheit, assertive)
 
-**Restatement:** On the Thomist distinction Pico concludes that God is existence but not essence, so God is not properly called being; we know only that God is, and nothing of what God is.
+**Restatement:** Cittadini objects that Pico misuses Thomas: Thomas's division of being into substance and accident concerns created being only, not uncreated being, so Thomas cannot show that Aristotle denied that God is properly being.
 
-> If we are willing to accept these distinctions, we must conclude that God is existence but not essence. Pico addresses Cittadini directly here: he just cannot understand how Cittadini can argue time and again that if God exists then He is essence. One does not need to read the Platonists for this but rather simply to follow the words of Thomas.
-> (edelheit2022:23507)
-
-> Pico raises the presumptuous notion behind attributing an epistemic essence to God: we can only know that God exists, His essence is far beyond our reach.
-> (edelheit2022:23511)
+> Cittadini criticizes the manner in which Pico uses Thomas to support his view that God is not truly and properly ‘being’. While Thomas argued that God is not properly substance, since He is not under (substat) any accident, nor is God’s essence different from God, the truth of the matter is that Thomas’s line of argumentation goes against Pico, since his distinction between substantial and accidental being refers only to created being (ens creatum), not to uncreated being (ens increatum), which is God.
+> (edelheit2022:23178)
 
 
-## edelheit2022:036 (Amos Edelheit, assertive)
+## edelheit2022:035 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit observes that Pico here uses Platonicus and Academicus as synonyms, both meaning the Neoplatonists, although Cicero and Augustine distinguish the Academic Skeptics from the Middle- and Neoplatonists.
+**Restatement:** For Pico's Platonist, to call God one states how God is, not what God is, and to ask what God is is an illegitimate question, since God is beyond every essence and everything intelligible.
 
-> One notices that Pico uses here (nn. 77–78) the terms Platonicus and Academicus as synonyms, while for both Cicero and Augustine these terms refer to two different philosophical schools: the Middle- and Neoplatonists and the Academic Skeptics.
-> (edelheit2022:23568)
+> What did the Platonists mean when they posited God as one? And when they referred to God as one, did they not state what God is (quid sit), but rather specify the manner He is (quomodo sit) and that which He is.
+> (edelheit2022:23561)
 
-> Although a skeptic element still exists in n. 78, for Pico both terms refer only to the Neoplatonists.
-> (edelheit2022:23573)
+> For the Platonist, asking what God is, is an illegitimate question which reflects disrespect towards God, who is beyond any essence and anything intelligible.
+> (edelheit2022:23565)
 
+- warrant [scholar_evidence]: Edelheit's footnote quotes Pico's Latin (Pico's words as quoted by Edelheit).
 
-## edelheit2022:048 (Amos Edelheit, assertive)
+## edelheit2022:038 (Amos Edelheit, assertive)
 
-**Restatement:** Cittadini prefers 'unity' to 'one' as the proper attribute of God and criticizes the Platonists for using 'similis' rather than 'similitudo'; Pico replies that the Platonists' Greek 'one' is a substantive, not a denominative, and alludes again to Cittadini's Greek.
+**Restatement:** Pico argues that God falls under no genus because genera are essences and God neither is nor has an essence, and that 'being' as the Peripatetics use it in the sense of the ten categories does not include God.
 
-> To some extent, Cittadini presents the opposite view to that of Delmedigo (see n. 83 and context) and prefers ‘unity’ (unitas) to ‘one’ (unum) as the more proper attribute of God, and in principle, criticizes the Platonists for using the adjective similis instead of the substantive similitudo in their account of the relation between God and His proper name or attribute.
-> (edelheit2022:23956)
-
-> Pico remarks that ‘one’ (unum) as it is used in Greek by the Platonists, while referring to God, is not a denominative (= adjective) but rather a substantive, thus alluding once more to Cittadini’s ignorance in Greek.
-> (edelheit2022:23960)
+> This last argument clarifies why God cannot be placed under any genus. Kinds (genera) are the essences of things yet God is not an essence and does not have an essence. For this reason ‘being’ is understood by the Peripatetics as that which is related to the ten categories (decem genera), and so it is clear that the term ‘being’ in the way Aristotle and his followers use it does not include God.
+> (edelheit2022:23605)
 
 
-## edelheit2022:052 (Amos Edelheit, assertive)
+## edelheit2022:041 (Amos Edelheit, assertive)
 
-**Restatement:** Cittadini and Gianfrancesco Pico corresponded with mutual respect and cordial relations; Gianfrancesco says that Cittadini and Giovanni Pico were bound before the disputation as compatres by a spiritual bond.
+**Restatement:** According to Bacchelli, Poliziano's presence at the Ferrara debate is evident from a remark in Pico's second response, where Poliziano is said to have answered Cittadini's question what God is by saying he did not know, following Simonides.
 
-> This chapter cannot be completed without a short account of the correspondence between Cittadini and Gianfrancesco Pico, in the light of the latter’s response to the fourth objections. The two letters show mutual respect and cordial relations.
-> (edelheit2022:24106)
+> As Bacchelli points out the presence of Poliziano at the debate in Ferrara is evident thanks to a remark found in Pico’s second response
+> (edelheit2022:23774)
 
-> Tu vero et Picus noster eratis ante disputationem compatres hoc est spiritali astricti nodo.
-> (edelheit2022:24169)
-
-
-## edelheit2022:055 (Amos Edelheit, assertive)
-
-**Restatement:** Gianfrancesco, appealing to Pseudo-Dionysius, argues that outright evil would destroy outright goodness, so only complete privations can be assumed; he distinguishes absolute evil, which is nothing for lack of a subject, from particular evil as privation of some good.
-
-> So in order to be consistent here and make the best necessary connection between these arguments one should assume only a complete privation, so that no goodness could be found once evil as privation is involved. Gianfrancesco refers here to Pseudo-Dionysius in support of the argument that outright evil destroys outright goodness (universale malum universale bonum perimeret).
-> (edelheit2022:24246)
-
-> Thus, for him, evil has a double meaning: the first is an absolute evil, which does not exist and is really nothing since it has no subject. The second is evil as a privation of some good, it is a particular evil (particulare malum) and here evil accepts something of the good which is negated, in so far as it is left behind as a subject.
-> (edelheit2022:24283)
+> Quapropter rectissime tibi quaerenti inter disputandum, quid esset Deus, respondit vir doctissimus Politianus noster ex Simonidis poetae sententia se nescire quid esset.
+> (edelheit2022:23776)
 
 
-## edelheit2022:064 (Amos Edelheit, assertive)
+## edelheit2022:042 (Amos Edelheit, assertive)
 
-**Restatement:** Pico's thesis that there is no plurification of angels within one species corresponds to Thomas's Sentences commentary (2, d. 3, q. 1, a. 4): immaterial simple forms multiply only through matter, so two incorporeal angels cannot share a species.
+**Restatement:** Cittadini's third objections begin with four conclusions debated in Ferrara (God exists, God is one, God is not God, and the contradiction in the first being not existing while gold does), and complain that Pico had not responded for four months.
 
-> Thesis 21 brings us again to angelology. It states that there can be no plurification (that is, differentiation into many instances) of angels in the same species. This is discussed in Thomas’s commentary on the Sentences, 2, d. 3, q. 1, a. 4. Assuming that angels are immaterial, and since no form or nature will multiply by number unless through a diversity of matter, it means that a simple and immaterial form which does not accept any matter can only be one.
-> (edelheit2022:11340)
-
-> And so, Thomas concludes, it is impossible for two angels – if they are incorporeal – to be in one species. Corporeal materiality is thus necessary for multiplicity in species but it cannot be found in angelic nature.
-> (edelheit2022:11392)
-
-- warrant [scholar_evidence]: Edelheit's footnote quotes Thomas's Latin, ending 'impossibile est duos angelos, si sunt incorporei, esse unius speciei'.
-
-## edelheit2022:067 (Amos Edelheit, hedged)
-
-**Restatement:** Edelheit finds most components of Pico's thesis 22 in Thomas, but the contrast between visible appearance and intelligible species and the emphasis on in patria are not found there; Thomas's focus is broader and Pico's shows a standard Neoplatonic emphasis on the move from sensible to intelligible.
-
-> But Thomas’s focus is somewhat different from, and certainly broader than, Pico’s thesis, since he is addressing the question, ‘whether the human intellect can attain to seeing God through essence’ (Utrum intellectus humanus possit pervenire ad videndum Deum per essentiam), while Pico is more focused on the transformation from the sensual to the intelligible realm in what seems like a standard Neoplatonic emphasis.
-> (edelheit2022:11439)
-
-> We have here most of the components of Pico’s thesis together with a conceptual framework which is missing in Pico’s exposition. And yet the emphasis on in patria (usually contrasted to in via, referring to present life) and the explicit negation of per species in Pico, that is the negation of the sensual realm, are not found in Thomas.
-> (edelheit2022:11527)
+> Cittadini opens his third objections by reminding Pico of four conclusions or theses that were debated during their debate in Ferrara: that God exists, that God is one, that God is not God, and that there is a contradiction in case God as the first being does not exist but gold does exist. He mentions the fact that he already gave Pico his objections to these theses and have not received any reaction for four months
+> (edelheit2022:23756)
 
 
-## edelheit2022:069 (Amos Edelheit, assertive)
+## edelheit2022:046 (Amos Edelheit, assertive)
 
-**Restatement:** Pico's thesis 23 that 'one' adds to 'being' only the privation of division anticipates De ente et uno; Edelheit finds its source in Thomas's Quodlibet 10, q. 1, a. 1, where 'one' adds only a negation of division and is indivisible being.
+**Restatement:** Pico cites Thomas's Summa theologiae 1, q. 48, a. 2 to show that 'being' as answer to 'does it exist?' does not signify essence, so that God's being called ens in that sense does not make ens the essence of things; Cittadini replies that if God is being as idea, He is more so as God, since that part is absolute.
 
-> Thesis 23 takes us directly to the conceptual tension between ‘one’ (unum) and ‘being’ (ens), which Pico was going to address in his De ente et uno (1490–1491), a work which stands at the centre of Chapter 16 together with its critical reception by Antonio Cittadini. It states that the only thing that ‘one’ adds to ‘being’ is the privation of division.
-> (edelheit2022:11588)
+> This brings Cittadini to consider the double meaning of the concept ‘being’ (ens) in yet another effort to explain the status of evil, citing Thomas’s Summa theologiae 1, q. 48, a. 2. In one way ‘being’ means the entity of a thing (entitas rei), as it is divided through the ten categories and is exchangeable with a thing.
+> (edelheit2022:23899)
 
-> Thomas at this point, following Aristotle and Averroës, argues that when ‘one’ is interchangeable with ‘being’ it does not add anything to ‘being’ except the negation of division (negatio divisionis). This is a minimal addition to ‘being’. And so ‘one’ is defined here as indivisible being (ens indivisum). And this is also what we have in Pico’s thesis.
-> (edelheit2022:11629)
+> These words of Thomas serve as a proof for Pico since, according to him, when Cittadini argues that God is called ens, so long as this word is used for answering the question ‘is it exist?’, it does not mean that ens refers here to the essence of things.
+> (edelheit2022:23907)
 
+> This interpretation is completely rejected by Cittadini, who is very dismissive of Pico’s reading of Thomas. He suggests his own solution to the problem by arguing that if God, in that part which is the idea, is being, it is most certain that He is being in that part which is God, since this part is absolute, while the other is only relative.
+> (edelheit2022:23911)
+
+
+## edelheit2022:058 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says Christian Neoplatonists such as Pseudo-Dionysius or Augustine began to develop a substantial and 'strong' concept of evil, unlike the pagan Neoplatonists' accidental and 'weak' concept.
+
+> While pagan Neoplatonists tended to develop this approach of accidental and rather ‘weak’ concept of evil, Christian Neoplatonists such as the Pseudo-Dionysius or Augustine began to develop a different approach of substantial and rather ‘strong’ concept of evil.
+> (edelheit2022:24351)
+
+
+## edelheit2022:062 (Amos Edelheit, hedged)
+
+**Restatement:** In Quodlibet 5, q. 4, Thomas, following Pseudo-Dionysius closely, stresses the hierarchy between hierarchies and orders of angels and even among angels in the same order, which Edelheit suggests might be the origin of Pico's angelus beatior.
+
+> A similar line of argumentation can be found in Thomas’s Quaestiones quodlibetales, 5, q. 4, where Thomas, following closely Pseudo-Dionysius the Areopagite, emphasizes the hierarchical structure between different hierarchies and orders of angels – which might just be the origin of the notion of an ... angelus beatior found in Pico’s thesis.
+> (edelheit2022:11168)
+
+> Thomas refutes the view according to which there is only one eternity equal to all spiritual beings, and argues that there are different degrees of participation in eternity, in accordance with different angelic hierarchies and orders, and even taking into account the diversity among angels in the same order
+> (edelheit2022:11189)
+
+- warrant [scholar_evidence]: Edelheit's footnote quotes Thomas's Quodlibet 5, q. 4 naming Dionysius's Celestial Hierarchy, ch. 10.
+
+## edelheit2022:063 (Amos Edelheit, hedged)
+
+**Restatement:** Pico's thesis that sin in the will requires defect in reason is, Edelheit shows, the opposite of Thomas's answer in the Sentences commentary, where it appears only as an argument Thomas refutes; Pico had to seek a positive account in the Summa, and may have preferred Thomas's later conclusion.
+
+> So where is Pico’s thesis? It is found in argument 4 which – as we have just seen – is refuted by Thomas.
+> (edelheit2022:11254)
+
+> If this is the case, then Pico had to look for a positive account of this argument somewhere else in Thomas.
+> (edelheit2022:11287)
+
+> Peccatum and defectus were used by Thomas in his earlier account of this argument (nn. 86–87), but there his conclusion was the opposite of Pico’s thesis. This might reflect Pico’s awareness of Thomas’s earlier account and his preference for the later conclusion.
+> (edelheit2022:11303)
+
+
+## edelheit2022:075 (Amos Edelheit, assertive)
+
+**Restatement:** Thomas, following Aristotle's Metaphysics II, argues that the difficulty lies in us, and that since separated substances cannot be understood through material things, our possible intellect can in no way understand separated substances in this life.
+
+> Referring to the second book of Aristotle’s Metaphysics Thomas argues that the difficulty in understanding those things lies in ourselves and not in those things, for it is impossible that separated substances would be understood through material things. The conclusion is that there is no way that our possible intellect will be able to understand separated substances.
+> (edelheit2022:12660)
+
+
+## edelheit2022:082 (Amos Edelheit, hedged)
+
+**Restatement:** Henry of Ghent candidly admits he does not know how angels are related to a place and prefers to hear others; Pico follows Henry accurately up to this point but seems to push him toward Pico's own position, while Henry stays cautious and uncommitted.
+
+> With regard to the question how, then, angels are related to a place, Henry candidly admits that he does not know, and that he prefers to hear others on this issue. Pico follows Henry quite accurately up to this point, but here he seems to push Henry a bit towards his own position, while Henry is still very cautious and uncommitted as to determining the right explanation.
+> (edelheit2022:7447)
+
+- warrant [scholar_evidence]: Edelheit's footnote quotes Henry's Quodlibet II, q. 9: he does not determine, sustain or defend, and prefers to hear others.
+
+## edelheit2022:086 (Amos Edelheit, assertive)
+
+**Restatement:** Pico argues that an angel and any incorporeal substance is more abstract than any quantity, so that, as unity unlike a point has no position, an angel cannot be said to have a place by its nature; Edelheit finds his argument similar in sequence to Henry's, though missing Henry's stress on simplicity.
+
+> While a point is something which belongs to quantity, and it has a physical place by its own nature, an incorporeal thing is completely abstracted from a physical place, and so, Pico contends, it is grave ignorance on the part of the critic of his thesis to imagine that the indivisibility of an incorporeal and a corporeal thing is the same
+> (edelheit2022:7600)
+
+> It is important to notice that the sequence of Pico’s argument before the explicit reference is similar to Henry’s, and that we do find an angel also in Henry’s discussion; on the other hand, the concept of simplicity ... which is again emphasized by Henry is missing from Pico’s discussion.
+> (edelheit2022:7619)
+
+- warrant [scholar_evidence]: Edelheit's footnote quotes Pico's Apology: an angel and any incorporeal substance is more abstract than any continuous or discrete quantity.
+
+## edelheit2022:095 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit reads Pico's Apology as showing that the scholastic tradition is, for Pico, at least equal to the patristic and monastic traditions, citing Ockham's disagreement with Pseudo-Dionysius on hierarchical acts as one instance of moderns departing from the saints.
+
+> Moreover, Pico argues that also modern doctors (‘moderns’ here in the broad sense of doctors who lived closer to Pico’s times and not in the technical sense of the fourteenth-century schools) disagree with the statements of saints and so, for instance, Robert Holcot claimed that Anselm was deceived in many issues because he was ignorant in logic; Ockham disagreed with Pseudo-Dionysius the Areopagite regarding hierarchical acts; and Scotus almost destroyed the entire argumentation in Anselm’s Cur deus homo. This means that according to Pico the scholastic tradition is at least of equal validity to the monastic and patristic traditions, and in some cases, as the examples above suggest, even superior to it.
+> (edelheit2022:8096)
+
+- warrant [scholar_evidence]: Edelheit's footnote quotes Pico: 'Ocham de actibus hierarchicis non sentit cum Dyonisio'.
 

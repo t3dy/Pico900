@@ -24,12 +24,27 @@ works, with statistics (`MENTION_STATS.md`: 421 theses cited by at least one sch
 Farmer-keyed format of `docs/ENTRY_FORMAT.md` and pass `scripts/entry_gate.py`. Session notes:
 `RESEARCHNOTES_2026-09-25.md`.
 
+## Working mode (Ted's standing instruction; `PROMPTS.md`)
+
+**Do not ask Ted questions.** He is not an engineer and does not want to make engineering calls. Use judgement, record the
+decision and its reason in `DECISIONS.md`, and keep going. Do as much work per prompt as is appropriate; proceed through
+phases without waiting for "go"; end with a handover a next window can run as a `/goal`. Several windows work on this project
+at once: run `git status` first, name the files you own (`scripts/tickets.py`), prefer new files to edits of shared ones,
+and never edit a file another window is changing. If something a document promises has not been built, build it. Report
+what was verified by running it and what was not; a shape check is not verification.
+
 ## Read first, by task
 
 | task | read |
 |---|---|
-| write or review any prose | `docs/EDITORIAL_STANDARD.md` |
-| run agents | `docs/ORCHESTRATION.md` (roles, gates, prohibitions) |
+| **know what Ted has asked for** | **`PROMPTS.md`** (every prompt, verbatim; the source of truth for intent; `python scripts/harvest_prompts.py` keeps it current) |
+| see who is doing what, and what is next | `TICKETS.md` (`python scripts/tickets.py ready`) |
+| write or review any prose | `docs/EDITORIAL_STANDARD.md`, then `docs/briefs/commentary_writer.md` |
+| run agents (roles, gates, swarm recipes) | `docs/ORCHESTRATION.md` (roles, gates, prohibitions, "Swarm recipes") |
+| read a scholar, or use what scholars say | `docs/CLAIMS_MODEL.md`; `docs/briefs/claims_researcher.md`; `python scripts/claims_query.py` |
+| people and relationships, relevance to Ficino and others | `docs/INTELLECTUAL_NETWORK_DESIGN.md`, `docs/CLAIMS_MODEL.md` s7-8 |
+| design or build the website, cards, tours, the Workbench | `docs/SITE_DESIGN.md`, `DEPLOY_STATE.md` |
+| angels and the One (commentary, finding aid, Ficino essay) | `docs/angelology/`, `docs/essays/`, `data/claims/` |
 | touch data | `data/inventory/`, `data/quarantine.json`, `COVERAGE.md` |
 | build or publish | `DEPLOY_STATE.md`, then `scripts/predeploy_check.py` |
 | know what is wrong and why | `audit/` |
@@ -66,6 +81,13 @@ Older status, handover and phase files are in `docs/archive/`. They are history,
    papal bull (1486)" is wrong wherever it appears.
 6. **Verify before "done"** (workspace rule): quote gate output, load the built page, state what is unverified.
 7. **Never publish from `docs/`**, and never deploy without `DEPLOY_STATE.md` and `predeploy_check.py`.
+8. **What a scholar says goes through a verified claim** (`docs/CLAIMS_MODEL.md`). Prose, cards and scores cite claims;
+   a claim exists only after `scripts/claims_verify.py` re-found its quotation in the source and a second agent sampled
+   its restatement. Never write "Black argues" or "Allen notes" from memory of the book; `scripts/commentary_check.py`
+   refuses prose whose citations are dangling, unverified or unquoted.
+9. **A gate that a script can pass without opening a source is not a gate.** When you write a check, test it on a
+   deliberately wrong input and show it fails. (Shell warning: heredocs in this environment halve backslashes, so a
+   regex `\b` becomes a backspace and fails silently; write scripts with the Write tool, not shell heredocs.)
 
 ## Files known to contain unverified or invented material; do not cite or imitate
 
@@ -97,6 +119,18 @@ scripts/entry_gate.py             gate for entries/*.draft.json (docs/ENTRY_FORM
 research-packets/            one research packet per thesis (WRITER input); translation-sheets/ for TRANSLATORs
 entries/                     Farmer-keyed entries: <slug>.draft.json (WRITER) -> <slug>.json (after VERIFIER)
 docs/ENTRY_FORMAT.md  docs/DATA_ONTOLOGY.md  docs/RESEARCH_PROTOCOL.md  docs/exemplars/
+
+PROMPTS.md                   every prompt Ted has typed, verbatim (scripts/harvest_prompts.py); source of truth for intent
+TICKETS.md  data/tickets/    the agile board (scripts/tickets.py: one writer per file enforced; `ready` lists what can start)
+docs/CLAIMS_MODEL.md         claims, warrants, open questions, importance, relevance to Pico's relationships, the correction loop
+docs/SITE_DESIGN.md          cards, frames, colour, sort/filter/search, relational browsing, tours, the Workbench (logins, collections)
+docs/briefs/                 cold-start briefs: claims_researcher, claims_semantic_verifier, claims_linker, commentary_writer
+data/claims/                 parties.json, topics.json, scoring.json, manifest.json; <domain>/<packet>.claims.json (one owner each),
+                             links.json, scores.json, relevance.json, open_questions.json, graph.json; tickets/ (what to fix)
+data/verification/claims/    verdicts (script) and semantic verdicts (second agent) per packet
+scripts/corpuslib.py corpus_tool.py   find and check text in the OCR corpus (cite work:line)
+scripts/claims_verify.py claims_pack.py claims_score.py claims_query.py commentary_check.py   the claims layer
+docs/angelology/  docs/essays/       commentary on the angelic material; the Ficino-Pico essay (written from verified claims only)
 ```
 
 ## Related

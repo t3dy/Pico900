@@ -1,7 +1,7 @@
 {
  "packet": "wallis1965-deente",
  "file": "data\\claims\\angelology\\wallis1965-deente.claims.json",
- "verified_at": "2026-09-26T04:35:15+00:00",
+ "verified_at": "2026-09-26T04:40:28+00:00",
  "claims": [
   {
    "id": "wallis1965-deente:001",
@@ -1330,15 +1330,1883 @@
    ],
    "warrants": [],
    "issues": []
+  },
+  {
+   "id": "wallis1965-deente:068",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3105,
+     "line_end": 3111,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:069",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3119,
+     "line_end": 3122,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3123,
+     "line_end": 3128,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:070",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3128,
+     "line_end": 3137,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:071",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3137,
+     "line_end": 3142,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:072",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3152,
+     "line_end": 3154,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3160,
+     "line_end": 3161,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Metaphysics' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:073",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3162,
+     "line_end": 3168,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3168,
+     "line_end": 3175,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:074",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3182,
+     "line_end": 3184,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:075",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3184,
+     "line_end": 3189,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3189,
+     "line_end": 3191,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3201,
+     "line_end": 3202,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:076",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3203,
+     "line_end": 3206,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:077",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3207,
+     "line_end": 3214,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3215,
+     "line_end": 3217,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:078",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3218,
+     "line_end": 3226,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:079",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3228,
+     "line_end": 3230,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:080",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3231,
+     "line_end": 3235,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:081",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3235,
+     "line_end": 3236,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3242,
+     "line_end": 3243,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3245,
+     "line_end": 3246,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3246,
+     "line_end": 3249,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:082",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3255,
+     "line_end": 3259,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3262,
+     "line_end": 3263,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:083",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3264,
+     "line_end": 3268,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3292,
+     "line_end": 3297,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3299,
+     "line_end": 3300,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:084",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3303,
+     "line_end": 3304,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3307,
+     "line_end": 3313,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:085",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3314,
+     "line_end": 3318,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3325,
+     "line_end": 3328,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:086",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3328,
+     "line_end": 3333,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:087",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3344,
+     "line_end": 3346,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3346,
+     "line_end": 3351,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:088",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3351,
+     "line_end": 3352,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3353,
+     "line_end": 3358,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:089",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3358,
+     "line_end": 3359,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3366,
+     "line_end": 3373,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Following' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:090",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3373,
+     "line_end": 3373,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3373,
+     "line_end": 3375,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:091",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3378,
+     "line_end": 3382,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3383,
+     "line_end": 3384,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3388,
+     "line_end": 3391,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3391,
+     "line_end": 3392,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:092",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3396,
+     "line_end": 3396,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3399,
+     "line_end": 3401,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3406,
+     "line_end": 3407,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:093",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3407,
+     "line_end": 3412,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:094",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3412,
+     "line_end": 3415,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:095",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3416,
+     "line_end": 3420,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3420,
+     "line_end": 3423,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:096",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3423,
+     "line_end": 3426,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3426,
+     "line_end": 3429,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:097",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3432,
+     "line_end": 3438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:098",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3438,
+     "line_end": 3438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3447,
+     "line_end": 3452,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3453,
+     "line_end": 3454,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-deente:099",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3454,
+     "line_end": 3461,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Since' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:100",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 641,
+     "line_end": 649,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:101",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 599,
+     "line_end": 603,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:102",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 650,
+     "line_end": 657,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:103",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 658,
+     "line_end": 661,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 663,
+     "line_end": 672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:104",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 673,
+     "line_end": 673,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 678,
+     "line_end": 680,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:105",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 681,
+     "line_end": 687,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:106",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 687,
+     "line_end": 690,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "warrant w1",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:107",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 690,
+     "line_end": 692,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:108",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 624,
+     "line_end": 628,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 631,
+     "line_end": 631,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 637,
+     "line_end": 640,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[2]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:109",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 728,
+     "line_end": 733,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:110",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 734,
+     "line_end": 735,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:111",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 735,
+     "line_end": 737,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:112",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 737,
+     "line_end": 739,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:113",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 794,
+     "line_end": 794,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 801,
+     "line_end": 804,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:114",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 808,
+     "line_end": 813,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:115",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 814,
+     "line_end": 818,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:116",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 820,
+     "line_end": 825,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 861,
+     "line_end": 864,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:117",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 832,
+     "line_end": 834,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:118",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 865,
+     "line_end": 869,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:119",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 875,
+     "line_end": 877,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 883,
+     "line_end": 885,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 887,
+     "line_end": 889,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[2]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:120",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 900,
+     "line_end": 907,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:121",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 941,
+     "line_end": 944,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:122",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1036,
+     "line_end": 1037,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1038,
+     "line_end": 1040,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Biographical' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Note' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:123",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1097,
+     "line_end": 1099,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1106,
+     "line_end": 1107,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:124",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2457,
+     "line_end": 2458,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:125",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2498,
+     "line_end": 2498,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2499,
+     "line_end": 2499,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:126",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2539,
+     "line_end": 2540,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:127",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2624,
+     "line_end": 2624,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2625,
+     "line_end": 2625,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "quote_too_short",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "3 words is too little to test"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "quote_too_short",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "3 words is too little to test"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:128",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2664,
+     "line_end": 2664,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2665,
+     "line_end": 2666,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:129",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2787,
+     "line_end": 2787,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:130",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2788,
+     "line_end": 2788,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2789,
+     "line_end": 2789,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:131",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2826,
+     "line_end": 2826,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2828,
+     "line_end": 2828,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:132",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2868,
+     "line_end": 2868,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2948,
+     "line_end": 2948,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:133",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2989,
+     "line_end": 2989,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2990,
+     "line_end": 2990,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Egyptians' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Iside' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:134",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3032,
+     "line_end": 3032,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3073,
+     "line_end": 3073,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3112,
+     "line_end": 3112,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[2]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:135",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3113,
+     "line_end": 3113,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Silence' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:136",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3114,
+     "line_end": 3114,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Jamblichus' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:137",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3195,
+     "line_end": 3196,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-deente:138",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3276,
+     "line_end": 3276,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3277,
+     "line_end": 3277,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
   }
  ],
- "summary": {
-  "claims": 67,
-  "verified": 67,
-  "needs_fix": 0,
-  "quotes": 98,
-  "quotes_verbatim": 98,
-  "warnings": 16,
-  "verified_rate": 1.0
- }
+ "summary": {}
 }

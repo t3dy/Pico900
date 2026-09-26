@@ -1,0 +1,53 @@
+{
+ "researcher": "R-BLACK-A",
+ "scope": {
+  "work": "black2006",
+  "line_start": 1,
+  "line_end": 4723
+ },
+ "not_mined": [
+  "Front matter, acknowledgements, table of contents and abbreviations (lines 1-317): no claims, apart from the contents used to locate chapters.",
+  "Ch. 1 s.1-2: detail on Delmedigo's bibliographies and library inventories (lines ~873-905, 1198-1229): only the kabbalah list, the dating of the letter and the library-not-read points were taken; footnote-only bibliography not mined.",
+  "Ch. 2: First and Second Exposition details (physics, the ten spheres, the elemental and planetary correspondences, lines ~1559-1700, 1801-1925) summarised in two or three architectural claims; the taxonomy of the fifteen relationships in the Sixth Exposition (lines 2609-2730) not itemised.",
+  "Ch. 3 s.1 (lines ~3038-3745): fifteenth-century reception of the fourfold method, Glossa and Postilla circulation, humanist philology (Manetti, Valla, Erasmus), incunable survey. Not relevant to angelology or the One; only the Apologia's Jewish fourfold scheme, the Aquinas-Dionysius pointer and the absence of Genesis commentaries were taken.",
+  "Ch. 3 s.2 (lines ~3830-4100): the Latin and Greek exegetes named in the first proem (Ambrose, Augustine, Bede, Basil, Chrysostom, Philo etc.): only Origen, Albertus and Aegidius, the catena hypothesis and the unresolved identifications were extracted.",
+  "Ch. 3 s.3 (lines 4484-4723): the Job manuscript and Psalm philology soundings (Ps. 6, 10, 47) taken only as method; the Hebrew glosses themselves not itemised. The range ends at 4723, the last sentence of the paragraph that straddles line 4700; R-BLACK-B should begin at line 4724 ('Aside from this philological content...')."
+ ],
+ "proposed_topics": [
+  {
+   "id": "pico-biography",
+   "label": "Pico's life and career as it bears on his writings: Florence, Rome, the trial, Lorenzo, the papal response to the Heptaplus"
+  },
+  {
+   "id": "exegetical-authorities",
+   "label": "The authorities Pico names or rejects in the Heptaplus first proem, and how far he knew them directly (catena, Recanati, Bahir)"
+  },
+  {
+   "id": "hebrew-informants",
+   "label": "Delmedigo, Mithridates and Alemanno as channels of Jewish and Arabic learning to Pico; limits of his Hebrew"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "delmedigo",
+   "name": "Elijah Delmedigo"
+  },
+  {
+   "id": "alemanno",
+   "name": "Yohanan Alemanno"
+  },
+  {
+   "id": "roberto-salviati",
+   "name": "Roberto Salviati"
+  },
+  {
+   "id": "lanfredini",
+   "name": "Giovanni Lanfredini"
+  },
+  {
+   "id": "andrea-corneo",
+   "name": "Andrea Corneo"
+  }
+ ],
+ "notes": "Cruxes: (1) Ch. 2 s.3, lines 2015-2023 (Third Exposition): Black reports Pico first planned two expositions of the angelic world, Hebrew and Dionysian, kept only the Dionysian and promised a separate book on Jewish doctrine (claim black2006-a:066). Black does not say whether that book was written; nothing in this range answers it. (2) Ch. 1 s.2: Black's stance that Pico could not necessarily read complete kabbalistic treatises (claims 048, 052) and that Recanati (via Mithridates) is the dominant kabbalistic source of the 900; Zohar known only through Recanati (claims 122, 127). (3) Heptaplus architecture: constant Genesis 1.1-27 narrative, changing framework defined at the start of each exposition (claim 059), the 5+1+1 reading via the Trinity (claim 090), and the forty-nine gates (claim 005; developed in ch. 7, outside this range). (4) Pico's own quoted Latin appears only inside Black's footnotes; where I cite it, the warrant is scholar_evidence (Black quoting Pico), never primary_text, because the gate rejects primary_text from a scholarly work. OCR: Hebrew glyphs are dropped, so quotations containing Hebrew words lose them; 'Jo.hanan', 'Mena.hem', 'Ye.zirah' carry stray dots (the gate ignores punctuation; I copied 'Ye.zirah' as it stands because 'Yetzirah' would fail). Two claims have quotes broken by footnotes across page breaks and are given as separate quotations. Not covered: Black's account of Aquinas on Dionysius and the Hebrew angelic hierarchy (chapters 4-5, other packets)."
+}

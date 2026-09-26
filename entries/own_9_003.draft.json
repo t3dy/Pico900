@@ -1,0 +1,34 @@
+{
+  "thesis_id": "9>3",
+  "tier": "A",
+  "latin": "Magia est pars practica scientiae naturalis.",
+  "latin_source": "farmer1998:25122",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25122), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042). Akopyan prints 9>3 and 9>4 together as one quotation (akopyan2018:578).",
+  "translation": "Magic is that part of the science of nature which is practical.",
+  "translation_note": "'scientia naturalis' is natural philosophy, the scholastic discipline of physics; Copenhaver renders it 'natural knowledge' (copenhaver2019:20287). 'pars practica' presupposes the Aristotelian division of knowledge into theoretical and practical parts (editorial inference from farmer1998:25122 and farmer1998:20976-20977).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-B2), from the Latin, checked against the sense of Farmer's English at farmer1998:25162; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the third magical conclusion, the first premise of the argument completed in 9>4 (farmer1998:25122-25126).",
+  "sources": [
+    {"text": "Thesis 3>46, on the superiority of the operation that acts on a practical object over the one that contemplates it", "locator": "farmer1998:20976", "pico_relation": "the principle with which 9>4 combines this thesis"}
+  ],
+  "doctrine": "The thesis places magic inside the map of the sciences: it belongs to natural philosophy, as the part of that science that acts rather than contemplates (farmer1998:25122). Farmer treats 9>3 and 9>4 together as a pair, the premise and the conclusion of one argument (farmer1998:25175). The claim gives magic a place in the scholastic curriculum and so the status of a science, while leaving its object the natural world studied by physics (editorial inference from farmer1998:25122 and copenhaver2019:17648-17650). Farmer warns that it is a mistake to think that such operations have much in common with modern science (farmer1998:7262-7264). Much of Pico's magic concerned esoteric ways of reading texts and was sought for contemplative or prophetic ends, and it can be included in 'the practical part of natural science' only in the sense that it involved an esoteric means of reading (farmer1998:7155-7179). Pico, Farmer adds, apparently viewed any exegetical method that yielded secret wisdom as just as magical as the celestial magic discussed by Yates (farmer1998:7179-7180). At the same time Farmer allows that some parts of natural magic involved material operations, including astrological ones, as 9>5 suggests (farmer1998:7226-7231).",
+  "context": "Farmer notes that a surprisingly large part of Pico's library consisted of Greek, Latin and Arabic medical treatises, most of which would have discussed magic of one sort or another (farmer1998:7144-7146). The only report of Pico practising medical magic comes through Petrus Crinitus, who says that Pico sent Ermolao Barbaro, sick with plague in Rome, an antidote concocted from oil of scorpions and tongues of asps (farmer1998:7140-7144). Busi states that evidence is lacking to decide whether Pico actually tried fumigations and pentacles on the Tuscan hills, but that the dignity of magic as 'parte pratica della scienza naturale' in the Conclusions is no mystery (busi2014:1531-1535). The definition Pedro Garcia used against Pico in 1489, magic as the art of knowing and divining hidden things and of making great and wonderful things in nature, balances the prophetic and the material sides of magic in the way Farmer thinks Pico could have accepted (farmer1998:7190-7196).",
+  "reception": "In the Apology Pico still called this practice of natural science the 'apex and summit' of all philosophy (mandosio2012:567-568; farmer1998:7220-7223). Akopyan paraphrases 9>3-4 as Pico's admission that natural magic might be counted 'a practical and the noblest part' of scientia naturalis (akopyan2018:552-554).",
+  "historiography": "Farmer's reading sets the thesis against Yates, who claimed that Pico formulated a new position for European man and endorsed operational views of nature that paved the way for modern science (farmer1998:7121-7127). Farmer answers that Renaissance writers also used 'works' of magic for ways of acquiring occult knowledge, sought for contemplative or prophetic reasons more often than for material ends (farmer1998:7134-7157). Copenhaver reads the Apology's scheme in the same direction: the knowledge compared with magic is natural philosophy of the usual scholastic type, the study of change below the Moon, while magic and Kabbalah look higher (copenhaver2019:17648-17651). Mandosio reads 'natural magic' as defined by Pico as the practical part of natural philosophy and its noblest part (mandosio2012:563). The thesis shows that Pico sought for magic a scholastic address, a named part of an established science, rather than the standing of a separate occult discipline (editorial inference from farmer1998:25122 and mandosio2012:563-568).",
+  "connections": ["9>2", "9>4", "3>46", "9>5", "10>1"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "parte pratica della scienza naturale", "work": "busi2014", "line": 1533, "verbatim": true},
+    {"text": "the highest point of all philosophy", "work": "mandosio2012", "line": 567, "verbatim": true},
+    {"text": "concocted from the oil of scorpions and the tongues of asps", "work": "farmer1998", "line": 7143, "verbatim": true}
+  ],
+  "not_established": [
+    "Whether Pico practised any operative natural magic beyond the medical anecdote reported by Crinitus: not established by the sources consulted (busi2014:1531-1532).",
+    "Which scholastic division of the practical sciences Pico had in mind: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2 (agent), 2026-09-25",
+  "verifier": null,
+  "verified_date": null
+}

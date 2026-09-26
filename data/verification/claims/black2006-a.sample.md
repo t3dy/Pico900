@@ -2,25 +2,6 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## black2006-a:005 (Crofton Black, assertive)
-
-**Restatement:** Black argues that the seven-fold structure of the Heptaplus reflects the forty-nine gates of understanding through which, according to texts Pico read, Moses ascended and whose knowledge he concealed in the Genesis account.
-
-> the structure of the work as a whole, which is based on the number seven (symbolizing the sabbath). In conclusion, I argue that this structure reflects the forty-nine gates of understanding through which, according to texts read by Pico, Moses ascended, and knowledge of which he concealed in the Genesis account.
-> (black2006:423)
-
-
-## black2006-a:013 (Crofton Black, assertive)
-
-**Restatement:** Pico planned to debate nine hundred conclusions in Rome in the manner of Parisian disputation, and published them on 7 November.
-
-> In March 1486 he returned to Florence. His next project, in line with his recent experience, was conceived after the style of 'Parisian' disputation. He proposed to hold a public debate in Rome on nine hundred 'conclusions' or 'theses'
-> (black2006:541)
-
-> He then moved to Rome in the autumn of that year and published them on 7 November.
-> (black2006:547)
-
-
 ## black2006-a:014 (Crofton Black, assertive)
 
 **Restatement:** Black describes the Conclusiones as formally far from the Heptaplus: a miscellaneous collection of bare bones that, despite commentators' efforts, do not form a coherent body.
@@ -29,93 +10,79 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (black2006:549)
 
 
-## black2006-a:036 (Crofton Black, assertive)
+## black2006-a:016 (Crofton Black, assertive)
 
-**Restatement:** Links between the translations and the Conclusiones show that part of the corpus, certainly Vat. Ebr. 190 and the lost Recanati manuscript, had been completed and read by Pico by November 1486, while Vat. Ebr. 189 postdates it.
+**Restatement:** Pico's Apologia responded to the censure as a preamble to the debate and a defence of the thirteen condemned propositions, blaming the committee for misreading his words.
 
-> Links between these translated texts and Pico's own Conclusiones demonstrate that a proportion of the translations, and certainly those contained in Vat. Ebr. 190 as well as the lost Recanati manuscript mentioned above, had been completed (and read by Pico) by November 1486.
-> (black2006:1022)
-
-> On the other hand, evidence from marginal notes made by Mithridates shows that Vat. Ebr. 189 postdates this.
-> (black2006:1027)
+> Pico's response to this censure was the Apologia, which serves as both an explanatory preamble to his proposed debate, and a defence of the thirteen condemned propositions. The charge of heterodoxy, he complained, resulted from the failure of the examining committee to interpret the meanings of his words correctly.
+> (black2006:594)
 
 
-## black2006-a:039 (Crofton Black, assertive)
+## black2006-a:020 (Crofton Black, assertive)
 
-**Restatement:** Marginal markings in the Mithridates manuscripts against passages used, sometimes almost verbatim, in the Conclusiones show that Pico read, marked and reused them; Black adds that several concern exegesis and are potentially important background to the Heptaplus.
+**Restatement:** Black notes that Copenhaver argues the subtitle 'On the Dignity of Man' misrepresents the work's content.
 
-> These manuscripts are the single most significant channel through which Hebrew thought, specifically kabbalah, was made available to Pico. The many instances of marginal markings (a vertical line surmounted by two dots) against sections of these manuscripts which were used, sometimes almost verbatim, in the Conclusiones provide evidence that Pico read these texts, marked passages of interest and then reused them in his own works.
-> (black2006:1064)
-
-> Several of these texts are concerned with matters of biblical exegesis, and they should therefore be considered as potentially important background material for the Heptaplus.
-> (black2006:1070)
+> B.P. Copenhaver, 'The Secret of Pico's Oration: Cabala and Renaissance Philosophy', Midwest Studies in Philosophy, 26 (2002), 56-81, argues that the subtitle 'On the Dignity of Man' is a misrepresentation of the work's content.
+> (black2006:630)
 
 
-## black2006-a:043 (Crofton Black, assertive)
+## black2006-a:025 (Crofton Black, assertive)
 
-**Restatement:** Black finds a shared interest of Alemanno and Pico in exegesis and intellectual ascent easy to make out but concrete links between their texts hard to show, and there is no evidence that Pico read the Einei ha-edah.
+**Restatement:** Gianfrancesco Pico's Vita stresses Pico's orthodoxy and holiness, dismisses the Roman affair as youthful folly, and largely overlooks his interest in kabbalah.
 
-> The point that Alemanno and Pico had a common interest in biblical exegesis and the idea of intellectual ascent is easily made. It is harder to demonstrate any concrete links between the texts of the two writers. Temporal coincidence notwithstanding, we have no evidence that Pico read (or had read to him) the Einei ha-edah.
-> (black2006:1117)
+> Gianfrancesco's Vita emphasizes Pico's orthodoxy and holiness. The events of the Roman affair are dismissed as a youthful folly, equated with his early pursuit of women, from which he turned away to embrace a life of quiet sanctity and scholarship.
+> (black2006:754)
 
-
-## black2006-a:044 (Crofton Black, hedged)
-
-**Restatement:** Black cautions against taking literally, given epistolary convention, Pico's attribution of his interest in Genesis to Lorenzo de' Medici in the Heptaplus introduction (and Alemanno's attribution of his commentary to Pico).
-
-> Equally, given the rhetorical conventions of an introductory epistle, it might be unwise to put too much weight on Alemanno's attribution of his writing of the Song of Songs commentary to Pico; just as, in the introduction to the Heptaplus, we need not necessarily take literally Pico's attribution of his interest in Genesis to Lorenzo de' Medici.
-> (black2006:1156)
+> Likewise, Pico's interest in kabbalah one of the factors in the Conclusiones scandal is largely overlooked.
+> (black2006:758)
 
 
-## black2006-a:048 (Crofton Black, assertive)
+## black2006-a:026 (Crofton Black, assertive)
 
-**Restatement:** Black argues that the Psalm expositions show Pico had enough Hebrew to draw on Jewish commentators for individual words in philological sections, but this does not necessarily imply he could read whole treatises by Recanati, Abulafia, Gikatilla or Alemanno.
+**Restatement:** Black says the Hebrew literary tradition presented Pico with both biblical exegesis and philosophy, and was one of his points of entry into the Arabic tradition, notably through otherwise untranslated works of or on Averroes.
 
-> The Expositiones in Psalmos demonstrate that Pico had sufficient knowledge of Hebrew to draw material from these commentators, as well as to indicate instances in which the Latin or Greek text departed from the Hebrew.
-> (black2006:1312)
-
-> This level of interest and knowledge does not necessarily imply the ability to read entire treatises by such writers as Recanati, Abulafia, Gikatilla and Alemanno, however.
-> (black2006:1323)
+> The Hebrew literary tradition presented Pico with works of biblical exegesis and with works of philosophy; in the latter case, it represented one of his points of entry into the Arabic tradition as well, especially through several otherwise untranslated works of or on Averroes.
+> (black2006:762)
 
 
-## black2006-a:054 (Crofton Black, assertive)
+## black2006-a:030 (Crofton Black, assertive)
 
-**Restatement:** The Heptaplus is titled as a sevenfold narration of the six days of Genesis for Lorenzo de' Medici; Roberto Salviati saw it into print at his own expense in a dedicatory epistle calling the subject physical and divine mysteries.
+**Restatement:** Delmedigo's letter to Pico lists under 'Kabbalah' the Zohar, a work by Recanati, Gikatilla's Sha'arei orah, and other works, adding that he cannot recall further names.
 
-> The full title is 'Heptaplus: On the Sevenfold Narration of the Six Days of Genesis, for Lorenzo de' Medici'. In a brief dedicatory epistle, Roberto Salviati, the Florentine humanist who undertook the printing and distribution of the work, describes these 'first fruits' of Pico as 'most excellent, not just in my judgement, but in the judgement of everyone'; for this reason, he has printed an 'accurate impression' at his own expense. The subject of the book, according to Salviati, is 'physical and divine mysteries'.
-> (black2006:1492)
-
-
-## black2006-a:055 (Crofton Black, speculative)
-
-**Restatement:** Black suggests that describing the Heptaplus as Pico's first fruits perhaps shows a deliberate wish to overlook the recent scandal.
-
-> The description of the Heptaplus as representing the 'first fruits' of Pico's studies perhaps betrays a deliberate desire to overlook the recent scandal.
-> (black2006:1526)
+> The right-hand column contains a list entitled 'Kabbalah': Delmedigo notes the existence of the Zohar, the Me'irat einayim (probably referring to a commentary on Nahmanides by Isaac of Acre, late-thirteenth to mid-fourteenth centuries), the Sha'arei orah of Joseph Gikatilla (1248 - c. 1325), Recanati, the Ma'arekhet ha-elohut
+> (black2006:904)
 
 
-## black2006-a:057 (Crofton Black, assertive)
+## black2006-a:035 (Crofton Black, assertive)
 
-**Restatement:** Black summarises the second proem as describing a theory of allegory related to a cosmic model of three worlds, the sublunary, the celestial and the angelic or intellectual, each of the seven expositions except the last treating an aspect of these worlds separately or in combination, in seven chapters each.
+**Restatement:** Around 1486 Mithridates translated for Pico a substantial corpus of Hebrew texts into Latin, of which the surviving part amounts to over 3,500 pages in five Vatican manuscripts.
 
-> The second proem describes his theory of allegory. It is related to a cosmic model according to which the created universe is composed of three worlds: the sublunary, the celestial and the angelic or intellectual. Each of the seven expositions (with the exception of the last, which discusses
-> (black2006:1509)
-
-> man's felicitas) will address an aspect of these worlds: either separately or in combination. Each of these expositions, in turn, is to have seven chapters.
-> (black2006:1537)
+> Documentation of their working relationship begins in 1486. Around this time, as has already been mentioned, Mithridates translated a substantial corpus of Hebrew texts into Latin specifically for Pico. Some of these are no longer extant. What survives, in five manuscripts held in the Vatican library, amounts to over 3,500 pages.
+> (black2006:1011)
 
 
-## black2006-a:059 (Crofton Black, assertive)
+## black2006-a:041 (Crofton Black, hedged)
 
-**Restatement:** At the start of each exposition Pico defines a body of knowledge, such as Aristotelian physics or the angelic metaphysics of Pseudo-Dionysius, and then derives information about it from the Genesis narrative by allegorical reading.
+**Restatement:** Pico's association with Mithridates apparently ended before March 1489 for reasons that remain unclear.
 
-> At the start of each exposition Pico defines a certain body of knowledge: Aristotelian physics, for example, or the angelic metaphysics of Pseudo-Dionysius the Areopagite. He then proceeds to derive information concerning this body of knowledge from the Genesis narrative, by a process of allegorical reading.
-> (black2006:1546)
+> Some time before March 1489, Pico's association with Mithridates apparently came to an end, for reasons that remain unclear.
+> (black2006:1105)
+
+
+## black2006-a:052 (Crofton Black, hedged)
+
+**Restatement:** Black concludes that, given the limits of the evidence, one cannot assume Pico could read complete kabbalistic treatises unaided even in 1489; he was a pioneer in his area of interest, kabbalah, rather than in linguistic ability, and approached it through the translated corpus and oral contact.
+
+> On balance, given these limitations, we cannot assume that, even in 1489, he would have been able to read complete kabbalistic treatises unaided
+> (black2006:1435)
+
+> While I by no means wish to rob Pico of his status as a pioneer among Christian Hebraists, I believe that he is a pioneer in his particular area of interest kabbalah rather than in his linguistic ability; and this area of interest he approached first and foremost through the translated corpus and oral contact.
+> (black2006:1458)
 
 
 ## black2006-a:060 (Crofton Black, assertive)
 
-**Restatement:** The frame of reference of the first exposition is natural philosophy and the world of generation and corruption; it opens with Aristotelian physics, not with the Bible.
+**Restatement:** The frame of reference of the first exposition is natural philosophy and the world of generation and corruption; it opens with the doctrines of natural philosophers, not with the Bible.
 
 > The frame of reference of the first exposition is natural philosophy and the world of generation and corruption. It begins, not with a discussion of the words 'in principio creavit', nor even with the Bible at all, but with a summary of the doctrines of 'the natural philosophers who discuss the nature of corruptible things'.
 > (black2006:1561)
@@ -146,73 +113,161 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (black2006:1909)
 
 
-## black2006-a:067 (Crofton Black, assertive)
+## black2006-a:081 (Crofton Black, assertive)
 
-**Restatement:** Black notes that Pico says he follows the footsteps of Dionysius, or rather of Paul and Hierotheus whom Dionysius followed, and that the existence of Hierotheus, whom Pseudo-Dionysius calls his teacher, has been doubted.
+**Restatement:** Black says the Spirit of God moving over the upper waters is identified in the fourth exposition with a greater and more divine intellect that illuminates the human intellect; Pico leaves open whether this is God or a mind close and akin to man.
 
-> Interea, Dionysii vestigiis insistentes, aut Pauli potius et Hierothei, quos ille est sequutus, conabimur tenebris legis
-> (black2006:2045)
+> The Spirit of God, which moves over the upper waters, is identified with 'a greater and more divine intellect' which illuminates the human intellect.
+> (black2006:2230)
 
-> Pseudo-Dionysius refers to his 'teacher', Hierotheus, on several occasions, although the existence of this person has been doubted.
-> (black2006:2047)
+> Intellectum enim, qui est in nobis, illustrat maior atque adeo divinus intellectus sive sit Deus (ut quidam volunt), sive proxima homini et cognata mens, ut fere omnes Graeci, ut Arabes, ut Hebraeorum plurimi volunt.
+> (black2006:2262)
 
 - warrant [scholar_evidence]: Pico's Latin as quoted by Black in a footnote.
 
-## black2006-a:083 (Crofton Black, assertive)
+## black2006-a:082 (Crofton Black, assertive)
 
-**Restatement:** Black says that at the start of the Fifth Exposition Pico dedicates the first day's section to the angelic world and the other parts to the other worlds in succession, and that the first four expositions gave self-contained bodies of knowledge whereas the fifth turns to the vertical hierarchy of the cosmos as a whole, the golden chain of Homer.
+**Restatement:** Black says that in the fourth chapter of the Fourth Exposition Pico refers to a great controversy with unnamed recent philosophers, denying that sun and moon stand for the actual and potential intellect, and takes them to name two aspects of the one human intellect, turned up toward the greater intellect or down toward the sensual powers.
 
-> At the outset of the fifth exposition, Pico writes that he will now dedicate the first 'particula' (in other words, the section concerned with the account of the first day) to the first world (that is, the angelic) and the other parts to the other worlds, in succession. The first four expositions presented self-contained bodies of knowledge drawn from the three worlds and man and including physics, astronomy, metaphysics and psychology.
-> (black2006:2343)
+> In the fourth chapter Pico discusses 'rational nature' in more detail. Referring obscurely to a 'great controversy' between himself and certain unnamed 'recent philosophers', he denies the possibility that the sun represents the 'intellect which is in actuality', and the moon, the 'potential intellect'. Rather, he takes the two appellations to refer to a double aspect of the one human intellect: it can either turn upwards, towards the 'greater intellect' (previously identified
+> (black2006:2239)
 
-> In other words, he will now focus on the vertical hierarchy of the cosmos as a whole.
-> (black2006:2352)
-
-
-## black2006-a:086 (Crofton Black, assertive)
-
-**Restatement:** Pico argues that man's likeness to God cannot rest on the action of mind, because in that respect angels have a closer affinity to God than man does.
-
-> Firstly, he rejects the notion that God and man share physical form; secondly, he argues that their similarity cannot be predicated on the action of mind, since in this sense there is a closer affinity between angels and God than between man and God.
-> (black2006:2441)
-
-- warrant [scholar_evidence]: Pico's Latin as quoted by Black: the traits of mind are the more excellent in angels and closer to the divine nature.
-
-## black2006-a:087 (Crofton Black, assertive)
-
-**Restatement:** Black says Pico locates the unique affinity of man and God in the way man's substance itself holds the substances of all natures, unlike angels and other intelligent creatures, which contain things only accidentally by knowing them.
-
-> Instead, he concludes that the unique affinity between man and God derives from the way in which man's 'substance' has bound up within it, in itself ('re ipsa') 'the substances of all natures and the fullness of the entire universe'. By 'in itself' he means to distinguish this essential quality of man from the accidental way in which angels and other intelligent creatures can be said to 'contain' things when they manage to 'know' them.
-> (black2006:2445)
+> with the 'Spiritus Domini'), or downwards, towards the 'sensual powers'.
+> (black2006:2279)
 
 
-## black2006-a:088 (Crofton Black, assertive)
+## black2006-a:099 (Crofton Black, assertive)
 
-**Restatement:** Black says God contains all things as their principium and in better quality than in themselves, while man contains them as their medium, holding higher things in an inferior quality and lower things in a superior one.
+**Restatement:** Black says the Seventh Exposition presents the progress to supernatural felicitas as a journey of all humanity through sacred history, its central fourth chapter arguing from Jewish sources that Christ is the Messiah.
 
-> The difference in how they do this is that God contains all things through being their principium, man through being their medium; God contains all things but of better quality than they are in themselves, whereas man contains
-> (black2006:2453)
+> Within the remainder of the seventh exposition, however, the progression to supernatural felicitas is presented not in terms of a single individual's attainment but in terms of the whole of humanity. It is articulated as a journey through sacred history.
+> (black2006:2878)
 
-> things that are higher on the chain of being than himself in an inferior quality, and things that are lower on it than he is, in a superior one.
-> (black2006:2493)
-
-
-## black2006-a:092 (Crofton Black, assertive)
-
-**Restatement:** Black says the Sixth Exposition is built on the notion of 'copulare', the first part concerning knowledge and the second morality, a connection he takes up in Chapter 6.
-
-> The last sentence explains the rationale underlying the double nature of this exposition. The two interpretations each revolve around the notion of 'copulare'. The former aspect concerns knowledge; the latter, morality.
-> (black2006:2597)
+> The central chapter of this exposition, the fourth, is taken up with the demonstration that Christ is the Messiah, based on a polemical reading of Jewish sources.
+> (black2006:2920)
 
 
-## black2006-a:108 (Crofton Black, hedged)
+## black2006-a:100 (Crofton Black, assertive)
 
-**Restatement:** Black thinks Pico's Apologia matching of Jewish terms to senses contains a mistake, since Sechel as practised by Gersonides, Maimonides and Ibn Ezra would more accurately be the allegorical and Midras the tropological, perhaps from haste in writing the Apologia.
+**Restatement:** Black says the final section of the Heptaplus returns to the word bereshit and abandons allegory for a technique of letter combination derived from kabbalistic exegetical works, producing a sentence that summarises the Heptaplus and confirms Pico's claim that everything can be found in Moses's text.
 
-> There seems to be a mistake in Pico's attributions here. 'Sechel' as practised by Gersonides, Maimonides and Abraham ibn Ezra he equates with the tropological method whereas it would more accurately be the allegorical; and 'midras', which he equates with the allegorical, should rather be the tropological.
-> (black2006:3433)
+> At this point the main body of the Heptaplus is complete. There follows, however, a final section in which Pico returns to the first word of the Bible bereshit in Hebrew which he has until now neglected. He also turns away from the allegorical method which he has applied to the preceding seven expositions to 'another method of interpretation'.
+> (black2006:2934)
 
-> The mistake here may merely be due to Pico's haste in writing the Apologia.
-> (black2006:3440)
+> For now, it must suffice to say that he adopts a technique of letter combination, derived from his reading of kabbalistic exegetical works, and uses it to construct a series of words from the single term bereshit. These words, put in order, produce a sentence which summarizes the Heptaplus as a whole. It is therefore further confirmation of his initial claim that everything can be discovered in Moses's text.
+> (black2006:2939)
+
+
+## black2006-a:105 (Crofton Black, assertive)
+
+**Restatement:** Black observes that Nicholas of Lyra's stricter definition of the spiritual senses was copied almost verbatim from Aquinas at the start of the Summa theologiae, which the quoted passage grounds partly in Dionysius on the new law as figure of future glory.
+
+> Nor did the stricter definition given in the Postilla originate from the pen of Nicholas of Lyra: he copied, almost
+> (black2006:3156)
+
+> verbatim, the discussion of the same matter given by Thomas Aquinas at the beginning of the Summa theologiae.
+> (black2006:3191)
+
+> ut dicit Dionysius in Ecclesiastica Hierarchia, est figura futurae gloriae
+> (black2006:3214)
+
+- warrant [scholar_evidence]: Aquinas's Latin as quoted by Black cites Dionysius in the Ecclesiastical Hierarchy for the new law as figure of future glory.
+
+## black2006-a:107 (Crofton Black, assertive)
+
+**Restatement:** Black argues that aligning the fourfold methods of the two traditions was meant to make kabbalah less alien to Christian readers, so that Pico's argument depends on readers taking the fourfold method as the norm.
+
+> two traditions was intended to make kabbalah appear less alien to Christian readers by inserting it into a recognizable framework; as such, Pico's argument depends on the reader perceiving the fourfold method as the norm.
+> (black2006:3400)
+
+
+## black2006-a:110 (Crofton Black, assertive)
+
+**Restatement:** Black sums up that the survey presents the norms for biblical interpretation in the late fifteenth century, against which Pico's own comment on which authors bear on the Genesis narrative is largely antithetical.
+
+> This survey of texts and methods presents the norms for biblical interpretation in the late fifteenth century. A largely antithetical perspective is to be found in Pico's own comment regarding which authors he considered to be of relevance to an analysis of the Genesis narrative.
+> (black2006:3746)
+
+
+## black2006-a:111 (Crofton Black, assertive)
+
+**Restatement:** Black says that in the first proem Pico, to substantiate the claim that his method is new, lists authorities he will not imitate, and that this list shows what Pico himself regarded as significant in biblical commentary.
+
+> Before telling his readers what the Heptaplus is, Pico informs them of what it is not. He claims that his method of interpretation is new. To substantiate this claim, he gives a list of authorities 'robust minds' in the field of biblical commentary whose work he will not imitate and whose methods he will not follow.
+> (black2006:3766)
+
+> Let us rather, beyond all these, contribute seven other expositions, the product of our own invention and reflection.
+> (black2006:3788)
+
+
+## black2006-a:114 (Crofton Black, assertive)
+
+**Restatement:** Black notes that both Albertus and Aegidius figure in the Conclusiones, Aegidius with eleven conclusions and Albertus with sixteen.
+
+> Both Albertus and Aegidius figure in Pico's Conclusiones, Aegidius with eleven conclusions and Albertus with sixteen.
+> (black2006:3877)
+
+
+## black2006-a:116 (Crofton Black, assertive)
+
+**Restatement:** Black argues that for the indirectly transmitted Greek names Pico's only access must have been through the Genesis catena, and that Pico's mentioning an author does not imply that the author's works were directly available to him.
+
+> Pico's only access to this material must therefore have been through the catena, several manuscripts of which were to be found in the Vatican.
+> (black2006:4020)
+
+> As in the case of Didymus, Pico's mention of an author does not imply that his works were directly available to him.
+> (black2006:4042)
+
+
+## black2006-a:121 (Crofton Black, hedged)
+
+**Restatement:** Black argues that Pico's 'Simeon' the Chaldean is Simeon bar Yohai but that what lies behind the reference is the Zohar, attributed to him.
+
+> Given that 'Simeon', too, is a 'Chaldean', it is likely that Pico was referring to the Palestinian Simeon bar Yo .hai
+> (black2006:4179)
+
+> but, in fact, what lies behind this reference is the Zohar, written in Aramaic in the thirteenth century and attributed to Simeon bar Yo .hai.
+> (black2006:4181)
+
+
+## black2006-a:125 (Crofton Black, hedged)
+
+**Restatement:** Black says Pico owned a printed Nahmanides Pentateuch commentary and mentions Nahmanides in the Apologia, the Psalms expositions and the Heptaplus, but the Heptaplus reference could have come from Recanati's quotation of him, so it is unclear how much Pico read Nahmanides.
+
+> Nahmanides wrote a well-known commentary on the Pentateuch, a printed edition of which was in Pico's library.
+> (black2006:4245)
+
+> Pico mentions Nahmanides once in the Apologia and once in the Expositiones in Psalmos. He also cites him in the Heptaplus. Here, however, the reference could equally have come from Recanati's quotation of Nahmanides in his commentary on the Pentateuch. Pending further analysis, it is not yet clear to what extent Pico actually read Nahmanides.
+> (black2006:4286)
+
+
+## black2006-a:126 (Crofton Black, assertive)
+
+**Restatement:** Black says Gersonides exercised an undeniable influence on Pico's concept of exegesis, seen in the Job manuscript and in Pico's annotated Mithridates translation of Gersonides on the Song of Songs, though it is unclear that Pico read Gersonides on the Pentateuch.
+
+> Levi ben Gershom (otherwise known as Gersonides), on the other hand, exercised an undeniable influence on Pico's concept of exegesis. In the first place, this is evident from Pico's Job manuscript, which bears the imprint of Gersonides's own commentary on Job. In the second place, Pico owned and annotated a translation made for him by Mithridates of Gersonides's commentary on the Song of Songs.
+> (black2006:4292)
+
+> As with Nahmanides, however, it is not clear that Pico actually read Gersonides's commentary on the Pentateuch, although he did own a printed copy of it.
+> (black2006:4300)
+
+
+## black2006-a:129 (Crofton Black, hedged)
+
+**Restatement:** Black says 'Neonias' probably refers to Nehunya ben Ha-Kanah, to whom the Bahir was attributed; the Bahir opens with a quotation from him, Pico read it in Mithridates's version and used it in the Conclusiones.
+
+> It is harder to say what context lies behind the names of the 'ancient' commentators, Eleazarus, Aba, Ioannes, Neonias, Isaac and Ioseph. 'Neonias' probably refers to Nehunya ben Ha-Kanah, to whom the Sefer Bahir was sometimes attributed. The Bahir starts with a quotation from him, spelt (in Mithridates's translation) 'Nehonias'. Pico read the Bahir in this version and used it in the Conclusiones.
+> (black2006:4393)
+
+
+## black2006-a:131 (Crofton Black, assertive)
+
+**Restatement:** Black argues that one essential function of Pico's list of rejected authorities is to impress the reader with his acquaintance with a wide range of commentaries, and that formulating the list negatively doubles its rhetorical impact.
+
+> What can we conclude from this analysis? Clearly, one essential function of the list is to impress the reader. While not neglecting a representative sample of canonical works, it serves to emphasize Pico's acquaintance with a remarkably wide range of commentaries.
+> (black2006:4435)
+
+> By formulating this list negatively, as comprising those authors whom he will not use, Pico doubles its rhetorical impact. The implication is that he was sufficiently learned not only to read these authors but also to proffer interpretations that they had missed.
+> (black2006:4441)
 
 

@@ -4,7 +4,7 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## black2006-c:001 (Crofton Black, assertive)
 
-**Restatement:** The tradition of commentary on Aristotle's two factors of the intellect reached no consensus on whether the active intellect is God, a transcendent entity between God and man, or an aspect of the human soul.
+**Restatement:** The tradition of commentary on the two factors of the intellect reached no consensus on whether the active intellect is God, a transcendent entity between God and man, or an aspect of the human soul.
 
 > no consensus was reached on whether the potential intellect was mortal or immortal, or on whether the active intellect was God himself, or a transcendent entity between God and man, or an aspect of the individual human soul
 > (black2006:9390)
@@ -12,10 +12,13 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## black2006-c:006 (Crofton Black, assertive)
 
-**Restatement:** Black argues that Pico's own stance on intellect was more nuanced than Ficino's remark suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.
+**Restatement:** Black argues that Pico's own stance on intellect was more nuanced than the preceding remark by Ficino suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.
 
 > Pico’s own position regarding these matters, however, was more nuanced than this remark might suggest, and represented (in the Heptaplus, at least) a concerted effort to maintain the idea of intellec- tual ascent without committing himself exclusively to any one camp
 > (black2006:9967)
+
+> Ficino, preface to Plotini Epitomae seu argumenta, commentaria et annotationes
+> (black2006:9985)
 
 
 ## black2006-c:009 (Crofton Black, assertive)
@@ -31,7 +34,7 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## black2006-c:010 (Crofton Black, assertive)
 
-**Restatement:** Black's translation of the Oratio has Pico say that if a man cultivates intellectual seeds he will be an angel and a son of God, and that if he withdraws into the centre of his unity he will stand before all things.
+**Restatement:** Black's translation of the Oration has Pico say that if a man cultivates intellectual seeds he will be an angel and a son of God, and that if he withdraws into the centre of his unity he will stand before all things.
 
 > If he cultivates intellectual ones, he will be an angel and a son of God. If, not content with the lot of any creature, he withdraws into the centre of his unity, having become one spirit with God, he will stand before all things
 > (black2006:10072)
@@ -41,13 +44,16 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 **Restatement:** Black says Pico takes the Cherubim as the exemplar for human life, and reads their Dionysian threefold process (cleansed, illuminated, perfected) as a method of intellectual ascent.
 
+> Pico urges his audience to approach the Cherubim ﬁrst, since they will provide the path to the others. They are the “exem- plar” on which human life should be formed.
+> (black2006:10110)
+
 > The example they provide is the method of intellectual ascent, which Pico interprets allegorically from a phrase of Pseudo-Dionysius: “they are cleansed, then illuminated, ﬁnally perfected”.
 > (black2006:10113)
 
 
 ## black2006-c:012 (Crofton Black, assertive)
 
-**Restatement:** Black reads the stages of the Oratio's ascent (moral science and dialectic, then natural philosophy, then divine things) as a hierarchical progression from morality through knowledge to religion, repeated in several analogies.
+**Restatement:** Black reads the stages of the Oration's ascent (moral science and dialectic, then natural philosophy, then divine things) as a hierarchical progression from morality through knowledge to religion, repeated in several analogies.
 
 > Illumi- nation then corresponds to knowledge of natural philosophy, and perfection to knowledge of “divine things”.
 > (black2006:10117)
@@ -59,6 +65,9 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 ## black2006-c:015 (Crofton Black, assertive)
 
 **Restatement:** Black says Pico reads Benivieni's last stanzas as a six-stage ascent from sense to conjunction with the first mind, and that Pico disagrees with the many Aristotelians who hold the universal concept to be the highest knowledge attainable while joined to the body.
+
+> Benivieni’s canzone relates the progress of the heart in search of love.
+> (black2006:10168)
 
 > This ascent is demarcated in six stages.
 > (black2006:10222)
@@ -120,6 +129,9 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 **Restatement:** Black holds that Moses applied the principle of mutual containment to his words, so that a single term such as terra can do the work of many, and that this allowed the knowledge of man, the three worlds and their connections to be encoded in a short text.
 
+> Moses, he says, was the foremost of all the ancient fathers.
+> (black2006:11180)
+
 > His special ability, as author of the Pentateuch, was to apply the principle of mutual containment to his words.
 > (black2006:11181)
 
@@ -153,6 +165,9 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > it is appropriate that as a seventh and (so to speak) sabbatical narration, we should now brieﬂy touch on the felicitas of created beings, and of their return to God
 > (black2006:11643)
 
+> unlocking what Moses, in the present Scripture, very openly hid concerning these matters, so that it may happen that this very explicit prophecy of the advent of Christ, the advancement of the Church and the conversion of the Gentiles is plainly read.
+> (black2006:11645)
+
 
 ## black2006-c:074 (Crofton Black, assertive)
 
@@ -184,6 +199,9 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 ## black2006-c:102 (Crofton Black, assertive)
 
 **Restatement:** Black argues that Moses's text expresses the same concepts with very few forms, that is words, and so represents the simplicity of forms by which angels, and by extension prophets, understand things normally beyond human reach.
+
+> Pico’s project was to ﬁnd and interpret the ways in which this knowledge was encoded in Moses’s text.
+> (black2006:12233)
 
 > whereas average human understanding requires a large number of forms with which to understand concepts ‘discursively’
 > (black2006:12236)

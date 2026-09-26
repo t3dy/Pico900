@@ -10,6 +10,14 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:3797)
 
 
+## wallis1965-heptaplus:011 (Pico, assertive)
+
+**Restatement:** Pico says antiquity imagined three worlds: the ultramundane, which theologians call the angelic and philosophers the intelligible, the celestial, and the sublunary world we inhabit.
+
+> Antiquity imagined three worlds. Highest of all is that ultramundane one which theologians call the angelic and philosophers the intelligible, and of which, Plato says in the Phaedrus, no one has worthily sung. Next to this comes the celestial world, and last of all, this sublunary one which we inhabit.
+> (wallis1965:3848)
+
+
 ## wallis1965-heptaplus:015 (Pico, assertive)
 
 **Restatement:** Pico says Moses diagrammed the three worlds in the three parts of the tabernacle, the Holy of Holies with its winged cherubim being the angelic world.
@@ -38,14 +46,6 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:3953)
 
 
-## wallis1965-heptaplus:022 (Pico, assertive)
-
-**Restatement:** Pico says that in the first world God, the primal unity, presides over nine orders of angels and, without moving, moves all toward himself.
-
-> In the first world, God, the primal unity, presides over nine orders of angels as if over as many spheres and, without moving, moves all toward himself.
-> (wallis1965:3956)
-
-
 ## wallis1965-heptaplus:026 (Pico, assertive)
 
 **Restatement:** Pico says man is a fourth world containing what is in the rest, and that it is a school commonplace that man, the lesser world, includes reason, the angelic mind and the likeness of God.
@@ -67,7 +67,7 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## wallis1965-heptaplus:029 (Pico, assertive)
 
-**Restatement:** Pico says the seventh, sabbatical exposition treats the felicity of creatures and their return to God, and that the Mosaic text hides an explicit prophecy of Christ, the Church and the calling of the gentiles.
+**Restatement:** Pico says the seventh, sabbatical exposition treats the felicity of creatures and their return to God, and that the text hides an explicit prophecy of Christ, the Church and the calling of the gentiles.
 
 > it is fitting that after treating the orders of things proceeding from God and explaining their union and diversity and their bonds and habits, we should in a seventh, and as it were, sabbatical exposition, touch lightly on the felicity of creatures and their return to God
 > (wallis1965:4075)
@@ -78,7 +78,7 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 ## wallis1965-heptaplus:031 (Pico, assertive)
 
-**Restatement:** Pico says the work is not meant to teach those who have not learned these matters elsewhere, but to let readers recognise in Moses what they already know.
+**Restatement:** Pico says the work is not meant to teach those who have not learned these matters elsewhere, but to let readers recognise in the words of the Prophet what they already know.
 
 > it is not the purpose of this work that any who have not learned these things elsewhere should learn them here for the first time, but that they may recognize in the words of the Prophet what they already know
 > (wallis1965:4105)
@@ -95,23 +95,50 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:4226)
 
 
-## wallis1965-heptaplus:036 (Pico, assertive)
+## wallis1965-heptaplus:037 (Pico, assertive)
 
-**Restatement:** Pico reads heaven and earth in the first verse as the active and material causes, and says the Stoics called heaven the active cause and earth the material.
+**Restatement:** Pico appeals to the ancient Simeon as testimony that the ancient Hebrews, like Albert and many Peripatetics, held the Hebrew word bou to signify the rudiments of form in matter.
 
-> In the beginning, therefore, he sets up two causes, the active and the material, clearly that which is in act and that which is potentiality. He calls the former heaven and the latter earth
-> (wallis1965:4299)
+> Bou, on the other hand, by the force of the term, many explain as the rudiments and beginning of form.
+> (wallis1965:4327)
+
+> Not only did Albert and many of the Peripatetics believe this, but also the ancient Hebrews, as we see clearly from the testimony of the ancient Simeon.
+> (wallis1965:4332)
 
 
-## wallis1965-heptaplus:041 (Pico, assertive)
+## wallis1965-heptaplus:038 (Pico, assertive)
 
-**Restatement:** Pico says a third explanation for Moses' figurative terms is that with them the same words, context and order suit all the worlds, so that the book of Moses excels all others in doctrine and is new and untouched.
+**Restatement:** Pico says that in the myth the poets ascribe the unitary rule of Saturn to the union of the intelligible world enfolding all within itself, after which the sensible world was divided among Jove (celestial), Pluto (subterranean) and Neptune (the region between moon and earth).
 
-> Now we have occasion for a third explanation. If he had called matter and forms and qualities and active cause by their right names, they could have been of service in the discussion of the corruptible world, to be sure, but not in that of the others.
-> (wallis1965:4603)
+> the poets concealed philosophy under veils of myth, when after the unitary rule of Saturn (that is, the union of the intelligible world enfolding all within
+> (wallis1965:4429)
 
-> for symbolizing the secrets of all the worlds and of the whole of nature. It is in this respect that the book of Moses excels all other progeny of the human mind in doctrine, eloquence, and genius, and this is the new and hitherto untouched aspect which we have tried to present
-> (wallis1965:4617)
+> self) they divided the sensible world into three parts, ascribing the celestial region to Jove, the subterranean to Pluto, and this middle one between moon and earth, which we are now discussing, to Neptune, lord of the sea
+> (wallis1965:4442)
+
+
+## wallis1965-heptaplus:044 (Pico, assertive)
+
+**Restatement:** Pico reports that Isaac the philosopher takes the tenth sphere to be what Ezekiel called the sapphire in the likeness of a throne, its immobility being signified by the likeness to a throne.
+
+> This Isaac takes the tenth sphere to be what Ezekiel designated as the sapphire in the likeness of a throne, since the color of the sapphire signifies the splendor of its light, the likeness to a throne its immobility.
+> (wallis1965:4663)
+
+
+## wallis1965-heptaplus:050 (Pico, assertive)
+
+**Restatement:** Pico says that up to this point the Prophet has treated the heavens as luminous bodies and has said nothing of their intelligence or motive force, following the order of the Timaeus of body first and soul after.
+
+> Know, moreover, that thus far the heavens have been treated as luminous bodies and that nothing has been said by the Prophet of their intelligence or of their motive force, an order which the Timaeus also follows, first constructing the body and then adding the soul to the completed body.
+> (wallis1965:4884)
+
+
+## wallis1965-heptaplus:059 (Pico, assertive)
+
+**Restatement:** Pico says he decided to put off the Hebrew teaching because it is unfamiliar to the Latins and would require explaining nearly all the dogmas of the ancient Hebrew learning, which he will publish more fully elsewhere, examining how far they agree with Egyptian tradition, Plato and Catholic truth.
+
+> But since what is said by the Hebrews is unfamiliar to the Latins and could not easily be understood by our people unless, hatched from a twin egg, as they say, I explained nearly all of the dogmas of the ancient learning of the Hebrew people, I thought I ought to put it off until I have made these dogmas known to my countrymen by writing of them more fully elsewhere, examining how far they agree with the traditions of Egypt, the philosophy of Plato, and Catholic truth.
+> (wallis1965:5088)
 
 
 ## wallis1965-heptaplus:063 (Pico, assertive)
@@ -125,59 +152,48 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:5137)
 
 
-## wallis1965-heptaplus:070 (Pico, assertive)
+## wallis1965-heptaplus:064 (Pico, assertive)
 
-**Restatement:** Pico says an angel cannot fulfil understanding and contemplation unless surrounded by intelligible forms, and reads the deep as the angel's intellectual capacity, over which is the darkness until illuminated by spiritual concepts.
+**Restatement:** Pico argues that an angel is not unity itself, since then he would be God, and so is left to be a number, a number in one respect and a multiplicity in another.
 
-> An angel, from what we have said, has perfectly realized his own nature and intellectual qualities. Nevertheless, he does not have a way to fulfill his functions of understanding and contemplation unless he is first surrounded by God with intelligible forms.
-> (wallis1965:5193)
+> Therefore an angel is not unity itself, or else he would be God, or there would be many gods
+> (wallis1965:5140)
 
-> The deep is his intellectual capacity, penetrating and searching everything profound. Above this is the darkness, until it is illuminated by the rays of spiritual concepts by which he sees and contemplates everything.
-> (wallis1965:5198)
-
-
-## wallis1965-heptaplus:078 (Pico, assertive)
-
-**Restatement:** Pico reports the Damascene's opinion that the angel who sinned was one of the most contemptible kind, presiding over the terrestrial order, and says all the angels' care for lower things is subordinated to man's benefit.
-
-> The Damascene was also of this opinion, believing that the angel who sinned was one of those of the most contemptible kind who preside over the terrestrial order.
-> (wallis1965:5325)
-
-> Just as all things below man are considered in relation to him, so all the care, toil, and zeal of the angels for these things is chiefly subordinated to his benefit
-> (wallis1965:5327)
+> It is left for an angel to be a number. But if it is, it is a number in one aspect and one multiplicity in another.
+> (wallis1965:5148)
 
 
-## wallis1965-heptaplus:086 (Pico, assertive)
+## wallis1965-heptaplus:077 (Pico, assertive)
 
-**Restatement:** Pico says that above reason in man is intelligence, through which we share with the angels as we share through the senses with the brutes, so that we may say with John that our fellowship is with angels.
+**Restatement:** Pico says the angels are said to be gathered in one place only as rivers flow to the ocean, since different angels preside over different corporeal and non-human things, as Platonists and Christian philosophers, Augustine, Gregory and Origen hold.
 
-> since we share no less with the angels than with the brutes, just as below reason there are the senses through which we have fellowship with the animals, so above reason is the intelligence through which we are able to say with John, "our fellowship is with angels."
-> (wallis1965:5625)
+> Scarcely otherwise should we understand the angels which have charge of sublunary things. Different ones preside over different corporeal and non-human things, since, just like the Platonists, our philosophers also have believed that God placed various spiritual substances in authority over the various things in this corruptible world.
+> (wallis1965:5313)
 
+> Augustine also asserted, as Gregory later confirmed, that there is no visible thing among us over which an angelic power does not preside, and that all bodies are constantly ruled by a rational spirit of life.
+> (wallis1965:5318)
 
-## wallis1965-heptaplus:087 (Pico, assertive)
-
-**Restatement:** Pico says a greater, even divine, intellect illuminates the human intellect, which some hold to be God and almost all the Greeks and Arabs and many Hebrews a mind nearer to man's, and that the Jewish philosophers and Alfarabi called this substance the Spirit of the Lord.
-
-> Here an important doctrine about the soul is revealed to us. A greater, even divine, intellect illuminates the
-> (wallis1965:5647)
-
-> intellect in us, whether it be God (as some would have it) or a mind more nearly related to man's, as almost all the Greeks and Arabs and many of the Hebrews hold. This substance both the Jewish philosophers and Abunasar Alfarabi
-> (wallis1965:5655)
-
-> called the Spirit of the Lord in explicit terms
-> (wallis1965:5659)
+> Origen likewise, in his commentary on the book of Numbers, says that the world needs angels to preside over animals and their birth and also over the increase of bushes and plantings and other things
+> (wallis1965:5321)
 
 
-## wallis1965-heptaplus:091 (Pico, assertive)
+## wallis1965-heptaplus:079 (Pico, assertive)
 
-**Restatement:** Pico says the angelic nature is pure intellect and compares minds to eyes, which see by an inner light but need external light, so that the intellect needs forms and ideas as rays of invisible light.
+**Restatement:** Pico says the middle hierarchy administers heavenly matters, and that of the third hierarchy nothing more can be said beyond that it is above all active motion and given only to contemplation.
 
-> To speak of the angelic nature, which is pure intellect, let us first imagine that minds are like eyes.
-> (wallis1965:5911)
+> Now we are concerned with the middle one, to which is entrusted the administration of heavenly matters. We should not expect to treat similarly of the third, of which there is nothing to be said beyond what has been said, namely, that it is above the heavens, that is, above all active motion and above the administration of all worldly things, given only to contemplation.
+> (wallis1965:5374)
 
-> Intellects are eyes, intelligible truth is light, and the intellect, itself intelligible, has a kind of inner light by which it can see itself but not other things. It needs the forms and ideas of things, like rays of invisible light, for the intelligible truth to be clearly discerned.
-> (wallis1965:5924)
+
+## wallis1965-heptaplus:080 (Pico, assertive)
+
+**Restatement:** Pico says Moses' 'sun' and 'moon' are not the visible stars but the angelic powers which govern the sun and moon, and that these invisible angels illuminate an equally invisible earth, the substance of our souls.
+
+> In this place, however, let us not judge it extravagant nor foreign to the Holy Scriptures that Moses calls "sun" and "moon" not the stars which we see, but the angelic powers which govern the sun and moon.
+> (wallis1965:5381)
+
+> let us understand not the stars, but the angels presiding over the stars, who, since they are invisible themselves, illuminate an earth which is also invisible, namely, the substance of our souls.
+> (wallis1965:5398)
 
 
 ## wallis1965-heptaplus:093 (Pico, assertive)
@@ -194,17 +210,6 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:5951)
 
 
-## wallis1965-heptaplus:094 (Pico, assertive)
-
-**Restatement:** Pico says Moses divides the substance of the angels on the first day into heaven and earth, the nature of act and the nature of potency, from which God made the angels.
-
-> All that we have said, Moses explains to us on the first day. He divides the substance of the angels into heaven and earth, the nature of act and the nature of potency.
-> (wallis1965:5955)
-
-> God created heaven and earth, the nature of act and the nature of potency, from which he made the angels.
-> (wallis1965:5969)
-
-
 ## wallis1965-heptaplus:095 (Pico, assertive)
 
 **Restatement:** Pico says the Spirit of the Lord borne upon the waters is called the Father of Lights by James, from which the light of intelligible forms rises upon the angelic minds.
@@ -213,57 +218,52 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (wallis1965:5977)
 
 
-## wallis1965-heptaplus:100 (Pico, assertive)
+## wallis1965-heptaplus:096 (Pico, assertive)
 
-**Restatement:** Pico says man is not so much a fourth world as the bond and union of the three already described.
+**Restatement:** Pico says the heavens lie between the waters, meaning angelic and corruptible substances, in respect of their essence, and that there is one earth for the angels and another for the elements since the potency of the two differs.
 
-> Thus far we have dealt with three worlds: the supercelestial, the celestial, and the sublunary. Now we must deal with man, of whom it is written, "Let us make man to our image." Man is not so much a fourth world, like some new creature, as he is the bond and union of the three already described.
-> (wallis1965:6163)
+> Therefore the Prophet reveals to us his great knowledge of the nature of the heavens when he says that they are placed between the waters and the waters-that is, angelic and corruptible substances-in explanation not so much of their location as of their essence.
+> (wallis1965:5999)
 
-
-## wallis1965-heptaplus:108 (Pico, assertive)
-
-**Restatement:** Pico says the power of the Father distributes unity to all, the wisdom of the Son sets all in order and unites them, and the love of the Spirit turns everything toward God and attaches the whole work to its Maker.
-
-> The power of the Father, creating everything, distributes his own unity to all; the wisdom of the Son, setting all in order, unites them and ties them together; and the love of the Spirit, turning everything toward God, attaches the whole work to its Maker by the bond of charity.
-> (wallis1965:6344)
+> Just as there is one earth for the angels and another of the elements, since the potency of the two is different
+> (wallis1965:6005)
 
 
-## wallis1965-heptaplus:109 (Pico, hedged)
+## wallis1965-heptaplus:097 (Pico, assertive)
 
-**Restatement:** Pico says that the threefold unity in creatures, as a sign of the Trinity, has so far as he knows not been brought up by anyone before.
+**Restatement:** Pico says that the astrologers draw support for their science of divining by the stars from the statement that the stars were made for signs, and that it has been sharply criticised by Christians such as Basil.
 
-> There are many signs of the Holy Trinity in the creation. We shall here take up only one of these, which as far as I know has not hitherto been brought up by anyone
-> (wallis1965:6329)
+> This point would require conversation with the astrologers, who, from Moses' statement that God placed the stars for signs, draw support for their science of divining by the stars and of foreknowing future events.
+> (wallis1965:6086)
 
-
-## wallis1965-heptaplus:111 (Pico, assertive)
-
-**Restatement:** Pico says the Spirit of God is joined to bodies only as art in the mind of an architect is joined to mortar, wood and stone, being a spiritual nature wholly disjoined from traffic with the body, and that in us heaven is the soul and the Spirit of God the intellect.
-
-> The creative wisdom of the Lord, and the spiritual nature wholly disjoined from traffic with the body, are understood to be joined to bodies only as art, which is in the mind of the architect, is joined to mortar, wood, and stone.
-> (wallis1965:6423)
-
-> Heaven is the soul, the source of that light, and the Spirit of God
-> (wallis1965:6437)
-
-> is the intellect, the light of the divine countenance.
-> (wallis1965:6442)
+> This science not only has been sharply criticized by Christians like Basil, who rightly called it a busy deceit
+> (wallis1965:6089)
 
 
-## wallis1965-heptaplus:117 (Pico, assertive)
+## wallis1965-heptaplus:106 (Pico, assertive)
 
-**Restatement:** Pico says the philosophers who spoke only of natural felicity ascribe to the angels no knowledge of God beyond that by which the angels know themselves, so that they understand God only as his nature is manifest in their own substance.
+**Restatement:** Pico says there are hangmen and lictors in the commonwealth of God, evil demons sentenced to this basest of professions as punishment for their ancient sins.
 
-> In fact, even to the angels, whom they call minds and intellects, and whose supreme perfection they acknowledge because the angels understand God, they ascribe no further knowledge of God than that by which angels know themselves, so that the angels understand God only so far as His nature is made manifest in their own substance.
-> (wallis1965:6733)
+> There are hangmen and lictors in this commonwealth of God, evil demons sentenced to this basest of professions as punishment for their ancient sins.
+> (wallis1965:6287)
 
 
-## wallis1965-heptaplus:130 (Pico, assertive)
+## wallis1965-heptaplus:113 (Pico, assertive)
 
-**Restatement:** Pico gives as the resulting reading that the Father, in the Son and through the Son, the beginning and end or rest, created the head, the fire and the foundation of the great man with a good pact.
+**Restatement:** Pico says the mean is not of the same essence as the extremes but is somehow compounded from them so that it may communicate with both, and that Moses shows this by placing the firmament between the waters.
 
-> If we fit the whole passage together following this order, it will read like this: "The father, in the Son and through the Son, the beginning and end or rest, created the head, the fire, and the foundation of the great man with a good pact."
-> (wallis1965:7669)
+> But the mean is not of the same essence as the extremes, but, somehow compounded from them, it differs from both so that it may communicate with both, Moses indicates this to us when he places the firmament between the waters, dividing the waters above the heavens from the waters below the heavens.
+> (wallis1965:6498)
+
+
+## wallis1965-heptaplus:120 (Pico, assertive)
+
+**Restatement:** Pico says the angels can be raised to the true felicity, the contemplation of the face of God, but cannot ascend to it, Lucifer having sinned in saying he would ascend, and that men can be drawn but not go, the drawing power being called grace, which makes men and angels pleasing to God.
+
+> The true and perfect felicity, however, carries us back to the contemplation of the face of God, which is the whole of the good, as He himself said, and leads us to perfect union with the beginning from which we sprang. The angels can be raised to this, but they cannot ascend to it; thus Lucifer sinned in saying "I will ascend into heaven."
+> (wallis1965:6791)
+
+> These rays, this divine power, this influence, we call grace, since it makes men and angels pleasing to God.
+> (wallis1965:6805)
 
 

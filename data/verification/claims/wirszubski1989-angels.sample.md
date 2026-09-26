@@ -11,80 +11,95 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 - warrant [scholar_evidence]: Wirszubski prints the Latin of Axelrad's list of ten grades, whose tenth is not a hierarchy
 
-## wirszubski1989-angels:009 (Chaim Wirszubski, hedged)
+## wirszubski1989-angels:003 (Chaim Wirszubski, hedged)
 
-**Restatement:** Wirszubski states that in terms of Kabbala the intelligible and angelic forms of Pico's 4 Ezra formula are the sefirot, and proposes as a working hypothesis that Pico's metaphysica formalis means the same as the metaphysics of intelligible and angelic forms.
+**Restatement:** Wirszubski adds that Axelrad's source accounts for Pico's notion that there are nine angelic hierarchies according to the secret doctrine of the Hebrew Cabalists, just as Dionysius Areopagita has nine celestial hierarchies.
 
-> In his Oration and Apology, Pico interpreted 4 Ezra 14:47 to the effect that the divinely revealed Kabbala comprised three things: "ineffabilem de supersubstantiali deitate theologiam," "de intelligibilibus angelicisque formis exactam metaphysicam," and "de rebus naturalibus firmissimam philosophiam."
-> (wirszubski1989:7135)
-
-> would suggest, as a working hypothesis at any rate, that theologia inferior was conceived of by Pico in contradistinction to ineffabilis de supersubstantiali deitate theologia, and that metaphysica formalis was meant to denote the same thing as de intelligibilibus angelicisque formis exacta metaphysica.
-> (wirszubski1989:7140)
-
-> But intelligible and angelic forms are, in terms of Kabbala, the sefirot.
-> (wirszubski1989:7145)
+> the Corona Nominis Boni is the likeliest direct source of Pico's thesis, the different order of the names notwithstanding, because it accounts for Pico's notion that there are nine angelic hierarchies secundum secretam doctrinam sapientum Hebraeorum Cabalistarum (just as there are nine celestial hierarchies in Dionysius Areopagita).
+> (wirszubski1989:1344)
 
 
-## wirszubski1989-angels:013 (Chaim Wirszubski, hedged)
+## wirszubski1989-angels:012 (Chaim Wirszubski, hedged)
 
-**Restatement:** Wirszubski holds that in the Apology Pico could not state his views clearly, and that the doctrine of the ten sefirot, unlike the art of combining letters, is clearly involved in Pico's Kabbalistic confirmation of Christianity.
+**Restatement:** Wirszubski identifies the Apology's unnamed science 'de virtutibus rerum superiorum quae sunt supra lunam' with the doctrine of the ten sefirot, on the ground that the forty-eighth Kabbalistic thesis outlines the correspondence between the ten sefirot and the ten spheres.
 
-> The reason, I think, is that in his Apology Pico could not state his views clearly and candidly, even if he would.
-> (wirszubski1989:7363)
+> The second, unnamed science can be identified. In the forty-eighth Kabbalistic thesis secundum opinionem propriam, Pico outlined the complete correspondence between the ten sefirot and the ten spheres.
+> (wirszubski1989:7315)
 
-> there is an obvious difference, from Pico's point of view, between the art of combining letters and the doctrine of the ten sefirot: the latter, quite unlike alphabetaria revolutio or ars combinandi, is clearly involved in Pico's Kabbalistic confirmation of Christianity.
-> (wirszubski1989:7390)
-
-
-## wirszubski1989-angels:020 (Chaim Wirszubski, assertive)
-
-**Restatement:** Wirszubski says the Kabbalists did embrace the allegorical interpretation of the Death of the Kiss as the adherence of the soul to God, but were not its originators: it began with Maimonides and was from the start linked with the allegorical reading of the Song of Solomon.
-
-> Since the allegorical interpretation of the Death of the Kiss as the adherence of the human soul to God was attributed by Pico to the Kabbalists, I had better say at once that the Kabbalists did in fact embrace this interpretation, but they were not its originators. It began with Maimonides, and right from the beginning it was connected with the allegorical interpretation of the Song of Solomon.
-> (wirszubski1989:7852)
+> Hence I conclude that the science "de virtutibus rerum superiorum quae sunt supra lunam" is the equivalent or counterpart of the doctrine of the ten sefirot.
+> (wirszubski1989:7339)
 
 
-## wirszubski1989-angels:023 (Chaim Wirszubski, assertive)
+## wirszubski1989-angels:014 (Chaim Wirszubski, assertive)
 
-**Restatement:** Wirszubski traces Pico's remark that Solomon states in the first verse the whole intention of the Song to the Maimunist commentators, and says Pico certainly read one of them, Levi ben Gershom, whose Latin translation of the commentary on Canticles by Mithridates is annotated throughout in Pico's own hand.
+**Restatement:** Wirszubski quotes Pico's text in which the Kabbalist books are said to contain a doctrine of the orders of the angels of the same kind as is read in Paul and Dionysius; he does not endorse it, but uses it to show how Pico presented Kabbala as confirming Christianity.
 
-> The first is to be found in all sorts of books, beginning with the Guide of the Perplexed. The other I have not yet seen in any of the Kabbalistic books that Pico can be shown to have read in 1486. This is not at all surprising, because the second statement is the opinion of the Maimunist commentators of the Song of Solomon. Pico certainly read one of them, Levi ben Gershom: Cardinal Mercati noticed long ago that the extant manuscript of the Latin translation of Levi ben Gershom's commentary on Canticles is annotated throughout in Pico's own hand.
-> (wirszubski1989:8004)
-
-
-## wirszubski1989-angels:029 (Chaim Wirszubski, hedged)
-
-**Restatement:** Wirszubski judges it likely that the link between puer and intellectus in Pico's thirteenth Zoroastrian thesis is the angel Metatron, who is called na'ar (puer) and is sometimes identified with the Active Intellect, and that Pico met Metatron in his Kabbalistic books, without saying Metatron is a specifically Kabbalistic figure.
-
-> I do not know in what context puer was used by the interpreters of Zoroaster's sayings. Nevertheless, the chances are that the connecting link between puer and intellectus is the angel Metatron, who is called na'ar (puer) and is sometimes identified with the Active Intellect. I am not suggesting that Metatron is a specifically Kabbalistic figure. But it seems to me the likeliest hypothesis that Pico encountered Metatron in his Kabbalistic books.
-> (wirszubski1989:9847)
+> Hos ego libros, non mediocri impensa mihi cum comparassem, summa diligentia, indefessis laboribus cum perlegissem, uidi in illis (testis est Deus) religionem non tarn Mosaicam, quam Christianam, ibi trinitatis mysterium, ibi uerbi incarnatio, ibi Messiae diuinitas, ibi de peccato originali, de illius per Christum expiatione, de coelesti Hierusalem, de casu daemonum, de ordinibus angelorum, de purgatoriis, de inferorum poenis eadem legi quae apud Paulum et Dionysium,apud Hieronymum et Augustinum quotidie legimus.
+> (wirszubski1989:6745)
 
 
-## wirszubski1989-angels:036 (Chaim Wirszubski, hedged)
+## wirszubski1989-angels:035 (Chaim Wirszubski, assertive)
 
-**Restatement:** Wirszubski gives the printed-edition reading and the editio princeps blank for the Oration's Enoch passage, holds that the printed Hebrew phrase may well be a translation of angelus divinitatis, and states that he prefers the manuscript reading because Pico's Commento warrants its authenticity.
+**Restatement:** Wirszubski says the transformation of Enoch into Metatron is mentioned also in Pico's Oration, though the printed editions obscure it, and quotes the reading of the only known manuscript, Cod. Palatinus 885.
 
-> Asterisks are printed in Garin's edition (see note 44) instead of the name jnoun (Metatron). A blank space was left in the corresponding passage of the Oratio in the editio princeps.
-> (wirszubski1989:10265)
+> The transformation of Enoch into Metatron is mentioned also in Pico's Oration. Since this fact is inadvertently obscured by the text of the printed editions, it will be useful to quote the only known manuscript, Biblioteca Nazionale Centrale, Florence, Cod. Palatinus 885, fol. 145r:
+> (wirszubski1989:10235)
 
-> The reading in the best-known editions of Pico's Opera Omnia (Basle, 1557, p. 315 and 1572) is "nunc Enoch sanctum in angelum diuinitatis quem uocant
-> (wirszubski1989:10269)
-
-> may well be a translation of angelus divinitatis. At any rate, I prefer the reading of the manuscript not because it is manuscript, but because Pico's Commento warrants the authenticity of that reading.
-> (wirszubski1989:10271)
+> Nam et hebreorum theologia secretior nunc Enoch sanctum in [ed. Garin; me cod.] angelum diuinitatis quern uocant
+> (wirszubski1989:10240)
 
 
-## wirszubski1989-angels:041 (Chaim Wirszubski, assertive)
+## wirszubski1989-angels:037 (Chaim Wirszubski, hedged)
 
-**Restatement:** Wirszubski says Pico's sixty-sixth Kabbalistic thesis maps the parts of the human soul onto the ten sefirot, and that the ten avengers 'within us' of the Hermetic thesis are its counterpart.
+**Restatement:** Wirszubski says Metatron is sometimes identified, notably by Abulafia, with the Active Intellect and is also called son, and on that basis suggests that the tenth Kabbalistic thesis should read the Hebrew name of Metatron in the blank, concluding that Pico used Metatron both to show correspondences between Kabbala and the ancient theology of the Gentiles and to draw a dividing line between Christianity and that theology.
 
-> The ten avengers are "within us" ("decern intra unumquemque sunt ultores" states the previous thesis). Consequently, the correspondence
-> (wirszubski1989:9595)
+> Metatron is sometimes identified, notably by Abulafia, with the Active Intellect, and is also called son. I would therefore suggest that the beginning of Pico's tenth Kabbalistic thesis ought to be printed as follows:
+> (wirszubski1989:10244)
 
-> between the vices and the mala coordinatio denaria is the counterpart of Pico's view of the correspondence between the human soul and the ten sefirot, which is outlined in the sixty-sixth Kabbalistic thesis:
-> (wirszubski1989:9624)
+> The corollary of this text is that Pico used the figure of Metatron not only in order to point out correspondences between Kabbala andpriscagentilium theologia but also in order to draw a dividing line between Christianity and the Ancient Theology of the Gentiles.
+> (wirszubski1989:10247)
 
-> Ego animam nostram sic decern Sephirot adapto, ut per unitatem suam sit cum prima, per intellectum cum secunda, per rationem cum tertia
-> (wirszubski1989:9628)
+- warrant [argument]: the identification of Metatron with the Active Intellect and as son supplies the synonyms of the thesis (Pallas, paterna mens, Dei filius, sapientia, sphaera intelligibilis)
 
+## wirszubski1989-angels:040 (Chaim Wirszubski, hedged)
+
+**Restatement:** Wirszubski explains mala coordinatio denaria in the Hermetic tenth thesis as the evil or unholy counterpart of the hierarchy of the ten sefirot, and says it would be risky to draw from this thesis, which is not secundum opinionem propriam, conclusions about Pico's view of evil.
+
+> Mala coordinatio denaria is the evil or unholy counterpart of the hierarchy of the ten sefirot. The notion of the "other side" (or sinister hierarchy) in Jewish Kabbala (including the Zohar) as a rule presupposes the metaphysical reality of evil. Since the notion of mala coordinatio denaria appears in a thesis which is not secundum opinionem propriam, it would be risky to draw from it conclusions about Pico's view of evil.
+> (wirszubski1989:9580)
+
+
+## wirszubski1989-angels:042 (Chaim Wirszubski, assertive)
+
+**Restatement:** Wirszubski says that Pico, by presenting Kabbala as both a mystical theology that confirmed Christianity and an ally of natural magic, set Christian Kabbala on a new course, and that the alliance of Kabbala and magic proved more influential than the superiority of the former over the latter.
+
+> Though the superiority of Kabbala over magic is stated time and again, it was the alliance between them rather than the superiority of the former over the latter that proved to be more influential in the long run.
+> (wirszubski1989:9954)
+
+> Yet, not much historical hindsight is required to realize that Pico, by presenting Kabbala to the Christian world as a mystical theology that confirmed Christianity and, at the same time, as the powerful ally of natural magic, set Christian Kabbala on a new course. Henceforth a Christian Kabbalist might be a theologian, or a magus, or both.
+> (wirszubski1989:9959)
+
+
+## wirszubski1989-angels:048 (Chaim Wirszubski, hedged)
+
+**Restatement:** Wirszubski says the phrase 'quodlibet est in quolibet' in Mithridates's Latin translation of Abulafia's De Secretis Legis argues the translator's acquaintance, not necessarily first hand, with Nicholas of Cusa's De Docta Ignorantia, whose fifth chapter is titled 'Quodlibet in Quolibet' and begins with Anaxagoras.
+
+> "Quodlibet est in quolibet" in the Latin translation of Abulafia's De Secretis Legis argues the translator's acquaintance — not necessarily first hand — with the De Docta Ignorantia of Nicolaus Cusanus.
+> (wirszubski1989:5305)
+
+> Chapter V of De Docta Ignorantia is titled "Quodlibet in Quolibet." It begins: "Si acute iam dicta attendis, non erit tibi difficile videre veritatis illius. Anaxagoricae quodlibet esse in quolibet fundamentum fortassis altius Anaxagora."
+> (wirszubski1989:5327)
+
+
+## wirszubski1989-angels:051 (Chaim Wirszubski, hedged)
+
+**Restatement:** Wirszubski prints from the Liber Combinationum the statement that the Hebrew word ben, son, is the secret of the Agent Intellect, who is called son as the principle of the edifice, and reports that a marginal mark, a perpendicular line surmounted by two dots, stands against the last sentences of the second quotation and beside the whole of the first quotation.
+
+> notificavimus autem tibi quod 13 id est filius est secrete Intellectus Agens qui dicitur filius cum sit principium edificij.
+> (wirszubski1989:11772)
+
+> A perpendicular line surmounted by two dots appears in the margin against the last two sentences of the second quotation. The whole of the first quotation is similarly marked in the margin.
+> (wirszubski1989:11807)
+
+- warrant [scholar_evidence]: earlier, Wirszubski says that a mark of this form appears in other manuscripts known to have been owned and used by Pico, and that Pico himself quite likely marked the passage
 

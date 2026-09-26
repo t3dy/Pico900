@@ -1,8 +1,12 @@
 {
  "packet": "black2006-a",
- "researcher": "",
+ "researcher": "R-BLACK-A",
  "created": "",
- "scope": null,
+ "scope": {
+  "work": "black2006",
+  "line_start": 1,
+  "line_end": 4723
+ },
  "claims": [
   {
    "claimant": "Crofton Black",
@@ -16,7 +20,7 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "The Introduction presents the Heptaplus as containing a theory of allegory that departs from mainstream medieval and Renaissance exegesis and is tied to contemporary debate on the nature and action of the intellect.",
+   "text": "Black presents the Heptaplus as containing a theory of allegory that departs from mainstream medieval and Renaissance exegesis and is tied to contemporary debate on the nature and action of the intellect.",
    "quotes": [
     {
      "text": "This is a study in the history of allegory. It focuses on a particular theory of allegory, developed by the Italian philosopher Giovanni Pico della Mirandola in his Heptaplus (1489), a sevenfold commentary on the account of the six days of creation contained in Genesis 1. This theory, which differs in a number of ways from mainstream medieval and Renaissance thinking on biblical exegesis, is connected to a philosophical issue which was the subject of considerable debate at the time: the nature and action of the intellect.",
@@ -187,8 +191,7 @@
    "hedge_words": "",
    "entities": [
     "Moses",
-    "Genesis",
-    "Heptaplus"
+    "Genesis"
    ],
    "warrants": [],
    "assumptions": [],
@@ -311,8 +314,15 @@
     "ref": null
    },
    "theses": [],
-   "text": "The Plato-Aristotle reconciliation never took written form as such; De ente et uno represents a part of it and the Conclusiones give intimations of the intended method.",
+   "text": "The lifelong reconciliation project never took written form as such; De ente et uno represents a part of it and the Conclusiones give intimations of the intended method.",
    "quotes": [
+    {
+     "text": "It appears to be around this time that he became interested in what was to become a lifelong project: the reconciliation of Plato and Aristotle.",
+     "work": "black2006",
+     "line": 491,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "This never saw written form as such, although a part of it is represented by De ente et uno (Garin, 386-441). Intimations of Pico's intended method also appear in the Conclusiones.",
      "work": "black2006",
@@ -450,6 +460,13 @@
    "text": "Black says Pico's own position was less partisan than Ficino's, as seen in his reply of 9 June 1485 to Barbaro's attack on scholastic barbarism, defending scholasticism on the ground that truth alone matters.",
    "quotes": [
     {
+     "text": "Ficino's interpretation of Plato and Platonism was tendentious.",
+     "work": "black2006",
+     "line": 500,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "Pico's own position was less partisan, as we can see from his response to one such attack, made by his friend Ermolao Barbaro in a letter to Pico of April 1485. In his reply, from Florence, dated 9 June 1485, Pico formulated a defence of scholasticism, arguing that the truth was the only thing of consequence, regardless of the manner in which it was expressed.",
      "work": "black2006",
      "line": 505,
@@ -473,7 +490,7 @@
      "party": "barbaro",
      "kind": "correspondence",
      "note": "Barbaro (called Pico's friend) attacked scholastic Latin; Pico replied in 1485.",
-     "quote_index": 0
+     "quote_index": 1
     },
     {
      "party": "ficino",
@@ -497,7 +514,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black sees no reason to doubt Pico's sincerity in the 1485 defence of scholasticism, since Pico followed that path in practice, having spent time among the Averroists of Padua and then going to Paris.",
+   "text": "Black sees no reason to doubt Pico's sincerity in the earlier defence of scholasticism, since Pico followed that path in practice, having spent time among the Averroists of Padua and then going to Paris.",
    "quotes": [
     {
      "text": "There seems little reason to doubt the sincerity of this",
@@ -1214,7 +1231,7 @@
    "text": "Black names three scholars who made Jewish and Arabic works available to Pico, orally or textually: Elijah Delmedigo, Flavius Mithridates and Johanan Alemanno.",
    "quotes": [
     {
-     "text": "Three scholars in particular played an important role in making works from the Jewish and Arabic traditions available to Pico, either orally or textually, and, if textually, either in Hebrew or in Latin translations. These are Elijah Delmedigo, Flavius Mithridates and",
+     "text": "Three scholars in particular played an important role in making works from the Jewish and Arabic traditions available to Pico, either orally or textually, and, if textually, either in Hebrew or in Latin translations. These are Elijah Delmedigo, Flavius Mithridates and Jo.hanan Alemanno.",
      "work": "black2006",
      "line": 800,
      "page": null,
@@ -1433,6 +1450,13 @@
    "text": "Black reports it has been demonstrated (citing Wirszubski) that Mithridates's translation of Recanati's Pentateuch commentary was the single most influential source for Pico's interpretation of kabbalah in the Conclusiones, so Pico had read it before November 1486.",
    "quotes": [
     {
+     "text": "By 'Ricanato' he means the kabbalist Menahem Recanati (late thirteenth-early fourteenth centuries), two of whose works were translated for Pico by Flavius Mithridates (see below): the commentary on the Pentateuch and the commentary on prayers.",
+     "work": "black2006",
+     "line": 950,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "It has been demonstrated that this work was the single most influential source for Pico's interpretation of kabbalah in the Conclusiones. Pico had therefore read it before these were completed in November 1486 and before Delmedigo wrote this letter.",
      "work": "black2006",
      "line": 961,
@@ -1440,7 +1464,7 @@
      "page_basis": null
     },
     {
-     "text": "Wirszubski, Pico's Encounter, 53-56.",
+     "text": "Wirszubski, Pico's Encounter, 53-56. 49 See Flavius Mithridates, Sermo de passione Domini",
      "work": "black2006",
      "line": 994,
      "page": null,
@@ -1574,7 +1598,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "From 1486 Mithridates translated for Pico a substantial corpus of Hebrew texts into Latin, of which the surviving part amounts to over 3,500 pages in five Vatican manuscripts.",
+   "text": "Around 1486 Mithridates translated for Pico a substantial corpus of Hebrew texts into Latin, of which the surviving part amounts to over 3,500 pages in five Vatican manuscripts.",
    "quotes": [
     {
      "text": "Documentation of their working relationship begins in 1486. Around this time, as has already been mentioned, Mithridates translated a substantial corpus of Hebrew texts into Latin specifically for Pico. Some of these are no longer extant. What survives, in five manuscripts held in the Vatican library, amounts to over 3,500 pages.",
@@ -1741,7 +1765,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Marginal markings in the Mithridates manuscripts against passages used, sometimes almost verbatim, in the Conclusiones show that Pico read, marked and reused them; Black adds that several concern exegesis and are potentially important background to the Heptaplus.",
+   "text": "Marginal markings in the translated manuscripts against passages used, sometimes almost verbatim, in the Conclusiones show that Pico read, marked and reused them; Black adds that several concern exegesis and are potentially important background to the Heptaplus.",
    "quotes": [
     {
      "text": "These manuscripts are the single most significant channel through which Hebrew thought, specifically kabbalah, was made available to Pico. The many instances of marginal markings (a vertical line surmounted by two dots) against sections of these manuscripts which were used, sometimes almost verbatim, in the Conclusiones provide evidence that Pico read these texts, marked passages of interest and then reused them in his own works.",
@@ -2087,9 +2111,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [
@@ -2172,7 +2194,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black argues that the Psalm expositions show Pico had enough Hebrew to draw on Jewish commentators for individual words in philological sections, but this does not necessarily imply he could read whole treatises by Recanati, Abulafia, Gikatilla or Alemanno.",
+   "text": "Black argues that the Psalm expositions show Pico had enough Hebrew to draw on commentators for individual words in philological sections, but this does not necessarily imply he could read whole treatises by Recanati, Abulafia, Gikatilla or Alemanno.",
    "quotes": [
     {
      "text": "The Expositiones in Psalmos demonstrate that Pico had sufficient knowledge of Hebrew to draw material from these commentators, as well as to indicate instances in which the Latin or Greek text departed from the Hebrew.",
@@ -2269,7 +2291,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black argues that the unusual Jewish exegetical terminology in Pico's Apologia, matching Bahya ben Asher, reached Pico by oral transmission from Mithridates or another Jewish associate, since the note in Pico's hand is in a Gersonides manuscript that does not contain it.",
+   "text": "Black argues that the unusual Jewish exegetical terminology in Pico's Apologia, matching Bahya ben Asher, reached Pico by oral transmission from Mithridates or another Jewish associate, since the note in Pico's hand is in a manuscript of another work that does not contain it.",
    "quotes": [
     {
      "text": "An example is Pico's discussion of Jewish exegetical terminology in the Apologia. The terminology he uses is atypical of medieval Jewish exegesis and has a distinct source in the work of the biblical commentator Bahya ben Asher (thirteenth century)",
@@ -2321,7 +2343,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black warns that oral contact cannot be assumed to be a full conduit: Mithridates distorted texts in a Christianising manner, Delmedigo deliberately withheld information about kabbalah, and Jewish scholars may not have shared their deepest mysteries with Pico, who acted as their patron.",
+   "text": "Black warns that oral contact cannot be assumed to be a full conduit: information would not necessarily have been shared fully, Mithridates distorted texts in a Christianizing manner, and Delmedigo deliberately withheld information about kabbalah from works produced for Pico, who was his patron.",
    "quotes": [
     {
      "text": "On the other hand, we cannot simply assume oral contact as a conduit for everything. We should remember that information would not necessarily have been shared fully or without ulterior motive. I have already mentioned the interpolations made by Mithridates, which in some cases distorted Hebrew texts in a Christianizing manner.",
@@ -2423,6 +2445,13 @@
      "text": "This conclusion has provided the methodological basis for my analysis of the role of Jewish sources in Pico's works. I hope to demonstrate that Pico's interest in this material had an important influence on the Heptaplus; but I have generally sought to locate the origins of this influence in works which we know were available to him in Latin, whether through printed editions or Mithridates's corpus of translations.",
      "work": "black2006",
      "line": 1463,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "I have, nonetheless, referred in several instances to Hebrew works by Alemanno and Delmedigo, as these provide evidence of contemporary Jewish thought in a circle to which we know Pico had a certain proximity.",
+     "work": "black2006",
+     "line": 1469,
      "page": null,
      "page_basis": null
     }
@@ -2717,7 +2746,7 @@
     "ref": "first exposition"
    },
    "theses": [],
-   "text": "The frame of reference of the first exposition is natural philosophy and the world of generation and corruption; it opens with Aristotelian physics, not with the Bible.",
+   "text": "The frame of reference of the first exposition is natural philosophy and the world of generation and corruption; it opens with the doctrines of natural philosophers, not with the Bible.",
    "quotes": [
     {
      "text": "The frame of reference of the first exposition is natural philosophy and the world of generation and corruption. It begins, not with a discussion of the words 'in principio creavit', nor even with the Bible at all, but with a summary of the doctrines of 'the natural philosophers who discuss the nature of corruptible things'.",
@@ -2729,9 +2758,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Aristotelian physics"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -2801,7 +2828,7 @@
     "ref": "second exposition"
    },
    "theses": [],
-   "text": "In the Second Exposition Pico invokes his first-proem principle that Moses must not be made to look as if he had left anything out, to explain why four planets go unmentioned.",
+   "text": "In the second exposition Pico invokes his first-proem principle that Moses must not be made to look as if he had left anything out, to explain why four planets go unmentioned.",
    "quotes": [
     {
      "text": "This leaves four planets (Mercury, Venus, Mars and Jupiter) so far unaccounted for. Pico had established a principle in the first proem that Moses should not be made to look as if he had left anything out. This principle is invoked here.",
@@ -2942,7 +2969,7 @@
     "ref": "second exposition, ch. 7"
    },
    "theses": [],
-   "text": "Black reports that the Second Exposition ends with Pico's warning that our souls, on the authority of Plato and unnamed theologians, were mixed in the same bowl as the heavenly bodies, so we should not fear, love and honour them rather than Christ.",
+   "text": "Black reports that the second exposition ends with Pico's warning that our souls, on the authority of Plato and unnamed theologians, were mixed in the same bowl as the heavenly bodies, so we should not fear, love and honour them rather than Christ.",
    "quotes": [
     {
      "text": "The exposition ends with a warning by Pico that we should not regard ourselves as lower than the heavenly bodies, for, on the authority of Plato and unnamed theologians, our souls were mixed in the same bowl as them; nor should we fear, love and honour them rather than Christ.",
@@ -3095,7 +3122,7 @@
     "ref": "third exposition, ch. 1"
    },
    "theses": [],
-   "text": "Black says the Third Exposition begins by analysing the relationship of unity and number, applied to God and creation as a Pythagorean technique, and holds that as number depends on unity so angels depend on God.",
+   "text": "Black says the third exposition begins by analysing the relationship of unity and number, applied to God and creation as a Pythagorean technique, and holds that as number depends on unity so angels depend on God.",
    "quotes": [
     {
      "text": "The exposition begins with an analysis of the relationship between unitas and numerus. The latter is dependent on the former; the former depends only on itself. This philosophy of number is then applied to the relationship between God and creation, which, Pico says, is a Pythagorean technique. For unity 'which is from nothing, from which all things are' he substitutes God. Just as numerus depends on unitas, angels depend on God.",
@@ -3135,7 +3162,7 @@
     "ref": "third exposition, ch. 1"
    },
    "theses": [],
-   "text": "Black identifies the Third Exposition as treating angels as numbers: an angel is not unity itself, for it would then be God, so it must be number.",
+   "text": "Black identifies the third exposition as treating angels as numbers: an angel is not unity itself, for it would then be God, so it must be number.",
    "quotes": [
     {
      "text": "this identification of angels and numbers help to define the nature of the former?",
@@ -3286,7 +3313,7 @@
     "ref": "third exposition, chs. 1-2"
    },
    "theses": [],
-   "text": "Black reads the first day in the Third Exposition as the drama of the angel overcoming its double imperfection: earth is its rough, unformed essence and heaven the acting of its essence and participation of unity in multiplicity, that is its connection to ipsum esse.",
+   "text": "Black reads the first day in the third exposition as the drama of the angel overcoming its double imperfection: earth is its rough, unformed essence and heaven the acting of its essence and participation of unity in multiplicity, that is its connection to ipsum esse.",
    "quotes": [
     {
      "text": "Pico's reading of the first day, spread over chapters one and two, concerns the drama of the angel overcoming this double imperfection. Chapter one deals with the question of its essence. Earth refers to the angel's 'rough and unformed essence, deprived of life and being'. Heaven is the 'acting of its essence and the participation of unity in multiplicity', in other words, its connection to ipsum esse.",
@@ -3325,7 +3352,7 @@
     "ref": "third exposition, ch. 2"
    },
    "theses": [],
-   "text": "Black explains that in the Third Exposition the angel has an intellectual capacity but must be given intelligible forms, represented by light, which are accidents of its intellect and not part of its essence.",
+   "text": "Black explains that in the third exposition the angel has an intellectual capacity but must be given intelligible forms, represented by light, which are accidents of its intellect and not part of its essence.",
    "quotes": [
     {
      "text": "Chapter two turns to its cognition. The angel has an intellectual capacity but needs to be given intelligible forms to fulfil its function of contemplation. The absence of such forms is expressed by the shadows on the face of the abyss the abyss being the angel's",
@@ -3636,7 +3663,7 @@
     "ref": "fourth exposition, ch. 2"
    },
    "theses": [],
-   "text": "Black reports that in the Fourth Exposition, above the rational soul lies 'intelligence', shared with angels, and below it a 'sensual part' shared with animals.",
+   "text": "Black reports that in the fourth exposition, above the rational soul lies 'intelligence', shared with angels, and below it a 'sensual part' shared with animals.",
    "quotes": [
     {
      "text": "of man are introduced, corresponding to the two groups of waters. Below the rational soul there is a 'sensual part', which is shared with animals; above the rational soul, there is 'intelligence', which is shared with angels.",
@@ -3675,7 +3702,7 @@
     "ref": "fourth exposition, ch. 2"
    },
    "theses": [],
-   "text": "Black says the Spirit of God moving over the upper waters is identified in the Fourth Exposition with a greater and more divine intellect that illuminates the human intellect; in Pico's words this is either God or a mind close and akin to man, as Greeks, Arabs and most Hebrews hold.",
+   "text": "Black says the Spirit of God moving over the upper waters is identified in the fourth exposition with a greater and more divine intellect that illuminates the human intellect; Pico leaves open whether this is God or a mind close and akin to man.",
    "quotes": [
     {
      "text": "The Spirit of God, which moves over the upper waters, is identified with 'a greater and more divine intellect' which illuminates the human intellect.",
@@ -3790,7 +3817,7 @@
     "ref": "fifth exposition"
    },
    "theses": [],
-   "text": "Black says that at the start of the Fifth Exposition Pico dedicates the first day's section to the angelic world and the other parts to the other worlds in succession, and that the first four expositions gave self-contained bodies of knowledge whereas the fifth turns to the vertical hierarchy of the cosmos as a whole, the golden chain of Homer.",
+   "text": "Black says that at the start of the fifth exposition Pico dedicates the first day's section to the angelic world and the other parts to the other worlds in succession, and that the first four expositions gave self-contained bodies of knowledge whereas the fifth turns to the vertical hierarchy of the cosmos as a whole, the golden chain of Homer.",
    "quotes": [
     {
      "text": "At the outset of the fifth exposition, Pico writes that he will now dedicate the first 'particula' (in other words, the section concerned with the account of the first day) to the first world (that is, the angelic) and the other parts to the other worlds, in succession. The first four expositions presented self-contained bodies of knowledge drawn from the three worlds and man and including physics, astronomy, metaphysics and psychology.",
@@ -3803,6 +3830,13 @@
      "text": "In other words, he will now focus on the vertical hierarchy of the cosmos as a whole.",
      "work": "black2006",
      "line": 2352,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In the fifth exposition Pico promises to observe, in Moses's words, 'that golden chain of Homer, the rings of Plato hanging from the living power of the fabricator, as if from the true stone of the unconquered Hercules'.",
+     "work": "black2006",
+     "line": 2349,
      "page": null,
      "page_basis": null
     }
@@ -3890,7 +3924,7 @@
     "ref": "fifth exposition, ch. 6"
    },
    "theses": [],
-   "text": "Black says the whole sixth chapter of the Fifth Exposition is reminiscent of the Oratio, noting especially the placing of man at the midpoint of the world and the Hermetic citation.",
+   "text": "Black says the whole sixth chapter of the fifth exposition is reminiscent of the Oratio, noting especially the placing of man at the midpoint of the world and the Hermetic citation.",
    "quotes": [
     {
      "text": "the dignity of man. The entirety of the sixth chapter is reminiscent of the Oratio.",
@@ -4081,7 +4115,7 @@
     "ref": "fifth exposition, ch. 7"
    },
    "theses": [],
-   "text": "In the seventh chapter of the Fifth Exposition, Black says, man's moral behaviour is held to affect the cosmos as a whole, which with God will avenge itself on him if he neglects his obligations.",
+   "text": "In the seventh chapter of the fifth exposition, Black says, man's moral behaviour is held to affect the cosmos as a whole, which with God will avenge itself on him if he neglects his obligations.",
    "quotes": [
     {
      "text": "The moral behaviour of man, therefore, has an effect on the cosmos as a whole, and the cosmos, together with God, will revenge itself upon him if he does not fulfil his obligations.",
@@ -4206,7 +4240,7 @@
     "ref": "sixth exposition, ch. 1"
    },
    "theses": [],
-   "text": "Black says the Sixth Exposition is built on the notion of 'copulare', the first part concerning knowledge and the second morality, a connection he takes up in Chapter 6.",
+   "text": "Black says the sixth exposition is built on the notion of 'copulare', the first part concerning knowledge and the second morality, a connection he takes up in Chapter 6.",
    "quotes": [
     {
      "text": "The last sentence explains the rationale underlying the double nature of this exposition. The two interpretations each revolve around the notion of 'copulare'. The former aspect concerns knowledge; the latter, morality.",
@@ -4244,7 +4278,7 @@
     "ref": "sixth exposition, ch. 2"
    },
    "theses": [],
-   "text": "Black notes that the first part of the Sixth Exposition sets out a universal taxonomy of relationships between entities, at most fifteen according to Pico, and that Pico stretches the Genesis text, which never mentions bodies, to fit his allegorical reading.",
+   "text": "Black notes that the first part of the sixth exposition sets out a universal taxonomy of relationships between entities, at most fifteen according to Pico, and that Pico stretches the Genesis text, which never mentions bodies, to fit his allegorical reading.",
    "quotes": [
     {
      "text": "The first of these two parts of the exposition presents a universal taxonomy of logical and formal relationships between entities. According to 'all the teachings of the philosophers', there are no more than fifteen such relationships.",
@@ -4290,7 +4324,7 @@
     "ref": "sixth exposition, ch. 6"
    },
    "theses": [],
-   "text": "Black reports that in the sixth chapter of the Sixth Exposition Pico alludes to a deeper mystery: the eventual union of the part of intellectual light in us with the first mind, where all understanding is complete.",
+   "text": "Black reports that in the sixth chapter of the sixth exposition Pico alludes to a deeper mystery: the eventual union of the part of intellectual light in us with the first mind, where all understanding is complete.",
    "quotes": [
     {
      "text": "He then alludes to a 'deeper mystery': the eventual ('aliquando')",
@@ -4433,7 +4467,7 @@
     "ref": "seventh exposition, proem"
    },
    "theses": [],
-   "text": "Black reports that Pico says no philosophical school takes man back to his beginning or end, which only theology offers; a footnote lists Avicenna, Averroes and others as placing our reason in the intellect in act or a higher one akin to us.",
+   "text": "Black reports that Pico says no philosophical school takes man back to his beginning or end, which only theology offers; a footnote quotes Pico grouping several philosophers who place our reason in the intellect in act or in a higher one akin to us.",
    "quotes": [
     {
      "text": "This, in turn, has an adverse effect on the dignity of man, as 'philosophers' have conceived of it. Although most schools of philosophy allow man some form of attainment of truth, none of them grants him a complete return 'to his beginning or end', which only theology can offer.",
@@ -4483,7 +4517,7 @@
     "ref": "seventh exposition, proem"
    },
    "theses": [],
-   "text": "Black says that in the Seventh Exposition the capacity for supernatural felicitas is limited to man and angels, and neither can reach it without the help of Christ.",
+   "text": "Black says that in the seventh exposition the capacity for supernatural felicitas is limited to man and angels, and neither can reach it without the help of Christ.",
    "quotes": [
     {
      "text": "This capacity is limited to man and the angels; neither man nor angel can progress to this level without the help of Christ.",
@@ -4813,6 +4847,13 @@
      "line": 3191,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "ut dicit Dionysius in Ecclesiastica Hierarchia, est figura futurae gloriae",
+     "work": "black2006",
+     "line": 3214,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4910,7 +4951,7 @@
     "ref": "defence of kabbalah"
    },
    "theses": [],
-   "text": "Black argues that aligning the Jewish and Christian fourfold methods was meant to make kabbalah less alien to Christian readers, so that Pico's argument depends on readers taking the fourfold method as the norm.",
+   "text": "Black argues that aligning the fourfold methods of the two traditions was meant to make kabbalah less alien to Christian readers, so that Pico's argument depends on readers taking the fourfold method as the norm.",
    "quotes": [
     {
      "text": "two traditions was intended to make kabbalah appear less alien to Christian readers by inserting it into a recognizable framework; as such, Pico's argument depends on the reader perceiving the fourfold method as the norm.",
@@ -4948,7 +4989,7 @@
     "ref": "defence of kabbalah"
    },
    "theses": [],
-   "text": "Black thinks Pico's Apologia matching of Jewish terms to senses contains a mistake, since Sechel as practised by Gersonides, Maimonides and Ibn Ezra would more accurately be the allegorical and Midras the tropological, perhaps from haste in writing the Apologia.",
+   "text": "Black thinks Pico's Apologia matching of terms to senses contains a mistake, since Sechel as practised by Gersonides, Maimonides and Ibn Ezra would more accurately be the allegorical and Midras the tropological, perhaps from haste in writing the Apologia.",
    "quotes": [
     {
      "text": "There seems to be a mistake in Pico's attributions here. 'Sechel' as practised by Gersonides, Maimonides and Abraham ibn Ezra he equates with the tropological method whereas it would more accurately be the allegorical; and 'midras', which he equates with the allegorical, should rather be the tropological.",
@@ -5082,7 +5123,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black says that in the first proem Pico, to substantiate the claim that his method is new, lists Latin, Greek, Chaldean and Hebrew authorities he will not imitate, and that this list shows what Pico himself regarded as significant in biblical commentary.",
+   "text": "Black says that in the first proem Pico, to substantiate the claim that his method is new, lists authorities he will not imitate, and that this list shows what Pico himself regarded as significant in biblical commentary.",
    "quotes": [
     {
      "text": "Before telling his readers what the Heptaplus is, Pico informs them of what it is not. He claims that his method of interpretation is new. To substantiate this claim, he gives a list of authorities 'robust minds' in the field of biblical commentary whose work he will not imitate and whose methods he will not follow.",
@@ -5251,7 +5292,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Black says Pico was particularly interested in Origen, whose orthodoxy Pico defends in the Apologia, and that Origen's Homilies on Genesis probably reached him in the Latin translation of Rufinus.",
+   "text": "Black says Pico was particularly interested in Origen, whose orthodoxy Pico defends in the Apologia, and that Origen's work on Genesis probably reached him in the Latin translation of Rufinus.",
    "quotes": [
     {
      "text": "Pico was particularly interested in Origen",
@@ -5365,7 +5406,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black proposes that Pico's 'Eusebius' is Eusebius of Emesa rather than Eusebius of Caesarea, because Caesarea's works in Pico's library contain no interpretation of Genesis whereas Emesa's commentary on the Octateuch was among the most cited in the Genesis catena.",
+   "text": "Black proposes that Pico's 'Eusebius' is Eusebius of Emesa because the works by another Eusebius in Pico's library contain no interpretation of Genesis whereas Emesa's commentary on the Octateuch was among the most cited in the Genesis catena.",
    "quotes": [
     {
      "text": "None of these is an interpretation of Genesis, however, which leads me to propose that 'Eusebius' in fact refers to Eusebius of Emesa (c. 300-c. 359) whose commentary on the Octateuch, although not extant in direct transmission, was one of the most widely cited works in the Genesis catena.",
@@ -5405,7 +5446,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black leaves open whether Pico's 'Theodoretus' means Theodoret of Cyrrhus or Theodore of Mopsuestia, since the catena labels excerpts from Theodore variously.",
+   "text": "Black leaves open which of two authors Pico's 'Theodoretus' means, since the catena labels excerpts from 'Theodorus' variously.",
    "quotes": [
     {
      "text": "In any case, excerpts from this 'Theodorus' are sometimes labelled in the catena as coming from 'Theodoretus' or simply the abbreviated 'Theod.'. Which of these two authors this name refers to, then, must remain an open question; both were a part of the Antiochene school.",
@@ -5455,7 +5496,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black concludes, leaving 'Severus' and 'Josephus' unresolved, that many of Pico's listed authors may have reached him only as names and fragments, and that the catena played a decisive role in forming his list whether or not it played any role in his actual exegesis.",
+   "text": "Black concludes, leaving some names unresolved, that many of Pico's listed authors may have reached him only as names and fragments, and that the catena played a decisive role in forming his list whether or not it played any role in his actual exegesis.",
    "quotes": [
     {
      "text": "These questions must remain unanswered; it is not my intention to pursue a holy grail of positive attribution when the evidence suggests that many of these authors could have come down to Pico only as names and fragments. What this analysis does show is that the catena played a decisive role in the formation of his list, whether or not it played any role in his actual exegesis.",
@@ -5504,7 +5545,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black says Pico's 'Chaldeans' Anchelos and Ionethes name the Aramaic Targumim, Onkelos and the Palestinian Pentateuch Targum, and that Pico possessed a 1482 Pentateuch containing the Targum Onkelos with Rashi.",
+   "text": "Black says Pico's 'Chaldeans' Anchelos and Ionethes are traditional names for two Aramaic Targumim, and that Pico possessed a 1482 Pentateuch containing the Targum Onkelos with the commentary of Rashi.",
    "quotes": [
     {
      "text": "'Chaldean' to Pico and his contemporaries meant Aramaic; the 'Chaldeans', 'Anchelos' and 'Ionethes', are the two names traditionally connected to two of the Targumim or Aramaic biblical translations.",
@@ -5987,10 +6028,442 @@
     "justification": ""
    },
    "id": "black2006-a:129"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black notes that the Bahir cites a Rabbi Johanan on Genesis 1, that Eleazar, Abba and Isaac are cited in the Zohar and so in Recanati, and that these names also occur in Bereshit Rabbah, of which Pico owned an untranslated copy; other sources may have existed.",
+   "quotes": [
+    {
+     "text": "The Bahir is essentially an exegetical work, and a fair proportion of its sections relate to the Genesis narrative. It is structured as a series of brief citations of ancient rabbis. Among these, we find a Rabbi Johanan, who comments on certain verses from Genesis 1",
+     "work": "black2006",
+     "line": 4399,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Rabbis by the name of Eleazar, Abba and Isaac are all cited regularly in the Zohar and hence in Recanati's commentary on the Pentateuch. These names, as well as Johanan, are also to be found in the Midrash on Genesis, Bereshit Rabbah, of which Pico owned an untranslated copy. There may well have been other such sources.",
+     "work": "black2006",
+     "line": 4404,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "There may well have been other such sources",
+   "entities": [
+    "Bahir",
+    "Zohar",
+    "Recanati",
+    "Bereshit Rabbah",
+    "Eleazar",
+    "Abba",
+    "Isaac"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-a:130"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black argues that one essential function of Pico's list of rejected authorities is to impress the reader with his acquaintance with a wide range of commentaries, and that formulating the list negatively doubles its rhetorical impact.",
+   "quotes": [
+    {
+     "text": "What can we conclude from this analysis? Clearly, one essential function of the list is to impress the reader. While not neglecting a representative sample of canonical works, it serves to emphasize Pico's acquaintance with a remarkably wide range of commentaries.",
+     "work": "black2006",
+     "line": 4435,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "By formulating this list negatively, as comprising those authors whom he will not use, Pico doubles its rhetorical impact. The implication is that he was sufficiently learned not only to read these authors but also to proffer interpretations that they had missed.",
+     "work": "black2006",
+     "line": 4441,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads the list as rhetoric as well as evidence of reading."
+   },
+   "id": "black2006-a:131"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black warns that knowing an author's name does not imply knowing the text: many 'ancient Hebrews' were known through intermediaries such as the Bahir and Recanati, and many early Greek exegetes through fragments in the catena.",
+   "quotes": [
+    {
+     "text": "Beyond this rhetorical level, however, the question of exactly what the list represents is not entirely clear-cut. Although, as we have seen, almost all the names can be connected either to works available to Pico or to figures mentioned in works available to him, knowledge of the name does not necessarily imply knowledge of the text.",
+     "work": "black2006",
+     "line": 4448,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Many of the 'ancient Hebrews', meanwhile, were known to him through citations in intermediary works such as the Bahir and Recanati's commentary on the Pentateuch. The same is true of a substantial proportion of the early Greek exegetes, who were not passed down in direct transmission but had survived only as fragments in the catena.",
+     "work": "black2006",
+     "line": 4456,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Bahir",
+    "Recanati"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Qualifies claims of direct knowledge of Pico's cited authorities."
+   },
+   "id": "black2006-a:132"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black concludes that despite these doubts the list shows Pico's frame of reference was broad compared with contemporary norms and his exegetical toolkit better stocked than most.",
+   "quotes": [
+    {
+     "text": "Despite the questions raised by this list, it shows that Pico's frame of reference was broad in comparison to contemporary norms and that his exegetical toolkit was better stocked than most.",
+     "work": "black2006",
+     "line": 4464,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-a:133"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Black says the attention Pico gives to Genesis in the Heptaplus differs fundamentally from his other exegetical works; the Heptaplus relies on the Vulgate text of Genesis 1.1-27, whereas the Job manuscript and Psalms commentaries scrutinise translation.",
+   "quotes": [
+    {
+     "text": "Further examination will confirm that the attention which Pico pays to Genesis in the Heptaplus is of a fundamentally different nature from that of his other exegetical works.",
+     "work": "black2006",
+     "line": 4489,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The Heptaplus relies on the Vulgate, the relevant section of which (Genesis 1.1-27) is included at the end of the second proem.",
+     "work": "black2006",
+     "line": 4492,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "By contrast, both Pico's Job manuscript and his Psalms commentaries display a marked scrutiny of scriptural translation.",
+     "work": "black2006",
+     "line": 4497,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus",
+    "Vulgate",
+    "Genesis",
+    "Job"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Separates the Heptaplus from Pico's philological exegesis."
+   },
+   "id": "black2006-a:134"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "expositiones in psalmos",
+    "ref": null
+   },
+   "theses": [],
+   "text": "Black reports that in a 1489 letter to Andrea Corneo Pico described a new work undertaken with the encouragement of Lorenzo de' Medici, to interpret the Psalms at length and to defend the Septuagint against the Jews.",
+   "quotes": [
+    {
+     "text": "This twofold intention is clear from his letter of 1489 to Andrea Corneo, in which he writes that he has in hand 'a new work, with the encouragement of Lorenzo de' Medici'. Firstly, he will 'illuminate, with a longish interpretation, the Psalms of David'. Secondly, he will defend the Septuagint version, which the Jews falsely claim departs from the Hebrew in over six hundred places.",
+     "work": "black2006",
+     "line": 4515,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Andrea Corneo",
+    "Lorenzo de' Medici",
+    "Septuagint"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "lorenzo-de-medici",
+     "kind": "patronage",
+     "note": "Lorenzo encouraged Pico's Psalms work in 1489.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-a:135"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black says the double aim of the Psalm expositions, interpretation and defence of a translation, was repeated at the beginning of the Heptaplus, showing that philology's purpose was polemical rather than merely scholarly.",
+   "quotes": [
+    {
+     "text": "summary of the double nature of the Expositiones in Psalmos was repeated at the beginning of the Heptaplus, revealing the practice and purpose of philology as Pico and his contemporaries saw it",
+     "work": "black2006",
+     "line": 4532,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "philological analysis works by confronting different versions, and its purpose is polemical, not simply scholarly.",
+     "work": "black2006",
+     "line": 4535,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Expositiones in Psalmos",
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-a:136"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "expositiones in psalmos",
+    "ref": null
+   },
+   "theses": [],
+   "text": "Black concludes from soundings that Pico's philological sections compare four versions of the Psalms, give the Septuagint precedence and correct Hebrew exegetes by reference to textual transmission; defending the Septuagint also defends the standard Gallician Psalter, making Pico a more conservative philologist than Valla or Manetti.",
+   "quotes": [
+    {
+     "text": "These are no more than soundings, but they are enough to illustrate Pico's method. The philological sections of his Psalm commentaries proceed by comparing the four versions of the text",
+     "work": "black2006",
+     "line": 4708,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "When the texts disagree, the Septuagint, in the examples above at least, is given precedence. The Hebrew exegetes are 'corrected' on this basis, with reference to common mistakes of textual transmission.",
+     "work": "black2006",
+     "line": 4713,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "His defence of established Christian versions of the Bible makes Pico a more conservative philologist than Valla or Manetti.",
+     "work": "black2006",
+     "line": 4721,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "in defending the Septuagint version of the Psalms, he is also defending the Gallician Psalter, which was translated from it.",
+     "work": "black2006",
+     "line": 4717,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "in the examples above at least",
+   "entities": [
+    "Septuagint",
+    "Valla",
+    "Manetti"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-a:137"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Front matter, acknowledgements, table of contents and abbreviations (lines 1-317): no claims, apart from the contents used to locate chapters.",
+  "Ch. 1 s.1-2: detail on Delmedigo's bibliographies and library inventories (lines ~873-905, 1198-1229): only the kabbalah list, the dating of the letter and the library-not-read points were taken; footnote-only bibliography not mined.",
+  "Ch. 2: First and Second Exposition details (physics, the ten spheres, the elemental and planetary correspondences, lines ~1559-1700, 1801-1925) summarised in two or three architectural claims; the taxonomy of the fifteen relationships in the Sixth Exposition (lines 2609-2730) not itemised.",
+  "Ch. 3 s.1 (lines ~3038-3745): fifteenth-century reception of the fourfold method, Glossa and Postilla circulation, humanist philology (Manetti, Valla, Erasmus), incunable survey. Not relevant to angelology or the One; only the Apologia's Jewish fourfold scheme, the Aquinas-Dionysius pointer and the absence of Genesis commentaries were taken.",
+  "Ch. 3 s.2 (lines ~3830-4100): the Latin and Greek exegetes named in the first proem (Ambrose, Augustine, Bede, Basil, Chrysostom, Philo etc.): only Origen, Albertus and Aegidius, the catena hypothesis and the unresolved identifications were extracted.",
+  "Ch. 3 s.3 (lines 4484-4723): the Job manuscript and Psalm philology soundings (Ps. 6, 10, 47) taken only as method; the Hebrew glosses themselves not itemised. The range ends at 4723, the last sentence of the paragraph that straddles line 4700; R-BLACK-B should begin at line 4724 ('Aside from this philological content...')."
+ ],
+ "proposed_topics": [
+  {
+   "id": "pico-biography",
+   "label": "Pico's life and career as it bears on his writings: Florence, Rome, the trial, Lorenzo, the papal response to the Heptaplus"
+  },
+  {
+   "id": "exegetical-authorities",
+   "label": "The authorities Pico names or rejects in the Heptaplus first proem, and how far he knew them directly (catena, Recanati, Bahir)"
+  },
+  {
+   "id": "hebrew-informants",
+   "label": "Delmedigo, Mithridates and Alemanno as channels of Jewish and Arabic learning to Pico; limits of his Hebrew"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "delmedigo",
+   "name": "Elijah Delmedigo"
+  },
+  {
+   "id": "alemanno",
+   "name": "Yohanan Alemanno"
+  },
+  {
+   "id": "roberto-salviati",
+   "name": "Roberto Salviati"
+  },
+  {
+   "id": "lanfredini",
+   "name": "Giovanni Lanfredini"
+  },
+  {
+   "id": "andrea-corneo",
+   "name": "Andrea Corneo"
+  }
+ ],
+ "notes": "Cruxes: (1) Ch. 2 s.3, lines 2015-2023 (Third Exposition): Black reports Pico first planned two expositions of the angelic world, Hebrew and Dionysian, kept only the Dionysian and promised a separate book on Jewish doctrine (claim black2006-a:066). Black does not say whether that book was written; nothing in this range answers it. (2) Ch. 1 s.2: Black's stance that Pico could not necessarily read complete kabbalistic treatises (claims 048, 052) and that Recanati (via Mithridates) is the dominant kabbalistic source of the 900; Zohar known only through Recanati (claims 122, 127). (3) Heptaplus architecture: constant Genesis 1.1-27 narrative, changing framework defined at the start of each exposition (claim 059), the 5+1+1 reading via the Trinity (claim 090), and the forty-nine gates (claim 005; developed in ch. 7, outside this range). (4) Pico's own quoted Latin appears only inside Black's footnotes; where I cite it, the warrant is scholar_evidence (Black quoting Pico), never primary_text, because the gate rejects primary_text from a scholarly work. OCR: Hebrew glyphs are dropped, so quotations containing Hebrew words lose them; 'Jo.hanan', 'Mena.hem', 'Ye.zirah' carry stray dots (the gate ignores punctuation; I copied 'Ye.zirah' as it stands because 'Yetzirah' would fail). Two claims have quotes broken by footnotes across page breaks and are given as separate quotations. Not covered: Black's account of Aquinas on Dionysius and the Hebrew angelic hierarchy (chapters 4-5, other packets)."
 }

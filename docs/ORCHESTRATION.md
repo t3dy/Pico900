@@ -144,3 +144,53 @@ D Latin only) and may be overridden by Ted there.
 **Why the inventory is the contract.** v1 minted entries to reach a target count (929) without consulting the
 source. Farmer prints 900; the parser finds 900 and proves the order against Farmer's own running count. Every entry
 corresponds to one row, and every row carries the Farmer line so a VERIFIER can re-derive it.
+
+## The claims layer and swarm recipes (v2.2, 2026-09-26)
+
+Added in response to `PROMPTS.md` P20260926041129, P20260926041326 and P20260926041711. **`PROMPTS.md` is the source of
+intent; `TICKETS.md` (`python scripts/tickets.py`) is the board; `docs/CLAIMS_MODEL.md` is the scholarship layer.**
+Ted's working mode is in `CLAUDE.md` ("Do not ask Ted questions"): the orchestrator decides, records, and continues.
+
+**Start of every session (2 minutes).** `git status` (who else is writing); `python scripts/harvest_prompts.py` (new
+prompts); `python scripts/tickets.py ready` and `check` (what can start, and that no two `doing` tickets own one file);
+read the newest `HANDOVER.md`. Move the ticket you take to `doing` with your file list; move it to `done` only with the
+gate output in `--note`.
+
+**Roles added by the claims layer** (each has a cold-start brief in `docs/briefs/`):
+
+| role | contract | owns | brief |
+|---|---|---|---|
+| RESEARCHER (claims) | reads one range of one scholar; writes claims with verbatim quotations, warrants, open questions, hedges, relationship tags | `data/claims/_work/<packet>.*`, `<domain>/<packet>.claims.json` | `claims_researcher.md` |
+| VERIFIER (mechanical) | `scripts/claims_verify.py`: re-finds every quotation, warrant and locator; tickets carry the nearest real text; repairs wrong line numbers | `data/verification/claims/*.verdicts.json`, `data/claims/tickets/` | (script) |
+| VERIFIER (semantic) | a different agent judges a 20% sample: does the restatement overreach its quotations? verdicts bind by content hash | `<packet>.semantic.json` | `claims_semantic_verifier.md` |
+| LINKER | links claims across scholars (same, supports, contradicts, qualifies, depends on, cites), each with a stated basis; lists disputes | `<domain>/links.json` | `claims_linker.md` |
+| SCORER | `scripts/claims_score.py`: importance, tiers, relevance to Pico's relationships, open questions, graph | `scores.json`, `relevance.json`, `open_questions.json`, `graph.json` | (script) |
+| WRITER (from claims) | composes commentary and essays only from verified claims; `[[id]]` citations; `commentary_check.py` gate | its one output file | `commentary_writer.md` |
+
+**Gates for the claims layer** (quote the output): C1 `python scripts/claims_verify.py` prints `TOTAL needs_fix: 0`;
+C2 semantic sample: no `overreaches`/`wrong` outstanding, and any edited claim re-sampled; C3 `python scripts/claims_score.py`
+prints links rejected 0; C4 `python scripts/commentary_check.py FILE` exits 0; C5 for anything rendered: the page loaded and read.
+
+**Swarm recipe: the claims sweep (used 2026-09-26 for angelology and the Ficino dispute; 14 researchers, ~1,400 claims).**
+1. Write the manifest first (`data/claims/manifest.json`: item, owner, scope, status). One packet per researcher: ranges
+   of a big book split by line, chapters of an edited volume by essay, and never two agents on one packet.
+2. Give each agent its **assignment** (work key, line range, topics, leads *to be verified*, output path) and the shared
+   brief; nothing else. State leads as leads: the audit's line numbers were right, its characterisations sometimes not.
+3. Launch all in parallel (they share no file). Agents write JSONL incrementally and run `claims_pack.py` themselves; the
+   script, not the agent, decides whether a quotation is real.
+4. When all packets show `needs_fix 0`: launch the semantic VERIFIERs (group 3-4 packets per agent, different agents
+   from the researchers), then apply `suggested_text` through the packet owners, re-run `claims_verify.py`, re-sample edited claims.
+5. Launch the LINKER (one agent, or one per topic group writing separate `*.links.json` files), then `claims_score.py`.
+6. Only now launch WRITERs, one per output file, each with the commentary brief and a topic list. A second agent samples
+   each written section against its claims. Update the manifest and tickets after each stage.
+7. What a swarm of this size showed: agents given a verifier they cannot argue with produce 99% verbatim quotations; the residual
+   risk is semantic (restatements that add a name the quotation lacks), which is why stage 4 exists and why
+   `ungrounded_entity` warnings are leads for it.
+
+**Swarm recipe: thesis entries** (as in the pipeline above): TRANSLATOR blocks and WRITERs by thesis block, one entry file each,
+VERIFIER after; use `research-packets/` as input and `scripts/entry_gate.py` as the gate. **Swarm recipe: site and cards:** DESIGNER
+(`docs/SITE_DESIGN.md`) -> BUILDER per file owner -> VERIFIER drives the built page at the real base path -> DEPLOYER.
+
+**Relationship data.** Claims that bear on a relationship (`bears_on`) are the evidence for the network system
+(`docs/INTELLECTUAL_NETWORK_DESIGN.md`); person ids come from `data/network/persons.json` once it exists (ticket T-REL-01);
+`data/claims/parties.json` is the seed. Relevance of every card to every party is computed (`docs/CLAIMS_MODEL.md` s7-8), never typed.

@@ -1,8 +1,13 @@
 {
  "packet": "allen2017-other",
- "researcher": "",
+ "researcher": "R-ALLEN-2",
  "created": "",
- "scope": null,
+ "scope": {
+  "work": "allen2017",
+  "line_start": 1,
+  "line_end": 13164,
+  "excluding": "essay 10, The Birth Day of Venus (lines 5674-6861), owned by R-ALLEN-1"
+ },
  "claims": [
   {
    "claimant": "Michael J. B. Allen",
@@ -19,6 +24,13 @@
      "text": "Creation is the overflowing of the One, which is the source of being and yet utterly beyond being. First bom of the One is mind, the supreme being, in whom all things are contained in their prime unity as the Ideas.",
      "work": "allen2017",
      "line": 605,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For Ficino personally, as for the eclectic Neoplatonism that he revived, the Symposium and Phaedrus are complementary texts.",
+     "work": "allen2017",
+     "line": 602,
      "page": null,
      "page_basis": null
     }
@@ -55,6 +67,13 @@
      "text": "Pico della Mirandola set out to dominate the cultural terrain of his time, immersing himself even more in Aristotle than in Plato. He knew a number of Scholastic texts more intimately than Ficino did and felt intellectually closer to the schools, so much so that we can think of him as a late Scholastic, rather than a Platonist. Ficino described him revealingly as an eminent Aristotelian in the preface to the Plotinus translation",
      "work": "allen2017",
      "line": 681,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For Ficino personally, as for the eclectic Neoplatonism that he revived, the Symposium and Phaedrus are complementary texts.",
+     "work": "allen2017",
+     "line": 602,
      "page": null,
      "page_basis": null
     }
@@ -146,7 +165,7 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "Allen says Pico's Commento on Benivieni's canzone was used to attack Ficino's understanding of the Symposium, with insights on a par with Ficino's and deeply indebted to them.",
+   "text": "Allen says Pico's commentary on a friend's Italian love lyric (the Commento) was used to attack Ficino's understanding of the Symposium, with insights on a par with Ficino's and deeply indebted to them.",
    "quotes": [
     {
      "text": "When he returned to Florence at the instigation of the Medici and of friends such as Ficino, he presented his own version of Neoplatonic metaphysics in a commentary on a friend’s Italian love lyric, using the occasion to attack Ficino’s understanding of the Symposium. His flashes of Platonic insight are on a par with Ficino’s and deeply indebted to them, but he presented them in a haphazard series of glosses.",
@@ -487,7 +506,7 @@
     "ref": "opening; De ente et uno"
    },
    "theses": [],
-   "text": "Allen proposes to examine Pico's debts in the Oratio to later Platonic dialogues as interpreted by the Neoplatonists and as Pico probably met them in Ficino's commentaries, the same dialogues Pico adduces in an anti-Ficinian thesis in De ente et uno.",
+   "text": "Allen proposes to examine Pico's debts in the Oration to later Platonic dialogues as interpreted by the Neoplatonists and as Pico probably met them in Ficino's commentaries, the same dialogues Pico adduces in an anti-Ficinian thesis in De ente et uno.",
    "quotes": [
     {
      "text": "I wish to raise the question of Pico’s various debts to, if not dependence on, passages in several major later Platonic dialogues as they were interpreted by the Neoplatonists and as he probably encountered them in the voluminous scholarly commentaries of Marsilio Ficino, the very dialogues he would adduce, incidentally, in presenting an anti-Ficinian thesis in the De Ente et Uno.",
@@ -867,6 +886,13 @@
      "line": 1175,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Let us briefly compare Ficino’s and Pico’s positions here since they have customarily been contrasted.",
+     "work": "allen2017",
+     "line": 1155,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -911,7 +937,7 @@
    "text": "Allen reports Kristeller's view that Pico places man outside the hierarchy of beings with unlimited freedom, a step toward dissolving the great chain of being.",
    "quotes": [
     {
-     "text": "“for Pico, man has no determined nature and no fixed place in the hierarchy of beings, but he is somehow placed outside this hierarchy” with “unlimited freedom”. Consequendy, he says, Pico is taking “one of the first steps in dissolving the notion of the great chain of being",
+     "text": "Professor Kristeller, to cite perhaps the most cautious of these exponents on this issue, argues that whereas for Ficino man has a central place, “for Pico, man has no determined nature and no fixed place in the hierarchy of beings, but he is somehow placed outside this hierarchy” with “unlimited freedom”. Consequendy, he says, Pico is taking “one of the first steps in dissolving the notion of the great chain of being",
      "work": "allen2017",
      "line": 1178,
      "page": null,
@@ -947,7 +973,7 @@
     "ref": "Adam's choice"
    },
    "theses": [],
-   "text": "Allen argues, hedging that it seems to him, that Pico's Adam moves within the universal hierarchy rather than outside it, with freedom but not unlimited freedom, in accord with Neoplatonic procession and return.",
+   "text": "Allen argues, hedging that it seems to him, that in Pico's account the first man moves within the universal hierarchy rather than outside it, with freedom but not unlimited freedom, in accord with Neoplatonic procession and return.",
    "quotes": [
     {
      "text": "There is no real question, it seems to me, of being “outside” the universal hierarchy, but rather of “moving” within it: there is freedom, but not “unlimited freedom”. This is entirely in accord with Neoplatonism’s traditional concern with the procession and return of all things to the One",
@@ -987,7 +1013,7 @@
     "ref": "Adam's choice of realm"
    },
    "theses": [],
-   "text": "Allen reads the Oration's choice as one of hypostatic level: Adam can dwell in the sensual or animate realms, enter the realm of pure angelic intellects, or reach the solitary darkness of the Father.",
+   "text": "Allen reads the choice in Pico's opening speech as one of hypostatic level: the first man can dwell in the sensual or animate realms, enter the realm of pure angelic intellects, or reach the solitary darkness of the Father.",
    "quotes": [
     {
      "text": "Adam can elect to dwell in the sensual or the animate realms, or, gathered into the centre of his own unity, he can enter the intellectual realm of the pure angelic intellects, or even wing his way into the “solitary darkness of the Father”. The issue then is what hypostatic realm, what generic kind of being, not what particular entity, should he and can he properly will for himself?",
@@ -1189,9 +1215,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Heptaplus"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -1744,7 +1768,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Allen says Ficino believed apophatic theology began with the Parmenides and reached its peak with the Areopagite, whom he took as Paul's authentic Athenian disciple, whereas Allen adds that the Areopagite was in fact a late fifth-century disciple of Proclus.",
+   "text": "Allen says Ficino believed apophatic theology began with the Parmenides and reached its peak with the Areopagite, whom he took as the authentic Athenian disciple of St. Paul, whereas Allen adds that the Areopagite was in fact a late fifth-century disciple of Proclus.",
    "quotes": [
     {
      "text": "The other is its role in the development of the via negativa, the apophaticism which Ficino believed began with the Parmenides and reached its apogee with the works of the Areopagite, for him the authentic Athenian disciple of St. Paul and the crown (culmen) of Christian Platonism.",
@@ -1849,10 +1873,10 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "Allen says Ficino never entirely went along with Pico's attack on astrology in the Disputationes, though he was a knowledgeable if circumspect theorist of astrology.",
+   "text": "Allen says Ficino never entirely went along with Pico's attack on the key assumptions of astrology, preserved in a posthumous work of 1496, though he was a knowledgeable if circumspect theorist of astrology.",
    "quotes": [
     {
-     "text": "he himself was a knowledgeable if. circumspect theorist of astrology and familiar with many of its procedures (he never went entirely along with Pico’s attack, preserved for us now in the posthumous Dispntationes adversus aslrologiam divinatricem of 1496, on its key assumptions)",
+     "text": "Finally, the heavens for Ficino are not the heavens of the ordinary astrologer, although he himself was a knowledgeable if. circumspect theorist of astrology and familiar with many of its procedures (he never went entirely along with Pico’s attack, preserved for us now in the posthumous Dispntationes adversus aslrologiam divinatricem of 1496, on its key assumptions)",
      "work": "allen2017",
      "line": 5012,
      "page": null,
@@ -1862,8 +1886,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
-    "Disputationes"
+    "Pico"
    ],
    "warrants": [],
    "assumptions": [],
@@ -1892,7 +1915,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Allen presents Ficino as saying in his Timaeus commentary that above the soul the angelic mind needs no inferior powers within itself and is pure, whole and sufficient.",
+   "text": "Allen presents Ficino as saying, in a passage comparing the soul with the triangle, that above the soul the angelic mind needs no inferior powers within itself and is pure, whole and sufficient.",
    "quotes": [
     {
      "text": "For above the soul the angelic mind requires no inferior powers within itself at all and is pure and whole and sufficient.",
@@ -2072,6 +2095,13 @@
      "line": 7932,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "The history of gnosis after Plato was also subject to revision by Ficino",
+     "work": "allen2017",
+     "line": 7928,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2241,6 +2271,13 @@
      "line": 7837,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "It omits such important figures as Socrates, Timaeus, Parmenides and Empedocles whose dicta Ficino often quoted as Platonic",
+     "work": "allen2017",
+     "line": 7841,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2290,6 +2327,13 @@
      "line": 8050,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Iamblichus in particular was an authority whom Ficino encountered at the onset of his Platonic studies",
+     "work": "allen2017",
+     "line": 8040,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2327,6 +2371,13 @@
      "text": "He identifies Jupiter here with the World-Soul «by whose fatal law this manifest order of the manifest world is disposed», the jovian life being devoted to the life of action and of the senses (as active or perspicacious instruments). But Saturn is «the supreme intellect among the angels» and his rays illuminate souls so that they are more illuminated even than the angels",
      "work": "allen2017",
      "line": 7296,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Ficino returns to the Statesman’s myth for the last time in the Platonic Theology in 18.9.4",
+     "work": "allen2017",
+     "line": 7317,
      "page": null,
      "page_basis": null
     }
@@ -2582,6 +2633,13 @@
      "line": 9614,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "a position that is open, from Ficino’s viewpoint, to four interconnected methods of Platonic allegorizing",
+     "work": "allen2017",
+     "line": 9609,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2627,7 +2685,7 @@
    "text": "Allen says that although Mind was identifiable in Christian metaphysics, at least in its Arian version, with the Son, Latin usage of Jupiter for the Deity and Saturn's negative associations worked against it, and Christian philosophers coopted aspects of the Plotinian Mind for aspects of God and of the angel, God's first creature.",
    "quotes": [
     {
-     "text": "Insofar as Mind then became identifiable in Christian metaphysics, or at least in its Arian version, with the Son – the Logos who was in the beginning with God and was God in the famous opening formulations of St. John s Gospel – we might have predicted that Saturn would be used, at least in contexts where classical deities were a legitimate rhetorical recourse, to signify the Son, But the Latin West’s constant cooptation of Jupiter to signify the Deity in such contexts, combined with the many negative or problematic associations of Saturn, obviously militated against this, even as Christian philosophers coopted aspects of the Plotinian Mind to account for aspects of God on the one hand and aspects of the angel, God’s first creature, on the other.",
+     "text": "Insofar as Mind then became identifiable in Christian metaphysics, or at least in its Arian version, with the Son ... we might have predicted that Saturn would be used, at least in contexts where classical deities were a legitimate rhetorical recourse, to signify the Son, But the Latin West’s constant cooptation of Jupiter to signify the Deity in such contexts, combined with the many negative or problematic associations of Saturn, obviously militated against this, even as Christian philosophers coopted aspects of the Plotinian Mind to account for aspects of God on the one hand and aspects of the angel, God’s first creature, on the other.",
      "work": "allen2017",
      "line": 9626,
      "page": null,
@@ -2666,7 +2724,7 @@
     "ref": "Saturn and Uranus"
    },
    "theses": [],
-   "text": "Allen says Ficino read Saturn's castration of Uranus allegorically as a mythical description of the radical nature of Mind's descent or procession from the One.",
+   "text": "Allen says Ficino read the god's castration of his father Uranus allegorically as a mythical description of the radical nature of Mind's descent or procession from the One.",
    "quotes": [
     {
      "text": "the story of the god’s castration of his father Uranus, which Ficino read allegorically as a mythical description of the radical nature of Mind’s descent from, or procession from, the One.",
@@ -3072,6 +3130,13 @@
      "line": 11245,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "In his Philebus Commentary Ficino goes further still",
+     "work": "allen2017",
+     "line": 11240,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3120,6 +3185,13 @@
      "line": 11251,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "First, Ficino says, is the triad of the Seraphim",
+     "work": "allen2017",
+     "line": 11248,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3163,6 +3235,13 @@
      "text": "Third is the ray of the Good which becomes triple in any intelligence. When it strives towards the Good, this ray is Saturn (though some say the Sky, Coelius); when it reverts to itself, it is Jupiter; and when it turns towards lower things, it is Prometheus. Accordingly, the soul in turn has three powers: one joining it to the higher, another whereby it retains its proper energy, and another joining it to the lower.",
      "work": "allen2017",
      "line": 11260,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In his Philebus Commentary Ficino goes further still",
+     "work": "allen2017",
+     "line": 11240,
      "page": null,
      "page_basis": null
     }
@@ -3268,6 +3347,20 @@
      "line": 9221,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "In the last decade of his life, Ficino turned to translate and comment on two works of the sixth century Neoplatonist Dionysius",
+     "work": "allen2017",
+     "line": 9207,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The works in question are the long On Divine Names and the brief but profound On Mystical Theology.",
+     "work": "allen2017",
+     "line": 9214,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3311,6 +3404,13 @@
      "text": "Again, the mystery Ficino discovers here is theological and metaphysical. He takes the famous enigma and from it derives Plato’s core metaphysical system with its apex in the One and its emanation (or pouring forth) into Mind and then into Soul, in a subordinationist scheme that is Plotinian rather than strictly Platonic.25 Interestingly, however, he would return twice more to the enigma in the hope of accommodating its wording to orthodox Trinitarian formulae",
      "work": "allen2017",
      "line": 8559,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "his analysis in this argumentum for the Second Letter is not his final word on the matter",
+     "work": "allen2017",
+     "line": 8592,
      "page": null,
      "page_basis": null
     }
@@ -3411,7 +3511,7 @@
     "ref": "III"
    },
    "theses": [],
-   "text": "Allen says Pico complains that no one, Ficino included, had understood the subtle and profound mystery of Orpheus, which occurred to Pico the first time he read the Symposium.",
+   "text": "Allen says Pico complains that no one, Ficino included, had understood the subtle and profound mystery, which occurred to Pico the first time he read the Symposium.",
    "quotes": [
     {
      "text": "Pico then self-congratulatingly complains that no one, including Ficino, had ever understood this «subtle and profound» mystery, whereas its interpretation had instantly occurred to him the first time he read the Symposium.",
@@ -3563,6 +3663,13 @@
      "line": 10560,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Plotinus therefore argues that there are two Herakles’s possessed respectively of two kinds of soul",
+     "work": "allen2017",
+     "line": 10555,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "hedged",
@@ -3702,6 +3809,13 @@
      "text": "the repository of his highest mysteries concerning the ultimate ground of being and nonbeing, of the One that Plotinus put at the summit of his metaphysical hierarchy. The first part of the dialogue criticizes Plato’s theory of Ideas and discusses the kinds of things that do not have Ideas. The second part sets forth what the later Neoplatonists determined were nine hypotheses: a set of five positive and a subordinate set of four negative hypotheses. The first set they saw as treating the five hypostases (roughly, levels of being or reality) in what for them had become the standard pentad of the Platonic metaphysical system: the One, mind, soul, Forms in matter, and matter (or matter in extension as body).",
      "work": "allen2017",
      "line": 450,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In the opinion of the Platonists of antiquity, Parmenides was the most important philosopher before Socrates because the dialogue Plato had named after him presented them with their greatest philosophical challenge.",
+     "work": "allen2017",
+     "line": 443,
      "page": null,
      "page_basis": null
     }
@@ -3876,8 +3990,39 @@
    "id": "allen2017-other:085"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
+ "not_mined": [
+  "Essay 1 (325-870, The Renaissance: Platonism): Ficino-general survey; mined only the Parmenides/Dionysius/Proclus paragraph (440-490) and the Pico paragraphs (596-846). The rest (Cusanus, Ficino's biography, Platonic love) left.",
+  "Essay 3 (1776-2105, Renaissance Neoplatonism and literary criticism): wholly on Ficino, Plato's dialogues and poetics; only the prisci theologi sentence (1884) mined.",
+  "Essay 4 (2106-2761, Daemonic Mathematics): Ficino on mathematicals and soul; mined only the angelic-mind sentence (2393) and nothing on Pico apart from the note at 2686 (Conclusiones, Pythagorean mathematics 13-14), not extracted because it is bibliographic.",
+  "Essay 5 (2762-3380, In principio: Ficino on the life of text): Ficino only; mined only the notes at 3315 (Heptaplus Philolaus) and 3364 (Idea of Man; Commento 1.6).",
+  "Essay 6 (3381-3900, Ficinian Timaeus): Ficino only; mined only the Pico/Ficino contrast at 3727.",
+  "Essay 7 (3901-4562, Kristeller and Ficino): historiography of Ficino scholarship; mined only Ficino's Dionysius (4287-4301) and the Pico-originality remark (4338).",
+  "Essay 8 (4563-5131, Levitation): Ficino only; mined only the light-through-angels passage (4828) and the astrology remark (5012).",
+  "Essay 9 (5132-5673, Language of the Past): Ficino's German correspondents and Dionysian Sun; nothing on Pico or angels beyond a letter (5188) and the Platonic and Dionysian Sun (5322); not extracted.",
+  "Essay 11 (6862-7706, Quisque in sphaera sua): Ficino, Statesman and resurrection; mined only the angelology passages (7296, 7363-7385, 7662) and nothing on Pico (none in essay).",
+  "Essay 12 (7707-8294, At Variance): mined Pico's thirteen theses, Ficino's Dionysius chronology and Proclan theology, Ficino's demons/angels; not mined: Ficino on Hermes, Orpheus, Zoroaster narrative beyond the six-sage list, De vita controversy, Pletho, Mercurio da Correggio.",
+  "Essay 13 (8295-8940, Sending Archedemus): Ficino on Plato's Second Letter; mined only the One-Mind-Soul reading (8559-8565).",
+  "Essay 14 (8941-9411, Philosophic statuary): Ficino only; mined only the Dionysius commentaries paragraph (9207-9229).",
+  "Essay 15 (9412-10195, Saturn, Plotinian Mind, Averroes): read in full; not extracted: Ficino's astrological Saturn, Macrobian zodiac gates, melancholy, Statesman myth, the detailed Book XV account of Averroes (only Ficino's rejection and the angel-per-species line are claimed).",
+  "Essay 16 (10196-10958, Eurydice in Hades): read Pico/Poliziano/Lorenzo passages (10491-10635) and notes 55, 64-65; not extracted: Ficino on Orpheus/Eurydice/Plato's Cratylus etymologies beyond those claims.",
+  "Essay 17 (10959-11577, Prometheus): mined only the Philebus-commentary triads (11240-11262); not extracted: Prometheus myth, Protagoras epitome, the daemons as Epimetheus/Prometheus.",
+  "Essay 18 (11578-12312, Epinomis): no Pico, angel, Dionysius or One-and-Being material found by grep; not read in full.",
+  "Corrigenda and Index (12206-13164): one claim from the Copenhaver note (12227); index entries on Pico (e.g. 'Philebus 23C, influence on Pico 2.177-79; 10.96') not extracted."
+ ],
+ "proposed_topics": [
+  {
+   "id": "prisca-theologia",
+   "label": "The line of ancient theologians (Zoroaster, Hermes, Orpheus, Pythagoras, Plato) inherited by Ficino and Pico; concord"
+  },
+  {
+   "id": "ficino-angelology",
+   "label": "Ficino's own angelology: angelic mind, Saturn as supreme angelic intellect, seraphim triad, angel bodies"
+  },
+  {
+   "id": "astrology-disputationes",
+   "label": "Pico's Disputationes against astrology and Ficino's response"
+  }
+ ],
  "proposed_parties": [],
- "notes": ""
+ "notes": "ESSAY MAP (line ranges in allen2017): Preface/Acknowledgements 215-322; 1 The Renaissance: Platonism 325-870 (Columbia Hist. Western Phil. 1999); 2 Cultura hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man 871-1775 (Mirandola 1994, pub. 1997); 3 Renaissance Neoplatonism 1776-2105; 4 Daemonic Mathematics and the Hypotenuse of the Spirit 2106-2761; 5 In principio: Ficino on the Life of Text 2762-3380; 6 The Ficinian Timaeus and Renaissance Science 3381-3900; 7 Kristeller and Ficino: e tenebris revocaverunt 3901-4562; 8 Levitation and the Ascent to Capricorn 4563-5131; 9 Ficino and the Language of the Past 5132-5673; 10 The Birth Day of Venus (R-ALLEN-1) 5674-6861; 11 Quisque in sphaera sua 6862-7706; 12 At Variance: Ficino, Platonism and Heresy 7707-8294; 13 Sending Archedemus 8295-8940; 14 To gaze upon the face of God again (statuary) 8941-9411; 15 Ficino on Saturn, the Plotinian Mind, and the Monster of Averroes 9412-10195; 16 Eurydice in Hades 10196-10958; 17 Prometheus among the Florentines 10959-11577; 18 Ratio omnium divinissima (Epinomis) 11578-12312; Corrigenda 12206-12312; Index 12313-13164. (Corrigenda sits inside the tail of essay 18's range.)\n\nCRUXES AND SURPRISES. (1) Allen dates Pseudo-Dionysius inconsistently across the volume: 'late fifth century' (4301, 7929), 'late fifth- or early sixth-century' (478-480), and 'sixth century' (9208, 9930, in essays 14 and 15). Recorded as open questions on three claims; a card must not choose a date on Allen's authority without saying which essay. The audit lead 'Dionysius called Proclus's disciple about line 9930' is confirmed (9930: 'Proclus' great sixth century disciple, Dionysius the Pseudo-Areopagite'). (2) Leads 11248-11256 confirmed: Ficino's Philebus commentary 1.26 gives a seraphic triad (head, breast, thigh) and, following the Divine Names 4.8, three angelic motions; both are Allen reporting Ficino, so attribution is scholar_report. (3) Leads 10941-10949 are notes citing the Birth Day essay pp. 87-91 and 89 (Orpheus, Pico's Commento III); I did not claim from them; the same Pico material is claimed here from the primary passage at 10576-10601, and R-ALLEN-1 will have the essay-10 statement, so a linker should treat the pairs as same_claim. (4) Note 28 (1597-1602) quotes Pico's Italian: the Platonists' 'son of God' is to be compared to 'il primo e piu nobile angelo da Dio creato'; this is Allen quoting Pico's Commento (not in the corpus), so the claim is scholar_claim, not primary_text. (5) The Ficino-Pico relationship claims tagged quarrel are Allen's characterisations (Commento attack on Ficino's Symposium reading; De ente dismissal of Parmenides/Sophist; Ficino annoyed at 'temerity'); Allen's fullest argument for the 'second Ficino-Pico controversy' is in his 1986 article, not in this volume, only cited at 1499-1503 and 4507. (6) The poliziano tag (claim on Eurydice etymology) concerns Poliziano's compliment to Ficino, not a Pico-Poliziano dealing; kept as 'other'. Lorenzo tag likewise ('Lorenzo's and Pico's scorn' for the failed Orpheus). No savonarola material beyond the two remarks in essay 1 (679, 751). OCR: curly apostrophes and dashes are garbled in some lines (e.g. 'Ficirdan', 'scom', 'bom', 'Consequendy', 'Dispntationes'); quotations follow the file. Page markers ('## Page N') fall inside several sentences; quotes use '...' to bridge them. No printed page brackets exist in this volume, so no `page` values given."
 }

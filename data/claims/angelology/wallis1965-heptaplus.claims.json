@@ -1,8 +1,12 @@
 {
  "packet": "wallis1965-heptaplus",
- "researcher": "",
- "created": "",
- "scope": null,
+ "researcher": "R-HEPTAPLUS",
+ "created": "2026-09-25",
+ "scope": {
+  "work": "wallis1965",
+  "line_start": 3497,
+  "line_end": 7739
+ },
  "claims": [
   {
    "claimant": "Pico",
@@ -16,7 +20,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Pico says he was moved to examine the secrets of the book of Moses by emulation of Lorenzo's own studies, and dedicates the work to Lorenzo.",
+   "text": "Pico says he was moved to examine the secrets of the book of Moses by emulation of the studies of Lorenzo dei Medici, and dedicates the work to him.",
    "quotes": [
     {
      "text": "Emulation of your studies, Lorenzo dei Medici, has moved me to examine the secrets of the book of Moses",
@@ -68,7 +72,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Pico says the work was written at Fiesole in a retreat Lorenzo provided, made pleasanter by the constant visits of Angelo Poliziano.",
+   "text": "Pico says the work was written at Fiesole in a retreat provided by the man he addresses, made pleasanter by the constant visits of Angelo Poliziano.",
    "quotes": [
     {
      "text": "because you provided me with the leisure of this very retreat at Fiesole in which they were born, a retreat frequently made more enjoyable by the visits, or rather the constant attendance, of your friend Angelo Poliziano",
@@ -269,7 +273,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Pico holds that if Moses treats anywhere of the whole world, he does so above all where he treats of the emanation of all things from God and of the grade, number and order of the parts of the world.",
+   "text": "Pico holds that if the book treats anywhere of the whole world, it does so above all where it treats of the emanation of all things from God and of the grade, number and order of the parts of the world.",
    "quotes": [
     {
      "text": "if in any part of his work he buried the treasures of all true philosophy as in a field, he must have done so most of all in the part where avowedly and most loftily he philosophizes on the emanation of all things from God, and on the grade, number, and order of the parts of the world.",
@@ -281,9 +285,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Moses"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -308,7 +310,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Pico says he will pass over the Fathers, the Greek writers and the Chaldean and Hebrew interpreters, and will offer seven interpretations of his own discovery.",
+   "text": "Pico says he will make no mention of what earlier interpreters wrote in the Chaldean language, and will offer seven interpretations of his own discovery.",
    "quotes": [
     {
      "text": "We shall make no mention at present of what Ionethes or Anchelos or the venerable Simeon bequeathed in the Chaldean language",
@@ -1235,7 +1237,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Pico says the seventh, sabbatical exposition treats the felicity of creatures and their return to God, and that the Mosaic text hides an explicit prophecy of Christ, the Church and the calling of the gentiles.",
+   "text": "Pico says the seventh, sabbatical exposition treats the felicity of creatures and their return to God, and that the text hides an explicit prophecy of Christ, the Church and the calling of the gentiles.",
    "quotes": [
     {
      "text": "it is fitting that after treating the orders of things proceeding from God and explaining their union and diversity and their bonds and habits, we should in a seventh, and as it were, sabbatical exposition, touch lightly on the felicity of creatures and their return to God",
@@ -1280,7 +1282,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Pico says he will not pile up what philosophers and theologians have said about God, angels, matter and the heavens, as Isaac the Persian and Samuel Ophinides did, but will only show what the Mosaic text means.",
+   "text": "Pico says he will not pile up what philosophers and theologians have said about God, angels, matter and the heavens, as Isaac the Persian and Samuel Ophinides did, but will only show what the text means.",
    "quotes": [
     {
      "text": "We shall not, however, imitate those who, having tried sometimes to explain the creation of the world, have heaped together whatever philosophers or theologians have anywhere said about God, the angels, matter, the heavens, and the whole of nature. Among the Hebrews, Isaac the Persian and Samuel Ophinides have particularly sinned in this.",
@@ -1319,7 +1321,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Pico says the work is not meant to teach those who have not learned these matters elsewhere, but to let readers recognise in Moses what they already know.",
+   "text": "Pico says the work is not meant to teach those who have not learned these matters elsewhere, but to let readers recognise in the words of the Prophet what they already know.",
    "quotes": [
     {
      "text": "it is not the purpose of this work that any who have not learned these things elsewhere should learn them here for the first time, but that they may recognize in the words of the Prophet what they already know",
@@ -1535,11 +1537,20 @@
      "line": 4299,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "this interpretation of ours is confirmed by the authority of the Stoics, who called heaven the active cause and earth the material",
+     "work": "wallis1965",
+     "line": 4302,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [],
+   "entities": [
+    "Stoics"
+   ],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -1796,7 +1807,7 @@
     "ref": "Second Exposition, proem"
    },
    "theses": [],
-   "text": "Pico says, on the authority of Dionysius and Saint Thomas, that among angelic minds the highest is the one that understands with the fewest concepts what lower minds understand with many.",
+   "text": "Pico says, on the authority of Dionysius and Thomas, that among angelic minds the highest is the one that understands with the fewest concepts what lower minds understand with many.",
    "quotes": [
     {
      "text": "Similarly among angelic minds, according to the authority of Dionysius and St. Thomas, the glory of our theology, that is highest which by its intelligence understands with the fewest concepts and forms what lower minds understand with many and varied ones.",
@@ -2255,6 +2266,13 @@
      "line": 4994,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "It was commonly the practice of the ancients, as we observe in the Orphic hymns, to designate by the terms male and female these two powers in the same substance, one of which is engaged in contemplation while the other rules the body",
+     "work": "wallis1965",
+     "line": 4999,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2548,7 +2566,7 @@
     "ref": "Third Exposition, proem"
    },
    "theses": [],
-   "text": "Pico says that where the Hebrews agree with the Church he will hold them to their fathers' traditions, where they disagree he will attack them, and what is holy and true he will bear off from the synagogue to the legitimate Israelites.",
+   "text": "Pico says that where the Hebrews agree with 'us' he will hold them to their fathers' traditions, where they disagree he will attack them, and what is holy and true he will bear off from the synagogue to the legitimate Israelites.",
    "quotes": [
     {
      "text": "If they agree with us anywhere, we shall order the Hebrews to stand by the ancient traditions of their fathers; if anywhere they disagree, then drawn up in Catholic legions we shall make an attack upon them.",
@@ -3146,9 +3164,9 @@
    "text": "Pico says, following Dionysius, that the highest hierarchy is given only to contemplation and praises God unceasingly, and that the middle rank is assigned to the work of the heavens.",
    "quotes": [
     {
-     "text": "Since, as he writes, the highest hierarchy has leisure only for contemplation, it is properly symbolized by the waters that are placed above the heavens, that is, above all action in regard to worldly things, whether heavenly or earthly, and they praise God unceasingly with everlasting sound. Since the middle rank is assigned to the work of the heavens, it could not be more fittingly symbolized than by the firmament, that is, the sky.",
+     "text": "All this, if we consider the nature and duties of the three hierarchies, could not be more in accord with the teaching of Dionysius. Since, as he writes, the highest hierarchy has leisure only for contemplation, it is properly symbolized by the waters that are placed above the heavens, that is, above all action in regard to worldly things, whether heavenly or earthly, and they praise God unceasingly with everlasting sound. Since the middle rank is assigned to the work of the heavens, it could not be more fittingly symbolized than by the firmament, that is, the sky.",
      "work": "wallis1965",
-     "line": 5253,
+     "line": 5251,
      "page": null,
      "page_basis": null
     }
@@ -3295,6 +3313,13 @@
      "text": "Augustine also asserted, as Gregory later confirmed, that there is no visible thing among us over which an angelic power does not preside, and that all bodies are constantly ruled by a rational spirit of life.",
      "work": "wallis1965",
      "line": 5318,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Origen likewise, in his commentary on the book of Numbers, says that the world needs angels to preside over animals and their birth and also over the increase of bushes and plantings and other things",
+     "work": "wallis1965",
+     "line": 5321,
      "page": null,
      "page_basis": null
     }
@@ -3893,7 +3918,7 @@
     "ref": "Fifth Exposition, proem"
    },
    "theses": [],
-   "text": "Pico says that although Moses treats all worlds together everywhere, he assigned individual parts of his work to individual worlds in successive order, beginning with the first world, the angelic.",
+   "text": "Pico says that although the author treats all worlds together everywhere, he assigned individual parts of his work to individual worlds in successive order, beginning with the first world, the angelic.",
    "quotes": [
     {
      "text": "he assigned individual parts of his work peculiarly to the individual worlds in successive order. In order to show this, we shall begin to interpret the first part in relation to the first world, the angelic, and then the other parts in relation to the rest",
@@ -4616,6 +4641,49 @@
    "attribution": "primary_text",
    "claim_type": "doctrinal_content",
    "topics": [
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "Fifth Exposition, ch. 7"
+   },
+   "theses": [],
+   "text": "Pico says that, because all things are included in man, the gospel saying is that all the angels rejoice in gladness when a sinner repents.",
+   "quotes": [
+    {
+     "text": "Just as every creature hates and abhors the sins of man, so his upright life and behavior is dear and pleasing to all. All the things which are included in man and connected with him by so close a bond cannot be excluded from participation in his good and evil.",
+     "work": "wallis1965",
+     "line": 6294,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Hence comes the saying in the gospel, \"If a sinner has repented, all the angels rejoice in gladness,\"",
+     "work": "wallis1965",
+     "line": 6298,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:107"
+  },
+  {
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
     "heptaplus-structure",
     "one-beyond-being",
     "de-ente"
@@ -4654,7 +4722,7 @@
     "frame_shift": 1,
     "justification": "Identifies the One with the Trinity in the Heptaplus's account of unity, relevant to the later exchange about the One and Being."
    },
-   "id": "wallis1965-heptaplus:107"
+   "id": "wallis1965-heptaplus:108"
   },
   {
    "claimant": "Pico",
@@ -4690,7 +4758,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:108"
+   "id": "wallis1965-heptaplus:109"
   },
   {
    "claimant": "Pico",
@@ -4726,7 +4794,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:109"
+   "id": "wallis1965-heptaplus:110"
   },
   {
    "claimant": "Pico",
@@ -4769,7 +4837,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:110"
+   "id": "wallis1965-heptaplus:111"
   },
   {
    "claimant": "Pico",
@@ -4822,7 +4890,7 @@
     "frame_shift": 1,
     "justification": "Says the Spirit of God, read in us as the intellect, is joined to bodies as an art to its matter, the language used of a separate intellect."
    },
-   "id": "wallis1965-heptaplus:111"
+   "id": "wallis1965-heptaplus:112"
   },
   {
    "claimant": "Pico",
@@ -4859,7 +4927,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:112"
+   "id": "wallis1965-heptaplus:113"
   },
   {
    "claimant": "Pico",
@@ -4896,7 +4964,7 @@
     "frame_shift": 1,
     "justification": "States that the human intellect is to be joined to the first intellect."
    },
-   "id": "wallis1965-heptaplus:113"
+   "id": "wallis1965-heptaplus:114"
   },
   {
    "claimant": "Pico",
@@ -4942,7 +5010,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:114"
+   "id": "wallis1965-heptaplus:115"
   },
   {
    "claimant": "Pico",
@@ -4996,7 +5064,7 @@
     "frame_shift": 2,
     "justification": "Ties One to beginning and Good to end, and attributes the pair to the Pythagoreans, in the work's closing account of felicity."
    },
-   "id": "wallis1965-heptaplus:115"
+   "id": "wallis1965-heptaplus:116"
   },
   {
    "claimant": "Pico",
@@ -5040,7 +5108,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:116"
+   "id": "wallis1965-heptaplus:117"
   },
   {
    "claimant": "Pico",
@@ -5077,7 +5145,7 @@
     "frame_shift": 1,
     "justification": "Pico reports a limit on angelic knowledge of God that he then says only grace overcomes."
    },
-   "id": "wallis1965-heptaplus:117"
+   "id": "wallis1965-heptaplus:118"
   },
   {
    "claimant": "Pico",
@@ -5118,7 +5186,7 @@
     "frame_shift": 1,
     "justification": "Pico grades the active-intellect theories as adequate only to natural felicity."
    },
-   "id": "wallis1965-heptaplus:118"
+   "id": "wallis1965-heptaplus:119"
   },
   {
    "claimant": "Pico",
@@ -5164,7 +5232,7 @@
     "frame_shift": 2,
     "justification": "Puts angels, as well as men, in need of grace to reach the beatific vision and links the sin of Lucifer to trying to ascend by one's own power."
    },
-   "id": "wallis1965-heptaplus:119"
+   "id": "wallis1965-heptaplus:120"
   },
   {
    "claimant": "Pico",
@@ -5208,7 +5276,7 @@
     "frame_shift": 2,
     "justification": "Restates the angel-as-number teaching of the Third Exposition for man: return from multiplicity to unity, and calls God 'the One'."
    },
-   "id": "wallis1965-heptaplus:120"
+   "id": "wallis1965-heptaplus:121"
   },
   {
    "claimant": "Pico",
@@ -5259,7 +5327,7 @@
     "frame_shift": 1,
     "justification": "Here 'heaven' means the angelic nature and 'earth' the human, as opposed to the readings of the Third and Fifth Expositions."
    },
-   "id": "wallis1965-heptaplus:121"
+   "id": "wallis1965-heptaplus:122"
   },
   {
    "claimant": "Pico",
@@ -5302,7 +5370,7 @@
     "frame_shift": 1,
     "justification": "Places demons in the air and says an angel gave the law to Moses."
    },
-   "id": "wallis1965-heptaplus:122"
+   "id": "wallis1965-heptaplus:123"
   },
   {
    "claimant": "Pico",
@@ -5316,7 +5384,7 @@
     "ref": "Seventh Exposition, ch. 4"
    },
    "theses": [],
-   "text": "Pico says his interpretation will furnish Christians with weapons against the Hebrews drawn from their own arsenals, and that it is among the doctrines of ancient Hebrew learning that the six days denote the six thousand years of the world, a view confirmed by Moses of Gerona and mentioned by Jerome.",
+   "text": "Pico says his interpretation will furnish weapons against the stony hearts of the Hebrews drawn from their own arsenals, and that it is among the doctrines of ancient Hebrew learning that the six days denote the six thousand years of the world, a view confirmed by Moses of Gerona and mentioned by Jerome.",
    "quotes": [
     {
      "text": "Against the stony hearts of the Hebrews it will furnish you with powerful weapons drawn from their own arsenals.",
@@ -5355,7 +5423,7 @@
     "frame_shift": 1,
     "justification": "Shows Pico using Hebrew sources polemically, in his own words as weapons against the Hebrews."
    },
-   "id": "wallis1965-heptaplus:123"
+   "id": "wallis1965-heptaplus:124"
   },
   {
    "claimant": "Pico",
@@ -5375,6 +5443,20 @@
      "text": "There circulate among them as well-understood popular traditions the oracles of Elijah, which say freely and without any symbolism or veil that the Messiah will come in the fourth millennium of the world.",
      "work": "wallis1965",
      "line": 7148,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But the Hebrews will say, \"Granted that Jesus came at this time.\"",
+     "work": "wallis1965",
+     "line": 7144,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "These words are in the part which is entitled Aboda Zara",
+     "work": "wallis1965",
+     "line": 7157,
      "page": null,
      "page_basis": null
     },
@@ -5401,7 +5483,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:124"
+   "id": "wallis1965-heptaplus:125"
   },
   {
    "claimant": "Pico",
@@ -5439,7 +5521,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:125"
+   "id": "wallis1965-heptaplus:126"
   },
   {
    "claimant": "Pico",
@@ -5454,7 +5536,7 @@
     "ref": "Exposition of the First Phrase"
    },
    "theses": [],
-   "text": "Pico says that having completed the sevenfold interpretation he will treat the first phrase last, that he will not discuss the Son as beginning nor prove that the ancient Hebrews thought as Christians do, which he will do elsewhere, and that he intends through another system of interpretation to give a taste of Mosaic profundity.",
+   "text": "Pico says that having completed the sevenfold interpretation he will treat the first phrase last, that he will not discuss the Son as beginning nor prove that the ancient Hebrews thought as he does, which he will do elsewhere, and that he intends through another system of interpretation to give a taste of Mosaic profundity.",
    "quotes": [
     {
      "text": "Now we have come to the end of our work, having gone through the sevenfold interpretation of the entire text.",
@@ -5483,7 +5565,7 @@
     "frame_shift": 1,
     "justification": "Calls the sevenfold interpretation complete and treats the first phrase as a separate, additional method."
    },
-   "id": "wallis1965-heptaplus:126"
+   "id": "wallis1965-heptaplus:127"
   },
   {
    "claimant": "Pico",
@@ -5526,7 +5608,7 @@
     "frame_shift": 1,
     "justification": "Gives Pico's own account of the letter-permutation method and its authority."
    },
-   "id": "wallis1965-heptaplus:127"
+   "id": "wallis1965-heptaplus:128"
   },
   {
    "claimant": "Pico",
@@ -5576,7 +5658,7 @@
     "frame_shift": 2,
     "justification": "Pico himself states the limits of his warrant for the Hebrew permutation method."
    },
-   "id": "wallis1965-heptaplus:128"
+   "id": "wallis1965-heptaplus:129"
   },
   {
    "claimant": "Pico",
@@ -5622,7 +5704,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:129"
+   "id": "wallis1965-heptaplus:130"
   },
   {
    "claimant": "Pico",
@@ -5659,7 +5741,7 @@
     "frame_shift": 1,
     "justification": "The Hebrew phrase is resolved into a Trinitarian statement and a description of the great man."
    },
-   "id": "wallis1965-heptaplus:130"
+   "id": "wallis1965-heptaplus:131"
   },
   {
    "claimant": "Pico",
@@ -5703,7 +5785,7 @@
     "frame_shift": 1,
     "justification": "Maps the three worlds onto head, breast and lower body, so that the angelic world is the intellect of the great man."
    },
-   "id": "wallis1965-heptaplus:131"
+   "id": "wallis1965-heptaplus:132"
   },
   {
    "claimant": "Pico",
@@ -5747,7 +5829,7 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:132"
+   "id": "wallis1965-heptaplus:133"
   },
   {
    "claimant": "Pico",
@@ -5784,11 +5866,35 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-heptaplus:133"
+   "id": "wallis1965-heptaplus:134"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
+ "not_mined": [
+  "Heptaplus dedication/first proem details on Pythagorean and Egyptian lore (l. 3540-3600) beyond the method claims; only what bears on hidden meaning and Dionysius was taken.",
+  "First Exposition ch. 3-6 (l. 4402-4553) on the sublunary divisions, phenomena, Ennius, plants and animals: physical detail with no angelology; only ch. 1-3, 7 taken.",
+  "Second Exposition ch. 3-5 (l. 4794-4956) on planets, astral influence, Avicenna, constellations: astronomy; only the Hebrew-mystery claim taken.",
+  "Fourth Exposition ch. 1, 3-7 (l. 5548-5860) on body, spirit, senses, appetites, Manichaeans, Adam: moral psychology with no angelic content beyond the claims taken (fellowship with angels, illuminating intellect, active-intellect controversy).",
+  "Fifth Exposition ch. 3, 4 (astrology), ch. 6-7 partly: sea limits, Epicurus, Strato, Melito, prose on penalties.",
+  "Sixth Exposition ch. 2-5 (l. 6393-6552): the fifteen kinds of affinity in detail, prayer and pagan testimonies (Iamblichus, Porphyry).",
+  "Seventh Exposition ch. 3, 4, 5, 6, 7 (l. 6990-7560): the Jewish and gentile waters, the six millennia argument, Elijah's oracle, Talmud arithmetic, the fish, birds and beasts allegory, the firmament as law, baptism. Only claims on method, Hebrew sources, angels and demons were taken.",
+  "The Hebrew letter list of Beresit in the final exposition (l. 7642-7662) is OCR-garbled and was not quoted; the translations of its twelve words were quoted (l. 7665-7673).",
+  "Back-cover publisher blurb (l. 7740-7752) and copyright material are not Heptaplus text and were left out. It is publisher copy, not a scholar's claim.",
+  "Translators' footnotes: only those with editorial substance were read for the packet; the gate does not admit them (see notes)."
+ ],
+ "proposed_topics": [
+  {
+   "id": "heptaplus-hebrew-method",
+   "label": "The Heptaplus's use of Hebrew authorities and the letter-permutation reading of the first word (Exposition of the First Phrase, Third Exposition proem, Seventh Exposition ch. 4); Pico's own hedging of the method"
+  },
+  {
+   "id": "angelic-composition",
+   "label": "The composition of angels: number and unity, essence and being, act and potency (Third Exposition ch. 1; Fifth Exposition ch. 1)"
+  },
+  {
+   "id": "demons-fallen-angels",
+   "label": "Evil angels and demons: no difference of nature from the good angels; hangmen and lictors; Lucifer's ascent; demons of the air (Fourth-Seventh Expositions)"
+  }
+ ],
  "proposed_parties": [],
- "notes": ""
+ "notes": "PACKET COVERS the Heptaplus only (Carmichael's translation, work wallis1965, l. 3497 first proem to l. 7739). All claims are primary_text (Pico speaking through the translation). GATE LIMIT: claims_verify.py lists wallis1965 in PRIMARY_WORKS, so a scholar_claim quoting the translators' footnotes fails as scholar_from_primary. The translators' notes are therefore NOT in the claims array. Editorial notes (translators, identified as such in the Note on the Text, which says the translators are indebted to Garin for identifications) with quotations located at the given lines: l.3738 (first proem): The translators' note identifies Simeon, named by Pico among the authors in the Chaldean language, as the reputed author of the Zohar. [quote: Simeon ben Yohai. reputed 2nd-century author of the most important of all Cabalistic works. the Zohar, a mystical commentary on the Pentateuch.] | l.3768 (first proem, n. 24): The translators' note says it is not certain which Eleazar Pico meant, and reports that Garin suggests Nechunjah ben ha-Qanah for Neonias and Isaac the Blind for Isaac. [quote: There are numerous early Jewish writers of the name Eleazar; it is not certain to which Pico referred.] | l.4109 (second proem, n. 8): The translators' note says Isaac the Persian is unidentifiable and identifies Samuel Ophinides as Samuel ben Hophni. [quote: Isaac the Persian. unidentifiable. Samuel Ophinides is Samuel ben Hophni.] | l.4351 (First Exposition ch. 2, n. 5): The translators' note cross-refers the passage on Tou and Bou to the Zohar I, 16a. [quote: Cf. Zohar, I, 16a] | l.5142 (Third Exposition proem, n. 2): The translators' note calls Hierotheus a fictitious mystic referred to as historical by the Pseudo-Dionysius. [quote: Fictitious mystic referred to as historical by the Pseudo-Dionysius.] | l.5773 (Fourth Exposition ch. 5, n. 12): The translators' note says Pico indicates no source for the Chaldean quotation about the beasts of the earth and gives it only in Latin. [quote: Pico indicates no source for this quotation and gives it only in Latin.] | l.6022 (Fifth Exposition ch. 1, n. 3): The translators' note says Pico gives no indication of a particular source for the Saracens' saying about the angels led out of darkness into light. [quote: Pico gives no indication of a particular source for this.] | l.7202 (Seventh Exposition ch. 4, n. 19): The translators' note cites Aboda Zara 9a, Sanhedrin 97a and Zohar I, 25a for the oracle of Elijah. [quote: Aboda Zara, ga. Cf. Sanhedrin, 97a; Zohar, I, 25a.] | l.7159 (Seventh Exposition ch. 4, n. 18): The translators' note says Pico's figures for the years from Adam to Abraham actually add up to 1848, agreeing with a later total. [quote: Pico's figures here actually add up to 1848.]. Suggested fix for the orchestrator: give translators' notes and Miller's introduction their own registry key (e.g. wallis1965_notes) that is not in PRIMARY_WORKS. CRUXES: (1) The first four expositions are announced in the second proem in the order angelic, celestial, sublunary, human, but the work gives elemental first, celestial second, angelic third (contents at l. 133-138; proem l. 4038-4045). (2) The second proem calls man 'a fourth world'; Fifth Exposition ch. 6 says man is 'not so much a fourth world' as their bond; the first-phrase exposition speaks again of 'the four worlds'. (3) 'Heaven' and 'earth' change referent from exposition to exposition (act/potency, being/essence, angels/men) as the second proem announces. (4) Third Exposition ch. 3 counts the contemplative hierarchy first, ch. 5 calls it the third. Only the third hierarchy's orders (principalities, archangels, angels) are named there; seraphim appear in ch. 6 as Isaiah's winged Seraphim, cherubim in the second proem and thrones only in Second Exposition ch. 1 (Isaac reading Ezekiel's sapphire throne as the tenth sphere). No scheme of seven interpretive layers appears; the seven are the seven expositions, each in seven chapters with the seventh turned to Christ. VERIFIED against the earlier audit: the Third Exposition is l. 5069-5488; Pico says he could expound Moses by both the Hebrew and the Dionysian teaching (l. 5085-5088), postpones the Hebrew (l. 5088-5099), treads in the footsteps of Dionysius 'or rather Paul and Hierotheus' (l. 5111-5112), and treats angels by number and unity 'after the Pythagorean custom' (l. 5132). The Kabbalistic exposition of the first phrase starts at l. 7568 as the audit said. OCR: footnote numerals run into the text and break many quotations across page marks; quotes were split or cut to avoid them (e.g. 'SyrianS' at l. 4765 is quoted as printed). Ficino: Pico calls him 'our friend Marsilio Ficino' and looks forward to his Latin Plotinus (l. 6127). Poliziano: a constant visitor at Fiesole (l. 3822-3825)."
 }

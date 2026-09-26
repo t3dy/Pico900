@@ -1,8 +1,12 @@
 {
  "packet": "black2006-b",
- "researcher": "",
- "created": "",
- "scope": null,
+ "researcher": "R-BLACK-B",
+ "created": "2026-09-26",
+ "scope": {
+  "work": "black2006",
+  "line_start": 4700,
+  "line_end": 9306
+ },
  "claims": [
   {
    "claimant": "Crofton Black",
@@ -22,6 +26,13 @@
      "text": "The Heptaplus, on the other hand, represents a decisive break from this tradition. Here, Pico refers to his method as ‘allegory’, but he frees the word from the structure of the four senses. They, along with their concomitant terminology, are abandoned, and in their place is established a new concept of allegory, explicitly theorized and, so he claims, unique to his work.",
      "work": "black2006",
      "line": 4942,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "or reshape the conﬁnes of the traditional four senses of Scripture.",
+     "work": "black2006",
+     "line": 4941,
      "page": null,
      "page_basis": null
     }
@@ -146,13 +157,18 @@
      "line": 4871,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "us also contemplate many physical truths in this Psalm.”162 He con-",
+     "work": "black2006",
+     "line": 4866,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -302,7 +318,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Pico's argument that Moses was a master of all learning rests on evidence including a book called Sapientia, the testimony of Luke and Philo, Egyptian teachers of the Greek philosophers, Numenius's phrase 'Attic Moses', and Hermippus on Pythagoras.",
+   "text": "Pico's argument that Moses was a master of all learning rests on evidence including a book called Sapientia, the testimony of Luke and Philo, Numenius's phrase 'Attic Moses', and Hermippus on Pythagoras.",
    "quotes": [
     {
      "text": "a) the existence of a mysterious book, written in a secret language, entitled Sapientia and attributed to Solomon.",
@@ -322,6 +338,13 @@
      "text": "e) Hermippus attested that Pythagoras transferred very many things from Mosaic law into his own philosophy.",
      "work": "black2006",
      "line": 5096,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "b) Luke and Philo attest that Moses was very learned in all the",
+     "work": "black2006",
+     "line": 5089,
      "page": null,
      "page_basis": null
     }
@@ -699,7 +722,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Clement of Alexandria held that gnosis is an esoteric accomplishment open to very few and is facilitated by non-literal reading of Scripture and by oral transmission of secret doctrine.",
+   "text": "Clement held that gnosis is an esoteric accomplishment open to very few and is facilitated by non-literal reading of Scripture and by oral transmission of secret doctrine.",
    "quotes": [
     {
      "text": "Otherwise, regarding the general idea that gnosis was an esoteric accomplishment open to very few, Clement is in agreement with his adversaries; they merely differed as to what the qualifications of these few should be.",
@@ -923,6 +946,13 @@
      "line": 5946,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "The case of the inﬂuence of Clement of Alexandria is relevant",
+     "work": "black2006",
+     "line": 5946,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "hedged",
@@ -974,6 +1004,13 @@
      "text": "this manuscript did not arrive in the library until 1492.",
      "work": "black2006",
      "line": 5977,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Clement was Pico’s direct source. The only surviving manuscript of",
+     "work": "black2006",
+     "line": 5951,
      "page": null,
      "page_basis": null
     }
@@ -1095,6 +1132,13 @@
      "text": "given above, that no copy of the Stromata was available before Lorenzo’s purchase of 1492.",
      "work": "black2006",
      "line": 6029,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Historia ecclesiastica.84 But otherwise, Clement’s later direct reception",
+     "work": "black2006",
+     "line": 5995,
      "page": null,
      "page_basis": null
     }
@@ -1266,6 +1310,13 @@
      "line": 6193,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "If we turn to Gregory the Great, we ﬁnd a different approach",
+     "work": "black2006",
+     "line": 6144,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1427,6 +1478,20 @@
      "line": 6507,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "that “nothing more is known about this man, but in the Middle",
+     "work": "black2006",
+     "line": 6506,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Ages a great deal more was known.”123 The corpus was believed to",
+     "work": "black2006",
+     "line": 6507,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1559,6 +1624,20 @@
      "text": "which this comment appeared) did not achieve any significant circulation in the fifteenth century and it is unclear whether Pico came across them.",
      "work": "black2006",
      "line": 6608,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "any case, in 1489 Dionysius was still, by and large, the Areopagite;",
+     "work": "black2006",
+     "line": 6617,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "(of Laodicea).130 As mentioned in Chapter 3, the Adnotationes (in",
+     "work": "black2006",
+     "line": 6576,
      "page": null,
      "page_basis": null
     }
@@ -1787,6 +1866,13 @@
      "text": "e Dionisio a Timoteo, esponendo de’ nomi di Dio e della gerarchia angelica e ecclesiastica molti profundi sensi, gli comanda che tenga el libro nascoso e non lo comunichi se non a pochi, che di tale cognizione siano degni.",
      "work": "black2006",
      "line": 6684,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Paul, Pythagoras, the Egyptians, Plato, Dionysius and Jesus. Once",
+     "work": "black2006",
+     "line": 6677,
      "page": null,
      "page_basis": null
     }
@@ -2056,9 +2142,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "ars combinandi"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -2595,12 +2679,18 @@
      "line": 7143,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "points throughout the work. In the ﬁrst place, Maimonides does",
+     "work": "black2006",
+     "line": 7132,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Maimonides",
     "Genesis",
     "Ezekiel"
    ],
@@ -2627,7 +2717,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black notes that Pico in the first proem gave an injunction, attributed to the ancient Hebrews and Jerome, that the creation not be approached before mature age, whereas Jerome wrote thirty years; Black presumes Pico, then about 26, deliberately rephrased it vaguely.",
+   "text": "Black notes that Pico in the first proem gave an injunction, attributed to Jerome, that the creation not be approached before mature age, whereas Jerome wrote thirty years; Black presumes Pico, then about 26, deliberately rephrased it vaguely.",
    "quotes": [
     {
      "text": "Another prohibition against study of the ‘Work of the Beginning’, that it should only be attempted by someone “already of mature age”, was noted by Pico in the Heptaplus (H. P1; Garin, 176)",
@@ -2681,6 +2771,13 @@
      "line": 7238,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "In the first place, Maimonides does not intend to make his treatise readily comprehensible to those who have only a basic education.",
+     "work": "black2006",
+     "line": 7132,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2730,6 +2827,13 @@
      "text": "quod tota lex est plena nominibus dei sancti et benedicti et angelorum ordinis sacri celestis",
      "work": "black2006",
      "line": 7338,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "of Maimonides, is multiplied in the commentary on the Guide by",
+     "work": "black2006",
+     "line": 7297,
      "page": null,
      "page_basis": null
     }
@@ -2795,6 +2899,13 @@
      "text": "passage from Nahmanides noted above, distinguishing between the text read according to its normal rules of grammar and syntax and the text read as a succession of divine names (ignoring these rules).",
      "work": "black2006",
      "line": 7404,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "of the people and the ignorant. … Because Moses our master was at the",
+     "work": "black2006",
+     "line": 7354,
      "page": null,
      "page_basis": null
     }
@@ -2928,13 +3039,26 @@
      "line": 7470,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "we can turn to the Mysterium operis Geneseos, translated for Pico by",
+     "work": "black2006",
+     "line": 7467,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the translations of Mithridates the differences become less clear on account of his",
+     "work": "black2006",
+     "line": 7443,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Mysterium operis Geneseos",
-    "Mithridates"
+    "Mysterium operis Geneseos"
    ],
    "warrants": [],
    "assumptions": [],
@@ -3092,7 +3216,7 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "Gematria, linking concepts through the numerical values of Hebrew letters, is scattered through the texts translated for Pico, notably Abulafia's, and is entirely absent from the Heptaplus.",
+   "text": "Because Hebrew letters are also numbers, exegetes linked concepts by numerical sums; this occurs throughout the texts translated for Pico, notably Abulafia's, and is entirely absent from the Heptaplus.",
    "quotes": [
     {
      "text": "As each letter of the Hebrew alphabet is also a number, every word has a numerical sum. Some exegetes made use of this to link apparently unconnected concepts or scriptural passages.",
@@ -3107,12 +3231,18 @@
      "line": 7579,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "particularly noteworthy in this regard are the works of Abraham Abulafia.",
+     "work": "black2006",
+     "line": 7562,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Abulafia",
     "Heptaplus"
    ],
    "warrants": [],
@@ -3764,6 +3894,13 @@
      "line": 7921,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "sphaera of Johannes de Sacrobosco:",
+     "work": "black2006",
+     "line": 7893,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4010,12 +4147,18 @@
      "line": 7996,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "the Oratio—is less evident in the Heptaplus. The Commento passage",
+     "work": "black2006",
+     "line": 8048,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Oratio",
     "Heptaplus"
    ],
    "warrants": [],
@@ -4046,9 +4189,16 @@
    "text": "In the Commento Pico attributes to the Platonists a division of all creatures into three levels: corporeal and visible things, wholly incorporeal separate intellectual nature which our theologians call angelic, and between them the rational soul, which is subject to the angelic and in charge of the corporeal.",
    "quotes": [
     {
-     "text": "The Platonists divide all created things into three levels, of which there are two extremes. Under one are included all corporeal and visible things, such as the heavens, the elements, plants, animals and everything composed of the elements. Under the other is understood everything which is invisible, and not only incorporeal, but entirely free and separate from any body. This is properly called intellectual nature, and by our theologians is called angelic nature. In between the two extremes is a median nature which, although incorporeal, and invisible and immortal, is nonetheless a mover of bodies and is tied to this function. This is called the rational soul, which comes after the angelic and before the corporeal, and is subject to the former and in charge of the latter.",
+     "text": "The Platonists divide all created things into three levels, of which there are two extremes. Under one are included all corporeal and visible things, such as the heavens, the elements, plants, animals and everything composed of the elements. Under the other is understood everything which is invisible, and not only incorporeal, but entirely free and separate from any body. This is properly called intellectual nature, and by our theologians is called angelic nature.",
      "work": "black2006",
      "line": 8031,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In between the two extremes is a median nature which, although incorporeal, and invisible and immortal, is nonetheless a mover of bodies and is tied to this function. This is called the rational soul, which comes after the angelic and before the corporeal, and is subject to the former and in charge of the latter.",
+     "work": "black2006",
+     "line": 8037,
      "page": null,
      "page_basis": null
     }
@@ -4371,14 +4521,19 @@
      "line": 8169,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "a comment which bears repeating here. Kristeller’s conclusion that this model is",
+     "work": "black2006",
+     "line": 8153,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Kristeller",
-    "Scholem",
-    "Blau"
+    "Scholem"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4565,6 +4720,13 @@
      "line": 8295,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "This idea was also diffused by Maimonides’s translator Samuel ibn",
+     "work": "black2006",
+     "line": 8242,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "hedged",
@@ -4738,9 +4900,23 @@
    "text": "Black argues that the link between the sefirot and the spheres is one of shared structure only, that the sefirotic names and attributes are absent from the Heptaplus and only the number ten remains, and that the threefold structure needs no kabbalistic reading and would probably be distorted by sefirotic metaphysics.",
    "quotes": [
     {
-     "text": "It seems likely that these ideas remained in his mind during the writing of the Heptaplus, just as I have argued, in Chapter 4, that the aspect of kabbalah as an example of esoteric tradition remained in his mind while writing the first proem, although he did not mention it. But the connection between the sefirot and the spheres is one of shared structure. The particular complex of names and attributes which accrued around the sefirot and allowed them (as we saw earlier) to be used as an exegetical tool is entirely absent from the Heptaplus. All that remains is the residue: the number ten.38 The threefold structure itself, as presented in the Heptaplus, does not require a kabbalistic reading to make sense of it; in fact, the application of sefirotic metaphysics to it would probably achieve the opposite.39",
+     "text": "It seems likely that these ideas remained in his mind during the writing of the Heptaplus, just as I have argued, in Chapter 4, that the aspect of kabbalah as an example of esoteric tradition remained in his mind while writing the first proem, although he did not mention it. But the connection between the sefirot and the spheres is one of shared structure.",
      "work": "black2006",
      "line": 8343,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The particular complex of names and attributes which accrued around the sefirot and allowed them (as we saw earlier) to be used as an exegetical tool is entirely absent from the Heptaplus. All that remains is the residue: the number ten.",
+     "work": "black2006",
+     "line": 8348,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The threefold structure itself, as presented in the Heptaplus, does not require a kabbalistic reading to make sense of it; in fact, the application of sefirotic metaphysics to it would probably achieve the opposite.",
+     "work": "black2006",
+     "line": 8352,
      "page": null,
      "page_basis": null
     }
@@ -4994,10 +5170,1899 @@
     "justification": ""
    },
    "id": "black2006-b:111"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second exposition, proem"
+   },
+   "theses": [],
+   "text": "Pico gives two reasons repeating the first proem and adds that Moses uses a wondrous and unknown art so that the same words, context and series of the whole Scripture appropriately represent the secrets of all the worlds, so the same words can express the account of all three worlds.",
+   "quotes": [
+    {
+     "text": "He notes that there are several possible answers to this question. The first two reiterate the general argument of the first proem: the concealment of knowledge in texts was sanctioned by tradition",
+     "work": "black2006",
+     "line": 8602,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But there is another reason for it as well. Moses uses a “wondrous and unknown art” and chooses the words of his text in such a way that “the same words, the same context and the same series of the entire Scripture appropriately correspond by representing the secrets of all the worlds and of all things”. In other words, the same words are able to express the account of not just one of the three worlds, but of all of them.",
+     "work": "black2006",
+     "line": 8608,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Quare illud est incogitatum et mirum Moseos artificium, divinaque vere non humana industria, eis uti dictionibus itaque orationem disponere ut eadem verba, idem contextus, eadem series totius scripturae figurandis mundorum omnium et totius naturae secretis apte conveniat.",
+     "work": "black2006",
+     "line": 8637,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "States the exegetical principle: one text speaks of all three worlds."
+   },
+   "id": "black2006-b:112"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second exposition, proem"
+   },
+   "theses": [],
+   "text": "Pico says the art makes Moses's book pre-eminent over the writings of the gentiles, constitutes the novelty of his own book, and makes Moses the archetype of writers because his words rest on the cosmic correspondences and comprehend all things in very few words.",
+   "quotes": [
+    {
+     "text": "Pico goes on to explain that this “art” has three notable aspects: 1. Through it, Moses’s book may claim to be pre-eminent with regard to the writings and doctrines of the gentiles. 2. Its exposition constitutes the novelty of Pico’s book. 3. It makes Moses the archetype of all writers, in two ways. Firstly, his use of words is based on the correspondences which (as Pico has already argued) constitute the cosmos; therefore, Moses imitates nature itself. Secondly, his text is able to comprehend all things with very few words.",
+     "work": "black2006",
+     "line": 8615,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:113"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders",
+    "aquinas-dionysius",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second exposition, proem"
+   },
+   "theses": [],
+   "text": "Pico compares the Mosaic text's ability to comprehend all things in very few words to the way, according to Dionysius and Thomas, the angelic minds that grasp with the fewest forms are superior to lower minds needing many; a marginal note in the first edition says the Mosaic text emulates the angelic intelligence.",
+   "quotes": [
+    {
+     "text": "This quality, says Pico, makes it supreme among texts, just as, according to Dionysius and Thomas, the ability of angelic minds to comprehend with the fewest number of forms makes them superior to lower minds, which require a multiplicity of forms.58 This final point was summed up by",
+     "work": "black2006",
+     "line": 8624,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "a marginal comment in the editio princeps: “the Mosaic text emulates the angelic intelligence”.59",
+     "work": "black2006",
+     "line": 8654,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "sicut inter mentes angelicas, auctore Dionysio et divo Thoma, splendore nostrae theologiae, illa est suprema quae paucissimis ea notionibus et formis per intelligentiam comprehendit, quae inferiores variis et multiplicibus, ita inter scripturas illa est summa",
+     "work": "black2006",
+     "line": 8645,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "Thomas"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Ties the method of the Heptaplus to angelic cognition by way of Dionysius and Aquinas."
+   },
+   "id": "black2006-b:114"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "method",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black plans to explore mutual containment of the worlds as the foundation of Pico's allegorical theory, then the assertion that the Mosaic text parallels angelic intelligence and its words are analogous to forms, hoping to show the two strands are closely connected and yield a model of Pico's allegorical theory.",
+   "quotes": [
+    {
+     "text": "In approaching an understanding of these ideas, I shall begin by exploring the notion of the “mutual containment of the worlds”, which Pico identifies as the foundation of his allegorical theory. I shall then look at the assertion that the Mosaic text has a parallel with angelic intelligence and that its words are somehow analogous to forms. I hope to make it clear that these two strands of investigation are actually very closely connected.",
+     "work": "black2006",
+     "line": 8657,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:115"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 188"
+   },
+   "theses": [],
+   "text": "Black holds that the doctrine that things in the lower worlds mirror those in the upper in a worse condition, and the reverse, rests on a Neoplatonic commonplace, since emanation and causation as the Neoplatonists conceived them require mirror imaging; Pico's emphasis is that the same things occur in each world.",
+   "quotes": [
+    {
+     "text": "Pico’s observation that things which occur in the lower worlds mirror those in the upper but in a worse condition, and that things in the upper worlds mirror those in the lower but in a better condition, is based on a Neoplatonic commonplace. The mechanics of emanation and causation, as envisaged by the Neoplatonists, render this idea of mirror imaging necessary.",
+     "work": "black2006",
+     "line": 8671,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "his emphasis is on the fact that it is the same things which occur, somehow, in each world.",
+     "work": "black2006",
+     "line": 8678,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Neoplatonic"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Locates the mutual-containment principle in Neoplatonic causation."
+   },
+   "id": "black2006-b:116"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 188"
+   },
+   "theses": [],
+   "text": "Although Pico ascribes the principle of mutual containment to the Presocratic Anaxagoras, Black says the particular expression of the cosmic structure is found in later Neoplatonism.",
+   "quotes": [
+    {
+     "text": "Although Pico claims that this idea originates with the Presocratic philosopher Anaxagoras, it is in later Neoplatonism that this particular expression of the cosmic structure is to be found.",
+     "work": "black2006",
+     "line": 8683,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Quam Anaxagorae credo fuisse opinionem, si recte eum sensisse putamus, explicatam deinde a Pythagoricis et Platonicis.",
+     "work": "black2006",
+     "line": 8696,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Anaxagoras"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Sets the Anaxagoras attribution against a Neoplatonic source."
+   },
+   "id": "black2006-b:117"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 188"
+   },
+   "theses": [],
+   "text": "Garin, for Pico's mention of Anaxagoras, refers the reader to Simplicius's commentary on Aristotle's Physics, where the saying that there is a part of everything in everything is attributed to Anaxagoras.",
+   "quotes": [
+    {
+     "text": "For the source of Pico’s mention of Anaxagoras, Garin refers the reader to Simplicius’s commentary on Aristotle’s Physics, where the saying that “there is a part of everything in everything”",
+     "work": "black2006",
+     "line": 8697,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "is attributed to Anaxagoras: Simplicius, In Aristotelis Physicorum libros quattuor priores commentaria",
+     "work": "black2006",
+     "line": 8731,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin",
+    "Simplicius",
+    "Anaxagoras"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:118"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "three-worlds",
+    "aquinas-dionysius",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Proclus systematised Plotinus in the Elements of Theology; his system passed into Arabic and then into Latin as the Liber de causis, attributed to Aristotle until the thirteenth century, until William of Moerbeke's 1268 translation of the Elements let Thomas Aquinas see that the Liber de causis was based on it.",
+   "quotes": [
+    {
+     "text": "systematized the thought of Plotinus, with particular reference to the mechanics of causation and emanation. Proclus’s system passed into Arabic in the ninth century. From there, it was translated into Latin in the second half of the twelfth century, in a version commonly entitled Liber de causis. In its Arabic version it had acquired an attribution to Aristotle and this was perpetuated in the Latin tradition until the thirteenth century.62 When William of Moerbeke translated the Elements of Theology itself in 1268, it was read by Thomas Aquinas, who realized that the Liber de causis was actually based on Proclus’s work.",
+     "work": "black2006",
+     "line": 8705,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Proclus",
+    "Plotinus",
+    "Liber de causis",
+    "William of Moerbeke",
+    "Thomas Aquinas",
+    "1268"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:119"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "A Greek manuscript of Proclus's Elements of Theology dated 1358, formerly in Pico's possession, is in the Bodleian library, Oxford.",
+   "quotes": [
+    {
+     "text": "By this time, the Elements of Theology was also widely available in Greek, and a Greek manuscript of it, dated 1358 and previously in Pico’s possession, is to be found in the Bodleian library, Oxford.65",
+     "work": "black2006",
+     "line": 8716,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "of Proclus’s Elements of Theology continued to circulate.64 By this time,",
+     "work": "black2006",
+     "line": 8716,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Bodleian",
+    "Elements of Theology",
+    "1358"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:120"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds",
+    "dionysian-hebrew-orders",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Proclum, 17"
+   },
+   "theses": [],
+   "text": "Black starts with Proposition 103 of Proclus's Elements of Theology, that all things are in all things but properly in each, and notes that Pico included the idea in his Conclusiones in the section on Proclus, saying divine hierarchies are distinct but everything is in all things in its own mode.",
+   "quotes": [
+    {
+     "text": "In mapping the lines of thought which led to Pico’s position in the Heptaplus, we should start with Proposition 103 of Proclus’s Elements of Theology: All things are in all things, but properly in each",
+     "work": "black2006",
+     "line": 8722,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The same idea recurs in the Liber de causis.67 Before including it in the Heptaplus, Pico included it in his Conclusiones, in the section on Proclus: “Although, according to Theology, the divine hierarchies are distinct, it must nevertheless be understood that everything is in all things in its own mode” (my italics).",
+     "work": "black2006",
+     "line": 8762,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The relation between this proposition and the Heptaplus was noted by Wirszubski, Pico’s Encounter, 250–251.",
+     "work": "black2006",
+     "line": 8781,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Proclus",
+    "Wirszubski",
+    "Liber de causis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Fixes Proclus's Proposition 103 as the source of mutual containment."
+   },
+   "id": "black2006-b:121"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black notes that the idea also occurs in Syrianus's commentary on the Metaphysics, which Pico probably owned, and in Julian's Hymn to King Helios, certainly read by Pico, but that none of these articulates it in an exegetical context.",
+   "quotes": [
+    {
+     "text": "How did this idea reach Pico? Proclus was not the first to explore it. It occurs in Syrianus’s In Metaphysica, which Pico probably owned.69 It was also used by Iamblichus’s student, the emperor Julian, in his Hymn to King Helios, which was a popular work in the Renaissance and was certainly read by Pico.70 We could regard any of these as Pico’s direct source. But none of these works articulates this idea in an exegetical context",
+     "work": "black2006",
+     "line": 8767,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "probably owned",
+   "entities": [
+    "Syrianus",
+    "Julian",
+    "Iamblichus",
+    "Hymn to King Helios"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:122"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius",
+    "three-worlds"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black holds that the ideas of mutual containment entered the Christian tradition soon after Proclus through Pseudo-Dionysius, and that both the original On the Divine Names and Aquinas's commentary on it develop the idea.",
+   "quotes": [
+    {
+     "text": "Soon after their formulation by Proclus these ideas entered the Christian tradition via the works of Pseudo-Dionysius the Areopagite, whom we encountered briefly in the previous chapter.",
+     "work": "black2006",
+     "line": 8816,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Thomas Aquinas, who produced a commentary on Dionysius’s On the Divine Names.72 Both the original work and the commentary develop the idea of “mutual containment” which I discussed above.",
+     "work": "black2006",
+     "line": 8820,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Thomas Aquinas",
+    "On the Divine Names"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Puts Dionysius and Aquinas, not only Proclus, behind mutual containment."
+   },
+   "id": "black2006-b:123"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius",
+    "three-worlds",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black cites Dionysius, On the Divine Names 4, on the communions of all things in all things according to the property of each, and Aquinas's comment that all things are in all things in different ways, the higher in the lower by participation and the lower in the higher in an outstanding manner.",
+   "quotes": [
+    {
+     "text": "This—the One, the Good and the Beautiful—is uniquely the cause of all good and beautiful things.",
+     "work": "black2006",
+     "line": 8825,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the communions of all things in all things according to the property of each, and the harmonious and unconfused friendships and harmonies of everything (my italics).",
+     "work": "black2006",
+     "line": 8833,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "communions of all things in all things according to the property of each. All things are in all things, not just in one way: but the higher things are in the lower by participation, and the lower in the higher in an outstanding manner, and nevertheless all things have something in common with all things.",
+     "work": "black2006",
+     "line": 8842,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "discussed above. Dionysius writes in the fourth chapter:",
+     "work": "black2006",
+     "line": 8823,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "on Dionysius’s On the Divine Names.72 Both the original work and",
+     "work": "black2006",
+     "line": 8821,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "by (among others) Thomas Aquinas, who produced a commentary",
+     "work": "black2006",
+     "line": 8820,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:124"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second exposition, proem"
+   },
+   "theses": [],
+   "text": "Black argues that the chain of reception of mutual containment from its Greek roots to the Latin West runs through the two names Pico brackets together at the end of his second discussion of allegory, auctore Dionysio et divo Thoma, and that Pico could read the Greek sources but was aware of their scholastic reception.",
+   "quotes": [
+    {
+     "text": "This idea of cosmic inter-relation, although Neoplatonic and pagan in origin, was received into Christian thought via Pseudo-Dionysius and subsequently Thomas Aquinas. Although Pico was able to read the original Neoplatonic sources in Greek, he was no doubt aware of their scholastic reception. The significance of the chain of reception outlined here is that, in the progress of this doctrine from its Eastern Greek roots to the Latin West, we have encountered the same two names which Pico bracketed together at the end of his second discussion of his allegorical method: “auctore Dionysio et divo Thoma”.",
+     "work": "black2006",
+     "line": 8870,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "no doubt aware",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Thomas Aquinas"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the two Heptaplus citations to a single transmission chain."
+   },
+   "id": "black2006-b:125"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "three-worlds",
+    "heptaplus-angelic-world",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "In the Neoplatonic hierarchical cosmos underlying the Heptaplus, the condition of things degenerates as one moves down, in direct relation to number, since things further from unity take part more in multiplicity, and the order is reversible, as in Proposition 21 of Proclus's Elements of Theology.",
+   "quotes": [
+    {
+     "text": "The Neoplatonic hierarchical cosmos, which is the foundation of the Heptaplus, has as a central tenet the idea that the condition of all things degenerates progressively as one moves down the hierarchy. This degeneration in condition is directly related to number: things become progressively further removed from unity and participate more in multiplicity. Equally importantly, this order is reversible. This is the bearing of Proposition 21 of the Elements of Theology:",
+     "work": "black2006",
+     "line": 8890,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Every order, beginning from unity, proceeds to a multiplicity in respect to that unity, and the multiplicity of any order is led back to a single unity.",
+     "work": "black2006",
+     "line": 8899,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "These two passages point us simultaneously back to Proclus and",
+     "work": "black2006",
+     "line": 8868,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus",
+    "Elements of Theology"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Ties number and unity to the degree of being in each world."
+   },
+   "id": "black2006-b:126"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances",
+    "aquinas-dionysius",
+    "dionysian-hebrew-orders"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. 2.P, Garin 222; third exposition"
+   },
+   "theses": [],
+   "text": "According to Pico, as Black reports, Dionysius and Thomas both hold that angelic intelligence is superior to human because it comprehends with fewer forms, and in the Heptaplus Pico says intelligible forms are accidental to an angel's intellect yet bound to it indivisibly and perpetually, but only loosely to the human intellect.",
+   "quotes": [
+    {
+     "text": "According to Pico, Dionysius and Thomas Aquinas both argue that the intelligence of angels is superior to that of humans because it comprehends with fewer forms, whereas human intelligence, situated lower down the hierarchy (and therefore more subject to multiplicity and further removed from unity), requires more forms. Similarly, elsewhere in the Heptaplus Pico notes that although “intelligible forms” are accidental to an angel’s intellect and not part of its essence, nonetheless the bond between them and the angel is “indivisible” and “perpetual” whereas between them and the human intellect it is “vague and ordinary”.77",
+     "work": "black2006",
+     "line": 8924,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "Thomas Aquinas"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Sets out angelic cognition by fewer forms as the doctrine that Pico's method emulates."
+   },
+   "id": "black2006-b:127"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "method",
+   "topics": [
+    "separate-substances",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. 2.P"
+   },
+   "theses": [],
+   "text": "Black says the precise nature of intelligible forms or species was controversial and Pico has little to say about it, but for the argument only the relative paucity or plenitude of forms in angelic or human minds matters.",
+   "quotes": [
+    {
+     "text": "The precise nature and operation of intelligible forms or species (Pico uses the terms interchangably) was a matter of controversy in the Middle Ages and Renaissance, and Pico has little else to say about them. We need not be overly concerned with this question, however, since what is crucial to the argument is not what exactly the forms are, but merely the relative paucity or plenitude of them according to the type of mind—angelic or human—which is doing the receiving.",
+     "work": "black2006",
+     "line": 8933,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:128"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. 2.P, Garin 222"
+   },
+   "theses": [],
+   "text": "Black says Dionysius in On the Divine Names VII holds that angels have simple and blessed conceptions, gather knowledge of God neither from divisible things, sense perception nor discursive reasoning, and think the intelligible things of God without matter and in a single form, while human souls travel discursively and in a circle yet can roll up the many into the one.",
+   "quotes": [
+    {
+     "text": "In Dionysius we find this argument in On the Divine Names, VII.79 Angels have “simple and blessed conceptions”",
+     "work": "black2006",
+     "line": 8941,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In their process of understanding they are free from all matter and multiplicity",
+     "work": "black2006",
+     "line": 8946,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "They “think the intelligible things of God spiritually, without matter and in a single form”",
+     "work": "black2006",
+     "line": 8948,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Human souls are also endowed with a rational ability",
+     "work": "black2006",
+     "line": 8971,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "they too are worthy of conceptions equal to those of the angels",
+     "work": "black2006",
+     "line": 8977,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "On the Divine Names"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:129"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "Garin 222"
+   },
+   "theses": [],
+   "text": "Black notes that Garin refers to Dionysius's De caelesti hierarchia 7 for this point, but the specific subject of the perception of simple forms by the angelic intellect is not present in that chapter, the passage being in On the Divine Names.",
+   "quotes": [
+    {
+     "text": "Garin, 222, refers rather to De caelesti hierarchia, 7, but the specific subject of the perception of simple forms by the angelic intellect is not present in that chapter.",
+     "work": "black2006",
+     "line": 8964,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In Dionysius we ﬁnd this argument in On the Divine Names,",
+     "work": "black2006",
+     "line": 8941,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin",
+    "De caelesti hierarchia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:130"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Aquinas in the Summa theologiae holds that in all intellectual substances the light of understanding is one and simple in the first principle and more divided the further creatures are from it, so higher intellectual beings understand through fewer, more universal forms and lower ones need more numerous, less universal forms; the human intellect is at the lowest end.",
+   "quotes": [
+    {
+     "text": "In all intellectual substances one finds an intellective power through the influence of divine light. Whatever is in the first principle is one and simple; the more distant intellectual beings are from the first principle, the more this light is divided and differentiated, as happens in lines departing from a point.",
+     "work": "black2006",
+     "line": 8985,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "So it is that God understands everything through his single essence; the higher intellectual beings, although they understand through many forms, nonetheless understand through fewer, more universal and more powerful forms for the comprehension of things",
+     "work": "black2006",
+     "line": 8989,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is clear, Thomas concludes, that the human intellect is at the lowest end of this scale.82",
+     "work": "black2006",
+     "line": 8998,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Thomas Aquinas, meanwhile, in his Summa theologiae, summa-",
+     "work": "black2006",
+     "line": 8982,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:131"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "aquinas-dionysius",
+    "one-beyond-being",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says Thomas's theory bears the imprint of the Liber de causis, and that by Thomas's own account the common root of these speculations is Proposition 177 of the Elements of Theology.",
+   "quotes": [
+    {
+     "text": "Thomas’s more detailed theory bears the imprint of a reading of the Liber de causis;83 and, as he himself pointed out in",
+     "work": "black2006",
+     "line": 8999,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "his commentary on the Liber de causis, the common root of all these speculations is Proposition 177 of the Elements of Theology.84",
+     "work": "black2006",
+     "line": 9024,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Thomas",
+    "Liber de causis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:132"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "three-worlds",
+    "one-beyond-being",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "fifth exposition, Garin 286-288"
+   },
+   "theses": [],
+   "text": "Black describes the account of knowledge as part of the Neoplatonic hierarchy of being, passed through the scholastics to Pico in an unbroken chain, with the golden chain of Homer in the fifth exposition alluding to it, and lists Albertus Magnus, Henry of Ghent, Aegidius Romanus, Bessarion and Ficino among its exponents.",
+   "quotes": [
+    {
+     "text": "This account of knowledge is part of the more general theory of the hierarchy of being, originally Neoplatonic, and subsequently received by the scholastics, from whom it passed in an unbroken chain to Pico. Pico’s reference in the fifth exposition of the Heptaplus to the “golden chain of Homer” alludes to one image by which this hierarchy was commonly known in the Middle Ages.85 Prominent exponents of this system included Albertus Magnus, Henry of Ghent, Aegidius Romanus, Cardinal Bessarion and Marsilio Ficino.",
+     "work": "black2006",
+     "line": 9026,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Albertus Magnus",
+    "Henry of Ghent",
+    "Aegidius Romanus",
+    "Bessarion",
+    "Marsilio Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino is named as a prominent exponent of the hierarchy of being that Black says reached Pico by an unbroken chain.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:133"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "one-beyond-being",
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "On this ontology, which Black says originates with Plotinus, the universe has a twofold dynamic, the procession of all things from God or the One (proodos) and the reversion of things back to it (epistrophe), and this model influences Pico's theory of allegory.",
+   "quotes": [
+    {
+     "text": "According to this ontology, which originates with Plotinus, the universe has a twofold dynamic: the procession of all things from God or the One, called the proodos; and a complementary reversion of things back to the One or God, known as the epistrophe.86 The influence of this model on Pico's theory of allegory is the subject of the final section of this chapter.",
+     "work": "black2006",
+     "line": 9033,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plotinus",
+    "proodos",
+    "epistrophe"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:134"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 190-192"
+   },
+   "theses": [],
+   "text": "Black says Pico believed language mirrors the cosmic structure, since the three worlds exchange names as well as natures, so that divine things may be represented by things of the lower worlds, now by stars, now by wheels and animals, now by elements.",
+   "quotes": [
+    {
+     "text": "As we have seen, Pico claimed that the three worlds (which reflect different levels of the hierarchy of being) “exchange not only natures but also names”. In other words, he believed that language mirrors the cosmic structure. As an example, he says that “divine things” can be represented by things from either of the two lower worlds: “now by stars, now by wheels and animals, now by elements”.87",
+     "work": "black2006",
+     "line": 9084,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:135"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 190-192"
+   },
+   "theses": [],
+   "text": "Black notes that Dionysius's De caelesti hierarchia closes with a long discussion of how the Bible depicts angels through fire, animals and wheels, mostly from Ezekiel, and thinks the consonance with Pico's account stronger than a shared reading of Ezekiel.",
+   "quotes": [
+    {
+     "text": "An extended discussion of the way the Bible depicts angels by reference to elements (specifically fire), animals and wheels takes up much of the final chapter of Pseudo-Dionysius’s On the Celestial Hierarchy.",
+     "work": "black2006",
+     "line": 9090,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The majority of these references are to the prophecy of Ezekiel. We should not, therefore, lay too much emphasis on the fact that there is a consonance between some of these images and Pico’s own, rather succinct, account: both authors could simply have been reading Ezekiel. I think, however, that the connection is stronger than this.",
+     "work": "black2006",
+     "line": 9097,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I think, however, that the connection is stronger",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Ezekiel"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Ties Pico's images for the worlds to Dionysius's exegesis of angel imagery."
+   },
+   "id": "black2006-b:136"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that the opening of the last chapter of On the Celestial Hierarchy restates, from the exegete's standpoint, the link between the hierarchy of being and cognition: the exegete is not tied to the human plane but can rise through biblical symbols to the simplicity that underlies the images.",
+   "quotes": [
+    {
+     "text": "Come, now, let us rest, if we may, the intellectual eye from the exertion which concerns the contemplation of simple and lofty things, fit for angels. Let us descend to the divisible and manifold plane of the many and various forms of the shapes which angels take. Then, let us return from them, as from images, by retracing, to the simplicity of heavenly minds.",
+     "work": "black2006",
+     "line": 9105,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The importance of this passage is that it rearticulates this doctrine from the standpoint of the exegete.90",
+     "work": "black2006",
+     "line": 9128,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The passage quoted above represents an important addition to this idea: the exegete is not tied to his human plane, but, through the biblical symbols, is able to rise to a higher cognitive level. By using the multiple images in the biblical narrative as a launching pad, he can rise up to a comprehension of the true simplicity which underlies these images.",
+     "work": "black2006",
+     "line": 9136,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "up much of the ﬁnal chapter of Pseudo-Dionysius’s On the Celestial",
+     "work": "black2006",
+     "line": 9092,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Hierarchy. After several examples of the use of ﬁre to indicate divine",
+     "work": "black2006",
+     "line": 9093,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives the Dionysian model of anagogical exegesis behind Pico's method."
+   },
+   "id": "black2006-b:137"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "At the start of chapter 2 of On the Celestial Hierarchy Dionysius warns against reading literally the biblical passages that make angels seem shaped like lions, oxen, birds or wheels, saying the word of God used poetic imagery for the formless intelligences to provide a method of uplifting suited to our own mind.",
+   "quotes": [
+    {
+     "text": "At the start of chapter 2, he warns against the literal interpretation of biblical passages which suggest that angels are actually shaped like lions, oxen, birds or wheels:",
+     "work": "black2006",
+     "line": 9144,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The word of God used poetic imagery to represent the formless intelligences [i.e. angels], not according to the rules of art, but rather, as I have already said, having considered our own mind and having provided a method of uplifting",
+     "work": "black2006",
+     "line": 9149,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This proposition, placed at the end of On the Celestial Hierarchy, is",
+     "work": "black2006",
+     "line": 9142,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Dionysius’s solution to the problem with which he began that work:",
+     "work": "black2006",
+     "line": 9143,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:138"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "one-beyond-being",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says Dionysius allows language from the material domain to refer to the immaterial through analogy, understanding similar things dissimilarly, as with anger, irrational among lower beings but rational among higher, and desire, sensory among lower and conceptual among higher; this is the epistrophe from the exegete's standpoint.",
+   "quotes": [
+    {
+     "text": "The correspondence between the levels of the hierarchy, and the fact that everything flows from one simple and archetypal Good—in Neoplatonic terminology, the proodos—means that there is a route back up the hierarchy—the epistrophe. This is a basic tenet of Neoplatonic ontology.",
+     "work": "black2006",
+     "line": 9188,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is accomplished through analogy—“understanding similar things dissimilarly … and the same things not in the same way”. Dionysius gives the examples of “anger” and “desire”. Anger is irrational among lower beings, but represents something rational among higher ones; desire is sensory among lower beings, conceptual among higher.",
+     "work": "black2006",
+     "line": 9193,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "proodos",
+    "epistrophe"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:139"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world",
+    "dionysius-transmission",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 188-190"
+   },
+   "theses": [],
+   "text": "Black believes the connection between Pico and Dionysius is sealed by the Ninth Letter, where Dionysius, after citing Paul in Romans 1.20, shows how the one word fire is read at different levels of the hierarchy of being, in a way strikingly similar to Pico's example of fire and water.",
+   "quotes": [
+    {
+     "text": "It should by now be clear that there is a connection between this group of ideas in the Dionysian corpus and Pico’s theory in the Heptaplus. Both authors advocate a model of reading based on an understanding of the correspondences inherent in the universe, and both link this model to the distinction between angelic and human cognition. I believe that the connection between Pico and Dionysius is sealed by a final passage from the Dionysian corpus, in which the author exemplifies this method in a way strikingly similar to Pico’s example of fire and water quoted above.94",
+     "work": "black2006",
+     "line": 9201,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "After quoting Paul’s statement in Romans 1.20 that the invisible things of God are to be known through the visible things of creation, he demonstrates how",
+     "work": "black2006",
+     "line": 9210,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "question comes from Dionysius’s Ninth Letter. After quoting Paul’s",
+     "work": "black2006",
+     "line": 9210,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I believe that",
+   "entities": [
+    "Dionysius",
+    "Paul",
+    "Romans",
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Names the Ninth Letter as the direct model for Pico's fire and water example."
+   },
+   "id": "black2006-b:140"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. P2, Garin 188-190"
+   },
+   "theses": [],
+   "text": "In the Ninth Letter Dionysius says the word fire, applied to God above conception, to his intelligible providence or to angels, must be understood differently each time: as a cause, as a substance, as participation, and in other ways as the contemplation requires.",
+   "quotes": [
+    {
+     "text": "It is not only transcendent lights, intellectual things and absolutely divine things which are variously adorned with symbolic forms",
+     "work": "black2006",
+     "line": 9235,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is also the case that the Godlike forms and ranks of angels, intelligible and intelligent beings, are represented by diverse shapes, including formations of fire",
+     "work": "black2006",
+     "line": 9239,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is necessary to understand the same image of fire in different ways when it refers to God who is above conception, or to his intelligible providence, or to angels.",
+     "work": "black2006",
+     "line": 9241,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "question comes from Dionysius’s Ninth Letter. After quoting Paul’s",
+     "work": "black2006",
+     "line": 9210,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:141"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-structure",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black says the comparison of Dionysius with the Heptaplus shows both are exegesis but differ in form and scope: Dionysius plucks words from many biblical places in a thematic commentary and concentrates on the upper levels, the ranks of angels and God, whereas Pico follows one chapter of Genesis sequentially and treats the whole cosmic taxonomy below God.",
+   "quotes": [
+    {
+     "text": "The comparison of Dionysius’s On the Divine Names and On the Celestial Hierarchy, on the one hand, and the Heptaplus, on the other, illuminates similarities and differences.",
+     "work": "black2006",
+     "line": 9258,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Formally, they are not very similar: while the Heptaplus follows a comprehensive and sequential trajectory through one chapter of Genesis, the Dionysian corpus plucks words from various places throughout the Bible, resulting in a scattered commentary, arranged thematically rather than sequentially.",
+     "work": "black2006",
+     "line": 9262,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Dionysius concentrates on the representation of the upper levels of the hierarchy—the ranks of angels and, above them, God himself—whereas Pico is concerned with the entire cosmic taxonomy below God.",
+     "work": "black2006",
+     "line": 9285,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "Genesis",
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Sets the scope difference between Dionysius and the Heptaplus."
+   },
+   "id": "black2006-b:142"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. 2.P, Garin 222"
+   },
+   "theses": [],
+   "text": "Pico claimed his mode of reading was new and untried; Black argues its seeds lie in Neoplatonic metaphysics, especially Proclus and the Liber de causis, but that the clear expression of the idea as a means of exegesis originates in the Dionysian corpus.",
+   "quotes": [
+    {
+     "text": "Pico claimed that his mode of reading was new and had not previously been attempted.96 I have tried to show here that its seeds can be found in Neoplatonic metaphysics, especially Proclus and the Liber de causis;97 but that the clear expression of this idea as a means of exegesis originates in the Dionysian corpus.",
+     "work": "black2006",
+     "line": 9289,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "novum illud et intactum adhuc",
+     "work": "black2006",
+     "line": 9312,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Proclus",
+    "Liber de causis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Grounds Pico's claimed novelty in a Proclean-Dionysian source."
+   },
+   "id": "black2006-b:143"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black holds that Pico used the writings of Pseudo-Dionysius to develop a theory of exegesis that was anagogical in the Dionysian sense, leading the reader upward toward God, unlike the anagogy of the fourfold senses, where it was a property of a word's signification.",
+   "quotes": [
+    {
+     "text": "Pico used the writings of Pseudo-Dionysius to develop a theory of scriptural exegesis which was anagogical in the Dionysian sense—which led the reader upwards towards God.",
+     "work": "black2006",
+     "line": 9293,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "As we saw in Chapter 3, the idea of ‘anagogical’ exegesis also made its way into the standard Christian framework of the four senses of Scripture. Here, however, it was defined as a property of the signification of a word (for example, the idea of Jerusalem as the heavenly city), not as an intellectual action undergone by the reader.",
+     "work": "black2006",
+     "line": 9296,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Jerusalem"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Reads the Heptaplus's allegory as Dionysian anagogy, not as one of the four senses."
+   },
+   "id": "black2006-b:144"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black proposes that Pico's theory of allegory be viewed as an expression of this type of anagogy and understood in the context of intellectual ascent, the subject of the next two chapters.",
+   "quotes": [
+    {
+     "text": "The result of this chapter’s investigation, therefore, is to propose that Pico’s theory of allegory should be viewed as an expression of this type of ‘anagogy’ and that it must be understood in the context of intellectual ascent.",
+     "work": "black2006",
+     "line": 9301,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Frames the allegory of the Heptaplus as intellectual ascent."
+   },
+   "id": "black2006-b:145"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "H. 1.2, Garin 206-208"
+   },
+   "theses": [],
+   "text": "In the first exposition Pico's use of a traditional Jewish reading of the Hebrew words tohu and bohu, probably drawn from the Sefer Bahir, serves an allegorical identification with a philosophical doctrine about the reception of form by matter.",
+   "quotes": [
+    {
+     "text": "He uses a traditional Jewish interpretation, probably drawn from the Sefer Bahir, to contribute to an allegorical identification of a phrase in the Genesis account (“inanis et vacua”) with a philosophical doctrine concerning the reception of form by matter.",
+     "work": "black2006",
+     "line": 4973,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "probably drawn from",
+   "entities": [
+    "Sefer Bahir"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:146"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "method",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Black hopes to show, against Pico's protestation that he follows no previous exegete, that clear links can be established between the Heptaplus theory of allegory and ideas in other texts Pico read and wrote.",
+   "quotes": [
+    {
+     "text": "Furthermore, he does not merely maintain the broad frame of reference characteristic of his Psalms commentaries; he surpasses it by claiming that he will not follow the works of any previous exegetes. Despite his protestations to the contrary, however, I hope to show in the remainder of this study that it is possible to establish clear links between the theory of allegory developed in the Heptaplus and ideas contained in other texts which he read and wrote.",
+     "work": "black2006",
+     "line": 5010,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:147"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "In the Glossa ordinaria all senses of a passage coexist on the page without hierarchy, and Nicholas of Lyra, adding prologues to the Glossa, condemned the exaggerated division of literal and non-literal senses and wished to realign the two sides, not dispose of one.",
+   "quotes": [
+    {
+     "text": "The Glossa ordinaria, even without its framework of prefaces and introductions, encompasses all senses equally by presenting them non-hierarchically: all senses and interpretations coexist on the page.",
+     "work": "black2006",
+     "line": 6199,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "When Nicholas of Lyra added prologues to the Glossa, it was the exaggerated division made by some exegetes between the literal and non-literal senses that he condemned",
+     "work": "black2006",
+     "line": 6296,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But from his prologues it appears that what Nicholas actually viewed as damaging was the division made by previous exegetes between the literal and non-literal senses. He wished to realign the",
+     "work": "black2006",
+     "line": 6321,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Glossa ordinaria",
+    "Nicholas of Lyra"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:148"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "heptaplus-structure",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black holds that the sixteenth-century Reformers' attack on the non-literal senses, culminating in Zwingli's claim that Moses wrote so that even idiots could understand, was essentially polemical and misrepresented the pre-Reformation tradition, which did not envisage different audiences for different senses.",
+   "quotes": [
+    {
+     "text": "The non-literal senses were to become, in the sixteenth century, the object of attack by Reformers, and part of the rhetoric of this attack was that they distracted attention unnecessarily, and indeed dangerously, away from the literal sense.114 But this reading of the fourfold model was essentially polemical.",
+     "work": "black2006",
+     "line": 6399,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "We can see this approach in Zwingli’s reading of Genesis 1, in his Farrago annotationum in Genesim (1527): those who think that Moses wrote about obscure and difficult things are simply wrong; he wrote so that even idiots could understand him.",
+     "work": "black2006",
+     "line": 6414,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But when we look at the theories of the central figures in the pre-Reformation exegetical tradition—the veteres who are the object of Zwingli’s attack—we find that they did not, as a rule, envisage different audiences for the different senses",
+     "work": "black2006",
+     "line": 6418,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Zwingli",
+    "Moses",
+    "Genesis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:149"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Lines 4700-5029 (end of ch. 3): only the Heptaplus-versus-Psalms contrast, the Psalm 47 physical exposition and the tohu/bohu and asciamaim points were taken; the Psalms commentaries' four-senses detail (Psalms 6, 10, 11, 17, 18) was left to whoever covers exegetical practice.",
+  "Lines 5288-5427: the Heptaplus/Commento/Apologia parallel table was taken only through Black's summary of it, not item by item.",
+  "Lines 5620-6130 and 6199-6420: the detail on Clement, Origen, Basil, Jerome, Augustine, Gregory, the catenae and the Reformers is summarised in about a dozen claims; the Greek quotations from Clement and Origen were not extracted (OCR Greek is garbled and cannot pass the gate).",
+  "Footnote apparatus throughout (Latin and Greek originals of Maimonides, Dionysius, Clement, Origen) was used only where it carries a Pico or Dionysius text bearing on angelology or the three worlds.",
+  "Ch. 6 begins at line 9319, after the range end; the range ends with the last paragraph of ch. 5 (line 9306)."
+ ],
+ "proposed_topics": [
+  {
+   "id": "esotericism",
+   "label": "Esotericism in Christian, Neoplatonic and Jewish traditions; Moses and the philosophers (Heptaplus first proem)"
+  },
+  {
+   "id": "mutual-containment",
+   "label": "Mutual containment of the worlds: whatever is in all is in each; Proclus prop. 103, Dionysius, Aquinas (could be merged into three-worlds)"
+  },
+  {
+   "id": "anagogy-allegory",
+   "label": "Pico's theory of allegory as Dionysian anagogy: names and things, exegesis as ascent"
+  },
+  {
+   "id": "sefirot-heptaplus",
+   "label": "Sefirot and the Heptaplus: Black's denial that the three worlds or ten spheres need a sefirotic reading"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "alemanno",
+   "name": "Johanan Alemanno"
+  },
+  {
+   "id": "elijah-delmedigo",
+   "name": "Elijah Delmedigo"
+  }
+ ],
+ "notes": "CRUXES. (1) Sefirot: Black (7530-7556, 8343-8355, 8375-8380) says the sefirot as a system are absent from the Heptaplus and add nothing to reading the three worlds; he reports Wirszubski's equation of the three worlds with a triadic sefirot grouping and Kristeller's view (8153-8172) that the scheme is from Hebrew, probably cabalistic, sources, while Black himself stresses a Judeo-Aristotelian, not specifically kabbalistic, setting (8397-8406). A linker should set these against each other; do not resolve. (2) Empyrean/angelic world inconsistency (7936-7977): Pico treats the empyrean as the first celestial sphere though the angelic world is the top of the three. (3) Black on the One (8082-8089): Pico places God or the One in the angelic world, blurring the first two Plotinian hypostases; this bears on the Ficino dispute over the One and Being but Black names no dispute. (4) Nahmanides quotation at 7338-7341: the OCR lost the italics, so the phrase Wirszubski called an interpolation cannot be identified; the angels clause may or may not be the interpolation. (5) Black's Garin correction at 8964: the fewer-forms passage is in Divine Names VII, not Celestial Hierarchy 7. (6) The claim that Pico met Alemanno only in 1488 is Black's inference (8393). OCR: Greek and Hebrew are garbled or missing (quotations avoid them); ligatures fi/fl appear as single characters; printed page numbers are in running heads only, so no page fields are given. Pico's own Latin and Italian, quoted in Black's footnotes, are cited as Black claims with Pico's words as quotation (e.g. 8005-8010, 8530-8536), not as primary_text. Ficino appears only as translator of Iamblichus (7668) and as an exponent of the hierarchy of being (9033): no relationship claim beyond that. Note: the printed running head reads chapter three for pages 88-93 and the chapter numbering in the brief (ch. 4 first proem, ch. 5 second proem) matches the text at lines 5029 and 7818."
 }

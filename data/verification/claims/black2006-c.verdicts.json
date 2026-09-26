@@ -1,7 +1,7 @@
 {
  "packet": "black2006-c",
  "file": "data\\claims\\angelology\\black2006-c.claims.json",
- "verified_at": "2026-09-26T04:36:07+00:00",
+ "verified_at": "2026-09-26T04:38:37+00:00",
  "claims": [
   {
    "id": "black2006-c:001",
@@ -16,14 +16,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:002",
@@ -38,25 +31,19 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Every' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Peripatetic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:003",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9916,
+     "line_end": 9917,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 9920,
@@ -66,32 +53,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Faced' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Averroist' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Peripatetic' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aquinas' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:004",
@@ -103,17 +65,17 @@
      "line_end": 9955,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9985,
+     "line_end": 9985,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:005",
@@ -121,45 +83,21 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 9963,
+     "line_start": 9957,
      "line_end": 9965,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9985,
+     "line_end": 9985,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Alexandrian' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Averroist' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Peripatetics' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:006",
@@ -171,17 +109,17 @@
      "line_end": 9970,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9985,
+     "line_end": 9985,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:007",
@@ -255,19 +193,19 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Oratio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:011",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 10110,
+     "line_end": 10112,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 10112,
@@ -277,14 +215,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Cherubim' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:012",
@@ -306,14 +237,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Oratio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:013",
@@ -358,6 +282,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 10168,
+     "line_end": 10169,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 10222,
      "line_end": 10222,
      "occurrences": 1,
@@ -372,20 +303,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Benivieni' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Benivieni' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:016",
@@ -471,41 +389,17 @@
      "line_end": 10381,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10381,
+     "line_end": 10383,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Jewish' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Al-Farabi' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Spirit' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Lord' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Al-Farabi' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:021",
@@ -543,6 +437,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 10451,
+     "line_end": 10452,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 10452,
      "line_end": 10454,
      "occurrences": 1,
@@ -550,31 +451,26 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Maimonides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Bajja' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Maimonides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:024",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 10410,
+     "line_end": 10412,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10404,
+     "line_end": 10406,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 10409,
@@ -591,44 +487,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Holy' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Spirit' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Al-Farabi' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Averroes' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Al-Farabi' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Averroes' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:025",
@@ -835,14 +694,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Oratio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:036",
@@ -886,14 +738,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Oratio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:038",
@@ -997,6 +842,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 10859,
+     "line_end": 10861,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 10861,
      "line_end": 10862,
      "occurrences": 1,
@@ -1011,37 +863,19 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gersonides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Song' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Songs' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Gersonides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:044",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 10954,
+     "line_end": 10956,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 10959,
@@ -1058,20 +892,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gersonides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Gersonides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:045",
@@ -1087,38 +908,13 @@
     {
      "verdict": "verbatim",
      "line_start": 11076,
-     "line_end": 11077,
+     "line_end": 11078,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gersonides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Song' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Songs' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Gersonides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:046",
@@ -1155,6 +951,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 11132,
+     "line_end": 11134,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 11137,
      "line_end": 11141,
      "occurrences": 1,
@@ -1162,14 +965,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gersonides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:048",
@@ -1211,23 +1007,17 @@
      "line_end": 11176,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11170,
+     "line_end": 11173,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Holy' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Spirit' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:051",
@@ -1251,6 +1041,13 @@
     {
      "verdict": "verbatim",
      "line_start": 11180,
+     "line_end": 11180,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11180,
      "line_end": 11182,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -1264,20 +1061,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Moses' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:053",
@@ -1411,6 +1195,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 11365,
+     "line_end": 11365,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 11366,
      "line_end": 11367,
      "occurrences": 1,
@@ -1418,14 +1209,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Liber' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:061",
@@ -1470,6 +1254,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 11355,
+     "line_end": 11356,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 11456,
      "line_end": 11457,
      "occurrences": 3,
@@ -1484,19 +1275,19 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Recanati' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:064",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11355,
+     "line_end": 11356,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 11491,
@@ -1506,14 +1297,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Recanati' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:065",
@@ -1536,6 +1320,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 11511,
+     "line_end": 11512,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 11523,
      "line_end": 11525,
      "occurrences": 1,
@@ -1543,19 +1334,19 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Recanati' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:067",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11545,
+     "line_end": 11546,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 11548,
@@ -1572,20 +1363,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Bahir' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Recanati' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:068",
@@ -1679,29 +1457,17 @@
      "line_end": 11645,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11645,
+     "line_end": 11649,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Church' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:074",
@@ -1839,29 +1605,17 @@
      "line_end": 11762,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11763,
+     "line_end": 11764,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Church' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gentiles' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:082",
@@ -1902,17 +1656,17 @@
      "line_end": 11808,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11809,
+     "line_end": 11811,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:084",
@@ -1924,17 +1678,17 @@
      "line_end": 11818,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11819,
+     "line_end": 11820,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:085",
@@ -2015,14 +1769,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Expositio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:089",
@@ -2045,6 +1792,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 11959,
+     "line_end": 11960,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 11960,
      "line_end": 11963,
      "occurrences": 1,
@@ -2052,20 +1806,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Babylonian' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Talmud' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:091",
@@ -2084,17 +1825,17 @@
      "line_end": 12029,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12032,
+     "line_end": 12033,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:092",
@@ -2189,14 +1930,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sinai' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:096",
@@ -2271,6 +2005,13 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 12219,
+     "line_end": 12221,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 12221,
      "line_end": 12225,
      "occurrences": 1,
@@ -2278,14 +2019,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:101",
@@ -2293,26 +2027,33 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 12228,
+     "line_start": 12226,
+     "line_end": 12230,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12230,
      "line_end": 12235,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Jewish' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:102",
    "status": "verified",
    "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12233,
+     "line_end": 12235,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
     {
      "verdict": "verbatim",
      "line_start": 12236,
@@ -2329,14 +2070,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "black2006-c:103",
@@ -2688,9 +2422,9 @@
   "claims": 118,
   "verified": 118,
   "needs_fix": 0,
-  "quotes": 181,
-  "quotes_verbatim": 181,
-  "warnings": 72,
+  "quotes": 210,
+  "quotes_verbatim": 210,
+  "warnings": 0,
   "verified_rate": 1.0
  }
 }

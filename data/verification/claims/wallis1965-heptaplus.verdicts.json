@@ -1,7 +1,7 @@
 {
  "packet": "wallis1965-heptaplus",
  "file": "data\\claims\\angelology\\wallis1965-heptaplus.claims.json",
- "verified_at": "2026-09-26T04:35:59+00:00",
+ "verified_at": "2026-09-26T04:37:53+00:00",
  "claims": [
   {
    "id": "wallis1965-heptaplus:001",
@@ -38,14 +38,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Lorenzo' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:003",
@@ -120,20 +113,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Moses' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:008",
@@ -155,14 +135,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Fathers' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:009",
@@ -582,14 +555,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Mosaic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:030",
@@ -604,14 +570,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Mosaic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:031",
@@ -626,14 +585,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:032",
@@ -726,17 +678,17 @@
      "line_end": 4301,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 4302,
+     "line_end": 4304,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Stoics' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:037",
@@ -854,14 +806,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Saint' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:043",
@@ -1044,17 +989,17 @@
      "line_end": 4998,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 4999,
+     "line_end": 5002,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Orphic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:054",
@@ -1187,14 +1132,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Church' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:061",
@@ -1453,27 +1391,14 @@
    "quotes": [
     {
      "verdict": "verbatim_modulo_marks",
-     "line_start": 5253,
+     "line_start": 5251,
      "line_end": 5260,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Dionysius' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Dionysius' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:075",
@@ -1536,23 +1461,17 @@
      "line_end": 5321,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5321,
+     "line_end": 5324,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Origen' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Origen' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:078",
@@ -1824,14 +1743,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-heptaplus:091",
@@ -2128,6 +2040,28 @@
    "quotes": [
     {
      "verdict": "verbatim",
+     "line_start": 6294,
+     "line_end": 6298,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6298,
+     "line_end": 6299,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wallis1965-heptaplus:108",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
      "line_start": 6333,
      "line_end": 6340,
      "occurrences": 1,
@@ -2145,7 +2079,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:108",
+   "id": "wallis1965-heptaplus:109",
    "status": "verified",
    "quotes": [
     {
@@ -2160,7 +2094,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:109",
+   "id": "wallis1965-heptaplus:110",
    "status": "verified",
    "quotes": [
     {
@@ -2175,7 +2109,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:110",
+   "id": "wallis1965-heptaplus:111",
    "status": "verified",
    "quotes": [
     {
@@ -2197,7 +2131,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:111",
+   "id": "wallis1965-heptaplus:112",
    "status": "verified",
    "quotes": [
     {
@@ -2226,7 +2160,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:112",
+   "id": "wallis1965-heptaplus:113",
    "status": "verified",
    "quotes": [
     {
@@ -2241,7 +2175,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:113",
+   "id": "wallis1965-heptaplus:114",
    "status": "verified",
    "quotes": [
     {
@@ -2256,7 +2190,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:114",
+   "id": "wallis1965-heptaplus:115",
    "status": "verified",
    "quotes": [
     {
@@ -2278,7 +2212,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:115",
+   "id": "wallis1965-heptaplus:116",
    "status": "verified",
    "quotes": [
     {
@@ -2300,7 +2234,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:116",
+   "id": "wallis1965-heptaplus:117",
    "status": "verified",
    "quotes": [
     {
@@ -2322,7 +2256,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:117",
+   "id": "wallis1965-heptaplus:118",
    "status": "verified",
    "quotes": [
     {
@@ -2337,7 +2271,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:118",
+   "id": "wallis1965-heptaplus:119",
    "status": "verified",
    "quotes": [
     {
@@ -2352,7 +2286,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:119",
+   "id": "wallis1965-heptaplus:120",
    "status": "verified",
    "quotes": [
     {
@@ -2374,7 +2308,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:120",
+   "id": "wallis1965-heptaplus:121",
    "status": "verified",
    "quotes": [
     {
@@ -2396,7 +2330,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:121",
+   "id": "wallis1965-heptaplus:122",
    "status": "verified",
    "quotes": [
     {
@@ -2418,7 +2352,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:122",
+   "id": "wallis1965-heptaplus:123",
    "status": "verified",
    "quotes": [
     {
@@ -2440,7 +2374,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:123",
+   "id": "wallis1965-heptaplus:124",
    "status": "verified",
    "quotes": [
     {
@@ -2466,23 +2400,30 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christians' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:124",
+   "id": "wallis1965-heptaplus:125",
    "status": "verified",
    "quotes": [
     {
      "verdict": "verbatim",
      "line_start": 7148,
      "line_end": 7151,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7144,
+     "line_end": 7145,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7157,
+     "line_end": 7157,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     },
@@ -2495,29 +2436,10 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Hebrews' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aboda' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Zara' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:125",
+   "id": "wallis1965-heptaplus:126",
    "status": "verified",
    "quotes": [
     {
@@ -2532,7 +2454,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:126",
+   "id": "wallis1965-heptaplus:127",
    "status": "verified",
    "quotes": [
     {
@@ -2551,17 +2473,10 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christians' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:127",
+   "id": "wallis1965-heptaplus:128",
    "status": "verified",
    "quotes": [
     {
@@ -2583,7 +2498,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:128",
+   "id": "wallis1965-heptaplus:129",
    "status": "verified",
    "quotes": [
     {
@@ -2605,7 +2520,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:129",
+   "id": "wallis1965-heptaplus:130",
    "status": "verified",
    "quotes": [
     {
@@ -2627,7 +2542,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:130",
+   "id": "wallis1965-heptaplus:131",
    "status": "verified",
    "quotes": [
     {
@@ -2642,7 +2557,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:131",
+   "id": "wallis1965-heptaplus:132",
    "status": "verified",
    "quotes": [
     {
@@ -2664,7 +2579,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:132",
+   "id": "wallis1965-heptaplus:133",
    "status": "verified",
    "quotes": [
     {
@@ -2686,7 +2601,7 @@
    "issues": []
   },
   {
-   "id": "wallis1965-heptaplus:133",
+   "id": "wallis1965-heptaplus:134",
    "status": "verified",
    "quotes": [
     {
@@ -2702,12 +2617,12 @@
   }
  ],
  "summary": {
-  "claims": 133,
-  "verified": 133,
+  "claims": 134,
+  "verified": 134,
   "needs_fix": 0,
-  "quotes": 213,
-  "quotes_verbatim": 213,
-  "warnings": 21,
+  "quotes": 220,
+  "quotes_verbatim": 220,
+  "warnings": 0,
   "verified_rate": 1.0
  }
 }
