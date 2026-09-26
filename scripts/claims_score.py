@@ -99,7 +99,24 @@ def main():
         else:
             ws_list = [WW.get(w["kind"], 0) for w in c.get("warrants") or []]
             ws = sum(ws_list) / len(ws_list) if ws_list else WW["none"]
+        # evidence level on the network system's scale (docs/INTELLECTUAL_NETWORK_DESIGN.md Part 8):
+        # 5 Pico's own verified words; 4 a scholar's claim warranted by Pico's text; 3 warranted by other scholarship;
+        # 2 an assertion without stated warrant; 1 anything the source itself hedges as speculative. A hedge caps at 2.
+        kinds = {w["kind"] for w in c.get("warrants") or []}
+        if c["attribution"] == "primary_text":
+            ev = 5
+        elif "primary_text" in kinds:
+            ev = 4
+        elif "scholar_evidence" in kinds:
+            ev = 3
+        else:
+            ev = 2
+        if c["hedge"] == "hedged":
+            ev = min(ev, 2)
+        elif c["hedge"] == "speculative":
+            ev = 1
         comp[cid] = {
+            "evidence_level": ev,
             "centrality": deg[cid],
             "corroboration": max(1, len(corr[cid] | {c["claimant"]})),
             "contestation": contest[cid],

@@ -473,6 +473,3407 @@
     "justification": ""
    },
    "id": "allen2017-other:011"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "opening; De ente et uno"
+   },
+   "theses": [],
+   "text": "Allen proposes to examine Pico's debts in the Oratio to later Platonic dialogues as interpreted by the Neoplatonists and as Pico probably met them in Ficino's commentaries, the same dialogues Pico adduces in an anti-Ficinian thesis in De ente et uno.",
+   "quotes": [
+    {
+     "text": "I wish to raise the question of Pico’s various debts to, if not dependence on, passages in several major later Platonic dialogues as they were interpreted by the Neoplatonists and as he probably encountered them in the voluminous scholarly commentaries of Marsilio Ficino, the very dialogues he would adduce, incidentally, in presenting an anti-Ficinian thesis in the De Ente et Uno.",
+     "work": "allen2017",
+     "line": 942,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "probably",
+   "entities": [
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Allen proposes Ficino's commentaries as Pico's likely mediator of the later Platonic dialogues, which Pico then turns against Ficino in De ente",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Frames the Oration's Platonism and the De ente polemic as drawing on the same Ficinian source-texts."
+   },
+   "id": "allen2017-other:012"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "de-ente"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen reports that an older minority view holds Pico a Neoplatonist, while the majority view since Garin's 1937 study is that he was an eclectic committed to the Scholastics and through them to Aristotle and Averroes.",
+   "quotes": [
+    {
+     "text": "continuing vitality in the work of such scholars as Anagnine, Cordier, and Kristeller of the older if now minority view that Pico was a Neoplatonist,10 as against what has become, since Garin’s seminal 1937 study, the majority view: namely, that Pico was an eclectic preeminently committed to the Scholastics – notwithstanding his engagement with the Cabala – and by way of them to Aristotle and to Aristotle’s Greek and Arab commentators, especially Averroes.",
+     "work": "allen2017",
+     "line": 953,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Anagnine",
+    "Cordier",
+    "Kristeller",
+    "Garin",
+    "Averroes",
+    "Cabala"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:013"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen states that Pico scholars have failed to understand the subtlety of Ficino's analyses of the Parmenides and Sophist and hence Ficino's role in generating the De ente et uno and the reaction to it.",
+   "quotes": [
+    {
+     "text": "Pico scholars have failed to understand the subtlety of Ficino analyses of the Parmenides and Sophist and therefore his role in the generation of and reaction to the De ente et uno. See my The second Ficino-Pico controversy: Parmenidean poetry, eristic, and the One",
+     "work": "allen2017",
+     "line": 1499,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Parmenides",
+    "Sophist"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Allen calls the De ente exchange the second Ficino-Pico controversy and says Ficino's Parmenides and Sophist analyses helped generate it",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Says that the dispute cannot be read without Ficino's Parmenides and Sophist readings, and names a 'second' controversy."
+   },
+   "id": "allen2017-other:014"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1.9"
+   },
+   "theses": [],
+   "text": "Allen says that Ficino in his Philebus commentary and Pico briefly in the Commento both argue on Aristotelian grounds that the Platonic indeterminate is potentiality for the determination which is act.",
+   "quotes": [
+    {
+     "text": "which signifies the chaos of infinite matter, formlessness awaiting the imposition of form, or what Ficino at some length in his Philebus Commentary 2.1,13 and Pico briefly in his Commento 1.9,14 both argue on Aristotelian grounds is the potentiality for the determination which is act (actus).",
+     "work": "allen2017",
+     "line": 969,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Philebus",
+    "Aristotelian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Point of agreement between Ficino's Philebus commentary and Pico's Commento",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:015"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1.4-1.5"
+   },
+   "theses": [],
+   "text": "Allen says Ficino, glossing Parmenides, argues that the ideal unities, for all their diversity, are in one something, Mind the second hypostasis, and that Pico in the Commento equates the son of the Good with this Mind, in which the highest father, the One, has established this universal world.",
+   "quotes": [
+    {
+     "text": "Ficino renders them as unitates ideales in his commentary on the Parmenides chapter 4 ... he argues that just as the natural forms, for all their diversity, are in one matter, so these ideal unities, for all their diversity, are also in one something and this is Mind, the second hypostasis, which is both uniform and multiform.27 Pico, in the Commento 1.4,5, duly equates the “son” of the Good with this Mind and argues that “the highest father”, namely the One, has established “this universal world” in Mind, the first intellect.",
+     "work": "allen2017",
+     "line": 1105,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Parmenides",
+    "Pico",
+    "Commento"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Pico's Commento equation of the son of the Good with Mind parallels Ficino's Parmenides commentary reading of ideal unities in Mind",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:016"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1.4-1.5 (Garin ed. pp. 466-467)"
+   },
+   "theses": [],
+   "text": "Allen cites Pico's Commento as saying that the 'son of God' of the Platonists is to be compared to the first and noblest angel created by God, and not to the Son of the theologians.",
+   "quotes": [
+    {
+     "text": "«Secondo e’ Platonici da Dio immediatamente non proviene altra creatura che questa prima mente",
+     "work": "allen2017",
+     "line": 1597,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "debbesi comparare quello ehe e’ Platonici chiamano figliuolo di Dio al primo e più nobile angelo da Dio creato",
+     "work": "allen2017",
+     "line": 1601,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Platonici",
+    "Dio"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Identifies the Platonic Mind with the first created angel."
+   },
+   "id": "allen2017-other:017"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says both Ficino and Pico were aware that the ancient Platonists' 'son' could not be equated with the Son of God.",
+   "quotes": [
+    {
+     "text": "Both Ficino and Pico were acutely aware that “son” used in this sense by the ancient ... Platonists could not be equated with the notion of the Son of God.",
+     "work": "allen2017",
+     "line": 1116,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Shared awareness of the Platonic-Christian difficulty over the Son",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:018"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1.4-1.5"
+   },
+   "theses": [],
+   "text": "Allen argues against Valcke that the 'better Platonists' of Commento 1.4-5 are not also directed against Ficino, since Commento 1.4 explicitly sets Ficino apart from them on God's direct creation of human souls.",
+   "quotes": [
+    {
+     "text": "Valcke’s view, Pic, Scot et la question de la Toute-puissance divine cit., pp. 388389 – namely that Pico’s references to the «better Platonists» in the Commento 1.4,5 are also directed against Ficino — sidesteps the evidence of 1.4, which explicitly sets Ficino apart from these Platonists on the issue of God’s direct creation of human souls, and ignores the numerous occasions on which Ficino carefully distinguishes between the Neoplatonic hypostases and the Christian Trinity",
+     "work": "allen2017",
+     "line": 1607,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Valcke",
+    "Ficino",
+    "Commento"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Disputes whether the Commento's criticism of the 'better Platonists' targets Ficino",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Limits how far the Commento's polemic can be read as aimed at Ficino."
+   },
+   "id": "allen2017-other:019"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "opening"
+   },
+   "theses": [],
+   "text": "Allen questions the view of Cassirer, Garin, Kristeller, Trinkaus and Buck that Pico propounds a notably different view of man from Ficino's.",
+   "quotes": [
+    {
+     "text": "While acknowledging there are different emphases, I would question the principal contention, however, of such distinguished scholars as Cassirer, Garin, Kristeller, Trinkaus, and Buck: namely, that Pico is propounding a notably different view of man.",
+     "work": "allen2017",
+     "line": 1175,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Cassirer",
+    "Garin",
+    "Kristeller",
+    "Trinkaus",
+    "Buck"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Allen argues Pico's view of man is not notably different from Ficino's",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Reverses the customary contrast between Ficino and Pico on man."
+   },
+   "id": "allen2017-other:020"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "opening"
+   },
+   "theses": [],
+   "text": "Allen reports Kristeller's view that Pico places man outside the hierarchy of beings with unlimited freedom, a step toward dissolving the great chain of being.",
+   "quotes": [
+    {
+     "text": "“for Pico, man has no determined nature and no fixed place in the hierarchy of beings, but he is somehow placed outside this hierarchy” with “unlimited freedom”. Consequendy, he says, Pico is taking “one of the first steps in dissolving the notion of the great chain of being",
+     "work": "allen2017",
+     "line": 1178,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Kristeller"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:021"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "Adam's choice"
+   },
+   "theses": [],
+   "text": "Allen argues, hedging that it seems to him, that Pico's Adam moves within the universal hierarchy rather than outside it, with freedom but not unlimited freedom, in accord with Neoplatonic procession and return.",
+   "quotes": [
+    {
+     "text": "There is no real question, it seems to me, of being “outside” the universal hierarchy, but rather of “moving” within it: there is freedom, but not “unlimited freedom”. This is entirely in accord with Neoplatonism’s traditional concern with the procession and return of all things to the One",
+     "work": "allen2017",
+     "line": 1199,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "it seems to me",
+   "entities": [
+    "Neoplatonism",
+    "One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Rebuts a standard reading that Pico steps outside the hierarchy."
+   },
+   "id": "allen2017-other:022"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "Adam's choice of realm"
+   },
+   "theses": [],
+   "text": "Allen reads the Oration's choice as one of hypostatic level: Adam can dwell in the sensual or animate realms, enter the realm of pure angelic intellects, or reach the solitary darkness of the Father.",
+   "quotes": [
+    {
+     "text": "Adam can elect to dwell in the sensual or the animate realms, or, gathered into the centre of his own unity, he can enter the intellectual realm of the pure angelic intellects, or even wing his way into the “solitary darkness of the Father”. The issue then is what hypostatic realm, what generic kind of being, not what particular entity, should he and can he properly will for himself?",
+     "work": "allen2017",
+     "line": 1233,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Adam"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:023"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "2.14"
+   },
+   "theses": [],
+   "text": "Allen says Pico's Commento, like Ficino's De amore, treats a state of potentiality as a chaos awaiting transition into a cosmos, as the Penia of the Symposium longing for Plenty.",
+   "quotes": [
+    {
+     "text": "in the Commento 2.14 (p. 504), Pico, like Ficino in the De Amove 1.3, thinks of such a state of potentiality as constituting a “chaos” awaiting transition into a cosmos, as the Penia even of the Symposium 203B longing for union with Plenty.",
+     "work": "allen2017",
+     "line": 1219,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Symposium",
+    "Penia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Parallel between Pico's Commento and Ficino's De amore on potentiality as chaos",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:024"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "opening"
+   },
+   "theses": [],
+   "text": "Allen suggests the Oration's vision of man is indebted not only to the Philebus and Sophist but especially to the Timaeus and Phaedrus myths and to the Timaeus and Parmenides on the universal paradigm and the Idea of Man.",
+   "quotes": [
+    {
+     "text": "Thus the Oration’s vision of man (whether directly dependent or not on Ficino’s “orthodox” account of man as the “face” of all, as the “bond” and “knot” of the universe) is indebted, I am suggesting, not only to the notions of the limit and the indeterminate in the Philebus and correlatively to the ontology of the Sophist, but more particularly to the great myths of the Timaeus and Phaedrus, and to the notions of the universal paradigm, the intelligible world, and the Idea of Man in the Timaeus and Parmenides",
+     "work": "allen2017",
+     "line": 1313,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I am suggesting",
+   "entities": [
+    "Ficino",
+    "Philebus",
+    "Sophist",
+    "Timaeus",
+    "Phaedrus",
+    "Parmenides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether Pico depends directly on Ficino's account of man in the Oration is not settled.",
+     "basis_quote": {
+      "text": "whether directly dependent or not on Ficino’s",
+      "work": "allen2017",
+      "line": 1313,
+      "locator_corrected_from": 0
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Whether the Oration depends directly on Ficino's account of man is left open by Allen",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:025"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen says the Timaeus is second only to the Phaedrus in supplying Pico with Platonic material for the 900 Conclusions and is the palimpsest of the Heptaplus.",
+   "quotes": [
+    {
+     "text": "Pico’s engagement with the Timaeus was likewise sustained, if confined to the eight years of his meteoric career: it is second only to the Phaedrus in supplying him with Platonic material for his Conclusiones DCCCC and it is the palimpsest of the Heptaplus and occasionally of the Disputationes",
+     "work": "allen2017",
+     "line": 1060,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Timaeus",
+    "Phaedrus",
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Names the Timaeus as the Heptaplus's underlying text."
+   },
+   "id": "allen2017-other:026"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem; fifth exposition 5.6"
+   },
+   "theses": [],
+   "text": "Allen notes that in the second proem of the Heptaplus man is the fourth world after angelic, celestial and sublunar worlds, but that Heptaplus 5.6 qualifies this by calling man the link or bond of the other three.",
+   "quotes": [
+    {
+     "text": "In the second general proem, man is called the fourth world after the angelic, the celestial and the sublunar worlds. In 5.6 (p. 300), however, Pico qualifies this notion by arguing that man is not so much a fourth world as the “link” (complexus) or “bond” (colligatio) of the other three",
+     "work": "allen2017",
+     "line": 1328,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:027"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "3.7"
+   },
+   "theses": [],
+   "text": "Allen says Heptaplus 3.7 lets man serve as the terminus of the angelic world and the beginning of corruptible nature.",
+   "quotes": [
+    {
+     "text": "or, as he puts it in 3.7 (pp. 264, 266), ... man can serve as the terminus of the angelic world and as the beginning of corruptible nature.",
+     "work": "allen2017",
+     "line": 1330,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:028"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "3.7; 4.2"
+   },
+   "theses": [],
+   "text": "Allen says Pico declares in Heptaplus 3.7 that man is lower than the angels yet, perfected in Christ, is raised above them or at least to fellowship with them.",
+   "quotes": [
+    {
+     "text": "And he asserts in 3.7 (p. 266) both that man is lower than the angels (predictably referring to Psalm 8:5 [6], “Minuisti eum paulominus ab angelis”; cf. Oratio, p. 1); and yet that, when perfected in Christ, man is raised either above them (citing Hebrews 1:4, “Tanto melior angelis effectus”) or at least to a fellowship with them",
+     "work": "allen2017",
+     "line": 1355,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:029"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen says the Heptaplus adds Johannine and Pauline Christological themes absent from the Oration, and that what began as a Hermetic moment in the Oration becomes an orthodox Christological cosmology.",
+   "quotes": [
+    {
+     "text": "As scholars have noted, however, several familiar Christological, and explicitly Johannine and Pauline, themes appear that are absent in the earlier work.55 Christ is the new Adam (4.7, p. 286)",
+     "work": "allen2017",
+     "line": 1348,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In sum, what had commenced as a pointedly Hermetic moment in the Oratio concludes by becoming in the Heptaplus an aspect of an orthodox Christology or rather Christological cosmology (though informed, it has been argued, by the Cabala).",
+     "work": "allen2017",
+     "line": 1365,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Christ",
+    "Cabala"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:030"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "oration-orders"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen judges that the most significant difference between Pico and Ficino lies in Pico's dual Neoplatonic and anthropocentric orientation, which fastens attention on the Idea of Man almost exclusively.",
+   "quotes": [
+    {
+     "text": "The dual orientation, Neo-Platonic and anthropocentric, of Pico’s views necessarily draws attention to the Idea of Man, almost exclusively so. Herein, surely, lies the most significant difference between himself and Ficino.",
+     "work": "allen2017",
+     "line": 1385,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Whereas Ficino was unremittingly concerned throughout his life with systematically exploring Neoplatonic metaphysics in its many aspects, including of course the theory of Ideas, Pico’s debts were more specific",
+     "work": "allen2017",
+     "line": 1388,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "surely",
+   "entities": [
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Allen's account of the main difference between Pico and Ficino",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Locates the Pico-Ficino difference in Pico's focus on the Idea of Man rather than in freedom."
+   },
+   "id": "allen2017-other:031"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "5.7"
+   },
+   "theses": [],
+   "text": "Allen argues that in a Christocentric system Man becomes the prime Idea and Christ, the Idea of Man, is the perfection of the Platonic theory of Ideas.",
+   "quotes": [
+    {
+     "text": "For a Christocentric system necessarily anthropomorphizes any variation on the Platonic scheme: Man – not Truth, Justice, Beauty, Temperance, and so forth, not even the world paradigm – becomes the prime Idea, the one to which the others are entailed or subordinate.",
+     "work": "allen2017",
+     "line": 1397,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Christ, the Idea of Man, is the perfection, in sum, of the Platonic theory of Ideas, its sublime fulfilment, cause and end.",
+     "work": "allen2017",
+     "line": 1404,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads the Heptaplus through the Platonic Idea of Man."
+   },
+   "id": "allen2017-other:032"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen states in a note that both Pico and Ficino rejected metempsychosis, held to be Plotinus's one great error.",
+   "quotes": [
+    {
+     "text": "Both Pico and Ficino rejected metempsychosis. To believe that the rational soul could pass into irrational animals was the sublime Plotinus’s one great error",
+     "work": "allen2017",
+     "line": 1666,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Ficino",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Shared rejection of metempsychosis",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:033"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says the transfer by Christian Platonists of attributes of the Plotinian hypostases of Soul, Mind and the One to God, the Trinity, its persons and the angels was beset with difficulties.",
+   "quotes": [
+    {
+     "text": "The transference by Christian Platonists of attributes associated with the three Plotinian hypostases of Soul, Mind and the One variously to God, to the Trinity, to the persons of the Trinity, and to the angels was beset with difficulties",
+     "work": "allen2017",
+     "line": 1764,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Soul",
+    "Mind",
+    "One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:034"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "de-ente",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen reports Valcke's view that Pico moved from youthful scholastic Aristotelianism to Orphism, Plotinus and poetry, and from the De ente et uno of 1491 returned to Aristotle and the Scholastics.",
+   "quotes": [
+    {
+     "text": "L. Valcke presents three variations on the view that Pico developed in the course of his brief career, postulating a youthful scholastic Aristote-lianism followed by a full fledged engagement with Orphism, Plotinus, rhetoric, and the poetry of analogy, and then finally, beginning with the De ente et uno of 1491, a return to Aristotle and the Scholastics.",
+     "work": "allen2017",
+     "line": 1516,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Valcke",
+    "Aristotle",
+    "Plotinus",
+    "Orphism"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:035"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino and Pico inherited from Proclus and others the conception of a line of ancient theologians stemming from Zoroaster and Hermes Trismegistus and culminating in Plato.",
+   "quotes": [
+    {
+     "text": "Moreover, Ficino and Pico had inherited from Proclus and others a conception of a line of six ancient theologians, the prisci theology stemming from the poet-priest Zoroaster and the Egyptian magus Hermes Trismegistus and culminating in Plato.",
+     "work": "allen2017",
+     "line": 1884,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico",
+    "Proclus",
+    "Zoroaster",
+    "Hermes Trismegistus",
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Shared inherited scheme of ancient theologians",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:036"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1.6"
+   },
+   "theses": [],
+   "text": "Allen notes that Ficino accepts an Idea of Man in his commentary on the Parmenides, while Pico in the Commento 1.6 refers to the Idea of men as being in the hypostasis Mind.",
+   "quotes": [
+    {
+     "text": "Thus Ficino accepts the Idea of Man as idea hominis, as homo idealis, and as ipsa humanitatis idea in his own In Parmenidem 5, 21 (Opera, pp. 1139 – 40, 1144.2), while Pico too refers to the “Idea of men” as being in the hypostasis Mind in his Commento 1.6.",
+     "work": "allen2017",
+     "line": 3364,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico",
+    "Commento"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Agreement between Ficino's In Parmenidem and Pico's Commento on the Idea of Man in Mind",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:037"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem 1"
+   },
+   "theses": [],
+   "text": "Allen notes that Pico in Heptaplus proem 1 claimed Philolaus rather than Pythagoras as author of the Pythagorean dicta translated by Ficino.",
+   "quotes": [
+    {
+     "text": "Ficino’s translation of these and the Pythagorean Symbola conclude his Opera omnia, pp. 1978 – 79; see Paul O. Kristeller, Supplementum Ficinianum I, pp. cxxxviii – cxxxix; II, pp. 98 – 103. Pico, in his Heptaplus, proem 1, claimed on the other hand that Philolaus not Pythagoras was the author of the dicta.",
+     "work": "allen2017",
+     "line": 3314,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico",
+    "Philolaus",
+    "Pythagoras",
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico disagrees with Ficino over the author of the Pythagorean dicta",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:038"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen contrasts Pico's anthropocentric focus on the Genesis myths, stressing the uniqueness of man, with Ficino's more unitary, panentheistic vision.",
+   "quotes": [
+    {
+     "text": "Whereas the anthropocentric focus on the Genesis myths of his younger contemporary Giovanni Pico della Mirandola would serve to underscore the uniqueness of man and the sciences that focus on his nature and institutions, Ficino’s vision is more unitary, more panentheistic.",
+     "work": "allen2017",
+     "line": 3727,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Contrast Allen draws between the two Florentines' visions",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:039"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino believed apophatic theology began with the Parmenides and reached its peak with the Areopagite, whom he took as Paul's authentic Athenian disciple, whereas Allen adds that the Areopagite was in fact a late fifth-century disciple of Proclus.",
+   "quotes": [
+    {
+     "text": "The other is its role in the development of the via negativa, the apophaticism which Ficino believed began with the Parmenides and reached its apogee with the works of the Areopagite, for him the authentic Athenian disciple of St. Paul and the crown (culmen) of Christian Platonism.",
+     "work": "allen2017",
+     "line": 4288,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Again, we must bear in mind that in the 1930s Kristeller was writing before the major breakthroughs in our modern understanding of Proclus and the later Neoplatonic tradition, and notably in our understanding of the central, all-encompassing role played by the Parmenides in Proclus’ thought, and therefore in the thought of the late fifth century [Pseudo-]Areopagite who was in fact his disciple.",
+     "work": "allen2017",
+     "line": 4297,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Parmenides",
+    "Areopagite",
+    "St. Paul",
+    "Proclus",
+    "Kristeller"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's own view of the Areopagite as Paul's disciple and the apex of Christian Platonism",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Sets Ficino's Pauline Dionysius against the modern dating of the Areopagite as Proclus's disciple and links the Parmenides to Dionysian apophaticism."
+   },
+   "id": "allen2017-other:040"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "opening"
+   },
+   "theses": [],
+   "text": "Allen suggests that scholars have often stressed Pico's originality by focusing too exclusively on the rhetorical and Hermetic excursus on man in the Oration, and that Kristeller did not do this for Ficino.",
+   "quotes": [
+    {
+     "text": "For Kristeller never trumpeted a superficial originality for Ficino as other scholars have often been led to do for Pico as a result of focusing too exclusively on the celebrated rhetorical (and hermetic) excursus on man as the great miracle in the Oration.",
+     "work": "allen2017",
+     "line": 4338,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Kristeller",
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "reception",
+     "note": "Bears on how the two are compared in scholarship",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:041"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": {
+    "text": "disputationes",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen says Ficino never entirely went along with Pico's attack on astrology in the Disputationes, though he was a knowledgeable if circumspect theorist of astrology.",
+   "quotes": [
+    {
+     "text": "he himself was a knowledgeable if. circumspect theorist of astrology and familiar with many of its procedures (he never went entirely along with Pico’s attack, preserved for us now in the posthumous Dispntationes adversus aslrologiam divinatricem of 1496, on its key assumptions)",
+     "work": "allen2017",
+     "line": 5012,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Disputationes"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino did not fully endorse Pico's attack on astrology",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:042"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen presents Ficino as saying in his Timaeus commentary that above the soul the angelic mind needs no inferior powers within itself and is pure, whole and sufficient.",
+   "quotes": [
+    {
+     "text": "For above the soul the angelic mind requires no inferior powers within itself at all and is pure and whole and sufficient.",
+     "work": "allen2017",
+     "line": 2393,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Given this fully worked out analogy of the soul with the triangle, preeminently the right-angled triangle, and given that the triangle is the premier figure of the planar realm of surfaces, Ficino clearly thinks of soul, or at least of soul in its fallen triplicity, as planar.",
+     "work": "allen2017",
+     "line": 2396,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:043"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen cites Ficino's account in which divine light poured into the angel becomes an intellectual light understood intuitively, and when poured into the soul becomes rational light understood also discursively.",
+   "quotes": [
+    {
+     "text": "Ficino speculates that this levitation miracle is possible for the following reason. «The first light is in God and it is such that it surpasses the intellect, and thus cannot even be called the intelligible light»30. But this divine light whenever it is poured forth into the angel at once becomes an intellectual light and can be understood intuitively. When it is then poured into the soul it becomes a rational light and can be understood intuitively and also thought about discursively.",
+     "work": "allen2017",
+     "line": 4828,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:044"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says thirteen of Pico's 900 propositions were found questionable by a committee of the Roman Curia, and that Pico's defence of them was followed by the committee's condemnation of them as heretical; they included items on the real presence, Christ's descent into hell, worship of the Cross and the role of the Cabala in Christology.",
+   "quotes": [
+    {
+     "text": "Included in these 900 were 13 propositions which a committee appointed by the Roman Curia found questionable and some as heterodox. Pico, headstrong, brilliant and aristocratic, rushed to a defence of these 13 propositions which the committee then condemned as unquestionably heretical. They included items that dealt with the real presence in the Mass and the magic of sacramental transformation, with the questions of whether Christ really descended into hell and whether we can truly worship the Cross, and with the role for a Christian, and specifically in Christology, of Cabala.",
+     "work": "allen2017",
+     "line": 7777,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Cabala",
+    "Mass",
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Allen's account of the commission's thirteen propositions and the condemnation after Pico's defence",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:045"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino believed the Proclus-inspired writings now attributed to Pseudo-Dionysius of the late fifth century were composed by the Dionysius of Acts 17:34, converted by Paul, and so a thinker of the first century.",
+   "quotes": [
+    {
+     "text": "The history of gnosis after Plato was also subject to revision by Ficino, since he believed that the Proclus-inspired writings nowadays attributed to the Pseudo-Dionysius of the late fifth century had been composed by the Dionysius mentioned in Acts 17:34 as an Athenian converted by St. Paul’s preaching on the Areopagus, in other words by a thinker of the first century.",
+     "work": "allen2017",
+     "line": 7928,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pseudo-Dionysius",
+    "Acts 17:34",
+    "Paul",
+    "Areopagus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's dating of Dionysius, which Pico would also have inherited",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States the chronological premise behind Ficino's reading of Dionysius as a Christian Platonist."
+   },
+   "id": "allen2017-other:046"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says one Dionysian treatise is a negative theology inspired by the second part of Plato's Parmenides as interpreted by Plutarch of Athens, Syrianus and Proclus, and that Ficino's early dating thus moved Proclus's late Neoplatonism back to the first century.",
+   "quotes": [
+    {
+     "text": "Since one of the Dionysian treatises is a masterpiece of a negative theology inspired by the second part of Plato’s Parmenides as interpreted by Plutarch of Athens, Syrianus and Proclus, this had the effect of transferring the fully fledged late Neoplatonism of Proclus back to the time immediately following the Ascension.",
+     "work": "allen2017",
+     "line": 7932,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "Plutarch of Athens",
+    "Syrianus",
+    "Proclus",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the Parmenides, Proclean commentary and Dionysian negative theology in a single chain of transmission."
+   },
+   "id": "allen2017-other:047"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino read Proclus's distinctions back into Plotinus and Plato and thereby created an ancient Platonic but in effect heretical Proclan theology perfected in Plato, the Christian Dionysius and Plotinus, a fabric built on mistakes of attribution and dating that his contemporaries shared.",
+   "quotes": [
+    {
+     "text": "Moreover, succumbing to a temptation common to many historians and interpreters, Ficino read most of Proclus’ subtle distinctions back into Plotinus too, and thence into Plato, the Hermetica, the Orphic Hymns and the Oracula Chaldaica, thus creating an ancient Platonic, but in effect an heretical Proclan, theology that had begun with Zoroaster but had been perfected in the works of Plato, of the Christian Dionysius, and the crypto-Christian Plotinus.",
+     "work": "allen2017",
+     "line": 7960,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Interestingly, this whole fabric is built on some fundamental mistakes in attribution and dating; but they were mistakes that the vast majority of Ficino’s learned contemporaries also shared.",
+     "work": "allen2017",
+     "line": 7971,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Proclus",
+    "Plotinus",
+    "Plato",
+    "Dionysius",
+    "Zoroaster"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Describes Ficino's Neoplatonism as Proclan in effect and rests on shared misdatings."
+   },
+   "id": "allen2017-other:048"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino held that only two passages in Plato's Letters were interpretable as Trinitarian, in an elliptical way, since the full Trinitarian revelation came only through Christ.",
+   "quotes": [
+    {
+     "text": "Marsilio Ficino, the most eminent of the Renaissance Platonists, had to exercise ... all his subtlety to argue that two passages at least in Plato’s Letters, one in the second letter at 312E, the other in the sixth at 323D, were interpretable as Trinitarian in content, and only then in the elliptical and enigmatic manner of a prophet—necessarily so, since the full Trinitarian revelation was bestowed on mankind only by Christ.",
+     "work": "allen2017",
+     "line": 7741,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Plato",
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's Platonic-Trinitarian reading, the background to Pico's caution about the Platonic son in the Commento",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:049"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says the Neoplatonic framework of the primacy of the One and the descent of being was potentially read as an Arian system because of its series of subordinations.",
+   "quotes": [
+    {
+     "text": "From later antiquity, moreover, the metaphysical framework that articulated the primacy of the One and the descent or emanation of being into corporeal becoming, material extension and, ultimately, non-being had been interpreted, because of its series of subordinations of the lower to the higher, at least potentially, as an Arian system.",
+     "work": "allen2017",
+     "line": 7737,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "at least potentially",
+   "entities": [
+    "One",
+    "Arian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:050"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen reports that Ficino settled on six gentile sages, Zoroaster, Hermes Trismegistus, Orpheus, Aglaophemus, Pythagoras and Plato, omitting Socrates, Timaeus, Parmenides and Empedocles.",
+   "quotes": [
+    {
+     "text": "Indeed, the hexad was such an authoritative category for charting the gentile succession of sages that Ficino had to adjust its members, since he had many more sages than slots available for them; but eventually he decided on Zoroaster, Hermes Trismegistus, Orpheus, Aglaophemus, Pythagoras and Plato.",
+     "work": "allen2017",
+     "line": 7837,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Zoroaster",
+    "Hermes Trismegistus",
+    "Orpheus",
+    "Aglaophemus",
+    "Pythagoras",
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's list of ancient theologians, cf. the scheme Allen says Pico also inherited",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:051"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino identified the highest order or chorus of demons in ancient theology with the angels of Christianity, and inherited a hierarchy of lower demons.",
+   "quotes": [
+    {
+     "text": "While he identified the highest order or chorus of demons in ancient theology with the angels of Christianity, he also inherited a hierarchy of lower orders of demons who were principally beneficent spirits caring for the earth.",
+     "work": "allen2017",
+     "line": 8050,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:052"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Saturn as angelic Mind"
+   },
+   "theses": [],
+   "text": "Allen cites Ficino's Platonic Theology as making Saturn the supreme intellect among the angels, whose rays illuminate souls more than the angels.",
+   "quotes": [
+    {
+     "text": "He identifies Jupiter here with the World-Soul «by whose fatal law this manifest order of the manifest world is disposed», the jovian life being devoted to the life of action and of the senses (as active or perspicacious instruments). But Saturn is «the supreme intellect among the angels» and his rays illuminate souls so that they are more illuminated even than the angels",
+     "work": "allen2017",
+     "line": 7296,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Saturn",
+    "Jupiter"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's Saturn-as-angelic-intellect, a background for Pico's Commento treatment of Saturn and Mind",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:053"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "angel-location",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says that in Origen and Augustine the angels have aethereal bodies, which Aquinas denied by taking them as subsistent forms, while Scotus argued for their composite nature.",
+   "quotes": [
+    {
+     "text": "In both Origen and Augustine the angels too have aethereal bodies, a position denied of course by Aquinas who thought of them as subsistent forms, but reaffirmed in a way by Scotus who argued for their composite nature, though their matter was incorporeal in the sense of not being like our earthly bodies.",
+     "work": "allen2017",
+     "line": 7363,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Origen",
+    "Augustine",
+    "Aquinas",
+    "Scotus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Gives the Thomist versus Scotist positions on angelic composition against which Pico's angelology is read."
+   },
+   "id": "allen2017-other:054"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "angel-location",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Christian angelology, especially Scotist, opened the possibility for Ficino of accommodating the ancient star vehicle or body of light to the theology of man's return to the angelic choirs.",
+   "quotes": [
+    {
+     "text": "In short, Christian angelology, and especially Scotist angelology, opened up the possibility for Ficino of drawing upon the ancient notions of the star vehicle or body of light and accommodating it to the theology of man’s return to the angelic choirs.",
+     "work": "allen2017",
+     "line": 7379,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Scotist"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's use of Scotist angelology",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:055"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen cites Ficino's Platonic Theology 13.4.12 as saying that a person entirely committed to God's inspiration ceases to be a soul and becomes a son of God, an angel.",
+   "quotes": [
+    {
+     "text": "FICINO, Platonic Theology 13.4.12: «The person who commits himself entirely to God’s inspiration ceases to be a soul and becomes, being reborn from God, a son of God, an angel».",
+     "work": "allen2017",
+     "line": 7662,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "FICINO",
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino equates the redeemed soul with an angel; compare Pico on the Platonic son and first angel",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:056"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says one might well argue that Ficino's whole Platonic endeavour was heretical, since its goals were to become a sage, a magus and a choiring angel.",
+   "quotes": [
+    {
+     "text": "This meditative ideal, a strange blend of Plotinian and Proclan metaphysics and Iamblichan daemonism, has now been completely lost to Christianity and one might well argue that Ficino’s whole Platonic endeavour was heretical. Its goals after all were to become a sage not a saint, a magus not a worshipper, a choiring angel not a sinner praying for forgiveness",
+     "work": "allen2017",
+     "line": 8164,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "one might well argue",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Allen's assessment of Ficino's own orthodoxy, the background against which Pico is judged",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:057"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen notes that for the Areopagite God is also the Father of darkness, or rather of what is beyond light and darkness.",
+   "quotes": [
+    {
+     "text": "For the Areopagite God is also the Father of darkness, or rather of what is beyond light and darkness.",
+     "work": "allen2017",
+     "line": 7703,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Areopagite",
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:058"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Saturn/Uranus and Mind"
+   },
+   "theses": [],
+   "text": "Allen says that on Ficino's first method of allegorizing the gods, Saturn is the son of the Good and the One, identified with the First Intellect, first to emanate from the One and the dyad of thinking and thought, which Plotinus and later Neoplatonists made the second hypostasis, Mind.",
+   "quotes": [
+    {
+     "text": "The first method of arranging or ‘compounding’ the gods is via substances: and here Saturn is the son of the Good and the One and identified therefore with the First Intellect which is pure and full ... As such he is the first to emanate from the One and he is to be identified both with absolute unitary Being and with the dyad of thinking and of thought. Thus for Plotinus and all subsequent ... Neoplatonists in antiquity he became identified with the second metaphysical hypostasis in Plotinus’s system, namely with Mind.",
+     "work": "allen2017",
+     "line": 9614,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Saturn",
+    "Good",
+    "One",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino's Phaedrus-commentary equation of Saturn with Mind, background to Pico's Commento on Saturn and Uranus",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Gives Ficino's own equation of Saturn with the second hypostasis Mind, against which Pico's Commento can be compared."
+   },
+   "id": "allen2017-other:059"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Mind as first creature"
+   },
+   "theses": [],
+   "text": "Allen says that although Mind was identifiable in Christian metaphysics, at least in its Arian version, with the Son, Latin usage of Jupiter for the Deity and Saturn's negative associations worked against it, and Christian philosophers coopted aspects of the Plotinian Mind for aspects of God and of the angel, God's first creature.",
+   "quotes": [
+    {
+     "text": "Insofar as Mind then became identifiable in Christian metaphysics, or at least in its Arian version, with the Son – the Logos who was in the beginning with God and was God in the famous opening formulations of St. John s Gospel – we might have predicted that Saturn would be used, at least in contexts where classical deities were a legitimate rhetorical recourse, to signify the Son, But the Latin West’s constant cooptation of Jupiter to signify the Deity in such contexts, combined with the many negative or problematic associations of Saturn, obviously militated against this, even as Christian philosophers coopted aspects of the Plotinian Mind to account for aspects of God on the one hand and aspects of the angel, God’s first creature, on the other.",
+     "work": "allen2017",
+     "line": 9626,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Saturn",
+    "Jupiter",
+    "Son",
+    "Plotinian Mind"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Explains why Mind could be read both as the Son (Arian) and as the first created angel, the alternative on which Pico's Commento settles."
+   },
+   "id": "allen2017-other:060"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Saturn and Uranus"
+   },
+   "theses": [],
+   "text": "Allen says Ficino read Saturn's castration of Uranus allegorically as a mythical description of the radical nature of Mind's descent or procession from the One.",
+   "quotes": [
+    {
+     "text": "the story of the god’s castration of his father Uranus, which Ficino read allegorically as a mythical description of the radical nature of Mind’s descent from, or procession from, the One.",
+     "work": "allen2017",
+     "line": 9651,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Uranus",
+    "Mind",
+    "One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino's allegory of Uranus's castration as Mind's procession from the One",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:061"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Mind and the Good"
+   },
+   "theses": [],
+   "text": "Allen says Ficino, on the enigma of Plato's Sixth Letter, takes Saturn as intellect and cause of Jupiter, with the Good as lord and father of both, and that Saturn is the first principle to issue from and return to the One.",
+   "quotes": [
+    {
+     "text": "Here Ficino relies in particular on the famous enigma in Plato’s Sixth Letter ‘To Hermias’ 323D which postulates the intellect, i.e., Saturn, as the «cause» of Jupiter, and postulates the Good as «the lord and father» of both Saturn and Jupiter.",
+     "work": "allen2017",
+     "line": 9657,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For Saturn is now identified with the first metaphysical and, concomitantly, dialectical principle to issue from and to return to the One: that is, with Mind and with the self-regarding of Mind",
+     "work": "allen2017",
+     "line": 9680,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Saturn",
+    "Jupiter",
+    "Good",
+    "One",
+    "Hermias"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino's reading of the Sixth Letter, a source for the Commento's hierarchy Good-Mind-Soul",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:062"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "angel-location"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino, on Thomist grounds, holds that there are as many species of angels as there are individual angels, and calls the pure separated forms the angels, the pure intellects.",
+   "quotes": [
+    {
+     "text": "For forms exist that are wholly free of matter, and these incorporeal forms are the angels, the pure intellects themselves, amongst whom we find, Ficino adduces on Thomist grounds, not many angels existing in one angelic species, but rather as many species of angels existing as there are individual angels.",
+     "work": "allen2017",
+     "line": 9846,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's Thomist doctrine of one angel per species, a point of contact with Pico's scholastic angelology",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:063"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino devoted all of Book XV of the Platonic Theology to refuting Averroes's unity of the intellect, an anathema to him ethically, psychologically and intellectually, and that for Ficino the answer to whether there is one intellect for all men is a resounding No.",
+   "quotes": [
+    {
+     "text": "The whole of the formidable fifteenth book of Ficino’s eighteen book summa, the Platonic Theology – the longest book by far – is devoted to a thorough refutation of Averroes’s positions",
+     "work": "allen2017",
+     "line": 9695,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But is there one saturnian intellect, one insenescibilis intellectus with its «dry light», as the Heraclitus maxim denominates it, for all men? For Ficino at least, the most ardent of the anti-Averroist epistemologists and metaphysicians of the fifteenth century, the answer is certainly a resounding No.",
+     "work": "allen2017",
+     "line": 9984,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Averroes",
+    "Platonic Theology"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's rejection of the unicity of the intellect, the position Pico's Oration also touches through the Agent Intellect",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:064"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen suggests that Averroes's unitary intellect resembled the Plotinian nous so closely that Ficino needed to discredit it, an explanation he offers as a hypothesis.",
+   "quotes": [
+    {
+     "text": "For Ficino, I suggest, Averroes became in several unsettling ways not so much the perverter of the central propositions in Aristotle’s De anima 3.5.340a10–25 as a subtle advocate – though perforce indirectly and inadvertently since he would not have acknowledged or recognized this himself in the twelfth century – of some of the central propositions that Ficino had continually encountered and enthusiastically embraced in Plotinus’s analysis of nous.",
+     "work": "allen2017",
+     "line": 9896,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Consequendy – and this is perhaps a psychological, or even a mono-psychological hypothesis – it was critically important for Ficino to discredit Averroes.",
+     "work": "allen2017",
+     "line": 9903,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "speculative",
+   "hedge_words": "I suggest",
+   "entities": [
+    "Ficino",
+    "Averroes",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether Ficino's anti-Averroism was driven by the resemblance of Averroes's unitary intellect to Plotinus's nous is offered as a hypothesis only.",
+     "basis_quote": {
+      "text": "and this is perhaps a psychological, or even a mono-psychological hypothesis",
+      "work": "allen2017",
+      "line": 9903
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Offers a Plotinian motive for Ficino's polemic against Averroes."
+   },
+   "id": "allen2017-other:065"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino's whole lifetime endeavour was focused on a Plotinian-Christian metaphysics centred on nous and noes: nous in God, in the angels and in souls.",
+   "quotes": [
+    {
+     "text": "Most importantly for my thesis here, we should constantly bear in mind that Ficino’s whole lifetime endeavour was focused on elaborating a Plotinian-Christian metaphysics centred upon nous and noes: nous in God, in the angels, and in souls.",
+     "work": "allen2017",
+     "line": 9935,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Allen's summary of Ficino's project against which Pico's scholastic angelology is set",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States the orientation of Ficino's metaphysics toward nous, mediated through angels."
+   },
+   "id": "allen2017-other:066"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino revered Plotinus as a virtual Church Father and supposed him acquainted with the apophatic theology of Dionysius the Pseudo-Areopagite, described as Proclus's disciple, which was possible only because Ficino mistakenly took the works for those of Paul's Athenian convert.",
+   "quotes": [
+    {
+     "text": "He revered Plotinus, moreover, as one of the first and greatest of the Church Fathers in all but name, supposing him acquainted not only with Johannine and Pauline theology, but, confusingly, with the apophatic theology of Proclus’ great sixth century disciple, Dionysius the Pseudo-Areopagite. This was only possible because Ficino, like the vast majority of his predecessors and contemporaries, mistakenly attributed the works of the latter to St. Paul’s Athenian convert, the first century Areopagite",
+     "work": "allen2017",
+     "line": 9927,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Plotinus",
+    "Proclus",
+    "Dionysius",
+    "Pseudo-Areopagite",
+    "St. Paul"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "chronological",
+     "text": "Allen calls Dionysius Proclus's 'sixth century' disciple here but 'late fifth century' elsewhere in the volume.",
+     "basis_quote": {
+      "text": "Proclus’ great sixth century disciple, Dionysius the Pseudo-Areopagite",
+      "work": "allen2017",
+      "line": 9930
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's Dionysian chronology, which Pico's Dionysian orders would have inherited",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Explains that Ficino's Plotinian Christianity rests on the Pauline dating of Dionysius."
+   },
+   "id": "allen2017-other:067"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen states in a note that Dionysius the Areopagite, in On the Celestial Hierarchy 11.3, suggests that the more rebarbative the myth, the profounder its core.",
+   "quotes": [
+    {
+     "text": "Dionysius the Areopagite, On the Celestial Hierarchy 11.3, suggests that the more rebarbative the myth, the profounder its core.",
+     "work": "allen2017",
+     "line": 10096,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius the Areopagite"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:068"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "oration-orders",
+    "separate-substances",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "seraph, cherub, throne"
+   },
+   "theses": [],
+   "text": "Allen reports that Ficino's Philebus commentary describes the Seraphim triad as a single divine intelligence with head, breast and thigh, whose head gazes to the Good, breast to its own beauty and thigh to creating lower things.",
+   "quotes": [
+    {
+     "text": "More intriguing still is Ficino’s exploration of the interaction of various triads, triads which had become, with Plotinus and even more so with Proclus, the fundamental key to his understanding of Platonic metaphysics and hence to his attempt to accommodate this metaphysics to Christianity. Each triad marks a descent or emanation. First, Ficino says, is the triad of the Seraphim as a single divine intelligence consisting of its head, breast, and thigh – its head gazes up towards the Good, its breast looks towards its own beauty, and its thigh reaches down to providing for and creating lower things.",
+     "work": "allen2017",
+     "line": 11245,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Seraphim",
+    "Plotinus",
+    "Proclus",
+    "Good"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's seraphic triad in the Philebus commentary, a Platonic-Christian reading of the highest angelic order against which Pico's Oration orders can be set",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Records Ficino's own seraph-as-intelligence triad from his Philebus commentary."
+   },
+   "id": "allen2017-other:069"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "separate-substances",
+    "angel-location"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen reports that Ficino's second triad applies, following Dionysius's De divinis nominibus 4.8, to all the angels, who are declared to have three motions: circular in returning to God, straight in extending power to lower things, and spiral in attending to themselves.",
+   "quotes": [
+    {
+     "text": "Second is the triad associated not just with the highest angelic choir but with all the angels which in Dionysius the Areopagite’s De nominibus di-vinis 4.8 are declared to have three motions, circular, straight and spiral: circular in their returning to God, straight in their «offering/extending their power» to lower things, and spiral insofar as they devote attention to themselves.",
+     "work": "allen2017",
+     "line": 11251,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Dionysius the Areopagite",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino draws the three angelic motions from Dionysius's Divine Names, the same Dionysian source Pico takes up in the Heptaplus",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:070"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen reports that Ficino's third triad makes the ray of the Good triple in any intelligence: Saturn when striving toward the Good, Jupiter when reverting to itself, Prometheus when turning to lower things, with three corresponding powers in the soul.",
+   "quotes": [
+    {
+     "text": "Third is the ray of the Good which becomes triple in any intelligence. When it strives towards the Good, this ray is Saturn (though some say the Sky, Coelius); when it reverts to itself, it is Jupiter; and when it turns towards lower things, it is Prometheus. Accordingly, the soul in turn has three powers: one joining it to the higher, another whereby it retains its proper energy, and another joining it to the lower.",
+     "work": "allen2017",
+     "line": 11260,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Good",
+    "Saturn",
+    "Jupiter",
+    "Prometheus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino's threefold ray in intelligence, compare Pico's Commento Saturn/Uranus treatment of Mind",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:071"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says that in the last decade of his life Ficino translated and commented on two works of Dionysius, whom Allen calls a sixth-century Neoplatonist confused by the medieval tradition with the Dionysius converted by Paul and with the patron saint of France.",
+   "quotes": [
+    {
+     "text": "In the last decade of his life, Ficino turned to translate and comment on two works of the sixth century Neoplatonist Dionysius, whom the medieval tradition inherited by Ficino and his contemporaries confused both with the Dionysius whom St. Paul had converted on the Areopagus in Athens (as noted in Acts 17:34) and, incidentally, with another Dionysius, the patron saint of France. The Neoplatonist was revered as the greatest of the Greek Church Fathers and was almost invariably known until the late sixteenth century, when doubts began to surface, as Dionysius the Areopagite.",
+     "work": "allen2017",
+     "line": 9207,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Dionysius",
+    "St. Paul",
+    "Areopagus",
+    "Acts 17:34"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "chronological",
+     "text": "Allen calls the Neoplatonist Dionysius sixth-century here and in the Saturn essay, but 'late fifth century' in the Kristeller and heresy essays.",
+     "basis_quote": {
+      "text": "the sixth century Neoplatonist Dionysius",
+      "work": "allen2017",
+      "line": 9207
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's late Dionysian commentaries, after Pico's death",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:072"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "one-beyond-being",
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino's commentary on Dionysius's Mystical Theology describes a sevenfold ascent by subtraction that ends at the absolute Unity, God, concealed beneath the soul's particular unity.",
+   "quotes": [
+    {
+     "text": "Ficino suggests a sevenfold contemplative ascent by way of subtraction. It is imperative that first we banish body from our soul; second, banish corporeal passions from this same soul; third, banish imagination’s images from its reason; fourth, banish reasons discursive arguments from its intellect; fifth, banish intellects multiformity from our souls unity; and sixth, from this unity banish the condition of being either soul or intellect. We must come to rest, he says, only on the seventh step. For there we will always find the absolute Unity itself, that is, God, lying concealed beneath our own soul’s particular unity",
+     "work": "allen2017",
+     "line": 9221,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "God",
+    "Unity"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's late Dionysian doctrine of the One beyond soul and intellect",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:073"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "one-beyond-being",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Ficino derives from the Second Letter's enigma Plato's core metaphysical system with its apex in the One and emanation into Mind and then Soul, in a subordinationist scheme that is Plotinian rather than strictly Platonic, and later tried to accommodate it to Trinitarian formulae.",
+   "quotes": [
+    {
+     "text": "Again, the mystery Ficino discovers here is theological and metaphysical. He takes the famous enigma and from it derives Plato’s core metaphysical system with its apex in the One and its emanation (or pouring forth) into Mind and then into Soul, in a subordinationist scheme that is Plotinian rather than strictly Platonic.25 Interestingly, however, he would return twice more to the enigma in the hope of accommodating its wording to orthodox Trinitarian formulae",
+     "work": "allen2017",
+     "line": 8559,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "One",
+    "Mind",
+    "Soul",
+    "Plotinian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's own statement of the One-Mind-Soul scheme, the metaphysics Pico contests in De ente",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Allen labels Ficino's scheme subordinationist and Plotinian, in tension with Christian Trinitarian language."
+   },
+   "id": "allen2017-other:074"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "III (Benivieni stanza 4)"
+   },
+   "theses": [],
+   "text": "Allen says that Pico, in his gloss on Benivieni's fourth stanza in Commento III, argued that Orpheus was unwilling to die for his beloved because his music had made him soft and weak, that he descended to Hades for an imaginary Eurydice, and should instead have sent his intellect to heaven to gaze on the true Eurydice among the intelligible Ideas.",
+   "quotes": [
+    {
+     "text": "The interpretation of Pico is equally unexpected. In his gloss on Benivieni’s fourth stanza in the third book of his Commento,64 he went so far as to argue that Orpheus had been unwilling to die in order to pursue his beloved «because he had been made soft and weak by his own music»",
+     "work": "allen2017",
+     "line": 10576,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "By way of partial clarification, Pico asserts that the poet had succumbed to his imagination; and this had led him down to Hades to beg for a fantastic or imaginary Eurydice, the insubstantial wraith, the eidolon of his beloved. Instead, he should have cut himself off, Pico argues, from the functioning of his lower faculties, and summoned his intellect to wing its way upwards to heaven in order to gaze upon the authentic Eurydice in the midst of the intelligible Ideas.",
+     "work": "allen2017",
+     "line": 10582,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Benivieni",
+    "Orpheus",
+    "Eurydice"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Allen presents Pico's Orpheus interpretation as pointed against Ficino's earlier Symposium commentary",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:075"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "III"
+   },
+   "theses": [],
+   "text": "Allen says Pico complains that no one, Ficino included, had understood the subtle and profound mystery of Orpheus, which occurred to Pico the first time he read the Symposium.",
+   "quotes": [
+    {
+     "text": "Pico then self-congratulatingly complains that no one, including Ficino, had ever understood this «subtle and profound» mystery, whereas its interpretation had instantly occurred to him the first time he read the Symposium.",
+     "work": "allen2017",
+     "line": 10588,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Ficino",
+    "Symposium"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Pico's claim in the Commento to have understood what Ficino did not",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "A concrete instance of Pico's self-positioning against Ficino in the Commento."
+   },
+   "id": "allen2017-other:076"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "III"
+   },
+   "theses": [],
+   "text": "Allen argues that Pico was simply responding to Ficino's brief remark in the Symposium commentary 1.4 that for the moment he did not intend to delve into the allegorical meaning of Orpheus or Alcestis, and that Plotinus's twin Herakles was as familiar to Pico as to Ficino.",
+   "quotes": [
+    {
+     "text": "By way of counter evidence, however, we must again recall that Plotinus’s subde and profound analysis of the twin Herakles’s must have been just as familiar to Pico as to Ficino, and that both were also well acquainted with Plato’s Cratylus, and surely with its memorable dual etymologizing of Hades. All this suggests that Pico was simply responding to Ficino’s brief remark in the 1460s in his Symposium Commentary 1.4 (the De amove) that «for the moment» (in praesentia) his intention «was not to delve into (perscrutari) the allegorical meaning of Orpheus or Alcestis».",
+     "work": "allen2017",
+     "line": 10590,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "All this suggests",
+   "entities": [
+    "Plotinus",
+    "Pico",
+    "Ficino",
+    "Cratylus",
+    "Orpheus",
+    "Alcestis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Allen reads Pico's Orpheus interpretation as a response to a specific remark in Ficino's De amore",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads the polemic in Commento III as answering a particular passage of Ficino."
+   },
+   "id": "allen2017-other:077"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen notes that in the Commento Pico never seems to refer to anything of Ficino's except the De amore, and that only intermittently, though Ficino had by the mid 1480s produced a great body of translation, analysis and commentary.",
+   "quotes": [
+    {
+     "text": "We should bear in mind, incidentally, that in the Commento Pico never seems to refer to anything of Ficino’s except the De amore (and only intermittendy to that), despite the fact that by the mid 1480s the older scholar had already produced a massive body of translation, analysis, and commentary that the young prince could have referred to, whatever his interpretative reservations.",
+     "work": "allen2017",
+     "line": 10597,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "never seems to",
+   "entities": [
+    "Pico",
+    "Ficino",
+    "De amore"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Pico's citation practice toward Ficino in the Commento",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:078"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says the Plotinian exegesis of the double Herakles served as a guide for Ficino, and presumably for a Neoplatonizing Pico also, in reading Platonic figures in a double, antithetical way.",
+   "quotes": [
+    {
+     "text": "This subtle Plotinian exeg esis, complementary as it is to the references to the two Hades’s in the Phaedo and Cratylus, therefore served as an exemplary guide for Ficino, and presumably for a Neoplatonizing Pico also.",
+     "work": "allen2017",
+     "line": 10560,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "presumably",
+   "entities": [
+    "Ficino",
+    "Pico",
+    "Plotinian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Common Plotinian source assumed for Ficino and Pico",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:079"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen notes that Angelo Poliziano, in a complimentary reference to Ficino at the end of the Miscellanea, glossed Eurydice as the Platonic wisdom of judgment at its amplest.",
+   "quotes": [
+    {
+     "text": "In a complimentary reference to Ficino midway through the last entry of his Miscellanea, Angelo Poliziano toyed with the same etymological conceit glossing Eurydice as «the Platonic wisdom of judgment at its amplest».",
+     "work": "allen2017",
+     "line": 10500,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Angelo Poliziano",
+    "Eurydice"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "other",
+     "note": "Concerns Poliziano's compliment to Ficino, not Pico directly; kept for the Florentine circle around Pico",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:080"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says that Lorenzo and other Medicean poets read the authentic Eurydice as dwelling among the gods, and that the false Orpheus is the pusillanimous singer of Plato's, Lorenzo's and Pico's scorn.",
+   "quotes": [
+    {
+     "text": "Furthermore, for Lorenzo and for other Medicean poets and interpreters – and here was yet another dimension of the Platonic mystery – the authentic Eurydice was not in Hades awaiting Orpheus at all, but already dwelling serenely among the gods in heaven as her name indeed signified.",
+     "work": "allen2017",
+     "line": 10491,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "even as the false one is the pusillanimous singer of Plato’s, and Lorenzo’s, and Pico’s scorn",
+     "work": "allen2017",
+     "line": 10630,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Lorenzo",
+    "Pico",
+    "Eurydice",
+    "Orpheus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "lorenzo-de-medici",
+     "kind": "other",
+     "note": "Allen groups Lorenzo's and Pico's scorn for the failed Orpheus; the Medicean poets' Eurydice reading",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:081"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "one-beyond-being",
+    "de-ente"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says the later Neoplatonists read the Parmenides as the repository of Plato's highest mysteries concerning the One, taking its first five positive hypotheses as the five hypostases: the One, mind, soul, Forms in matter, and matter.",
+   "quotes": [
+    {
+     "text": "the repository of his highest mysteries concerning the ultimate ground of being and nonbeing, of the One that Plotinus put at the summit of his metaphysical hierarchy. The first part of the dialogue criticizes Plato’s theory of Ideas and discusses the kinds of things that do not have Ideas. The second part sets forth what the later Neoplatonists determined were nine hypotheses: a set of five positive and a subordinate set of four negative hypotheses. The first set they saw as treating the five hypostases (roughly, levels of being or reality) in what for them had become the standard pentad of the Platonic metaphysical system: the One, mind, soul, Forms in matter, and matter (or matter in extension as body).",
+     "work": "allen2017",
+     "line": 450,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "One",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "The Neoplatonic Parmenides that Ficino revered and Pico dismissed in De ente",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States what was at stake for Ficino in the Parmenides that Pico's De ente treats as dialectical play."
+   },
+   "id": "allen2017-other:082"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says that in Christian eyes Parmenides had anticipated the apophatic theology of Pseudo-Dionysius, a thinker revered in the Renaissance as Paul's first Athenian convert but later exposed as a late fifth- or early sixth-century follower of Proclus.",
+   "quotes": [
+    {
+     "text": "Moreover, when Parmenides presented the ultimate metaphysical truths, he had also defined his absolutes by way of negation in the dialogue’s last four hypotheses. In Christian eyes, then, he had anticipated the apophatic (negating) theology of Pseudo-Dionysius the Areopagite, a thinker revered in the Renaissance as Saint Paul’s first Athenian convert but later exposed as a late fifth- or early sixth-century follower of Proclus.",
+     "work": "allen2017",
+     "line": 475,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "Pseudo-Dionysius",
+    "Saint Paul",
+    "Proclus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "chronological",
+     "text": "Allen gives Dionysius's date as late fifth- or early sixth-century here, sixth-century elsewhere, and late fifth-century in other essays.",
+     "basis_quote": {
+      "text": "later exposed as a late fifth- or early sixth-century follower of Proclus",
+      "work": "allen2017",
+      "line": 478
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Ties the Parmenides, Proclus and Dionysian apophaticism into one lineage."
+   },
+   "id": "allen2017-other:083"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Allen says Proclus's Parmenides commentary was translated by William of Moerbeke for a few medieval readers, and that Ficino was the first in the West since antiquity to master Proclus's works.",
+   "quotes": [
+    {
+     "text": "Significantly, the most authoritative presentation of this exalted view of Parmenides and his eponymous dialogue, namely the incomplete commentary on it by Proclus, was selected for translation by William of Moerbeke and thus made available to a few medieval readers.",
+     "work": "allen2017",
+     "line": 472,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Whether William or other medieval readers really plumbed the depths explored by Proclus is doubtful. In the West at least, Ficino was the first since antiquity who clearly achieved a mastery of Proclus’s complex works.",
+     "work": "allen2017",
+     "line": 481,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "William of Moerbeke",
+    "Proclus",
+    "Ficino",
+    "Parmenides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino's mastery of Proclus, source of the Parmenides reading Pico opposes",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:084"
+  },
+  {
+   "claimant": "Michael J. B. Allen",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Allen names Copenhaver's work on the Oration and the Cabala as the most important recent work on the Oration.",
+   "quotes": [
+    {
+     "text": "The most important recent work on the Oration is undoubtedly that by Brian P. Copenhaver, “The Secret of Pico’s Oration: Cabala and Renaissance Philosophy,” Midwest Studies in Philosophy 26 (2002)",
+     "work": "allen2017",
+     "line": 12227,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Brian P. Copenhaver",
+    "Cabala",
+    "Oration"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "allen2017-other:085"
   }
  ],
  "not_mined": [],

@@ -1,0 +1,3134 @@
+{
+ "packet": "wallis1965-deente",
+ "researcher": "",
+ "created": "",
+ "scope": null,
+ "claims": [
+  {
+   "_k": "proem-occasion",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The occasion of the treatise is a discussion in which Lorenzo, supported by the reasons of the Platonists, argued against Aristotle on being and the one; it was reported to the author by the dedicatee.",
+   "quotes": [
+    {
+     "text": "You told me some days ago what Lorenzo dei Medici discussed with you concerning being and the one. Supported by the reasons of the Platonists, he disputed against Aristotle, on whose Ethics you are giving a public commentary this year.",
+     "work": "wallis1965",
+     "line": 2431,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Lorenzo dei Medici",
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The text names no individual Platonist behind the 'reasons of the Platonists' Lorenzo used; whether these were drawn from Ficino is not stated here.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "lorenzo-de-medici",
+     "kind": "other",
+     "note": "Lorenzo is the Platonists' advocate in the discussion that occasions the treatise.",
+     "quote_index": 0
+    },
+    {
+     "party": "poliziano",
+     "kind": "correspondence",
+     "note": "The treatise is addressed to Poliziano, who reported the discussion.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Fixes the occasion: a Medici-circle dispute on Plato against Aristotle, not an attack on a named Platonist."
+   },
+   "id": "wallis1965-deente:001"
+  },
+  {
+   "_k": "proem-concord",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The author describes his own philosophy as one that makes a concordant philosophy of Plato and Aristotle, and says those who hold that Aristotle disagrees with Plato disagree with him.",
+   "quotes": [
+    {
+     "text": "And since those who think that Aristotle disagrees with Plato disagree with me, who make a concordant philosophy of both, you asked both how Aristotle might be defended in this matter and also how he might agree with his master, Plato.",
+     "work": "wallis1965",
+     "line": 2439,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle",
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "correspondence",
+     "note": "Poliziano put the question of how Aristotle might agree with Plato.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States the concordist purpose that governs the whole argument."
+   },
+   "id": "wallis1965-deente:002"
+  },
+  {
+   "_k": "proem-poliziano-answer",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The author says that what he said at the discussion largely confirmed what Poliziano had answered to Lorenzo rather than adding anything new.",
+   "quotes": [
+    {
+     "text": "I said what came to my mind at that time, confirming what you answered to Lorenzo in the discussion rather than bringing in anything new.",
+     "work": "wallis1965",
+     "line": 2442,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Lorenzo"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The proem does not say what Poliziano answered to Lorenzo, so which arguments of the treatise are Poliziano's and which Pico's cannot be told from the text.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "Pico credits Poliziano's own answer to Lorenzo as the basis of what he said.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:003"
+  },
+  {
+   "_k": "proem-compendium",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The treatise is a brief compendium of what was said in the dedicatee's presence, requested by him, while a fuller treatment is to appear in a work called the Concord of Plato and Aristotle.",
+   "quotes": [
+    {
+     "text": "Although I am to write at greater length on these topics in the Concord of Plato and Aristotle which I am now bringing forth, you entreated me to collect in a brief compendium what I said about this question then in your presence.",
+     "work": "wallis1965",
+     "line": 2445,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Concord of Plato and Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "correspondence",
+     "note": "The treatise exists because Poliziano entreated Pico to write it down.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:004"
+  },
+  {
+   "_k": "proem-friend",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "historical_event",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The author says he cannot refuse the dedicatee and calls him an almost inseparable companion, particularly in a literary matter.",
+   "quotes": [
+    {
+     "text": "What can I deny you? May I say that you are an almost inseparable companion, particularly in a literary matter?",
+     "work": "wallis1965",
+     "line": 2451,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "Pico's own words on his closeness to Poliziano.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:005"
+  },
+  {
+   "_k": "proem-style",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "method",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno proem"
+   },
+   "theses": [],
+   "text": "The author announces that he will use words not yet legally given to Latin, because the newness of the subject makes such expression almost necessary, and that no elegant style should be expected.",
+   "quotes": [
+    {
+     "text": "May I also be allowed, through you who vindicate a more elegant language, to use some words which are not yet perhaps legally given to Latin.",
+     "work": "wallis1965",
+     "line": 2453,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "pression almost necessary, and therefore you should not look for the allurement of a more elegant style.",
+     "work": "wallis1965",
+     "line": 2464,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:006"
+  },
+  {
+   "_k": "c1-thesis",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 1"
+   },
+   "theses": [],
+   "text": "Aristotle, in many places, holds that the one and being, and likewise the true and the good, correspond and are the same in extent, and the Academy opposes this, holding the one prior to being.",
+   "quotes": [
+    {
+     "text": "Aristotle says in many places that the one and being, and likewise the true and the good, correspond to each other and are the same in extent.",
+     "work": "wallis1965",
+     "line": 2475,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "We shall treat of the true and the good later. The Academy opposes this, and thinks that the one is prior to being.",
+     "work": "wallis1965",
+     "line": 2477,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle",
+    "Academy"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The Academy is not identified by any author's name in this chapter.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Sets out the two positions whose reconciliation the treatise attempts."
+   },
+   "id": "wallis1965-deente:007"
+  },
+  {
+   "_k": "c1-arg1",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 1"
+   },
+   "theses": [],
+   "text": "In the first Platonist argument, prior means more simple and more universal, so that God, whose is the highest simplicity, is one but not being.",
+   "quotes": [
+    {
+     "text": "When they say prior, they mean that the one is more simple and more universal. For this reason they also say that God, whose is the highest simplicity, is one, but not that he is being.",
+     "work": "wallis1965",
+     "line": 2479,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:008"
+  },
+  {
+   "_k": "c1-arg2",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 1"
+   },
+   "theses": [],
+   "text": "In the second Platonist argument, prime matter lies within the limits of the one but outside the limits of being.",
+   "quotes": [
+    {
+     "text": "They say that the prime matter of all things, rough and unformed, is within the limits of the one, but they maintain that it is outside the limits of being.",
+     "work": "wallis1965",
+     "line": 2481,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:009"
+  },
+  {
+   "_k": "c1-arg3",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 1"
+   },
+   "theses": [],
+   "text": "In the third Platonist argument, what is opposed to being is nothing while what is opposed to the one is multitude, so that being and the one are not convertible.",
+   "quotes": [
+    {
+     "text": "Then they add that that which is opposed to the one is not the same as that which is opposed to being. That which is opposed to being is nothing, whereas that which is opposed to the one is multitude. Consequently, by the same rule by which those opposites are judged to be two, the Platonists think that being and the one are not convertible and do not correspond to each other.",
+     "work": "wallis1965",
+     "line": 2484,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:010"
+  },
+  {
+   "_k": "c2-places",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author finds that Plato disputed on being and the one in two places, the Parmenides and the Sophist, and that the Academics take Plato to place the one above being in both.",
+   "quotes": [
+    {
+     "text": "I find that Plato disputed concerning being and the one in two places, namely, in the Parmenides and the Sophist. The Academics contend that in both passages Plato places the one above being.",
+     "work": "wallis1965",
+     "line": 2506,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Parmenides",
+    "Sophist"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:011"
+  },
+  {
+   "_k": "c2-dialectic",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author holds that nothing in the Parmenides is positively asserted and that the dialogue is a dialectical exercise, not a doctrinal work.",
+   "quotes": [
+    {
+     "text": "Nothing in the whole dialogue is positively asserted. If anything is asserted, still nothing is clearly found by which we may ascribe this sort of teaching to Plato. That book is certainly not to be included among his doctrinal works, since it is nothing but a dialectical exercise.",
+     "work": "wallis1965",
+     "line": 2510,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "Plato"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "argument",
+     "text": "The argument from the construction of the dialogue: where it begins, what it tends to, what it promises and what it asserts."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The chapter does not say which interpreters hold the Parmenides to teach a doctrine of the one; the author omits them by name.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Denies the Parmenides doctrinal status on which the Neoplatonic one-beyond-being rests, so a central text is read as method."
+   },
+   "id": "wallis1965-deente:012"
+  },
+  {
+   "_k": "c2-commentators",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author says that commentaries interpreting the Parmenides otherwise than his own reading are arbitrary and forced, and then sets all commentators aside.",
+   "quotes": [
+    {
+     "text": "The words themselves of the dialogue are so far from refuting our opinion that there are no more arbitrary and forced commentaries than those brought in by persons wishing to interpret the Parmenides of Plato in another sense. But let us omit all the commentators.",
+     "work": "wallis1965",
+     "line": 2515,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The persons whose commentaries are called arbitrary and forced are not named in the text, so the quotation does not identify the target.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "The sharpest polemic in the treatise is not addressed to a name; its target must be supplied from outside the text."
+   },
+   "id": "wallis1965-deente:013"
+  },
+  {
+   "_k": "c2-exercise",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author cites Parmenides's advice to the young Socrates to exercise himself in the faculty that many call trifling or garrulousness, and states that all admit this to be dialectic.",
+   "quotes": [
+    {
+     "text": "Consider, and while you are young, exercise yourself very diligently in that faculty which appears useless to many people, for which reason they call it trifling or garrulousness. Otherwise, truth may escape you.",
+     "work": "wallis1965",
+     "line": 2527,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "All admit that Parmenides meant dialectic by these words.",
+     "work": "wallis1965",
+     "line": 2530,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "Socrates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:014"
+  },
+  {
+   "_k": "c2-zeno",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author argues from Zeno's remark that the matter Parmenides was about to treat could not be the divine orders or first principle of all things, since it was unseemly for an old man in a crowd but suitable for the young; it was dialectic.",
+   "quotes": [
+    {
+     "text": "These words of Zeno entirely confirm what we have said. If we may believe Zeno, that of which Parmenides is to treat is such that it may not be examined by an old man openly in an assembly of many people. And if it is a question of divine orders, of the first principle of all things, as these Platonists wish to interpret it, what subject is more suitable to an old man or of what would he be less ashamed?",
+     "work": "wallis1965",
+     "line": 2560,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Zeno",
+    "Parmenides"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "argument",
+     "text": "An argument from what Zeno says of who may properly exhibit the exercise, and of the unsuitability of first principles as a topic of shame."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:015"
+  },
+  {
+   "_k": "c2-nothing-affirmed",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author states that throughout the dialogue nothing is affirmed and everywhere it is merely asked what would follow if some thing is and if it is not.",
+   "quotes": [
+    {
+     "text": "If we do not believe such witnesses, we may run through the dialogue, and we shall see that nowhere is anything affirmed, but everywhere it is merely asked: If some thing is, what would follow, and if some thing is not, what would then follow.",
+     "work": "wallis1965",
+     "line": 2570,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:016"
+  },
+  {
+   "_k": "c2-first-hyp",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author accounts for the Academics' opinion as arising from the first hypothesis, in which the one, supposed to be, is indivisible, infinite, nowhere, and will not be being.",
+   "quotes": [
+    {
+     "text": "the Academics have here taken the occasion of their opinion concerning being and the one from the fact that in the first hypothesis Plato discusses this problem in order that he may see what would follow if all things were one; and he replies that that one, which we suppose to be, will be indivisible, infinite, nowhere; and when Plato has enumerated many other attributes of this sort,",
+     "work": "wallis1965",
+     "line": 2574,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "adds this also, among other things i.e., that that one will not be being.",
+     "work": "wallis1965",
+     "line": 2587,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Academics"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:017"
+  },
+  {
+   "_k": "c2-conditional",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author distinguishes asserting that the one is above being from asserting that, if all things were one, that one would not be being.",
+   "quotes": [
+    {
+     "text": "Notice also (if this be not a dialectical exercise but conveys a doctrine concerning being and the one), how much these two differ, that is, to assert that the one is above being, and to assert this as future: that, if all things be one, then that one would not be being.",
+     "work": "wallis1965",
+     "line": 2588,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "argument",
+     "text": "The hypothesis is conditional, so it cannot be a categorical statement of the one's transcendence even if the dialogue is doctrinal."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives a second, independent reading of the first hypothesis that does not depend on the dialectical-exercise thesis."
+   },
+   "id": "wallis1965-deente:018"
+  },
+  {
+   "_k": "c2-sophist",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "In the Sophist Plato says that the one and being are equal rather than that the one is superior to being, and the author does not find the latter theory explained there.",
+   "quotes": [
+    {
+     "text": "In the Sophist, he says on this question that the one and being are equal rather than that the one is superior to being. I do not find where Plato explains that latter theory.",
+     "work": "wallis1965",
+     "line": 2593,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Now considering in this way, it is necessary that you admit that he who says something says some one thing.",
+     "work": "wallis1965",
+     "line": 2596,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Sophist",
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:019"
+  },
+  {
+   "_k": "c2-sophist-conclusion",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "From the Sophist the author concludes that not-one and nothing are the same, that one and something are equals, and that Plato held it certain that the one was being.",
+   "quotes": [
+    {
+     "text": "So much for Plato. Consequently, according to him, not-one and nothing are equals, indeed, they are the same. One and something are equals.",
+     "work": "wallis1965",
+     "line": 2601,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It appears, then, that Plato held it as certain that the one was being.",
+     "work": "wallis1965",
+     "line": 2606,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:020"
+  },
+  {
+   "_k": "c2-concession",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 2"
+   },
+   "theses": [],
+   "text": "The author says that, for argument's sake, he will grant that Plato affirmed the one above being, though Plato nowhere affirmed it, and asks in what sense Plato could have spoken truly.",
+   "quotes": [
+    {
+     "text": "But let this be so, let us grant that Plato affirmed something which he certainly nowhere affirmed. Well, let us examine in what sense Plato could have spoken truly, first laying down the foundations of the Aristotelean position in this way.",
+     "work": "wallis1965",
+     "line": 2608,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "The move from exegesis to metaphysical reconciliation: the concord no longer depends on winning the exegetical point."
+   },
+   "id": "wallis1965-deente:021"
+  },
+  {
+   "_k": "c3-mode1",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "Being can be taken in two modes; in the first, being is all that is outside nothing, and Aristotle used the term so when he made being equal to the one.",
+   "quotes": [
+    {
+     "text": "This term being, about which it is argued whether it be equal to the one, can be taken in two modes.",
+     "work": "wallis1965",
+     "line": 2620,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "we say being, we understand all that which is outside nothing. Aristotle employed the term in this way when he made being equal to the one.",
+     "work": "wallis1965",
+     "line": 2630,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:022"
+  },
+  {
+   "_k": "c3-speak-many",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "method",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "The author says we ought to think as the few and speak as the many, and that for the masses being means all that to which existence is not lacking.",
+   "quotes": [
+    {
+     "text": "As it is truly said, we ought to think as the few, and speak as the many. We think and believe for ourselves, we speak for others, that is, for the multitude, and therefore we speak so that we may be understood.",
+     "work": "wallis1965",
+     "line": 2633,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Being is all that to which existence is not lacking, and which cannot truly be called nothing.",
+     "work": "wallis1965",
+     "line": 2637,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "A stated rule of speech that licenses reading Aristotle's usage as popular, not as the last word on God."
+   },
+   "id": "wallis1965-deente:023"
+  },
+  {
+   "_k": "c3-parmenides-god",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "The author holds that Parmenides, according to Simplicius and his defenders, meant God when he said that what is, is one, so that the one cannot be above being unless it is above God.",
+   "quotes": [
+    {
+     "text": "Parmenides the Pythagorean, when he said that that which is, is one, meant God, if we believe Simplicius and the many others who wish to defend Parmenides from those who calumniate him, as if he had said that all things are one.",
+     "work": "wallis1965",
+     "line": 2640,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This one is God. Therefore, if we believe Parmenides and even his Platonic defenders, the one cannot be above being, unless it is above God.",
+     "work": "wallis1965",
+     "line": 2650,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Parmenides",
+    "Simplicius",
+    "God"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "The author appeals to Simplicius and other defenders of Parmenides for the reading that the one is God."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:024"
+  },
+  {
+   "_k": "c3-dionysius-iam",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "The author says that Dionysius, whom opponents make a patron of their opinion, will not deny that God said to Moses 'I am who am', which he glosses as 'I am being'.",
+   "quotes": [
+    {
+     "text": "But also Dionysius the Areopagite, whom those who dispute against us make into a patron of their opinion, will not deny that God truly said to Moses \"I am who am,\" which we read thus in Greek",
+     "work": "wallis1965",
+     "line": 2657,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius the Areopagite",
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The 'opponents' who make Dionysius a patron of the one-above-being view are not named.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:025"
+  },
+  {
+   "_k": "c3-dilemma",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "Using the Platonists' own rule that nothing is opposed to being as multitude to unity, the author argues they must say either that God is nothing or that God is being.",
+   "quotes": [
+    {
+     "text": "Rather, whenever they say that nothing or not-being is opposed to being as multitude is opposed to unity, they will concede necessarily that that which is not being is nothing or not-being, as that",
+     "work": "wallis1965",
+     "line": 2660,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "which is not one is many or a multitude. Consequently, if they observe the same rule of speaking, they would have to say either that God is nothing, which frightens the ears, or else that God is being.",
+     "work": "wallis1965",
+     "line": 2671,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "argument",
+     "text": "A reductio on the Platonists' third argument (ch. 1) applied to God."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:026"
+  },
+  {
+   "_k": "c3-equals",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 3"
+   },
+   "theses": [],
+   "text": "The author concludes that, understood as excluding only nothing, being includes all things, so that the one can neither include more than being nor fewer, and being and the one are equals.",
+   "quotes": [
+    {
+     "text": "Therefore, since there is nothing outside all things except nothing itself, if being, understood in this way, excludes only nothing from itself, then without doubt being must include all things. For this reason the one cannot include more things than being unless it includes nothing, which Plato denies in the Sophist, when he says that not-being or nothing cannot be called one. Nor does the one include fewer things than being, as they themselves admit. Therefore, being and the one are equals.",
+     "work": "wallis1965",
+     "line": 2678,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Sophist"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "The central convertibility argument in its first sense of being."
+   },
+   "id": "wallis1965-deente:027"
+  },
+  {
+   "_k": "c4-mode2",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author says the second sense of being makes it possible to say truly that something may be placed above being.",
+   "quotes": [
+    {
+     "text": "We have explained one of the two modes in which we said that being could be understood. Those who use being in this sense, as they can use it correctly, most truly affirm that nothing is more universal than being. It remains for us to explain the second sense of being, according to which it will be evident that it is nevertheless also possible to say truly that there is something which may be placed above the eminence of being.",
+     "work": "wallis1965",
+     "line": 2694,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Concedes to the Platonists, in a defined sense, what the first mode denied."
+   },
+   "id": "wallis1965-deente:028"
+  },
+  {
+   "_k": "c4-abstract",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "method",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "Concrete names signify what is such by the gift of another, abstract names what is such from itself, so that what is called abstract cannot be named from the concrete.",
+   "quotes": [
+    {
+     "text": "Some nouns are concrete, others abstract. Hot, shining, white, man, are concrete. Heat, light, whiteness, humanity, are abstract. Their meaning and difference is that what is called abstract signifies that which is such from itself and not from another. The concrete, on the other hand, signifies that which is such not from itself, but by the gift of another.",
+     "work": "wallis1965",
+     "line": 2701,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:029"
+  },
+  {
+   "_k": "c4-ens-esse",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author treats being (ens) as the concrete term and existence (esse) as its abstract form, so that what participates existence is called being.",
+   "quotes": [
+    {
+     "text": "Being has the aspect of a concrete noun. Being, and that which is, are the same in meaning. This word existence [esse] seems to be the abstract form of the preceding terms. That which participates existence [esse] is called being [ens], just as that which participates light [lux] is called luminous [lucens]",
+     "work": "wallis1965",
+     "line": 2730,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "The ens/esse distinction is the engine of the whole reconciliation."
+   },
+   "id": "wallis1965-deente:030"
+  },
+  {
+   "_k": "c4-god-above-being",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "Because God is existence itself, of and from himself and the source of all things without a medium, the author says God is not being but above being.",
+   "quotes": [
+    {
+     "text": "Therefore, if we should look at this exact signification of being, we shall deny being not only to what is not, and to what is nothing, but to that which is to such a degree that it is existence [ipsum esse], which is of itself and from itself, and by participation in which all things are.",
+     "work": "wallis1965",
+     "line": 2736,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For God, who is the plentitude of all existence, is of this nature. He alone is of himself, and from him alone, with no interposing medium, all things proceed to existence.",
+     "work": "wallis1965",
+     "line": 2742,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For this reason, we may truly say that God is not being, but is above being, and that something is higher than being",
+     "work": "wallis1965",
+     "line": 2746,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Grants the Platonists' formula 'God is above being' by a Thomist route (ipsum esse above ens), so the dispute over the one is redescribed as a dispute over the sense of 'being'."
+   },
+   "id": "wallis1965-deente:031"
+  },
+  {
+   "_k": "c4-one-above-being",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "Since the title one is given to God, the author says God may be called the one above being.",
+   "quotes": [
+    {
+     "text": "God, and since the title one is given to God, we may consequently say that he is the one above being.",
+     "work": "wallis1965",
+     "line": 2751,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [
+    {
+     "to": "c4-god-above-being",
+     "relation": "depends_on",
+     "basis": "Follows from the claim that God is above being."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:032"
+  },
+  {
+   "_k": "c4-god-one-manner",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author says God is called one to express the manner in which he is all things and in which other things are from him, citing Dionysius that God is one because he is all things in one and principle of all things as unity is of numbers.",
+   "quotes": [
+    {
+     "text": "We also call God one, not so much expressing what he is, as the manner in which he is all things that he is, and the manner in which other things are from him. \"The one is called God because he is all things in one,\" Dionysius says. Again, \"He is called one because he is the principle of all things which are, as unity is the principle of all numbers.\"",
+     "work": "wallis1965",
+     "line": 2754,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Pico invokes Dionysius, De divinis nominibus, for the two glosses on 'one'."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:033"
+  },
+  {
+   "_k": "c4-academics-agree",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author says that if Plato affirms in the first hypothesis of the Parmenides that the one is higher than being, that one is nothing other than God, as even the Academics admit.",
+   "quotes": [
+    {
+     "text": "Consequently, if, as the Academics think, Plato affirms in the first hypothesis of the Parmenides that the one is higher than being, that one will be nothing other than God, as even the Academics admit. They assert by common consent that Plato there treats of the first principle of all things.",
+     "work": "wallis1965",
+     "line": 2759,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Parmenides",
+    "Academics"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Turns the Neoplatonists' one into a claim about God, then absorbs it into the ens/esse distinction."
+   },
+   "id": "wallis1965-deente:034"
+  },
+  {
+   "_k": "c4-aristotle-thomas",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author argues that Aristotle also holds God above being, since being per se falls into ten categories and God is contained under none, and adds that Thomas teaches this in the Commentaries on the Theological Sentences.",
+   "quotes": [
+    {
+     "text": "Aristotle says in First Philosophy, Book VI, that being is divided into being per se and accidental being. Since being per se is in ten categories, there is no doubt among good interpreters that God is not included under this sort of being.",
+     "work": "wallis1965",
+     "line": 2771,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Because of this, we understand being in a sense such that God is above being, and is not under being, as Thomas teaches in the Commentaries on the Theological Sentences, Book 1.",
+     "work": "wallis1965",
+     "line": 2778,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle",
+    "Thomas"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Aristotle, Metaphysics VI, and Thomas on the Sentences, Book 1, as identified in the editors' notes."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Recruits Aquinas as the interpreter under whom Aristotle also puts God above being."
+   },
+   "id": "wallis1965-deente:035"
+  },
+  {
+   "_k": "c4-platonists-boast",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author says some Platonists boast of a mystery unknown to Aristotle, that there are two proper names of God, one and good, both prior to being, but that the Peripatetics know how God is understood as above being.",
+   "quotes": [
+    {
+     "text": "I shall add that some Platonists glory without justification, as if they had a mystery which was unknown to Aristotle, when they say",
+     "work": "wallis1965",
+     "line": 2781,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "that there are two proper names of God, one and good, and thus good and one are prior to being. For as we showed, the Peripatetics know how God can be understood as above being.",
+     "work": "wallis1965",
+     "line": 2793,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "'Some Platonists' are not named; whether Ficino, Plotinus or Proclus is meant is not stated in the text.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "A pointed remark that the Platonist claim to a mystery is answered inside Aristotelianism."
+   },
+   "id": "wallis1965-deente:036"
+  },
+  {
+   "_k": "c4-aristotle-xii",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 4"
+   },
+   "theses": [],
+   "text": "The author holds that Aristotle in Metaphysics XII gave the names good and one to God, deciding on a separated good as leader of the army of beings and proving the unity of God.",
+   "quotes": [
+    {
+     "text": "We can also show that Aristotle gave especially these names, good and one, to God. In First Philosophy, Book XII, after Aristotle has examined all being and separated minds, he asks finally (as turning after all things to the investigation of the properties of God alone) whether, in addition to the good which is in the universe of beings as in an army, there is any separated good, as in a leader of this army, and he decides that there is such a good, which good is God. Aristotle then proves in the same chapter the unity of God.",
+     "work": "wallis1965",
+     "line": 2797,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Supplies the Aristotelian counterpart to the Platonists' two names."
+   },
+   "id": "wallis1965-deente:037"
+  },
+  {
+   "_k": "c5-absolute",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author says the Platonists hold the one to be superior to being in an absolute sense, against Aristotle, and not in the sense in which the author also agrees with it.",
+   "quotes": [
+    {
+     "text": "Let us now refute the arguments of the Platonists by which they contend that the one is superior to being. They hold this, not in the sense in which we also agree with it, but in an absolute sense, against Aristotle.",
+     "work": "wallis1965",
+     "line": 2818,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Marks exactly what is conceded (a qualified one-above-being) and what is refused (an absolute one-above-being)."
+   },
+   "id": "wallis1965-deente:038"
+  },
+  {
+   "_k": "c5-aim",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "method",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author sets out to show why many things may be truly both affirmed and denied of God, not only by different philosophers such as Platonists and Peripatetics but often by the same author.",
+   "quotes": [
+    {
+     "text": "And although the first argument in which it was said that God is one, but not being, is sufficiently refuted from what has been said above, it would nevertheless be worth while to digress further, so that we may show why many things may be both truly affirmed and truly denied of",
+     "work": "wallis1965",
+     "line": 2821,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "God, not only by different philosophers, such as Platonists and Peripatetics, but also often by the same author.",
+     "work": "wallis1965",
+     "line": 2833,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God",
+    "Platonists",
+    "Peripatetics"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States that affirmation and denial of the divine names are reconciled by a rule, not by choosing a school."
+   },
+   "id": "wallis1965-deente:039"
+  },
+  {
+   "_k": "c5-all-things",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "God is all things most eminently and perfectly because he includes the perfections of all things and excludes whatever pertains to imperfection.",
+   "quotes": [
+    {
+     "text": "God is all things, and is all things most eminently and most perfectly. This would not be unless he so included the perfections of all things in himself that he excluded from himself whatever pertains to imperfection in things.",
+     "work": "wallis1965",
+     "line": 2835,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:040"
+  },
+  {
+   "_k": "c5-two-heads",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Imperfection in things has two heads: something less perfect within its genus, or something perfect in its genus but not absolutely because other genera have perfections it lacks.",
+   "quotes": [
+    {
+     "text": "We can, however, define under two heads whatever is imperfect in the things that are. One is when there is something in the thing which is less perfect within the genus of that thing. The other is when something is perfect in its genus, but is not thereby perfect absolutely, since it has only the perfection of one genus, and there are outside it many genera adorned with their perfections which are not included in the thing.",
+     "work": "wallis1965",
+     "line": 2838,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:041"
+  },
+  {
+   "_k": "c5-angel-knowledge",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Intellectual knowledge of divine minds, which theologians call angels, is called imperfect because it seeks outside itself the light of truth it lacks and by which it is perfected.",
+   "quotes": [
+    {
+     "text": "Add the intellectual knowledge of divine minds, which the theologians call angels. Even that is imperfect knowledge, at least because it seeks outside itself what it does not possess fully within itself, i.e., the light of truth which it lacks, and by which it is perfected.",
+     "work": "wallis1965",
+     "line": 2853,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "This is one of two passages on angels in chapters 5 to 10; angelic knowledge is used only as an example of imperfection within a genus and no angelic order or hierarchy is described.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [
+    {
+     "to": "c5-two-heads",
+     "relation": "depends_on",
+     "basis": "An instance of the first head of imperfection: imperfect within its genus."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Shows that the treatise's only angelology is an example in an argument about divine names, not a doctrine of the angelic order."
+   },
+   "id": "wallis1965-deente:042"
+  },
+  {
+   "_k": "c5-angel-life",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The life of the angels is not perfect: unless the vivifying ray of divine light constantly warmed it, it would fall into nothingness.",
+   "quotes": [
+    {
+     "text": "But the life of the",
+     "work": "wallis1965",
+     "line": 2866,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "angels is not perfect. Unless the vivifying ray of divine light constantly warmed it, it would all fall into nothingness.",
+     "work": "wallis1965",
+     "line": 2872,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The second of only two passages on angels in chapters 5 to 10; the chapter says nothing about angelic orders, the hierarchy of Dionysius or the Hebrew names.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [
+    {
+     "to": "c5-angel-knowledge",
+     "relation": "qualifies",
+     "basis": "Extends the angels' imperfection from knowledge to life, which depends on a continued divine influx."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Angelic being is described as contingent on a continuing divine illumination, in an argument about God's excluded imperfections."
+   },
+   "id": "wallis1965-deente:043"
+  },
+  {
+   "_k": "c5-life-death",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Life in plants and in every body is imperfect because it is only life and not pure life, always mixed with death, so that we begin to die when we begin to live.",
+   "quotes": [
+    {
+     "text": "Take life. That life which is in plants, indeed that which is in every body, is imperfect not only because it is merely life, and not knowledge, but also because it is not pure life; rather, it is some vivification of the body, derived from soul, always flowing, always mixed with death, and thus is to be called death rather than life.",
+     "work": "wallis1965",
+     "line": 2857,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "If perhaps you do not know, we begin to die when we first begin to live",
+     "work": "wallis1965",
+     "line": 2863,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:044"
+  },
+  {
+   "_k": "c5-remaining",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Ascribing life and cognition to God freed of these imperfections is not enough, since a further imperfection remains: each is a perfection distinct from the others and so unworthy of God.",
+   "quotes": [
+    {
+     "text": "Therefore, when you say that God is knowing and living, notice first that the life and cognition which are ascribed to him are understood as free from all these imperfections, but this is not enough. There remains another imperfection.",
+     "work": "wallis1965",
+     "line": 2875,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Still, both this life and this knowledge, although each is most perfect in its genus, and is such that it cannot be outside God, when so understood and distinct from each other, are unworthy of God.",
+     "work": "wallis1965",
+     "line": 2887,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:045"
+  },
+  {
+   "_k": "c5-not-aggregate",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "God is not infinite perfection merely by including many particular perfections, for he would then be compounded and finite in perfection; the author calls saying or thinking this of God impious.",
+   "quotes": [
+    {
+     "text": "God is infinite perfection of every sort, but not merely in that he includes all such particular and infiniteperfections in himself. In that case he would not be most simple, nor would those things which are in him be infinite. He would be one infinite compounded from many things infinite in number but finite in perfection. To say or think this of God is impious.",
+     "work": "wallis1965",
+     "line": 2890,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Divine simplicity is used to exclude any reading of God as an aggregate of names, whether Platonist or Peripatetic."
+   },
+   "id": "wallis1965-deente:046"
+  },
+  {
+   "_k": "c5-remove",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Removing from life and knowledge and the other divine names what makes them merely particular leaves what God is understood to be: one, most perfect, infinite, most simple.",
+   "quotes": [
+    {
+     "text": "Let us therefore remove from life not only that which makes it imperfect life but also that which makes it merely life, and likewise from knowledge and from the other names we give to God; and then what shall be left over from all these will necessarily be such as we wish God to be understood, that is, one, most perfect, infinite, most simple.",
+     "work": "wallis1965",
+     "line": 2902,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [
+    {
+     "to": "c5-not-aggregate",
+     "relation": "depends_on",
+     "basis": "The removal of particularity is the answer to the objection that God would be an aggregate."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:047"
+  },
+  {
+   "_k": "c5-being-itself",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Taking from life, wisdom and justice the condition of particularity leaves being itself, being absolutely, universal by the universality of perfection and not of predication.",
+   "quotes": [
+    {
+     "text": "Life is a kind of being, and wisdom in turn is a kind of being, and justice likewise; yet if you should take away the condition of",
+     "work": "wallis1965",
+     "line": 2908,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "particularity and determination from these, what would remain would not be this or that being, but being itself, being absolutely, being universal not by the universality of predication but by the universality of perfection.",
+     "work": "wallis1965",
+     "line": 2914,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Makes 'being itself' the result of subtraction, so being is not one name among others but what remains when all are stripped of particularity."
+   },
+   "id": "wallis1965-deente:048"
+  },
+  {
+   "_k": "c5-convertible-names",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "By the same subtraction the author says wisdom yields the good absolutely, and that life yields the one itself, so that God is being itself, the one itself, the good itself and truth itself.",
+   "quotes": [
+    {
+     "text": "Then you will see the face of God in an enigma, that is, every good itself, good absolutely, the good that is the good of every good.",
+     "work": "wallis1965",
+     "line": 2922,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Thus as life is a being, it is also a one. It is one perfection, and wisdom likewise is one perfection. Take away the particularity, and there remains not this or that one, but the one itself and the one absolutely.",
+     "work": "wallis1965",
+     "line": 2926,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Consequently, God is being itself, the one itself, the good itself, and likewise truth itself.",
+     "work": "wallis1965",
+     "line": 2933,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Being, one, good and truth are identified in God at the same level, by the same operation, undercutting the Platonist priority of one over being."
+   },
+   "id": "wallis1965-deente:049"
+  },
+  {
+   "_k": "c5-steps",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "method",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author sets out an ascent by four steps to the darkness God inhabits: two steps purge the names of the imperfection of what they signify, one shows the deficiency of the names, and one shows the infirmity of our intelligence.",
+   "quotes": [
+    {
+     "text": "We have now advanced two steps, ascending to the darkness which God inhabits, purging from the divine names all blemish that is from the imperfection of the thing signified. There now remain two steps, of which one proves the deficiencies of names, the other reveals the infirmity of our intelligence.",
+     "work": "wallis1965",
+     "line": 2935,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "The chapter's structure is a graded negative theology, with the affirmations of ch. 4 as its early steps."
+   },
+   "id": "wallis1965-deente:050"
+  },
+  {
+   "_k": "c5-still-light",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Because being, true, one and good signify something concrete and participated, God is said to be above each, since he is existence, truth, unity and goodness themselves, but this still remains within light while God dwells in darkness.",
+   "quotes": [
+    {
+     "text": "These names, being, true, one, good, mean something concrete, and, as it were, participated. Hence we say that God is above being, above true, above one, above good, since he is existence itself, truth itself, unity itself, goodness itself. But we are still in light. God, however, has established his dwelling in darkness.",
+     "work": "wallis1965",
+     "line": 2939,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For until we also understand and comprehend what we say about God, we are said to remain in light, and what we say and feel about God is as inferior as the",
+     "work": "wallis1965",
+     "line": 2945,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [
+    {
+     "to": "c5-steps",
+     "relation": "depends_on",
+     "basis": "This is the third of the four steps announced there."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Even the formula 'God is above being, above one' is judged still a statement in the light, so the one-above-being thesis is itself transcended."
+   },
+   "id": "wallis1965-deente:051"
+  },
+  {
+   "_k": "c5-fourth-step",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The fourth step is to enter the light of ignorance and to place God above even the unity, goodness, truth and existence that we conceive.",
+   "quotes": [
+    {
+     "text": "capacity of our intellect is inferior to his infinite divinity. Let us rise to the fourth step and enter into the light of ignorance, and, blinded by the darkness of divine splendor let us cry out with the Prophet,",
+     "work": "wallis1965",
+     "line": 2955,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "finally saying only this about God, that he is unintelligibly and ineffably above everything most perfect which we can either speak or conceive of him. Then we place God most eminently above even unity, goodness, truth, and existence, which we conceive.",
+     "work": "wallis1965",
+     "line": 2959,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [
+    {
+     "to": "c5-still-light",
+     "relation": "depends_on",
+     "basis": "Follows the step that leaves us still in light."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Places God above unity and existence alike, so neither the Platonist nor the Peripatetic ranking of one and being is final."
+   },
+   "id": "wallis1965-deente:052"
+  },
+  {
+   "_k": "c5-dionysius-cloud",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author says that Dionysius the Areopagite saw this, speaking at the end of On Mystical Theology as if already in the cloud.",
+   "quotes": [
+    {
+     "text": "Dionysius the Areopagite saw this. After all that he wrote in the Symbolic Theology, in the Theological Institutions, in On the Divine Names, and in On Mystical Theology, he finally at the end of that work spoke as he could about God in a very holy way, as if he were already in the cloud.",
+     "work": "wallis1965",
+     "line": 2963,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius the Areopagite",
+    "Symbolic Theology",
+    "Theological Institutions",
+    "On the Divine Names",
+    "On Mystical Theology"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Pico reads Dionysius's Mystical Theology as the endpoint of the negative way, not as a claim that God is not being."
+   },
+   "id": "wallis1965-deente:053"
+  },
+  {
+   "_k": "c5-dionysius-quote",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Pico quotes Dionysius as denying of God truth, kingdom, wisdom, one, unity, deity, goodness and spirit, and any affirmation or negation of him.",
+   "quotes": [
+    {
+     "text": "He is not truth, nor kingdom, nor wisdom, nor one, nor unity, nor deity, nor goodness, nor spirit, so far as we can know him",
+     "work": "wallis1965",
+     "line": 2968,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "nor is there any speaking of it, nor name nor science nor darkness nor light, nor error nor truth, neither is there any affirmation or negation of it.",
+     "work": "wallis1965",
+     "line": 2975,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "A quotation of the Latin text of De mystica theologia, which the editors identify in a note."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:054"
+  },
+  {
+   "_k": "c5-step1",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "In the first step we learn that God is not a body, as the Epicureans think, nor the form of a body, as the Egyptians thought, according to Plutarch and Varro, and both opinions gave support to idolatry.",
+   "quotes": [
+    {
+     "text": "Let us sum up what we have said. We shall see that we learn in the first step that God is not a body, as the Epicureans think, nor the form of a body, as they suppose who assert God is the soul of the heavens or of the universe, as the Egyptians thought, according to Plutarch and the Roman theologian Varro.",
+     "work": "wallis1965",
+     "line": 2979,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Both the Epicureans and the Egyptians derived strong support for idolatry from this, as we shall declare in another place.",
+     "work": "wallis1965",
+     "line": 2983,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Epicureans",
+    "Egyptians",
+    "Plutarch",
+    "Varro"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Plutarch and Varro, cited for the Egyptian view."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:055"
+  },
+  {
+   "_k": "c5-peripatetics",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author attacks some Peripatetics who confirm that God is body or soul of the heavens as Aristotle's opinion, saying they remain at the starting point and would make God not perfect life, being or intellect, and refers to his fifth decade of the Concord.",
+   "quotes": [
+    {
+     "text": "Even some of the Peripatetics are so stupid as to confirm that this is true and is the opinion of Aristotle. See how much these men",
+     "work": "wallis1965",
+     "line": 2986,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "They remain at the starting point as if they were at the goal. Then they believe that they have reached the heights of God when they are still lying on the ground and have not yet moved a step toward him. According to them, God would not be perfect life nor perfect being nor even perfect intellect. But we have attacked this opinion at length in the fifth decade of our Concord.",
+     "work": "wallis1965",
+     "line": 2996,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Peripatetics",
+    "Aristotle",
+    "Concord"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "The Peripatetics who hold that God is body or soul of the heavens are not named in the text.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "A named target inside the Aristotelian camp is missing; the polemic is not only aimed at Platonists."
+   },
+   "id": "wallis1965-deente:056"
+  },
+  {
+   "_k": "c5-step2",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "In the second step we learn that God is not life, intellect nor intelligible but something better, since these names signify particular perfections; Dionysius and then the Platonists deny them of God.",
+   "quotes": [
+    {
+     "text": "In the second step we learn what very few comprehend rightly and in which we can all the more err if we should deviate a little from true intellect. We learn that God is not life nor intellect nor intelligible, but rather something better and more excellent than all these. For all these names signify some particular perfection of which there is none in God. Observing this, Dionysius and then the Platonists deny that life and intellect and wisdom and things similar to these are in God.",
+     "work": "wallis1965",
+     "line": 3003,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "Platonists"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Dionysius is placed before the Platonists as the source of the denial of intellect and life in God."
+   },
+   "id": "wallis1965-deente:057"
+  },
+  {
+   "_k": "c5-one-prior",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "God unites the perfections that are many and divided in things, not as one made from many but as one prior to the many.",
+   "quotes": [
+    {
+     "text": "God himself, by his unique perfection, which is his infinity, his deity, which he himself is, unites and collects all the perfection of these things, which in them is many and divided. God does not unite these perfections as one from these many, but as one prior to these many.",
+     "work": "wallis1965",
+     "line": 3010,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [
+    {
+     "to": "c5-step2",
+     "relation": "depends_on",
+     "basis": "The reason the Platonists deny particular perfections of God."
+    }
+   ],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Here the one is prior to the many perfections, but as unity of perfection, not as a being-less principle."
+   },
+   "id": "wallis1965-deente:058"
+  },
+  {
+   "_k": "c5-parisians",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The Peripatetics, whom the Parisian theologians follow, grant that all these perfections are in God, and this agrees with those who deny them if Augustine's doctrine of the identity of God's wisdom, justice, life and knowledge is kept in view.",
+   "quotes": [
+    {
+     "text": "Consequently, some other thinkers, and especially the Peripatetics, whom the Parisian theologians follow in almost all matters as far as is allowed, grant that all these perfections are in God. When we say and believe this we not only say and believe rightly, but we do this in agreement with those who deny these perfections, if the doctrine of Aurelius Augustine is always before our eyes, that the wisdom of God is not more wisdom than justice, and the justice of God is not more justice than wisdom, and likewise life is not more life in him than knowledge, nor knowledge more knowledge than life.",
+     "work": "wallis1965",
+     "line": 3015,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Peripatetics",
+    "Aurelius Augustine"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Augustine, Sermon 340, identified in the editors' note."
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "scope",
+     "text": "'Parisian theologians' are not identified individually; Aquinas is named elsewhere (ch. 4) but not here.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "The scholastic doctrine is placed in agreement with the Platonists' denials through Augustine, a concord of schools rather than a choice."
+   },
+   "id": "wallis1965-deente:059"
+  },
+  {
+   "_k": "c5-originative-unity",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "All the perfections are one in God not by confusion or mutual penetration but through a simple, highest, ineffable, originative unity, and are more one with all things than with themselves.",
+   "quotes": [
+    {
+     "text": "All these are one in God, not through a confusion or mixing or as a mutual penetration of distinct things, but through simple, highest, ineffable, originative unity, in which every act, every form, every perfection is comprised as in the first highest leader in the innermost treasury of divine infinity.",
+     "work": "wallis1965",
+     "line": 3024,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "a way that not only are they very profound in all things, but are more one with all things than they are with themselves. Words fail, and this is expressed even less than it is understood.",
+     "work": "wallis1965",
+     "line": 3037,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "An ineffable 'originative unity' is the positive sense the author gives the one that stands behind the names."
+   },
+   "id": "wallis1965-deente:060"
+  },
+  {
+   "_k": "c5-love-knowledge",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "Addressing Poliziano, the author says that in this life we can love God more than we can speak of or know him, that loving profits more and labours less, and yet we prefer to seek him through knowledge.",
+   "quotes": [
+    {
+     "text": "But see, my Angelo, what madness seizes us. While we are in the body we can love God more than we can speak of him or know him. In loving we profit more, we labor less, we obey him more. Yet we prefer to be always seeking him through knowledge and never finding what we seek, rather than to possess by loving that which would be found in vain without loving.",
+     "work": "wallis1965",
+     "line": 3040,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Angelo"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "A direct personal address to Poliziano in the middle of the argument.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "The metaphysical argument is suspended for a claim that love reaches God where knowledge cannot; the treatise's subject is thus not finally cognitive."
+   },
+   "id": "wallis1965-deente:061"
+  },
+  {
+   "_k": "c5-concord-intellect",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The author holds that Plato and Aristotle agree on God: Plato places him as the idea of the good above intellect and intelligibles, Aristotle often calls him intellect, and Dionysius says the same as Plato but does not deny that God knows himself.",
+   "quotes": [
+    {
+     "text": "It now appears clearly to you how God sometimes may be called mind and intellect and life and wisdom, and on the other hand may sometimes be placed above all these. Both these views may truly be affirmed and in agreement with each other.",
+     "work": "wallis1965",
+     "line": 3046,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Plato does not disagree with Aristotle when, in Republic, Book VI, he places God, whom he there calls the idea of the good, above intellect and intelligible things, giving knowledge to intellects and intelligibility to intelligible things.",
+     "work": "wallis1965",
+     "line": 3050,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Aristotle, however, often calls God both intellect and intelligent, and intelligible. Even Dionysius, although he says the same thing as Plato, also does not deny with Aristotle that God is not ignorant of himself and other things.",
+     "work": "wallis1965",
+     "line": 3054,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Aristotle",
+    "Dionysius",
+    "Republic"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "correspondence",
+     "note": "Addressed 'to you' at the point where the reconciliation is drawn.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Makes Republic VI's good-beyond-intellect and Aristotle's noesis noeseos two sides of one statement."
+   },
+   "id": "wallis1965-deente:062"
+  },
+  {
+   "_k": "c5-aristotle-denies",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "If intellect is taken as a nature tending outside itself to the intelligible as to another thing, Aristotle no less than the Platonists will deny that God is intellect and intelligible.",
+   "quotes": [
+    {
+     "text": "Consequently, if he knows himself, he is intellect and intelligible, for necessarily he who knows himself both knows and is known. Still, as I have said, if we understand these perfections as individual, or if, when we say intellect, we signify the nature that tends outside itself to the intelligible as to another thing, then Aristotle, no less than the Platonists, will most steadily deny that God is also intellect and intelligible.",
+     "work": "wallis1965",
+     "line": 3057,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotle",
+    "Platonists"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:063"
+  },
+  {
+   "_k": "c5-step3",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "In the third step we learn not to make God a particular genus, even the most perfect, and that he is better than even the universal names one, true, being and good.",
+   "quotes": [
+    {
+     "text": "In the third step, the nearer we approach darkness the clearer it becomes to us that we should not only not imagine with impious thought that God is some imperfect and, as it were, deficient being, as he would be if he were said to be either body or the soul of a body, or an animal constituted from body and",
+     "work": "wallis1965",
+     "line": 3065,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Let us not make him by human wisdom some particular genus, even the most perfect genus.",
+     "work": "wallis1965",
+     "line": 3070,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But we should know that he is better than even what universal names indicate, such as one. true, being, and good.",
+     "work": "wallis1965",
+     "line": 3078,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-deente:064"
+  },
+  {
+   "_k": "c5-step4",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "In the fourth step God is known above every name and notion, and we know him in some way when altogether ignorant of him.",
+   "quotes": [
+    {
+     "text": "In the fourth step we know that he is not only above such perfections, but above every name that can be formed, above every notion that can be conceived by us. Then for the first time we know him in some way when we are altogether ignorant of him.",
+     "work": "wallis1965",
+     "line": 3081,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "The negative theology closes on knowing by ignorance."
+   },
+   "id": "wallis1965-deente:065"
+  },
+  {
+   "_k": "c5-anselm",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "God is not only that than which no greater can be conceived, as Anselm said, but infinitely greater than everything thinkable, as the Hebrew text of David says: Silence is praise to you.",
+   "quotes": [
+    {
+     "text": "It can be concluded from this that God is not only that than which no greater can be conceived, as Anselm said, but he is that which is infinitely greater than every thing that can be thought, as David the prophet truly says according to the Hebrew text:",
+     "work": "wallis1965",
+     "line": 3086,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Anselm",
+    "David"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Anselm's formula is judged insufficient; the negative way overshoots it."
+   },
+   "id": "wallis1965-deente:066"
+  },
+  {
+   "_k": "c5-dionysius-window",
+   "claimant": "Pico",
+   "attribution": "primary_text",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "de-ente-et-uno",
+    "ref": "De ente et uno ch. 5"
+   },
+   "theses": [],
+   "text": "The solution of the first argument opens a window on Dionysius's On Mystical Theology and On the Divine Names, which must not be underestimated nor turned into dreams and inextricable fictions.",
+   "quotes": [
+    {
+     "text": "Let us say that this is the solution of the first argument. It also opens a great window of legitimate understanding upon the books of Dionysius entitled On Mystical Theology and On the Divine Names. In these books we must be careful not to underestimate what he wrote, since it is sublime. Nor, when we judge all that we understand to be little, should we invent for ourselves dreams and inextricable fictions.",
+     "work": "wallis1965",
+     "line": 3091,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "On Mystical Theology",
+    "On the Divine Names"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Pico presents his own solution as a key to reading Dionysius correctly against both underreading and invented mysticism."
+   },
+   "id": "wallis1965-deente:067"
+  }
+ ],
+ "not_mined": [],
+ "proposed_topics": [],
+ "proposed_parties": [],
+ "notes": ""
+}

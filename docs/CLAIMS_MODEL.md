@@ -167,7 +167,45 @@ card shows "no evidence yet" rather than zero. Theses reach the matrix through c
 for the whole 900, through person connections built from the mention harvest (`data/ontology/`); that ingestion is
 ticket T-REL-02. The card displays the score as a bar with its party colour, and a click opens the evidence.
 
-## 8. What this does not do
+## 8. Relation to the intellectual network system
+
+A parallel design (`docs/INTELLECTUAL_NETWORK_DESIGN.md`, `docs/NETWORK_SYSTEM_HANDOVER.md`) models Pico's persons,
+typed directed relationships, relationship evidence, text-to-person relevance and eight scoring dimensions under
+`data/network/`. The two systems meet at the claim:
+
+- **A verified claim is a unit of relationship evidence.** `bears_on` says which relationship a claim illuminates; the
+  network's `RELATIONSHIP_EVIDENCE` rows are built from verified claims (same quotation gate), never from unverified text.
+- **Person ids.** `data/claims/parties.json` is a seed. When `data/network/persons.json` exists, its ids replace the
+  slugs and `network_bootstrap.py --source parties.json --merge` carries these over. Until then a packet's `bears_on.party`
+  is a proposal, and `claims_score.py` reports slugs that are not in `parties.json` as `unknown_parties`.
+- **Evidence level.** `claims_score.py` gives each claim an `evidence_level` on the network's 5-0 scale: 5 Pico's own
+  verified words; 4 a scholar's claim warranted by Pico's text; 3 warranted by other scholarship; 2 asserted without a
+  stated warrant; 1 hedged as speculative by the source (a plain hedge caps at 2). Level 0 (unsupported) cannot occur:
+  an unverified claim is excluded.
+- **Relationship kinds** (`bears_on.kind`) map to the network's controlled vocabulary as follows; the integration layer
+  applies the mapping, a researcher never needs the finer term:
+
+| `bears_on.kind` | network `relationship_type` |
+|---|---|
+| quarrel | philosophical_disagreement, polemical_opponent, theological_opponent (choose by the quotation) |
+| correspondence | correspondence |
+| friendship | friendship, intellectual_circle |
+| patronage | patronage |
+| teaching | teacher, student, collaborator, translator |
+| source | source, studied_work, cited_work, work_known_indirectly |
+| reception | reception_figure, posthumous_editor |
+| trial | trial_participant, institutional_relationship |
+| other | acquaintance, intermediary, intellectual_influence, philosophical_interlocutor |
+
+- **Scores.** The network's eight dimensions (textual centrality, source relation, network relevance, controversy,
+  historical significance, evidence quality, tradition significance, reception) are its own scoring pass over
+  `text_person_relationships.json`. This model supplies three of its inputs from verified evidence: `evidence_quality`
+  (from `evidence_level`), `controversy` (from `contestation` and `quarrel` claims) and `historical_significance`
+  (from `trial` claims), plus the claim-level `importance` that decides how much a card shows. The relevance matrix of
+  section 7 is the claims-based input; the network's is authoritative once it exists, and the site must read one of the
+  two, never both (ticket T-REL-03).
+
+## 9. What this does not do
 
 - It does not read a scholar for the reader; it extracts claims a scholar makes.
 - Restatements are paraphrases by a model. They are labelled as such on every card and sampled by a second agent, but

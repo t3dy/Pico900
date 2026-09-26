@@ -1,0 +1,1741 @@
+{
+ "packet": "edelheit2022",
+ "file": "data\\claims\\angelology\\edelheit2022.claims.json",
+ "verified_at": "2026-09-26T04:35:19+00:00",
+ "claims": [
+  {
+   "id": "edelheit2022:001",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22597,
+     "line_end": 22597,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22600,
+     "line_end": 22602,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22614,
+     "line_end": 22615,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:002",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22544,
+     "line_end": 22546,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22547,
+     "line_end": 22551,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Giovanni' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:003",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22638,
+     "line_end": 22642,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:004",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22662,
+     "line_end": 22666,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:005",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22642,
+     "line_end": 22646,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22649,
+     "line_end": 22652,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:006",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22691,
+     "line_end": 22697,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Academics' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:007",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22698,
+     "line_end": 22701,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22732,
+     "line_end": 22733,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:008",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22734,
+     "line_end": 22738,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:009",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 22739,
+     "line_end": 22743,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22743,
+     "line_end": 22747,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22770,
+     "line_end": 22771,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:010",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22782,
+     "line_end": 22783,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22786,
+     "line_end": 22787,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:011",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22793,
+     "line_end": 22799,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:012",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22830,
+     "line_end": 22834,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22840,
+     "line_end": 22843,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:013",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22844,
+     "line_end": 22847,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22870,
+     "line_end": 22873,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:014",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22879,
+     "line_end": 22884,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Cittadini' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:015",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22885,
+     "line_end": 22887,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22889,
+     "line_end": 22893,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:016",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22927,
+     "line_end": 22930,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22936,
+     "line_end": 22938,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Boethius' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Boethius' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:017",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22943,
+     "line_end": 22945,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22975,
+     "line_end": 22979,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:018",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 22981,
+     "line_end": 22987,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:019",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23027,
+     "line_end": 23032,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:020",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23032,
+     "line_end": 23035,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23038,
+     "line_end": 23041,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:021",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23073,
+     "line_end": 23078,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23078,
+     "line_end": 23080,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:022",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23128,
+     "line_end": 23134,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:023",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23174,
+     "line_end": 23177,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:024",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23178,
+     "line_end": 23184,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:025",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23220,
+     "line_end": 23224,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Cittadini' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:026",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23270,
+     "line_end": 23274,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'British' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Swineshead' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:027",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23279,
+     "line_end": 23283,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:028",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23332,
+     "line_end": 23337,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23367,
+     "line_end": 23373,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Scotist' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:029",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23419,
+     "line_end": 23425,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23425,
+     "line_end": 23427,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:030",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23431,
+     "line_end": 23434,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23459,
+     "line_end": 23465,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:031",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23466,
+     "line_end": 23469,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23471,
+     "line_end": 23476,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:032",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23507,
+     "line_end": 23511,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23511,
+     "line_end": 23513,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:033",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23522,
+     "line_end": 23526,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Himself' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:034",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23555,
+     "line_end": 23560,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Cittadini' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:035",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23561,
+     "line_end": 23563,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23565,
+     "line_end": 23567,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Cittadini' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:036",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23568,
+     "line_end": 23571,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23573,
+     "line_end": 23574,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:037",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23575,
+     "line_end": 23604,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:038",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23605,
+     "line_end": 23610,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:039",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23705,
+     "line_end": 23709,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23714,
+     "line_end": 23719,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:040",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23751,
+     "line_end": 23755,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:041",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23774,
+     "line_end": 23776,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23776,
+     "line_end": 23778,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'According' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:042",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23756,
+     "line_end": 23761,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:043",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23807,
+     "line_end": 23813,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:044",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23819,
+     "line_end": 23849,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:045",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23849,
+     "line_end": 23853,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:046",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23899,
+     "line_end": 23902,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23907,
+     "line_end": 23910,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23911,
+     "line_end": 23915,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:047",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 23948,
+     "line_end": 23955,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:048",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23956,
+     "line_end": 23960,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23960,
+     "line_end": 23963,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:049",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23998,
+     "line_end": 24004,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:050",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24005,
+     "line_end": 24011,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:051",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24053,
+     "line_end": 24060,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:052",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24106,
+     "line_end": 24109,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 24169,
+     "line_end": 24170,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Giovanni' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:053",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 24142,
+     "line_end": 24152,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "quote_too_long",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "127 words; quote what the claim needs"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Pico-Cittadini' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:054",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24187,
+     "line_end": 24188,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 24189,
+     "line_end": 24194,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:055",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24246,
+     "line_end": 24251,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 24285,
+     "line_end": 24289,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:056",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24292,
+     "line_end": 24294,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 24298,
+     "line_end": 24302,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:057",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24339,
+     "line_end": 24346,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 24347,
+     "line_end": 24351,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Thomas' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Thomas Aquinas' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:058",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24351,
+     "line_end": 24355,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:059",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 24381,
+     "line_end": 24388,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:060",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 10180,
+     "line_end": 10182,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10225,
+     "line_end": 10229,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:061",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 11147,
+     "line_end": 11149,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11162,
+     "line_end": 11164,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11195,
+     "line_end": 11197,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "hedge_ungrounded",
+     "severity": "warn",
+     "where": "hedge",
+     "detail": "a hedged/speculative claim needs `hedge_words` that occur in a quote"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Lucifer' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:062",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11168,
+     "line_end": 11189,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11189,
+     "line_end": 11193,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:063",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11254,
+     "line_end": 11255,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11287,
+     "line_end": 11288,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11303,
+     "line_end": 11306,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Sentences' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Summa' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:064",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 11340,
+     "line_end": 11346,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 11392,
+     "line_end": 11394,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:065",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11395,
+     "line_end": 11399,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 11431,
+     "line_end": 11434,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:066",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11435,
+     "line_end": 11438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11446,
+     "line_end": 11450,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11454,
+     "line_end": 11478,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Sentences' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:067",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11439,
+     "line_end": 11445,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 11527,
+     "line_end": 11531,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:068",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11547,
+     "line_end": 11553,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:069",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11588,
+     "line_end": 11592,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 11629,
+     "line_end": 11634,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Quodlibet' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:070",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 11625,
+     "line_end": 11628,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Quodlibet' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:071",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12078,
+     "line_end": 12079,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 12125,
+     "line_end": 12129,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Metaphysics' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:072",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 12161,
+     "line_end": 12163,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12169,
+     "line_end": 12174,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:073",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12209,
+     "line_end": 12211,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:074",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12649,
+     "line_end": 12653,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 12691,
+     "line_end": 12697,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Summa' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:075",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12660,
+     "line_end": 12664,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:076",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 12945,
+     "line_end": 12948,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12981,
+     "line_end": 12986,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:077",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 13036,
+     "line_end": 13043,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13045,
+     "line_end": 13047,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "quote_ambiguous",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "short phrase occurs 2 times; the locator disambiguates"
+    }
+   ]
+  }
+ ],
+ "summary": {}
+}

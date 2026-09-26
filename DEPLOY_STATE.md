@@ -10,8 +10,8 @@ site here" (404) when checked on 2026-09-25. Nothing has been published. Any ear
 | Host | GitHub Pages (workspace policy: `C:\Dev\CLAUDE.md` "Hosting policy"; static site, no server needed) |
 | Repo | https://github.com/t3dy/Pico900 |
 | Base path | `/Pico900/` (Pages serves from a repo subpath; a build without it 404s every asset) |
-| Build | `python scripts/build_html_site.py` -> `site/` (gitignored) |
-| Local root-served build | `PICO_BASE_PATH="" python scripts/build_html_site.py` |
+| Build | `python scripts/build_site_v2.py` -> `site/` (gitignored); renders `entries/` (verified as edition text, drafts badged) |
+| Local root-served build | `PICO_BASE_PATH="" python scripts/build_site_v2.py` |
 | Gate before publishing | `python scripts/predeploy_check.py` must exit 0 |
 | Pages source | **not yet configured.** Decision pending: see below |
 
@@ -27,7 +27,7 @@ would be served to the public beside it. Never publish from `docs/`.
 Publish only the contents of `site/`, from a branch or an Actions artifact that contains nothing else.
 Simplest: a `gh-pages` branch holding the built `site/` and nothing more. One deployer; read this file first.
 
-1. `python scripts/build_html_site.py`
+1. `python scripts/build_site_v2.py`
 2. `python scripts/predeploy_check.py` (exit 0)
 3. `grep -rn 'src="/\|href="/' --include=*.html site | grep -v '"/Pico900/'` prints nothing
 4. Publish `site/` to the `gh-pages` branch; set Pages source to that branch, root.

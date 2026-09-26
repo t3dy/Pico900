@@ -1,0 +1,5056 @@
+{
+ "packet": "black2006-c",
+ "researcher": "",
+ "created": "",
+ "scope": null,
+ "claims": [
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "The tradition of commentary on Aristotle's two factors of the intellect reached no consensus on whether the active intellect is God, a transcendent entity between God and man, or an aspect of the human soul.",
+   "quotes": [
+    {
+     "text": "no consensus was reached on whether the potential intellect was mortal or immortal, or on whether the active intellect was God himself, or a transcendent entity between God and man, or an aspect of the individual human soul",
+     "work": "black2006",
+     "line": 9390,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:001"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "knowledge-felicity"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Every Peripatetic commentator Black discusses held a model of intellectual ascent that culminated in the potential intellect becoming united with the active intellect.",
+   "quotes": [
+    {
+     "text": "each of these commentators, in some form or other, subscribed to a model of progression or ascent in intellectual ability and capacity which culminated in the potential intellect becoming somehow united or conjoined with the active intellect",
+     "work": "black2006",
+     "line": 9424,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:002"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Faced with the Averroist controversy, a philosopher who wanted felicity to depend on intellectual attainment could either adopt a Peripatetic model of conjunction, disagreeing with Aquinas, or take the Platonist route, as Ficino did.",
+   "quotes": [
+    {
+     "text": "On the other hand there was the route of Platonism. This was the option chosen by (to give the most prominent example) Marsilio Ficino.",
+     "work": "black2006",
+     "line": 9920,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Marsilio Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Black locates Ficino's Platonism as the prominent alternative to the Peripatetic conjunction models against which Pico's account of felicity has to be placed.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:003"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says Ficino was keen to enlist Pico in his pro-Platonist, anti-scholastic movement, and that the preface to Ficino's Plotinus commentary (1492) demonstrates this.",
+   "quotes": [
+    {
+     "text": "he was keen to co-opt Pico into his pro-Platonist, anti-scholastic movement, as the introduction to his commentary on Plotinus (published in 1492) demonstrates",
+     "work": "black2006",
+     "line": 9953,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "friendship",
+     "note": "Ficino's public description of Pico as a fellow Platonist in the 1492 preface, and Black's reading of it as recruitment.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Presents Ficino's 1492 praise as an attempt at enlistment, not a neutral report of agreement."
+   },
+   "id": "black2006-c:004"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Ficino's preface, as Black translates it, says almost all the world is held by Alexandrian and Averroist Peripatetics who ruin religion, and that few interpret Aristotle with due piety except Pico, whom Ficino calls his co-Platonist.",
+   "quotes": [
+    {
+     "text": "with the exception of the sublime Pico, my co-Platonist—interpret with that piety with which previously Theophrastus, Themistius, Porphyry, Simplicius and Avicenna, and recently Pletho, interpreted him",
+     "work": "black2006",
+     "line": 9962,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Theophrastus",
+    "Themistius",
+    "Porphyry",
+    "Simplicius",
+    "Avicenna"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "friendship",
+     "note": "Ficino praises Pico publicly in 1492 as a fellow Platonist and as a pious interpreter of Aristotle.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:005"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black argues that Pico's own stance on intellect was more nuanced than Ficino's remark suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.",
+   "quotes": [
+    {
+     "text": "Pico’s own position regarding these matters, however, was more nuanced than this remark might suggest, and represented (in the Heptaplus, at least) a concerted effort to maintain the idea of intellec- tual ascent without committing himself exclusively to any one camp",
+     "work": "black2006",
+     "line": 9967,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Distances Pico from Ficino's Platonist-only reading of the intellect controversy.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Qualifies Ficino's presentation of Pico as a Platonist ally."
+   },
+   "id": "black2006-c:006"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity",
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Averroem 3; secundum Plotinum 7"
+   },
+   "theses": [],
+   "text": "Black reports that the Conclusiones state, according to Averroes, that ultimate felicity is when the active intellect is joined to the potential intellect as its form, and, according to Plotinus, when the particular intellect is fully joined to the first intellect.",
+   "quotes": [
+    {
+     "text": "The third conclusion according to Averroes states that the ultimate felicitas of man is when the active intellect unites with the potential intellect as its form",
+     "work": "black2006",
+     "line": 10000,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The seventh conclusion according to Plotinus, meanwhile, states that the ultimate felicitas of man is when his particular intellect is fully joined to the ﬁrst intellect",
+     "work": "black2006",
+     "line": 10005,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Averroes",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:007"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Abumaron Babylonium"
+   },
+   "theses": [],
+   "text": "Black notes that the Conclusiones also take up Averroes on the unicity of the intellect and Abumaron Babylonius on the identity of the active intellect with God.",
+   "quotes": [
+    {
+     "text": "Averroes on the unic- ity of the intellect and “Abumaron Babylonius” on the identity of the active intellect with God",
+     "work": "black2006",
+     "line": 10012,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Averroes",
+    "Abumaron Babylonius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:008"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "agent-intellect",
+    "angel-location"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black holds that where Pico himself stood on the intellect conclusions cannot always be determined, since none was censured and none is defended in the Apologia, so his argument for them is unknown.",
+   "quotes": [
+    {
+     "text": "Quite where Pico himself stood on these matters cannot always be determined.",
+     "work": "black2006",
+     "line": 10017,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "papal commission, they are not defended in the Apologia, and conse- quently we do not know how he would have argued them.",
+     "work": "black2006",
+     "line": 10053,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Apologia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "How Pico would have argued the intellect conclusions is unknown because the Apologia does not defend them.",
+     "basis_quote": {
+      "text": "we do not know how he would have argued them",
+      "work": "black2006",
+      "line": 10054
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "The commission censured none of the intellect conclusions, so the Apologia is silent on them.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:009"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "oration-orders",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "oratio",
+    "ref": "seeds of all kinds"
+   },
+   "theses": [],
+   "text": "Black's translation of the Oratio has Pico say that if a man cultivates intellectual seeds he will be an angel and a son of God, and that if he withdraws into the centre of his unity he will stand before all things.",
+   "quotes": [
+    {
+     "text": "If he cultivates intellectual ones, he will be an angel and a son of God. If, not content with the lot of any creature, he withdraws into the centre of his unity, having become one spirit with God, he will stand before all things",
+     "work": "black2006",
+     "line": 10072,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:010"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "dionysian-hebrew-orders",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "oratio",
+    "ref": "Cherubim"
+   },
+   "theses": [],
+   "text": "Black says Pico takes the Cherubim as the exemplar for human life, and reads their Dionysian threefold process (cleansed, illuminated, perfected) as a method of intellectual ascent.",
+   "quotes": [
+    {
+     "text": "The example they provide is the method of intellectual ascent, which Pico interprets allegorically from a phrase of Pseudo-Dionysius: “they are cleansed, then illuminated, ﬁnally perfected”.",
+     "work": "black2006",
+     "line": 10113,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:011"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "oratio",
+    "ref": "ascent analogies"
+   },
+   "theses": [],
+   "text": "Black reads the stages of the Oratio's ascent (moral science and dialectic, then natural philosophy, then divine things) as a hierarchical progression from morality through knowledge to religion, repeated in several analogies.",
+   "quotes": [
+    {
+     "text": "Illumi- nation then corresponds to knowledge of natural philosophy, and perfection to knowledge of “divine things”.",
+     "work": "black2006",
+     "line": 10117,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "all of which Pico interprets in the same way, as illustrating a hierarchical progression via morality, to knowl- edge and ending in religion",
+     "work": "black2006",
+     "line": 10120,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:012"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "I.12"
+   },
+   "theses": [],
+   "text": "Black holds that in the Commento Pico posits above the rational soul a higher intellectual and angelic part through which man is linked to angels, contradicting the common scholastic view that the rational soul is the highest part.",
+   "quotes": [
+    {
+     "text": "he sketches a taxonomy of the soul contradicting common scholastic opinion.",
+     "work": "black2006",
+     "line": 10172,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico, however, holds that above it there is a higher part, “the intellectual and angelic part, through which man is linked to angels in the same way that through the sensitive part he is linked",
+     "work": "black2006",
+     "line": 10176,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Ties the top of the human soul to the angelic world, against scholastic psychology."
+   },
+   "id": "black2006-c:013"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "I.13"
+   },
+   "theses": [],
+   "text": "Black says Pico gives man two modes of thinking: a rational one dependent on sense data and liable to error, and an intellectual one that receives true intellectual forms directly through illumination.",
+   "quotes": [
+    {
+     "text": "he can think with his rational part, which is dependent on sense data and therefore subject to error; on the other hand he can think with his “intellectual part”, which receives true intellectual forms directly, through illumination.",
+     "work": "black2006",
+     "line": 10214,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:014"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Canzone stanza VIII"
+   },
+   "theses": [],
+   "text": "Black says Pico reads Benivieni's last stanzas as a six-stage ascent from sense to conjunction with the first mind, and that Pico disagrees with the many Aristotelians who hold the universal concept to be the highest knowledge attainable while joined to the body.",
+   "quotes": [
+    {
+     "text": "This ascent is demarcated in six stages.",
+     "work": "black2006",
+     "line": 10222,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico here remarks that many Aristotelians, especially the Latin scholastics, think that this is the highest state of knowledge attainable by the human soul while still attached to the body. He disagrees, however,",
+     "work": "black2006",
+     "line": 10269,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Benivieni"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "benivieni",
+     "kind": "other",
+     "note": "The Commento is Pico's allegorical reading of Benivieni's canzone as an ascent to the first mind.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:015"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "stages 5 and 6"
+   },
+   "theses": [],
+   "text": "Black holds that the sixth stage of the Commento's ascent is conjunction of the soul's particular intellect with the first mind, which lies next to God, the sun.",
+   "quotes": [
+    {
+     "text": "the soul has to rise from contemplation of itself to conjunction with the ﬁrst mind (stages 5 and 6)",
+     "work": "black2006",
+     "line": 10283,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "is the light which is “suspended near that sun”, the sun itself representing God.",
+     "work": "black2006",
+     "line": 10320,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "God"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:016"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Canzone stanza VIII, sixth grade"
+   },
+   "theses": [],
+   "text": "In Black's translation of the Commento, Pico says that when the soul reaches the sixth grade its path is complete and it may not go further to the seventh grade, the sabbath of celestial love, but must rest beside the first Father.",
+   "quotes": [
+    {
+     "text": "When the soul has arrived at this point, in the sixth grade, its path is completed, and it is not licit for it to move still further to the seventh grade, as if to the sabbath of celestial love. Instead it must rest there happily, as if in its end, beside the ﬁrst Father, source of beauty.",
+     "work": "black2006",
+     "line": 10326,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Places a sabbath as a seventh step beyond intellectual ascent that the soul may not itself take."
+   },
+   "id": "black2006-c:017"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Pico's commentary on Psalm 10 sketches a roughly parallel model of seven levels of intellectual ascent linked to seven degrees of the blessed.",
+   "quotes": [
+    {
+     "text": "In his commentary on Psalm 10 Pico sketches a roughly parallel model of seven levels of intellectual ascent linked to seven “gradus beatorum”.",
+     "work": "black2006",
+     "line": 10355,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Psalm 10"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:018"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "fourth exposition, ch. 2"
+   },
+   "theses": [],
+   "text": "Black says the Commento's higher intellectual part reappears in the Heptaplus, in the fourth exposition, as intelligentia, signified by the supercelestial waters, but without the Commento's explicit refutation of scholastic psychology.",
+   "quotes": [
+    {
+     "text": "Pico’s belief that there is a higher “intellectual part” above the rational soul “through which man in linked to angels” reappears in the second chapter of the fourth exposition; it is called intelligentia and is signiﬁed by the supercelestial waters.",
+     "work": "black2006",
+     "line": 10335,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The explicit refutation of scholastic psychology which this occasioned in the Commento is absent from the Heptaplus, however.",
+     "work": "black2006",
+     "line": 10338,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Shows the Commento's angelic part carried into the Heptaplus under a new name."
+   },
+   "id": "black2006-c:019"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "agent-intellect",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "4.2"
+   },
+   "theses": [],
+   "text": "In Black's translation, Pico says the human intellect is illuminated by a greater divine intellect, either God or a mind nearer and cognate to man, as almost all Greeks and many Arabs and Jews hold; Jewish philosophers and Al-Farabi called it Spirit of the Lord.",
+   "quotes": [
+    {
+     "text": "For the intellect which is in us is illuminated by a greater and truly divine intellect, whether it is God (as some wish) or a mind which is nearer to and cognate with man (as almost all the Greeks, and many of the Arabs and Jews wish).",
+     "work": "black2006",
+     "line": 10378,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Al-Farabi"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:020"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "4.2"
+   },
+   "theses": [],
+   "text": "Black concludes that although Pico does not refute those who identify the higher intellect with God, his sympathies seem to lie with the view that it is nearer to and cognate with man.",
+   "quotes": [
+    {
+     "text": "Although Pico does not explicitly refute those who think that the higher intellect is identical with God, his sympathies seem to lie with the majority verdict that it is “nearer to and cognate with man”",
+     "work": "black2006",
+     "line": 10430,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "seem to lie",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Positions Pico on the identity of the illuminating intellect."
+   },
+   "id": "black2006-c:021"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "4.2"
+   },
+   "theses": [],
+   "text": "Black notes that Pico rejects the view that the illuminating action of the greater intellect occurs only when the human intellect is joined to the body.",
+   "quotes": [
+    {
+     "text": "He does, however, take the opportunity to reject the idea that the illuminating action of the “greater intellect” only takes place when the human intellect is attached to the body.",
+     "work": "black2006",
+     "line": 10434,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:022"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black states that he has not found the direct source of Pico's attribution to Maimonides, Ibn Bajja and others of the view that the greater intellect acts only with the body, though the idea seems to have been commonplace.",
+   "quotes": [
+    {
+     "text": "I have not found the direct source for Pico’s citation of these authors. The idea itself, however, seems to have been fairly commonplace.",
+     "work": "black2006",
+     "line": 10452,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "seems to have been",
+   "entities": [
+    "Maimonides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The direct source of Pico's attribution to Maimonides and Abubacher is unidentified.",
+     "basis_quote": {
+      "text": "I have not found the direct source for Pico’s citation of these authors.",
+      "work": "black2006",
+      "line": 10452
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:023"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says the correlation of the transcendent active intellect with the Holy Spirit is in Al-Farabi but not in direct Latin transmission; a composite text attributed to Averroes carried it, and it is at least possible that Pico used it.",
+   "quotes": [
+    {
+     "text": "These texts did not exist in Latin in direct transmission.",
+     "work": "black2006",
+     "line": 10409,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is at least possible that this is one such instance.",
+     "work": "black2006",
+     "line": 10449,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "at least possible",
+   "entities": [
+    "Al-Farabi",
+    "Averroes"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "Whether Pico used the composite De perfectione naturalis intellectus is uncertain, since no Latin author before Achillini and Nifo is known to cite it.",
+     "basis_quote": {
+      "text": "malgré de nombreuses recherches, nous n’avons pas trouvé une seule citation ou utilisation du Traité sur la béatitude de l’âme chez des auteurs latins avant Achillini et Nifo",
+      "work": "black2006",
+      "line": 10447
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:024"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "sixth exposition, ch. 6"
+   },
+   "theses": [],
+   "text": "Black reads Heptaplus 6.6 as reaffirming that the human intellect can be joined with the first mind, described as the fullness of all knowledge, using the image of drops of water reaching the ocean.",
+   "quotes": [
+    {
+     "text": "the notion that the human intellect can conjoin with the ﬁrst mind is reafﬁrmed in the sixth chapter of the sixth exposi- tion, and the ﬁrst mind itself is described in terms strikingly similar to those of the Commento",
+     "work": "black2006",
+     "line": 10438,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:025"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "fourth exposition, ch. 4"
+   },
+   "theses": [],
+   "text": "Black argues that in the Heptaplus Pico contrasts the everyday discursive mode of thinking (night, moon) with a direct mode turned to divine things (day, sun), and that he leaves open the use of the direct mode in the present life.",
+   "quotes": [
+    {
+     "text": "Pico does not deny its use during the present life, however: he merely states that while alive we use the “night” mode of cognition “most” and in the life to come we use the “day” mode “alone”.",
+     "work": "black2006",
+     "line": 10546,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "it emphasizes ‘normal’ sense-based cognition while leaving a loophole so as not to rule out the action of intelligentia during the present life.",
+     "work": "black2006",
+     "line": 10550,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Shows the Heptaplus as a more cautious restatement of the Commento's claim about direct cognition."
+   },
+   "id": "black2006-c:026"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black holds that both the Commento and the Heptaplus distinguish two levels of felicity, and that the second, the sabbath of celestial love, is treated in depth in the proem to the seventh exposition.",
+   "quotes": [
+    {
+     "text": "both the Commento and the Heptaplus maintain a dis- tinction between two different levels of felicitas.",
+     "work": "black2006",
+     "line": 10553,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "distinction between these two states recurs in the Heptaplus, where it is considered in depth in the proem to the seventh exposition.",
+     "work": "black2006",
+     "line": 10593,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Identifies the seventh exposition's subject with the sabbath of celestial love of the Commento."
+   },
+   "id": "black2006-c:027"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black reports that Pico distinguishes natural felicity, which philosophers debate and man can pursue actively, from supernatural felicity, the gift of Christ which can only be passively accepted.",
+   "quotes": [
+    {
+     "text": "There are, Pico says, two forms of felicitas, “natural” and “supernat- ural”. The ﬁrst is the sort of felicitas debated by philosophers and can be actively sought and attained by man; the second is the gift of Christ and can only be passively accepted.",
+     "work": "black2006",
+     "line": 10595,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:028"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity",
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "7.P"
+   },
+   "theses": [],
+   "text": "In Black's translation of the seventh proem, Pico says the philosophers Avicenna, Averroes, Abubacher, Alexander and the Platonists seemed to offer something more, strengthening reason in the active intellect or in something higher but joined to us, and that he neither rejects nor despises their views provided they concern only natural felicity.",
+   "quotes": [
+    {
+     "text": "Avi- cenna, Averroes, Abubacher, Alexander and the Platonists seemed to offer something more, strengthening our reason in the intellect which is active, or in something higher but still joined to us, as if in its end.",
+     "work": "black2006",
+     "line": 10606,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "I do not reject or despise their arguments and opinions, if they are seen to be discussing only natural felicitas.",
+     "work": "black2006",
+     "line": 10610,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Avicenna",
+    "Averroes",
+    "Abubacher",
+    "Alexander"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "The Platonists are counted among the several schools of natural felicity that Pico treats as partly valid, not as the single true school.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:029"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "7.P"
+   },
+   "theses": [],
+   "text": "Black argues that instead of designating one of the intellect-and-conjunction models as correct, Pico says they all have some validity provided they are taken to concern natural, not supernatural, felicity.",
+   "quotes": [
+    {
+     "text": "Rather than designating one of these models as correct,",
+     "work": "black2006",
+     "line": 10615,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico prefers to state that they all have a certain validity, as long as it is recognized that they deal with natural and not supernatural felicitas.",
+     "work": "black2006",
+     "line": 10648,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico declines to pick Platonism over the Peripatetic models, which departs from Ficino's Platonist-only settlement.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Supports reading Pico's Heptaplus as neutral between schools on natural felicity."
+   },
+   "id": "black2006-c:030"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "7.P"
+   },
+   "theses": [],
+   "text": "In Black's translation of the seventh proem, Pico ends by affirming the mutual dependence of religion and philosophy and says that having philosophised with Moses about nature for six days, the seventh day is for divine things and supernatural felicity.",
+   "quotes": [
+    {
+     "text": "Therefore it is right that we, since we have philosophized with Moses about nature for six days, being able to devote ourselves on the seventh day to divine things, should talk about supernatural felicitas.",
+     "work": "black2006",
+     "line": 10658,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:031"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black takes the proem to the seventh exposition as a comment on the structure of the Heptaplus: the first six expositions concern natural felicity (philosophy) and the seventh concerns supernatural felicity (religion), sacred history from the Fall to redemption.",
+   "quotes": [
+    {
+     "text": "In so doing, he provides another comment on the structure of the Heptaplus. The ﬁrst six expositions are concerned with natural felicitas, that is, philosophy",
+     "work": "black2006",
+     "line": 10662,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The seventh exposition is concerned with supernatural felicitas, that is, religion; as such, it concentrates on the progress of sacred history, from the Fall to the coming of the Messiah and, ﬁnally, redemption.",
+     "work": "black2006",
+     "line": 10666,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Reads the sevenfold structure as six natural expositions plus a seventh of a different order, the sabbath."
+   },
+   "id": "black2006-c:032"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity",
+    "commento-angelic-mind",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black notes that Pico leaves the higher level of felicity unexplored in the Commento but devotes an exposition to it in the Heptaplus.",
+   "quotes": [
+    {
+     "text": "in the Commento he leaves the higher level unexplored, whereas in the Heptaplus he devotes an exposition to it.",
+     "work": "black2006",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:033"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "4.2, 4.4"
+   },
+   "theses": [],
+   "text": "Black argues that in the Heptaplus Pico redirects his overt polemic from Christian scholastic philosophers towards well-known heterodox positions, including the Averroist unicity of the potential intellect.",
+   "quotes": [
+    {
+     "text": "In the Heptaplus, however, he redirects his overt polemic away from Christian scholastic philoso- phers towards well-known heterodox positions",
+     "work": "black2006",
+     "line": 10680,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the Averroist doctrine of the unicity of the potential intellect.",
+     "work": "black2006",
+     "line": 10699,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Averroist"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Black calls the reference to Averroist unicity in Heptaplus 4.4 veiled and says the most likely interpretation is that it concerns the philosophi iuniores.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:034"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "oratio",
+    "ref": "peace, Empedocles and Job"
+   },
+   "theses": [],
+   "text": "Black holds that in the Oratio Pico envisages a union in which all souls come together in one mind above every mind, and that this first mind is not, according to most philosophers, God.",
+   "quotes": [
+    {
+     "text": "Pico envisages a level of intellectual attainment in which “all souls come together in one mind which is above every mind”. As we have seen, this mind is the “ﬁrst of all intellectual things” but it is not, according to most philosophers, God.",
+     "work": "black2006",
+     "line": 10752,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:035"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black identifies natural felicity with intellectual union with the first mind, and identifies the higher ineffable union with the supernatural felicity of the Heptaplus and the sabbath of celestial love of the Commento.",
+   "quotes": [
+    {
+     "text": "The union with the ﬁrst mind is an intellectual union, accomplished when someone has mastered the forms of knowing available to mankind",
+     "work": "black2006",
+     "line": 10755,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This union constitutes man’s natural felicitas. Above it, a higher, “ineffable” union also exists.",
+     "work": "black2006",
+     "line": 10759,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "is the supernatural felicitas of the Heptaplus and the “sabbath of celestial love” of the Commento.",
+     "work": "black2006",
+     "line": 10762,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Ties the sabbath, the seventh exposition and the ineffable union together as one doctrine."
+   },
+   "id": "black2006-c:036"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "oratio",
+    "ref": "seeds of all kinds"
+   },
+   "theses": [],
+   "text": "Black maps the Oratio's seeds onto the ascent: cultivating rational seeds gives a heavenly animal, cultivating intellectual seeds gives an angel and a son of God, and withdrawing into the centre of unity gives one spirit with God, which Pico later calls supernatural felicity.",
+   "quotes": [
+    {
+     "text": "If he cultivates the higher intellectual seeds— the capacity to obtain knowledge of intelligibles directly—“he will be an angel and a son of God”. Beyond even this, however, is a state in which “he withdraws into the centre of his unity” and becomes “one spirit with God”. This is the state which Pico later calls supernatural felicitas.",
+     "work": "black2006",
+     "line": 10767,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Places angelic status below the supernatural felicity."
+   },
+   "id": "black2006-c:037"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black says Pico is clear that the higher felicity transcends intellectual achievement, which is why it is not the subject of the Commento or the first six expositions of the Heptaplus, though natural felicity is a necessary preliminary step to it.",
+   "quotes": [
+    {
+     "text": "He is clear throughout all the works under discussion that this higher felicitas transcends intellectual achievement; that is why it is not the subject of the Commento, and equally that is why it is not the subject of the ﬁrst six expositions of the Heptaplus.",
+     "work": "black2006",
+     "line": 10772,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "he regarded it as a development towards which natural felicitas—that is, intellectual achievement—constituted the necessary preliminary step.",
+     "work": "black2006",
+     "line": 10776,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Explains the six-plus-one structure of the Heptaplus by the transcendence of supernatural felicity."
+   },
+   "id": "black2006-c:038"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black argues that Pico's division of felicity into two was his own contribution to the debate; it did not settle the controversy or align him with a faction but robbed it of force, since if all accept the higher felicity, disputes about the natural kind matter less.",
+   "quotes": [
+    {
+     "text": "Although he adopted the broad outline of this model, Pico mod- iﬁed it with his own personal contribution to the debate, which was the division of felicitas into two. This did not ‘solve’ the controversy, nor did it align him with one or other of the disputing factions.",
+     "work": "black2006",
+     "line": 10805,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "it deprived the controversy of some of its force, in the sense that if all sides accepted the existence of the higher, supernatural felic- itas, their differences of opinion concerning the lower, natural sort were no longer of such grave consequence.",
+     "work": "black2006",
+     "line": 10809,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico's non-partisan handling of the intellect debate contrasts with Ficino's alignment with the Platonist side.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Recasts Pico's felicity doctrine as a mechanism for reconciling disputing schools."
+   },
+   "id": "black2006-c:039"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black describes this approach as characteristic of Pico's syncretism, and places Pico's limit on intellectual achievement tighter than Avicenna, Maimonides and Averroes but looser than Aquinas.",
+   "quotes": [
+    {
+     "text": "This approach is char- acteristic of his syncretism.",
+     "work": "black2006",
+     "line": 10812,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "he circumscribed the limits of intellectual achievement rather more tightly than many (such as Avicenna, Maimonides and Averroes) but rather less tightly than some (such as Thomas Aquinas).",
+     "work": "black2006",
+     "line": 10816,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Maimonides",
+    "Averroes",
+    "Avicenna"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:040"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black observes that for many commentators the state of direct cognition was equated with prophecy, but that Pico never mentions this except in the case of Moses himself.",
+   "quotes": [
+    {
+     "text": "for many of the commentators mentioned, this state was equated with the human capacity for prophecy. Pico, however, never mentions this (except, obviously, in the case of Moses himself).",
+     "work": "black2006",
+     "line": 10823,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:041"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black argues that the theme of intellectual ascent connects the Commento, the Conclusiones, the Oratio and Apologia, and the Heptaplus, in three modes: an allegorical reading of a poem, a justification of treating differing philosophies, and a biblical commentary.",
+   "quotes": [
+    {
+     "text": "The theme of intellectual ascent therefore provides us with a perspective in which to view all of Pico’s philosophical works up to 1489. It is the thread which connects the Commento, the Conclu- siones, the Oratio and Apologia and the Heptaplus.",
+     "work": "black2006",
+     "line": 10827,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Apologia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Offers intellectual ascent as the unifying theme of the early works."
+   },
+   "id": "black2006-c:042"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "source_identification",
+   "topics": [
+    "knowledge-felicity",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Gersonides's commentary on the Song of Songs was translated for Pico by Mithridates and survives in a manuscript with copious marks and marginal comments in Pico's hand.",
+   "quotes": [
+    {
+     "text": "This was among the texts translated for Pico by Mithridates; the translation is extant in Ms. Vat. Lat. 4273.",
+     "work": "black2006",
+     "line": 10861,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "there are copious highlighting marks and marginal comments in his hand.",
+     "work": "black2006",
+     "line": 10864,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gersonides",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Mithridates translated Gersonides on the Song of Songs for Pico, who annotated the translation.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:043"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Gersonides holds Scripture to contain, beyond moral commands, a concealed speculative knowledge that the masses do not know, and that the Song of Songs is a guide only for the intellectual elite.",
+   "quotes": [
+    {
+     "text": "Scripture also contains a concealed ‘speculative’ knowledge which is not known to the masses.",
+     "work": "black2006",
+     "line": 10958,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The Song of Songs can be understood only by the latter group.",
+     "work": "black2006",
+     "line": 11008,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gersonides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:044"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Commento particulare, stanza IV"
+   },
+   "theses": [],
+   "text": "Black says Gersonides interprets the kiss of the Song of Songs as the death of the kiss, signifying conjunction with God, and that Pico too used the death of the kiss to signify the attainment of felicity, in the Commento.",
+   "quotes": [
+    {
+     "text": "the “kiss” referred to is the “death of the kiss”, from which Moses, Aaron and Mary died, and it signiﬁes “conjunction with God himself”.",
+     "work": "black2006",
+     "line": 11074,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico, too, used the image of the “death of the kiss” to signify the attainment of felicitas. It appears as such in the Commento",
+     "work": "black2006",
+     "line": 11076,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gersonides",
+    "Moses",
+    "Aaron",
+    "Mary"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "The Gersonides commentary in which Pico met the death of the kiss reached him through Mithridates' translation.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:045"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black lists six themes of the Heptaplus that he finds also in Gersonides's commentary: the masses and the elect, literal and non-literal reading, felicity through comprehending intelligibles, progress from moral to speculative knowledge, union with God as the goal, and Scripture as the ideal guide.",
+   "quotes": [
+    {
+     "text": "By my reckoning, therefore, the following themes, which I have discussed in this and the previous two chapters with reference to the Heptaplus, are also to be found in Gersonides’s commentary",
+     "work": "black2006",
+     "line": 11081,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The ultimate attainment of this goal as ‘union’ with God.",
+     "work": "black2006",
+     "line": 11119,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The role of Scripture as the ideal guide to the attainment of this goal",
+     "work": "black2006",
+     "line": 11120,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gersonides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Offers Gersonides as a model for the Heptaplus's hermeneutic of ascent."
+   },
+   "id": "black2006-c:046"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black argues that Pico goes a step beyond Gersonides: for Pico the Genesis narrative does not merely instruct the reader to achieve knowledge but contains that knowledge hidden within it, namely the emanation of things from God and the grade, number and order of the parts of the worlds.",
+   "quotes": [
+    {
+     "text": "Pico takes this idea a step further. The Genesis narrative, for him, does not merely instruct the reader to achieve knowledge; it actually contains this knowledge—described as “the emanation of all things from God, the grade, number and order of the parts of the worlds”—hidden within it, like buried treasure.",
+     "work": "black2006",
+     "line": 11137,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Frames Genesis as a container of knowledge, not just a guide to acquiring it."
+   },
+   "id": "black2006-c:047"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black holds that the first six expositions of the Heptaplus set out the orders of things from God, that is the three worlds, man and their inter-relation, and so give the knowledge needed for the ascent to natural felicity.",
+   "quotes": [
+    {
+     "text": "The ﬁrst six expositions of the Heptaplus are dedicated to “the orders of things proceeding from God, their distribution, the explanation of their union and their difference, their bonds and their conditions”: in other words, to the three worlds, man, and their inter-relation. They therefore indicate the knowledge which is necessary for the ascent to natural felicitas.",
+     "work": "black2006",
+     "line": 11142,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the six expositions to natural felicity through the three worlds."
+   },
+   "id": "black2006-c:048"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that the concealment of knowledge in Genesis is made possible by the union and difference of created things, that is by the hierarchy of being and its principle of mutual containment.",
+   "quotes": [
+    {
+     "text": "The concealment of this information in the Genesis narrative is made possible by the “union and difference” of created entities: that is, by the nature of the hierarchy of being which structures them and its principle of mutual containment.",
+     "work": "black2006",
+     "line": 11164,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:049"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "heptaplus-angelic-world",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black reads the ancient fathers' double knowledge, their own and inspiration by the Holy Spirit, as reflecting two cognitive levels: discursive rational thought and the higher level of inspiration or direct illumination, characteristic of angels and prophets.",
+   "quotes": [
+    {
+     "text": "This double knowledge reﬂects the two cognitive levels discussed earlier in this chapter: the normal human level of discursive rational thought and the higher level of “inspiration” or direct illumination, characteristic of angels and prophets.",
+     "work": "black2006",
+     "line": 11173,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Connects the angelic mode of cognition to the Heptaplus's account of how Moses wrote."
+   },
+   "id": "black2006-c:050"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black says Pico contrasts the human mind's need for many forms with the angelic mind's need for only a few, connects forms with words, and uses this to express the uniqueness of Moses's text.",
+   "quotes": [
+    {
+     "text": "Pico contrasts the human mind’s requirement for many ‘forms’ with the angelic mind’s requirement for only a few. He connects this concept of ‘forms’ with words, and uses it to express the uniqueness of Moses’s text.",
+     "work": "black2006",
+     "line": 11176,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Uses the angelic mind's economy of forms as a model for Mosaic style."
+   },
+   "id": "black2006-c:051"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black holds that Moses applied the principle of mutual containment to his words, so that a single term such as terra can do the work of many, and that this allowed the knowledge of man, the three worlds and their connections to be encoded in a short text.",
+   "quotes": [
+    {
+     "text": "His special ability, as author of the Pentateuch, was to apply the principle of mutual containment to his words.",
+     "work": "black2006",
+     "line": 11181,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the complex body of knowledge which represents all that there is to know about man, the three worlds and their mutual connections—and which, furthermore, must be mastered if the philosopher is to be successful in his intellectual ascent—can be encoded in a short text of merely a few sentences.",
+     "work": "black2006",
+     "line": 11185,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Explains the Heptaplus's exegetical method by Mosaic compression."
+   },
+   "id": "black2006-c:052"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition, Bereshit"
+   },
+   "theses": [],
+   "text": "Black says the aim of the Heptaplus is to decode this body of knowledge from Moses's simple words, and that at the very end Pico argues for a yet more extreme encoding, the plan of the whole narrative concealed in one single word.",
+   "quotes": [
+    {
+     "text": "The aim of the Heptaplus is to decode this same body of knowledge from Moses’s simple words.",
+     "work": "black2006",
+     "line": 11191,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "At the very end of the Heptaplus Pico argues that there also exists a yet more extreme level of encoding, where the plan of the whole Genesis narrative is concealed in one single word.",
+     "work": "black2006",
+     "line": 11214,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:053"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black holds that the main body of the Heptaplus is complete, fulfilling its seven-by-seven structure, and that the last chapter is a new beginning rather than a continuation.",
+   "quotes": [
+    {
+     "text": "The main body of the Heptaplus is complete in itself. Numerically, it fulﬁls its seven by seven structure; thematically, it completes Pico’s exegetical programme",
+     "work": "black2006",
+     "line": 11233,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The ﬁnal chapter is not a continuation of what has gone before. It is a new beginning",
+     "work": "black2006",
+     "line": 11236,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:054"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black says that for the first word of the Bible Pico chose a different approach and another method: instead of allegory on the plane of the word, he investigates the letters from which the words of the law are made up.",
+   "quotes": [
+    {
+     "text": "While allegory operates on the plane of the word, the other method adopted here by Pico investigates “the letters themselves, from which the words of the law are made up”.",
+     "work": "black2006",
+     "line": 11245,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:055"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black argues that the correct interpretation of the word bereshit reveals, in schematic form, the knowledge that is necessary for man's intellectual ascent.",
+   "quotes": [
+    {
+     "text": "the correct interpretation of the word bereshit reveals (schematically) the knowledge which, I argued in the previous chapter, is necessary for man’s intellectual ascent.",
+     "work": "black2006",
+     "line": 11280,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the last chapter of the Heptaplus to the ascent theme."
+   },
+   "id": "black2006-c:056"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black holds that the single sentence Pico derives from the letters of bereshit summarizes the Heptaplus as a whole, with the macrocosm, the three worlds (head, fire, foundation) and their inter-relationship, the pact, which is good because it unites them with God.",
+   "quotes": [
+    {
+     "text": "Placing them in series, and reading them as a single sentence, Pico gives us: “The father, in / through the son, who is the beginning and the end / rest, created the head, the ﬁre and the foundation of the great man",
+     "work": "black2006",
+     "line": 11302,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This single sentence, derived from a single word, summarizes the Heptaplus as a whole, with references to the universe (the macrocosm or “great man”), the three worlds (the “head, ﬁre and foundation”) and their inter-relationship (the “pact”) which is “good” because it unites them all with God.",
+     "work": "black2006",
+     "line": 11327,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads the bereshit sentence as a compressed map of the whole work."
+   },
+   "id": "black2006-c:057"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says that Pico strayed once beyond the letters he was allowed to use and excused himself with a reference to Hebrew grammar that is not entirely accurate.",
+   "quotes": [
+    {
+     "text": "in one instance Pico strayed beyond the letters he was allowed to use and excused himself with a reference to Hebrew grammar which is not entirely accu- rate.",
+     "work": "black2006",
+     "line": 11334,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "not entirely accu- rate",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:058"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that seven of the eleven remaining derived words appear in a passage of the Liber combinationum, a Hebrew work on letter combinations translated for Pico by Mithridates.",
+   "quotes": [
+    {
+     "text": "Of the remaining eleven words, seven appear in a passage in the Liber combinationum, a Hebrew work on letter combinations translated for Pico by Mithridates.",
+     "work": "black2006",
+     "line": 11337,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Mithridates's translation of the Liber combinationum supplies seven of the words Pico derives from bereshit.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:059"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports Wirszubski's view that the author of the Liber combinationum was a disciple or latter-day follower of Abulafia, unless he was Abulafia himself.",
+   "quotes": [
+    {
+     "text": "Wirszubski notes that the author of this book was “a disciple or latter-day follower of Abraham Abulaﬁa (unless he was Abulaﬁa himself)”.",
+     "work": "black2006",
+     "line": 11366,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Wirszubski",
+    "Abulafia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:060"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black notes that the derivation might seem banal, but that Pico gives the impression he is not simply jumbling letters but obeying undisclosed rules, so any textual authority for the derived words is of interest.",
+   "quotes": [
+    {
+     "text": "Pico appears, however, to give the impression that he is not simply jumbling letters, but rather obeying undisclosed “rules”.",
+     "work": "black2006",
+     "line": 11345,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Any instance of textual author- ity for the words he derives is therefore of interest",
+     "work": "black2006",
+     "line": 11347,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "appears, however, to give the impression",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:061"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black says the derivation of shabbat, sabbath, from bereshit occurs in Recanati's commentary on the Pentateuch, a source previously identified as influential in Pico's kabbalistic studies.",
+   "quotes": [
+    {
+     "text": "The derivation of one of the remaining words—shabbat ( ), meaning “sabbath” and translated here by Pico as “quies et ﬁnis”—from bereshit occurs in another source, previously identiﬁed as playing an inﬂuential role in Pico’s kabbalistic studies: the commentary on the Pentateuch by Mena.hem Recanati.",
+     "work": "black2006",
+     "line": 11351,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Recanati"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Ties the sabbath in the bereshit sentence to a named source."
+   },
+   "id": "black2006-c:062"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black summarises the Recanati passage: bereshit is an utterance containing all the rest of the utterances, and it points to the second highest sefirah, Hokhmah, not to the topmost, Keter, though some think a part of the written letter points to Keter.",
+   "quotes": [
+    {
+     "text": "Bereshit is an utterance which contains all the rest of the utter- ances [A, K, P].",
+     "work": "black2006",
+     "line": 11456,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It points to the second highest of the seﬁrot, .Hokhmah, not to the topmost seﬁrah which is Keter [A, B]",
+     "work": "black2006",
+     "line": 11458,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Hokhmah",
+    "Keter"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:063"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black notes that once the three letters that signify the three highest sefirot are discounted, the remainder of bereshit spells shabbat, sabbath, in the Recanati passage.",
+   "quotes": [
+    {
+     "text": "Once the three letters in bereshit that signify the three highest seﬁrot are discounted, the remainder of the letters spell (shabbat, “sabbath”) [J].",
+     "work": "black2006",
+     "line": 11491,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "shabbat"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:064"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black argues that Pico ignores the sefirotic structure in the Heptaplus and also ignores the interpretive possibilities the structure offers, using only the parts of the Recanati passage about bereshit containing everything and the sabbath.",
+   "quotes": [
+    {
+     "text": "I have previously argued that Pico ignores this structure in the Heptaplus. As further evidence of this, we should now note that he also ignores the possibilities for interpretation which this structure offers. Only the following sections of the Recanati passage are relevant to the Heptaplus",
+     "work": "black2006",
+     "line": 11508,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Says the Heptaplus uses kabbalistic material while setting aside the sefirot."
+   },
+   "id": "black2006-c:065"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black states that the manuscript in which Pico read Recanati is no longer extant, so the exact form in which he read the text cannot be known.",
+   "quotes": [
+    {
+     "text": "It is unfortunate that the manuscript in which Pico read this text is no longer extant. We cannot, therefore, know precisely the form in which he read it.",
+     "work": "black2006",
+     "line": 11523,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The form in which Pico read Recanati's text is unknown because the manuscript is lost.",
+     "basis_quote": {
+      "text": "We cannot, therefore, know precisely the form in which he read it.",
+      "work": "black2006",
+      "line": 11524
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:066"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black suggests that if Mithridates translated ma'amar as verbum throughout the corpus, as he does in the Bahir, Pico would have read the Recanati sentence as a word containing other words, losing the sefirotic and numerical sense.",
+   "quotes": [
+    {
+     "text": "If Mithridates was consistent throughout the corpus, then Pico would merely have read this sentence as “this word bereshit is a word which contains all the rest of the words”.",
+     "work": "black2006",
+     "line": 11549,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The seﬁrotic implications are diminished while the verbal implication, of words containing other words, is strengthened.",
+     "work": "black2006",
+     "line": 11551,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "If Mithridates was consistent",
+   "entities": [
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Mithridates's rendering of ma'amar as verbum may explain how Pico read the sefirotic sentence as a verbal one.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Offers a translation-based mechanism for Pico's setting aside of the sefirot."
+   },
+   "id": "black2006-c:067"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says that the reason Pico abandoned the sefirotic framework he had used effectively in the Conclusiones must remain a matter for speculation.",
+   "quotes": [
+    {
+     "text": "The reason behind Pico’s decision to abandon the seﬁrotic framework (of which he had made effective use in the Conclusiones) must remain a matter for speculation.",
+     "work": "black2006",
+     "line": 11554,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "speculative",
+   "hedge_words": "must remain a matter for speculation",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Why Pico left the sefirotic framework of the Conclusiones is unexplained.",
+     "basis_quote": {
+      "text": "must remain a matter for speculation",
+      "work": "black2006",
+      "line": 11555
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:068"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black holds that what underlies the last chapter of the Heptaplus is the idea that bereshit contains everything, not the combinatory technique, which is easily learned.",
+   "quotes": [
+    {
+     "text": "It is this idea—not the mere fact of the combinatory technique, which is easily learned and readily utilized—which underlies the last chapter of the Heptaplus.",
+     "work": "black2006",
+     "line": 11559,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:069"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "exposition of the first word"
+   },
+   "theses": [],
+   "text": "Black argues that Pico's radical exegetical method is more than a display of ingenuity: it is the most likely interpretation available to him of the opening of Recanati's Genesis commentary, which he is known to have read carefully.",
+   "quotes": [
+    {
+     "text": "on the basis of the evidence presented here, I believe that this would be an incomplete explanation. The radical exegetical method which he adopted is the most likely interpretation available to him of the opening pages of Mena.hem Recanati’s Genesis commentary",
+     "work": "black2006",
+     "line": 11586,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I believe",
+   "entities": [
+    "Recanati"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Makes a specific kabbalistic text, not display, the source of the bereshit method."
+   },
+   "id": "black2006-c:070"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black notes that Recanati quotes the Zohar, in which the sabbath is identified as the foundation of the world, and asks what the sabbath means in the Heptaplus.",
+   "quotes": [
+    {
+     "text": "Recanati quotes the Zohar, in which the sabbath is identiﬁed as “the foundation of the world”. What is the meaning of the sabbath in the Heptaplus?",
+     "work": "black2006",
+     "line": 11593,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Recanati",
+    "Zohar"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:071"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black describes the second proem's first explanation of the seven expositions: one exposition for each of the three worlds, one for man, two on the links between man and the three worlds, and a final exposition corresponding to the sabbath.",
+   "quotes": [
+    {
+     "text": "There is one exposition for each of the worlds; one exposition for man, who is “a fourth world, in which are also found all the things that are in the other worlds”",
+     "work": "black2006",
+     "line": 11617,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "and a ﬁnal exposition corresponding to the sabbath.",
+     "work": "black2006",
+     "line": 11637,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:072"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "In Black's translation of the second proem, Pico calls the seventh exposition a sabbatical narration on the felicity of created beings and their return to God, unlocking what Moses openly hid about the advent of Christ and the Church.",
+   "quotes": [
+    {
+     "text": "it is appropriate that as a seventh and (so to speak) sabbatical narration, we should now brieﬂy touch on the felicitas of created beings, and of their return to God",
+     "work": "black2006",
+     "line": 11643,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:073"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "In Black's translation, Pico's second explanation for the seven-fold division is that everything corresponds to the seven days, and that each exposition's seventh chapter turns towards Christ, the end of the law and our sabbath, rest and felicity.",
+   "quotes": [
+    {
+     "text": "since the expositions are distributed into seven books, and each book is divided into seven chapters, everything corresponds to the seven days of creation.",
+     "work": "black2006",
+     "line": 11658,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "so each of our expositions in its seventh chapter always turns aside towards Christ, who is both the end of the law and our sabbath, our rest, our felicitas.",
+     "work": "black2006",
+     "line": 11661,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:074"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that the sabbath is the crucial element common to both of Pico's explanations of the structure, and that the first explanation appears to depend on the idea of the sabbath rather than on the material itself.",
+   "quotes": [
+    {
+     "text": "The crucial element, common to both, is the sabbath. The ﬁrst explanation, grounded in man, the three worlds and their relation- ship, appears to be dependent on the idea of the sabbath—as if Pico selected his material so as to attain a sevenfold structure, which was dictated not by the material itself but by his desire to correlate the ﬁnal exposition with the sabbath.",
+     "work": "black2006",
+     "line": 11694,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "appears to be dependent",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Reverses the received order: the sabbath, not the content, is said to have dictated the sevenfold form."
+   },
+   "id": "black2006-c:075"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem; sixth exposition"
+   },
+   "theses": [],
+   "text": "Black holds that the justification of the fifth and sixth expositions is less fully argued, that Pico relies on the numerical structure, and that the requirement of the sevenfold form appears to be the formative element.",
+   "quotes": [
+    {
+     "text": "Pico essentially relies on the numerical structure to perform the task of justiﬁcation for him: he is drawn to include the sixth exposition, as he says, almost unwillingly.",
+     "work": "black2006",
+     "line": 11702,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is, therefore, the requirement of the sevenfold structure which appears to be the formative element, not the matter contained within this structure.",
+     "work": "black2006",
+     "line": 11706,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "appears to be the formative element",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Says form governs content in the Heptaplus's structure."
+   },
+   "id": "black2006-c:076"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black finds Pico's alternative explanation, imitation of Basil and Augustine, somewhat unsatisfactory, since neither Basil's hexaemeron nor Augustine's Genesis commentaries are divided into seven sections.",
+   "quotes": [
+    {
+     "text": "Pico’s alternative explanation that he divided his work into seven books “in imitation of Basil and Augus- tine” is somewhat unsatisfactory, and especially so, given that neither the hexaemeron of Basil nor the various Genesis commentaries of Augustine are divided into seven sections.",
+     "work": "black2006",
+     "line": 11710,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Basil",
+    "Augustine"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:077"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seven expositions"
+   },
+   "theses": [],
+   "text": "Black analyses the Heptaplus as an allegory with a constant subject, the six days of creation, and a changing object, the philosophical framework of each exposition.",
+   "quotes": [
+    {
+     "text": "Regarding the Heptaplus, in each of the seven expositions, the subject (that is, the biblical account of the six days of creation) remains constant, while the object (the philosophical framework of the exposition) changes.",
+     "work": "black2006",
+     "line": 11721,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives the structural key: same text, seven frameworks."
+   },
+   "id": "black2006-c:078"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seven expositions"
+   },
+   "theses": [],
+   "text": "Black argues that the sabbath is the object, not the subject, of the allegory: the biblical text Pico expounds stops at the sixth day, and he never comments directly on the seventh.",
+   "quotes": [
+    {
+     "text": "sixfold pattern: the biblical text, which Pico expounds and which he quotes at the end of the second proem, ﬁnishes with the creation of man on the sixth day (Genesis 1.27), stopping short of the sabbath, which occurs in Genesis 2.",
+     "work": "black2006",
+     "line": 11742,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But he never comments directly on the text which introduces the seventh day. The sabbath is the object, not the subject, of the allegory.",
+     "work": "black2006",
+     "line": 11748,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Explains why a sevenfold work comments on six days: the sabbath is a form, not a text."
+   },
+   "id": "black2006-c:079"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "title-page"
+   },
+   "theses": [],
+   "text": "Black holds that the title-page, a sevenfold hexaemeron, shows a tension that runs through the work, in which the question of form is persistently presented and equated with the sabbath.",
+   "quotes": [
+    {
+     "text": "It is a characteristic feature of the Heptaplus that, from the title-page to the ﬁnal chapter, the reader is persistently presented with the question of form, and this form is equated with the sabbath.",
+     "work": "black2006",
+     "line": 11752,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Reads sabbath as the Heptaplus's form."
+   },
+   "id": "black2006-c:080"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black says the sabbath in the Heptaplus represents rest and felicity and the return of created things to God, is the antithesis of the Fall, and is linked to prophecies of Christ, the Church and the conversion of the Gentiles.",
+   "quotes": [
+    {
+     "text": "It represents quies and felicitas. Associated with these is the “return of created things to God”. In this respect it is the antithesis of the beginning of human history, which starts with the Fall and separation from God.",
+     "work": "black2006",
+     "line": 11759,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:081"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Black argues that the Heptaplus does not discuss the literal creation events, such as creatio ex nihilo, but projects them into a static picture of the cosmos and into man's final destiny, so that the sabbath signifies redemption and man's rest after completing his journey.",
+   "quotes": [
+    {
+     "text": "But those events of 3508 BC, the “drama of creation”, to use Gershom Scholem’s phrase, are not literally discussed at any point in the Heptaplus.",
+     "work": "black2006",
+     "line": 11775,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Instead, Pico’s allegory projects the creation events out of their literal past time: ﬁrstly, into a static, timeless conception of the cosmos as it is; and secondly, to the ﬁnal destiny of man in the future.",
+     "work": "black2006",
+     "line": 11791,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "As such, the sabbath comes to signify redemption, the end of man’s existence, and an anticipated ﬁnal quietus to take place at an unspeciﬁed future time. This is the “supernatural” felicitas discussed in the previous chapter.",
+     "work": "black2006",
+     "line": 11797,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Scholem"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Identifies the sabbath with supernatural felicity and with the redirection of the narrative to the future."
+   },
+   "id": "black2006-c:082"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "7.P"
+   },
+   "theses": [],
+   "text": "In Black's translation, the proem to the seventh exposition calls that treatise the sabbath of the commentary and says it will treat the sabbath of the world and the repose, that is the felicity, of created things, listening to Moses as a true prophet of things to come.",
+   "quotes": [
+    {
+     "text": "in the seventh treatise—the sabbath, as it were, of our commentary—we should discuss the sabbath of the world and the repose—that is, the felicitas—of those created things",
+     "work": "black2006",
+     "line": 11806,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:083"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seven expositions"
+   },
+   "theses": [],
+   "text": "Black says the literal sabbath is a microcosm of the allegorical sabbath, a microcosmic approach also seen in each exposition's seventh chapter, which discusses Christ.",
+   "quotes": [
+    {
+     "text": "the literal sabbath is a microcosm of the allegorical sabbath. This microcosmic approach is also evident in the subdivisions of the work",
+     "work": "black2006",
+     "line": 11816,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:084"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Black holds that the Heptaplus's cluster of ideas around the sabbath (macrocosm, ultimate goal of man, redemption and rest) has strong links with the Jewish tradition in its esoteric form as made available to Pico by Mithridates, and through them to the ideas of knowledge and hermeneutics.",
+   "quotes": [
+    {
+     "text": "The speciﬁc conglomeration of ideas surrounding the sabbath in the Heptaplus, however—as macrocosm, ultimate goal of man, redemption and rest—has strong links with the Jewish tradition, particularly in its esoteric form as made available to Pico by Mithridates",
+     "work": "black2006",
+     "line": 11843,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Black locates the Heptaplus's sabbath ideas in Jewish esoteric material that Mithridates made available to Pico.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Roots the sabbath form in Mithridates's Kabbalistic corpus rather than in Christian tradition alone."
+   },
+   "id": "black2006-c:085"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Black says the jubilee is a macrocosm of the sabbath: as the sabbath signifies temporary rest, so the jubilee comes to signify ultimate rest, or redemption.",
+   "quotes": [
+    {
+     "text": "The jubilee is a macrocosm of the sabbath. In the accretion of interpretations which build up around it, just as the sabbath signiﬁes temporary rest, so the jubilee comes to signify ultimate rest, or redemption.",
+     "work": "black2006",
+     "line": 11864,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:086"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "kabbalistic-sources",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "Conc. cabalisticae secundum secretam doctrinam sapientum Hebraeorum Cabalistarum, 13"
+   },
+   "theses": [],
+   "text": "Black reports that Pico's Conclusiones say that whoever knows in kabbalah the mystery of the gates of understanding will know the mystery of the great jubilee.",
+   "quotes": [
+    {
+     "text": "Pico refers to the jubilee in the Conclusiones: “He who knows in kabbalah the mystery of the gates of understanding will know the mystery of the great jubilee.”",
+     "work": "black2006",
+     "line": 11868,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:087"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "Conc. cabalisticae, 13"
+   },
+   "theses": [],
+   "text": "Black states that the Conclusiones's remark on the jubilee has sources in the manuscript corpus, citing the Expositio decem numerationum, which equates the great sabbath and great jubilee and gives its numeratio fifty gates of understanding, and Gikatilla's Portae iustitiae.",
+   "quotes": [
+    {
+     "text": "There are a number of sources for this comment in the manuscript corpus, of which I shall cite three",
+     "work": "black2006",
+     "line": 11870,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The great sabbath is the great jubilee.",
+     "work": "black2006",
+     "line": 11896,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This numeratio has ﬁfty gates, which are called gates of understanding",
+     "work": "black2006",
+     "line": 11898,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Joseph Gikatilla, Portae iustitiae: “There are forty-nine gates",
+     "work": "black2006",
+     "line": 11907,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gikatilla"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:088"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Black argues that the jubilee, as Pico understood it, signifies supernatural felicity, the repose of created things.",
+   "quotes": [
+    {
+     "text": "I have already argued that the jubilee, as Pico understood it, signiﬁes supernatural felicitas, “the repose of created things”.",
+     "work": "black2006",
+     "line": 11955,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Connects sabbath, jubilee and supernatural felicity."
+   },
+   "id": "black2006-c:089"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "kabbalistic-sources",
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Black reports that the Babylonian Talmud says fifty gates of understanding were created in the world, forty-nine of them revealed to Moses, because God made him a little lower than the angels.",
+   "quotes": [
+    {
+     "text": "Here, it is stated that ﬁfty gates of understanding were created in the world, of which forty-nine were revealed to Moses, “because God made him just a little lower than the angels”.",
+     "work": "black2006",
+     "line": 11960,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:090"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black says the Nahmanides extract deepens the doctrine of the gates by identifying them explicitly with a complete taxonomy of creation, from minerals up to the heavens and their hosts, forty-nine categories of which Moses acquired knowledge.",
+   "quotes": [
+    {
+     "text": "in its explicit identiﬁcation of the gates with a complete taxonomy of creation, from the lowest entities (minerals) to the highest (“the heavens and their hosts”).",
+     "work": "black2006",
+     "line": 12025,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In effect, Nahmanides claims that there are forty-nine different categories of created thing",
+     "work": "black2006",
+     "line": 12028,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Nahmanides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:091"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black holds that whether Pico read Nahmanides is a problematic question: the Heptaplus's citation of him has an intermediate source in Recanati, no Latin translation is known to have been available, and yet Pico owned the text and might have received its ideas orally.",
+   "quotes": [
+    {
+     "text": "Whether or not we can be conﬁdent that Pico read this text is a problematic question, however.",
+     "work": "black2006",
+     "line": 12037,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "But it is equally possible (and more demonstrable) that Pico used an intermediate source: Recanati’s own commentary on the Pentateuch.",
+     "work": "black2006",
+     "line": 12053,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "There is no evidence that Nahmanides’s commentary was available to Pico in Latin",
+     "work": "black2006",
+     "line": 12061,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "we must bear in mind the possibility of oral transmission via the Jewish scholars with whom he was in contact.",
+     "work": "black2006",
+     "line": 12068,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "problematic question",
+   "entities": [
+    "Nahmanides",
+    "Recanati"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "Whether Nahmanides's introduction influenced Pico is undecided; Black calls it a matter of speculation.",
+     "basis_quote": {
+      "text": "The status of this extract as an inﬂuence on Pico must remain a matter of speculation.",
+      "work": "black2006",
+      "line": 12071
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:092"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that the forty-nine gates revealed to Moses comprised the knowledge of all created things, the same knowledge Pico argued is to be found in the Genesis account.",
+   "quotes": [
+    {
+     "text": "According to tradition, forty-nine gates of understanding were revealed to Moses on Mount Sinai. They comprised the knowledge of all created",
+     "work": "black2006",
+     "line": 12074,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "things—the same knowledge that Pico argued was to be found in the Genesis account.",
+     "work": "black2006",
+     "line": 12102,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:093"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports an Abulafia passage he says Pico can be more confidently said to have read, in which Moses received the law in two ways, literal and with its secrets and hidden things.",
+   "quotes": [
+    {
+     "text": "A previously-cited passage from Abulaﬁa, which we can more conﬁdently state that Pico read, also comments on Moses’s experience on Mount Sinai and the writing of the Pentateuch",
+     "work": "black2006",
+     "line": 12103,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The second is the way of knowing the law according to the understandings of it together with its secrets and the things hidden",
+     "work": "black2006",
+     "line": 12112,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "more conﬁdently",
+   "entities": [
+    "Abulafia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:094"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that the non-literal way of knowing is how the contents of Moses's prophetic vision, the forty-nine gates, were incorporated into the Pentateuch, and that this is the key to a crucial statement in the second proem about Moses on Sinai.",
+   "quotes": [
+    {
+     "text": "This second “way of knowing” is the non-literal way, by which the contents of Moses’s prophetic vision—the forty-nine gates, in other words—were incorporated into the Pentateuch. This provides the key to understanding a crucial statement in the second proem",
+     "work": "black2006",
+     "line": 12116,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Ties Pico's claim that Moses portrayed an image of the world to the tradition of the forty-nine gates."
+   },
+   "id": "black2006-c:095"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "heptaplus-structure",
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "In Black's translation, Pico says that Moses, speaking sufficiently of the world, discussed all four worlds, and that his writing has truly portrayed an image of the world, as he was commanded to make everything according to the exemplar he saw on the mountain.",
+   "quotes": [
+    {
+     "text": "Therefore, this writing of Moses has truly portrayed an image of the world, just as we read that he was also commanded on the mountain where he learnt these things to make everything according to the exemplar which he had seen on the mountain.",
+     "work": "black2006",
+     "line": 12129,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:096"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem; seven by seven"
+   },
+   "theses": [],
+   "text": "Black concludes that the exemplar Moses saw on the mountain is the forty-nine gates, the knowledge of the taxonomy of created things needed for natural and supernatural felicity, and that the Heptaplus reflects the gates in content and in structure, through its seven expositions of seven chapters.",
+   "quotes": [
+    {
+     "text": "The “exemplar which [Moses] had seen on the mountain” is the forty-nine gates of understanding which comprise knowledge of the entire taxonomy of created things.",
+     "work": "black2006",
+     "line": 12136,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The Heptaplus is a guide to how this knowledge is contained in the biblical text. As such it reﬂects the forty-nine gates in content. It also reﬂects them in structure, through its seven expositions of seven chapters.",
+     "work": "black2006",
+     "line": 12155,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Offers a specific source for the seven-by-seven form: the forty-nine gates of understanding."
+   },
+   "id": "black2006-c:097"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black states that the core of his argument is that Pico's theory of allegory derives from the connection between epistemology and ontology found in Proclus and Pseudo-Dionysius, so that emanation from God down a hierarchy is matched by reversion up it by knowledge, culminating in union with God.",
+   "quotes": [
+    {
+     "text": "The core of my argument is that his theory derives from the connection between epistemology and ontology encountered in the writings of Proclus and Pseudo-Dionysius. This connection means that the process of creation—the procession from God of a hierarchical chain of enti- ties, from simplicity to multiplicity, by way of emanation—is matched by a process of intellection—the reversion along the same chain by way of knowledge, culminating in union with God.",
+     "work": "black2006",
+     "line": 12204,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Proclus",
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives Proclus and Pseudo-Dionysius, not fourfold exegesis, as the source of the Heptaplus's hermeneutics."
+   },
+   "id": "black2006-c:098"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black argues that knowledge of the simple conceptions at the top of the hierarchy is extremely hard for humans to attain because of their dependence on sense and matter, and is the type of knowledge associated with angels.",
+   "quotes": [
+    {
+     "text": "knowledge of the ‘simple’ con- ceptions at the top of this chain is extremely difﬁcult for mankind to attain; it is, in fact, the type of knowledge associated with angels.",
+     "work": "black2006",
+     "line": 12214,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Identifies the angelic mode of cognition as the goal of the Heptaplus's ascent."
+   },
+   "id": "black2006-c:099"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black says the commentators on Aristotle argued that if the human intellect rises to comprehend immaterial separate substances it becomes equivalent to the angelic intellect and, in some accounts, is gifted with prophecy.",
+   "quotes": [
+    {
+     "text": "grappled with ways in which the human intellect could rise to a comprehension of immaterial, ‘sep- arate’ substances—and thus to felicitas. If it succeeds, they argued, it becomes equivalent to the angelic intellect, and (in some accounts) is gifted with prophecy.",
+     "work": "black2006",
+     "line": 12221,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:100"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "kabbalistic-sources",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black holds that in the Jewish tradition Moses was considered to have ascended from knowledge of manifold material substances to the highest level of angels, separate intelligences and pure intelligibles, and that Pico's project was to find how this knowledge is encoded in Moses's text.",
+   "quotes": [
+    {
+     "text": "Moses, author of the Pentateuch, was con- sidered to have attained the highest intellectual level possible for mankind; hence the efﬁcacy of his books. He had, in other words, ascended from the level of knowledge of manifold material sub- stances (which make up the lowest strata of creation) to the highest level of angels, separate intelligences and pure intelligibles. Pico’s project was to ﬁnd and interpret the ways in which this knowledge was encoded in Moses’s text.",
+     "work": "black2006",
+     "line": 12228,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Puts angels at the top of Moses's ascent and Pico's decoding project."
+   },
+   "id": "black2006-c:101"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-angelic-world",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "Black argues that Moses's text expresses the same concepts with very few forms, that is words, and so represents the simplicity of forms by which angels, and by extension prophets, understand things normally beyond human reach.",
+   "quotes": [
+    {
+     "text": "whereas average human understanding requires a large number of forms with which to understand concepts ‘discursively’",
+     "work": "black2006",
+     "line": 12236,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "text shows how the same concepts can be expressed with very few ‘forms’, that is, words. As such, it represents the ‘simplicity’ of forms by which angels (and, by extension, prophets) can understand things normally out of human reach.",
+     "work": "black2006",
+     "line": 12243,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Ties Mosaic economy of language to the angelic mode of understanding."
+   },
+   "id": "black2006-c:102"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black concludes that Pico's exegesis in the Heptaplus is anagogical in the Dionysian sense, leading the exegete upwards along the hierarchy of being, and that the absence of the fourfold scheme and humanist philology shows it to be a fundamentally different type of work.",
+   "quotes": [
+    {
+     "text": "Pico’s exegesis in the Heptaplus is therefore anagogical, in the sense of this term as it occurs in the works of Pseudo-Dionysius: that is, it leads the exegete upwards along the hierarchy of being.",
+     "work": "black2006",
+     "line": 12247,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Their absence from the Heptaplus indicates that it is a fundamentally different type of work, with different goals.",
+     "work": "black2006",
+     "line": 12259,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives Black's answer to how the Heptaplus should be read: as Dionysian anagogy."
+   },
+   "id": "black2006-c:103"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black holds that the Heptaplus is separated from the literal sense: its subject is cosmology, not cosmogony, and it comments on the words in principio only in the last chapter, and then outside their literal temporal frame.",
+   "quotes": [
+    {
+     "text": "The extent to which the Heptaplus is divorced from the literal sense is clearly visible from the fact that, in it, Pico never discusses the events of the Genesis narrative in relation to their own time. His subject is cosmology (the taxonomy of the cosmos) and not cosmogony (the process by which the cosmos came into being).",
+     "work": "black2006",
+     "line": 12265,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States the work's subject as cosmology, not cosmogony."
+   },
+   "id": "black2006-c:104"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black holds that the Heptaplus's hermeneutic stance owes more to Neoplatonism and Judaism than to Christian scholastic and monastic traditions, and that its esotericism appears anachronistic given the late medieval trend toward aligning the literal and non-literal senses.",
+   "quotes": [
+    {
+     "text": "In this respect his hermeneutic stance owes more to Neoplatonism and Judaism than to the Christian scholastic and monastic traditions.",
+     "work": "black2006",
+     "line": 12272,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In the light of this historical development the esotericism of the Heptaplus appears anachronistic.",
+     "work": "black2006",
+     "line": 12278,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Places the Heptaplus outside the Christian exegetical mainstream of its time."
+   },
+   "id": "black2006-c:105"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black argues that the Heptaplus does not support the modern commonplace that Pico symbolises the transition from the Middle Ages to the Renaissance: its only nod to humanism is its Latin style, and as biblical commentary it was outdated before it was written.",
+   "quotes": [
+    {
+     "text": "the commonplace of some modern scholarship—that Pico’s vision of philosophy, emerging from its scholastic cocoon and taking ﬂight on the wings of man’s newly ﬂedged dignity, is a potent symbol for the transition from Middle Ages to Renaissance—is not supported by the Heptaplus.",
+     "work": "black2006",
+     "line": 12279,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "As an example of biblical commentary, the Heptaplus was already outdated before it was composed",
+     "work": "black2006",
+     "line": 12291,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Denies that the Heptaplus fits the Pico-as-Renaissance-symbol reading."
+   },
+   "id": "black2006-c:106"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black summarises Pico's conception as a soul with two intellectual faculties, a rational one for discursive reasoning and intelligentia for direct comprehension of intelligibles; the latter leads to natural felicity, union with the first mind, above which is an inexpressible union with God.",
+   "quotes": [
+    {
+     "text": "this conception is of a soul with two different intellectual faculties: a rational faculty for sense-based discursive reasoning and a faculty of intelligentia for direct and non- discursive comprehension of intelligibles.",
+     "work": "black2006",
+     "line": 12303,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the latter represents a possible goal and as such leads man to his natural felicitas, that is, union with the ﬁrst mind. Above this there is a higher and essentially inexpressible level of felicitas which is union with God.",
+     "work": "black2006",
+     "line": 12307,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Gives Black's consolidated model of the soul's ascent from the Commento to the Heptaplus."
+   },
+   "id": "black2006-c:107"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black suggests that Gersonides's commentary on the Song of Songs is a precedent Pico knew for reformulating the ascent theme as biblical interpretation, which Pico applied to Genesis.",
+   "quotes": [
+    {
+     "text": "I have suggested that a precedent for this, which Pico was aware of, can be found in Gersonides’s commentary on the Song of Songs.",
+     "work": "black2006",
+     "line": 12312,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico applied this idea to the Genesis narrative, to which, in his view, it was especially appropriate.",
+     "work": "black2006",
+     "line": 12317,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I have suggested",
+   "entities": [
+    "Gersonides"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "The Gersonides commentary was among the texts Mithridates translated for Pico.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:108"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seven expositions"
+   },
+   "theses": [],
+   "text": "Black concludes that Pico deliberately gave the Heptaplus a numerical structure based on seven, reflecting the sabbath, and that his concept of the sabbath was influenced by kabbalistic texts which give it a polyvalent significance as microcosm and macrocosm.",
+   "quotes": [
+    {
+     "text": "He deliberately gave the Heptaplus a numerical structure based on the number seven, reﬂecting the sabbath. His concept of the sab- bath was, I argued in Chapter 7, inﬂuenced by his readings of kabbal- istic texts.",
+     "work": "black2006",
+     "line": 12319,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "As a microcosm, it is related to the beginning of time, representing God’s rest after creation",
+     "work": "black2006",
+     "line": 12322,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "As a macrocosm, it represents the jubilee, redemption, the end of time and the reversion of all things back to God: in other words, it represents supernatural felic- itas.",
+     "work": "black2006",
+     "line": 12325,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Gives the sabbath as the reason and the kabbalistic texts as the source of the sevenfold form."
+   },
+   "id": "black2006-c:109"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seven expositions"
+   },
+   "theses": [],
+   "text": "Black concludes that Moses passed through forty-nine of the fifty gates of understanding in his ascent on Sinai, acquiring knowledge of all created entities, and that the Heptaplus guides the reader to how that knowledge was concealed in Genesis and reflects the gates in content and structure.",
+   "quotes": [
+    {
+     "text": "Moses passed through forty-nine of these in his intellectual ascent on Mount Sinai: that is to say, he acquired knowledge of all created entities. The Heptaplus, I have proposed, is a guide to how the",
+     "work": "black2006",
+     "line": 12329,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "edge of the forty-nine gates was concealed by Moses in the Genesis narrative. It reﬂects them not only in content but also in structure.",
+     "work": "black2006",
+     "line": 12337,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I have proposed",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 3,
+    "justification": "Offers the forty-nine gates as the model for the seven-by-seven structure."
+   },
+   "id": "black2006-c:110"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black suggests that the Heptaplus's more discreet handling of the intellect controversy, compared with the Commento's attack on scholastics, may be due to the recent memory of the affair of 1487 and the papal condemnation still hanging over Pico, though it may equally reflect a wish to find common ground.",
+   "quotes": [
+    {
+     "text": "The ear- lier work’s outspoken attack on the Christian scholastics is replaced with a more discrete and ambiguous formulation in the later work, however. It is possible that this discretion was due to the recent memory of the affair of 1487 and to the papal condemnation which was still hanging over Pico as he wrote the Heptaplus.",
+     "work": "black2006",
+     "line": 12342,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is also possible, however, that Pico’s desire was to ﬁnd the common ground in competing epistemological models rather than to decide between them.",
+     "work": "black2006",
+     "line": 12351,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "It is possible that",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether the Heptaplus's discretion reflects the trial or a syncretist aim is left open by Black.",
+     "basis_quote": {
+      "text": "It is also possible, however, that Pico’s desire was to ﬁnd the common ground in competing epistemological models rather than to decide between them.",
+      "work": "black2006",
+      "line": 12351
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Black suggests the 1487 affair and the condemnation may explain the Heptaplus's discretion about scholastic psychology.",
+     "quote_index": 0
+    },
+    {
+     "party": "innocent-viii",
+     "kind": "trial",
+     "note": "The papal condemnation is said to be still hanging over Pico as he wrote the Heptaplus.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the tone of the Heptaplus to the aftermath of the trial, as one hypothesis."
+   },
+   "id": "black2006-c:111"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "knowledge-felicity",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "proem to seventh exposition"
+   },
+   "theses": [],
+   "text": "Black argues that Pico did not try to arbitrate the internal disputes about the intellect among Christian Peripatetics or between them and Muslim and Jewish philosophers, but sought to defuse them by focusing on the higher supernatural felicity that transcends philosophies, a strategy he calls syncretist.",
+   "quotes": [
+    {
+     "text": "he did not otherwise attempt to arbitrate or resolve the internal disputes which existed on this matter within the Christian tradition or between the Christian Peripatetics and their Muslim and Jewish counterparts. Instead, he sought to defuse the issue by focusing on the higher, ‘supernatural’, felicitas which he saw as transcending philosophies and their differ- ences.",
+     "work": "black2006",
+     "line": 12356,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This strategy of dividing felicitas into two, which was already present (although less fully theorized) in the Commento and Oratio, is another example of his syncretism.",
+     "work": "black2006",
+     "line": 12363,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico's strategy of not arbitrating between schools contrasts with Ficino's Platonist alignment described earlier in Black's argument.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States Pico's handling of school disputes as defusion by the two-fold felicity."
+   },
+   "id": "black2006-c:112"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black argues that the links between the Heptaplus and the earlier works cast doubt on Gianfrancesco Pico's claim that his uncle underwent a conversion, and shows continuity before and after Pico's imprisonment.",
+   "quotes": [
+    {
+     "text": "The links between the Heptaplus and the earlier works cast doubt on Gianfrancesco Pico’s claim that his uncle underwent a ‘conversion’. On the contrary, there is a clear continuity in Pico’s writings between the period before his imprisonment and the period after it.",
+     "work": "black2006",
+     "line": 12366,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gianfrancesco Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "gianfrancesco-pico",
+     "kind": "reception",
+     "note": "Black challenges Gianfrancesco's account of a conversion by pointing to continuity of themes.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Disputes the conversion narrative on the evidence of the works' continuity."
+   },
+   "id": "black2006-c:113"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "method",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "whole work"
+   },
+   "theses": [],
+   "text": "Black concedes that a reader may feel the allegorical readings arise from the Genesis text and its philosophical contexts without needing Pico's framework, but holds that Pico's allegorical theory stands at the centre of his ideas about man, the cosmos, the intellect and the ascent to felicity.",
+   "quotes": [
+    {
+     "text": "The reader of the Heptaplus may feel that its fecund allegorical landscape has more to do with Pico’s verbal dexterity than with his actual ‘theory’",
+     "work": "black2006",
+     "line": 12374,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "I have tried to show that Pico’s allegorical theory is situated at the centre of his ideas about man, the cosmos, the intellect and the ascent to felicitas.",
+     "work": "black2006",
+     "line": 12390,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I have tried to show",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:114"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "angel-location",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Thomas held that in this life we cannot know immaterial substances in their own mode through either the potential or the active intellect, and that ultimate felicity does not consist in knowledge of separate substances.",
+   "quotes": [
+    {
+     "text": "More generally, in his two Summae, Thomas criticized the episte- mological models of felicitas",
+     "work": "black2006",
+     "line": 9648,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "“according to the state of the present life, we cannot—either through the potential intellect or the active intellect—cognize immaterial substances in their own mode”",
+     "work": "black2006",
+     "line": 9652,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "he argued that man’s ultima felic- itas does not reside in such knowledge and that “we cannot in this life comprehend separate substances”.",
+     "work": "black2006",
+     "line": 9692,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Thomas"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:115"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Pico was in Padua between 1480 and 1482 and met exponents of Averroism, including Elijah Delmedigo and Nicoletto Vernia, and that Delmedigo wrote two works on Averroes's ideas of intellect and conjunction specifically for Pico.",
+   "quotes": [
+    {
+     "text": "Pico had been in Padua between 1480 and 1482. He came into contact there with several prominent exponents of Averroist think- ing, including Elijah Delmedigo and Nicoletto Vernia.",
+     "work": "black2006",
+     "line": 9740,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "he composed two works on Averroes’s ideas of the intellect and conjunction speciﬁcally for Pico.",
+     "work": "black2006",
+     "line": 9794,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Elijah Delmedigo",
+    "Nicoletto Vernia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "elijah-delmedigo",
+     "kind": "teaching",
+     "note": "Delmedigo, an Averroist, wrote two works on the intellect for Pico.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:116"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "knowledge-felicity"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "date of composition"
+   },
+   "theses": [],
+   "text": "Black notes that on 4 May 1489, as Pico was writing the Heptaplus, the Bishop of Padua published a decree forbidding all discussion of the unicity of the potential intellect.",
+   "quotes": [
+    {
+     "text": "On 4 May 1489 (just as",
+     "work": "black2006",
+     "line": 9712,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico was writing the Heptaplus) the Bishop of Padua, Pietro Barozzi, published a decree forbidding all discussion of the doctrine of unicity of the potential intellect.",
+     "work": "black2006",
+     "line": 9737,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pietro Barozzi"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:117"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "knowledge-felicity"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Black reports that Alemanno extrapolated from the idea of hierarchical progression through philosophical disciplines an entire curriculum, beginning with the Torah and ending in what he took to be the highest divine science, kabbalah and magic.",
+   "quotes": [
+    {
+     "text": "Alemanno extrapolated from it an entire curriculum, beginning with the Torah and moving through the Midrash, language and rhetoric, logic, mathematics, physics and astronomy, politics and medicine and metaphysics, ﬁnally to encompass what he took to be the highest reaches of divine science: kabbalah and magic.",
+     "work": "black2006",
+     "line": 9901,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Alemanno"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "johanan-alemanno",
+     "kind": "teaching",
+     "note": "Alemanno's curriculum is Pico's most proximate example of the hierarchy of disciplines.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-c:118"
+  }
+ ],
+ "not_mined": [],
+ "proposed_topics": [],
+ "proposed_parties": [],
+ "notes": ""
+}

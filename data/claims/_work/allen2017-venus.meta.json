@@ -1,0 +1,27 @@
+{
+ "researcher": "R-ALLEN-1",
+ "created": "2026-09-25",
+ "scope": {
+  "work": "allen2017",
+  "line_start": 5679,
+  "line_end": 6858
+ },
+ "not_mined": [
+  "Essay text lines 5746-5850 (textual history of the Commento, Benivieni, Garin editions) mined only for Ficino-related and transmission claims; publication history of Benivieni's Commento and 1519/1522 editions not extracted as claims beyond concealment of Ficino references.",
+  "Orpheus/Eurydice, Alcestis and Lorenzo's sonnet commentary (5888-5967) not mined except where it leads into the Death of the Kiss and Ficino contrast.",
+  "Oration 'Proteus' and man-as-microcosm discussion (6556-6625) mined only for angelic material and the fourth-world/bond-of-three-worlds point; Numenius/Plotinus on immortality of soul parts (6591-6593) and Ficino's harmony/mathematics passage (6650-6661) only briefly.",
+  "Endnotes 1-16, 41, 53, 65-80 (Wind, Orphic Argonautica, Guastella, Anadyomene locators), 82-96, 98-106, 111-112 not turned into claims except as listed; they are locators or bibliography."
+ ],
+ "proposed_topics": [
+  {
+   "id": "commento-poros-penia",
+   "label": "Poros and Penia and the birth of Love in the angelic Mind (Commento 2.13); could be folded into commento-angelic-mind"
+  },
+  {
+   "id": "commento-heptaplus-relation",
+   "label": "How Commento and Heptaplus relate: shared exegetical method, extraction of formulations, Genesis-first vs myth-first"
+  }
+ ],
+ "proposed_parties": [],
+ "notes": "Every Commento claim is Allen's report of it (essay is the only route; Garin 1942 and Jayne 1984 are cited in endnotes only). Note page markers in the middle of quotations force '...' in the gate. Crux 1: Allen says Pico identifies second hypostasis with Angel/Angelic Mind and cites Proclus, Hermias, Syrianus and the Areopagite (l. 6083-6085), but also that Pico was not yet well acquainted with Hermias's Phaedrus commentary (l. 5858-5861); Allen does not reconcile them. Crux 2: l. 6488-6492 says an Empedoclean discord vision seems foreign to Pico, yet l. 6199-6208 reports Commento 2.8 defining beauty as friendly enmity and citing Empedocles; and l. 6496-6500 says Pico wants a fourth world for man while l. 6607 says man is not even a fourth world but the bond of three. Crux 3: Allen's only explicit statement of a Commento-Heptaplus link is l. 5797-5798 (extracted formulations) and l. 6535-6540 (both engage an authoritative text); l. 6390-6393 says Genesis looms for Pico much more than for Ficino. Crux 4: Jayne (via Allen l. 6788) calls a Commento 2.13 sentence a mistake. OCR: 'dualisdc' (dualistic), 'land of exposition' (kind), 'tided' (titled), 'subsequendy'; note numerals run into text; the notes to l. 6720 block use Garin (edition pages) then Jayne's translation in square brackets. Lead check: Metatron appears only as Enoch's transformation (l. 6000-6001) and Pico's spelling 'Matatron' (note 23); no discussion of Metatron as the Agent Intellect. No claim about the Ficino Parmenides commentary beyond one endnote. Ungrounded warnings: none at last run."
+}

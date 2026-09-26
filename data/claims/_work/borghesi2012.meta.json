@@ -1,0 +1,31 @@
+{
+ "researcher": "R-ORATION",
+ "created": "2026-09-26",
+ "scope": {
+  "work": "borghesi2012",
+  "line_start": 100,
+  "line_end": 6260
+ },
+ "not_mined": [
+  "Oration passages not about angels or the ascent: sections 1-2, 7-10, 12-13, 16-25, 31-34, 38, 41-47, 58, 60 (except as the waters above the heavens in the footnote on section 60), 77-79, 85-94, 96-97, 99-112 (except 98 and 113), 114-136, 138, 142-249 and 251-264 except 250 and 254; the footnotes on the Empedocles and Osiris passages, the Chaldean Oracles and Zoroaster (sections 43-44, 130-134), the four furores (sections 109-112, 113 apart from the seraphim), the Pythagorean symbols (sections 116-129), and the disputation apparatus.",
+  "Sections 108-110 (Phaedrus frenzy, whisked away to the heavenly Jerusalem) are about the ascent but not the angelic state; left for a packet on the ascent.",
+  "Footnote 101 (Macarius, the hand beneath the cherub's wings, grace and the soul as God's throne) is only marginally angelological; not extracted.",
+  "The introductions of the edition (Riva, Bori, Papio) are not in the OCR file, which begins at Part II, the text; a claim from the editors' introduction on the erased word 'demon' (cited in footnote 46) could not be checked."
+ ],
+ "proposed_topics": [
+  {
+   "id": "oration-ascent",
+   "label": "The Oration's ascent to the angelic state and beyond it: sections 29-30, 37-40, 95, 113; stages of purgation, illumination and perfection"
+  },
+  {
+   "id": "oration-archangels",
+   "label": "The archangels Raphael, Gabriel and Michael (and Uriel) in Oration sections 140-141 and the editors' notes"
+  },
+  {
+   "id": "jacobs-ladder",
+   "label": "Jacob's ladder and the angels on it in the Oration (sections 73-82, 240)"
+  }
+ ],
+ "proposed_parties": [],
+ "notes": "GATE: the 70 editorial claims (attribution scholar_claim or scholar_report, quotes from the editors' footnotes in borghesi2012) initially raised the error scholar_from_primary because borghesi2012 is in PRIMARY_WORKS; the verifier was since revised so that quoting the editors' notes is allowed and gives only a warning (scholar_from_edition, 91 of them, all expected). Each such quotation was chosen from a footnote, not from Pico's text. Attribution was never changed to primary_text to satisfy the gate.\n\nCruxes and observations. (1) Section 35: the princeps has a blank where the Hebrew word stands; the Basel editions give a Hebrew retroversion of angelum divinitatis (Mal'akh ha-Sekinach); Bausi, following Wirszubski, restores the characters of the earlier draft in Palatino 885 and reads Metatron (footnote 34). Claims 054-055 record this. The Hebrew characters in the Latin/English line are quoted as OCR gives them. (2) Footnote 357 says the three archangels are mentioned 'in section 135'; the archangels are named in sections 140-141 (section 135 is Zoroaster's rivers and the four directions). Recorded as the editors state it; a reader should treat the section number as probably wrong. (3) Footnote 12 says the order angels, stars, lower creatures in section 6 is 'repeated in reverse order' in section 11; recorded as stated. (4) Footnote 52 and footnote 60 give two different framings of the three highest ranks (Dionysian first hierarchy; Farmer's sefirot overlay: seraphim Hesed, thrones Din, cherubim Binah); they do not contradict each other but the second is hedged ('It has been suggested'). (5) The Order of Pallas: footnote 60 says it means the cherubim; footnote 185 says Pallas is associated with Metatron in Conclusiones 2.5.14 and 2.11.10, which ties section 66 to section 35; a linker should connect these. (6) The editors quote Pico's Heptaplus and Commento in their own translation in footnotes 25, 54 and 77; those are recorded as editorial adductions (scholar_claim), not as primary_text. (7) Latin in the printed text is quoted where the wording matters; lines in the Latin pages are OCR with hyphenated line breaks (gate copes). (8) theses is left empty: the footnotes cite Conclusiones by Pico's section numbers (for example 2.11.10, 1.19.2), and the mapping to Farmer's ids in data/inventory/theses.json was not verified. (9) Audit leads: sections 5, 11, 29, 30, 35, 59-66, 82, 95, 140-141 and notes about 25-27, 33-34, 60, 69 confirmed and extracted. Section 131 and notes 163-164 (Zoroaster's winged soul) are not about angels and were left out. Passages the audit missed and added: sections 3-6, 14-15, 26, 37, 39-40, 46, 48-57, 61-62, 67-72, 75-76, 80-81, 83-84, 98, 113, 137, 139, 250, 254, and notes 7, 8, 12, 24, 25, 27, 28, 37, 45, 46, 49, 52-55, 59, 61, 64, 66-70, 77, 83, 97, 107, 136, 175-177, 185, 327, 337, 352, 356, 357."
+}

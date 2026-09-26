@@ -1,0 +1,2722 @@
+{
+ "packet": "borghesi2012",
+ "file": "data\\claims\\angelology\\borghesi2012.claims.json",
+ "verified_at": "2026-09-26T04:35:52+00:00",
+ "claims": [
+  {
+   "id": "borghesi2012:001",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 132,
+     "line_end": 134,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 139,
+     "line_end": 140,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 112,
+     "line_end": 113,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:002",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 141,
+     "line_end": 142,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 144,
+     "line_end": 145,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 116,
+     "line_end": 117,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:003",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 227,
+     "line_end": 229,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 193,
+     "line_end": 194,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:004",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 238,
+     "line_end": 239,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 203,
+     "line_end": 204,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:005",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 308,
+     "line_end": 309,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 310,
+     "line_end": 311,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 284,
+     "line_end": 285,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:006",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 458,
+     "line_end": 459,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 437,
+     "line_end": 438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 453,
+     "line_end": 455,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:007",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 537,
+     "line_end": 539,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 514,
+     "line_end": 515,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:008",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 541,
+     "line_end": 543,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 516,
+     "line_end": 517,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:009",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 757,
+     "line_end": 758,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 758,
+     "line_end": 758,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 759,
+     "line_end": 759,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:010",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 890,
+     "line_end": 892,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 865,
+     "line_end": 867,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:011",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 959,
+     "line_end": 960,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 961,
+     "line_end": 963,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:012",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1062,
+     "line_end": 1063,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1064,
+     "line_end": 1066,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1030,
+     "line_end": 1031,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:013",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1132,
+     "line_end": 1132,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1134,
+     "line_end": 1134,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1135,
+     "line_end": 1135,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:014",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1136,
+     "line_end": 1137,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1108,
+     "line_end": 1109,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:015",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1138,
+     "line_end": 1140,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1110,
+     "line_end": 1111,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:016",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1141,
+     "line_end": 1143,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1113,
+     "line_end": 1114,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:017",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1144,
+     "line_end": 1145,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1115,
+     "line_end": 1116,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:018",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1215,
+     "line_end": 1216,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1190,
+     "line_end": 1191,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:019",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1220,
+     "line_end": 1221,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1194,
+     "line_end": 1195,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:020",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1222,
+     "line_end": 1223,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1224,
+     "line_end": 1225,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1226,
+     "line_end": 1228,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:021",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1304,
+     "line_end": 1306,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1273,
+     "line_end": 1274,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:022",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1307,
+     "line_end": 1311,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1275,
+     "line_end": 1276,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:023",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1320,
+     "line_end": 1322,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1323,
+     "line_end": 1324,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:024",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1388,
+     "line_end": 1390,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1393,
+     "line_end": 1395,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:025",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1396,
+     "line_end": 1397,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1400,
+     "line_end": 1403,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1371,
+     "line_end": 1373,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:026",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1471,
+     "line_end": 1473,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1474,
+     "line_end": 1475,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:027",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1548,
+     "line_end": 1550,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1551,
+     "line_end": 1553,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:028",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1616,
+     "line_end": 1617,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1621,
+     "line_end": 1622,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1587,
+     "line_end": 1588,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:029",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1623,
+     "line_end": 1626,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1593,
+     "line_end": 1593,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:030",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1628,
+     "line_end": 1630,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1597,
+     "line_end": 1598,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:031",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1871,
+     "line_end": 1873,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1848,
+     "line_end": 1849,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:032",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2014,
+     "line_end": 2016,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1995,
+     "line_end": 1995,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:033",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 2443,
+     "line_end": 2446,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2413,
+     "line_end": 2414,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:034",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2854,
+     "line_end": 2855,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2824,
+     "line_end": 2825,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:035",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2926,
+     "line_end": 2927,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:036",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 2932,
+     "line_end": 2934,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2905,
+     "line_end": 2906,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:037",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 2935,
+     "line_end": 2940,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2909,
+     "line_end": 2909,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:038",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 6094,
+     "line_end": 6096,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6097,
+     "line_end": 6098,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6063,
+     "line_end": 6065,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:039",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 6205,
+     "line_end": 6208,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6181,
+     "line_end": 6182,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "borghesi2012:040",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 155,
+     "line_end": 156,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 157,
+     "line_end": 160,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:041",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 161,
+     "line_end": 163,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 163,
+     "line_end": 164,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:042",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 251,
+     "line_end": 251,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:043",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 499,
+     "line_end": 499,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:044",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 548,
+     "line_end": 551,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:045",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 553,
+     "line_end": 554,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:046",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 556,
+     "line_end": 558,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 558,
+     "line_end": 560,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:047",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 560,
+     "line_end": 561,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:048",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 562,
+     "line_end": 563,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:049",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 564,
+     "line_end": 564,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 567,
+     "line_end": 570,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:050",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 575,
+     "line_end": 576,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:051",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 640,
+     "line_end": 642,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 644,
+     "line_end": 644,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:052",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 767,
+     "line_end": 768,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:053",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 771,
+     "line_end": 773,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:054",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 783,
+     "line_end": 785,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:055",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 785,
+     "line_end": 788,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:056",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 789,
+     "line_end": 791,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 791,
+     "line_end": 793,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:057",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 794,
+     "line_end": 796,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:058",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 796,
+     "line_end": 799,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:059",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 800,
+     "line_end": 803,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 804,
+     "line_end": 804,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 804,
+     "line_end": 805,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[2]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:060",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 807,
+     "line_end": 808,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 832,
+     "line_end": 832,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:061",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 833,
+     "line_end": 834,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:062",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 908,
+     "line_end": 911,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:063",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 978,
+     "line_end": 979,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:064",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1070,
+     "line_end": 1070,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1071,
+     "line_end": 1074,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:065",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1075,
+     "line_end": 1077,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:066",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1079,
+     "line_end": 1081,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:067",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1085,
+     "line_end": 1085,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:068",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1167,
+     "line_end": 1170,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:069",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1170,
+     "line_end": 1171,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:070",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1172,
+     "line_end": 1173,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:071",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1173,
+     "line_end": 1178,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "open_question q1",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:072",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1232,
+     "line_end": 1232,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:073",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1233,
+     "line_end": 1233,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1236,
+     "line_end": 1237,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:074",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1238,
+     "line_end": 1239,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1234,
+     "line_end": 1235,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:075",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1249,
+     "line_end": 1250,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:076",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1328,
+     "line_end": 1329,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:077",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1329,
+     "line_end": 1330,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:078",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1332,
+     "line_end": 1334,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:079",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1332,
+     "line_end": 1332,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:080",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1335,
+     "line_end": 1336,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:081",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1345,
+     "line_end": 1346,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:082",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1347,
+     "line_end": 1348,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:083",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1408,
+     "line_end": 1409,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:084",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1410,
+     "line_end": 1411,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:085",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1421,
+     "line_end": 1423,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:086",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1423,
+     "line_end": 1424,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:087",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1427,
+     "line_end": 1428,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:088",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1434,
+     "line_end": 1491,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:089",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1433,
+     "line_end": 1434,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:090",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1493,
+     "line_end": 1493,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:091",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1642,
+     "line_end": 1643,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:092",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1638,
+     "line_end": 1638,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1639,
+     "line_end": 1641,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:093",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1656,
+     "line_end": 1657,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:094",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1658,
+     "line_end": 1658,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:095",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1888,
+     "line_end": 1888,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:096",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2030,
+     "line_end": 2033,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:097",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2045,
+     "line_end": 2049,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:098",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2051,
+     "line_end": 2053,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:099",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2469,
+     "line_end": 2470,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:100",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2958,
+     "line_end": 2960,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:101",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2967,
+     "line_end": 2968,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2969,
+     "line_end": 2970,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:102",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2963,
+     "line_end": 2965,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:103",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5664,
+     "line_end": 5665,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5711,
+     "line_end": 5712,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:104",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3172,
+     "line_end": 3174,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:105",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3174,
+     "line_end": 3177,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:106",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6027,
+     "line_end": 6028,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6112,
+     "line_end": 6114,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:107",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6118,
+     "line_end": 6119,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:108",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6119,
+     "line_end": 6120,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "borghesi2012:109",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5806,
+     "line_end": 5807,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  }
+ ],
+ "summary": {
+  "claims": 109,
+  "verified": 109,
+  "needs_fix": 0,
+  "quotes": 174,
+  "quotes_verbatim": 174,
+  "warnings": 91,
+  "verified_rate": 1.0
+ }
+}

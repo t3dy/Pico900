@@ -32,9 +32,13 @@ from Farmer's edition (the source of the 900) with every claim traced to a sourc
 ## Building
 
 ```bash
-python scripts/integrity_gate.py --verify-quotes   # grade every field; write COVERAGE.md
-python scripts/build_html_site.py                   # build site/ (only sourced or unverified fields render)
-python scripts/predeploy_check.py                   # gate before any publish
+python scripts/build_corpus_registry.py            # the works and their locator files
+python scripts/extract_farmer_theses.py            # the 900 theses from Farmer's edition (gate G0)
+python scripts/harvest_mentions.py                 # every scholarly mention of every thesis, with statistics
+python scripts/build_dossiers.py                   # one research packet per thesis (the writer's input)
+python scripts/entry_gate.py                       # check entry drafts: locators, verbatim quotations, original translation
+python scripts/build_site_v2.py                    # build site/ from entries/ (verified as text; drafts badged)
+python scripts/predeploy_check.py                  # gate before any publish
 ```
 
 ## Licence

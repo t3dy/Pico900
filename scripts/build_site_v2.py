@@ -148,8 +148,8 @@ def main():
             B += ["<h2>Farmer's cross-references</h2>", "<ul>" + "".join(f"<li>{link(r)} <span lang='la'>{esc(by_id[r]['latin'][:140])}</span></li>" for r in refs if r in by_id) + "</ul>"]
         if e and e.get("connections"):
             B += ["<h2>Related theses</h2>", "<p>" + ", ".join(link(r) for r in e["connections"] if r in by_id) + "</p>"]
-        prev_l = link(order[i - 1], "&larr; " + order[i - 1]) if i > 0 else ""
-        next_l = link(order[i + 1], order[i + 1] + " &rarr;") if i + 1 < len(order) else ""
+        prev_l = f'<a href="{BASE}/theses/{slug(order[i - 1])}.html">&larr; {esc(order[i - 1])}</a>' if i > 0 else ""
+        next_l = f'<a href="{BASE}/theses/{slug(order[i + 1])}.html">{esc(order[i + 1])} &rarr;</a>' if i + 1 < len(order) else ""
         B.append(f'<nav class="pn"><span>{prev_l}</span><span>{next_l}</span></nav>')
         with io.open(os.path.join(SITE, "theses", slug(tid) + ".html"), "w", encoding="utf-8") as fh:
             fh.write(page(f"Thesis {tid}", "\n".join(B)))

@@ -48,8 +48,35 @@ def load(path):
         return json.load(fh)
 
 
+def chash(c):
+    """Identity of what a semantic reader judged: the restatement plus its quotations."""
+    import hashlib
+    body = c.get("text", "") + "|" + "|".join(q.get("text", "") for q in c.get("quotes", []) if isinstance(q, dict))
+    return hashlib.sha1(body.encode("utf-8")).hexdigest()[:10]
+
+
+def semantic_verdicts(packet):
+    """data/verification/claims/<packet>.semantic.json, written by the second (semantic) verifier:
+    {"packet": ..., "verifier": ..., "judged": [{"id", "hash", "verdict": supported|overreaches|wrong, "reason", "suggested_text"}]}"""
+    p = os.path.join(VERDICTS, packet + ".semantic.json")
+    if not os.path.exists(p):
+        return {}
+    return {j["id"]: j for j in load(p).get("judged", [])}
+
+
 def gn(s):
     return C.norm(s, digits=True)
+
+
+def grounded(n, ground):
+    """Is the normalised name/number present in the evidence, allowing derived forms (Neoplatonism/Neoplatonic,
+    Oratio/Oration, plurals)? Numbers must match exactly."""
+    if n in ground:
+        return True
+    if n.isdigit():
+        return False
+    stem = n[: max(5, len(n) - 3)]
+    return len(n) >= 6 and stem in ground
 
 
 def check_quote(q, where, issues, attribution, claimant, fix):
@@ -95,10 +122,12 @@ def check_quote(q, where, issues, attribution, claimant, fix):
         issues.append({"code": "primary_from_scholar", "severity": "error", "where": where,
                        "detail": "attribution primary_text but %s is a scholarly work, not an edition of Pico" % work})
     if attribution in ("scholar_claim", "scholar_report") and is_primary:
-        issues.append({"code": "scholar_from_primary", "severity": "error", "where": where,
-                       "detail": "a scholar's claim cannot be evidenced by Pico's own text alone; quote the scholar"})
+        issues.append({"code": "scholar_from_edition", "severity": "warn", "where": where,
+                       "detail": "scholar claim quoted from an edition of Pico (%s): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes" % work})
     if attribution in ("scholar_claim", "scholar_report") and not is_primary and claimant:
         author = C.registry().get(work, {}).get("author", "")
+        if re.search(r"\(eds?\.?\)|\beds\b|from file name", author.lower()):
+            author = claimant  # edited volume or unlabelled work: the essay's author is the claimant; the packet says which essay
         last = re.sub(r"[^A-Za-z]", "", claimant.split()[-1]).lower()
         if last and last not in re.sub(r"[^a-z ]", "", author.lower()):
             issues.append({"code": "claimant_mismatch", "severity": "warn", "where": where,
@@ -156,16 +185,16 @@ def check_claim(c, packet, fix, strict):
     # entity grounding: names and years in the restatement must occur in the evidence
     claimant_tokens = {gn(t) for t in c["claimant"].split()}
     seen = set()
-    for tok in NAME.findall(c["text"]) + YEAR.findall(c["text"]):
+    for tok in NAME.findall(re.sub(r"[’']s\b", "", c["text"])) + YEAR.findall(c["text"]):
         n = gn(tok)
         if tok in STOP or n in claimant_tokens or n in seen:
             continue
         seen.add(n)
-        if n not in ground and n[:-1] not in ground:  # crude plural/possessive tolerance
+        if not grounded(n, ground):
             issues.append({"code": "ungrounded_entity", "severity": "error" if strict else "warn", "where": "text",
                            "detail": "%r occurs in the restatement but in none of the quotations" % tok})
     for e in c.get("entities") or []:
-        if gn(e.split()[-1]) not in ground and gn(e) not in ground:
+        if not grounded(gn(e.split()[-1]), ground) and gn(e) not in ground:
             issues.append({"code": "ungrounded_entity", "severity": "error" if strict else "warn", "where": "entities",
                            "detail": "entity %r is in no quotation of this claim" % e})
     return issues, qv, wv
@@ -182,9 +211,14 @@ def verify_packet(path, fix, strict):
         return out, p, False
     ids = set()
     changed = False
+    sem = semantic_verdicts(packet)
     for c in claims:
         before = json.dumps(c, sort_keys=True)
         issues, qv, wv = check_claim(c, packet, fix, strict)
+        j = sem.get(c.get("id"))
+        if j and j.get("hash") == chash(c) and j.get("verdict") in ("overreaches", "wrong"):
+            issues.append({"code": "semantic_" + j["verdict"], "severity": "error", "where": "text",
+                           "detail": "second verifier: %s" % j.get("reason", ""), "suggested_text": j.get("suggested_text")})
         if c.get("id") in ids:
             issues.append({"code": "dup_id", "severity": "error", "where": "id", "detail": "duplicate id"})
         ids.add(c.get("id"))
@@ -254,9 +288,14 @@ def main():
             json.dump({"packet": base, "open": len(tickets), "tickets": tickets}, fh, indent=1, ensure_ascii=False)
         # a sample sheet for the second (semantic) verifier: 20% of verified claims, at least 5
         vc = [c for c in out["claims"] if c["status"] == "verified"]
-        random.Random(base).shuffle(vc)
-        take = {c["id"] for c in vc[: max(5, len(vc) // 5)]}
         byid = {c["id"]: c for c in p.get("claims", [])}
+        sem = semantic_verdicts(base)
+        unjudged = [c for c in vc if not (sem.get(c["id"]) and sem[c["id"]].get("hash") == chash(byid[c["id"]]))]
+        edited = [c for c in unjudged if c["id"] in sem]          # was flagged, has since been changed: re-judge first
+        rest = [c for c in unjudged if c["id"] not in sem]
+        random.Random(base).shuffle(rest)
+        want = max(5, len(vc) // 5) - (len(vc) - len(unjudged))    # judged claims already count toward the 20%
+        take = {c["id"] for c in edited} | {c["id"] for c in rest[: max(0, want)]}
         with io.open(os.path.join(VERDICTS, base + ".sample.md"), "w", encoding="utf-8", newline="\n") as fh:
             fh.write("# Semantic sample for %s\n\nFor each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.\n\n" % base)
             for cid in sorted(take):

@@ -87,7 +87,7 @@ docs/EDITORIAL_STANDARD.md  docs/ORCHESTRATION.md  docs/archive/
 scripts/integrity_gate.py    provenance grades, coverage ledger, quote verification (legacy entries)
 scripts/style_lint.py        mechanical AI-prose markers
 scripts/predeploy_check.py   DEPLOYER's gate for site/
-scripts/build_html_site.py   builds site/ from the legacy entries (to be re-pointed at entries/)
+scripts/build_site_v2.py     builds site/ from entries/ (verified as edition text, drafts badged); legacy builder in scripts/legacy/
 scripts/seed_inventory.py    writes farmer_structure.json, condemned_thirteen.json, quarantine.json from the audit
 scripts/build_corpus_registry.py  data/corpus/registry.json (78 works; locator files; roles)
 scripts/extract_farmer_theses.py  data/inventory/theses.json (the 900; gate G0)
