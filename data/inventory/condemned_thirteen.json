@@ -101,11 +101,11 @@
   {
    "q": 11,
    "topic": "Christ's miracles",
-   "farmer_id": "9>8 (UNCONFIRMED; 9>7 is the alternative)",
+   "farmer_id": "9>8",
    "farmer_line": 25204,
    "latin_incipit_farmer_ocr": "Miracula Christi non ratione rei factae, sed ratione modi faciendi, suae diuinitatis argumentum certissimum sunt",
    "repo_entry": "H.1.11",
-   "audit_result": "unfilled; identification unconfirmed"
+   "audit_result": "identification confirmed 2026-09-26 (WRITER-A3b): Farmer 7077-7084 (9>8 judged true and tolerable; 9>7 never questioned), Blum in dougherty2008:2240-2243, Garsia in edelheit2022:20927, Craven in howlett2021:2028"
   },
   {
    "q": 12,

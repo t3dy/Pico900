@@ -86,7 +86,7 @@ thirteen = [
     (8, "Freedom to believe", "4>18", 21862, "Dico probabiliter, et nisi esset communis modus dicendi theologorum in oppositum, firmiter assererem ... nullus credit aliquid esse uerum praecise quia uult credere id esse uerum", "H.1.8", "unfilled"),
     (9, "Eucharist: accidents", "4>1", 21439, "Qui dixerit accidens existere non posse nisi inexistat, Eucharistiae poterit sacramentum tenere etiam tenendo panis substantiam non remanere ut tenet communis uia", "H.1.9", "WRONG: repo states the opposite"),
     (10, "Eucharist: words of consecration", "4>10", 21666, "Illa uerba (hoc est corpus, etc.), quae in consecratione dicuntur, materialiter tenentur non significatiue", "H.1.10", "repo Latin invented, English distorted"),
-    (11, "Christ's miracles", "9>8 (UNCONFIRMED; 9>7 is the alternative)", 25204, "Miracula Christi non ratione rei factae, sed ratione modi faciendi, suae diuinitatis argumentum certissimum sunt", "H.1.11", "unfilled; identification unconfirmed"),
+    (11, "Christ's miracles", "9>8", 25204, "Miracula Christi non ratione rei factae, sed ratione modi faciendi, suae diuinitatis argumentum certissimum sunt", "H.1.11", "identification confirmed 2026-09-26 (WRITER-A3b): Farmer 7077-7084 (9>8 judged true and tolerable; 9>7 never questioned), Blum in dougherty2008:2240-2243, Garsia in edelheit2022:20927, Craven in howlett2021:2028"),
     (12, "Whether God understands", "3>49", 20990, "Magis improprie dicitur de deo quod sit intellectus uel intelligens, quam de anima rationali quod sit angelus", "H.1.12", "unfilled"),
     (13, "The hidden understanding of the soul", "3>60", 21254, "Nihil intelligit actu et distincte anima, nisi se ipsam", "H.1.13", "unfilled"),
 ]
