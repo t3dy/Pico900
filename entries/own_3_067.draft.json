@@ -1,0 +1,36 @@
+{
+ "thesis_id": "3>67",
+ "tier": "B",
+ "latin": "Cuilibet seriei animarum unus correspondet purus intellectus.",
+ "latin_source": "farmer1998:21342",
+ "translation": "To each series of souls there corresponds one pure intellect.",
+ "translation_note": "'Series' renders 'series animarum' as a ranked or ordered chain of souls, the sense required by the parallel theses 3>68-69 (farmer1998:21345, farmer1998:21348).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21342",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy'; Farmer's note treats it with 3>68-69 as a set concerning celestial souls (farmer1998:21373).",
+ "doctrine": "The thesis assigns one separate, pure intellect to each ordered series of souls (farmer1998:21342); Farmer's note glosses 'celestial souls' in this cluster as the rational souls that inhabit the heavenly bodies, though the further problem his note goes on to raise is not given complete in the material consulted (farmer1998:21373).",
+ "context": "Farmer's own cross-reference apparatus links this thesis, together with 3>68-69, to the Averroist theses on the unity of the intellect reported earlier in the Conclusiones: 7.2, 'Vna est anima intellectiua in omnibus hominibus' [there is one intellective soul in all men] (farmer1998:12937), 7.3 (farmer1998:12940), and 7.4, on whether an individuated intellect could survive death (farmer1998:12947).",
+ "historiography": "Dougherty's footnote on 7.2 explicitly directs the reader onward: \"See Conclusions 3>67-9\" (dougherty2008:9367), treating this cluster of Pico's own paradoxical theses as bearing on the Averroist unity-of-intellect question reported in section 7; an unauthored German-language study groups 3>67 with 3>68 in a note on Pico's Neoplatonic and Chaldean sources, alongside conclusions attributed to Proclus (24.45, 24.51) and to the Chaldean theologians (26.5) (kabbalah_paradigma:1441).",
+ "connections": [
+  "3>68",
+  "3>69",
+  "7.2",
+  "7.3",
+  "7.4"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "See Conclusions 3>67-9.",
+   "work": "dougherty2008",
+   "line": 9367,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico intends the 'pure intellects' of this thesis to be identical with, or merely analogous to, the single Averroist intellect of 7.2-4 is not stated in the sources consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

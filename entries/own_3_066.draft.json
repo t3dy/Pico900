@@ -1,0 +1,28 @@
+{
+ "thesis_id": "3>66",
+ "tier": "B",
+ "latin": "Potest anima per extrinsecam informationem ad hoc deuenire, ut omnia per substantialem suam formam indiuisibiliter intelligat.",
+ "latin_source": "farmer1998:21278",
+ "translation": "The soul can come, by an extrinsic informing, to the point where it understands all things indivisibly through its own substantial form.",
+ "translation_note": "'Indiuisibiliter': the mode of understanding proper to a substantial form, not the discursive, divisible mode of ordinary cognition; Farmer's note groups this thesis with the surrounding cluster as central to Pico's theory of knowledge (farmer1998:21288).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21278",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy' (kabbalah_paradigma:1324).",
+ "doctrine": "The thesis holds that the soul, informed from outside itself, can come to understand all things at once and indivisibly through its own substantial form, rather than piecemeal (farmer1998:21278); Farmer's apparatus cross-references it to 3>60, 'Nihil intelligit actu et distincte anima, nisi se ipsam' [the soul understands nothing actually and distinctly, except itself] (farmer1998:21254).",
+ "historiography": "Farmer's own note describes this thesis, with its neighbors, as among the key propositions of Pico's theory of knowledge, and points to a fuller discussion elsewhere in his book without giving its content here (farmer1998:21288); an unauthored German-language study cites it together with 3>60, 3>61, and 3>52 as a further group bearing on self-knowledge and the unity of the sciences (kabbalah_paradigma:1695).",
+ "connections": [
+  "3>60",
+  "3>61",
+  "3>52",
+  "3>64",
+  "3>65"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The content of Farmer's fuller discussion referenced at farmer1998:21288 is not given in the material consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

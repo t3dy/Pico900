@@ -1,0 +1,33 @@
+{
+ "thesis_id": "3>64",
+ "tier": "B",
+ "latin": "Intellectualis natura, quae est in anima rationali supra naturam rationalem, praecise differt a natura intellectuali pura sicut differt pars a toto.",
+ "latin_source": "farmer1998:21270",
+ "translation": "The intellectual nature that exists in the rational soul, above the rational nature, differs precisely from the pure intellectual nature as a part differs from a whole.",
+ "translation_note": "The part/whole figure is Pico's own; it recurs in the immediately following thesis, 3>65 (farmer1998:21274).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21270",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy' (kabbalah_paradigma:1320).",
+ "doctrine": "The thesis distinguishes, within the rational soul, an intellectual nature that stands to a further, 'pure' intellectual nature as a part stands to its whole (farmer1998:21270); Dougherty prints the Latin of this thesis in a footnote on Pico's theory of the intellect, immediately followed by his own report that Dulles \"ultimately rejects Pico's doctrine of the intellect as incoherent,\" though the passage of Dulles quoted there breaks off before its reasoning can be checked in the material consulted (dougherty2008:9373).",
+ "historiography": "An unauthored German-language study of Pico's epistemology and Kabbalah cites this thesis together with the next two, 3>65 and 3>66, as a sequence of 'paradoxical' conclusions on the structure of intellect (kabbalah_paradigma:1320).",
+ "connections": [
+  "3>65",
+  "3>66"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Dulles ultimately rejects Pico's doctrine of the intellect as incoherent",
+   "work": "dougherty2008",
+   "line": 9373,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Pico's own textual source or model for this thesis is not identified in the sources consulted.",
+  "Which of Pico's several theses on the intellect Dulles's judgment (as reported by Dougherty) addresses is not specified in the material consulted (dougherty2008:9373)."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

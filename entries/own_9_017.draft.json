@@ -1,0 +1,27 @@
+{
+ "thesis_id": "9>17",
+ "tier": "B",
+ "latin": "Illius naturae quae est orizon temporis et aeternitatis propria est magia, inde est petenda per modos debitos, notos sapientibus.",
+ "latin_source": "farmer1998:25358",
+ "latin_note": "The apparatus records a 1487 variant, 'per modos debitos notus', for the copy-text's 'notos' (farmer1998:25385).",
+ "translation": "To that nature which is the horizon of time and eternity, magic properly belongs; from it, magic is to be sought by the due methods, known to the wise.",
+ "translation_note": "'orizon' is kept as in the neighboring theses 9>16 and 9>18, which place natures at the same kind of threshold but assign them, respectively, to the magus's proximity alone and to Cabala (farmer1998:25354; farmer1998:25362).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25358",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25358).",
+ "sources": [],
+ "doctrine": "This is the middle term of the 'horizon' triad begun at 9>16 and completed at 9>18; it assigns magic, as opposed to the Cabala assigned in 9>18, as the discipline proper to the nature standing at the horizon of time and eternity (farmer1998:25358).",
+ "context": null,
+ "reception": null,
+ "historiography": "Mandosio quotes this thesis's Latin alongside 9>16 and 9>18 as Concl. mag. 16-18 in Pico's 1998 edition, page 500 (mandosio2012:559).",
+ "connections": ["9>16", "9>18"],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Farmer records no separate explanatory note on this thesis beyond its place among the numbered magic conclusions (research-packets/own_9_017.md).",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

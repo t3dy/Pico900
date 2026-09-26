@@ -1,0 +1,26 @@
+{
+ "thesis_id": "10>3",
+ "tier": "B",
+ "latin": "Nomina deorum quos Orpheus canit non decipientium demonum, a quibus malum et non bonum prouenit. Sed naturalium uirtutum diuinarumque sunt nomina, a uero deo in utilitatem maxime hominis, si eis uti sciuerit, mundo distributarum.",
+ "latin_source": "farmer1998:25580",
+ "translation": "The names of the gods that Orpheus sings are not the names of deceiving demons, from whom evil and not good proceeds. Rather, they are the names of natural and divine powers, distributed through the world by the true God chiefly for man's benefit, if he knows how to use them.",
+ "translation_note": "Farmer's cumulative numbering places this thesis as the 800th of the collection (data/inventory/theses.json, thesis_id 10>3).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25580",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 10> (Orphic Hymns) (farmer1998:25580).",
+ "sources": [],
+ "doctrine": "Farmer reads the thesis as making the Orphic gods symbols of whatever material or spiritual 'powers' lay hidden in the sublunary, celestial, and (probably) angelic worlds (farmer1998:25657).",
+ "context": "The thesis follows Pico's defense, at 9>1-2, of natural magic as licit and not prohibited, and extends that defense to the Orphic gods by denying they are demonic (farmer1998:25111; farmer1998:25117).",
+ "reception": null,
+ "historiography": "Busi and Ebgi quote the thesis's Latin from their edition, Conclusiones, page 504, n. 10>3, in a form with minor orthographic variants from Farmer's copy-text ('provenit' for 'prouenit', 'divinarumque' for 'diuinarumque') (busi2014:17278).",
+ "connections": ["10>1", "10>7", "9>1", "9>2", "5>4", "8>3"],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Farmer's fuller discussion of divine and demonic powers, referenced immediately after the excerpted note, is not given in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

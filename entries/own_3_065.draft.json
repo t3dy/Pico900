@@ -1,0 +1,25 @@
+{
+ "thesis_id": "3>65",
+ "tier": "B",
+ "latin": "Quia intellectus animalis differt ab intellectu intellectuali ut pars media, non ut pars tantum, ideo intellectuali totalitati magis parificatur.",
+ "latin_source": "farmer1998:21274",
+ "translation": "Because the animal intellect differs from the intellectual intellect as a middle part, and not merely as a part, it is therefore the more made equal to the intellectual totality.",
+ "translation_note": "'Pars media' (a mediating, not merely a subordinate, part) continues the part/whole vocabulary of the immediately preceding thesis, 3>64 (farmer1998:21270).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21274",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy' (kabbalah_paradigma:1322).",
+ "doctrine": "The thesis refines the preceding one's part/whole account of intellect by distinguishing a merely subordinate part from a 'middle' or mediating part, holding that the animal intellect, because it mediates, is thereby more nearly equalized to the intellectual totality than a plain part would be (farmer1998:21274).",
+ "historiography": "The one study that cites this thesis in the material consulted quotes it immediately after 3>64 and before 3>66 in a single footnote, treating the three as a connected sequence (kabbalah_paradigma:1322).",
+ "connections": [
+  "3>64",
+  "3>66"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "No discussion of this thesis's doctrinal content, beyond its citation alongside 3>64 and 3>66, is found in the sources consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

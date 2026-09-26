@@ -1,0 +1,28 @@
+{
+ "thesis_id": "3>68",
+ "tier": "B",
+ "latin": "Omnes animae coelestes in primo intellectu unum sunt.",
+ "latin_source": "farmer1998:21345",
+ "translation": "All the celestial souls are one in the first intellect.",
+ "translation_note": "'Primus intellectus' is left untranslated as a technical term rather than rendered 'first intellect' loosely; Farmer's note identifies 'celestial souls' here as the rational souls of the heavenly bodies (farmer1998:21373).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21345",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy'; grouped by Farmer's note with 3>67 and 3>69 (farmer1998:21373).",
+ "doctrine": "Where the preceding thesis assigns one pure intellect to each series of souls, this one asserts that all celestial souls specifically are unified in a single, 'first' intellect (farmer1998:21345); Farmer's cross-reference apparatus again links the cluster 3>67-69 to the Averroist unity-of-intellect theses 7.2 (farmer1998:12937), 7.3 (farmer1998:12940), and 7.4 (farmer1998:12947).",
+ "historiography": "Dougherty's note tying 3>67-69 as a group to the Averroist thesis 7.2, 'Vna est anima intellectiua in omnibus hominibus' (dougherty2008:9367), applies to this thesis as one of the three in that cluster; an unauthored German-language study likewise quotes 3>67 and this thesis together in a note on Pico's Neoplatonic and Chaldean citations (kabbalah_paradigma:1442).",
+ "connections": [
+  "3>67",
+  "3>69",
+  "7.2",
+  "7.3",
+  "7.4"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Whether the unity of celestial souls asserted here is meant as identity of substance or of operation is not addressed in the sources consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

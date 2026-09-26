@@ -1,0 +1,40 @@
+{
+ "thesis_id": "3>71",
+ "tier": "B",
+ "latin": "Empedocles per litem et amicitiam in anima nihil aliud intelligit quam potentiam sursum ductiuam et deorsum ductiuam in ea, quas ego credo proportionari in scientia sephirot aeternitati et decori.",
+ "latin_source": "farmer1998:21360",
+ "translation": "By strife and friendship in the soul, Empedocles understands nothing other than an upward-leading and a downward-leading power within it, which I believe correspond, in the science of the sefirot, to Eternity and Beauty.",
+ "translation_note": "Farmer's note identifies 'eternity' and 'adornment/beauty' as Pico's ciphers for the seventh and eighth sefirot and directs the reader to his discussion of the corresponding numbering at 11>66 (farmer1998:21419); Farmer's note also refers to Empedocles fragments in Diels's numbering, apparently frr. 16ff., though the reference is not given complete in the material consulted (farmer1998:21419).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch14, from Latin at farmer1998:21360",
+ "pico_stance": "endorses",
+ "attribution": "Among the conclusions Pico titles 'paradoxical, according to his own opinion, introducing new teachings in philosophy' (farmer1998:21360).",
+ "sources": [
+  {
+   "text": "Empedocles on strife (Neikos) and friendship (Philia) as cosmic powers",
+   "locator": "farmer1998:21419",
+   "pico_relation": "Pico allegorizes the pair as an upward- and downward-leading power in the soul, which he equates with two sefirot"
+  }
+ ],
+ "doctrine": "Pico reads Empedocles's cosmic principles of strife and friendship allegorically, as an upward- and a downward-leading power within the soul, and then maps that pair onto two sefirot of the Kabbalistic decad, which he names as Eternity and Beauty/Adornment (farmer1998:21360); Farmer's apparatus cross-references this identification to 11>66, where Pico sets out a fuller, systematic adaptation of the soul's faculties to all ten sefirot: 'Ego animam nostram sic decem sephirot adapto, ut per unitatem suam sit cum prima, per intellectum cum secunda...' [I so adapt our soul to the ten sefirot, that it is with the first through its unity, with the second through intellect...] (farmer1998:27834).",
+ "historiography": "Wirszubski's edition of the passage reproduces Pico's Latin with his own interpretive glosses inserted in brackets, identifying 'aeternitati' as the seventh sefirah and 'decori' as the eighth: \"quas ego credo proportionari in scientia Sephirot aeternitati [= septimae] et decori [= octavae]\" (wirszubski1989:9642); this numbering matches Farmer's independent identification of the same pair of sefirot at the same point (farmer1998:21419).",
+ "connections": [
+  "11>66",
+  "4>1"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Conclusio lxxi: Empedocles per litem et amicitiam in anima nihil aliud intelligit quam potentiam sursum ductiuam et deorsum ductiuam in ea, quas ego credo proportionari in scientia Sephirot aeternitati [= septimae] et decori [= octavae].",
+   "work": "wirszubski1989",
+   "line": 9642,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's apparatus also cross-references this thesis to 4>1, on the Eucharist, but the sources consulted do not explain the connection between them.",
+  "The Diels fragment numbers Farmer's note apparently cites for Empedocles are not given in full in the material consulted."
+ ],
+ "writer": "WRITER-full-batch14 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

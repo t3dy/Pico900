@@ -1,0 +1,39 @@
+{
+ "thesis_id": "20.7",
+ "tier": "B",
+ "latin": "Foelicitas hominis ultima est cum particularis intellectus noster totali primoque intellectui plene coniungitur.",
+ "latin_source": "farmer1998:15105",
+ "translation": "Man's final happiness is when our particular intellect is fully conjoined to the total and first intellect.",
+ "translation_note": "'totali primoque intellectui' (the total and first intellect) reflects the Plotinian universal Intellect (Nous); the thesis casts humanity's final happiness as full union of one's own particular intellect with that universal intellect, phrased in scholastic Latin that Farmer notes is syncretically imposed on Plotinus by Pico (farmer1998:15135).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:15105",
+ "pico_stance": "reports",
+ "attribution": "Reports Plotinus (farmer1998:15105).",
+ "sources": [
+  {
+   "text": "Averroes' parallel formula that man's final happiness is when the agent intellect is conjoined to the possible intellect as its form (thesis 7.3)",
+   "locator": "farmer1998:12940",
+   "pico_relation": "the near-identical opening formula pairs this thesis with 7.3 as parallel accounts, under Averroes and Plotinus respectively, of intellectual beatitude"
+  }
+ ],
+ "doctrine": "The thesis holds that man's final happiness consists in the full conjunction of one's own particular intellect with the total and first intellect (farmer1998:15105). Farmer's note states that this uses Latin scholastic terminology syncretically imposed on Plotinus by Pico (farmer1998:15135). The wording closely parallels thesis 7.3, attributed to Averroes, which holds that man's final happiness is when the agent intellect is conjoined to the possible intellect as its form (farmer1998:12940), suggesting a deliberate structural pairing of the Averroist and Plotinian accounts of intellectual beatitude.",
+ "context": "Black quotes the thesis's Latin under the heading 'Conc. sec. Plotinum, 7' (page 66 of the Schefer edition), in the same footnote sequence as thesis 7.3 and a third thesis on attaining God by act of intellect, cited there as 'Conc. in Theologia … sec. opinionem propriam, 11' (black2006:10027).",
+ "reception": "",
+ "historiography": "Black is the only scholar in the material opened to discuss this thesis, and does so only by way of juxtaposed citation, without further comment (black2006:10027).",
+ "connections": ["7.3", "3>43"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Felicitas hominis ultima est, cum particularis intellectus noster totali primoque intellectui plene coniungitur.",
+   "work": "black2006",
+   "line": 10027,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The continuation of Farmer's note ('Series starts at...') is cut off in the material consulted; which thesis begins the series is not established.",
+  "The content of the third thesis Black cites (Conc. in Theologia … sec. opinionem propriam, 11), beyond its citation, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

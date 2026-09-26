@@ -1,0 +1,45 @@
+{
+ "thesis_id": "21.6",
+ "tier": "B",
+ "latin": "Quia sicut dixit Abdala, videre somnia est fortitudo imaginationis, intelligere ea est fortitudo intellectus, ideo qui uidet ea ut plurimum non intelligit ea.",
+ "latin_source": "farmer1998:15358",
+ "translation": "For, as Abdala said, seeing dreams is a matter of the imagination's strength, and understanding them a matter of the intellect's strength; and so whoever sees them mostly fails to understand them.",
+ "translation_note": "'Abdala'/'Abdallah': Farmer's note states that the identity of this 'Abdallah' is uncertain (farmer1998:15378). 'Fortitudo' is rendered 'strength' rather than the later, narrower moral sense of 'fortitude' (farmer1998:15358).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:15358",
+ "pico_stance": "reports",
+ "attribution": "Reports Adeland the Arab, citing 'Abdala' (farmer1998:15358).",
+ "sources": [
+  {
+   "text": "Averroes' thesis on prophecy occurring in dreams through illumination of the agent intellect",
+   "locator": "farmer1998:12864",
+   "pico_relation": "Farmer's note cross-references thesis 7.1 for this cluster of theses on dreams and prophecy"
+  },
+  {
+   "text": "Plato's Timaeus 71d-72c, where the liver is the seat of the irrational soul that receives inspired images during sleep, illness, or divine possession",
+   "locator": "farmer1998:15378",
+   "pico_relation": "Farmer's note gives this as the background for why those who have visions cannot properly interpret them"
+  }
+ ],
+ "doctrine": "The thesis holds, citing a saying attributed to 'Abdala', that seeing dreams is a matter of the strength of the imagination while understanding them is a matter of the strength of the intellect, so that whoever sees dreams mostly fails to understand them (farmer1998:15358). Farmer's note groups this thesis with 21.4-21.5 and cross-references thesis 7.1, attributed to Averroes, on the possibility of prophecy in dreams through illumination of the agent intellect (farmer1998:15378; farmer1998:12864). He explains the underlying theory by reference to Plato's Timaeus 71d-72c, where the liver is the seat of the irrational soul, which receives inspired images from the intellect during sleep, illness, or divine possession, and states that those who have such visions are consequently not in the proper mental state to interpret them (farmer1998:15378). Farmer states that the identity of 'Abdallah' is uncertain, and remarks, in a passage cut off in the material consulted, that the opening line of the Oration ('Nothing is more miraculous than man!') is 'similarly...' -- the point of the comparison is not given (farmer1998:15378).",
+ "context": "Busi and Ebgi propose identifying 'Abdala' with Abdallah ibn Salam, a Jew of Medina to whom tradition attributes Qur'an 46:10, but state that, as far as is known, no source attributes to this figure any saying resembling the one Pico reports here (busi2014:1241).",
+ "reception": "",
+ "historiography": "Busi and Ebgi are the only scholars in the material opened to discuss this thesis (busi2014:1241). They add that, given the fabrications scattered about by a figure they call 'Mitridate', one cannot deny that the exaltation of human capacities attributed here to 'Abdala' resembles, in certain respects, an anthropology otherwise found elsewhere, though the comparison is cut off in the material consulted (busi2014:1241).",
+ "connections": ["7.1", "21.4"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Per quanto noto, nessuna fonte attribuisce però a tale personaggio un detto simile a quello riportato qui da Pico.",
+   "work": "busi2014",
+   "line": 1241,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's note on the comparison between this thesis and the opening line of the Oration is cut off in the material consulted; the point of the comparison is not established.",
+  "The full text of Busi and Ebgi's comparison between the anthropology attributed here to 'Abdala' and the anthropology it is said to resemble is cut off in the material consulted.",
+  "The identity of the figure Busi and Ebgi call 'Mitridate' is not further identified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

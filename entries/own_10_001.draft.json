@@ -1,0 +1,33 @@
+{
+ "thesis_id": "10>1",
+ "tier": "B",
+ "latin": "Sicut secretam magiam a nobis primum ex Orphei hymnis elicitam_fas non est in publicum explicare, ita nutu quodam, ut in infrascriptis fiet conclusionibus, eam per amphorismorum capita demonstrasse, utile erit ad excitandas contemplatiuorum mentes.",
+ "latin_source": "farmer1998:25569",
+ "translation": "Just as it is not permitted to set forth publicly the secret magic first drawn out by us from the hymns of Orpheus, so it will be useful, by a kind of hint, as will happen in the conclusions written below, to have shown it through the headings of aphorisms, so as to arouse the minds of contemplatives.",
+ "translation_note": "'a nobis primum...elicitam' stakes a claim of originality; Farmer's note reads this claim of priority as aimed at Ficino, whose own commentary on the Orphic Hymns predates Pico's (farmer1998:25645). On Pico's technical use of 'aphorism' Farmer cross-refers to 8>6 and 11>57 (farmer1998:25645).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25569",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, opening thesis of section 10> (Orphic Hymns) (farmer1998:25569).",
+ "sources": [],
+ "doctrine": "The thesis states Pico's method for the Orphic Hymns theses that follow: rather than publish the secret magic he claims first to have drawn from the Hymns, he will demonstrate it obliquely, by a 'kind of hint', through the headings of aphorisms (farmer1998:25569).",
+ "context": "Farmer's note reads Pico's stress on his own originality here as directed against Ficino, 'who years earlier had composed his own commentary on the Hymns' (farmer1998:25645).",
+ "reception": null,
+ "historiography": "Wirszubski quotes the opening of this thesis verbatim from Pico's Opera, pp. 106-107, connecting it to Pico's stated method of interpreting the Hymns 'secundum Magiam' (wirszubski1989:9987). Busi and Ebgi likewise print the thesis's Latin from the Conclusiones, page 504 (busi2014:17236).",
+ "connections": ["10>2", "10>3", "10>7", "8>6", "11>57"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "who years earlier had composed his own commentary on the Hymns",
+   "work": "farmer1998",
+   "line": 25645,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's fuller account of Ficino's earlier commentary on the Orphic Hymns, beyond the brief note reference, is not given in the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
