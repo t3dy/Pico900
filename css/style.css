@@ -1,0 +1,17 @@
+
+:root{--ink:#1e1a16;--paper:#faf7f1;--rule:#d8cfc0;--accent:#7a2e1d;--muted:#6b625a;--badge:#b7791f;--ok:#2e6b3f}
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--paper);color:var(--ink);line-height:1.5}
+header.top{border-bottom:1px solid var(--rule);padding:14px 24px;display:flex;gap:18px;align-items:baseline;flex-wrap:wrap}
+header.top a{color:var(--accent);text-decoration:none}header.top .brand{font-size:1.15rem;font-weight:bold}
+main{max-width:980px;margin:0 auto;padding:24px}h1{font-weight:normal;font-size:1.7rem;margin:.2em 0}
+h2{font-size:1.05rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:1.6em 0 .4em;border-bottom:1px solid var(--rule)}
+.latin{font-size:1.15rem;line-height:1.55}[lang=la]{font-style:italic}.translation{font-size:1.08rem}
+.badge{display:inline-block;font:.72rem sans-serif;letter-spacing:.03em;padding:1px 6px;border-radius:3px;background:#f3e6c9;color:var(--badge);border:1px solid #e3cf9a;vertical-align:middle}
+.badge.ok{background:#e3efe6;color:var(--ok);border-color:#bcd7c3}.badge.cond{background:#f6dcd6;color:var(--accent);border-color:#e6b8ad}
+.meta{color:var(--muted);font-size:.92rem}.notice{background:#fff8e6;border:1px solid #e9d9a8;padding:10px 14px;margin:14px 0;font-size:.95rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}.card{border:1px solid var(--rule);padding:10px 12px;background:#fff;border-radius:4px}
+.card a{color:var(--accent);text-decoration:none}table{border-collapse:collapse;width:100%;font-size:.95rem}td,th{border-bottom:1px solid var(--rule);padding:6px 8px;text-align:left;vertical-align:top}
+.loc{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.82rem;color:var(--muted)}ul.cites li{margin:.25em 0}
+nav.pn{display:flex;justify-content:space-between;margin-top:28px;border-top:1px solid var(--rule);padding-top:10px}nav.pn a{color:var(--accent);text-decoration:none}
+footer{border-top:1px solid var(--rule);color:var(--muted);font-size:.85rem;padding:16px 24px;margin-top:40px}
+@media (max-width:600px){main{padding:16px}header.top{padding:10px 16px}}
