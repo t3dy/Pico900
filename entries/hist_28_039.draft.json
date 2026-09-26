@@ -1,0 +1,36 @@
+{
+ "thesis_id": "28.39",
+ "tier": "B",
+ "latin": "Ex praecedenti conclusione intelligitur cur in Genesi a timore laudatur Abraam, quem tamen scimus per proprietatem pietatis omnia fecisse ex amore.",
+ "latin_source": "farmer1998:18294",
+ "translation": "From the preceding conclusion it is understood why in Genesis Abraham is praised for fear, whom nevertheless we know, by the property of piety, to have done everything out of love.",
+ "translation_note": "'ex praecedenti conclusione', i.e. thesis 28.38, is kept as a cross-reference rather than resolved into the present sentence; 'proprietatem pietatis' ('the property of piety') as at 28.37, glossed by Farmer as the fourth sefirah (paraphrase, farmer1998:18317).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18294",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18294).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, per Wirszubski (1989: 47-48)",
+   "locator": "farmer1998:18317",
+   "pico_relation": "Farmer's shared note for 28.38-39 records Recanati as Pico's apparent source, citing Wirszubski"
+  }
+ ],
+ "doctrine": "Farmer treats 28.38 and 28.39 under a single note as resolving a commentarial debate over whether fear or love of God is superior in medieval Kabbalism, citing Scholem (1974: 175) (paraphrase, farmer1998:18317). On his reading, this thesis draws out the consequence of 28.38's two 'modes' of fear: Abraham is praised in Genesis for fear even though, by the higher mode identified with piety and love, he in fact acted from love throughout (paraphrase, farmer1998:18317).",
+ "historiography": "Wirszubski quotes the thesis immediately after 28.38, without a separate heading, as its continuation (wirszubski1989:2729).",
+ "connections": ["10>10", "11>50", "28.38"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Ex praecedenti conclusione intelligitur, cur in Genesi [22:12] a timore laudatur Abraham, quem tarnen scimus per proprietatem pietatis omnia fecisse ex amore.",
+   "work": "wirszubski1989",
+   "line": 2729,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the bracketed verse reference '[22:12]' in Wirszubski's quotation is his own editorial addition or reproduces something in Pico's text is not established by the material consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

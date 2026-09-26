@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.37",
+ "tier": "B",
+ "latin": "Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis.",
+ "latin_source": "farmer1998:18201",
+ "translation": "By the secret of the prayer before dawn we ought to understand nothing other than the property of piety.",
+ "translation_note": "'antelucanae' ('before dawn, early-morning') and 'proprietatem pietatis' ('the property of piety') are rendered literally; Farmer glosses 'piety' as naming the fourth sefirah (paraphrase, farmer1998:18275).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18201",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18201).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, fol. 52va",
+   "locator": "wirszubski1989:2708",
+   "pico_relation": "Wirszubski cross-refers the thesis to this passage of Recanati"
+  }
+ ],
+ "doctrine": "Farmer's note glosses 'early morning prayer' as an allusion to Abraham's early rising in Genesis 19:27, and 'piety' as the fourth sefirah, elsewhere symbolized by 'Abraham' (paraphrase, farmer1998:18275). He states that Pico would have used theses of this kind to underline the affinities he saw between the sefirotic system and its scriptural correlates, though the note as excerpted does not complete the comparison (paraphrase, farmer1998:18275).",
+ "historiography": "Wirszubski quotes the thesis in full and cross-refers it to Recanati, fol. 52va (wirszubski1989:2708).",
+ "connections": ["24.6"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis.",
+   "work": "wirszubski1989",
+   "line": 2708,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The wording of Recanati's fol. 52va, beyond Wirszubski's cross-reference to it, is not established by the sources consulted.",
+  "The affinity Farmer's note gestures toward between the sefirotic system and its scriptural correlates is not spelled out in the excerpt consulted; not established further."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,41 @@
+{
+ "thesis_id": "2.38",
+ "tier": "B",
+ "latin": "Grauia potius seipsis, quam a seipsis mouentur.",
+ "latin_source": "farmer1998:11784",
+ "translation": "Heavy bodies are moved in themselves rather than by themselves.",
+ "translation_note": "'seipsis' (ablative, 'in themselves') is distinguished from 'a seipsis' (ablative of agency, 'by themselves'); the thesis denies heavy bodies are self-movers while granting the motion is intrinsic to them.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11784",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11784); paired by Farmer with thesis 2.37 (farmer1998:11863).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, commentary on Aristotle's Physics, Book 8, Lect. 7",
+   "locator": "edelheit2022:12514",
+   "pico_relation": "Edelheit's identified locus for Thomas's classification of per se, a seipso, and related modes of motion"
+  }
+ ],
+ "doctrine": "The thesis distinguishes moving 'in themselves' (seipsis) from moving 'by themselves' (a seipsis), denying heavy bodies the stronger status of self-movers. Edelheit reports that Thomas's commentary on Aristotle's Physics, Book 8, Lecture 7, sets out a classification of ways of moving, including per se and a seipso, against which the thesis is to be read, and that on this classification heavy and light bodies 'are moved by an external or generating mover which provides them with form or prohibits anything to withdraw, and thus they do not move themselves like living bodies' (edelheit2022:12514).",
+ "context": "Farmer groups this thesis with 2.37 as the first pair in a series on the Aristotelian principle that whatever is moved is moved by another, tracing both to Thomas's Commentary on the Physics 7-8 (farmer1998:11863).",
+ "historiography": "Edelheit (2022) reads thesis 38 as completing, alongside thesis 37, Pico's restatement of Thomas's Aristotelian classification of movers, distinguishing bodies moved by an external or generating cause from living bodies that move themselves (edelheit2022:12514).",
+ "connections": [
+  "2.37",
+  "4.18",
+  "6.11",
+  "7.7",
+  "7.12"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "why, Thomas concludes, heavy and light bodies are moved by an external or generating mover which provides them with form or prohibits anything to withdraw, and thus they do not move themselves like living bodies",
+   "work": "edelheit2022",
+   "line": 12514,
+   "verbatim": true
+  }
+ ],
+ "not_established": [],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

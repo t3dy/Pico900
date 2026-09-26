@@ -1,0 +1,48 @@
+{
+ "thesis_id": "5.8",
+ "tier": "B",
+ "latin": "Irascibilis et concupiscibilis ita distinguuntur in appetitu superiori sicut in",
+ "latin_source": "farmer1998:12505",
+ "latin_note": "Farmer's OCR extraction breaks off after 'sicut in', omitting the final word. Edelheit's quotation of the printed text gives the complete reading: 'Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.' (edelheit2022:15657).",
+ "translation": "The irascible and the concupiscible are distinguished in the higher appetite in the same way as in the lower.",
+ "translation_note": "Translated from the complete reading recovered at edelheit2022:15657 ('...sicut in inferiori'), since the Farmer transcription at farmer1998:12505 breaks off before the final word (see latin_note).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12505",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12505; edelheit2022:15631).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet VIII, question 15",
+   "locator": "edelheit2022:15631",
+   "pico_relation": "Edelheit's identified source, on whether the rational appetite distinguishes irascible from concupiscent power"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis holds that the irascible and concupiscent powers are divided in the same way in both the superior and the inferior appetite, and that the question is discussed at Henry's Quodlibet VIII, question 15, on whether the rational appetite distinguishes irascible from concupiscent power (paraphrase, edelheit2022:15631). Farmer's note cross-references his note to thesis 2.11 on the 'irascible' and 'sensual' passions as two broad classes of emotion (paraphrase, farmer1998:12588).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15657).",
+ "connections": [
+  "2.34",
+  "25.9",
+  "4.10",
+  "7a>70"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 8 states that irascible and concupiscent [powers] are divided in the same way in both the superior and the inferior appetite.",
+   "work": "edelheit2022",
+   "line": 15631,
+   "verbatim": true
+  },
+  {
+   "text": "Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.",
+   "work": "edelheit2022",
+   "line": 15657,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

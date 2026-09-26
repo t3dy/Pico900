@@ -1,0 +1,47 @@
+{
+ "thesis_id": "5.7",
+ "tier": "B",
+ "latin": "Angeli intelligunt per habitum scientialem sibi connaturalem.",
+ "latin_source": "farmer1998:12502",
+ "translation": "Angels understand through a scientific habit connatural to them.",
+ "translation_note": "'Habitus scientialis... connaturalis': Farmer glosses 'habitus connaturalis' as a habit or infused property created simultaneously with a nature but not included in its formal definition or essence (paraphrase, farmer1998:12580).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12502",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12502; edelheit2022:15595).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet V, question 14",
+   "locator": "edelheit2022:15595",
+   "pico_relation": "Edelheit's identified source, where Henry discusses whether a separated intellect has its own proper natural habit"
+  }
+ ],
+ "doctrine": "Edelheit continues his joint treatment of theses 6 and 7 on angelology, reporting that thesis 7 holds that angels understand through a scientific habit which is natural to them, a doctrine he finds at Henry's Quodlibet V, question 14, where Henry discusses whether a separated intellect has its own proper natural habit (paraphrase, edelheit2022:15595). Farmer's note groups this thesis with a series of closely related theses on the knowledge of angels, intelligences and the intellectual nature, cross-referencing thesis 18.7 and Pico's own theses 5>41 and 7a>28-29, which use the 'way of numbers' (paraphrase, farmer1998:12580, farmer1998:12586).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15618).",
+ "connections": [
+  "18.7",
+  "2.34",
+  "25.9",
+  "4.10",
+  "5>41",
+  "6.7",
+  "7.17",
+  "7a>28",
+  "7a>29",
+  "7a>70"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "According to thesis 7 angels understand through a scientific habit which is natural to them.",
+   "work": "edelheit2022",
+   "line": 15595,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

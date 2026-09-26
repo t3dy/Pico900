@@ -1,0 +1,38 @@
+{
+ "thesis_id": "2.30",
+ "tier": "B",
+ "latin": "Ens dicit immediate decem conceptus ita inter se unitos ut non unius sint, sed ad unum.",
+ "latin_source": "farmer1998:11668",
+ "translation": "Being immediately signifies ten concepts, united with one another in such a way that they are not of one thing, but are ordered toward one.",
+ "translation_note": "'ens ... ad unum' states the pros-hen (analogical, not univocal) unity of being across the ten Aristotelian categories; 'unum' is left substantival to preserve the ambiguity of the Latin.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11668",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11668).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Commentaria in libros Aristotelis de generatione et corruptione, Lib. 1, Lect. 6 (Leonine ed., vol. 3, Rome, 1886), p. 285",
+   "locator": "edelheit2022:12131",
+   "pico_relation": "the Thomistic locus Edelheit identifies behind the thesis's doctrine of the ten categories as Pico's 'conceptus interuniti'"
+  }
+ ],
+ "doctrine": "The thesis restates, in Pico's own vocabulary, the doctrine that being (ens) is not a univocal genus above the ten Aristotelian categories but a set of concepts unified only by their common order toward a first, non-generic unity (farmer1998:11668). Edelheit places thesis 30 in a series continuing thesis 23's account of the relation between unity and being, reporting that being 'immediately implies ten concepts (that is, the ten categories) which correspond with one another' (edelheit2022:12078). Edelheit further reports that Pico is here 'using his own terminology (conceptus interuniti)' and traces the doctrine to Thomas Aquinas's commentary on Aristotle's De generatione et corruptione (edelheit2022:12131).",
+ "context": "Farmer notes that thesis 30 continues 'the series on metaphysical unity' opened at thesis 23, on the relation between unity and being (farmer1998:11749).",
+ "historiography": "Edelheit (2022) reads thesis 30 as Pico's terminological reworking of the Thomistic account of being's distribution across the categories, identifying Thomas's Commentary on Aristotle's De generatione et corruptione as the source text and Pico's phrase conceptus interuniti as his own coinage (edelheit2022:12131).",
+ "connections": [
+  "2.23",
+  "2>7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico is using his own terminology (conceptus interuniti).",
+   "work": "edelheit2022",
+   "line": 12131,
+   "verbatim": true
+  }
+ ],
+ "not_established": [],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,44 @@
+{
+ "thesis_id": "2.37",
+ "tier": "B",
+ "latin": "Grauia et leuia a nullo alio motore mouentur quam uel a generante uel a remouente prohibens.",
+ "latin_source": "farmer1998:11780",
+ "translation": "Heavy and light bodies are moved by no mover other than either the one that generates them or the one that removes an obstacle.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11780",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11780).",
+ "sources": [
+  {
+   "text": "Auctoritates Aristotelis (medieval florilegium of excerpted authoritative sentences)",
+   "locator": "edelheit2022:12523",
+   "pico_relation": "Caroti's identified immediate textual source for the thesis's wording, per Edelheit's citation"
+  }
+ ],
+ "doctrine": "The thesis states the Aristotelian principle, drawn from Physics 8, that heavy and light bodies do not move themselves but are moved either by whatever generated them or by whatever removes an obstacle to their natural motion (farmer1998:11863). Edelheit summarizes it as 'a very standard piece of Aristotelian physics', distinguishing a mover that generates motion, whether an internal principle as in living beings or an external one as when a man moves a stone, from a factor that merely removes an obstacle (edelheit2022:12498).",
+ "context": "Edelheit reports that Caroti has traced this thesis to the Auctoritates Aristotelis, a medieval florilegium of excerpted sentences, rather than directly to Aristotle's own text (edelheit2022:12523).",
+ "historiography": "Farmer (1998) reads the thesis as opening a series on the Aristotelian principle that everything moved is moved by another (farmer1998:11863); Edelheit (2022) supplies Caroti's identification of the Auctoritates Aristotelis, rather than Aristotle's Physics directly, as its likely immediate textual source (edelheit2022:12523).",
+ "connections": [
+  "2.38",
+  "4.18",
+  "6.11",
+  "7.7",
+  "7.12",
+  "2>36",
+  "2>37",
+  "2>9",
+  "7a>44"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Caroti has shown that this thesis is found in the Auctoritates Aristotelis",
+   "work": "edelheit2022",
+   "line": 12523,
+   "verbatim": true
+  }
+ ],
+ "not_established": [],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

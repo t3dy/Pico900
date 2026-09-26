@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.43",
+ "tier": "B",
+ "latin": "Ideo Moysis sepulchrum nemo nouit, quia exaltatus est in Iobeleo superiore, et super Iobeleum misit radices suas.",
+ "latin_source": "farmer1998:18310",
+ "translation": "Therefore no one knows the sepulcher of Moses, because he was exalted into the higher jubilee, and above the jubilee he sent forth his roots.",
+ "translation_note": "'Iobeleo'/'Iobeleum' transliterate the Hebrew yovel ('jubilee'); Farmer glosses 'superior jubilee'/'jubilee' as apparent references to the third sefirah (Binah, 'intelligence') and the sixth (Tiferet, 'beauty', the 'great Adam') (paraphrase, farmer1998:18381).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18310",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18310).",
+ "sources": [
+  {
+   "text": "Zohar, part I, fol. 21v",
+   "locator": "wirszubski1989:2840",
+   "pico_relation": "Wirszubski cites the Zohar's discussion of why Moses's burial place was hidden, then argues the direct source is Recanati rather than the Zohar"
+  }
+ ],
+ "doctrine": "Farmer glosses 'superior jubilee' and 'jubilee' as apparent references to the third sefirah, Binah ('intelligence'), and the sixth, Tiferet ('beauty', the 'great Adam'), cross-referring thesis 28.13 (paraphrase, farmer1998:18381).",
+ "historiography": "Wirszubski quotes the thesis and reports that 'the Zohar, part I, fol. 21v, considers the question why it was that' Moses's sepulcher was unknown, though the excerpt consulted breaks off before completing the Zohar's answer (wirszubski1989:2840). He then argues, from the absence of the 'Superior Tree', 'Superior Earth', and Jeremiah 17:8 from that Zohar passage, that these elements' presence in Pico's theses 'argues conclusively that the direct source of these theses is Recanati, not the Zohar' (wirszubski1989:2880). He further notes that the Latin rendering of Jeremiah 17:8 as 'et super Iobeleum misit radices suas' shows, in his phrase, 'the touch of the same expert hand' that translated the Liber de Radicibus, Cod. Vat. Ebr. 190, fol. 241r (wirszubski1989:2880).",
+ "connections": ["28.13", "28.42"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Ideo Moysis sepulchrum nemo nouit, quia exaltatus est in Iobeleo super- iore, et super Iobeleum misit radices suas.",
+   "work": "wirszubski1989",
+   "line": 2840,
+   "verbatim": true
+  },
+  {
+   "text": "their presence in Pico's theses argues conclusively that the direct source of these theses is Recanati, not the Zohar",
+   "work": "wirszubski1989",
+   "line": 2880,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The full content of the Zohar passage (part I, fol. 21v) on Moses's hidden sepulcher is not given in the material consulted, only that Wirszubski cites it and then argues against it as Pico's direct source."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

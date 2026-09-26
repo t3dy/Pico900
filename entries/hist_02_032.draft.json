@@ -1,0 +1,54 @@
+{
+ "thesis_id": "2.32",
+ "tier": "B",
+ "latin": "De eadem re nullo modo actu distincta extra animam possunt uerificari contradictoria.",
+ "latin_source": "farmer1998:11763",
+ "translation": "Of one and the same thing, in no way actually distinct outside the soul, contradictories can be verified.",
+ "translation_note": "The transmitted Latin carries no overt negation ('possunt uerificari', not 'non possunt'); Edelheit's paraphrase renders the sense as a denial, 'it is impossible... to be established or proved' (edelheit2022:12212), which matches Farmer's gloss of the thesis as an application of the law of noncontradiction (farmer1998:11797). The translation given here follows the transmitted Latin literally; whether a negation has dropped from the copy-text is not established by the sources consulted.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11763",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11763).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super libros Sententiarum, 1, d. 2, q. 1, a. 3",
+   "locator": "edelheit2022:12242",
+   "pico_relation": "Edelheit's identified locus for Thomas's account of how a mental conception relates to a thing outside the soul, behind the thesis's terms"
+  }
+ ],
+ "doctrine": "Farmer glosses 'distinct outside the soul' as distinguished in a real, extramental sense, and situates the thesis against Thomas's commentary on Aristotle's Metaphysics 2.7-11 and 11.5-6, on the metaphysical form of the law of noncontradiction (farmer1998:11797). Edelheit paraphrases the thesis as holding that, of the same thing, actually distinct and outside the soul, it is impossible for contradictory claims to be established or proved, and traces its vocabulary of 'a thing outside the soul' to Thomas's Sentences commentary (edelheit2022:12212, 12242).",
+ "context": "Farmer records that Thomas held predicating contradictions of a single, really undivided object would erase all distinction between separate beings, and contrasts this with Pico's own later position that contradictories can coincide, developed in a run of Pico's own theses (3>13-3>20) on contradiction in the intellectual and 'unial' nature (farmer1998:11797).",
+ "historiography": "Farmer (1998) reads the thesis within the scholastic debate on noncontradiction and flags Pico's later, divergent theses on contradictories coinciding in the intellectual nature (farmer1998:11797); Edelheit (2022) traces its terms to Thomas's Sentences commentary on how a mental conception relates to an extramental thing (edelheit2022:12212, 12242).",
+ "connections": [
+  "2.7",
+  "2.8",
+  "2.9",
+  "2.10",
+  "2.11",
+  "3>13",
+  "3>14",
+  "3>15",
+  "3>16",
+  "3>17",
+  "3>18",
+  "3>20",
+  "7.21",
+  "8.6",
+  "18.3",
+  "2>52"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Unde sciendum, quod ipsa conceptio intellectus tripliciter se habet ad rem quae est extra animam",
+   "work": "edelheit2022",
+   "line": 12242,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the copy-text of the thesis has lost a negation before 'possunt uerificari' is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

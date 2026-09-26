@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.38",
+ "tier": "B",
+ "latin": "Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior amore.",
+ "latin_source": "farmer1998:18290",
+ "translation": "Just as outwardly fear is inferior to love, so inwardly it is superior to love.",
+ "translation_note": "'extrinsecus'/'intrinsecus' rendered 'outwardly'/'inwardly', tracking Farmer's account of the thesis as distinguishing hierarchical 'modes' of fear (paraphrase, farmer1998:18317).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18290",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18290).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, per Wirszubski (1989: 47-48)",
+   "locator": "farmer1998:18317",
+   "pico_relation": "Farmer's note records Recanati as Pico's apparent source, citing Wirszubski"
+  }
+ ],
+ "doctrine": "Farmer's note reads the thesis, paired with 28.39, as resolving a commentarial debate over the relative superiority of fear and love of God in medieval Kabbalism, citing Scholem (1974: 175) for the debate (paraphrase, farmer1998:18317). He states that Pico resolves the problem 'in typically syncretic fashion by distinguishing hierarchical \"modes\" of fear', associating these modes with sefirot above and below the fourth, Hesed, which Pico calls 'love' or 'piety' and symbolizes by Abraham (paraphrase, farmer1998:18317). Farmer connects the lower mode of fear to 'Isaac' and the fifth sefirah, cross-referring thesis 10>10, and states that Pico's apparent source is Recanati, citing Wirszubski (1989: 47-48) (paraphrase, farmer1998:18317).",
+ "historiography": "Wirszubski quotes the thesis together with 28.39 as his 'Conclusiones XXXVIII and XXXIX' (wirszubski1989:2726).",
+ "connections": ["10>10", "11>50"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior amore.",
+   "work": "wirszubski1989",
+   "line": 2726,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Scholem (1974: 175) on the fear/love debate is known here only through Farmer's citation of it, not from having opened that source; not established further.",
+  "The full text of Wirszubski (1989: 47-48) on Recanati as Pico's source is not in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

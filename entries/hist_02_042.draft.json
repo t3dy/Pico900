@@ -1,0 +1,37 @@
+{
+ "thesis_id": "2.42",
+ "tier": "B",
+ "latin": "Quiditates in particulari a methaphysico non considerantur.",
+ "latin_source": "farmer1998:11889",
+ "translation": "Quiddities in the particular are not considered by the metaphysician.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11889",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11889).",
+ "doctrine": "The thesis restricts the metaphysician's proper object to quiddities taken universally, not as instantiated in particular individuals. Edelheit calls this 'an obvious conclusion which can be drawn from different discussions of Thomas — following Aristotle — regarding philosophical disciplines and their proper objects' (edelheit2022:12745), and reports finding in Ockham's own presentation of Thomas's view 'a formulation which is almost identical to Pico's thesis' (edelheit2022:12745).",
+ "historiography": "Edelheit (2022) reads thesis 42 as a standard restatement of a Thomistic-Aristotelian position on the metaphysician's proper object, noting its near-identity to a formulation he finds in Ockham's presentation of Thomas (edelheit2022:12745).",
+ "connections": [
+  "1.14",
+  "1.15",
+  "2.25",
+  "2.29",
+  "4.7",
+  "4.8",
+  "2>5",
+  "2>6"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "This seems like an obvious conclusion which can be drawn from different discussions of Thomas – following Aristotle – regarding philosophical disciplines and their proper objects",
+   "work": "edelheit2022",
+   "line": 12745,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No specific Thomistic locus (work and article) is named in the material consulted for this thesis, only 'different discussions of Thomas' in general (edelheit2022:12745)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

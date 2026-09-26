@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.41",
+ "tier": "B",
+ "latin": "Omnis anima bona_est anima noua ueniens ab oriente.",
+ "latin_source": "farmer1998:18302",
+ "latin_note": "Farmer's transcription shows an underscore, 'bona_est'; read as two words, 'bona est' (farmer1998:18302), confirmed by Wirszubski's quotation 'Omnis anima bona est anima noua ueniens ab Oriente' (wirszubski1989:2817).",
+ "translation": "Every good soul is a new soul coming from the east.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18302",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18302).",
+ "sources": [
+  {
+   "text": "Sefer ha-Bahir, section 104 (ed. Scholem)",
+   "locator": "wirszubski1989:2817",
+   "pico_relation": "Wirszubski names the Bahir passage, Cod. Vat. Ebr. 191, fol. 312v, as the source of this thesis"
+  }
+ ],
+ "doctrine": "Farmer's note records that Wirszubski (1989: 49) cites a passage of the Sefer ha-Bahir associating 'east' with the seventh sefirah, and adds that the Sefer Yetzirah, which Pico also knew, offers a further point of comparison not completed in the excerpt consulted (paraphrase, farmer1998:18368).",
+ "historiography": "Wirszubski states that 'the source of this thesis, as Gershom Scholem pointed out to me, is the Bahir (§104 ed. Scholem), Cod. Vat. Ebr. 191, fol. 312v' (wirszubski1989:2817). Elsewhere he places the thesis's manuscript location among a block of theses drawn from Recanati, noting that it 'treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va', and calls its position among the Recanati-derived theses 'remarkable' (wirszubski1989:3184).",
+ "connections": ["11>21", "24.27"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Omnis anima bona est anima noua ueniens ab Oriente.",
+   "work": "wirszubski1989",
+   "line": 2817,
+   "verbatim": true
+  },
+  {
+   "text": "the source of this thesis, as Gershom Scholem pointed out to me, is the Bahir",
+   "work": "wirszubski1989",
+   "line": 2817,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the Bahir passage reached Pico directly or through Recanati's quotation of it is left open by Wirszubski in the excerpt consulted, not established further."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

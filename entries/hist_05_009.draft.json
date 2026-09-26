@@ -1,0 +1,41 @@
+{
+ "thesis_id": "5.9",
+ "tier": "B",
+ "latin": "Habere aliquiditatiuam et diffinibilem realitatem commune est figmentis et non figmentis.",
+ "latin_source": "farmer1998:12603",
+ "translation": "To have a quidditative and definable reality is common to both figments and non-figments.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12603",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12603; edelheit2022:15675).",
+ "sources": [
+  {
+   "text": "Duns Scotus, opposing Henry on quidditative reality (Scotus's position reported at theses 4.7-4.8)",
+   "locator": "farmer1998:12623",
+   "pico_relation": "Farmer notes an overview of this Scotus/Henry conflict, and a strong link to thesis 3.5 of Francis of Meyronnes"
+  }
+ ],
+ "doctrine": "Farmer's note directs the reader to theses 4.7-8 for an overview of the conflict between Scotus and Henry on this point, and records a strong link to thesis 3.5 from Francis of Meyronnes (paraphrase, farmer1998:12623). Edelheit reports that the thesis holds that having some specific and definable reality is common to both the imaginary and the non-imaginary, and connects it forward to his discussion of thesis 11 on relation (paraphrase, edelheit2022:15675).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 244 (edelheit2022:15697).",
+ "connections": [
+  "3.5",
+  "4.7",
+  "4.8"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 9 we find that having some specific and definable reality is common to both imaginary and non-imaginary.",
+   "work": "edelheit2022",
+   "line": 15675,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's note refers to this thesis by the number '3.9'; how this relates to its listing here as thesis 5.9 in the Henry of Ghent series is not established by the sources consulted.",
+  "The specific locus in Henry's Quodlibeta corresponding to this thesis, beyond Edelheit's forward reference to his discussion of thesis 11: not established by the sources consulted.",
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

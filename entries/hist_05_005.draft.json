@@ -1,0 +1,35 @@
+{
+ "thesis_id": "5.5",
+ "tier": "B",
+ "latin": "Demones et animae peccatrices patiuntur ab igne, in quantum calidus est, afflictione eiusdem rationis cum ea qua affliguntur corpora.",
+ "latin_source": "farmer1998:12495",
+ "translation": "Demons and sinful souls suffer from fire, insofar as it is hot, with an affliction of the same kind as that by which bodies are afflicted.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12495",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12495; edelheit2022:15482).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet VIII, question 34",
+   "locator": "edelheit2022:15508",
+   "pico_relation": "Edelheit's identified source, discussing whether corporeal fire can afflict a spirit"
+  }
+ ],
+ "doctrine": "Farmer's note attaches the thesis to Peter Lombard's Sentences, book 4, distinction 44, questions 6-7, and suggests that Pico's interest lay in the metaphysical correspondence between physical and spiritual operations (paraphrase, farmer1998:12530). Edelheit reports that the question is discussed at Henry's Quodlibet VIII, question 34, where Henry takes up whether corporeal fire can cause affliction in a spirit, drawing on John of Damascus's view that only God is unlimited by anything, while an angel is limited by time and place (paraphrase, edelheit2022:15482, edelheit2022:15508).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15508).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It states that demons and sinful souls suffer from fire, inasmuch as it is hot, by a suffering of the same kind as that which bodies suffer.",
+   "work": "edelheit2022",
+   "line": 15482,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter, or any discussion of it in Pico's Apologia: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

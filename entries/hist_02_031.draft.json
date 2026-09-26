@@ -1,0 +1,38 @@
+{
+ "thesis_id": "2.31",
+ "tier": "B",
+ "latin": "Essentia et existentia in quolibet creato realiter distinguuntur.",
+ "latin_source": "farmer1998:11760",
+ "translation": "Essence and existence are really distinguished in anything created.",
+ "translation_note": "'realiter distinguuntur' marks the strong, real (not merely conceptual) distinction, as against a distinctio rationis.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11760",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11760).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, De ente et essentia, p. 112",
+   "locator": "edelheit2022:12189",
+   "pico_relation": "the text Edelheit identifies as Thomas's classic discussion of the real distinction the thesis reports"
+  }
+ ],
+ "doctrine": "The thesis states the real distinction between essence and existence in every created being, the doctrine by which Thomas Aquinas separated the metaphysics of creatures, in which essence and existence differ, from that of God, in whom they are identical (edelheit2022:12161). Edelheit reports that Thomas discusses the distinction in De ente et essentia, arguing that a creature's essence or quiddity can be understood without knowing whether it exists in reality, since 'I can understand what a man or a phoenix is and yet not know whether it has being in nature' (edelheit2022:12189).",
+ "historiography": "Edelheit (2022) reads thesis 31 as moving from the unity of being (thesis 30) to the further scholastic distinction between essence and existence, and identifies Thomas's De ente et essentia as its source text (edelheit2022:12161, 12189).",
+ "connections": [
+  "2.30"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "possum enim intelligere quid est homo vel fenix et tamen ignorare an esse habeat in rerum natura",
+   "work": "edelheit2022",
+   "line": 12189,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Edelheit's remark comparing the ten categories to Ockham's distinction of being, one, and the categories concerns thesis 30, not 31, and is not used here as evidence for thesis 31 (edelheit2022:12161)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

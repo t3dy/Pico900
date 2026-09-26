@@ -1,0 +1,45 @@
+{
+ "thesis_id": "2.41",
+ "tier": "B",
+ "latin": "Potentiae animae ab anima realiter distinguuntur.",
+ "latin_source": "farmer1998:11886",
+ "translation": "The powers of the soul are really distinguished from the soul.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11886",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11886).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super Sententiis, 4, d. 44, q. 3, a. 3, qc. 1",
+   "locator": "edelheit2022:12720",
+   "pico_relation": "Edelheit's identified locus for Thomas's discussion of the soul's essence and its sensory and intellectual faculties"
+  }
+ ],
+ "doctrine": "The thesis asserts a real distinction between the soul and its own powers or faculties. Edelheit reports that Thomas's commentary on the Sentences (4, d. 44, q. 3, a. 3, qc. 1) discusses the soul's essence together with its sensory and intellectual potencies, after rejecting one possible account of their relation (edelheit2022:12698, 12720).",
+ "context": "Farmer notes the thesis continues a series begun at 1.12 (farmer1998:11948).",
+ "historiography": "Edelheit (2022) reads thesis 41 as moving from an epistemological question about the intellect and the intelligible object (theses 39-40) to the more general Thomistic question of the soul's real distinction from its faculties, treated in Thomas's Sentences commentary (edelheit2022:12698, 12720).",
+ "connections": [
+  "1.14",
+  "1.15",
+  "2.25",
+  "2.29",
+  "4.7",
+  "4.8",
+  "2>5",
+  "2>6"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Et propter hoc quidam potentias animae sensibiles distinguunt: dicunt enim, has esse duplices: quasdam quae sunt actus",
+   "work": "edelheit2022",
+   "line": 12720,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Thomas's own conclusion on the question, beyond the cited fragment, is not given in the material consulted (edelheit2022:12720)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

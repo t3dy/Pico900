@@ -1,0 +1,45 @@
+{
+ "thesis_id": "5.6",
+ "tier": "B",
+ "latin": "Operationes angelorum mensurantur tempore discreto.",
+ "latin_source": "farmer1998:12499",
+ "translation": "The operations of angels are measured by discrete time.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12499",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12499; edelheit2022:15499).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet II, question 9",
+   "locator": "edelheit2022:15499",
+   "pico_relation": "Edelheit's identified source for the doctrine that angelic operations are measured by discrete time"
+  }
+ ],
+ "doctrine": "Farmer's note states that Pico discusses this issue in the Apologia (paraphrase, farmer1998:12578). Edelheit treats theses 6 and 7 together as angelology, reporting that thesis 6 holds that operations of angels are measured by definite time, with traces of the doctrine at Henry's Quodlibet II, question 9, a text he notes Pico knew well from the discussion of the Apology elsewhere in his book (paraphrase, edelheit2022:15499).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15521).",
+ "connections": [
+  "18.7",
+  "1>8",
+  "5>41",
+  "6.7",
+  "6>1",
+  "7.17",
+  "7a>28",
+  "7a>29"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 6 we find that operations of angels are measured by definite time.",
+   "work": "edelheit2022",
+   "line": 15499,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Pico's discussion of this issue in the Apologia (Opera, 128), beyond Farmer's bare reference to it: not established by the sources consulted.",
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

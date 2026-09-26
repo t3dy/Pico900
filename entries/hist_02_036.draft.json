@@ -1,0 +1,38 @@
+{
+ "thesis_id": "2.36",
+ "tier": "B",
+ "latin": "Duo accıdentia solo numero differentia non sunt in eodem subiecto.",
+ "latin_source": "farmer1998:11777",
+ "translation": "Two accidents differing only in number are not in the same subject.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11777",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11777).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super libros Sententiarum, 2, d. 13, q. 1, a. 3, arg. 2",
+   "locator": "edelheit2022:12480",
+   "pico_relation": "Edelheit's identified locus for Thomas's argument about numerically identical accidents said to be united and separated"
+  }
+ ],
+ "doctrine": "Farmer explains that, apart from special cases such as the Eucharist, Thomas held that accidents draw their existence and unity from the substance in which they inhere, so that positing two numerically distinct but otherwise identical accidents in one subject would be contradictory (farmer1998:11859). Edelheit reports Thomas's Sentences commentary arguing that things 'mutually united and separated while remaining the same in number' [cannot be so related] (edelheit2022:12452, 12480).",
+ "context": "Farmer notes the Eucharist as the standing scholastic exception to the rule that accidents depend on their substance, since there the accidents of bread are held to remain without their substance (farmer1998:11859).",
+ "historiography": "Edelheit (2022) situates thesis 36 as running counter to a view he finds elsewhere in Pico's engagement with Ockham as mediated by Thomas (edelheit2022:12452); Farmer (1998) reads it as governed by the general Thomist principle that accidents' unity derives from their substantial subject, the Eucharist apart (farmer1998:11859).",
+ "connections": [
+  "2.37"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "quaecumque conjunguntur et separantur ab invicem, manentia eadem numero, non sunt",
+   "work": "edelheit2022",
+   "line": 12480,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The predicate completing Thomas's argument ('...non sunt [in eodem subiecto]') is cut off in the material consulted; its exact wording is not established from the sources at hand (edelheit2022:12480)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

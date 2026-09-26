@@ -1,0 +1,38 @@
+{
+ "thesis_id": "2.35",
+ "tier": "B",
+ "latin": "Haec propositio: Homo est risibilis, non est in secundo modo dicendi per se.",
+ "latin_source": "farmer1998:11773",
+ "translation": "This proposition, 'A man is capable of laughter', is not in the second mode of per se predication.",
+ "translation_note": "'risibilis' is the Aristotelian textbook proprium of man; 'secundus modus dicendi per se' names the Aristotelian demonstrative mode in which a subject is predicated of its proper accident, as Farmer's note explains (farmer1998:11854).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11773",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11773).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Expositio Posteriorum Analyticorum, Lib. 1, Lect. 8, n. 8",
+   "locator": "edelheit2022:12389",
+   "pico_relation": "Edelheit's identified locus where Thomas uses 'homo est risibilis' as the example proposition for this mode of demonstration"
+  }
+ ],
+ "doctrine": "Farmer glosses the 'second mode of speaking' as predication of a proprium or 'proper accident' (farmer1998:11854). Edelheit reports that thesis 35 denies that the proposition 'a human being is capable of laughter' belongs to the second per se mode, and identifies Thomas's commentary on Aristotle's Posterior Analytics as the source of the example, where the proposition serves a circular demonstration (edelheit2022:12367, 12389).",
+ "context": "Farmer notes that homo est risibilis was Thomas's own standard textbook example of the second mode of per se predication, so that the thesis, denying the example fits its own textbook category, 'was apparently meant as a challenge to the Thomist school' (farmer1998:11854).",
+ "historiography": "Edelheit (2022) reads the thesis against Thomas's use of the risibilis example in a circular-demonstration argument in the Posterior Analytics commentary (edelheit2022:12367, 12389); Farmer (1998) reads it as a deliberate provocation aimed at the Thomist school's own textbook case (farmer1998:11854).",
+ "connections": [
+  "2.24",
+  "2.37"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Haec propositio: Homo est risibilis, non est in secundo modo dicendi per se.",
+   "work": "edelheit2022",
+   "line": 12389,
+   "verbatim": true
+  }
+ ],
+ "not_established": [],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

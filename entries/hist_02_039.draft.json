@@ -1,0 +1,35 @@
+{
+ "thesis_id": "2.39",
+ "tier": "B",
+ "latin": "Phantasma est agens secundarium et instrumentale in productione speciei intelligibilis.",
+ "latin_source": "farmer1998:11878",
+ "translation": "The phantasm is a secondary and instrumental agent in the production of the intelligible species.",
+ "translation_note": "'phantasma', per Farmer's note, denotes a sensory image (farmer1998:11904); 'species intelligibilis' is the scholastic term for the intelligible form abstracted by the agent intellect.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11878",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11878).",
+ "doctrine": "Farmer glosses phantasma as a sensual image, placing the thesis within a series beginning at 1.1 on Thomistic epistemology of cognition (farmer1998:11904). Edelheit reads the thesis as holding that the phantasm plays only a secondary, instrumental role in producing the intelligible species, and observes that Pico here is 'more cautious than Thomas', preferring the probabilistic formula potius ... quam, also used in the neighboring thesis 38, over a full commitment (edelheit2022:12566).",
+ "historiography": "Edelheit (2022) reads thesis 39 as carrying the immediately preceding theses on modes of motion into a parallel epistemological register, noting Pico's characteristically cautious, comparative phrasing (edelheit2022:12566).",
+ "connections": [
+  "2.1",
+  "3>40",
+  "4.19",
+  "4.20",
+  "7.25"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Phantasma est agens secundarium et instrumentale in productione speciei intelligibilis.",
+   "work": "edelheit2022",
+   "line": 12587,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The further aim Edelheit attributes to Pico ('to increase the independence of...') is not given before the excerpt in the packet breaks off (edelheit2022:12566)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,47 @@
+{
+ "thesis_id": "2.43",
+ "tier": "B",
+ "latin": "Implicat contradictionem, materiam esse sine forma.",
+ "latin_source": "farmer1998:11892",
+ "translation": "It implies a contradiction for matter to exist without form.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch4, from Latin at farmer1998:11892",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11892).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Quaestiones de quolibet, 3, q. 1, a. 1",
+   "locator": "edelheit2022:12922",
+   "pico_relation": "the article Edelheit cites for Thomas's argument that matter existing without form entails a contradiction"
+  }
+ ],
+ "doctrine": "The thesis denies the possibility, even to divine power, of matter existing without form. Edelheit reports that Francis of Marchia offers 'a similar formulation' concluding that metaphysics does not consider quiddity in the particular but only separated quiddities, and that Thomas, in the Quaestiones de quolibet (3, q. 1, a. 1), argues that God cannot make contradictories true together, and that matter existing without form would be such a contradiction (edelheit2022:12897, 12922).",
+ "reception": "Edelheit reports that thesis 43, together with theses 20 and 40, is 'included among the theses which were criticized by Bernardo Torni', to be discussed further in a later chapter of his book not excerpted here (edelheit2022:12897). A passage Edelheit quotes from Torni's Opuscoli filosofici e medici (p. 68) argues against 'the 43rd conclusion' by presupposing a definition of matter as an ungenerable, incorruptible entity from which, together with form, the composite is precisely constituted (edelheit2022:17815).",
+ "historiography": "Edelheit (2022) connects thesis 43 to Francis of Marchia's parallel formulation and to Thomas's Quaestiones de quolibet on the impossibility of formless matter, and records Bernardo Torni's contemporary criticism of the thesis (edelheit2022:12897, 12922, 17815).",
+ "connections": [
+  "2.25",
+  "2.29",
+  "2.44"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Deus non potest facere contradictoria esse simul. Sed materiam esse sine forma implicat contradictionem, eo quod esse materiae",
+   "work": "edelheit2022",
+   "line": 12922,
+   "verbatim": true
+  },
+  {
+   "text": "Contra 43am conclusionem, que in forma sic habetur: ‘Implicat contradictionem materiam esse sine forma’, arguitur presupponendo quod per materiam nos intelligimus talem entitatem ingenerabilem et incorruptibilem ad sensum phylosophorum omnium, ex qua et forma precise constituitur compositum, ita quod materia non aliud significet vel connotet quam talem entitatem.",
+   "work": "edelheit2022",
+   "line": 17815,
+   "verbatim": true,
+   "note": "Edelheit quoting Bernardo Torni, Opuscoli filosofici e medici, p. 68; cited here from edelheit2022, not read directly in Torni's edition."
+  }
+ ],
+ "not_established": [
+  "The full text of Thomas's argument in the Quaestiones de quolibet beyond the quoted fragment is not given in the material consulted (edelheit2022:12922)."
+ ],
+ "writer": "WRITER-full-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
