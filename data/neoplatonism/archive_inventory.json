@@ -1,0 +1,176 @@
+{
+  "archive_root": "e:\\pdf\\Neoplatonism",
+  "last_scanned": "2026-09-25",
+  "directories": [
+    {
+      "name": "Apuleis",
+      "description": "Works by/on Apuleius (Middle Platonist demonology)",
+      "priority": "high",
+      "content_types": ["primary_texts", "secondary_scholarship"],
+      "philosophers": ["apuleius"],
+      "key_topics": ["daemon_cosmology", "magic", "intermediaries"],
+      "estimated_files": "8-12"
+    },
+    {
+      "name": "Beierwaltes",
+      "description": "Werner Beierwaltes scholarship on Neoplatonism and medieval reception",
+      "priority": "high",
+      "content_types": ["secondary_scholarship"],
+      "philosophers": ["plotinus", "porphyry", "proclus", "pseudo_dionysius"],
+      "key_topics": ["ontology", "emanation", "henology", "medieval_transmission"],
+      "estimated_files": "15-20",
+      "notes": "Beierwaltes is a leading authority; essential for Pico connections"
+    },
+    {
+      "name": "Chaldean Oracles",
+      "description": "Chaldean Oracles texts, fragments, and scholarly work",
+      "priority": "high",
+      "content_types": ["primary_texts", "secondary_scholarship"],
+      "philosophers": ["chaldean_oracles", "iamblichus"],
+      "key_topics": ["divine_names", "theurgy", "fire_theology"],
+      "estimated_files": "10-15",
+      "notes": "Crucial for Pico's theurgic theses and prisca theologia"
+    },
+    {
+      "name": "Christian Platonism",
+      "description": "Pseudo-Dionysius, Ficino, medieval/Renaissance Christian Platonism",
+      "priority": "high",
+      "content_types": ["primary_texts", "secondary_scholarship"],
+      "philosophers": ["pseudo_dionysius", "ficino", "aquinas"],
+      "key_topics": ["angelic_hierarchies", "divine_names", "henads", "medieval_transmission"],
+      "estimated_files": "12-18",
+      "notes": "Transmission layer between ancient Neoplatonism and Pico"
+    },
+    {
+      "name": "Iamblichus",
+      "description": "Works by/on Iamblichus (theurgy, De Mysteriis)",
+      "priority": "critical",
+      "content_types": ["primary_texts", "secondary_scholarship"],
+      "philosophers": ["iamblichus"],
+      "key_topics": ["theurgy", "divine_working", "henads", "daemon_hierarchy"],
+      "estimated_files": "8-12",
+      "notes": "Central for Pico's theurgic propositions"
+    },
+    {
+      "name": "Michael J B Allen",
+      "description": "Michael J B Allen scholarship (major Pico-Neoplatonism expert)",
+      "priority": "critical",
+      "content_types": ["secondary_scholarship"],
+      "philosophers": ["plotinus", "porphyry", "proclus", "ficino"],
+      "key_topics": ["pico_neoplatonism", "henology", "henads", "triadic_theology"],
+      "estimated_files": "15-25",
+      "notes": "Allen is THE expert on Pico's Neoplatonism; consult first for every Neoplatonist thesis"
+    },
+    {
+      "name": "Nicomachus",
+      "description": "Nicomachus materials (arithmetic, Pythagorean numerology)",
+      "priority": "medium",
+      "content_types": ["primary_texts", "secondary_scholarship"],
+      "philosophers": ["nicomachus"],
+      "key_topics": ["number_mysticism", "arithmetic", "harmonic_cosmology"],
+      "estimated_files": "5-8"
+    },
+    {
+      "name": "O-Meara",
+      "description": "Dominic O'Meara scholarship on Platonism",
+      "priority": "medium",
+      "content_types": ["secondary_scholarship"],
+      "philosophers": ["plotinus", "porphyry", "proclus"],
+      "key_topics": ["ontology", "metaphysics", "neoplatonic_tradition"],
+      "estimated_files": "8-12"
+    }
+  ],
+  "loose_files": [
+    {
+      "filename": "(Commentaria in Aristotelem Graeca et Byzantina_ 9) Riccardo Chiaradonna - Ontology in Early Neoplatonism_ Plotinus, Porphyry, Iamblichus-De Gruyter (2023).pdf",
+      "authors": ["Riccardo Chiaradonna"],
+      "title": "Ontology in Early Neoplatonism: Plotinus, Porphyry, Iamblichus",
+      "year": 2023,
+      "philosophers": ["plotinus", "porphyry", "iamblichus"],
+      "key_topics": ["ontology", "substance", "being", "hypostasis"],
+      "priority": "high"
+    },
+    {
+      "filename": "John Dillon - The Middle Platonists (1996, Bloomsbury Academic) [10.5040_9781472598264] - libgen.li.pdf",
+      "authors": ["John M. Dillon"],
+      "title": "The Middle Platonists: 80 B.C. to A.D. 220",
+      "year": 1996,
+      "philosophers": ["apuleius", "nicomachus", "numenius"],
+      "key_topics": ["middle_platonism", "daemon_cosmology", "ontology"],
+      "priority": "high"
+    },
+    {
+      "filename": "Geert Roskam - On the Path to Virtue_ The Stoic Doctrine of Moral Progress and Its Reception in (Middle-) Platonism.pdf",
+      "authors": ["Geert Roskam"],
+      "title": "On the Path to Virtue: The Stoic Doctrine of Moral Progress and Its Reception in (Middle-)Platonism",
+      "year": 2005,
+      "philosophers": ["plotinus", "porphyry", "apuleius"],
+      "key_topics": ["virtue", "ethics", "stoic_reception"],
+      "priority": "medium"
+    },
+    {
+      "filename": "Ilinca Tanaseanu Döbler - Theurgy in Late Antiquity.pdf",
+      "authors": ["Ilinca Tanaseanu-Döbler"],
+      "title": "Theurgy in Late Antiquity: The Invention of a Ritual Tradition",
+      "year": 2013,
+      "philosophers": ["iamblichus", "proclus", "porphyry"],
+      "key_topics": ["theurgy", "ritual", "divine_working"],
+      "priority": "critical"
+    },
+    {
+      "filename": "James M Ambury - Neoplatonic Pedagogy and the Alcibiades I.pdf",
+      "authors": ["James M. Ambury"],
+      "title": "Neoplatonic Pedagogy and the Alcibiades I: Crafting the Contemplative",
+      "year": 2012,
+      "philosophers": ["plotinus", "proclus"],
+      "key_topics": ["pedagogy", "contemplation", "ascent"],
+      "priority": "medium"
+    },
+    {
+      "filename": "Jana Schultz, James Wilberding - Women and the Female in Neoplatonism.pdf",
+      "authors": ["Jana Schultz", "James Wilberding"],
+      "title": "Women and the Female in Neoplatonism",
+      "year": 2017,
+      "philosophers": ["plotinus", "porphyry", "proclus"],
+      "key_topics": ["gender", "female_principle", "cosmology"],
+      "priority": "low"
+    },
+    {
+      "filename": "John Dillon - The Middle Platonists_ 80 B C to A D 220 libgen li.pdf",
+      "authors": ["John M. Dillon"],
+      "title": "The Middle Platonists (duplicate or variant)",
+      "year": 1996,
+      "priority": "low",
+      "notes": "Possibly duplicate of Dillon work listed above"
+    },
+    {
+      "filename": "Henry More and Hobbess God.pdf",
+      "title": "Henry More and Hobbes's God",
+      "year": 2024,
+      "philosophers": ["early_modern_platonism"],
+      "key_topics": ["early_modern_reception"],
+      "priority": "low"
+    }
+  ],
+  "research_priorities": {
+    "1_critical": [
+      "Michael J B Allen (entire folder — consult FIRST for Pico-Neoplatonism connections)",
+      "Iamblichus (theurgy essential for Pico's condemned theurgic theses)",
+      "Tanaseanu-Döbler (Theurgy in Late Antiquity — modern scholarly treatment)",
+      "Chiaradonna (Ontology in Early Neoplatonism — foundational metaphysics)"
+    ],
+    "2_high": [
+      "Beierwaltes (medieval transmission and reception)",
+      "Christian Platonism folder (Pseudo-Dionysius, Ficino, medieval layer)",
+      "Dillon (Middle Platonists — context for Apuleius, general Platonism)",
+      "Chaldean Oracles (divine names, theurgic foundation)"
+    ],
+    "3_medium": [
+      "O-Meara (scholarly treatment of Platonism)",
+      "Apuleis folder (daemon cosmology for Pico's demonology)",
+      "Nicomachus folder (number mysticism, Pythagorean parallels)",
+      "Roskam (virtue ethics, Stoic-Platonic reception)"
+    ]
+  },
+  "notes": "Use this inventory to prioritize archive searches. When researching a specific conclusion, check the philosopher and key_topics, then navigate to the appropriate folder or file."
+}
