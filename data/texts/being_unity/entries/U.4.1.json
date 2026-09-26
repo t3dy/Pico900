@@ -6,16 +6,44 @@
   "latin_text": "[From critical edition, p. 94, lines 3315-3326]",
   "english_translation": "The reasons we have given above show that the false is the same as nothing. If we say that evil and nothing differ, the philosophers and theologians both will object, because to make evil is to make nothing, and it is customarily said that there is no efficient, but only a deficient cause of evil.",
   "translation_source": "Miller translation (Hackett edition, 1998)",
-  "exegesis": "[VERIFIED] Pico establishes evil as privation (*privatio boni*)—absence of good rather than positive force. [VERIFIED] Demons are not created evil but are angels deprived of goodness, unity, and charity. The fall is not creation but deprivation: an angel losing participated union with God becomes demonic, not through acquiring new substance but through losing participated being.\n\nThe philosophical function is to avoid cosmic dualism while maintaining moral responsibility: evil has no efficient cause in God; it results only from deficiency of created will. Demons remain creatures, still angels by nature, but deprived of the goodness defining angelic perfection. [INFERRED] This makes the hierarchy unified: seraph at apex of participation; demon at nadir of deprivation; both within the single scale of being, not opposed principles.\n\n[VERIFIED] Heptaplus develops demonic privation as the obstruction of cosmic order. Commento shows why love ascends toward seraphim and away from demonic division. Oration emphasizes human freedom: to ascend toward angelic goodness or descend toward demonic division through vice. Being & Unity grounds it: privation is real deficiency, but deficiency of participation, not positive evil-substance."
+  "exegesis": "[VERIFIED] Pico establishes evil as privation (*privatio boni*)—absence of good rather than positive force. [VERIFIED] Demons are not created evil but are angels deprived of goodness, unity, and charity. The fall is not creation but deprivation: an angel losing participated union with God becomes demonic, not through acquiring new substance but through losing participated being.\n\nThe philosophical function is to avoid cosmic dualism while maintaining moral responsibility: evil has no efficient cause in God; it results only from deficiency of created will. Demons remain creatures, still angels by nature, but deprived of the goodness defining angelic perfection. [INFERRED] This makes the hierarchy unified: seraph at apex of participation; demon at nadir of deprivation; both within the single scale of being, not opposed principles.\n\n[VERIFIED] Heptaplus develops demonic privation as the obstruction of cosmic order. Commento shows why love ascends toward seraphim and away from demonic division. Oration emphasizes human freedom: to ascend toward angelic goodness or descend toward demonic division through vice. Being & Unity grounds it: privation is real deficiency, but deficiency of participation, not positive evil-substance.",
   "exegesis_status": "draft",
-  "lineage": ["aquinas", "pseudo-dionysius", "synthesis"],
-  "key_concepts": ["evil-as-privation", "demonic-deprivation", "deficient-cause", "fall-as-privation", "descent-from-being", "demonic-privation-of-goodness"],
-  "tags": ["angelology", "metaphysics", "evil", "privation", "demonology", "thomistic-theology", "freedom"],
+  "lineage": [
+    "aquinas",
+    "pseudo-dionysius",
+    "synthesis"
+  ],
+  "key_concepts": [
+    "evil-as-privation",
+    "demonic-deprivation",
+    "deficient-cause",
+    "fall-as-privation",
+    "descent-from-being",
+    "demonic-privation-of-goodness"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "theology",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Demons as fallen angels exemplifying privation of angelic goodness; evil as the absence of being rather than a positive force, preventing Manichean dualism",
   "cross_references": {
-    "same_text": ["U.4.2 (division as destruction of unity; demon as fractured angel)", "U.3.2 (seraph as exemplar of unity; demon as loss of unity)", "U.1.1-U.1.2 (angelic dependence; fall as loss of participation)"],
-    "other_texts": ["Heptaplus Day 3, Layer 2: The demonic obstruction of the cosmic order; fall as privation within the hierarchy", "Commento (implicit throughout): Why love ascends toward seraphim; why lust and pride descend toward demonic", "Oration: Human freedom to choose descent (toward bestiality and demonic nature) or ascent (toward angelhood through virtue)"],
-    "900_conclusions": ["S1 (Neoplatonic metaphysics of being and privation)", "Conclusions on evil, freedom, and the hierarchy of being"]
+    "same_text": [
+      "U.4.2 (division as destruction of unity; demon as fractured angel)",
+      "U.3.2 (seraph as exemplar of unity; demon as loss of unity)",
+      "U.1.1",
+      "U.1.2"
+    ],
+    "other_texts": [
+      "Heptaplus Day 3, Layer 2: The demonic obstruction of the cosmic order; fall as privation within the hierarchy",
+      "Commento (implicit throughout): Why love ascends toward seraphim; why lust and pride descend toward demonic",
+      "Oration: Human freedom to choose descent (toward bestiality and demonic nature) or ascent (toward angelhood through virtue)"
+    ],
+    "900_conclusions": [
+      "S1 (Neoplatonic metaphysics of being and privation)",
+      "Conclusions on evil, freedom, and the hierarchy of being"
+    ]
   },
   "scholar_citations": [
     "Aquinas, Summa II.2, q. 64: On the fall and demonic nature; evil as privation in angelic rebellion",

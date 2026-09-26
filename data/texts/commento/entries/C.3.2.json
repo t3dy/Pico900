@@ -6,16 +6,40 @@
   "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Heptaplus proem 2, p. 210]",
   "english_translation": "The nine orders of the angels presided over by God's unmoving unity correspond to the nine revolving heavenly spheres presided over by the unmoving empyrean, and these correspond in turn to the nine spheres of ever-moving corruptible forms founded upon prime matter.",
   "translation_source": "Allen critical translation",
-  "exegesis": "[VERIFIED] Pico elaborates the three-world cosmology into a ninefold hierarchy. The nine angelic orders (Pseudo-Dionysian: three highest—Seraphim, Cherubim, Thrones; three middle—Dominions, Virtues, Powers; three lowest—Principalities, Archangels, Angels) correspond to the nine celestial spheres (the primum mobile and the eight planetary spheres), which in turn correspond to nine levels of sublunary being (from the most ethereal to the most material). [INFERRED] This ninefold correspondence establishes a complete isomorphism: each angelic order governs a celestial sphere, which in turn orders a terrestrial realm. The cosmos is unified through this correspondence—the unmoving divine unity presides over the nine orders as the empyrean presides over the nine spheres.\n\nThe philosophical function is to establish cosmic governance as angelic mediation. Each angel does not merely contemplate an eternal form but actively orders creation through its sphere. Human practitioners can align themselves with any angelic order and thereby participate in that order's cosmic governance. [INFERRED] This is why Pico can claim that human virtue parallels angelic function—the human practicing justice becomes aligned with the Throne (divine judgment) and participates in its ordering activity.\n\n[VERIFIED] Heptaplus layers 2-6 elaborate this ninefold structure. The Oration (O.1.7-O.1.8) invokes the highest three orders as exemplars. Being & Unity grounds it: each degree of being corresponds to an angelic order and celestial sphere."
+  "exegesis": "[VERIFIED] Pico elaborates the three-world cosmology into a ninefold hierarchy. The nine angelic orders (Pseudo-Dionysian: three highest—Seraphim, Cherubim, Thrones; three middle—Dominions, Virtues, Powers; three lowest—Principalities, Archangels, Angels) correspond to the nine celestial spheres (the primum mobile and the eight planetary spheres), which in turn correspond to nine levels of sublunary being (from the most ethereal to the most material). [INFERRED] This ninefold correspondence establishes a complete isomorphism: each angelic order governs a celestial sphere, which in turn orders a terrestrial realm. The cosmos is unified through this correspondence—the unmoving divine unity presides over the nine orders as the empyrean presides over the nine spheres.\n\nThe philosophical function is to establish cosmic governance as angelic mediation. Each angel does not merely contemplate an eternal form but actively orders creation through its sphere. Human practitioners can align themselves with any angelic order and thereby participate in that order's cosmic governance. [INFERRED] This is why Pico can claim that human virtue parallels angelic function—the human practicing justice becomes aligned with the Throne (divine judgment) and participates in its ordering activity.\n\n[VERIFIED] Heptaplus layers 2-6 elaborate this ninefold structure. The Oration (O.1.7-O.1.8) invokes the highest three orders as exemplars. Being & Unity grounds it: each degree of being corresponds to an angelic order and celestial sphere.",
   "exegesis_status": "draft",
   "lineage": "pseudo-dionysius | plotinus | aquinas",
-  "key_concepts": ["nine angelic orders", "nine celestial spheres", "cosmic correspondence", "hierarchy", "unity and multiplicity"],
-  "tags": ["angelology", "cosmology", "nine-orders", "correspondence", "pseudo-dionysius", "celestial-hierarchy"],
+  "key_concepts": [
+    "nine angelic orders",
+    "nine celestial spheres",
+    "cosmic correspondence",
+    "hierarchy",
+    "unity and multiplicity"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "neoplatonism",
+    "hierarchy",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: The nine orders correspond to the nine Sefirot below Keter (the supernal unity). The correspondence of heavenly and earthly spheres parallels Kabbalistic doctrine of correspondence (as above, so below).",
   "cross_references": {
-    "same_text": ["C.3.1", "C.3.3", "C.3.4", "C.3.5"],
-    "other_texts": ["Pseudo-Dionysius Celestial Hierarchy (nine orders: seraphim, cherubim, thrones; dominions, virtues, powers; principalities, archangels, angels)", "Heptaplus (nine spheres)"],
-    "900_conclusions": ["Nine Sefirot", "Celestial correspondence", "As above, so below"]
+    "same_text": [
+      "C.3.1",
+      "C.3.3",
+      "C.3.4",
+      "C.3.5"
+    ],
+    "other_texts": [
+      "Pseudo-Dionysius Celestial Hierarchy (nine orders: seraphim, cherubim, thrones; dominions, virtues, powers; principalities, archangels, angels)",
+      "Heptaplus (nine spheres)"
+    ],
+    "900_conclusions": [
+      "Nine Sefirot",
+      "Celestial correspondence",
+      "As above, so below"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

@@ -8,12 +8,28 @@
   "translation_source": "Borghesi critical edition",
   "exegesis": "[VERIFIED] Pico now invokes the Jacobean vision (Genesis 28:12) to establish the fundamental cosmological architecture: a ladder (*scalas*) stretching from *imo solo* (the lowest earth) to *caeli summa* (the highest heavens), organized in *multorum graduum serie distinctas* (many rungs arranged in series). God sits at the apex, and contemplative angels ascend and descend the rungs (*vicibus alternantes ascendere et descendere*). [VERIFIED] This is Pico's visual representation of the scala naturae—the Chain of Being elaborated in Neoplatonic metaphysics and systematized by medieval scholasticism. But Pico's version emphasizes the dynamic activity of angels rather than static grades: angels are *contemplatives in alternation*, continuously ascending toward God and descending toward creation.\n\nThe philosophical function is structural and pedagogical: Jacob's Ladder is not merely a mystical image but the template for understanding cosmic order and the human soul's proper place within it. Each rung represents a level of being, from material substance through celestial bodies, through ascending angelic orders, to the Godhead at the apex. Crucially, this ladder is not a prison but an *opportunity*: humans, like the ladder itself, span multiple ontological levels. The human body occupies the terrestrial realm, the sensory powers engage the celestial-bodily dynamics, the rational soul communes with celestial intelligences, and the intellectual soul can ascend toward pure angelic contemplation. Pico suggests that philosophy is precisely the practice of ascending and descending this ladder with full consciousness.\n\n[INFERRED] The image of angels ascending and descending *vicibus alternantes* (in turn, alternately) suggests a cosmic rhythm: contemplation (ascending to God) alternates with providential care (descending to lower orders). This establishes angels not as statically fixed but as actively mediating. Heptaplus 1.0 uses this ladder as the template for its seven-layer interpretive method, with each layer corresponding to rungs of the ladder. The Commento Book II describes the circular motion of procession and return (*processio et reditus*) as precisely this ascending-descending rhythm. Being & Unity grounds the ladder metaphysically: each rung represents a degree of participated being, and the ladder itself exists because of the hierarchical emanation of being from God.",
   "exegesis_status": "draft",
-  "lineage": "kabbalah, neoplatonism",
-  "key_concepts": ["Jacob's Ladder", "scala naturae", "hierarchy", "ascent", "descent"],
-  "tags": ["angelology", "mysticism", "cosmology", "neoplatonism", "kabbalah"],
+  "lineage": "kabbalah | synthesis",
+  "key_concepts": [
+    "Jacob's Ladder",
+    "scala naturae",
+    "hierarchy",
+    "ascent",
+    "descent"
+  ],
+  "tags": [
+    "angelology",
+    "mysticism",
+    "metaphysics",
+    "neoplatonism",
+    "kabbalah",
+    "heretical_adjacent"
+  ],
   "cross_references": {
     "same_text": [],
-    "other_texts": ["Genesis 28:12-13", "Iamblichus Protrepticus 1"],
+    "other_texts": [
+      "Genesis 28:12-13",
+      "Iamblichus Protrepticus 1"
+    ],
     "900_conclusions": []
   },
   "scholar_citations": [],

@@ -8,13 +8,28 @@
   "translation_source": "Borghesi critical edition",
   "exegesis": "[VERIFIED] Pico refutes charges of metempsychosis by establishing that angelhood is constituted by *form* (intelligentia spiritualis)—spiritual intelligence—not by material bodily shape or even by physical separation from the body. The passage systematically denies that being a plant, animal, or heavenly body is constituted by their material shells (*cortex*, *corium*, *orbis*); rather, their essences are defined by their formal organizing principles (*natura*, *anima*, *ratio*). By this logic, becoming an angel is not physical shapeshifting but the actualization of intellectual form—the substantial ordering of the soul toward divine contemplation.\n\nThe philosophical function is crucial: Pico must show that the ascent through vegetative-sensate-rational-intellectual levels (O.1.3) is compatible with Christian anthropology. Christian orthodoxy rejects metempsychosis (transmigration of human souls into animal bodies) and insists that human souls retain their rational nature even when that nature is misused toward vegetative or brutish ends. Pico's solution: when humans cultivate their intellectual powers and align themselves with divine intellections, they actualize an angelic *form*—not a new body, but a new actualization of the rational soul's capacities. The form of angelhood is spiritual intelligence (*intelligentia spiritualis*): the direct intuition of divine forms and the eternal contemplation of truth. This is compatible with the soul's nature as an immortal rational principle.\n\n[INFERRED] The Heptaplus 4.5 explores how angelic forms differ from bodily forms through the lens of the seven interpretive layers: literally (as light-based intelligences without matter), allegorically (as exemplars of human virtue), tropologically (as moral guides), etc. The Commento Book I establishes the angelic forms as the second hypostasis—pure intellection without material mediation. Being & Unity grounds this in participated being: angels exemplify the form of pure intellectual participation, where being is received and actualized through direct divine illumination without sensory or imaginative intermediation.",
   "exegesis_status": "draft",
-  "lineage": "aquinas, ficino",
-  "key_concepts": ["angelhood", "spiritual intelligence", "form", "ontology", "intellect"],
-  "tags": ["angelology", "ontology", "scholasticism", "intellect"],
+  "lineage": "aquinas | synthesis",
+  "key_concepts": [
+    "angelhood",
+    "spiritual intelligence",
+    "form",
+    "ontology",
+    "intellect"
+  ],
+  "tags": [
+    "angelology",
+    "intellect",
+    "heretical_adjacent"
+  ],
   "cross_references": {
     "same_text": [],
-    "other_texts": ["Heptaplus 4.5", "Conclusiones 2.3.71"],
-    "900_conclusions": ["2.3.71"]
+    "other_texts": [
+      "Heptaplus 4.5",
+      "Conclusiones 2.3.71"
+    ],
+    "900_conclusions": [
+      "2.3.71"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

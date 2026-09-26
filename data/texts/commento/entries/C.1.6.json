@@ -9,13 +9,40 @@
   "exegesis": "[VERIFIED] Pico articulates a fundamental principle of participatory metaphysics: *our soul is all things because it can understand all things* (*anima nostra omnia est quia omnia intelligere potest*). Universal intellection grounds universal identity. The human soul, possessing rational intellect, can know the intelligible forms of all things; therefore, it participates in the being of all things through that knowledge. [INFERRED] This is the basis of Pico's claim that human dignity rivals or surpasses the angels: while angels contemplate divine forms eternally from their fixed station, humans possess the capacity to traverse the entire cosmic order through intellection.\n\nMore importantly, Pico grounds this present capacity in pre-incarnate participation: *before* descending into flesh (*ante carnis descensum*), the human soul participated directly in what Pico calls the *cavallata universale* (universal cavalcade)—the eternal procession of all rational souls united under the World Soul (identified with Jupiter in Pico's Neoplatonic framework). In this pre-incarnate state, the soul was genuinely angelic, contemplating the intelligible beauty (*pulchritudo intelligibilis*) of the Ideas from beyond the rim of the intellectual heaven. [INFERRED] This pre-incarnate angelhood becomes the ground for post-incarnate angelic aspiration: the soul remembers its native station among the angels and can restore itself to that state through philosophical practice.\n\n[VERIFIED] The passage establishes that angelhood is not a remote mythological state but the soul's native condition. The Oration (O.1.3) describes the ascent toward what the soul once was. Heptaplus Day 6 develops the doctrine of pre-incarnate human-angelic identity. Being & Unity grounds this metaphysically: the soul's capacity to participate in all being stems from its participation in angelic intellection itself.",
   "exegesis_status": "draft",
   "lineage": "plotinus | aquinas | pseudo-dionysius",
-  "key_concepts": ["participatory intellection", "pre-incarnate participation", "angelic cavalcade", "world soul", "universals", "human dignity", "liberation from flesh"],
-  "tags": ["angelology", "neoplatonism", "mysticism", "participatory-knowledge", "human-dignity", "cosmic-hierarchy"],
+  "key_concepts": [
+    "participatory intellection",
+    "pre-incarnate participation",
+    "angelic cavalcade",
+    "world soul",
+    "universals",
+    "human dignity",
+    "liberation from flesh"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "mysticism",
+    "dignity",
+    "hierarchy",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "The idea of pre-incarnate participation in celestial hierarchies parallels Kabbalistic doctrine of souls emanating from Sefiroth and descending into flesh.",
   "cross_references": {
-    "same_text": ["C.1.1", "C.1.2", "C.2.6"],
-    "other_texts": ["Oration on Dignity (ascent to angelic nature)", "Heptaplus Day 6 (humans and angels)", "Plato Phaedrus (cavalcade of souls)"],
-    "900_conclusions": ["Participatory intellection", "Pre-incarnate souls", "Human-angelic correspondence"]
+    "same_text": [
+      "C.1.1",
+      "C.1.2",
+      "C.2.6"
+    ],
+    "other_texts": [
+      "Oration on Dignity (ascent to angelic nature)",
+      "Heptaplus Day 6 (humans and angels)",
+      "Plato Phaedrus (cavalcade of souls)"
+    ],
+    "900_conclusions": [
+      "Participatory intellection",
+      "Pre-incarnate souls",
+      "Human-angelic correspondence"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

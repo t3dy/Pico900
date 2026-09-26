@@ -6,16 +6,39 @@
   "latin_text": "[HARVESTER: from Allen critical translation; source location: Heptaplus 5.6-5.7, pp. 300-304 (referenced from Commento)]",
   "english_translation": "man is not so much a fourth world as the 'link' (complexus) or 'bond' (colligatio) of the other three [worlds: angelic, celestial, sublunar]... man can serve as the terminus of the angelic world and as the beginning of corruptible nature.",
   "translation_source": "Allen critical translation",
-  "exegesis": "[VERIFIED] Pico defines human nature as the *bond* (*colligatio*) or *link* (*complexus*) holding together the three worlds: angelic/intelligible, celestial, and sublunary/material. Humans are not a fourth separate world but the *meeting point* where all three interpenetrate. The human can serve as the *terminus* (endpoint/fulfillment) of the angelic world (participating in angelic intellection) and as the *beginning* of corruptible nature (animating and governing material creation). [INFERRED] This makes humans uniquely positioned: able to descend fully into material embodiment while retaining access to angelic intellection.\n\nThe philosophical function is to ground human dignity not in superiority over other creatures (humans are lower than angels naturally) but in *intermediacy*. Humans possess the unique capacity to traverse all ontological levels consciously. The bond role means humans have cosmic responsibility: they must hold together the hierarchy that would otherwise fragment. [VERIFIED] This is why human ascent to angelhood transforms not just the individual but the entire cosmos—the bond-soul, ascending, draws all lower levels with it toward perfection.\n\n[VERIFIED] The Oration emphasizes this microcosmic role. Heptaplus develops it through the seventh day (humans as sabbatical mediators). Being & Unity grounds it: the human soul exemplifies participated being at its most complete—participating in intelligence, life, and matter simultaneously."
+  "exegesis": "[VERIFIED] Pico defines human nature as the *bond* (*colligatio*) or *link* (*complexus*) holding together the three worlds: angelic/intelligible, celestial, and sublunary/material. Humans are not a fourth separate world but the *meeting point* where all three interpenetrate. The human can serve as the *terminus* (endpoint/fulfillment) of the angelic world (participating in angelic intellection) and as the *beginning* of corruptible nature (animating and governing material creation). [INFERRED] This makes humans uniquely positioned: able to descend fully into material embodiment while retaining access to angelic intellection.\n\nThe philosophical function is to ground human dignity not in superiority over other creatures (humans are lower than angels naturally) but in *intermediacy*. Humans possess the unique capacity to traverse all ontological levels consciously. The bond role means humans have cosmic responsibility: they must hold together the hierarchy that would otherwise fragment. [VERIFIED] This is why human ascent to angelhood transforms not just the individual but the entire cosmos—the bond-soul, ascending, draws all lower levels with it toward perfection.\n\n[VERIFIED] The Oration emphasizes this microcosmic role. Heptaplus develops it through the seventh day (humans as sabbatical mediators). Being & Unity grounds it: the human soul exemplifies participated being at its most complete—participating in intelligence, life, and matter simultaneously.",
   "exegesis_status": "draft",
   "lineage": "pseudo-dionysius | aquinas",
-  "key_concepts": ["microcosm", "link", "bond", "three worlds", "angelic to corruptible", "intermediary", "human dignity"],
-  "tags": ["angelology", "anthropology", "cosmology", "human-nature", "microcosm", "intermediary"],
+  "key_concepts": [
+    "microcosm",
+    "link",
+    "bond",
+    "three worlds",
+    "angelic to corruptible",
+    "intermediary",
+    "human dignity"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "Man as microcosm containing all Sefirot within himself, serving as the bridge between supernal and terrestrial realms.",
   "cross_references": {
-    "same_text": ["C.1.6"],
-    "other_texts": ["Heptaplus 5.6-5.7", "Oration on Dignity (microcosm)", "Commento 1.12 (knot and bond)"],
-    "900_conclusions": ["Microcosmic man", "Sefirotic correspondence", "Angelic-terrestrial bridge"]
+    "same_text": [
+      "C.1.6"
+    ],
+    "other_texts": [
+      "Heptaplus 5.6-5.7",
+      "Oration on Dignity (microcosm)",
+      "Commento 1.12 (knot and bond)"
+    ],
+    "900_conclusions": [
+      "Microcosmic man",
+      "Sefirotic correspondence",
+      "Angelic-terrestrial bridge"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

@@ -8,14 +8,44 @@
   "translation_source": "Miller translation (Hackett edition, 1998)",
   "exegesis": "Pico establishes the metaphysical framework for understanding creation through the Pauline formula 'from him, through him, and to him' (Romans 11:36), integrated with the three Aristotelian causes: efficient, exemplary, and final. All creatures—material bodies, human souls, and angels—receive their being from God as efficient cause and participate in being proportionally to their proximity to God. Angels, as pure intellects requiring no matter or sensory mediation, participate in being most directly and completely. This passage grounds the entire hierarchy of being in an act of divine causality: each level of the hierarchy exists as a degree of participation in divine being received through God's efficient causality, exemplified in divine ideas, and ordered toward divine goodness as final cause.",
   "exegesis_status": "draft",
-  "lineage": ["aquinas", "plotinus"],
-  "key_concepts": ["efficient-causality", "participated-being", "exemplary-cause", "final-cause", "angelic-directness", "hierarchy-of-participation"],
-  "tags": ["angelology", "metaphysics", "participated-being", "causality", "creation", "thomistic-theology", "neoplatonism"],
+  "lineage": [
+    "aquinas",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "efficient-causality",
+    "participated-being",
+    "exemplary-cause",
+    "final-cause",
+    "angelic-directness",
+    "hierarchy-of-participation"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "being",
+    "causality",
+    "theology",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Creation as participation in divine being through efficient causality; angels as pure intellects participate in being most directly, exemplifying the metaphysical hierarchy through their proximity to divine simplicity",
   "cross_references": {
-    "same_text": ["U.3.2 (transcendental properties as grades of perfection)", "U.1.1-U.1.2 (angelic dependence and participation)", "U.5.1 (God's essential being vs creatures' participated being)"],
-    "other_texts": ["Heptaplus Layer 1-2: Creation narrative as emanation of being through hierarchical orders; each day shows angelic orders receiving their being from God", "Commento Book I-II: Angelic hierarchy as exemplars of participated being via Sefirotic correspondence", "Oration: Human dignity as participation in angelic and divine nature through intellection—humans participate in being like angels, though through sensual intermediaries"],
-    "900_conclusions": ["S1 (Neoplatonic philosophy on hierarchy and emanation)", "Conclusions on creation, causality, and participated being"]
+    "same_text": [
+      "U.3.2 (transcendental properties as grades of perfection)",
+      "U.1.1",
+      "U.1.2",
+      "U.5.1 (God's essential being vs creatures' participated being)"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 1-2: Creation narrative as emanation of being through hierarchical orders; each day shows angelic orders receiving their being from God",
+      "Commento Book I-II: Angelic hierarchy as exemplars of participated being via Sefirotic correspondence",
+      "Oration: Human dignity as participation in angelic and divine nature through intellection—humans participate in being like angels, though through sensual intermediaries"
+    ],
+    "900_conclusions": [
+      "S1 (Neoplatonic philosophy on hierarchy and emanation)",
+      "Conclusions on creation, causality, and participated being"
+    ]
   },
   "scholar_citations": [
     "Aquinas, Summa I, qq. 45-46: On creation as participation in divine being; the Three Causes in God",

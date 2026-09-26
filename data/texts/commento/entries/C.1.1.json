@@ -9,13 +9,37 @@
   "exegesis": "[VERIFIED] Pico achieves a revolutionary theological synthesis: he redefines the Plotinian second hypostasis (Nous/Mind/Intellect) as explicitly angelic. Allen notes that Pico, following Christian theology, insists that the second hypostasis must be a *creature*, not an eternal divine reality. Therefore, Pico identifies this first and noblest creature with the highest angel: a being who emanates directly (*immediatamente*) from God, who is perfect like God, and who is unique (*unico*). [VERIFIED] This integration maintains strict Christian orthodoxy (God alone is eternal and uncreated; all else is creature) while preserving Neoplatonic metaphysics (there is a hierarchy of emanations from unity). Pico thus reconciles Christian theology with Platonism by identifying the Platonic Intellect with Christian angelology.\n\nThe philosophical function is foundational: by establishing that the Neoplatonic second hypostasis is the highest angel, Pico creates the metaphysical framework for the entire Commento. The angelic Mind is not a distant mythological being but the supreme intellectual principle through which God knows and creates. Human intellection participates in this angelic Mind; human ascent is the actualizing of one's participation in angelic intellection. [VERIFIED] The passage notes that this angelic Mind has been called by various names—Wisdom, Son (but not the Christian Son), Divine Reason, Word—each name capturing a different aspect of the angelic function. Pico is careful to distinguish: the Christian Son is consubstantial with the Father (homoousios), while the angelic Mind is a created substance dependent on God. Yet both are mediating principles: Christ mediates incarnationally, the angelic Mind mediates intellectually.\n\n[INFERRED] This passage echoes through all four texts. The Oration (O.1.2) establishes the angel as intellective principle; Heptaplus identifies this angelic intellect with the intelligible world and the first day of creation; Being & Unity grounds it metaphysically in participated being. The Commento's entire subsequent argument depends on this identification: the soul's mystical union is union with angelic intellection, which is union with the divine Mind itself, which is participation in God.",
   "exegesis_status": "draft",
   "lineage": "aquinas | pseudo-dionysius | plotinus | synthesis",
-  "key_concepts": ["three hypostases", "angelic mind", "intellect", "neoplatonism", "christian theology", "intelligible creatures"],
-  "tags": ["angelology", "neoplatonism", "metaphysics", "hypostases", "angelic orders"],
+  "key_concepts": [
+    "three hypostases",
+    "angelic mind",
+    "intellect",
+    "neoplatonism",
+    "christian theology",
+    "intelligible creatures"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "metaphysics",
+    "hypostases",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "Not explicitly mentioned in this passage, but sets foundation for Sefirotic correspondences. The angelic second hypostasis prefigures Kabbalistic supernal orders.",
   "cross_references": {
-    "same_text": ["C.1.2", "C.1.6", "C.1.7"],
-    "other_texts": ["Heptaplus proem (three worlds doctrine)", "Oration on dignity (ascent to angelhood)", "On Being and Unity (angelic orders as degrees of being)"],
-    "900_conclusions": ["Celestial hierarchies", "Angelic metaphysics"]
+    "same_text": [
+      "C.1.2",
+      "C.1.6",
+      "C.1.7"
+    ],
+    "other_texts": [
+      "Heptaplus proem (three worlds doctrine)",
+      "Oration on dignity (ascent to angelhood)",
+      "On Being and Unity (angelic orders as degrees of being)"
+    ],
+    "900_conclusions": [
+      "Celestial hierarchies",
+      "Angelic metaphysics"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

@@ -8,14 +8,38 @@
   "translation_source": "Allen critical translation",
   "exegesis": "[VERIFIED] Pico articulates the ultimate goal of the Commento: human transformation into angels through *amatory ecstasy*—specifically into the cherubim and seraphim (Ezekiel's vision). The passage distinguishes two aspects of the transformation: the soul's separation from the body (which merely liberates consciousness) and more crucially, the body's entire dropping away (*corpus ab anima omnino decidit*). This is not physical death but ontological transformation—the body ceases to constrain or mediate the soul's operations. The soul becomes an intellectual being functioning directly in the angelic manner: intuiting forms without sensory intermediation, participating in divine illumination immediately.\n\nThe philosophical function is to clarify what angelic transformation entails: it is not becoming literally like the Seraphim's outward form, but actualizing the seraphic mode of being—direct love-union with God. [VERIFIED] This draws on Pseudo-Dionysius's *Mystical Theology* (the soul stripped of images ascends to divine darkness) and the Kabbalistic tradition of *devekuth* (mystical cleaving to God). The *inestimable gift of love* suggests that angelic transformation is received grace, not earned achievement—the overflow of divine love enabling human participation in angelic beatitude.\n\n[VERIFIED] Heptaplus Day 6 develops the doctrine of human-angelic correspondence. The Oration (O.1.3-O.1.4) describes ascent through intellectual actualization into mystical union. Being & Unity grounds this metaphysically: the highest form of participated being is the soul's complete actualization in angelic intellection, where human-divine distinction becomes irrelevant ontologically while remaining metaphysically real.",
   "exegesis_status": "draft",
-  "lineage": "pseudo-dionysius | plotinus | kabbalah | mysticism",
-  "key_concepts": ["human ascent", "angelic transformation", "cherubim", "seraphim", "death of body", "mystical union", "apotheosis"],
-  "tags": ["angelology", "mysticism", "love", "transformation", "ascent", "kabbalistic-angelology", "seraphim-cherubim"],
+  "lineage": "pseudo-dionysius | plotinus | kabbalah | synthesis",
+  "key_concepts": [
+    "human ascent",
+    "angelic transformation",
+    "cherubim",
+    "seraphim",
+    "death of body",
+    "mystical union",
+    "apotheosis"
+  ],
+  "tags": [
+    "angelology",
+    "mysticism",
+    "ascent",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "Direct reference to cherubim and seraphim (Sefirot correspondences: Chokmah/Binah). The transformation of Enoch into Metatron is mentioned elsewhere in the Commento as analogue for human ascent to angelhood.",
   "cross_references": {
-    "same_text": ["C.1.5", "C.1.6"],
-    "other_texts": ["Commento stanza commentary on 'Da lui el foco'", "Kabbalistic doctrine of righteous ascent", "Heptaplus Day 6 (human nature and angelic potential)"],
-    "900_conclusions": ["Angelic transformation", "Seraphic ascent", "Kabbalistic righteous ascent"]
+    "same_text": [
+      "C.1.5",
+      "C.1.6"
+    ],
+    "other_texts": [
+      "Commento stanza commentary on 'Da lui el foco'",
+      "Kabbalistic doctrine of righteous ascent",
+      "Heptaplus Day 6 (human nature and angelic potential)"
+    ],
+    "900_conclusions": [
+      "Angelic transformation",
+      "Seraphic ascent",
+      "Kabbalistic righteous ascent"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

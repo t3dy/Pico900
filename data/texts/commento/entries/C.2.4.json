@@ -6,16 +6,40 @@
   "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.14, p. 501 and 2.22, p. 505]",
   "english_translation": "Pico adduces the Orphic verses in 2.14 and 2.22 and observes that Mind could 'rightly be called a chaos' when it was first filled with all the Ideas and the Ideas were still 'imperfect, indistinct as it were, and confused.' In it, Love was born, that is, Mind's desire to perfect the Ideas. Since the Ideas can be perfected only when they are separated from what is alien to them...",
   "translation_source": "Allen critical translation",
-  "exegesis": "[VERIFIED] Pico invokes the Orphic Theogony to show that the angelic Mind, when filled with the Ideas, was originally in a chaotic state (*rightly called a chaos*). The Ideas existed within the Mind imperfectly—confused, indistinct, and unformed. Love then arises as the Mind's desire (*appetitus*) to perfect these Ideas. [INFERRED] This transforms chaos from destructive emptiness into creative potential: the chaos is not negation but fecundity awaiting order through Love's formative power.\n\nThe philosophical function is to reconcile apparent contradictions: how can angelic Mind be chaotic? How can the Ideas be imperfect? Pico's answer: the Ideas exist in two modes—in God perfectly and eternally; in Mind initially imperfectly. Love mediates between these modes, causing Mind to return to God and thereby perfecting the Ideas through participation in divine simplicity. [INFERRED] This explains cosmic order: creation emerges not from eternal stasis but from dynamic movement toward perfection. Chaos is the pregnant void from which order springs through Love.\n\n[VERIFIED] The Oration (O.1.12) describes philosophical practice as the oscillation between analysis (chaos/multiplicity) and synthesis (order/unity). Heptaplus traces cosmic emanation through seven stages of increasing definition. Being & Unity grounds this: participated being achieves perfection through the creature's return to its source."
+  "exegesis": "[VERIFIED] Pico invokes the Orphic Theogony to show that the angelic Mind, when filled with the Ideas, was originally in a chaotic state (*rightly called a chaos*). The Ideas existed within the Mind imperfectly—confused, indistinct, and unformed. Love then arises as the Mind's desire (*appetitus*) to perfect these Ideas. [INFERRED] This transforms chaos from destructive emptiness into creative potential: the chaos is not negation but fecundity awaiting order through Love's formative power.\n\nThe philosophical function is to reconcile apparent contradictions: how can angelic Mind be chaotic? How can the Ideas be imperfect? Pico's answer: the Ideas exist in two modes—in God perfectly and eternally; in Mind initially imperfectly. Love mediates between these modes, causing Mind to return to God and thereby perfecting the Ideas through participation in divine simplicity. [INFERRED] This explains cosmic order: creation emerges not from eternal stasis but from dynamic movement toward perfection. Chaos is the pregnant void from which order springs through Love.\n\n[VERIFIED] The Oration (O.1.12) describes philosophical practice as the oscillation between analysis (chaos/multiplicity) and synthesis (order/unity). Heptaplus traces cosmic emanation through seven stages of increasing definition. Being & Unity grounds this: participated being achieves perfection through the creature's return to its source.",
   "exegesis_status": "draft",
-  "lineage": "plotinus | orphism | pseudo-dionysius",
-  "key_concepts": ["chaos", "imperfect ideas", "love born in chaos", "perfection", "ordering principle", "orphic cosmogony"],
-  "tags": ["angelology", "neoplatonism", "orphism", "cosmology", "creation", "order-from-chaos"],
+  "lineage": "plotinus | synthesis | pseudo-dionysius",
+  "key_concepts": [
+    "chaos",
+    "imperfect ideas",
+    "love born in chaos",
+    "perfection",
+    "ordering principle",
+    "orphic cosmogony"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "metaphysics",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "The angelic chaos that becomes order parallels the Kabbalistic idea of creation from the Infinite (Ein Sof) through increasing definition and order.",
   "cross_references": {
-    "same_text": ["C.2.2", "C.2.3", "C.2.5"],
-    "other_texts": ["Commento 2.14-2.22", "Orphic Theogony", "Ficino's similar doctrine in De amore"],
-    "900_conclusions": ["Chaos to order", "Orphic creation", "Infinite (Ein Sof) emanation"]
+    "same_text": [
+      "C.2.2",
+      "C.2.3",
+      "C.2.5"
+    ],
+    "other_texts": [
+      "Commento 2.14-2.22",
+      "Orphic Theogony",
+      "Ficino's similar doctrine in De amore"
+    ],
+    "900_conclusions": [
+      "Chaos to order",
+      "Orphic creation",
+      "Infinite (Ein Sof) emanation"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

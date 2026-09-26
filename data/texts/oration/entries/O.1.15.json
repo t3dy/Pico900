@@ -8,13 +8,31 @@
   "translation_source": "Borghesi critical edition",
   "exegesis": "[VERIFIED] Pico concludes his entire argument by invoking the three great Archangels as the guides and enablers of human transformation. Raphael (*Healing of God*) is the celestial physician who administers *pharmacis salutaribus* (healing drugs): moral philosophy (*philosophia moralis*) and dialectic (*dialectica*). These two disciplines heal the soul's ethical corruption and restore rational order. Gabriel (*Strength of God*, also rendered as *God is my strength*) then leads the recovering soul through *natura miracula* (*the marvels of nature*), revealing everywhere *Dei virtutem potestatemque* (the power and might of God). This is natural philosophy proper: understanding creation as the theophany through which God reveals himself. Finally, Michael (*He who is like God*, the great warrior-prince of Kabbalistic theology) receives the soul who has *emeritos...philosophiae stipendiis* (completed its service to philosophy) and bestows upon it *theologiae sacerdotio quasi corona preciosi lapidis insignet* (the insignia of theological priesthood like a crown of precious stones).\n\nThe philosophical function is to provide the complete map of the ascent from moral healing through natural knowledge to theological consecration. [VERIFIED] These three archangels correspond to the three domains of human knowledge and practice: ethics (Raphael), physics (Gabriel), theology (Michael). But the language emphasizes mediation: each archangel *facilitates* the passage; the archangels are not merely exemplars but active agents in human transformation. They represent divine powers actively working to restore and elevate human nature. The phrase *quasi corona preciosi lapidis insignet* (like a crown of precious stones) invokes the Urim and Thummim (the breastplate of the High Priest) and suggests that the consummated soul becomes a bearer of divine light, a precious stone set in the cosmic order.\n\n[INFERRED] The three-fold division—Raphael/ethics-logic, Gabriel/natural philosophy, Michael/theology—parallels the threefold division of the Heptaplus (literal, allegorical, anagogical on the ethical level; allegorical, tropological, anagogical on the natural level; anagogical, Kabbalistic, neoplatonic on the mystical level). It also parallels the Commento's four-fold structure: Book I (foundation in ethical restoration), Books II-III (natural and cosmological mysteries), Book IV (mystical union and theological perfection). Being & Unity grounds this entire ascent metaphysically: Raphael restores participated ethical being, Gabriel elevates participated natural being, Michael perfects participated theological-mystical being.",
   "exegesis_status": "draft",
-  "lineage": "kabbalah, aquinas",
-  "key_concepts": ["Raphael", "Gabriel", "Michael", "three archangels", "philosophical ladder", "priesthood", "theology"],
-  "tags": ["angelology", "kabbalah", "archangels", "three paths", "priesthood"],
+  "lineage": "kabbalah | aquinas",
+  "key_concepts": [
+    "Raphael",
+    "Gabriel",
+    "Michael",
+    "three archangels",
+    "philosophical ladder",
+    "priesthood",
+    "theology"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalah",
+    "angels",
+    "heretical_adjacent"
+  ],
   "cross_references": {
     "same_text": [],
-    "other_texts": ["Gregory the Great XL Homiliae", "Conclusiones 1.28.14"],
-    "900_conclusions": ["1.28.14"]
+    "other_texts": [
+      "Gregory the Great XL Homiliae",
+      "Conclusiones 1.28.14"
+    ],
+    "900_conclusions": [
+      "1.28.14"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

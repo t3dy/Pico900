@@ -6,16 +6,43 @@
   "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Heptaplus proem 2, pp. 206-207]",
   "english_translation": "Pico outlines the ancient philosophers' doctrine of the three worlds which he also finds in Genesis: the ultramundane or supercelestial world, 'which the theologians call the angelic and the philosophers call the intelligible world' of light and which is symbolized by fire; the celestial world of the stars and planets, of darkness and light together, which is symbolized by fire and water; and the sublunary world of darkness we inhabit, which is symbolized by water. Pico proceeds to assign eternal life and unchanging activity to the first, partaking as it does of the divine nature of mind; stability of life but change of activity and position to the second, partaking as it does of incorruptible body and of mind enslaved to that body; and perpetual alternation of life and death to the third.",
   "translation_source": "Allen critical translation",
-  "exegesis": "[VERIFIED] Pico establishes the foundational cosmology: three worlds arranged hierarchically. The *ultramundane/supercelestial world* (what theologians call the angelic realm and philosophers the intelligible world) is characterized by eternal life, unchanging activity, and is symbolized by *fire*—the principle of intellection and illumination. The *celestial world* possesses stability of life but change of activity/position (the spheres eternally rotate), symbolized by *fire and water together* (eternal intellection expressed in temporal motion). The *sublunary world* exhibits perpetual alternation of life and death, symbolized by *water*—the principle of flux and material becoming. [VERIFIED] Each world is assigned the ontological status appropriate to its nature.\n\nThe philosophical function is to create a triadic map through which all subsequent interpretation proceeds. Pico will read Genesis, mystical theology, and Kabbalah through this triadic structure. The symbolism (fire/water) is not decorative but metaphysically charged: fire is the active principle (intellection), water the receptive (matter). The angel dwells in pure fire; the celestial sphere mediates fire and water; the sublunary world is submerged in water but illuminated by fire from above.\n\n[INFERRED] The Oration (O.1.1-O.1.2) establishes this cosmology as the backdrop for human dignity. Heptaplus uses the three worlds as the foundation for its seven-layer method. Being & Unity grounds this in degrees of participated being: angelical being (pure intellection), celestial being (intellection in motion), material being (intellection fragmented and temporalized)."
+  "exegesis": "[VERIFIED] Pico establishes the foundational cosmology: three worlds arranged hierarchically. The *ultramundane/supercelestial world* (what theologians call the angelic realm and philosophers the intelligible world) is characterized by eternal life, unchanging activity, and is symbolized by *fire*—the principle of intellection and illumination. The *celestial world* possesses stability of life but change of activity/position (the spheres eternally rotate), symbolized by *fire and water together* (eternal intellection expressed in temporal motion). The *sublunary world* exhibits perpetual alternation of life and death, symbolized by *water*—the principle of flux and material becoming. [VERIFIED] Each world is assigned the ontological status appropriate to its nature.\n\nThe philosophical function is to create a triadic map through which all subsequent interpretation proceeds. Pico will read Genesis, mystical theology, and Kabbalah through this triadic structure. The symbolism (fire/water) is not decorative but metaphysically charged: fire is the active principle (intellection), water the receptive (matter). The angel dwells in pure fire; the celestial sphere mediates fire and water; the sublunary world is submerged in water but illuminated by fire from above.\n\n[INFERRED] The Oration (O.1.1-O.1.2) establishes this cosmology as the backdrop for human dignity. Heptaplus uses the three worlds as the foundation for its seven-layer method. Being & Unity grounds this in degrees of participated being: angelical being (pure intellection), celestial being (intellection in motion), material being (intellection fragmented and temporalized).",
   "exegesis_status": "draft",
   "lineage": "pseudo-dionysius | plotinus | aquinas",
-  "key_concepts": ["three worlds", "angelic world", "celestial world", "sublunar world", "intelligible realm", "cosmic hierarchy", "fire-water symbolism"],
-  "tags": ["angelology", "neoplatonism", "cosmology", "three-worlds-doctrine", "hierarchy", "symbolism"],
+  "key_concepts": [
+    "three worlds",
+    "angelic world",
+    "celestial world",
+    "sublunar world",
+    "intelligible realm",
+    "cosmic hierarchy",
+    "fire-water symbolism"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "metaphysics",
+    "hierarchy",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "The three worlds correspond to the three pillars of the Sefirotic tree and the three supernal Sefirot above the Veil of Paroketh.",
   "cross_references": {
-    "same_text": ["C.3.2", "C.3.3", "C.3.4", "C.3.5"],
-    "other_texts": ["Heptaplus proem (three worlds)", "Pseudo-Dionysius Celestial Hierarchy", "Proclus on triadic cosmic structure"],
-    "900_conclusions": ["Triadic cosmos", "Sefirotic pillars", "Angelic intelligible realm"]
+    "same_text": [
+      "C.3.2",
+      "C.3.3",
+      "C.3.4",
+      "C.3.5"
+    ],
+    "other_texts": [
+      "Heptaplus proem (three worlds)",
+      "Pseudo-Dionysius Celestial Hierarchy",
+      "Proclus on triadic cosmic structure"
+    ],
+    "900_conclusions": [
+      "Triadic cosmos",
+      "Sefirotic pillars",
+      "Angelic intelligible realm"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

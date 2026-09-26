@@ -6,16 +6,45 @@
   "latin_text": "[From critical edition, p. 94, lines 3328-3339]",
   "english_translation": "To divide a thing is the same as to destroy it, and thus we cannot take away from anything its own natural unity in such a way that its being would nevertheless remain in its integrity. The whole is not its parts, but that one thing which emerges from the parts, as Aristotle teaches in First Philosophy, Book VIII.",
   "translation_source": "Miller translation (Hackett edition, 1998)",
-  "exegesis": "[VERIFIED] Pico grounds being in unity: division is destruction (*dividere* = to fragment into non-being). A thing cannot lose its unity while retaining integrity of being—to divide is to destroy. [INFERRED] Applied to angelology: seraph's perfection = absolute unity with divine will (no internal division, no multiplicity of competing desires); demon's privation = fracture from divine unity (will against divine order, intellect against truth).\n\nThe philosophical function is to establish unity as the measure of being: higher creatures possess greater unity (simpler, more integrated toward single divine purpose); lower creatures involve multiplicity and division. Matter exemplifies multiplicity; seraph exemplifies unity; demon exemplifies division from unity. [VERIFIED] This resolves the paradox: demon retains minimal being (still an angel) but through privation of unity—a quasi-being of division.\n\n[INFERRED] Heptaplus describes the six days creating graduated unity; demonic rebellion as cosmic dissonance. Commento emphasizes seraphim's perfect unity of love and intellect. Oration describes human soul's struggle to maintain integrated unity against divisive ambition and vice. Being & Unity grounds it: unity is being; division is toward non-being."
+  "exegesis": "[VERIFIED] Pico grounds being in unity: division is destruction (*dividere* = to fragment into non-being). A thing cannot lose its unity while retaining integrity of being—to divide is to destroy. [INFERRED] Applied to angelology: seraph's perfection = absolute unity with divine will (no internal division, no multiplicity of competing desires); demon's privation = fracture from divine unity (will against divine order, intellect against truth).\n\nThe philosophical function is to establish unity as the measure of being: higher creatures possess greater unity (simpler, more integrated toward single divine purpose); lower creatures involve multiplicity and division. Matter exemplifies multiplicity; seraph exemplifies unity; demon exemplifies division from unity. [VERIFIED] This resolves the paradox: demon retains minimal being (still an angel) but through privation of unity—a quasi-being of division.\n\n[INFERRED] Heptaplus describes the six days creating graduated unity; demonic rebellion as cosmic dissonance. Commento emphasizes seraphim's perfect unity of love and intellect. Oration describes human soul's struggle to maintain integrated unity against divisive ambition and vice. Being & Unity grounds it: unity is being; division is toward non-being.",
   "exegesis_status": "draft",
-  "lineage": ["aquinas", "plotinus"],
-  "key_concepts": ["unity-as-ground-of-being", "division-as-destruction", "demonic-division-from-unity", "seraph-as-perfect-unity", "simplicity-and-being", "integrity-through-unity"],
-  "tags": ["angelology", "metaphysics", "unity", "being", "seraph", "demon", "demonology", "simplicity"],
+  "lineage": [
+    "aquinas",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "unity-as-ground-of-being",
+    "division-as-destruction",
+    "demonic-division-from-unity",
+    "seraph-as-perfect-unity",
+    "simplicity-and-being",
+    "integrity-through-unity"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "unity",
+    "being",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Unity as the ground of being and integrity; the seraph exemplifying perfect unity with divine will; demons exemplifying division from divine unity and descent toward non-being",
   "cross_references": {
-    "same_text": ["U.4.1 (evil as privation; demons as deprived of goodness)", "U.3.2 (seraph as exemplar of transcendental unity)", "U.1.1-U.1.2 (angelic integrity depends on divine sustenance)"],
-    "other_texts": ["Heptaplus Layer 2: Angelic separation of intelligible from sensible as hierarchical principle (not demonic division)", "Heptaplus Layer 3: How the six days create graduated unity; demonic rebellion as cosmic dissonance", "Commento Book I: Seraphim as perfect unity of love and intellect; lower angels as gradual differentiation into multiplicity", "Oration: Human soul's struggle to maintain unity against sensual division; virtue as unified orientation toward divine good"],
-    "900_conclusions": ["S1 (Neoplatonic metaphysics of being and unity)", "Conclusions on simplicity and the hierarchy of being"]
+    "same_text": [
+      "U.4.1 (evil as privation; demons as deprived of goodness)",
+      "U.3.2 (seraph as exemplar of transcendental unity)",
+      "U.1.1",
+      "U.1.2"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 2: Angelic separation of intelligible from sensible as hierarchical principle (not demonic division)",
+      "Heptaplus Layer 3: How the six days create graduated unity; demonic rebellion as cosmic dissonance",
+      "Commento Book I: Seraphim as perfect unity of love and intellect; lower angels as gradual differentiation into multiplicity",
+      "Oration: Human soul's struggle to maintain unity against sensual division; virtue as unified orientation toward divine good"
+    ],
+    "900_conclusions": [
+      "S1 (Neoplatonic metaphysics of being and unity)",
+      "Conclusions on simplicity and the hierarchy of being"
+    ]
   },
   "scholar_citations": [
     "Aristotle, Metaphysics VII: On substance and unity as the measure of being",

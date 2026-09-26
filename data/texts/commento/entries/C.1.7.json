@@ -9,13 +9,37 @@
   "exegesis": "[VERIFIED] Pico reaches a decisive metaphysical identification: the angelic Mind is identical with the *mundus intelligibilis*—the intelligible world of Ideas. This is not a mere parallel or correspondence but an ontological identity. The realm of Ideas is not a Platonic heaven existing apart from being; it is the angelic realm itself. Angels *are* the Ideas—intellectual forms that embody the divine patterns through which all creation is ordered. To know the Ideas is to participate in angelic intellection; to commune with angels is to contemplate the realm of perfect intelligible forms.\n\nThe philosophical function is to dissolve any separation between Platonic metaphysics and Christian angelology. Ficino and Pico were acutely aware that \"Son\" (*Nous*, World-Mind), used by ancient Platonists for the second hypostasis, could not be equated with the Christian Son of God (who is consubstantial with the Father). But it *can* be identified with the highest angelic order. This move allows Pico to claim that Plato, who grasped the intelligible world metaphysically, was actually grasping angelic reality—a form of natural revelation preserved in the prisca theologia.\n\n[INFERRED] The identification has profound consequences: human knowledge of Ideas is actually participation in angelic intellection. The Platonic ascent (from sensibles to intelligibles) is simultaneously an ascent to angelic communion. The Oration's doctrine of human ascent to angelhood becomes metaphysically grounded: the human intellect, actualizing its capacity for universal knowledge, participates in the very intelligible forms that constitute angelic being. Heptaplus develops this: each layer of interpretive reading reveals another aspect of the intelligible realm (literal/allegorical/mystical readings all reveal the same angelic architecture). Being & Unity grounds this: the intelligible realm is the highest degree of participated being.",
   "exegesis_status": "draft",
   "lineage": "plotinus | pseudo-dionysius | aquinas",
-  "key_concepts": ["intelligible world", "ideas", "angelic mind", "platonic forms", "theological distinction", "angelic realm as ideal realm"],
-  "tags": ["angelology", "neoplatonism", "metaphysics", "platonic-ideas", "intelligible-realm"],
+  "key_concepts": [
+    "intelligible world",
+    "ideas",
+    "angelic mind",
+    "platonic forms",
+    "theological distinction",
+    "angelic realm as ideal realm"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "metaphysics",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "The intelligible world corresponds to the supernal Sefirot and the Kabbalistic intelligible realm ('Atziluth / Emanation world).",
   "cross_references": {
-    "same_text": ["C.1.1", "C.1.2", "C.1.3"],
-    "other_texts": ["Heptaplus (intelligible world)", "On Being and Unity (being and ideas)", "Plato Timaeus 30C7 (World Soul)"],
-    "900_conclusions": ["Intelligible realm", "Angelic metaphysics", "Sefirotic emanation"]
+    "same_text": [
+      "C.1.1",
+      "C.1.2",
+      "C.1.3"
+    ],
+    "other_texts": [
+      "Heptaplus (intelligible world)",
+      "On Being and Unity (being and ideas)",
+      "Plato Timaeus 30C7 (World Soul)"
+    ],
+    "900_conclusions": [
+      "Intelligible realm",
+      "Angelic metaphysics",
+      "Sefirotic emanation"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

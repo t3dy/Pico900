@@ -8,14 +8,38 @@
   "translation_source": "Allen critical translation",
   "exegesis": "[PLACEHOLDER: Pico describes the angelic Mind through the mythological apparatus of Saturn and Jupiter, giving the angelic intellect three simultaneous functions: upward contemplation of God, self-regarding contemplation of its own perfection, and downward creative providential activity. This trinitarian structure echoes both Pseudo-Dionysius and Proclus. SYNTHESIZER to develop implications for angelic activity.]",
   "exegesis_status": "draft",
-  "lineage": "pseudo-dionysius | plotinus | proclus",
-  "key_concepts": ["three functions", "saturnian contemplation", "jovian providence", "angelic intellect", "triadic structure", "upward/inward/downward motion"],
-  "tags": ["angelology", "neoplatonism", "mythology", "cosmic hierarchy", "contemplation"],
+  "lineage": "pseudo-dionysius | plotinus",
+  "key_concepts": [
+    "three functions",
+    "saturnian contemplation",
+    "jovian providence",
+    "angelic intellect",
+    "triadic structure",
+    "upward/inward/downward motion"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "hierarchy",
+    "mysticism",
+    "mystical_union",
+    "heretical_adjacent"
+  ],
   "kabbalistic_elements": "The three functions correspond to the triadic structure found in Kabbalistic emanation (knowledge ascending, self-awareness reflecting, creative influence descending). Parallels the Supernal Triad (Keter/Chokmah/Binah).",
   "cross_references": {
-    "same_text": ["C.1.2", "C.1.4"],
-    "other_texts": ["Heptaplus Day 1 Layer 2 (angelic hierarchy)", "Ficino's Platonic Theology on triadic emanation", "On Being and Unity (cosmic hierarchy)"],
-    "900_conclusions": ["Triadic cosmic structure", "Angelic emanation"]
+    "same_text": [
+      "C.1.2",
+      "C.1.4"
+    ],
+    "other_texts": [
+      "Heptaplus Day 1 Layer 2 (angelic hierarchy)",
+      "Ficino's Platonic Theology on triadic emanation",
+      "On Being and Unity (cosmic hierarchy)"
+    ],
+    "900_conclusions": [
+      "Triadic cosmic structure",
+      "Angelic emanation"
+    ]
   },
   "scholar_citations": [],
   "status": "sourced",

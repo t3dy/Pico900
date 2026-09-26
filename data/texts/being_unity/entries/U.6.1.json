@@ -6,16 +6,45 @@
   "latin_text": "[From critical edition, p. 96, lines 3413-3416]",
   "english_translation": "The present disputation seems above all to warn us that if we wish to be blessed, we must imitate the most blessed of all things, God, possessing in ourselves unity, truth, and goodness. Ambition disturbs the peace of unity and wrenches the soul that clings to it out of itself, and drags and tears the soul in pieces as if wounded.",
   "translation_source": "Miller translation (Hackett edition, 1998)",
-  "exegesis": "[VERIFIED] Pico concludes with an ethical exhortation grounded in completed metaphysics: humans must imitate God through cultivating unity, truth, goodness—the transcendental properties measured against the hierarchy. [VERIFIED] The seraph exemplifies perfect imitation: absolute unity (undivided toward God), perfect truth (total conformity to divine exemplar), perfect goodness (complete charity toward God's good). Humans, as rational beings imaging God and capable of angelic intellection, are called to approximate seraphic virtue.\n\nThe philosophical function is existential-ethical: angelology becomes imperative. Ambition (disordered self-love) fragments the soul into competing desires; charity (divine love) restores integrated unity. [INFERRED] Humans face the choice exemplified by seraph and demon: to ascend through virtue toward angelic nature or descend through vice toward bestial fragmentation. The seraph is not merely metaphysical principle but ethical exemplar—the creature the human soul must become.\n\n[VERIFIED] Oration extensively develops this ethical dimension of human dignity. Commento traces the soul's ascent through love toward seraphic perfection. Heptaplus elaborates angels as moral exemplars in its tropological layer. Being & Unity makes clear: understanding angelology means understanding what human virtue must achieve."
+  "exegesis": "[VERIFIED] Pico concludes with an ethical exhortation grounded in completed metaphysics: humans must imitate God through cultivating unity, truth, goodness—the transcendental properties measured against the hierarchy. [VERIFIED] The seraph exemplifies perfect imitation: absolute unity (undivided toward God), perfect truth (total conformity to divine exemplar), perfect goodness (complete charity toward God's good). Humans, as rational beings imaging God and capable of angelic intellection, are called to approximate seraphic virtue.\n\nThe philosophical function is existential-ethical: angelology becomes imperative. Ambition (disordered self-love) fragments the soul into competing desires; charity (divine love) restores integrated unity. [INFERRED] Humans face the choice exemplified by seraph and demon: to ascend through virtue toward angelic nature or descend through vice toward bestial fragmentation. The seraph is not merely metaphysical principle but ethical exemplar—the creature the human soul must become.\n\n[VERIFIED] Oration extensively develops this ethical dimension of human dignity. Commento traces the soul's ascent through love toward seraphic perfection. Heptaplus elaborates angels as moral exemplars in its tropological layer. Being & Unity makes clear: understanding angelology means understanding what human virtue must achieve.",
   "exegesis_status": "draft",
-  "lineage": ["pseudo-dionysius", "aquinas", "plotinus"],
-  "key_concepts": ["angelology-as-ethical-model", "seraphic-perfection-as-human-aspiration", "imitation-of-God", "unity-truth-goodness", "ambition-vs-charity", "virtue-as-participation"],
-  "tags": ["angelology", "ethics", "virtue", "seraph", "mystical-union", "neoplatonism", "human-dignity"],
+  "lineage": [
+    "pseudo-dionysius",
+    "aquinas",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "angelology-as-ethical-model",
+    "seraphic-perfection-as-human-aspiration",
+    "imitation-of-God",
+    "unity-truth-goodness",
+    "ambition-vs-charity",
+    "virtue-as-participation"
+  ],
+  "tags": [
+    "angelology",
+    "neoplatonism",
+    "dignity",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Angelology as ethical imperative: humans called to imitate seraphic perfection by cultivating unity, truth, and goodness; the seraph as exemplar of the integrated soul",
   "cross_references": {
-    "same_text": ["U.6.2 (human soul as microcosm of angelic hierarchy; virtue as integration)", "U.5.1-U.5.2 (God's unity as the model for created unity)", "U.3.2 (seraph as exemplar of transcendental perfection)"],
-    "other_texts": ["Oration: Central theme of human dignity through ascent to angelic nature and virtue; the seraph invoked as the model for human perfection", "Commento Book III: Ascent through seraphic love (the seraph's perfect caritas) as the fulfillment of the soul's journey toward divine union", "Heptaplus Layer 3 (Tropological): Angels as moral exemplars; humans called to imitate their virtue and integration"],
-    "900_conclusions": ["Conclusions on human dignity and capacity for angelic ascent", "Conclusions on virtue and the transcendental properties", "Conclusions on the integration of the soul through charity"]
+    "same_text": [
+      "U.6.2 (human soul as microcosm of angelic hierarchy; virtue as integration)",
+      "U.5.1",
+      "U.5.2",
+      "U.3.2 (seraph as exemplar of transcendental perfection)"
+    ],
+    "other_texts": [
+      "Oration: Central theme of human dignity through ascent to angelic nature and virtue; the seraph invoked as the model for human perfection",
+      "Commento Book III: Ascent through seraphic love (the seraph's perfect caritas) as the fulfillment of the soul's journey toward divine union",
+      "Heptaplus Layer 3 (Tropological): Angels as moral exemplars; humans called to imitate their virtue and integration"
+    ],
+    "900_conclusions": [
+      "Conclusions on human dignity and capacity for angelic ascent",
+      "Conclusions on virtue and the transcendental properties",
+      "Conclusions on the integration of the soul through charity"
+    ]
   },
   "scholar_citations": [
     "Howlett on ethics as applied metaphysics: Pico's fusion of Dionysian hierarchy and Thomistic virtue ethics",

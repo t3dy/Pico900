@@ -8,14 +8,43 @@
   "translation_source": "Miller translation (Hackett edition, 1998)",
   "exegesis": "Pico establishes that angelic intellection, despite its perfection among creatures, remains imperfect and dependent. Angels exemplify participated being: their knowledge is not self-contained but requires external divine illumination. This doctrine grounds the hierarchy of being—even the highest created intellects depend on God's truth, establishing a clear distinction between God's essential knowledge (possessing truth fully) and angelic participated knowledge (seeking truth received from God). The passage invokes Aquinas's framework of participated intellection via divine illumination and Pseudo-Dionysius's hierarchy of intellects arranged by their proximity to divine light.",
   "exegesis_status": "draft",
-  "lineage": ["aquinas", "pseudo-dionysius", "plotinus"],
-  "key_concepts": ["participated-intellect", "imperfect-knowledge", "divine-illumination", "hierarchical-being", "created-dependency"],
-  "tags": ["angelology", "metaphysics", "participated-being", "neoplatonism", "hierarchy", "thomistic-theology"],
+  "lineage": [
+    "aquinas",
+    "pseudo-dionysius",
+    "plotinus"
+  ],
+  "key_concepts": [
+    "participated-intellect",
+    "imperfect-knowledge",
+    "divine-illumination",
+    "hierarchical-being",
+    "created-dependency"
+  ],
+  "tags": [
+    "angelology",
+    "metaphysics",
+    "being",
+    "neoplatonism",
+    "hierarchy",
+    "theology",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Angel as participated intellect; angelic knowledge as imperfect participation in divine truth, marked by external dependence on God's illuminating light",
   "cross_references": {
-    "same_text": ["U.1.2 (angelic being as continuously sustained)", "U.3.1 (participated being through efficient causality)", "U.5.1 (God's essential vs creatures' participated unity)"],
-    "other_texts": ["Oration: angels as exemplars of intellect and human ascent toward angelic nature", "Commento Book I: angelic intellect as formal principle of human intellection via Sefirotic correspondence", "Heptaplus Layer 1: angels as the intelligible intellect; Layer 2: angelic hierarchy as cosmic Nous reflecting divine mind"],
-    "900_conclusions": ["S1 section (Neoplatonic philosophy on hierarchy of intellects)", "Conclusions on participated being and creatures' dependence on God"]
+    "same_text": [
+      "U.1.2 (angelic being as continuously sustained)",
+      "U.3.1 (participated being through efficient causality)",
+      "U.5.1 (God's essential vs creatures' participated unity)"
+    ],
+    "other_texts": [
+      "Oration: angels as exemplars of intellect and human ascent toward angelic nature",
+      "Commento Book I: angelic intellect as formal principle of human intellection via Sefirotic correspondence",
+      "Heptaplus Layer 1: angels as the intelligible intellect; Layer 2: angelic hierarchy as cosmic Nous reflecting divine mind"
+    ],
+    "900_conclusions": [
+      "S1 section (Neoplatonic philosophy on hierarchy of intellects)",
+      "Conclusions on participated being and creatures' dependence on God"
+    ]
   },
   "scholar_citations": [
     "Aquinas, Summa Theologiae II.2, q. 58: On angelic knowledge as dependent on God's will and illumination",

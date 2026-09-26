@@ -6,16 +6,44 @@
   "latin_text": "[From critical edition, p. 85, lines 2963-2966]",
   "english_translation": "Dionysius the Areopagite saw this. After all that he wrote in the Symbolic Theology, in the Theological Institutions, in On the Divine Names, and in On Mystical Theology, he finally at the end of that work spoke as he could about God in a very holy way, as if he were already in the cloud.",
   "translation_source": "Miller translation (Hackett edition, 1998)",
-  "exegesis": "[VERIFIED] Pico invokes Pseudo-Dionysius as exemplar of hierarchical mysticism. The progression through Pseudo-Dionysius's four works—Symbolic Theology (sensible symbols of divine truth), Theological Institutions (abstract doctrine), Divine Names (affirmative theology of God's attributes), Mystical Theology (apophatic negation)—traces the ladder of ascent from affirmation through negation to unknowing. [INFERRED] The nine angelic orders are the rungs on this ladder: each order represents a degree of illumination and proximity to divine mystery.\n\nThe philosophical function is methodological: mysticism is not irrational but structured. The soul ascends through the hierarchy via progressive negation—stripping away false conceptions, finite categories, even being and unity as finite concepts, until arriving at the divine darkness that transcends all knowledge. [VERIFIED] The passage emphasizes that even the seraphim, the highest angels, dwell in the cloud of unknowing—God's transcendence infinitely exceeds even perfect angelic intellection.\n\n[INFERRED] Heptaplus elaborates this ladder through its seven layers of Genesis interpretation. Commento describes the soul's ascent toward seraphic love that culminates in divine darkness. Oration invokes Pseudo-Dionysius's hierarchy as the blueprint for human dignity and ascent. Being & Unity grounds it: participated being approaches but never reaches essential being."
+  "exegesis": "[VERIFIED] Pico invokes Pseudo-Dionysius as exemplar of hierarchical mysticism. The progression through Pseudo-Dionysius's four works—Symbolic Theology (sensible symbols of divine truth), Theological Institutions (abstract doctrine), Divine Names (affirmative theology of God's attributes), Mystical Theology (apophatic negation)—traces the ladder of ascent from affirmation through negation to unknowing. [INFERRED] The nine angelic orders are the rungs on this ladder: each order represents a degree of illumination and proximity to divine mystery.\n\nThe philosophical function is methodological: mysticism is not irrational but structured. The soul ascends through the hierarchy via progressive negation—stripping away false conceptions, finite categories, even being and unity as finite concepts, until arriving at the divine darkness that transcends all knowledge. [VERIFIED] The passage emphasizes that even the seraphim, the highest angels, dwell in the cloud of unknowing—God's transcendence infinitely exceeds even perfect angelic intellection.\n\n[INFERRED] Heptaplus elaborates this ladder through its seven layers of Genesis interpretation. Commento describes the soul's ascent toward seraphic love that culminates in divine darkness. Oration invokes Pseudo-Dionysius's hierarchy as the blueprint for human dignity and ascent. Being & Unity grounds it: participated being approaches but never reaches essential being.",
   "exegesis_status": "draft",
-  "lineage": ["pseudo-dionysius", "plotinus", "synthesis"],
-  "key_concepts": ["pseudo-dionysius-hierarchy", "mystical-ascent", "apophatic-theology", "angelic-orders-as-ladder", "cloud-of-unknowing"],
-  "tags": ["angelology", "mystical-theology", "apophatic-theology", "hierarchy", "pseudo-dionysius", "neoplatonism", "divine-darkness"],
+  "lineage": [
+    "pseudo-dionysius",
+    "plotinus",
+    "synthesis"
+  ],
+  "key_concepts": [
+    "pseudo-dionysius-hierarchy",
+    "mystical-ascent",
+    "apophatic-theology",
+    "angelic-orders-as-ladder",
+    "cloud-of-unknowing"
+  ],
+  "tags": [
+    "angelology",
+    "theology",
+    "hierarchy",
+    "neoplatonism",
+    "heretical_adjacent"
+  ],
   "metaphysical_theme": "Pseudo-Dionysius's hierarchical angelology as the metaphysical framework for mystical ascent; the nine angelic orders as rungs on the ladder toward divine darkness that transcends even the highest created intellects",
   "cross_references": {
-    "same_text": ["U.2.2 (apophatic theology and divine transcendence)", "U.1.1 (angelic intellection as participated)", "U.5.1 (God's essential mystery)"],
-    "other_texts": ["Heptaplus Layer 2: Pseudo-Dionysius hierarchy explicitly mapped to the creation narrative and six days", "Heptaplus Layer 4: Anagogical reading where angels lead the soul toward mystical union", "Commento Book I: Seraphim at apex of angelic hierarchy as exemplars of divine love", "Oration: Pseudo-Dionysius's hierarchy invoked for human dignity and capacity for ascent toward God"],
-    "900_conclusions": ["S1 (Pseudo-Dionysius and Christian Neoplatonism)", "Conclusions on hierarchy and mystical union"]
+    "same_text": [
+      "U.2.2 (apophatic theology and divine transcendence)",
+      "U.1.1 (angelic intellection as participated)",
+      "U.5.1 (God's essential mystery)"
+    ],
+    "other_texts": [
+      "Heptaplus Layer 2: Pseudo-Dionysius hierarchy explicitly mapped to the creation narrative and six days",
+      "Heptaplus Layer 4: Anagogical reading where angels lead the soul toward mystical union",
+      "Commento Book I: Seraphim at apex of angelic hierarchy as exemplars of divine love",
+      "Oration: Pseudo-Dionysius's hierarchy invoked for human dignity and capacity for ascent toward God"
+    ],
+    "900_conclusions": [
+      "S1 (Pseudo-Dionysius and Christian Neoplatonism)",
+      "Conclusions on hierarchy and mystical union"
+    ]
   },
   "scholar_citations": [
     "Pseudo-Dionysius, De divinis nominibus, De mystica theologia: Primary authorities on angelic hierarchy and apophatic path to God",
