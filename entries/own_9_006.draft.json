@@ -4,7 +4,7 @@
  "latin": "Quodcunque fiat opus mirabile, siue sit magicum, siue cabalisticum, siue cuiuscunque alterius generis, principalissime referendum est in deum gloriosum et benedictum, cuius gratia supercaelestes mirabilium uirtutum aquas super contemplatiuos homines bonae uoluntatis quotidie pluit liberaliter.",
  "latin_source": "farmer1998:25194",
  "translation": "Whatever marvelous work is done, whether magical, or cabalistic, or of any other kind, must be referred above all to the glorious and blessed God, by whose grace the supercelestial waters of marvelous powers rain down daily and generously upon contemplative men of good will.",
- "translation_note": "'supercaelestes...aquas' evokes the 'waters above the firmament' of Genesis 1; Busi and Ebgi's commentary links the image to a parallel passage describing these waters as a divine balm descending like abundant rain (busi2014:14949).",
+ "translation_note": "'supercaelestes...aquas' evokes the 'waters above the firmament' of Genesis 1; Busi and Ebgi's own footnote on this thesis renders the phrase closely as 'acque sopracelesti di mirabile virtu' and glosses it as waters God 'pours upon the heads of contemplative men' (busi2014:3575-3577).",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25194",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion, section 9> (Magic) (farmer1998:25194).",
@@ -12,19 +12,20 @@
  "doctrine": "The thesis subordinates every marvelous operation, magical or cabalistic, to the grace of God, imaged as supercelestial waters raining daily on contemplative men of good will (farmer1998:25194). Farmer groups this thesis with 9>12 and 9>20 as together suggesting that Pico's imitative magic did not work mechanically but depended on the mediation of the purified soul (farmer1998:25253), and his cross-reference network ties it to the Christological magic theses 9>7-9>9 and to the reconciling principle of 1>6 (farmer1998:18596; farmer1998:25200; farmer1998:25204; farmer1998:25208).",
  "context": null,
  "reception": null,
- "historiography": "Busi and Ebgi find a parallel to this thesis's image elsewhere in Pico, where the supercelestial waters are treated as a divine balm that descends, in their words, 'a guisa di abbondante pioggia sulla mente degli uomini contemplativi, mossi da retta volontà' ('like abundant rain on the mind of contemplative men, moved by right will'), citing Conclusiones page 496 (their note on thesis 9>6) and their Commento at pages 510-511 (busi2014:14949).",
+ "historiography": "Busi and Ebgi's own footnote on this thesis, attached to their discussion of the Symposium myth of Poros and Penia, compares that myth's 'luminous rain' to the waters of this conclusio: 'Sorta di pioggia luminosa che irriga le terre dell'Intelligenza, simile in tutto a quelle «acque sopracelesti di mirabile virtu» che Dio sparge sul capo degli uomini contemplativi, evocate da Pico in una delle Conclusiones' ('A kind of luminous rain that irrigates the lands of the Intelligence, entirely like those \"supercelestial waters of marvelous power\" that God pours upon the heads of contemplative men, evoked by Pico in one of the Conclusiones') (busi2014:3575-3577). Their Italian 'acque sopracelesti di mirabile virtu' renders Pico's own 'supercaelestes...mirabilium uirtutum aquas' closely, confirming that this is the thesis they have in mind (busi2014:3576).",
  "connections": ["1>6", "9>7", "9>8", "9>9", "9>12", "9>20"],
  "condemned_flag": false,
  "quotations": [
   {
-   "text": "le acque sopracelesti sono considerate alla stregua di un balsamo divino, che scende a guisa di abbondante pioggia sulla mente degli uomini contemplativi, mossi da retta volontà",
+   "text": "Sorta di pioggia luminosa che irriga le terre dell'Intelligenza, simile in tutto a quelle «acque sopracelesti di mirabile virtu» che Dio sparge sul capo degli uomini contemplativi, evocate da Pico in una delle Conclusiones",
    "work": "busi2014",
-   "line": 14949,
+   "line": 3575,
    "verbatim": true
   }
  ],
  "not_established": [
-  "Busi and Ebgi's fuller commentary on this parallel (their Commento, pp. 510-11, fonte 50) is not given beyond the summary citation consulted.",
+  "Whether Busi and Ebgi's Commento discusses this thesis at greater length elsewhere in their volume, beyond the footnote consulted here, is not established by the sources consulted.",
+  "A prior draft of this entry attributed to Busi and Ebgi (2014), at line 14949, the sentence 'le acque sopracelesti sono considerate alla stregua di un balsamo divino, che scende a guisa di abbondante pioggia sulla mente degli uomini contemplativi, mossi da retta volontà.' On verification against busi_ebgi_qabbalah.txt, this sentence does not occur anywhere in the file: it reads as a plausible-sounding back-translation into Italian of the thesis's own Latin/English (an instance of the pattern documented in docs/INCIDENT_2026-09-26_PORTER_FABRICATION.md, where a writer's own restatement was dressed up as a scholar's quotation), not a citable phrase found in the text of Busi and Ebgi. The genuine footnote on this thesis, located by searching on 'acque sopracelesti' and 'balsamo divino', has been substituted in its place.",
   "not established by the sources consulted"
  ],
  "writer": "WRITER-full-batch17 (agent), 2026-09-26",
