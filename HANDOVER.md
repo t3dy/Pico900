@@ -60,3 +60,13 @@ python scripts/build_corpus_registry.py && python scripts/extract_farmer_theses.
 python scripts/entry_gate.py                      # all drafts
 python scripts/integrity_gate.py --verify-quotes  # legacy entries only
 ```
+
+## Coordination with the other windows (added late 2026-09-25)
+
+This window (`window-8857d983`) owns: `scripts/{build_corpus_registry,extract_farmer_theses,harvest_mentions,build_dossiers,entry_gate,build_site_v2}.py`,
+`data/inventory/`, `data/corpus/`, `data/ontology/`, `research-packets/`, `entries/` (through its writer and translator
+agents), `docs/{ENTRY_FORMAT,DATA_ONTOLOGY,RESEARCH_PROTOCOL}.md`, `RESEARCHNOTES_2026-09-25.md`. The claims layer
+(`data/claims/`, `docs/CLAIMS_MODEL.md`, `scripts/claims_*.py`), the ticket board and `PROMPTS.md` belong to
+`window-3bc261ff`; the intellectual network to `window-a08fd9b0`. Tickets for this window's work are on the board
+(`python scripts/tickets.py list`). Commits 7f8bd73 and ae9a4bf accidentally snapshotted the claims layer's
+uncommitted files (D-17); nothing was lost.

@@ -576,6 +576,132 @@
      "created"
     ]
    ]
+  },
+  {
+   "id": "T-RES-01",
+   "title": "Research layer: Farmer-derived inventory (900), corpus registry, deterministic mention harvest, research packets, entry gate",
+   "status": "done",
+   "prompts": [],
+   "owns": [
+    "scripts/extract_farmer_theses.py",
+    "scripts/build_corpus_registry.py",
+    "scripts/harvest_mentions.py",
+    "scripts/build_dossiers.py",
+    "scripts/entry_gate.py",
+    "data/inventory/",
+    "data/corpus/",
+    "data/ontology/",
+    "research-packets/"
+   ],
+   "deps": [],
+   "labels": [
+    "research"
+   ],
+   "gate": "",
+   "owner": "window-8857d983",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "done",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-01",
+   "title": "Tier-A entries for the 13 condemned + 49 most-cited theses (7 WRITER agents, launched 2026-09-25 21:15)",
+   "status": "doing",
+   "prompts": [],
+   "owns": [
+    "entries/"
+   ],
+   "deps": [
+    "T-RES-01"
+   ],
+   "labels": [
+    "writing"
+   ],
+   "gate": "",
+   "owner": "window-8857d983 (7 writer agents)",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-02",
+   "title": "Original translations + attribution for all non-tier-A theses (10 TRANSLATOR agents, one block each)",
+   "status": "doing",
+   "prompts": [],
+   "owns": [
+    "entries/"
+   ],
+   "deps": [
+    "T-RES-01"
+   ],
+   "labels": [
+    "writing"
+   ],
+   "gate": "",
+   "owner": "window-8857d983 (10 translator agents)",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "doing",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-ENT-03",
+   "title": "VERIFIER swarm: entry_gate then re-find every quotation/date; promote entries/*.draft.json to *.json; verdicts to data/verification/",
+   "status": "backlog",
+   "prompts": [],
+   "owns": [
+    "entries/",
+    "data/verification/"
+   ],
+   "deps": [
+    "T-ENT-01",
+    "T-ENT-02"
+   ],
+   "labels": [
+    "verification"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "backlog",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-SITE-V2",
+   "title": "build_site_v2.py: thesis pages from entries/ (verified as text, drafts badged), cited-by from harvest, Farmer cross-refs; baseline until T-SITE-06 cards",
+   "status": "done",
+   "prompts": [],
+   "owns": [
+    "scripts/build_site_v2.py"
+   ],
+   "deps": [],
+   "labels": [
+    "site"
+   ],
+   "gate": "",
+   "owner": "window-8857d983",
+   "history": [
+    [
+     "2026-09-26T04:38:13+00:00",
+     "done",
+     "created"
+    ]
+   ]
   }
  ]
 }

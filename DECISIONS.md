@@ -825,3 +825,22 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   carries enough provenance to re-derive.
 - **D-12 Generated research data is committed** (inventory, ontology, packets, registry) so that future sessions and agents
   without access to `E:\` can still write and verify from locators; the source Markdown itself is not committed.
+
+## 2026-09-25, late: Q-1..Q-4 decided (Ted's standing instruction in PROMPTS.md: decide and record, do not ask)
+
+- **D-13 (closes Q-1) Translation policy.** Every English rendering in the edition is original, made from the Latin and
+  checked for sense against Farmer's line, which is never reproduced; machine-drafted renderings are labelled as such
+  in `translator` until a human Latinist has checked them, and `entry_gate.py` rejects a rendering near-identical to
+  Farmer's. Reason: Farmer's translation is in copyright; an edition needs its own text; disclosure keeps the reader honest.
+- **D-14 (closes Q-2) Depth tiers.** Tiers are assigned from the harvest statistics (A: condemned or cited by >=3 works;
+  B: >=1; C: Farmer's note or cross-reference only; D: Latin only) and recorded in `data/ontology/theses.json`, where a
+  human may override them. Reason: depth should follow the scholarship that exists; a uniform promise produced filler.
+- **D-15 (closes Q-3) Publication.** Nothing is published until the thirteen condemned theses (tier A pilot) have passed
+  a VERIFIER; the site build renders drafts only with a visible badge, so an early skeleton can be shown privately.
+- **D-16 (closes Q-4) Latin base text.** Farmer's edition (OCR) is the copy-text; his 1486/1487 apparatus and folio
+  marks are recorded per thesis; collation against the 1486 print and the Brown edition is a later ticket, not a
+  precondition. Reason: the only complete machine-readable Latin in the corpus is Farmer's; the apparatus is preserved.
+- **D-17 Commit hygiene in a shared checkout.** Several windows work in this checkout at once. Two commits from this
+  window (7f8bd73, ae9a4bf) were made with `git add -A` and swept in another window's uncommitted claims-layer files as a
+  snapshot; history was not rewritten (rewriting under concurrent windows is riskier than the snapshot). From now on each
+  window stages only the files it owns, by name.
