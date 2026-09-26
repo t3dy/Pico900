@@ -21,8 +21,8 @@
     "Macrobius (Neoplatonic cosmology)",
     "Ficino"
   ],
-  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
-  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
+  "charge": "Union (henosis) with the One potentially denies individual soul's distinction and personal immortality.",
+  "defense": "Mystical union understood as participation, not absorption. Soul retains identity while participating in divine perfection. Cites Plotinus and Dionysian mysticism.",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -58,5 +58,6 @@
     "theme": "Henosis and Union with the Good",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:01:35.150119"
+  "updated_date": "2026-09-25T18:02:44.755589",
+  "_sourcing_phase": 2
 }

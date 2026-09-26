@@ -22,8 +22,8 @@
     "Plotinus",
     "Macrobius"
   ],
-  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
-  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
+  "charge": "The doctrine of soul's descent into body and materiality potentially implies necessity rather than divine will.",
+  "defense": "Soul's descent is voluntary and recuperative (soul purifies matter through organizing and enlivening it). Follows Plotinian and Porphyrian psychology.",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -60,5 +60,6 @@
     "theme": "Soul's Faculties and Descent",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:01:35.172729"
+  "updated_date": "2026-09-25T18:02:44.783023",
+  "_sourcing_phase": 2
 }

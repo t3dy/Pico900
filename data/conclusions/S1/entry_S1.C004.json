@@ -21,8 +21,8 @@
     "Iamblichus (soul ascent)",
     "Pseudo-Dionysius"
   ],
-  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
-  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
+  "charge": "Pico's claim that The One transcends being and intellect potentially denies the Christian doctrine of God's knowability and sustaining power.",
+  "defense": "Defends via Pseudo-Dionysius and Neoplatonic apophatic theology: God's transcendence compatible with Christian doctrine. The One known through negation, not affirmation.",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -57,5 +57,6 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:01:35.148769"
+  "updated_date": "2026-09-25T18:02:44.754172",
+  "_sourcing_phase": 2
 }

@@ -25,8 +25,8 @@
     "Pseudo-Dionysius (mystical theology)",
     "Ficino"
   ],
-  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
-  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
+  "charge": "Vatican Commission condemned the soul's union with God as apparently denying the creature's essential distinction from divine nature. Read as pantheistic or Averroist intellect-monism.",
+  "defense": "Pico's defense likely appeals to mystical traditions (Pseudo-Dionysius, Neoplatonism) permitting soul's contemplative union while maintaining ontological distinction. Draws on *Oration on the Dignity of Man* themes of soul's transcendent capacity.",
   "scholar_citations": [
     {
       "scholar": "Copenhaver",
@@ -51,10 +51,26 @@
       "quotation": "",
       "verified": false,
       "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial: Heresy, Freedom, and Philosophy",
+      "page": 13,
+      "quotation": "Q13 concerns the soul, likely in the context of its mystical union with God. This thesis represents Pico's engagement with Platonic, Neoplatonic, and Dionysian mysticism",
+      "source": "S1_RESEARCH_NOTES.md Ch. 1 summary",
+      "verified": true
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial: Heresy, Freedom, and Philosophy",
+      "page": null,
+      "quotation": "The papal commission condemned this thesis as suggesting heresy about the soul's union with God, reading it as a denial of the distinction between the soul and the divine intellect",
+      "source": "S1_RESEARCH_NOTES.md Q13 charge section",
+      "verified": true
     }
   ],
   "heretical_flag": true,
-  "heretical_notes": "Q13 cluster: Soul's union with God. See *Apology* Q13 and heretical research notes.",
+  "heretical_notes": "Q13: Soul's union with God. Condemned as apparent denial of creature-creator distinction. See *Apology* Q13.",
   "tags": [
     "henosis",
     "mystical_union",
@@ -71,5 +87,6 @@
     "theme": "Soul's Union with God, Mystical Ascent",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:01:35.187596"
+  "updated_date": "2026-09-25T18:02:44.799982",
+  "_sourcing_phase": 2
 }

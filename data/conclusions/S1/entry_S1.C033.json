@@ -23,8 +23,8 @@
     "Proclus (providence)",
     "Pseudo-Dionysius (beauty)"
   ],
-  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
-  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
+  "charge": "The hierarchy potentially denies the sovereignty of God over creation or introduces intermediate emanations competing with divine omnipotence.",
+  "defense": "Hierarchy is eternal and atemporean. Emanation derives from God's superabundant goodness, not diminishment. Follows Plotinus, Porphyry, Proclus.",
   "scholar_citations": [
     {
       "scholar": "Copenhaver",
@@ -52,5 +52,6 @@
     "theme": "Metaphysical Hierarchy, Being, Intellect",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:01:35.163201"
+  "updated_date": "2026-09-25T18:02:44.771648",
+  "_sourcing_phase": 2
 }
