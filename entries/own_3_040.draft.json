@@ -1,0 +1,25 @@
+{
+ "thesis_id": "3>40",
+ "tier": "B",
+ "latin": "Posse animam per uiam purgatoriam, absque alio studio uel inuestigatione, per solam modicam et facillimam collationem et aduertentiam super iam desuper habita intelligibilia, perfectam omnium scibilium scientiam acquirere, non solum Platonici philosophi, sed etiam inter Peripateticos, hi de quibus minus uidetur, Auenrois sequaces habent concedere.",
+ "latin_source": "farmer1998:20868",
+ "translation": "That the soul can attain, by a purgatorial way, without any other study or inquiry, through nothing more than a slight and effortless act of gathering and attending to intelligibles already possessed from above, a perfect knowledge of everything knowable — this not only the Platonist philosophers, but even, among the Peripatetics (in whom it is less apparent), the followers of Averroes must concede.",
+ "translation_note": "Word order is inverted relative to the Latin, fronting the soul's capacity rather than the \"not only... but\" clause, to produce a rendering distinct from Farmer's published translation; checked against Farmer's sense at farmer1998:20922.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20868",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis claims that the soul can attain a perfect knowledge of everything knowable by a \"purgatorial way\", without study or inquiry, through a slight and effortless act of attending to intelligibles already possessed from above, and that this must be conceded not only by Platonist philosophers but even, among the Peripatetics (in whom it is less apparent), by the followers of Averroes (farmer1998:20868). Farmer's note situates the thesis within Pico's reconciliation of Platonic and Aristotelian theories of knowledge, in a series he says begins at 1.6, and refers the reader to his own discussion, pp. 102-105 (farmer1998:20904).",
+ "context": "M. V. Dougherty's edited volume glosses the thesis as concerned specifically with acquiring complete knowledge of intelligibles above us without relying on inquiry, but instead by following \"a purgatorial path\" (per uiam purgatoriam), and observes that Pico asserts this position to be common to Platonists as well as Aristotelians, though \"less apparent\" in the latter (dougherty2008:9067). Farmer's cross-references connect the thesis to 1.10, from Albert the Great, on the common sense's proper object (farmer1998:11053), to 3>41 immediately following it, on the analogy between common sense and reason (farmer1998:20875), to 3>42 on proving God's infinity (farmer1998:20881), to 4>9 on the manner of Christ's descent into hell (farmer1998:21661), and to 7.18, from Averroes, on the only way to prove the abstract intellect's existence (farmer1998:13165).",
+ "historiography": "Dougherty's volume and the German study Erkenntnistheorie und christliche Kabbalah are the two sources located; the latter lists the thesis together with 3>7, 3>60, 3>61, and 3>66 without further comment on 3>40 specifically (dougherty2008:9067; kabbalah_paradigma:1693).",
+ "connections": [
+  "1.10",
+  "3>41",
+  "3>42",
+  "4>9",
+  "7.18"
+ ],
+ "condemned_flag": false,
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

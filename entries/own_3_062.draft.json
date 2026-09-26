@@ -1,0 +1,37 @@
+{
+ "thesis_id": "3>62",
+ "tier": "B",
+ "latin": "Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.",
+ "latin_source": "farmer1998:21260",
+ "translation": "The soul always understands itself, and in understanding itself understands, in a certain way, all beings.",
+ "translation_note": "A source cited below (selfknowledge_notes:1302) preserves Pico's own restatement of this thesis in the Apologia with the word order \"semper seipsam\" rather than the Conclusiones' \"seipsam semper\"; the sense is unaffected.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:21260",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis holds that the soul always understands itself, and in understanding itself understands, in a certain way, all beings (farmer1998:21260). Farmer records no explanatory note on this thesis and no cross-reference to another (per the sources consulted).",
+ "context": "M. V. Dougherty's edited volume reports that Petrus Garsias argued against Pico that if such self-knowledge is called \"hidden\", it is not actual but latent, and notes that Michael J. B. Allen discusses the thesis in his essay \"Cultura Hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man\" (dougherty2008:9626).",
+ "reception": "A set of research notes titled Self-Knowledge, Illumination and Natural quotes Pico's own restatement of the thesis in the Apologia, introducing it as the conclusion immediately following his discussion there of a hidden, direct, and permanent understanding free of any phantasm or aid of sense or imagination, and states that Edelheit (2011) discusses Henry of Ghent's influence on Pico without addressing this particular passage of the Apologia (selfknowledge_notes:1302).",
+ "historiography": "Dougherty's volume and the research notes are the two sources located; between them they place the thesis in a debate over self-knowledge involving Petrus Garsias's fifteenth-century objection and, on the notes' further citations, later scholarship on Henry of Ghent's Quodlibeta IX.5 as a possible source (dougherty2008:9626; selfknowledge_notes:1302).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.",
+   "work": "dougherty2008",
+   "line": 9626,
+   "verbatim": true
+  },
+  {
+   "text": "Anima semper seipsam intelligit et se intelligendo quodammodo omnia entia intelligit.",
+   "work": "selfknowledge_notes",
+   "line": 1302,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Henry of Ghent's Quodlibeta IX.5 is in fact a source for this thesis, beyond the research notes' citation of secondary scholarship raising the question: not established by the excerpt consulted (selfknowledge_notes:1302)."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

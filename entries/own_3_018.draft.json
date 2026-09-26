@@ -1,0 +1,32 @@
+{
+ "thesis_id": "3>18",
+ "tier": "B",
+ "latin": "Ideo in anima apparet incompossibilitas contradictoriorum, quia est prima quantitas, ponens partem extra partem.",
+ "latin_source": "farmer1998:20462",
+ "translation": "The incompossibility of contradictories therefore appears in the soul, because it is the first quantity, positing part outside part.",
+ "translation_note": "\"ponens partem extra partem\" renders the standard definition of quantity as an ordered plurality of parts external to one another; \"incompossibilitas\" is kept as the technical term for the incapacity of two things to hold together.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20462",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis explains why contradictories cannot coincide in the soul as, on the preceding theses of this run, they can in a purely intellectual nature: the soul is itself \"the first quantity\", positing part outside part, and this quantitative extension produces the incompossibility of contradictories within it (farmer1998:20462). Farmer's note treats 3>13-18 as a single unit and refers the reader to his discussion of this part of Pico's metaphysics for traditional logic (farmer1998:20526).",
+ "context": "3>18 closes the run begun at 3>13 on whether contradictories can coincide, following 3>17's claim that in the intellect \"this and that\" are present without \"this\" being outside \"that\" (farmer1998:20459). Farmer connects the run to 2.31, from Thomas Aquinas, on the real distinction of essence and existence in every created thing (farmer1998:11760; farmer1998:20526).",
+ "historiography": "As with 3>16, the only located scholarly mention is a footnote in the German study Erkenntnistheorie und christliche Kabbalah, which lists 3>18 alongside 3>15 and 3>16 without separate comment (kabbalah_paradigma:1705).",
+ "connections": [
+  "2.31",
+  "3>13",
+  "3>14",
+  "3>15",
+  "3>16",
+  "3>17",
+  "3>52",
+  "3>70",
+  "4>2"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether the German study's footnote discusses 3>18's specific content beyond citing its number: not established by the excerpt consulted (kabbalah_paradigma:1705)."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

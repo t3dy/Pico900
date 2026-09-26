@@ -1,0 +1,24 @@
+{
+ "thesis_id": "3>46",
+ "tier": "B",
+ "latin": "Dato quocunque obiecto practicabili, nobilior est operatio quae eum practicat quam quae eum contemplatur, si caetera sint paria.",
+ "latin_source": "farmer1998:20976",
+ "latin_note": "The 1486 print read \"coetera\" for the corrected \"caetera\" (\"other things\") (farmer1998:20996).",
+ "translation": "Given any object capable of being acted upon, the operation that acts on it is nobler than the operation that only contemplates it, other things being equal.",
+ "translation_note": "No crux beyond ordinary vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20976",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis holds that, given any object capable of being acted upon, the operation that acts on it is nobler than the operation that only contemplates it, other things being equal (farmer1998:20976). Farmer's note connects the thesis to his discussion of Pico's magic, pp. 130-31 (farmer1998:21009).",
+ "context": "Jean-Marc Mandosio quotes the thesis while glossing Pico's definition of natural magic, in the separate Magical Conclusions, as \"the practical part of natural science\" and its noblest part, and reports that Pico infers the nobility of magic from this general principle together with the corresponding Magical Conclusion (mandosio2012:565).",
+ "historiography": "Mandosio's article is the only scholarly discussion of the thesis located in the sources consulted, and treats it as the general principle underlying Pico's claim for the nobility of magic (mandosio2012:565).",
+ "connections": [
+  "3>47",
+  "3>48",
+  "7.10"
+ ],
+ "condemned_flag": false,
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

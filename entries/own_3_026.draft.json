@@ -1,0 +1,34 @@
+{
+ "thesis_id": "3>26",
+ "tier": "B",
+ "latin": "Ex praecedentibus conclusionibus potest intelligi qui sit formalis numerus, quem dixit Pythagoras esse principium omnium rerum.",
+ "latin_source": "farmer1998:20648",
+ "translation": "From the preceding conclusions it can be understood what the formal number is, which Pythagoras said to be the principle of all things.",
+ "translation_note": "No crux beyond ordinary vocabulary; \"formalis numerus\" is kept as Pico's technical term.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20648",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis presents itself as a conclusion drawn from a preceding series on how ideas or numbers exist in the intellect: it claims that this series makes intelligible what \"formal number\" is, the term by which, on Pico's report, Pythagoras named the principle of all things (farmer1998:20648). Farmer's note assigns extended discussion of \"formal\" numbers to his note on 7>9, on arithmetic and natural prophecy, and lists further related theses under his note 7.34 (farmer1998:20686; farmer1998:23724).",
+ "context": "3>26 stands at the end of a run, 3>24-3>26, on how ideas or numbers exist in the intellect without multiplying it (farmer1998:20639; farmer1998:20643), and is followed immediately by a series, 3>27-3>33, reducing the categories to five (unity, substance, quantity, quality, and relation) against Archytas's and Aristotle's ten, Plotinus's five, and the Stoics' four (farmer1998:20652; farmer1998:20656).",
+ "historiography": "Giulio Busi and Raphael Ebgi, discussing Pico's Pythagoreanism, state that for Pico, who had learned the Pythagoreans' lesson well, formal numbers are nothing other than the principles of every being, cite this thesis, and direct the reader to Wirszubski's Pico della Mirandola's Encounter with Jewish Mysticism for further discussion (busi2014:10178). Jean-Marc Mandosio, tracing the afterlife of Pico's formal numbers in John Dee, quotes the thesis's central clause and reports that on Johannes Reuchlin's reading, Pythagoras's \"number\" in this maxim is meant allegorically (mandosio2012:247).",
+ "connections": [
+  "3>24",
+  "3>25",
+  "3>27",
+  "3>28",
+  "3>29",
+  "3>30",
+  "3>31",
+  "3>32",
+  "3>33",
+  "4>5",
+  "7>9"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "What, on Reuchlin's reading as reported by Mandosio, the allegorical referent of \"number\" is said to be: the excerpt consulted breaks off before completing the sentence (mandosio2012:247)."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

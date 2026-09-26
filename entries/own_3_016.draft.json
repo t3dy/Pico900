@@ -1,0 +1,34 @@
+{
+ "thesis_id": "3>16",
+ "tier": "B",
+ "latin": "Rationabiliter posuit Aristoteles in suis scientiis primum principium de quolibet dici alterum contradictoriorum, et de nullo simul.",
+ "latin_source": "farmer1998:20455",
+ "translation": "Aristotle reasonably laid down, as the first principle of his sciences, that of any subject one of a pair of contradictories is asserted, and of none are both asserted at once.",
+ "translation_note": "Restates, in compressed form, the principle of non-contradiction together with the law of excluded middle; no crux beyond ordinary vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20455",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis affirms, as reasonably posited by Aristotle, the logical axiom that of any subject one member of a pair of contradictory predicates holds, and never both at once (farmer1998:20455). Farmer's note on the group 3>13-18 glosses the phrase \"the first principle of everything\"/\"of nothing\" in this thesis as referring, in Pico's usage, to God and prime matter, and cross-references the same wording at 3>52 and 3>70 (farmer1998:20526).",
+ "context": "The thesis opens a short run, 3>13 through 3>18, on whether contradictories can coincide. Farmer's note assigns the immediately preceding thesis, 3>15 (\"Contradictoria coincidunt in natura uniali\", farmer1998:20452), to the debate over Nicholas of Cusa's coincidence of opposites, and states that the idea was in fact a scholastic commonplace rather than evidence of direct dependence on Cusanus (farmer1998:20526). 3>16 restates the ordinary Aristotelian rule before the following theses, 3>17 (\"In intellectu est hoc et illud, sed non est hoc extra illud\", farmer1998:20459) and 3>18, argue for an exception in the intellectual and rational nature.",
+ "historiography": "The one scholarly source located for this thesis, an unsigned German study titled Erkenntnistheorie und christliche Kabbalah: Das Paradigma des Pico della Mirandola, lists 3>16 in a footnote alongside 3>15 and 3>18 without separate discussion of its content (kabbalah_paradigma:1705).",
+ "connections": [
+  "2.31",
+  "3>13",
+  "3>14",
+  "3>15",
+  "3>17",
+  "3>18",
+  "3>52",
+  "3>70",
+  "4>2"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether Farmer's identification of \"the first principle\"/\"of nothing\" with God and prime matter in his note on 3>16 is his own inference or draws on an external source: not established by the sources consulted.",
+  "What point the German study's footnote draws from grouping 3>15, 3>16 and 3>18 together: not established by the excerpt consulted (kabbalah_paradigma:1705).",
+  "Which text of Aristotle, if any specific one, Pico had in view: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

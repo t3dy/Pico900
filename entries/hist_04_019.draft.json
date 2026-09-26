@@ -4,7 +4,7 @@
  "latin": "Actus intelligendi ab obiecto et intellectu tanquam duobus agentibus partialibus, ut quod causatur.",
  "latin_source": "farmer1998:12371",
  "translation": "The act of understanding is caused by the object and the intellect as by two partial agents, taken together as the complete cause.",
- "translation_note": "'Ut quod causatur': the scholastic distinction between a cause taken 'as that which' (ut quod, the complete, per se cause) and 'as that by which' (ut quo, a formal principle); the thesis asserts that object and intellect jointly form the former. The rendering is provisional; the phrase is technical.",
+ "translation_note": "'Ut quod causatur': the scholastic distinction between a cause taken 'as that which' (ut quod, the complete, per se cause) and 'as that by which' (ut quo, a formal principle), where the thesis asserts that object and intellect jointly form the former (farmer1998:12371). The rendering here is provisional, since the phrase is technical and its precise sense is not further glossed in the material consulted (farmer1998:12371).",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12371",
  "pico_stance": "reports",
  "attribution": "Reports Scotus (farmer1998:12371).",
@@ -15,7 +15,7 @@
    "pico_relation": "Edelheit cites this passage, on the causation of a habit from its object, as background to thesis 19's claim about the two partial causes of understanding"
   }
  ],
- "doctrine": "The thesis, paired by Farmer with thesis 20 under a single note ('4.19-20. Cf. 2.40 and note.', farmer1998:12459; thesis 2.40, farmer1998:11882), addresses the causation of intellection: the act of understanding results from the object and the intellect as two partial agents constituting a single complete cause. Edelheit confirms that, in thesis 19, the act of understanding results from the object and the intellect together, and cites Scotus's Lectura, prologue, part 4, questions 1-2, on the practical or speculative character of a habit taken from its object (edelheit2022:14878, 14931).",
+ "doctrine": "The thesis is grouped by Farmer with thesis 20 under a single cross-reference to thesis 2.40, on the source of difficulty in understanding (farmer1998:12459; thesis 2.40, farmer1998:11882). The thesis addresses the causation of intellection, holding that the act of understanding is caused by the object and the intellect as two partial agents constituting a single complete cause (farmer1998:12371). Edelheit confirms that, in thesis 19, the act of understanding results from the object and the intellect together, and cites Scotus's Lectura, prologue, part 4, questions 1-2, on the practical or speculative character of a habit taken from its object (edelheit2022:14878, 14931).",
  "historiography": "Edelheit is the only scholar identified as treating thesis 19; his contribution is confined to naming the Scotist passage and noting the shared theme with thesis 20 (edelheit2022:14878).",
  "connections": [
   "2.40",

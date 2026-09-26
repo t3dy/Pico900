@@ -1,0 +1,32 @@
+{
+ "thesis_id": "3>23",
+ "tier": "B",
+ "latin": "Sicut formae substantiales in secundo mundo sunt per modum accidentium, ita formae accidentales sunt in primo mundo per modum substantiarum.",
+ "latin_source": "farmer1998:20561",
+ "translation": "Just as substantial forms exist in the second world in the manner of accidents, so accidental forms exist in the first world in the manner of substances.",
+ "translation_note": "\"primus mundus\"/\"secundus mundus\" (first world/second world) are Pico's own terms, glossed by Farmer as the intellectual nature and the rational or animate nature (or the material world informed by it), respectively (farmer1998:20627).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20561",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis proposes a structural inversion between two levels of reality Pico calls the \"first world\" and the \"second world\": what functions as substance in one functions as accident in the other, and conversely (farmer1998:20561). Farmer's note glosses \"second world\" as the rational or animate nature, or the material world informed by that nature, and \"first world\" as the intellectual nature, and refers the reader to his own discussion, p. 98 (farmer1998:20627).",
+ "historiography": "The German study Erkenntnistheorie und christliche Kabbalah cites the thesis's Latin text in a footnote that also references Roulier's Jean Pic de la Mirandole and Farmer's Syncretism in the West on the surrounding pages, without stating what conclusion it draws from the citation (kabbalah_paradigma:1768).",
+ "connections": [
+  "3>24",
+  "4>4"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Sicut formae substantiates in secundo mundo sunt per modum accidentium, ita formae accidentales sunt in primo mundo per modum substantiarum.",
+   "work": "kabbalah_paradigma",
+   "line": 1768,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The identity of the further sentence the German study's footnote appends after this thesis (\"Sicut in primo mundo non est album, sed albedo, ita in secundo mundo non est ignis, sed igneum\") and which thesis, if any in Farmer's numbering, it corresponds to: not established by the sources consulted (kabbalah_paradigma:1768)."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

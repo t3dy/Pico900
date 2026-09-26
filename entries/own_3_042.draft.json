@@ -1,0 +1,25 @@
+{
+ "thesis_id": "3>42",
+ "tier": "B",
+ "latin": "Infinitas dei per superexcedentiam ad esse intellectuale et uiam mysticae theologiae probari potest, et ad id probandum omnis alia uia inefficax est.",
+ "latin_source": "farmer1998:20881",
+ "latin_note": "The 1486 print read \"super excedentiam\" as two words; the errata correct it to the single word \"superexcedentiam\" (farmer1998:20897).",
+ "translation": "The infinity of God can be proved through its transcendence relative to intellectual being and through the way of mystical theology, and for proving it every other way is ineffective.",
+ "translation_note": "\"superexcedentiam\" (transcendence/superexceeding) is kept close to the Latin coinage rather than smoothed into ordinary English.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch13, from Latin at farmer1998:20881",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "doctrine": "The thesis holds that God's infinity can be proved only through its transcendence relative to intellectual being and through the way of mystical theology, and that every other way of proving it fails (farmer1998:20881). Farmer's note identifies \"the method of the Mystical Theology\" as Pseudo-Dionysius's negative way, referring especially to chapter 3 of his Mystical Theology, and directs the reader to his note on 7.18 for related theses (farmer1998:20909; farmer1998:13165).",
+ "connections": [
+  "4>9",
+  "7.18"
+ ],
+ "condemned_flag": false,
+ "historiography": "The German study Erkenntnistheorie und christliche Kabbalah quotes the thesis in full alongside Pico's own-opinion conclusion in theology \"sufficiently different from the common manner of speaking of the theologians\" (4>11), without further discussion of 3>42 specifically (kabbalah_paradigma:1753).",
+ "not_established": [
+  "Whether the German study connects 3>42 and 4>11 by any argument beyond juxtaposing their citations: not established by the excerpt consulted (kabbalah_paradigma:1753)."
+ ],
+ "writer": "WRITER-full-batch13 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
