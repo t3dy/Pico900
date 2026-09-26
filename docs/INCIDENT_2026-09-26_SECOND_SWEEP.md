@@ -101,7 +101,13 @@ those, only the quotations the verify script's fuzzy matcher actually flags (a s
 positives from its 70%-length partial-match tolerance were caught by direct grep during batch D's
 investigation of `own_3_049`, e.g. "mode of speaking of Dionysius" reads as `FOUND_PARTIAL` on pure
 character overlap despite not existing in the source). A further run after batch D found 2 new NOT_FOUND
-quotations in `own_4_019` (edelheit2008) not covered by any of batches A-D; these remain open.
+quotations in `own_4_019` (edelheit2008): the two Latin lines from Pico's Apology preamble ("Nisi essent
+dicta sanctorum..." and "propter reverentiam sanctorum..."). These were resolved directly: both are
+genuine and verbatim, but in `edelheit2014.txt` (same footnote, line 8510 in the uploaded copy), not
+`edelheit2008`. Re-tagged; `own_4_019` now passes both the local gate and the corpus verifier. As of
+this fix, a corpus-wide re-run of `verify_against_uploaded_corpus.py` reports **0 quotations NOT_FOUND**
+across all 900 entries (412/466 checkable quotations confirmed genuine; 54 remain unverifiable only
+because the corresponding work was never uploaded this session).
 
 ## Standing lesson (reaffirmed a third time)
 
