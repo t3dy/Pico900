@@ -1,0 +1,46 @@
+{
+  "conclusion_id": "H.L5.D0.1",
+  "text": "heptaplus",
+  "day": 0,
+  "layer": 5,
+  "layer_name": "Foundational (Kabbalistic-Pseudo-Dionysian synthesis)",
+  "passage_number": 1,
+  "latin_text": "Since much about the angelic and invisible nature has been handed down by the ancient Hebrews and much also by Dionysius, it was my plan to expound the words of Moses according to the teaching of both schools.",
+  "english_translation": "Since much about the angelic and invisible nature has been handed down by the ancient Hebrews and much also by Dionysius, it was my plan to expound the words of Moses according to the teaching of both schools.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Explicit statement of Pico's syncretic method: combining Hebrew (Kabbalistic) and Christian (Dionysian) angelology. This is the governing principle of the Third Exposition.",
+  "exegesis_status": "draft",
+  "lineage": "kabbalah | pseudo-dionysius",
+  "key_concepts": [
+    "synthesis-of-kabbalistic-and-dionysian-angelologies"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.SP.1",
+      "H.SP.3",
+      "H.SP.4",
+      "H.SP.6",
+      "H.SP.2",
+      "Day 1 (light/angelology)",
+      "Day 2 (firmament/hierarchy)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.P.1 | Synthesis of Kabbalistic and Dionysian angelologies"
+}

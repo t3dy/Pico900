@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.4.1",
+  "text": "commento",
+  "book": 4,
+  "passage_number": 1,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Ficino Philebus Commentary 1.26; Pseudo-Dionysius discussion]",
+  "english_translation": "In his Philebus Commentary Ficino goes further still... First, Ficino says, is the triad of the Seraphim as a single divine intelligence consisting of its head, breast, and thigh – its head gazes up towards the Good, its breast looks towards its own beauty, and its thigh reaches down to providing for and creating lower things. Second is the triad associated not just with the highest angelic choir but with all the angels which in Dionysius the Areopagite's De nominibus divinis 4.8 are declared to have three motions, circular, straight and spiral: circular in their returning to God, straight in their 'offering/extending their power' to lower things, and spiral insofar as they devote attention to themselves.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: While this is Ficino's doctrine (not directly Pico's Commento), it is presented by Allen as the developed form of principles Pico articulated. The Seraphim as a triadic divine intelligence governing all creation exemplifies the highest angelic order. This represents the culmination of participatory angelology. SYNTHESIZER to develop the implications.]",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus | proclus",
+  "key_concepts": ["seraphim triad", "divine intelligence", "three motions", "circular motion", "straight motion", "spiral motion", "angelic hierarchy", "cosmic governance"],
+  "tags": ["angelology", "neoplatonism", "seraphim", "ficino", "pseudo-dionysius", "cosmic-motion", "mysticism"],
+  "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: The Seraphim triad (head/breast/thigh) parallels Chokmah/Binah/Tiferet in Kabbalistic cosmology. The three motions of all angels (circular, straight, spiral) represent the complete cosmological function of angelic being.",
+  "cross_references": {
+    "same_text": ["C.4.2"],
+    "other_texts": ["Ficino Philebus Commentary 1.26", "Pseudo-Dionysius Celestial Hierarchy and On Divine Names", "Pico's similar triadic structures in Commento and Heptaplus"],
+    "900_conclusions": ["Seraphic triad", "Chokmah-Binah-Tiferet", "Three angelic motions"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER KABBALISTIC FLAG: EXPLICIT KABBALISM (Ficino's developed synthesis). Seraphim triad = Chokmah/Binah/Tiferet. Three motions = circular (ascent), straight (descent), spiral (self-reflection). Source: Allen, p. 11249-11256 (discussing Ficino's synthesis of principles Pico had advanced). Kabbalistic density: VERY HIGH (Sefirotic triad + three cosmological motions)."
+}

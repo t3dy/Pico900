@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{SOURCE_NAME} — {WORK_TITLE} | Pico900</title>
+    <link rel="stylesheet" href="/Pico900/css/edition.css">
+    <style>
+        .source-detail-header {
+            margin: 2rem 0;
+            padding: 2rem;
+            background: linear-gradient(135deg, #f5f5f0 0%, #fffbf7 100%);
+            border-left: 4px solid var(--tradition-color);
+        }
+
+        .tradition-tag {
+            display: inline-block;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            background: var(--tradition-color);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            margin-bottom: 0.75rem;
+        }
+
+        .source-detail-header h1 {
+            font-size: 2rem;
+            margin: 0.5rem 0;
+            color: #2c2c2c;
+        }
+
+        .source-detail-header p.subtitle {
+            font-size: 1.3rem;
+            font-style: italic;
+            color: #555;
+            margin: 0.5rem 0;
+        }
+
+        .source-detail-header p.dates {
+            font-size: 0.95rem;
+            color: #999;
+            margin: 0;
+        }
+
+        .source-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .meta-item {
+            background: white;
+            padding: 1rem;
+            border-left: 3px solid var(--tradition-color);
+            border-radius: 2px;
+        }
+
+        .meta-label {
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: #999;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+        }
+
+        .meta-value {
+            font-size: 1.1rem;
+            color: #2c2c2c;
+            font-weight: 600;
+        }
+
+        .section {
+            margin: 2.5rem 0;
+        }
+
+        .section-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #2c2c2c;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .blurb {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: #555;
+            background: #fafaf8;
+            padding: 1.5rem;
+            border-left: 4px solid var(--tradition-color);
+            border-radius: 2px;
+            margin-bottom: 2rem;
+        }
+
+        .relevance-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .relevance-list li {
+            padding: 0.5rem 0;
+            color: #555;
+            font-size: 0.95rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .relevance-list li::before {
+            content: '◆';
+            color: var(--tradition-color);
+            flex-shrink: 0;
+        }
+
+        .scholars-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .scholar-badge {
+            background: #f5f5f5;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            color: #555;
+            border: 1px solid #e0e0e0;
+        }
+
+        .conclusions-section {
+            background: #f9f9f7;
+            padding: 1.5rem;
+            border-radius: 4px;
+            margin-top: 1.5rem;
+        }
+
+        .conclusions-header {
+            font-weight: 600;
+            color: #2c2c2c;
+            margin-bottom: 1rem;
+        }
+
+        .conclusion-ids {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .conclusion-link {
+            display: inline-block;
+            padding: 0.4rem 0.8rem;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            color: #555;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .conclusion-link:hover {
+            background: #333;
+            color: white;
+            border-color: #333;
+        }
+
+        .related-sources {
+            background: #f9f9f7;
+            padding: 1.5rem;
+            border-radius: 4px;
+            margin-top: 1.5rem;
+        }
+
+        .related-sources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .related-card {
+            background: white;
+            padding: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .related-card:hover {
+            border-color: #999;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        .related-card-name {
+            font-weight: 600;
+            color: #2c2c2c;
+            margin-bottom: 0.25rem;
+        }
+
+        .related-card-work {
+            font-size: 0.9rem;
+            font-style: italic;
+            color: #555;
+        }
+
+        .priority-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+        }
+
+        .priority-CORE {
+            background: #2c3e50;
+            color: white;
+        }
+
+        .priority-MAJOR {
+            background: #3498db;
+            color: white;
+        }
+
+        .priority-SECONDARY {
+            background: #95a5a6;
+            color: white;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: #555;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+
+        .back-link:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .source-detail-header h1 {
+                font-size: 1.5rem;
+            }
+
+            .source-detail-header p.subtitle {
+                font-size: 1.1rem;
+            }
+
+            .source-meta {
+                grid-template-columns: 1fr;
+            }
+
+            .related-sources-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="site-nav">
+        <div class="nav-container">
+            <a href="/Pico900/" class="nav-logo">Pico900</a>
+            <ul class="nav-links">
+                <li><a href="/Pico900/">Conclusions</a></li>
+                <li><a href="/Pico900/sources/">Sources</a></li>
+                <li><a href="/Pico900/about/">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="content">
+        <a href="/Pico900/sources/" class="back-link">← Back to Sources</a>
+
+        <div class="source-detail-header" style="--tradition-color: {TRADITION_COLOR}">
+            <div class="tradition-tag">{TRADITION_LABEL}</div>
+            <h1>{SOURCE_NAME}</h1>
+            <p class="subtitle">{WORK_TITLE}</p>
+            <p class="dates">{DATES}</p>
+        </div>
+
+        <div class="source-meta">
+            <div class="meta-item">
+                <div class="meta-label">Conclusions Linked</div>
+                <div class="meta-value">{CONCLUSIONS_LINKED}</div>
+            </div>
+            <div class="meta-item">
+                <div class="meta-label">Priority</div>
+                <div class="meta-value">
+                    <span class="priority-badge priority-{PRIORITY}">{PRIORITY}</span>
+                </div>
+            </div>
+            <div class="meta-item">
+                <div class="meta-label">Related Scholars</div>
+                <div class="meta-value">{SCHOLARS_COUNT} scholars</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="blurb">{BLURB}</div>
+
+            <h3 class="section-title">Relevance to Pico's Thought</h3>
+            <ul class="relevance-list">
+                {RELEVANCE_ITEMS}
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3 class="section-title">Key Scholars</h3>
+            <div class="scholars-list">
+                {SCHOLARS_BADGES}
+            </div>
+            <p style="font-size: 0.9rem; color: #999; margin-top: 1rem;">These scholars have written extensively on Pico's engagement with {SOURCE_NAME} and {WORK_TITLE}.</p>
+        </div>
+
+        <div class="conclusions-section">
+            <div class="conclusions-header">Linked Conclusions ({CONCLUSIONS_LINKED})</div>
+            <div class="conclusion-ids">
+                {CONCLUSION_LINKS}
+            </div>
+        </div>
+
+        <div class="related-sources">
+            <h3 class="section-title">Related Sources from {TRADITION_LABEL}</h3>
+            <div class="related-sources-grid">
+                {RELATED_SOURCES}
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Initialize tooltips or additional interactivity if needed
+    </script>
+</body>
+</html>

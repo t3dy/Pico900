@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.1.1",
+  "text": "commento",
+  "book": 1,
+  "passage_number": 1,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 1.4-1.6, pp. 463-468]",
+  "english_translation": "One of Pico's most interesting contributions in the Commento is, I would argue, his account of the three hypostases, particularly of the second, which the ancient Neoplatonists had identified with Mind but which he identifies with Angel or Angelic Mind. Some of the Neoplatonists had maintained that between the first hypostasis, God or the One or the Good, and the third hypostasis, the World Soul, came a host of intelligible and intellectual creatures whom Christians call the 'angels.'",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico redefines the Neoplatonic hypostases to accommodate Christian angelology. The second hypostasis (Intellect/Mind) becomes explicitly angelic rather than merely intellectual. This is a crucial theological move that integrates Platonic metaphysics with Christian hierarchy. SYNTHESIZER to develop full exegesis.]",
+  "exegesis_status": "draft",
+  "lineage": "aquinas | pseudo-dionysius | plotinus | synthesis",
+  "key_concepts": ["three hypostases", "angelic mind", "intellect", "neoplatonism", "christian theology", "intelligible creatures"],
+  "tags": ["angelology", "neoplatonism", "metaphysics", "hypostases", "angelic orders"],
+  "kabbalistic_elements": "Not explicitly mentioned in this passage, but sets foundation for Sefirotic correspondences. The angelic second hypostasis prefigures Kabbalistic supernal orders.",
+  "cross_references": {
+    "same_text": ["C.1.2", "C.1.6", "C.1.7"],
+    "other_texts": ["Heptaplus proem (three worlds doctrine)", "Oration on dignity (ascent to angelhood)", "On Being and Unity (angelic orders as degrees of being)"],
+    "900_conclusions": ["Celestial hierarchies", "Angelic metaphysics"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Pico redefines the Neoplatonic hypostases to accommodate Christian angelology. Source: Allen, *Neoplatonism of Pico*, Commento section, pp. 6076-6089 (McGill critical edition: Garin edition, 1942, Commento 1.4-1.6). Kabbalistic density: moderate (foundation-setting for later Sefirotic correspondences)."
+}

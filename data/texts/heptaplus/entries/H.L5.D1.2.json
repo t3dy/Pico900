@@ -1,0 +1,45 @@
+{
+  "conclusion_id": "H.L5.D1.2",
+  "text": "heptaplus",
+  "day": 1,
+  "layer": 5,
+  "layer_name": "Kabbalistic",
+  "passage_number": 2,
+  "latin_text": "In an angel we find a double imperfection: the one, that it is not being itself but only an essence to which being comes by participation, so that it may be; the other, that it is not intelligence itself but only happens to understand, since by its nature it is an intellect capable of understanding.",
+  "english_translation": "In an angel we find a double imperfection: the one, that it is not being itself but only an essence to which being comes by participation, so that it may be; the other, that it is not intelligence itself but only happens to understand, since by its nature it is an intellect capable of understanding.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Angels are doubly imperfect: they lack being and intelligence as pure essences. This mirrors Aquinas but goes further into Neoplatonic participation theory.",
+  "exegesis_status": "draft",
+  "lineage": "aquinas | plotinus | kabbalah",
+  "key_concepts": [
+    "angelic-being-and-knowledge-as-participatory,-not-essential"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.TE3.C2.1",
+      "H.TE3.C2.2",
+      "H.TE3.C2.4",
+      "H.TE3.C2.3",
+      "Day 2 (firmament/hierarchy)",
+      "Day 3 (governance)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.C1.2 | Angelic being and knowledge as participatory, not essential"
+}

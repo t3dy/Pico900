@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.6.1",
+  "text": "being_unity",
+  "book": "Ten",
+  "passage_number": 11,
+  "latin_text": "[From critical edition, p. 96, lines 3413-3416]",
+  "english_translation": "The present disputation seems above all to warn us that if we wish to be blessed, we must imitate the most blessed of all things, God, possessing in ourselves unity, truth, and goodness. Ambition disturbs the peace of unity and wrenches the soul that clings to it out of itself, and drags and tears the soul in pieces as if wounded.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico concludes De Ente et Uno with an ethical exhortation grounded in metaphysics: humans are called to imitate God by cultivating unity, truth, and goodness in the soul. The seraph exemplifies this imitation perfectly—it possesses absolute unity (undivided loyalty to God), perfect truth (total conformity to divine exemplar), and perfect goodness (complete charity and orientation toward God). Human souls, as rational beings made in God's image and capable of angelic intellection, are summoned to approximate this seraphic virtue. The passage identifies ambition (amor sui, disordered self-love) as the enemy of unity—it fragments the soul, tearing it into competing desires and destroying the integrated peace that characterizes the unified virtue. By contrast, charity (caritas, love of God and the good) restores unity and draws the soul toward its source. The angelology becomes existential: humans can choose to ascend toward angelic nature through virtue or descend toward bestial nature through vice. The seraph becomes the ethical model, the exemplar toward which human virtue aims.",
+  "exegesis_status": "draft",
+  "lineage": ["pseudo-dionysius", "aquinas", "plotinus"],
+  "key_concepts": ["angelology-as-ethical-model", "seraphic-perfection-as-human-aspiration", "imitation-of-God", "unity-truth-goodness", "ambition-vs-charity", "virtue-as-participation"],
+  "tags": ["angelology", "ethics", "virtue", "seraph", "mystical-union", "neoplatonism", "human-dignity"],
+  "metaphysical_theme": "Angelology as ethical imperative: humans called to imitate seraphic perfection by cultivating unity, truth, and goodness; the seraph as exemplar of the integrated soul",
+  "cross_references": {
+    "same_text": ["U.6.2 (human soul as microcosm of angelic hierarchy; virtue as integration)", "U.5.1-U.5.2 (God's unity as the model for created unity)", "U.3.2 (seraph as exemplar of transcendental perfection)"],
+    "other_texts": ["Oration: Central theme of human dignity through ascent to angelic nature and virtue; the seraph invoked as the model for human perfection", "Commento Book III: Ascent through seraphic love (the seraph's perfect caritas) as the fulfillment of the soul's journey toward divine union", "Heptaplus Layer 3 (Tropological): Angels as moral exemplars; humans called to imitate their virtue and integration"],
+    "900_conclusions": ["Conclusions on human dignity and capacity for angelic ascent", "Conclusions on virtue and the transcendental properties", "Conclusions on the integration of the soul through charity"]
+  },
+  "scholar_citations": [
+    "Howlett on ethics as applied metaphysics: Pico's fusion of Dionysian hierarchy and Thomistic virtue ethics",
+    "Edelheit on human virtue as participation in angelic nature; the seraph as ethical exemplar",
+    "Black on the seraphim and caritas: How perfect unity manifests as perfect love"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.6.1 marks the transition from pure metaphysics to applied ethics. The entire metaphysical argument (Creation, hierarchy, participated being, transcendental properties) culminates in an ethical call: imitate the seraph by cultivating the virtues that bind the soul to God. This passage bridges De Ente et Uno to the Oration (human dignity and ascent) and Commento (the soul's journey through love toward divine union). The seraph, first presented as a metaphysical principle (highest participated being), becomes the ethical exemplar—the creature humans should aspire to become."
+}

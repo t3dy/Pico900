@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.4.1",
+  "text": "being_unity",
+  "book": "Eight",
+  "passage_number": 7,
+  "latin_text": "[From critical edition, p. 94, lines 3315-3326]",
+  "english_translation": "The reasons we have given above show that the false is the same as nothing. If we say that evil and nothing differ, the philosophers and theologians both will object, because to make evil is to make nothing, and it is customarily said that there is no efficient, but only a deficient cause of evil.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico establishes the doctrine of evil as privation—the absence of good rather than a positive force. Demons (fallen angels) are not created as evil substances but are angels deprived of charity, unity, and goodness. The fall is not the creation of a new being but the privation of being; a demon is an angel that has lost participated union with God. This doctrine is crucial to Pico's hierarchy: while the seraph represents the apex of participated being and unity, the demon represents the descent into division and quasi-non-being. There is no cosmic dualism (Catharism); there is only the scale of being, and demons occupy the lowest rung—still angels by nature, but deprived of the goodness and unity that define angelic perfection. Evil has no efficient cause in God; it results only from the deficiency of created freedom.",
+  "exegesis_status": "draft",
+  "lineage": ["aquinas", "pseudo-dionysius", "synthesis"],
+  "key_concepts": ["evil-as-privation", "demonic-deprivation", "deficient-cause", "fall-as-privation", "descent-from-being", "demonic-privation-of-goodness"],
+  "tags": ["angelology", "metaphysics", "evil", "privation", "demonology", "thomistic-theology", "freedom"],
+  "metaphysical_theme": "Demons as fallen angels exemplifying privation of angelic goodness; evil as the absence of being rather than a positive force, preventing Manichean dualism",
+  "cross_references": {
+    "same_text": ["U.4.2 (division as destruction of unity; demon as fractured angel)", "U.3.2 (seraph as exemplar of unity; demon as loss of unity)", "U.1.1-U.1.2 (angelic dependence; fall as loss of participation)"],
+    "other_texts": ["Heptaplus Day 3, Layer 2: The demonic obstruction of the cosmic order; fall as privation within the hierarchy", "Commento (implicit throughout): Why love ascends toward seraphim; why lust and pride descend toward demonic", "Oration: Human freedom to choose descent (toward bestiality and demonic nature) or ascent (toward angelhood through virtue)"],
+    "900_conclusions": ["S1 (Neoplatonic metaphysics of being and privation)", "Conclusions on evil, freedom, and the hierarchy of being"]
+  },
+  "scholar_citations": [
+    "Aquinas, Summa II.2, q. 64: On the fall and demonic nature; evil as privation in angelic rebellion",
+    "Black on demonic privation in Heptaplus: How the hierarchy remains unified even with the demonic descent",
+    "Howlett on Pico's reconciliation of Christian theology and Platonism through privation doctrine"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.4.1 is the metaphysical foundation for Pico's treatment of demons across all texts. By establishing evil as privation rather than efficient cause, Pico avoids Cathar dualism while maintaining a unified, hierarchical cosmos. The demon is not a separate principle opposed to God; it is an angel deprived of the goodness and unity that define angelhood. This principle extends to human sin and vice: they are deficiencies in virtue, not positive forces, and can be remedied by re-participation in divine goodness."
+}

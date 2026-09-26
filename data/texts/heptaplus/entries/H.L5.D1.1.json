@@ -1,0 +1,46 @@
+{
+  "conclusion_id": "H.L5.D1.1",
+  "text": "heptaplus",
+  "day": 1,
+  "layer": 5,
+  "layer_name": "Kabbalistic (Third Exposition, Chapter 1)",
+  "passage_number": 1,
+  "latin_text": "Therefore an angel is not unity itself, or else he would be God, or there would be many gods, which cannot even be conceived. For what will be one if not unity? It is left for an angel to be a number.",
+  "english_translation": "Therefore an angel is not unity itself, or else he would be God, or there would be many gods, which cannot even be conceived. For what will be one if not unity? It is left for an angel to be a number.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Pico applies Pythagorean-Kabbalistic number theology to angelology: angels are numbers (multiplicities participating in unity), not unity itself. This grounds angelic metaphysics in cosmological principle.",
+  "exegesis_status": "draft",
+  "lineage": "kabbalah | pythagoras | plotinus",
+  "key_concepts": [
+    "angel-as-number",
+    "-angelic-ontology-based-on-participation-in-divine-unity"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.TE3.C2.1",
+      "H.TE3.C2.2",
+      "H.TE3.C2.4",
+      "H.TE3.C2.3",
+      "Day 2 (firmament/hierarchy)",
+      "Day 3 (governance)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.C1.1 | Angel as number; angelic ontology based on participation in divine unity"
+}

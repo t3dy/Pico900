@@ -1,0 +1,40 @@
+{
+  "conclusion_id": "H.L0.D0.1",
+  "text": "heptaplus",
+  "day": 0,
+  "layer": 0,
+  "layer_name": "Foundational (Second Proem)",
+  "passage_number": 1,
+  "latin_text": "Antiquity imagined three worlds. Highest of all is that ultra-mundane one which theologians call the angelic and philosophers the intelligible, and of which, Plato says in the Phaedrus, no one has worthily sung. Next to this comes the celestial world, and last of all, this sublunary one which we inhabit.",
+  "english_translation": "Antiquity imagined three worlds. Highest of all is that ultra-mundane one which theologians call the angelic and philosophers the intelligible, and of which, Plato says in the Phaedrus, no one has worthily sung. Next to this comes the celestial world, and last of all, this sublunary one which we inhabit.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Pico establishes the three-world hierarchy as foundational to understanding Creation. The angelic/intelligible world is placed at the summit of cosmological order.",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | pseudo-dionysius | aquinas | plato",
+  "key_concepts": [
+    "three-world-hierarchy-with-angelic-world-as-summit"
+  ],
+  "tags": [
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "medium",
+  "cross_references": {
+    "same_text": [
+      "H.SP.2",
+      "H.TE3.P.1"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.SP.1 | Three-world hierarchy with angelic world as summit"
+}

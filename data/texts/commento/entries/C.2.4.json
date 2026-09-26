@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.2.4",
+  "text": "commento",
+  "book": 2,
+  "passage_number": 4,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.14, p. 501 and 2.22, p. 505]",
+  "english_translation": "Pico adduces the Orphic verses in 2.14 and 2.22 and observes that Mind could 'rightly be called a chaos' when it was first filled with all the Ideas and the Ideas were still 'imperfect, indistinct as it were, and confused.' In it, Love was born, that is, Mind's desire to perfect the Ideas. Since the Ideas can be perfected only when they are separated from what is alien to them...",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico presents angelic Mind as originally in a chaotic state with imperfect Ideas. Love arises as the angelic intellect's desire to perfect these Ideas through return to God. This transforms the Orphic chaos into a productive principle at the heart of creation. SYNTHESIZER to develop the implications for cosmic order.]",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | orphism | pseudo-dionysius",
+  "key_concepts": ["chaos", "imperfect ideas", "love born in chaos", "perfection", "ordering principle", "orphic cosmogony"],
+  "tags": ["angelology", "neoplatonism", "orphism", "cosmology", "creation", "order-from-chaos"],
+  "kabbalistic_elements": "The angelic chaos that becomes order parallels the Kabbalistic idea of creation from the Infinite (Ein Sof) through increasing definition and order.",
+  "cross_references": {
+    "same_text": ["C.2.2", "C.2.3", "C.2.5"],
+    "other_texts": ["Commento 2.14-2.22", "Orphic Theogony", "Ficino's similar doctrine in De amore"],
+    "900_conclusions": ["Chaos to order", "Orphic creation", "Infinite (Ein Sof) emanation"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Pico's use of Orphic cosmogony to frame the angelic Mind's initial chaos and its ordering through Love. Source: Allen, p. 6318-6325; Garin edition, Commento 2.14, p. 501 and 2.22, p. 505. Kabbalistic density: MODERATE (Ein Sof / creation through increasing definition)."
+}

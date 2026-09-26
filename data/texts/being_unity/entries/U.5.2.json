@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.5.2",
+  "text": "being_unity",
+  "book": "Nine",
+  "passage_number": 10,
+  "latin_text": "[From critical edition, p. 95, lines 3379-3391]",
+  "english_translation": "If we were to assign these four names to God as he is the cause of things, the sequence must be reversed. First, he would be one, since he is understood in himself before he is understood as cause. Second, he would be good; third, true; fourth, being. Because the cause that is called the end is prior to the exemplary, and the exemplary cause prior to the efficient cause...",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico reveals that when God is understood not in Himself (essentially) but as cause of things (God's creative action), the order of transcendental properties reverses: one (divine unity/will) → good (final cause, God's perfect goodness drawing all things) → true (exemplary cause, God's ideas as patterns) → being (efficient cause, God creating and sustaining existence). This reversal illuminates angelic causality: each angel participates in this causal order proportionally. Higher angels (seraphim, cherubim, thrones) are more directly moved by God's final and exemplary causes—they aspire to divine goodness and conform to divine ideas with maximum perfection. Lower angels participate in these causes proportionally. The reversal shows that participation in divine causality is the mechanism of the hierarchy: the highest creatures participate most directly in God's final and exemplary activity, while lower creatures participate more remotely, through intermediaries. This doctrine unifies emanation (Plotinian) with causality (Aristotelian) and hierarchy (Pseudo-Dionysian).",
+  "exegesis_status": "draft",
+  "lineage": ["aquinas", "plotinus", "synthesis"],
+  "key_concepts": ["causal-order-reversal", "final-cause-priority", "exemplary-cause", "efficient-cause", "angelic-participation-in-causality", "hierarchical-mediation"],
+  "tags": ["angelology", "metaphysics", "causality", "hierarchy", "participation", "neoplatonism", "thomistic-theology"],
+  "metaphysical_theme": "Reversal of causal order when God is understood as cause: final cause (goodness) → exemplary cause (ideas) → efficient cause (being); angelic hierarchy as graduated participation in divine causal orders",
+  "cross_references": {
+    "same_text": ["U.5.1 (God's essential vs participated unity)", "U.3.1 (three causes in creation)", "U.3.2 (transcendental order in creatures)"],
+    "other_texts": ["Heptaplus Layer 6: Planetary angels as exemplars of final causes (why Jupiter is beneficent, Mars martial, Saturn limiting)", "Heptaplus Layer 2: The six days show cosmic causality mediated through angelic orders", "Commento Book I: Seraphim moved by divine love (final cause); lower angels by proportional good emanating downward", "Oration: Human ascent follows the causal order: from efficient cause (God makes us) through exemplary cause (we are images) to final cause (we seek God as highest good)"],
+    "900_conclusions": ["S1 (Causality in the hierarchy of being)", "Conclusions on final, exemplary, and efficient causes", "Conclusions on angelic causality and mediation"]
+  },
+  "scholar_citations": [
+    "Aquinas, Summa I, q. 12: On the causal order and how creatures participate in divine causality",
+    "Howlett on Pico's integration of Pseudo-Dionysius (final/exemplary cause priority) with Aristotle (efficient causality)",
+    "Allen on the reversal as the key to understanding how Pico unifies Platonic and Aristotelian metaphysics"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.5.2 is the capstone of Pico's metaphysical synthesis. The reversal of causal order explains how Plotinian emanation (final → exemplary → efficient) and Aristotelian causality (efficient → exemplary → final) both describe creation from different perspectives. For angels, this means they are arranged hierarchically by their participation in God's final and exemplary causality: the seraph is drawn most directly to divine goodness and most perfectly conforms to divine ideas; lower angels participate in these causes through mediation and degrees. This passage is cited throughout Pico's works as the principle organizing his entire cosmology."
+}

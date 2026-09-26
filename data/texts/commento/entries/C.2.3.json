@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.2.3",
+  "text": "commento",
+  "book": 2,
+  "passage_number": 3,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.13, pp. 501-502]",
+  "english_translation": "Thus Love is born when Porus (Plenty), meaning the multitude of the Ideas in Mind, is united with Penia (Need), meaning, not the essence per se of Mind, but the unformed, deficient, or imperfect state, the Jovian state, of that essence, which Pico sees Plato signifying in the Symposium's image of 'the gardens of Jupiter'... This birth moment is the uniting of act with potency, the planting of the Ideas in the garden of Mind, a planting that gives rise to Paradise, or rather to Mind as Paradise.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: This sophisticated exegesis of Plato's account of Love's birth (Symposium 203B) reinterprets it as the birth of love within angelic Mind itself. The garden of Jupiter becomes the angelic intellect's inner nature. The union of Porus and Penia represents the union of act and potency in the emanation of Love. SYNTHESIZER to develop the implications for cosmic emanation.]",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | pseudo-dionysius",
+  "key_concepts": ["porus", "penia", "plenty and need", "act and potency", "garden of jupiter", "paradise", "love's birth", "emanation"],
+  "tags": ["angelology", "neoplatonism", "kabbalah", "love", "cosmology", "emanation", "platonic-symbolism"],
+  "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: Porus and Penia correspond to the active and receptive principles in Kabbalah (Chokmah and Binah). The planting in Paradise parallels Kabbalistic cosmogony. Chokmah is the active principle (Plenty), Binah the receptive container (Need).",
+  "cross_references": {
+    "same_text": ["C.2.2", "C.2.4", "C.2.5"],
+    "other_texts": ["Commento 2.13 (full exposition)", "Plato Symposium 203B-D", "Heptaplus on creation and emanation"],
+    "900_conclusions": ["Chokmah-Binah dyad", "Kabbalistic emanation", "Paradise as cosmic mind"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER KABBALISTIC FLAG: EXPLICIT KABBALISM. Porus/Penia = Chokmah/Binah dyad. Sophisticated reinterpretation of Platonic myth as Kabbalistic cosmogony. Source: Allen, p. 6245-6251; Garin edition, Commento 2.13, pp. 501-502. Kabbalistic density: VERY HIGH (explicit Chokmah/Binah correspondences)."
+}

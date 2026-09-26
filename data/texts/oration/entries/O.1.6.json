@@ -1,0 +1,22 @@
+{
+  "conclusion_id": "O.1.6",
+  "text": "oration",
+  "section": 1,
+  "passage_number": 6,
+  "latin_text": "neque enim plantam cortex, sed stupida et nihil sentiens natura; neque iumenta corium, sed bruta anima et sensualis; nec caelum orbiculatum corpus, sed recta ratio; nec sequestratio corporis, sed spiritalis intelligentia angelum facit.",
+  "english_translation": "It is not in fact the bark that makes the plant, but dull and insentient nature; not the hide that makes a beast of burden, but a brutish and sensuous soul; not the circular body that makes the heavens, but straightforward reason; not the separation from the body that makes an angel, but its spiritual intelligence.",
+  "translation_source": "Borghesi critical edition",
+  "exegesis": "Pico defines angelhood ontologically through form (intelligentia spiritualis), not matter. This negates metempsychotic transmigration and grounds angelic transformation in moral and intellectual actualization—a doctrine compatible with Christian anthropology.",
+  "exegesis_status": "draft",
+  "lineage": "aquinas, ficino",
+  "key_concepts": ["angelhood", "spiritual intelligence", "form", "ontology", "intellect"],
+  "tags": ["angelology", "ontology", "scholasticism", "intellect"],
+  "cross_references": {
+    "same_text": [],
+    "other_texts": ["Heptaplus 4.5", "Conclusiones 2.3.71"],
+    "900_conclusions": ["2.3.71"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "Pico defines angelhood ontologically: not a physical form, but spiritual intelligence (intellectus). This refutes metempsychosis and establishes that becoming an angel is a moral and intellectual transformation."
+}

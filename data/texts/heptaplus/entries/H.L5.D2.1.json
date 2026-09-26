@@ -1,0 +1,41 @@
+{
+  "conclusion_id": "H.L5.D2.1",
+  "text": "heptaplus",
+  "day": 2,
+  "layer": 5,
+  "layer_name": "Kabbalistic (Third Exposition, Chapter 3)",
+  "passage_number": 1,
+  "latin_text": "We read that the firmament was placed in the midst of the waters, by which are indicated to us the three hierarchies of angels (for thus we shall always call them, by the customary word). The first and last of these are designated by the waters, the former by those above the heavens, the latter by those which are under the heavens; the middle one dividing them is called the firmament.",
+  "english_translation": "We read that the firmament was placed in the midst of the waters, by which are indicated to us the three hierarchies of angels (for thus we shall always call them, by the customary word). The first and last of these are designated by the waters, the former by those above the heavens, the latter by those which are under the heavens; the middle one dividing them is called the firmament.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Genesis Day 2 ('firmament in middle of waters') = Three Dionysian hierarchies: waters above = contemplative angels; firmament = active/heavenly angels; waters below = earthly angels.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | kabbalah",
+  "key_concepts": [
+    "three-hierarchies-of-pseudo-dionysius-mapped-to-genesis-cosmology"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "Day 3 (governance)",
+      "Day 4 (celestial bodies)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (celestial magic & angelic hierarchy)",
+      "S7 (Kabbalah & Hebrew magic)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.C3.1 | Three hierarchies of Pseudo-Dionysius mapped to Genesis cosmology"
+}

@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.1.2",
+  "text": "being_unity",
+  "book": "Five",
+  "passage_number": 2,
+  "latin_text": "[From critical edition, p. 83, lines 2873-2874]",
+  "english_translation": "But the life of the angels is not perfect. Unless the vivifying ray of divine light constantly warmed it, it would all fall into nothingness.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico extends participated being to angelic existence itself. Angels do not possess being independently; they depend on continuous divine sustenance—the 'vivifying ray of divine light.' This passage grounds the metaphysical hierarchy in an ontological principle: without God's constant creative act, all creatures would return to non-being. The angelic hierarchy exemplifies this universal principle most clearly because pure intellects have no material substrate—their existence is purely relational, received from God moment-by-moment. Plotinian emanation meets Thomistic conservation: the One perpetually sustains all being, and angels, as the highest created beings, exemplify this eternal dependence most perfectly.",
+  "exegesis_status": "draft",
+  "lineage": ["aquinas", "pseudo-dionysius", "plotinus"],
+  "key_concepts": ["angelic-being-as-participated", "divine-sustenance", "vivifying-ray", "conservation-of-creatures", "ontological-dependence"],
+  "tags": ["angelology", "metaphysics", "participated-being", "emanation", "neoplatonism", "conservation", "being-and-nothingness"],
+  "metaphysical_theme": "Angelic being as utterly dependent on divine sustenance; the vivifying ray as the continuous creative act that keeps creatures in being, preventing their descent into nothingness",
+  "cross_references": {
+    "same_text": ["U.1.1 (angelic intellection as dependent illumination)", "U.3.1 (efficient causality and participated being)", "U.5.1 (Creator-creature distinction)"],
+    "other_texts": ["Heptaplus Day 1, Layer 1: light as angelic intellect; divine illumination as the creative principle that sustains all beings", "Commento Book III: angelic ascent through divine love (Eros as vivifying principle)", "Oration: human aspiration toward angelic nature via philosophical virtue—a participation in divine light"],
+    "900_conclusions": ["S1 (Emanation and hierarchy of being)", "Conclusions on the Creator-creature distinction and metaphysical dependence"]
+  },
+  "scholar_citations": [
+    "Plotinus, Enneads V.1: On the eternal emanation of being from the One; creatures sustained by eternal flux",
+    "Aquinas, Summa I, q. 104: On conservation of creatures in being—God's perpetual creative act",
+    "Edelheit: Pico's deepening of Thomistic participation doctrine—angels exemplify how all creatures receive being moment-by-moment"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.1.2 introduces the metaphysical principle of angelic dependence as exemplary of universal creaturely condition. The vivifying ray is a Pico signature—it appears across Heptaplus, Commento, and Oration, always marking the point of contact between eternal divine light and temporal created existence."
+}

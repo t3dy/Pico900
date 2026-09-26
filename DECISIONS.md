@@ -495,6 +495,47 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
+## 2026-09-25 — Sources Tab Feature (C)
+
+**Decision**: Add a Sources tab with 87 major intellectual sources organized by tradition, filterable/sortable cards, and detail pages.
+
+**Rationale**:
+- Pico900 is a digital edition + research portal
+- Visitors need context on what works Pico consulted
+- Organizing sources by tradition (Scholastic, Platonic, Aristotelian, Islamic, Kabbalistic, Patristic, Hermetic, Scientific) mirrors scholarly historiography
+- Each source card is 30–100 words (index card length) + clickable for detail
+- Detail pages show full source info, linked conclusions, scholars, and related sources
+- Parallel feature to Conclusions: both need navigation
+
+**Data Structure**:
+- `data/sources.json`: 8 traditions × 87 sources total
+- Each source has: name, work, dates, blurb (30–100 words), relevance tags, scholar citations, conclusions_linked count, priority (CORE/MAJOR/SECONDARY)
+- Priority reflects how foundational to Pico's thought (CORE = central, MAJOR = significant influence, SECONDARY = supplementary or later development)
+
+**Implementation**:
+- `src/templates/sources.html`: Landing page with filterable/sortable cards (sort by tradition/priority/conclusions/author)
+- `src/templates/source_detail.html`: Individual source page template
+- `scripts/build_sources.py`: Generator script that creates static HTML from `sources.json`
+- `src/css/edition.css`: Base CSS for site navigation and styling
+
+**Navigation**:
+- Update main nav to include "Sources" link between "Conclusions" and "About"
+- Sources page at `/sources/`, individual sources at `/sources/{source-id}/`
+
+**Sourcing**:
+- Data drawn from Copenhaver, Wirszubski, Howlett, Edelheit, Busi, Allen, Akopyan, Black, Farmer scholarship on Pico
+- PicoDB 15+ study passes on specific traditions
+- Megabase LLM conversations on Pico's readings
+
+**Rules out**:
+- Embedding sources inside conclusion entries (they're top-level)
+- Treating sources as supplementary (they're foundational context)
+- Exhaustive source cataloging; focus on the 87 major works Pico definitely consulted
+
+**Next step**: Run `python scripts/build_sources.py` to generate static pages, integrate into site build pipeline.
+
+---
+
 ## Next Decision Gates
 
 - **Phase 1 → Phase 2**: Retrospective complete; HARVESTER methodology refined (content-first + HARV-CHECK); Phase 2 parallel tracks approved
@@ -504,4 +545,5 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - **Phase 2 Complete**: Week 5 (2026-10-28) — All four tracks closed; manifest shows ≥90% overall completion
 - **Phase 3 Gate**: Heretical essay Q5/Q8 drafting approved once S7 citations 100% + S3 site live
 - **Angelology Research**: Continue in parallel (four-text editions); integrate findings into Pico900 Q1/Q6/Q8 sections as they become ready
+- **Sources Feature**: Deploy once initial site structure is live; test filterable cards and detail page navigation
 

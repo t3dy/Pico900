@@ -1,0 +1,22 @@
+{
+  "conclusion_id": "O.1.2",
+  "text": "oration",
+  "section": 1,
+  "passage_number": 2,
+  "latin_text": "He had already adorned the supercelestial region with intelligences, enlivened the heavenly globes with eternal souls, and filled the excremental and filthy parts of the lower world with a multitude of forms of animal life.",
+  "english_translation": "He had already adorned the supercelestial region with intelligences, enlivened the heavenly globes with eternal souls, and filled the excremental and filthy parts of the lower world with a multitude of forms of animal life.",
+  "translation_source": "Borghesi critical edition",
+  "exegesis": "This passage describes the first cosmological moment before human creation: God establishes a hierarchical universe with angels (intelligences) in the supercelestial realm, ensouled heavenly bodies, and material creation below. Humans will occupy a unique middle position.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius, aquinas, neoplatonism",
+  "key_concepts": ["cosmology", "hierarchy", "intelligences", "creation", "celestial spheres"],
+  "tags": ["angelology", "cosmology", "hierarchy", "neoplatonism"],
+  "cross_references": {
+    "same_text": [],
+    "other_texts": ["Conclusiones 1.6.3", "Heptaplus 3.3"],
+    "900_conclusions": ["1.6.3"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "Describing the first cosmological moment: God creates a hierarchical cosmos with angels (intelligences) in the supercelestial realm. Humans have not yet been created."
+}

@@ -1,0 +1,47 @@
+{
+  "conclusion_id": "H.L6.D0.1",
+  "text": "heptaplus",
+  "day": 0,
+  "layer": 6,
+  "layer_name": "Foundational (Pseudo-Dionysius + Kabbalistic worldview)",
+  "passage_number": 1,
+  "latin_text": "in the ultramundane region the fire is the seraphic intellect. But see how they differ. The elemental fire burns; the celestial gives life, and the supercelestial loves.",
+  "english_translation": "in the ultramundane region the fire is the seraphic intellect. But see how they differ. The elemental fire burns; the celestial gives life, and the supercelestial loves.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Pico expounds the mutual containment of worlds—the same substance exists at three levels: elemental (burns), celestial (animates), and angelic (loves). Fire at the angelic level IS seraphic intellect.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus | kabbalah",
+  "key_concepts": [
+    "seraph-(seraphim)-as-pure-intellect-and-love",
+    "-seraphic-fire-as-theological-principle"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.SP.1",
+      "H.SP.3",
+      "H.SP.4",
+      "H.SP.6",
+      "H.TE3.P.1",
+      "Day 1 (light/angelology)",
+      "Day 2 (firmament/hierarchy)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S5 (planetary magic)",
+      "I.29-I.36 (celestial governors)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.SP.2 | Seraph (seraphim) as pure intellect and love; seraphic fire as theological principle"
+}

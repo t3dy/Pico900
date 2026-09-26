@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.4.2",
+  "text": "being_unity",
+  "book": "Eight",
+  "passage_number": 8,
+  "latin_text": "[From critical edition, p. 94, lines 3328-3339]",
+  "english_translation": "To divide a thing is the same as to destroy it, and thus we cannot take away from anything its own natural unity in such a way that its being would nevertheless remain in its integrity. The whole is not its parts, but that one thing which emerges from the parts, as Aristotle teaches in First Philosophy, Book VIII.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico establishes a metaphysical principle: division is destruction; unity is the ground of being. A thing cannot lose its unity while retaining its integrity of being. Applied to angelology, this means that the seraph's perfection lies in absolute unity with divine will—no division between intellect and will, no multiplicity in understanding, no resistance to divine good. A fallen angel (demon) is precisely an angel fractured by division from divine unity. The demon's loss of unity is its loss of being. Yet the demon, as an angel, retains a minimal being—a being of privation. This passage, drawing on Aristotelian substance metaphysics, grounds the hierarchy in an ontological principle: higher beings possess greater unity (simpler, more integrated), while lower beings and privations involve multiplicity and division. The seraph exemplifies unity; matter exemplifies multiplicity; demons exemplify division from divine unity.",
+  "exegesis_status": "draft",
+  "lineage": ["aquinas", "plotinus"],
+  "key_concepts": ["unity-as-ground-of-being", "division-as-destruction", "demonic-division-from-unity", "seraph-as-perfect-unity", "simplicity-and-being", "integrity-through-unity"],
+  "tags": ["angelology", "metaphysics", "unity", "being", "seraph", "demon", "demonology", "simplicity"],
+  "metaphysical_theme": "Unity as the ground of being and integrity; the seraph exemplifying perfect unity with divine will; demons exemplifying division from divine unity and descent toward non-being",
+  "cross_references": {
+    "same_text": ["U.4.1 (evil as privation; demons as deprived of goodness)", "U.3.2 (seraph as exemplar of transcendental unity)", "U.1.1-U.1.2 (angelic integrity depends on divine sustenance)"],
+    "other_texts": ["Heptaplus Layer 2: Angelic separation of intelligible from sensible as hierarchical principle (not demonic division)", "Heptaplus Layer 3: How the six days create graduated unity; demonic rebellion as cosmic dissonance", "Commento Book I: Seraphim as perfect unity of love and intellect; lower angels as gradual differentiation into multiplicity", "Oration: Human soul's struggle to maintain unity against sensual division; virtue as unified orientation toward divine good"],
+    "900_conclusions": ["S1 (Neoplatonic metaphysics of being and unity)", "Conclusions on simplicity and the hierarchy of being"]
+  },
+  "scholar_citations": [
+    "Aristotle, Metaphysics VII: On substance and unity as the measure of being",
+    "Plotinus, Enneads V.8: On the One and emanation; higher beings possess greater unity; multiplicity marks lower levels",
+    "Black on demonic privation: How the demon's division from divine unity results in quasi-non-being"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.4.2 provides the metaphysical principle underlying the seraph-demon opposition: unity vs. division. The seraph is unified—intellect and will one in devotion to God. The demon is divided—will turned against divine order, intellect against truth. This passage explains why Pico's ethics always emphasizes unity of virtue: virtue is unified orientation of all faculties toward God; vice is their division. The passage thus connects metaphysics and ethics: the hierarchical universe and the virtuous soul mirror each other in their structure of unified participation vs. divisive privation."
+}

@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.2.1",
+  "text": "being_unity",
+  "book": "Five",
+  "passage_number": 3,
+  "latin_text": "[From critical edition, p. 85, lines 2963-2966]",
+  "english_translation": "Dionysius the Areopagite saw this. After all that he wrote in the Symbolic Theology, in the Theological Institutions, in On the Divine Names, and in On Mystical Theology, he finally at the end of that work spoke as he could about God in a very holy way, as if he were already in the cloud.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico invokes Pseudo-Dionysius as the exemplary figure of mystical ascent within a hierarchical framework. The reference to Pseudo-Dionysius's four works—especially the progression from Symbolic Theology through Divine Names to Mystical Theology—traces a ladder of negation: from symbols (affirmative theology) through names (divine attributes) to ultimate unknowing (apophatic theology). Pico positions the nine angelic orders as the rungs of this ladder. The 'cloud' alludes to the Dionysian cloud of unknowing that surpasses even the highest angelic intellection—God's transcendence exceeds even the seraphim's participation.",
+  "exegesis_status": "draft",
+  "lineage": ["pseudo-dionysius", "plotinus", "synthesis"],
+  "key_concepts": ["pseudo-dionysius-hierarchy", "mystical-ascent", "apophatic-theology", "angelic-orders-as-ladder", "cloud-of-unknowing"],
+  "tags": ["angelology", "mystical-theology", "apophatic-theology", "hierarchy", "pseudo-dionysius", "neoplatonism", "divine-darkness"],
+  "metaphysical_theme": "Pseudo-Dionysius's hierarchical angelology as the metaphysical framework for mystical ascent; the nine angelic orders as rungs on the ladder toward divine darkness that transcends even the highest created intellects",
+  "cross_references": {
+    "same_text": ["U.2.2 (apophatic theology and divine transcendence)", "U.1.1 (angelic intellection as participated)", "U.5.1 (God's essential mystery)"],
+    "other_texts": ["Heptaplus Layer 2: Pseudo-Dionysius hierarchy explicitly mapped to the creation narrative and six days", "Heptaplus Layer 4: Anagogical reading where angels lead the soul toward mystical union", "Commento Book I: Seraphim at apex of angelic hierarchy as exemplars of divine love", "Oration: Pseudo-Dionysius's hierarchy invoked for human dignity and capacity for ascent toward God"],
+    "900_conclusions": ["S1 (Pseudo-Dionysius and Christian Neoplatonism)", "Conclusions on hierarchy and mystical union"]
+  },
+  "scholar_citations": [
+    "Pseudo-Dionysius, De divinis nominibus, De mystica theologia: Primary authorities on angelic hierarchy and apophatic path to God",
+    "Howlett: Pico's use of Pseudo-Dionysius as synthesis of Neoplatonic emanation and Christian mysticism",
+    "Allen: The role of the angelic hierarchy in mapping the soul's ascent toward unknowable God"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.2.1 establishes Pseudo-Dionysius as the authoritative voice for Pico's angelology. The four works form a pedagogical sequence: starting with visible symbols, ascending through abstract names and attributes, and culminating in the transnational cloud where even intellectual knowledge fails. This structure organizes all of Pico's treatment of angels across the 900 Conclusions."
+}

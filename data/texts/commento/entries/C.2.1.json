@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.2.1",
+  "text": "commento",
+  "book": 2,
+  "passage_number": 1,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.13, pp. 500-501]",
+  "english_translation": "Since the Ideas can be perfected only when they are separated from what is alien to them, separated in effect from the as yet unformed chaos of Mind and returned to their source in the One, Mind must itself revert to God and unite with him. Thus Mind completes what Pico calls 'the first circle' (il primo circuit) of returning to its own first and final cause and to the Ideas' first cause, namely, to the unity of God.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico describes the cosmic circular motion of the angelic Mind (first hypostasis) returning to God. This is the model for all lower levels including human souls. The 'first circle' represents the angelic intellect's eternal return to its source. SYNTHESIZER to develop the cosmological implications of circular return.]",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | proclus | pseudo-dionysius",
+  "key_concepts": ["first circle", "circular motion", "return to god", "perfection of ideas", "procession and return", "cosmic rhythm"],
+  "tags": ["angelology", "neoplatonism", "cosmology", "mysticism", "circular-motion", "procession-return"],
+  "kabbalistic_elements": "The circular motion of return parallels Kabbalistic doctrine of emanation and return (tzimtzum and restoration). The first circle prefigures the restoration of all things to Ein Sof.",
+  "cross_references": {
+    "same_text": ["C.2.2", "C.2.3", "C.2.4", "C.2.5"],
+    "other_texts": ["Commento 2.13-2.14", "Plotinus Enneads on procession and return", "Heptaplus on creation and return"],
+    "900_conclusions": ["Cosmic circles", "Procession and return", "Tzimtzum restoration"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Introduces the central cosmological principle of Book II: the first circle of return. This circular motion becomes the model for all creation. Source: Allen, p. 6324-6326; Garin edition, Commento 2.13, pp. 500-501. Kabbalistic density: MODERATE (tzimtzum / emanation-return parallels)."
+}

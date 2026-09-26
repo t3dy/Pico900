@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.1.6",
+  "text": "commento",
+  "book": 1,
+  "passage_number": 6,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.6, p. 492]",
+  "english_translation": "Pico adduces several related propositions to this effect in other works... while the Commento 2.6 (p. 492) argues that 'our soul is all things because it can understand all things'. As a rational soul, man had joined before his descent into the flesh – and will join again upon his liberation from it – with all other rational souls in the universal cavalcade under what the Phaedrus calls 'great' Jove (interpreted by the Neoplatonists as the World Soul), a cavalcade which ascends to the rim of the intellectual or angelic heaven thence to gaze from afar at the intelligible beauty of the Ideas.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico articulates participatory knowledge: the human soul participates in all things because it understands all things, and crucially, before its descent into flesh it participated in the angelic cavalcade under the World Soul. This is the intellectual basis for human dignity and angelic ascent. SYNTHESIZER to develop the pre-incarnate participation doctrine.]",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | aquinas | pseudo-dionysius",
+  "key_concepts": ["participatory intellection", "pre-incarnate participation", "angelic cavalcade", "world soul", "universals", "human dignity", "liberation from flesh"],
+  "tags": ["angelology", "neoplatonism", "mysticism", "participatory-knowledge", "human-dignity", "cosmic-hierarchy"],
+  "kabbalistic_elements": "The idea of pre-incarnate participation in celestial hierarchies parallels Kabbalistic doctrine of souls emanating from Sefiroth and descending into flesh.",
+  "cross_references": {
+    "same_text": ["C.1.1", "C.1.2", "C.2.6"],
+    "other_texts": ["Oration on Dignity (ascent to angelic nature)", "Heptaplus Day 6 (humans and angels)", "Plato Phaedrus (cavalcade of souls)"],
+    "900_conclusions": ["Participatory intellection", "Pre-incarnate souls", "Human-angelic correspondence"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Foundational for understanding Pico's doctrine of human participation in angelic intellection. The pre-incarnate participation in the angelic cavalcade provides metaphysical grounding for human dignity and ascent. Source: Allen, pp. 1259-1273; Garin edition, Commento 2.6, p. 492. Kabbalistic density: MODERATE (pre-incarnate souls / Sefirotic emanation parallels)."
+}

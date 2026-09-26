@@ -1,0 +1,46 @@
+{
+  "conclusion_id": "H.L2.D1.1",
+  "text": "heptaplus",
+  "day": 1,
+  "layer": 2,
+  "layer_name": "Allegorical (Third Exposition, Chapter 2)",
+  "passage_number": 1,
+  "latin_text": "An angel, from what we have said, has perfectly realized his own nature and intellectual qualities. Nevertheless, he does not have a way to fulfill his functions of understanding and contemplation unless he is first surrounded by God with intelligible forms. For this reason the darkness has hitherto been upon the face of the deep. The deep is his intellectual capacity, penetrating and searching everything profound.",
+  "english_translation": "An angel, from what we have said, has perfectly realized his own nature and intellectual qualities. Nevertheless, he does not have a way to fulfill his functions of understanding and contemplation unless he is first surrounded by God with intelligible forms. For this reason the darkness has hitherto been upon the face of the deep. The deep is his intellectual capacity, penetrating and searching everything profound.",
+  "translation_source": "Borghesi + Papio English translation (pending)",
+  "exegesis": "Pico interprets Genesis Day 1 allegorically: darkness on the deep = angel's intellect before illumination. Angels need intelligible forms to actualize their knowing capacity.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | aquinas | plotinus",
+  "key_concepts": [
+    "angelic-intellection-actualized-by-intelligible-forms",
+    "-the-deep-as-angelic-intellect"
+  ],
+  "tags": [
+    "high-angelology-density",
+    "angelology",
+    "kabbalistic"
+  ],
+  "layer_angelology_density": "high",
+  "cross_references": {
+    "same_text": [
+      "H.TE3.C1.1",
+      "H.TE3.C1.2",
+      "H.TE3.C1.3",
+      "H.TE3.C2.3",
+      "Day 2 (firmament/hierarchy)",
+      "Day 3 (governance)"
+    ],
+    "other_texts": [
+      "Commento Book I (angelic hierarchy & mysticism)",
+      "Oration (ascent through angelic exemplars)",
+      "On Being and Unity (hierarchical participation)"
+    ],
+    "900_conclusions": [
+      "S1 (Platonic theology)",
+      "S5 (celestial spirits)"
+    ]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER passage: H.TE3.C2.1 | Angelic intellection actualized by intelligible forms; the deep as angelic intellect"
+}

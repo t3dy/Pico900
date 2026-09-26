@@ -1,0 +1,22 @@
+{
+  "conclusion_id": "O.1.5",
+  "text": "oration",
+  "section": 1,
+  "passage_number": 5,
+  "latin_text": "Nam et Hebreorum theologia secretior nunc Enoch sanctum in angelum divinitatis, quem vocant מטטרון, nunc in alia alios numina reformant",
+  "english_translation": "Indeed, even the most secret Hebrew theology at one time transforms holy Enoch into an angel of divinity, whom they call Metatron, and at other times it reshapes other men into other spirits.",
+  "translation_source": "Borghesi critical edition",
+  "exegesis": "Pico cites Merkabah mysticism to prove that human-to-angelic transformation is attested in Jewish esoteric doctrine. Enoch's ascent to Metatron exemplifies the actualisation of human angelhood through mystical practice, not mythological metamorphosis.",
+  "exegesis_status": "draft",
+  "lineage": "kabbalah",
+  "key_concepts": ["Enoch", "Metatron", "Merkabah mysticism", "transfiguration", "angelic ascent"],
+  "tags": ["angelology", "kabbalah", "merkabah", "transfiguration"],
+  "cross_references": {
+    "same_text": [],
+    "other_texts": ["Commento sopra una canzona (1486)", "Conclusiones 2.11.10"],
+    "900_conclusions": ["2.11.10"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "Pico cites Cabalistic doctrine (Merkabah mysticism) that humans can be transformed into angels. Enoch becomes Metatron, the highest angelic prince. This is transfiguration, not transmigration into beasts."
+}

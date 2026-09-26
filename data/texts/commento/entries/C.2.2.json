@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.2.2",
+  "text": "commento",
+  "book": 2,
+  "passage_number": 2,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento 2.13, pp. 500-501]",
+  "english_translation": "There inevitably arises in angelic Mind a desire to possess the Ideas in their perfect form, and this desire is a desire for beauty and constitutes therefore (though Pico never exactly says this) the first instance of love. Though Mind is the first creature to love beauty, this beauty is the beauty of the Ideas as they are causally in God, who is without composition and without Ideas.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico locates the origin of Love in angelic Mind itself. The angel's desire for perfect possession of the Ideas is the first love. This is the cosmological principle underlying the entire Commento's meditation on divine love. SYNTHESIZER to develop the doctrine of love as cosmic principle.]",
+  "exegesis_status": "draft",
+  "lineage": "plotinus | pseudo-dionysius",
+  "key_concepts": ["love's origin", "angelic desire", "beauty of ideas", "first love", "cosmic love", "angelic intellection"],
+  "tags": ["angelology", "neoplatonism", "love", "mysticism", "cosmic-principle", "beauty"],
+  "kabbalistic_elements": "The angelic desire parallels the Kabbalistic principle of Ratzon (divine will/desire) emanating through the Sefiroth.",
+  "cross_references": {
+    "same_text": ["C.2.1", "C.2.3", "C.2.4", "C.2.5"],
+    "other_texts": ["Commento 2.13 (Love's birth in angelic Mind)", "Plato Symposium (Diotima's account of Love)", "Ficino De amore"],
+    "900_conclusions": ["Love as cosmic principle", "Angelic love", "Ratzon (divine will)"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Love originates in angelic Mind as desire for perfect possession of Ideas. This is the foundational cosmological principle. Source: Allen, p. 6238-6245; Garin edition, Commento 2.13, pp. 500-501. Kabbalistic density: MODERATE (Ratzon / divine will parallels)."
+}

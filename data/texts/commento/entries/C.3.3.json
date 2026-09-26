@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.3.3",
+  "text": "commento",
+  "book": 3,
+  "passage_number": 3,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Heptaplus proem 2]",
+  "english_translation": "Similarly, what is water here is the Moon in the heavens and the understanding of the cherubic intellects in the supercelestial realm.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: This brief but significant reference indicates the existence of distinct angelic intellects (seraphic and cherubic) with specific intelligible functions within the supercelestial realm. Water symbolizes the receptive, understanding principle. SYNTHESIZER to develop the functions of these specific orders.]",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus",
+  "key_concepts": ["seraphim", "cherubim", "intellects", "supercelestial realm", "water symbolism", "understanding", "distinct angelic orders"],
+  "tags": ["angelology", "seraphim-cherubim", "pseudo-dionysius", "kabbalistic-correspondence", "cosmology"],
+  "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: Seraphim correspond to Chokmah (Wisdom), Cherubim to Binah (Understanding). The 'water' here represents the receptive principle of Binah.",
+  "cross_references": {
+    "same_text": ["C.3.1", "C.3.2"],
+    "other_texts": ["Pseudo-Dionysius (seraphim as love, cherubim as knowledge)", "Heptaplus (layered cosmology)", "Kabbalah (Sefirah correspondences)"],
+    "900_conclusions": ["Chokmah-Binah", "Seraphim-Cherubim dyad", "Supernal Triad"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER KABBALISTIC FLAG: EXPLICIT KABBALISM. Seraphim/Cherubim = Chokmah/Binah. Water = receptive principle. Source: Allen, p. 6470-6471; Garin edition, Heptaplus proem 2. Kabbalistic density: VERY HIGH (explicit Sefirah names and symbolic correspondences)."
+}

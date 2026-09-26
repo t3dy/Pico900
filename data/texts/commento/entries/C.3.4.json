@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.3.4",
+  "text": "commento",
+  "book": 3,
+  "passage_number": 4,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Heptaplus proem, pp. 200-210]",
+  "english_translation": "Whether it [Genesis] is read as an allegory (and thus as Nous, the cosmic intellect encompassing all angelic intelligences), or as an anagogy (mystical union with divine intelligences), or with Kabbalistic eyes (where each day represents emanation of Sefiroth and corresponding angelic powers)...",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: This passage (synthesized from multiple references in Allen's treatment of Heptaplus and Commento) indicates that Pico reads Genesis through three angelological lenses: as Nous (cosmic intelligence), as mystical union with angels, and as Kabbalistic emanation with angelic correspondences. SYNTHESIZER to develop the integrated hermeneutic.]",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus | kabbalah",
+  "key_concepts": ["multiple readings", "nous", "mystical union", "kabbalistic emanation", "sefiroth", "angelic powers", "hermeneutics"],
+  "tags": ["angelology", "kabbalah", "neoplatonism", "mysticism", "hermeneutics", "kabbalistic-angelology"],
+  "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: Each day of creation corresponds to Sefiroth and their angelic orders (Sefirah = Angelic throne/Sephirah corresponds to specific Archangel and Choir of Angels).",
+  "cross_references": {
+    "same_text": ["C.3.1", "C.3.2", "C.3.5"],
+    "other_texts": ["Heptaplus (seven readings including Kabbalistic Layer 5)", "Commento proem (on modes of reading)", "900 Conclusions on Kabbalah and angels"],
+    "900_conclusions": ["Genesis as Kabbalistic text", "Sefirotic days", "Angelic emanation"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER KABBALISTIC FLAG: EXPLICIT KABBALISM. Pico reads Genesis through Kabbalistic lens where each day = Sefirah emanation with angelic correspondences. Synthesis from Allen's discussion of Heptaplus methodology. Source: Allen, pp. 6400-6433; Garin edition Heptaplus proem, pp. 200-210. Kabbalistic density: VERY HIGH (multiple Kabbalistic hermeneutic layers)."
+}

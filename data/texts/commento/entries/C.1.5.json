@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.1.5",
+  "text": "commento",
+  "book": 1,
+  "passage_number": 5,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento stanza 4 commentary, pp. 484-485]",
+  "english_translation": "Since the Cabalist wise men believe that many of the ancient fathers died in this kind of rapture of the intellect, you will find the Cabalists saying that those fathers died of binsica which in our language means death from kissing... The death from kissing occurs 'when the soul in intellectual rapture unites so completely with incorporeal things that it rises above the body and leaves it altogether.' Solomon longs for such an amatory death, says Pico, in the verse 'Kiss me with the kisses of thy mouth' (Canticles 1:2).",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico invokes explicit Kabbalistic doctrine (binsica = death of the kiss) to describe the soul's mystical union with divine intellect. The referenced fathers (Abraham, Isaac, Jacob, Moses, Aaron, Miriam) are Kabbalistic exemplars. This passage demonstrates Pico's direct incorporation of Jewish mystical angelology into Christian angelology. SYNTHESIZER to develop the mystical union theology.]",
+  "exegesis_status": "draft",
+  "lineage": "kabbalah | plotinus | mysticism",
+  "key_concepts": ["binsica", "death from kissing", "mystical union", "intellectual rapture", "incorporeal union", "song of songs", "righteous fathers"],
+  "tags": ["angelology", "kabbalah", "mysticism", "mystical-union", "death-of-the-kiss", "song-of-songs", "kabbalistic-doctrine"],
+  "kabbalistic_elements": "**EXPLICITLY KABBALISTIC**: binsica (death from kissing), righteous fathers as Kabbalistic exemplars (Abraham, Isaac, Jacob, Moses, Aaron, Miriam), reference to Song of Songs as mystical text, union with incorporeal angelic intellects. This is a direct invocation of Jewish mystical angelology.",
+  "cross_references": {
+    "same_text": ["C.1.4", "C.1.6"],
+    "other_texts": ["Commento on 'Da lui el foco'", "Song of Songs mystical exegesis", "Heptaplus on mystical union", "Kabbalistic doctrine of mystical death"],
+    "900_conclusions": ["Kabbalistic mysticism", "Angelic union", "Song of Songs angelology"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER KABBALISTIC FLAG: EXPLICIT KABBALISM. Direct incorporation of Kabbalistic doctrine (binsica) and righteous-father exemplars. This is one of the five most explicitly Kabbalistic passages in the Commento angelology section. Source: Allen, pp. 5971-5991; Garin edition, Commento stanza 4 commentary, pp. 484-485. Kabbalistic density: VERY HIGH (explicit doctrine + Hebrew terminology + righteous exemplars)."
+}

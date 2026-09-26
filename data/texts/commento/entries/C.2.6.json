@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.2.6",
+  "text": "commento",
+  "book": 2,
+  "passage_number": 6,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Heptaplus 5.6-5.7, pp. 300-304 (referenced from Commento)]",
+  "english_translation": "man is not so much a fourth world as the 'link' (complexus) or 'bond' (colligatio) of the other three [worlds: angelic, celestial, sublunar]... man can serve as the terminus of the angelic world and as the beginning of corruptible nature.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico defines man's metaphysical role as the point of contact between the angelic realm and corruptible matter. The human soul is the locus where angelic intellection meets sensible experience. This makes human beings the crucial intermediary in the entire cosmic hierarchy. SYNTHESIZER to develop the implications for human dignity and responsibility.]",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | aquinas",
+  "key_concepts": ["microcosm", "link", "bond", "three worlds", "angelic to corruptible", "intermediary", "human dignity"],
+  "tags": ["angelology", "anthropology", "cosmology", "human-nature", "microcosm", "intermediary"],
+  "kabbalistic_elements": "Man as microcosm containing all Sefirot within himself, serving as the bridge between supernal and terrestrial realms.",
+  "cross_references": {
+    "same_text": ["C.1.6"],
+    "other_texts": ["Heptaplus 5.6-5.7", "Oration on Dignity (microcosm)", "Commento 1.12 (knot and bond)"],
+    "900_conclusions": ["Microcosmic man", "Sefirotic correspondence", "Angelic-terrestrial bridge"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Crucial statement of human intermediacy between angelic and corruptible realms. Man is the bridge that unites the three cosmic worlds. Source: Allen, p. 1329-1335; Garin edition, Heptaplus 5.6-5.7, pp. 300-304 (referenced from Commento). Kabbalistic density: HIGH (microcosm / all-Sefiroth-within-human parallels)."
+}

@@ -1,0 +1,22 @@
+{
+  "conclusion_id": "O.1.7",
+  "text": "oration",
+  "section": 1,
+  "passage_number": 7,
+  "latin_text": "Dedignemur terrestria, caelestia contemnamus; et, quicquid mundi est denique posthabentes, ultramundanam curiam eminentissimae divinitati proximam advolemus. Ibi, ut sacra tradunt mysteria, Seraphin, Cherubin et Throni primas possident",
+  "english_translation": "Let us spurn the terrestrial, disdain the celestial; disregarding all that is of this world, let us fly off to the otherworldly court that is near to the most eminent Divinity. There, according to the sacred mysteries, seraphim, cherubim, and thrones occupy the first places",
+  "translation_source": "Borghesi critical edition",
+  "exegesis": "Pico invokes the Pseudo-Dionysian hierarchy to call the reader toward transcendence. The three highest angelic orders (seraphim, cherubim, thrones) embody the three cardinal virtues (love, knowledge, judgment) and represent the goal of the philosophical and mystical ascent.",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius, aquinas",
+  "key_concepts": ["seraphim", "cherubim", "thrones", "celestial hierarchy", "transcendence"],
+  "tags": ["angelology", "pseudo-dionysius", "hierarchy", "mysticism"],
+  "cross_references": {
+    "same_text": [],
+    "other_texts": ["Conclusiones 1.6.7", "Ps. 81:6-7"],
+    "900_conclusions": ["1.6.7"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "Pico calls for ascent beyond both earthly and celestial knowledge to the transcendent realm. He names the three highest orders of the Pseudo-Dionysian hierarchy: seraphim (love), cherubim (knowledge), thrones (will/judgment)."
+}

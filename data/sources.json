@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "title": "Pico's Intellectual Sources",
+    "description": "Complete library of works, authors, and traditions Pico consulted in composing the 900 Conclusions and his other writings",
+    "version": "1.0",
+    "last_updated": "2026-09-25",
+    "total_sources": 87
+  },
+  "traditions": [
+    {
+      "id": "scholastic",
+      "label": "Scholastic Philosophy",
+      "description": "Medieval Christian philosophical synthesis, dominant in universities of Pico's era",
+      "color": "#8B7355",
+      "sources": [
+        {
+          "id": "aquinas_summa",
+          "name": "Thomas Aquinas",
+          "work": "Summa Theologiae",
+          "dates": "1265–1274",
+          "blurb": "The foundational synthesis of Aristotelian logic with Christian theology. Aquinas's treatment of angels, intellect, and essence profoundly shaped Pico's metaphysics. Pico engaged with Aquinas's doctrine of participation and the hierarchy of being across multiple conclusions on metaphysics and angelology.",
+          "relevance": "Angels, essence-existence distinction, intellect, causality, metaphysics",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 45,
+          "priority": "CORE"
+        },
+        {
+          "id": "aquinas_summa_contra_gentiles",
+          "name": "Thomas Aquinas",
+          "work": "Summa Contra Gentiles",
+          "dates": "1259–1265",
+          "blurb": "Aquinas's philosophical defense of Christian doctrine against non-Christian critics. Pico drew on its argumentation about divine knowledge, causality, and the nature of separate substances. Key for Pico's reconciliation of philosophy and theology.",
+          "relevance": "Divine knowledge, causality, separate substances, metaphysics",
+          "scholars": ["Copenhaver", "Edelheit"],
+          "conclusions_linked": 32,
+          "priority": "CORE"
+        },
+        {
+          "id": "aquinas_commentary_sentences",
+          "name": "Thomas Aquinas",
+          "work": "Sentences Commentary",
+          "dates": "1252–1256",
+          "blurb": "Aquinas's systematic exposition of Peter Lombard. Covers metaphysics, theology, and cosmology in detail. Pico used this for precise formulations on essence, causation, and the orders of being, especially regarding intellectual substances.",
+          "relevance": "Essence, being, causation, intellectual substances, cosmology",
+          "scholars": ["Howlett", "Edelheit"],
+          "conclusions_linked": 28,
+          "priority": "CORE"
+        },
+        {
+          "id": "scotus_ordinatio",
+          "name": "John Duns Scotus",
+          "work": "Ordinatio (Sentences Commentary)",
+          "dates": "c. 1300",
+          "blurb": "Scotus's alternative Scholastic synthesis emphasizing will and individuation through 'haecceity' (thisness). Pico engaged with Scotist metaphysics and voluntarism as a counterpoint to Thomist intellectualism, enriching his account of human freedom.",
+          "relevance": "Will, individuation, freedom, metaphysics, essence",
+          "scholars": ["Edelheit"],
+          "conclusions_linked": 18,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "bonaventure_sentences",
+          "name": "Bonaventure",
+          "work": "Sentences Commentary",
+          "dates": "c. 1250–1260",
+          "blurb": "Franciscan alternative to Aquinas emphasizing divine illumination and mystical ascent. Pico drew on Bonaventure's Platonic tendencies and his integration of mysticism with systematic theology, especially on the soul's ascent and intellectual contemplation.",
+          "relevance": "Divine illumination, mystical ascent, soul, intellect, contemplation",
+          "scholars": ["Howlett"],
+          "conclusions_linked": 15,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "albert_great_commentaries",
+          "name": "Albertus Magnus",
+          "work": "Aristotle Commentaries and Theological Works",
+          "dates": "c. 1245–1280",
+          "blurb": "Albert the Great's massive synthesis of Aristotelian natural philosophy with theology. Pico used Albert's commentary tradition on metaphysics and natural science, particularly on celestial influence and the nature of intellective soul.",
+          "relevance": "Metaphysics, natural philosophy, celestial influence, intellect, soul",
+          "scholars": ["Edelheit"],
+          "conclusions_linked": 22,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "peter_lombard_sentences",
+          "name": "Peter Lombard",
+          "work": "Sentences (Book III, On Souls and Virtues)",
+          "dates": "c. 1150–1160",
+          "blurb": "The standard university textbook for theology in Pico's era. Peter's careful systematization of doctrine on souls, virtues, and the divine nature shaped the entire scholastic dialogue. Pico's conclusions on the soul draw systematically from Lombard's framework.",
+          "relevance": "Soul, virtues, divine nature, essence, being",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 20,
+          "priority": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "platonic",
+      "label": "Platonic & Neoplatonic Sources",
+      "description": "The philosophical lineage from Plato through late Neoplatonism, emphasizing emanation, hierarchy, and the One",
+      "color": "#2E8B9E",
+      "sources": [
+        {
+          "id": "plato_complete",
+          "name": "Plato",
+          "work": "Complete Dialogues",
+          "dates": "380–347 BCE",
+          "blurb": "Pico accessed Plato primarily through Renaissance translations (Ficino's Latin, some Greek). The *Parmenides*, *Sophist*, and *Timaeus* were especially influential for Pico's metaphysics and angelology. Plato's theory of Forms underlies Pico's account of exemplars and divine ideas.",
+          "relevance": "Forms, ideas, hierarchy, dialectic, soul, cosmology",
+          "scholars": ["Copenhaver", "Howlett"],
+          "conclusions_linked": 52,
+          "priority": "CORE"
+        },
+        {
+          "id": "plotinus_enneads",
+          "name": "Plotinus",
+          "work": "Enneads",
+          "dates": "c. 250–270 CE (written by Porphyry)",
+          "blurb": "The foundational Neoplatonic text on emanation, intellect, and the One. Pico drew on Plotinus for the doctrine of levels of intellective being, the procession of all things from the One, and the return through contemplation. Central to Pico's understanding of mystical ascent.",
+          "relevance": "Emanation, intellect, the One, hierarchy, mystical union, soul",
+          "scholars": ["Copenhaver", "Allen"],
+          "conclusions_linked": 48,
+          "priority": "CORE"
+        },
+        {
+          "id": "porphyry_sentences",
+          "name": "Porphyry",
+          "work": "Sentences of Porphyry (Sententiae ad intelligentias ducentes)",
+          "dates": "c. 275 CE",
+          "blurb": "Porphyry's systematic introduction to Neoplatonism, organized as ascent through levels of being. Pico used this widely for its clear exposition of intellectual substances, essences, and the hierarchy connecting matter to the divine. A key bridge between Plotinus and scholasticism.",
+          "relevance": "Intellectual substances, hierarchy, essence, being, levels of reality",
+          "scholars": ["Howlett", "Copenhaver"],
+          "conclusions_linked": 35,
+          "priority": "CORE"
+        },
+        {
+          "id": "pseudo_dionysius",
+          "name": "Pseudo-Dionysius the Areopagite",
+          "work": "Celestial Hierarchy, Divine Names, Mystical Theology",
+          "dates": "c. 500 CE (authorship disputed)",
+          "blurb": "Pseudo-Dionysius's account of nine orders of angels and their hierarchical procession from God shaped medieval angelology profoundly. Pico adapted the Dionysian hierarchy into his metaphysical system and integrated it with Kabbalah and Plotinian emanation. Essential for all angelology conclusions.",
+          "relevance": "Angelic hierarchy, divine names, mystical ascent, light, procession",
+          "scholars": ["Copenhaver", "Allen", "Howlett"],
+          "conclusions_linked": 62,
+          "priority": "CORE"
+        },
+        {
+          "id": "marsilio_ficino_pimander",
+          "name": "Marsilio Ficino",
+          "work": "Pimander Translation and Neoplatonic Commentaries",
+          "dates": "c. 1460–1490",
+          "blurb": "Ficino's translation and commentary on the Hermetica (Corpus Hermeticum) and his philosophical writings on the World Soul and divine love. Pico knew Ficino's work intimately; they corresponded and shared philosophical circles in Florence. Ficino's Neoplatonism deeply influenced Pico's synthesis.",
+          "relevance": "Hermeticism, World Soul, divine love, man as microcosm, Neoplatonism",
+          "scholars": ["Copenhaver", "Allen"],
+          "conclusions_linked": 38,
+          "priority": "CORE"
+        },
+        {
+          "id": "iamblichus_mysteries",
+          "name": "Iamblichus",
+          "work": "On the Mysteries",
+          "dates": "c. 300 CE",
+          "blurb": "Iamblichus's systematization of theurgical magic as a philosophical practice coordinating human action with divine procession. Pico drew on Iamblichus for his account of magic as liturgy and for the idea that ritual can align the magus with higher intellectual orders.",
+          "relevance": "Theurgy, magic, ritual, divine procession, angelic orders",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 28,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "proclus_elements_theology",
+          "name": "Proclus",
+          "work": "Elements of Theology",
+          "dates": "c. 450 CE",
+          "blurb": "Proclus's systematic Neoplatonic theology organizing all reality in graduated monads descending from the One and ascending through contemplation. Pico used Proclus extensively for metaphysical precision, especially on individuation, causation, and the structure of intellective being.",
+          "relevance": "Monads, causation, individuation, contemplation, hierarchy, theology",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 42,
+          "priority": "CORE"
+        },
+        {
+          "id": "apuleius_on_plato",
+          "name": "Apuleius of Madauros",
+          "work": "On the God of Socrates, Platonic theology fragments",
+          "dates": "c. 170 CE",
+          "blurb": "Apuleius's account of daemons and intermediate beings, and his Platonically-inflected theology. Pico drew on Apuleius for the idea that intermediate spirits (demons, angels) bridge the gap between divine and material realms, informing his own cosmological hierarchy.",
+          "relevance": "Daemons, intermediate beings, cosmology, divine-material bridge",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 12,
+          "priority": "SECONDARY"
+        }
+      ]
+    },
+    {
+      "id": "aristotelian",
+      "label": "Aristotelian Philosophy",
+      "description": "Works by Aristotle and major commentators in the Aristotelian tradition available in the Renaissance",
+      "color": "#6B5D4F",
+      "sources": [
+        {
+          "id": "aristotle_metaphysics",
+          "name": "Aristotle",
+          "work": "Metaphysics",
+          "dates": "c. 350 BCE",
+          "blurb": "Aristotle's foundational inquiry into being, substance, causation, and the unmoved mover. Available to Pico in Latin translations (Bessarion's, Aquinas's Leonine edition). Central to Pico's account of essence, definition, categories, and the nature of separate substances (God and angels).",
+          "relevance": "Being, substance, causation, definition, categories, unmoved mover",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 58,
+          "priority": "CORE"
+        },
+        {
+          "id": "aristotle_logic_organon",
+          "name": "Aristotle",
+          "work": "Logic (Organon): Categories, Prior Analytics, Posterior Analytics, Sophistical Refutations",
+          "dates": "c. 340 BCE",
+          "blurb": "Aristotle's logical system, foundational to all scholastic reasoning. Pico's 900 Conclusions themselves follow Aristotelian logical forms. Pico used logic for argumentation, definition, and the structure of his propositions on metaphysics and theology.",
+          "relevance": "Logic, categories, demonstration, definition, argumentation",
+          "scholars": ["Farmer"],
+          "conclusions_linked": 44,
+          "priority": "CORE"
+        },
+        {
+          "id": "aristotle_de_anima",
+          "name": "Aristotle",
+          "work": "On the Soul (De Anima)",
+          "dates": "c. 340 BCE",
+          "blurb": "Aristotle's account of soul as the form of a living body, with nutritive, sensitive, and rational powers. Pico drew on Aristotle's psychology extensively for his conclusions on the intellectual soul, its operations, and its relationship to the body and to separate intellects.",
+          "relevance": "Soul, intellect, form, life, sensation, rational powers",
+          "scholars": ["Howlett", "Edelheit"],
+          "conclusions_linked": 52,
+          "priority": "CORE"
+        },
+        {
+          "id": "aristotle_physics",
+          "name": "Aristotle",
+          "work": "Physics",
+          "dates": "c. 340 BCE",
+          "blurb": "Aristotle's natural philosophy covering motion, causation, infinity, and the nature of natural objects. Pico engaged with Aristotelian physics, especially questions of celestial causation and the influence of heavenly bodies on the sublunary realm.",
+          "relevance": "Motion, causation, natural bodies, celestial influence, infinity",
+          "scholars": ["Akopyan"],
+          "conclusions_linked": 28,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "averroes_commentaries",
+          "name": "Averroes (Ibn Rushd)",
+          "work": "Commentaries on Aristotle (Metaphysics, Physics, De Anima, Logic)",
+          "dates": "c. 1150–1198",
+          "blurb": "The most sophisticated medieval synthesis of Aristotle and Islamic thought. Averroes' long commentaries were the standard reference for Aristotelian philosophy in the Renaissance. Pico drew on Averroes for metaphysics, cosmology, and the intellect, though he ultimately rejected some of Averroes' conclusions on intellect as monistic.",
+          "relevance": "Metaphysics, intellect, causation, celestial spheres, soul",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 42,
+          "priority": "CORE"
+        },
+        {
+          "id": "avicenna_metaphysics",
+          "name": "Avicenna (Ibn Sina)",
+          "work": "Metaphysics (Part of the Shifa), Logica",
+          "dates": "c. 980–1037",
+          "blurb": "Avicenna's systematic metaphysics and logic, integrating Aristotelian categories with Neoplatonic emanation. Pico drew on Avicenna for the essential distinction between essence and existence, for the account of necessary and contingent beings, and for logical analysis.",
+          "relevance": "Essence-existence, necessary-contingent, emanation, logic, metaphysics",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 40,
+          "priority": "CORE"
+        },
+        {
+          "id": "thomas_aquinas_aristotle_commentary",
+          "name": "Thomas Aquinas (via Aristotle)",
+          "work": "Commentary on the Metaphysics, Physics, Sentences of Aristotle",
+          "dates": "c. 1269–1273",
+          "blurb": "Aquinas's commentaries on Aristotle integrated Aristotelian categories with scholastic theology. Pico used Aquinas's readings of Aristotle to understand the relationship between natural philosophy and metaphysics, especially regarding causation and being.",
+          "relevance": "Metaphysics, being, causation, natural philosophy, integration of faith and reason",
+          "scholars": ["Edelheit"],
+          "conclusions_linked": 35,
+          "priority": "MAJOR"
+        }
+      ]
+    },
+    {
+      "id": "islamic_arabic",
+      "label": "Islamic & Arabic Philosophy",
+      "description": "Philosophers and theologians from the Islamic intellectual tradition, available in Latin translation in the Renaissance",
+      "color": "#8E7D7B",
+      "sources": [
+        {
+          "id": "al_ghazali_alchemists",
+          "name": "Al-Ghazali",
+          "work": "Alchemy of Happiness, Tahafut al-Tahafut (partially known to Renaissance)",
+          "dates": "c. 1050–1111",
+          "blurb": "Al-Ghazali's mystical theology and critique of Aristotelian philosophy from within Islamic orthodoxy. Pico accessed some of Al-Ghazali through Latin translations and Islamic secondary sources. Influenced Pico's account of the relationship between philosophy and mystical experience.",
+          "relevance": "Mystical theology, faith and reason, spiritual ascent, divine knowledge",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 8,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "avicenna_essence",
+          "name": "Avicenna (Ibn Sina)",
+          "work": "On Essence and Existence (Risala fi'l-Wujud wa'l-Mahiyyah)",
+          "dates": "c. 1000–1037",
+          "blurb": "Avicenna's precise articulation of the essence-existence distinction became foundational for late medieval metaphysics. Pico adopted Avicenna's framework to argue for God as necessary existence and all creatures as contingent combinations of essence and existence.",
+          "relevance": "Essence-existence, contingency-necessity, metaphysical composition",
+          "scholars": ["Edelheit"],
+          "conclusions_linked": 35,
+          "priority": "CORE"
+        },
+        {
+          "id": "averroes_metaphysics",
+          "name": "Averroes (Ibn Rushd)",
+          "work": "Long Commentary on Aristotle's Metaphysics, Incoherence of the Incoherence",
+          "dates": "c. 1150–1198",
+          "blurb": "Averroes' defense of Aristotelian philosophy against Al-Ghazali and his grand synthesis of Aristotle with Islamic theology. Available in Latin; Pico drew on Averroes for rigorous treatment of being, causation, and divine knowledge in relation to worldly particulars.",
+          "relevance": "Metaphysics, being, causation, divine knowledge, natural philosophy",
+          "scholars": ["Edelheit", "Howlett"],
+          "conclusions_linked": 42,
+          "priority": "CORE"
+        },
+        {
+          "id": "kindi",
+          "name": "Al-Kindi",
+          "work": "On Intellect, On First Philosophy",
+          "dates": "c. 800–873",
+          "blurb": "Al-Kindi's Neoplatonic-Aristotelian synthesis and account of the intellect in its four degrees. Transmitted through scholastic intermediaries and Latin translations. Influenced Pico's understanding of intellective hierarchy and the relationship between human and divine intellect.",
+          "relevance": "Intellect, divine knowledge, Neoplatonism, causation",
+          "scholars": ["Edelheit"],
+          "conclusions_linked": 18,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "algebra_logic",
+          "name": "Islamic Logicians and Mathematicians",
+          "work": "Algebraic and Logical Treatises (Al-Khwarizmi, Ibn Sina, others)",
+          "dates": "c. 800–1200",
+          "blurb": "Islamic developments in logic and mathematics, including algebraic notation and sophisticated logical analysis. Pico engaged with Islamic logical innovations as they filtered into scholasticism, sharpening his own logical argumentation and mathematical reasoning.",
+          "relevance": "Logic, mathematics, argumentation, analysis",
+          "scholars": ["Farmer"],
+          "conclusions_linked": 12,
+          "priority": "SECONDARY"
+        }
+      ]
+    },
+    {
+      "id": "kabbalistic",
+      "label": "Kabbalistic & Jewish Sources",
+      "description": "Medieval and early modern Jewish mystical and philosophical texts, including Kabbalah and commentary traditions",
+      "color": "#7D4F34",
+      "sources": [
+        {
+          "id": "zohar",
+          "name": "Zohar (attributed to Shimon bar Yohai)",
+          "work": "Zohar (Book of Splendor)",
+          "dates": "c. 1300 (composition date disputed, attributed to 2nd century)",
+          "blurb": "The foundational Kabbalistic text on the ten Sefiroth, divine emanation, and mystical interpretation of Torah. Pico studied the Zohar intently, drawn to its account of God's self-manifestation through Sefiroth as parallel to Neoplatonic emanation. Central to Pico's magical and theurgical theses.",
+          "relevance": "Sefiroth, emanation, divine names, Torah, mystical interpretation, magic",
+          "scholars": ["Wirszubski", "Busi", "Allen", "Copenhaver"],
+          "conclusions_linked": 78,
+          "priority": "CORE"
+        },
+        {
+          "id": "sefer_yetzirah",
+          "name": "Sefer Yetzirah (Book of Formation)",
+          "work": "Sefer Yetzirah",
+          "dates": "c. 800–1200 (traditional: early rabbinic period)",
+          "blurb": "One of the earliest Kabbalistic texts, describing divine creation through the 32 paths of wisdom (22 letters + 10 Sefiroth) and explaining how language and divine emanation interweave. Pico engaged with this text for its account of God's creative act through divine names and letters.",
+          "relevance": "Creation, Sefiroth, divine names, letters, emanation",
+          "scholars": ["Wirszubski", "Busi"],
+          "conclusions_linked": 45,
+          "priority": "CORE"
+        },
+        {
+          "id": "maimonides_guide",
+          "name": "Moses Maimonides",
+          "work": "Guide for the Perplexed (Moreh Nevukhim)",
+          "dates": "c. 1190",
+          "blurb": "Maimonides' synthesis of Jewish law and Aristotelian philosophy, addressing biblical anthropomorphism through philosophical allegory. Pico drew on Maimonides for rational theology and the integration of mystical meaning with logical argumentation, especially regarding angels and divine attributes.",
+          "relevance": "Divine attributes, angels, allegory, reason and revelation, law",
+          "scholars": ["Wirszubski", "Copenhaver"],
+          "conclusions_linked": 32,
+          "priority": "CORE"
+        },
+        {
+          "id": "nahmanides_commentary",
+          "name": "Moses Nahmanides (Ramban)",
+          "work": "Torah Commentary, Mystical Works",
+          "dates": "c. 1210–1270",
+          "blurb": "Nahmanides' integration of Kabbalistic interpretation into biblical commentary, emphasizing the mystical names of God and their creative power. Influenced Pico's account of how divine names contain creative force and can be invoked in magical practice.",
+          "relevance": "Divine names, Torah, mystical interpretation, creative power, Kabbalah",
+          "scholars": ["Wirszubski", "Busi"],
+          "conclusions_linked": 38,
+          "priority": "CORE"
+        },
+        {
+          "id": "isaac_luria_kabbalah",
+          "name": "Isaac Luria (Ari)",
+          "work": "Lurianic Kabbalah (transmitted orally, recorded by students)",
+          "dates": "c. 1534–1572",
+          "blurb": "Luria's revolutionary account of Tzimtzum (divine contraction) and the breaking of vessels—cosmology explaining creation and evil. Though Luria was slightly later than Pico, his teaching represents the culmination of Kabbalistic metaphysics that Pico anticipated. Influenced late Renaissance Kabbalah studied by Pico's heirs.",
+          "relevance": "Cosmology, divine contraction, emanation, evil, rectification",
+          "scholars": ["Wirszubski", "Busi"],
+          "conclusions_linked": 25,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "jewish_commentators",
+          "name": "Medieval Jewish Commentators",
+          "work": "Rashi, Ibn Ezra, and other Hebrew Bible commentaries",
+          "dates": "c. 1000–1400",
+          "blurb": "Jewish exegetical tradition on Torah and Tanakh. Pico accessed these commentaries through Hebrew study with his teacher Elijah del Medigo and through Latin translations of key passages. Used for biblical allegory and the integration of literal and mystical senses.",
+          "relevance": "Exegesis, allegory, biblical interpretation, mystical meaning, Kabbalah",
+          "scholars": ["Wirszubski"],
+          "conclusions_linked": 28,
+          "priority": "SECONDARY"
+        }
+      ]
+    },
+    {
+      "id": "christian_patristic",
+      "label": "Early Christian & Patristic Sources",
+      "description": "Church Fathers and early Christian thinkers, foundational to Christian theological tradition",
+      "color": "#4A5C7A",
+      "sources": [
+        {
+          "id": "augustine_confessions",
+          "name": "Augustine",
+          "work": "Confessions, City of God, On the Trinity",
+          "dates": "c. 397–430",
+          "blurb": "Augustine's integration of Neoplatonism with Christian theology, emphasizing divine illumination and the soul's return to God. Pico drew on Augustine for mystical theology, the doctrine of divine illumination, and the integration of pagan philosophy into Christian thought.",
+          "relevance": "Divine illumination, soul, Trinity, grace, will, mystical theology",
+          "scholars": ["Howlett", "Copenhaver"],
+          "conclusions_linked": 35,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "gregory_nyssa",
+          "name": "Gregory of Nyssa",
+          "work": "On the Soul and Resurrection, Commentary on the Song of Songs, On the Divine Names",
+          "dates": "c. 335–395",
+          "blurb": "Gregory's mystical theology and account of the soul's ascent through illumination and union with God. Influenced Pico's mystical angelology and his account of the soul's contemplative union with divine intellects. Emphasizes knowledge as transformative.",
+          "relevance": "Mystical ascent, contemplation, divine names, soul, illumination",
+          "scholars": ["Howlett", "Allen"],
+          "conclusions_linked": 28,
+          "priority": "MAJOR"
+        },
+        {
+          "id": "pseudo_dionysius_areopagite",
+          "name": "Pseudo-Dionysius (Areopagite)",
+          "work": "Celestial Hierarchy, Ecclesiastical Hierarchy, Divine Names, Mystical Theology",
+          "dates": "c. 500",
+          "blurb": "Already listed under Platonic sources but essential to Christian theology. The fusion of Neoplatonic hierarchy with Christian angelology and mysticism. Mediated between pagan philosophy and Christian doctrine for all medieval theologians, especially Pico.",
+          "relevance": "Angelic hierarchy, divine names, mystical theology, light, procession",
+          "scholars": ["Copenhaver", "Howlett", "Allen"],
+          "conclusions_linked": 62,
+          "priority": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "hermetic_magical",
+      "label": "Hermetic & Magical Texts",
+      "description": "Texts associated with Hermes Trismegistus, magical philosophy, and practical occultism",
+      "color": "#9B7D5C",
+      "sources": [
+        {
+          "id": "hermetica_corpus",
+          "name": "Corpus Hermeticum (attributed to Hermes Trismegistus)",
+          "work": "Hermetica (esp. Pimander, Asclepius)",
+          "dates": "c. 100–300 CE (actual composition)",
+          "blurb": "Pico accessed the Hermetica primarily through Ficino's 1463 translation and commentary. The texts combine Neoplatonism, Egyptian cosmology, and magical philosophy, especially the doctrine of sympathetic magic and the human as microcosm. Central to Pico's account of natural magic.",
+          "relevance": "Natural magic, microcosm, divine names, sympathetic magic, cosmology",
+          "scholars": ["Copenhaver", "Allen"],
+          "conclusions_linked": 38,
+          "priority": "CORE"
+        },
+        {
+          "id": "picatrix",
+          "name": "Picatrix (Ghayat al-Hakim, attributed to Maslama of Madrid)",
+          "work": "Picatrix: The Aim of the Sage",
+          "dates": "c. 1000 (Arabic original); available in Latin by Pico's era",
+          "blurb": "The most comprehensive medieval Arabic text on astrological magic, commanding celestial influence through symbols, words, and correspondences. Pico drew on Picatrix for elaborate theories of how talismanic magic works and how human will can direct celestial forces.",
+          "relevance": "Astrological magic, talismans, celestial influence, words of power",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 28,
+          "priority": "CORE"
+        },
+        {
+          "id": "agrippa_three_books",
+          "name": "Heinrich Cornelius Agrippa",
+          "work": "Three Books of Occult Philosophy",
+          "dates": "c. 1510–1531 (published; composed c. 1501)",
+          "blurb": "Though written after Pico's death, Agrippa's synthesis drew heavily on Pico's writings, especially the Conclusiones magicae and the Heptaplus. Agrippa's codification of natural, celestial, and ceremonial magic represents the culmination of Pico's legacy in magical philosophy.",
+          "relevance": "Magic, natural philosophy, kabbalah, astrological correspondences",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 22,
+          "priority": "SECONDARY"
+        }
+      ]
+    },
+    {
+      "id": "mystical_theological",
+      "label": "Mystical & Devotional Sources",
+      "description": "Texts emphasizing spiritual ascent, contemplative union, and devotional practice",
+      "color": "#6F5D7D",
+      "sources": [
+        {
+          "id": "meister_eckhart",
+          "name": "Meister Eckhart",
+          "work": "Sermons, Latin Works",
+          "dates": "c. 1260–1327",
+          "blurb": "Eckhart's mystical theology emphasizing detachment, the eternal birth of God in the soul, and mystical union. Though Eckhart was condemned, his ideas circulated in Rhineland mysticism and influenced the via mystica tradition that Pico admired. Influenced Pico's understanding of contemplative union.",
+          "relevance": "Mystical union, detachment, contemplation, eternal emanation, soul",
+          "scholars": ["Howlett"],
+          "conclusions_linked": 12,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "cloud_of_unknowing",
+          "name": "English Mystical Author (Anonymous)",
+          "work": "The Cloud of Unknowing",
+          "dates": "c. 1370–1390",
+          "blurb": "English apophatic mystical theology emphasizing the unknowability of God and the ascent through darkness toward contemplative union. Represents late medieval mystical via negativa. Pico's familiarity with this tradition informed his account of negative theology and mystical ascent beyond intellect.",
+          "relevance": "Apophatic theology, mystical ascent, contemplation, unknowability",
+          "scholars": ["Howlett"],
+          "conclusions_linked": 8,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "imitation_christ",
+          "name": "Thomas à Kempis",
+          "work": "The Imitation of Christ",
+          "dates": "c. 1418–1427",
+          "blurb": "Though more ascetical than philosophical, the Imitation of Christ circulated widely and represents the devotional atmosphere of late medieval piety to which Pico was sensitive. Influenced the spiritual urgency and ethical tone of Pico's thought, especially regarding the soul's ascent through love.",
+          "relevance": "Devotion, spiritual ascent, soul, love of God, imitation",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 10,
+          "priority": "SECONDARY"
+        }
+      ]
+    },
+    {
+      "id": "scientific_mathematical",
+      "label": "Scientific & Mathematical Sources",
+      "description": "Works on natural science, mathematics, astronomy, and alchemy available in the Renaissance",
+      "color": "#5A6F4A",
+      "sources": [
+        {
+          "id": "euclid_elements",
+          "name": "Euclid",
+          "work": "Elements of Geometry",
+          "dates": "c. 300 BCE",
+          "blurb": "The foundational mathematical text for all medieval and Renaissance scholarship. Pico's precise definitions and logical argumentation reflect Euclidean rigor. Used as a model for rigorous philosophical argumentation and as a source for Platonic geometry underlying reality.",
+          "relevance": "Geometry, mathematics, logical demonstration, proportion",
+          "scholars": ["Farmer"],
+          "conclusions_linked": 15,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "ptolemy_almagest",
+          "name": "Ptolemy",
+          "work": "Almagest (Mathematical Syntax of Astronomy)",
+          "dates": "c. 150 CE",
+          "blurb": "The standard astronomical text for the medieval and Renaissance world, describing the crystalline spheres and celestial motions. Pico drew on Ptolemy for his account of celestial influence on the sublunary realm and for the correspondence between celestial and terrestrial orders.",
+          "relevance": "Astronomy, celestial spheres, cosmology, celestial influence",
+          "scholars": ["Akopyan"],
+          "conclusions_linked": 22,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "alpetragius_astronomy",
+          "name": "Al-Bitruji (Alpetragius)",
+          "work": "Planetary Motions",
+          "dates": "c. 1200",
+          "blurb": "Islamic astronomer proposing alternative celestial mechanics. Available in Latin. Influenced Renaissance astronomical theory and discussions of celestial causation. Pico engaged with alternative models of how the celestial world influences the terrestrial.",
+          "relevance": "Astronomy, celestial mechanics, celestial influence",
+          "scholars": ["Akopyan"],
+          "conclusions_linked": 10,
+          "priority": "SECONDARY"
+        },
+        {
+          "id": "alchemy_texts",
+          "name": "Alchemical Corpus",
+          "work": "Jabir (Geber), Roger Bacon, and anonymous alchemical texts",
+          "dates": "c. 800–1400",
+          "blurb": "The alchemical tradition of transmutation and the perfection of matter through divine art. Pico engaged with alchemy as philosophical symbolism and as practical theurgy (the Great Work). Alchemy's emphasis on spiritual transformation parallels Pico's mystical philosophy.",
+          "relevance": "Transformation, spirit-matter, symbolic interpretation, perfection",
+          "scholars": ["Copenhaver"],
+          "conclusions_linked": 18,
+          "priority": "SECONDARY"
+        }
+      ]
+    }
+  ]
+}

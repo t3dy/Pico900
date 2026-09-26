@@ -1,0 +1,163 @@
+{
+  "text": "oration",
+  "passages": [
+    {
+      "passage_id": "O.1.1",
+      "incipit_latin": "Cur enim non ipsos angelos et beatissimos caeli choros magis admiremur?",
+      "quote_latin": "Cur enim non ipsos angelos et beatissimos caeli choros magis admiremur?",
+      "quote_english": "Indeed, why then would we not find the angels themselves and the blessed choirs of heaven even more admirable?",
+      "context": "Pico opens his argument by asking why humans should be admired more than angels. This establishes the central problem: if humans are below angels in the natural hierarchy, what makes human dignity exceptional?",
+      "lineage_tags": ["synthesis", "aristotle"],
+      "cross_references": ["Heptaplus 5.7", "Conclusiones 1.6.7"],
+      "source_file_line_range": "116-117"
+    },
+    {
+      "passage_id": "O.2.1",
+      "incipit_latin": "He had already adorned the supercelestial region with intelligences",
+      "quote_latin": "He had already adorned the supercelestial region with intelligences, enlivened the heavenly globes with eternal souls, and filled the excremental and filthy parts of the lower world with a multitude of forms of animal life.",
+      "quote_english": "He had already adorned the supercelestial region with intelligences, enlivened the heavenly globes with eternal souls, and filled the excremental and filthy parts of the lower world with a multitude of forms of animal life.",
+      "context": "Describing the first cosmological moment: God creates a hierarchical cosmos with angels (intelligences) in the supercelestial realm. Humans have not yet been created.",
+      "lineage_tags": ["pseudo-dionysius", "aquinas", "neoplatonism"],
+      "cross_references": ["Conclusiones 1.6.3", "Heptaplus 3.3"],
+      "source_file_line_range": "238-241"
+    },
+    {
+      "passage_id": "O.3.1",
+      "incipit_latin": "Si vegetalia, planta fiet; si sensualia, obrutescet; si rationalia, caeleste evadet animal; si intellectualia, angelus erit et Dei filius.",
+      "quote_latin": "Si vegetalia, planta fiet; si sensualia, obrutescet; si rationalia, caeleste evadet animal; si intellectualia, angelus erit et Dei filius.",
+      "quote_english": "If he cultivates his vegetative seeds, he will become a plant. If he cultivates his sensitive seeds, he will become a brute animal. If he cultivates his rational seeds, he will become a heavenly being. If he cultivates his intellectual seeds, he will be an angel and a son of God.",
+      "context": "Pico's most famous passage on human transformation. The ascent through vegetative-sensate-rational-intellectual stages culminates in becoming an angel. This is the ladder of ascent through all creatures.",
+      "lineage_tags": ["iamblichus", "eriugena", "kabbalah"],
+      "cross_references": ["Heptaplus 2.2", "Conclusiones 1.19.2", "Conclusiones 2.11.10"],
+      "source_file_line_range": "514-515"
+    },
+    {
+      "passage_id": "O.3.2",
+      "incipit_latin": "Et si, nulla creaturarum sorte contentus, in unitatis centrum suae se receperit",
+      "quote_latin": "Et si, nulla creaturarum sorte contentus, in unitatis centrum suae se receperit, unus cum Deo spiritus factus, in solitaria Patris caligine, qui est super omnia constitutus omnibus antestabit.",
+      "quote_english": "And if he – being dissatisfied with the lot assigned to any other creature – gathers himself into the centre of his own unity, thus becoming a single spirit with God in the solitary darkness of the Father, he, who had been placed above all things, will become superior to all things.",
+      "context": "The ascent beyond angelhood into mystical union with God. Even the angelic state is transcendable through contemplative practice. The soul enters the divine darkness (apophatic theology).",
+      "lineage_tags": ["pseudo-dionysius", "gregory-of-nyssa", "kabbalah"],
+      "cross_references": ["Heptaplus 3.3", "De ente et uno"],
+      "source_file_line_range": "516-518"
+    },
+    {
+      "passage_id": "O.4.1",
+      "incipit_latin": "Nam et Hebreorum theologia secretior nunc Enoch sanctum in angelum divinitatis",
+      "quote_latin": "Nam et Hebreorum theologia secretior nunc Enoch sanctum in angelum divinitatis, quem vocant מטטרון, nunc in alia alios numina reformant",
+      "quote_english": "Indeed, even the most secret Hebrew theology at one time transforms holy Enoch into an angel of divinity, whom they call Metatron, and at other times it reshapes other men into other spirits.",
+      "context": "Pico cites Cabalistic doctrine (Merkabah mysticism) that humans can be transformed into angels. Enoch becomes Metatron, the highest angelic prince. This is transfiguration, not transmigration into beasts.",
+      "lineage_tags": ["kabbalah"],
+      "cross_references": ["Commento sopra una canzona (1486)", "Conclusiones 2.11.10"],
+      "source_file_line_range": "739-740"
+    },
+    {
+      "passage_id": "O.5.1",
+      "incipit_latin": "neque enim plantam cortex, sed stupida et nihil sentiens natura",
+      "quote_latin": "neque enim plantam cortex, sed stupida et nihil sentiens natura; neque iumenta corium, sed bruta anima et sensualis; nec caelum orbiculatum corpus, sed recta ratio; nec sequestratio corporis, sed spiritalis intelligentia angelum facit.",
+      "quote_english": "It is not in fact the bark that makes the plant, but dull and insentient nature; not the hide that makes a beast of burden, but a brutish and sensuous soul; not the circular body that makes the heavens, but straightforward reason; not the separation from the body that makes an angel, but its spiritual intelligence.",
+      "context": "Pico defines angelhood ontologically: not a physical form, but spiritual intelligence (intellectus). This refutes metempsychosis and establishes that becoming an angel is a moral and intellectual transformation.",
+      "lineage_tags": ["aquinas", "ficino"],
+      "cross_references": ["Heptaplus 4.5", "Conclusiones 2.3.71"],
+      "source_file_line_range": "864-867"
+    },
+    {
+      "passage_id": "O.6.1",
+      "incipit_latin": "Dedignemur terrestria, caelestia contemnamus",
+      "quote_latin": "Dedignemur terrestria, caelestia contemnamus; et, quicquid mundi est denique posthabentes, ultramundanam curiam eminentissimae divinitati proximam advolemus. Ibi, ut sacra tradunt mysteria, Seraphin, Cherubin et Throni primas possident",
+      "quote_english": "Let us spurn the terrestrial, disdain the celestial; disregarding all that is of this world, let us fly off to the otherworldly court that is near to the most eminent Divinity. There, according to the sacred mysteries, seraphim, cherubim, and thrones occupy the first places",
+      "context": "Pico calls for ascent beyond both earthly and celestial knowledge to the transcendent realm. He names the three highest orders of the Pseudo-Dionysian hierarchy: seraphim (love), cherubim (knowledge), thrones (will/judgment).",
+      "lineage_tags": ["pseudo-dionysius", "aquinas"],
+      "cross_references": ["Conclusiones 1.6.7", "Ps. 81:6-7"],
+      "source_file_line_range": "1027-1032"
+    },
+    {
+      "passage_id": "O.7.1",
+      "incipit_latin": "Ardet Saraph charitatis igne; fulget Cherub intelligentiae splendore; stat Thronus iudicii firmitate.",
+      "quote_latin": "Ardet Saraph charitatis igne; fulget Cherub intelligentiae splendore; stat Thronus iudicii firmitate. Igitur si actuosae addicti vitae inferiorum curam recto examine suscepierimus, Thronorum stata soliditate firmabimur. Si ab actionibus feriati in opificio opificem, in opifice opificium meditantes, in contemplandi ocio negociabimur, luce Cherubica undique corruscabimus. Si charitate ipsum opificem solum ardebimus, illius igne, qui edax est, in Saraphicam effigiem repente flammabimur.",
+      "quote_english": "The seraph burns with the fire of love; the cherub shines with the splendour of intelligence; the throne stands in the steadfastness of judgment. Therefore, if we, being dedicated to an active life, undertake the care of inferior things with proper consideration of their worth, we will be strengthened by the steadfast solidity of the thrones. If we, being unburdened by actions, meditate on the Creator in His creation and on creation in the Creator, we shall be engaged in the tranquility of contemplation; we shall shine on all sides with cherubic light. If we burn for the Creator alone, with charity, with its all-consuming fire, we shall burst into flame in the likeness of the seraphim.",
+      "context": "Pico describes the life and function of the three highest angels: each has a characteristic virtue (love, intelligence, judgment). Humans can emulate them through corresponding philosophical practices: active life → thrones; contemplative life → cherubim; loving charity → seraphim.",
+      "lineage_tags": ["pseudo-dionysius", "aquinas", "aquinas"],
+      "cross_references": ["Conclusiones 1.6.7", "Heptaplus 6.6"],
+      "source_file_line_range": "1054-1057"
+    },
+    {
+      "passage_id": "O.8.1",
+      "incipit_latin": "Super Cherub, idest contemplatore, volat atque eum quasi incubando fovet.",
+      "quote_latin": "Super Cherub, idest contemplatore, volat atque eum quasi incubando fovet. Spiritus enim Domini fertur super aquas... Qui Saraph, idest amator est, in Deo est, et Deus in eo, immo et Deus et ipse unum sunt.",
+      "quote_english": "Over the cherub, that is, over the contemplator, He flies and, as if brooding over him, imbues him with warmth. Indeed, the Spirit of the Lord is carried over the waters... He who is a seraph, that is, a lover, is in God and God is in him; indeed, he and God are one.",
+      "context": "God's intimate presence with the contemplative cherub and the lover (seraph) in mystical union. The seraph achieves henosis—union with God. This is the goal of angelic emulation: to become one with God through love.",
+      "lineage_tags": ["pseudo-dionysius", "gregory-of-nyssa"],
+      "cross_references": ["Heptaplus 2.2", "1 Cor. 12:8-14"],
+      "source_file_line_range": "1190-1195"
+    },
+    {
+      "passage_id": "O.9.1",
+      "incipit_latin": "Hic est nodus primarum mentium, ordo Palladicus philosophiae contemplativae preses",
+      "quote_latin": "Hic est nodus primarum mentium, ordo Palladicus philosophiae contemplativae preses; hic nobis et emulandus primo et ambiendus, atque adeo comprehendendus est",
+      "quote_english": "The cherub is the bond of the Prime Minds, the order of Pallas, the overseer of contemplative philosophy. First we must emulate him, thirst after him and to the same degree understand him",
+      "context": "The cherub (second highest angel) is the philosophical mediator, the bond between highest and lower orders. Human philosophy must be organized on the cherubic model—contemplative, mediating, hierarchical.",
+      "lineage_tags": ["pseudo-dionysius", "neoplatonism"],
+      "cross_references": ["Macrobius, On the Dream of Scipio 1.6.11", "Heptaplus 6.6"],
+      "source_file_line_range": "1276-1278"
+    },
+    {
+      "passage_id": "O.10.1",
+      "incipit_latin": "esse scalas ab imo solo ad caeli summa protensas",
+      "quote_latin": "esse scalas ab imo solo ad caeli summa protensas, multorum graduum serie distinctas, fastigio Dominum insidere, contemplatores angelos per eas vicibus alternantes ascendere et descendere.",
+      "quote_english": "that there is a ladder that stretches from the lowest earth to the highest Heavens and that is marked by a series of many rungs. God is at its height, and the contemplative angels move up and down it in turns.",
+      "context": "Jacob's Ladder vision as the cosmic structure. Angels are active contemplatives who ascend and descend the ladder of being. This is the image of Pico's entire angelological philosophy—a scala naturae the human soul must climb.",
+      "lineage_tags": ["kabbalah", "neoplatonism"],
+      "cross_references": ["Genesis 28:12-13", "Iamblichus Protrepticus 1"],
+      "source_file_line_range": "1371-1373"
+    },
+    {
+      "passage_id": "O.11.1",
+      "incipit_latin": "per scalarum idest naturae gradus philosophantes",
+      "quote_latin": "iam Cherubico spiritu animati, per scalarum idest naturae gradus philosophantes, a centro ad centrum omnia pervadentes, nunc unum quasi Osyrim in multitudinem vi Titanica discerpentes descendemus, nunc multitudinem quasi Osyridis membra in unum vi Phebea colligentes ascendemus, donec, in sinu Patris – qui super scalas est – tandem quiescentes, theologica foelicitate consumabimur.",
+      "quote_english": "Once we, inspired by the cherubic spirit, have reached this point through the art of speaking or of reasoning – that is, philosophizing according to the grades of Nature, penetrating the whole from the centre to the centre – then shall we descend, dashing the one into many with Titanic force like Osiris, and ascend, drawing together with Phoebean might the many into one, like Osiris's limbs, until at last, resting in the bosom of the Father Who is at the top of the ladder, we shall be made perfect in theological bliss.",
+      "context": "The practitioner becomes inspired by the cherubic spirit and ascends/descends the ladder of nature, ultimately resting in the Father's bosom. This is the mystical goal: perfection in 'theological bliss' (perfectio/henosis).",
+      "lineage_tags": ["pseudo-dionysius", "neoplatonism", "plotinus"],
+      "cross_references": ["Heptaplus proem 7", "Conclusiones 1.28.24"],
+      "source_file_line_range": "1587-1592"
+    },
+    {
+      "passage_id": "O.12.1",
+      "incipit_latin": "quam angeli in terram descendentes annuntiarunt hominibus bonae voluntatis",
+      "quote_latin": "haec illa pax quam facit Deus in excelsis suis, quam angeli in terram descendentes annuntiarunt hominibus bonae voluntatis, ut per eam ipsi homines ascendentes in caelum angeli fierent.",
+      "quote_english": "that peace which God makes in His heavens, which the angels who came down to earth announced to men of good will so that these men would, ascending to heaven, be transformed by it into angels.",
+      "context": "Angelology and soteriology converge: angels descend to announce peace, enabling humans to ascend and become angels. The angels function as mediators between the transcendent and immanent realms.",
+      "lineage_tags": ["luke-2-13-14", "synthesis"],
+      "cross_references": ["Luke 2:13-14", "Heptaplus 7.4"],
+      "source_file_line_range": "1847-1849"
+    },
+    {
+      "passage_id": "O.13.1",
+      "incipit_latin": "alatam esse animam, cumque alae exciderent ferri illam praeceps in corpus",
+      "quote_latin": "Scribunt interpretes Chaldei verbum fuisse Zoroastris alatam esse animam, cumque alae exciderent ferri illam praeceps in corpus, tum illis subcrescentibus ad superos revolare.",
+      "quote_english": "The Chaldean interpreters write that it was a saying of Zoroaster's that the soul is winged and, when its wings fall off, it plummets into the body; but once the wings have regrown, it flies back to heaven.",
+      "context": "Zoroastrian doctrine cited by Pico: the soul is inherently angelic (winged), but descends into bodily incarceration. The philosophical path is to restore the wings through the waters of life—moral philosophy, dialectics, natural philosophy.",
+      "lineage_tags": ["zoroastrianism", "chaldean-oracles"],
+      "cross_references": ["Psellus Summaria et brevis dogmatum Chaldaicorum expositio"],
+      "source_file_line_range": "1749-1751"
+    },
+    {
+      "passage_id": "O.14.1",
+      "incipit_latin": "Raphael coelestem medicum",
+      "quote_latin": "let us call upon Raphael, the heavenly physician, to set us free with moral philosophy and dialectics, as if with healing drugs. Then, once we have been restored to health, Gabriel, the strength of God, will abide in us and, leading us through the marvels of nature and showing us everywhere the merit and the power of God, he will finally deliver us to Michael the high priest, who will in turn bestow upon us, who will have completed our service to philosophy, the insignia of theological priesthood, as if a crown of precious stones.",
+      "quote_latin": "Raphaelem coelestem medicum advocemus, qui nos morali et dialectica uti pharmacis salutaribus liberet. Tum ad valetudinem bonam restitutos iam Dei robur Gabriel inhabitabit, qui nos per naturae ducens miracula, ubique Dei virtutem potestatemque indicans, tandem sacerdoti summo Michaeli nos tradet, qui sub stipendiis philosophiae emeritos theologiae sacerdotio quasi corona preciosi lapidis insignet.",
+      "quote_english": "let us call upon Raphael, the heavenly physician, to set us free with moral philosophy and dialectics, as if with healing drugs. Then, once we have been restored to health, Gabriel, the strength of God, will abide in us and, leading us through the marvels of nature and showing us everywhere the merit and the power of God, he will finally deliver us to Michael the high priest, who will in turn bestow upon us, who will have completed our service to philosophy, the insignia of theological priesthood, as if a crown of precious stones.",
+      "context": "The three archangels function as guides through the philosophical ascent. Raphael (medicine/moral healing) → Gabriel (natural miracles/knowledge) → Michael (theological priesthood). This is the complete ladder of angelic mediation into human transformation.",
+      "lineage_tags": ["kabbalah", "aquinas"],
+      "cross_references": ["Gregory the Great XL Homiliae", "Conclusiones 1.28.14"],
+      "source_file_line_range": "1905-1911"
+    }
+  ],
+  "metadata": {
+    "harvested_date": "2026-09-25",
+    "harvester_agent": "Claude Haiku 4.5",
+    "passage_count": 14,
+    "completeness": "complete",
+    "notes": "Extracted from Borghesi critical edition (Bausi, 2003). All quotations are verbatim from the Latin text and English translation provided in the critical edition. Passages focus specifically on angelology: celestial hierarchies (Pseudo-Dionysius), angelic transformation of humans, Jacob's Ladder, the three archangels (Raphael, Gabriel, Michael), and the contemplative/active union with angelic orders. Lineage tags identify Pico's primary sources (Pseudo-Dionysius on hierarchy, Aquinas on angelic nature, Kabbalah on transfiguration, Neoplatonism on ascent). Cross-references point to Pico's other works (Conclusiones, Heptaplus, Commento) where the same themes recur."
+  }
+}

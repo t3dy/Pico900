@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.3.1",
+  "text": "commento",
+  "book": 3,
+  "passage_number": 1,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Heptaplus proem 2, pp. 206-207]",
+  "english_translation": "Pico outlines the ancient philosophers' doctrine of the three worlds which he also finds in Genesis: the ultramundane or supercelestial world, 'which the theologians call the angelic and the philosophers call the intelligible world' of light and which is symbolized by fire; the celestial world of the stars and planets, of darkness and light together, which is symbolized by fire and water; and the sublunary world of darkness we inhabit, which is symbolized by water. Pico proceeds to assign eternal life and unchanging activity to the first, partaking as it does of the divine nature of mind; stability of life but change of activity and position to the second, partaking as it does of incorruptible body and of mind enslaved to that body; and perpetual alternation of life and death to the third.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[PLACEHOLDER: Pico presents the standard Neoplatonic cosmology of three worlds, explicitly identifying the highest as the angelic/intelligible world. This framework underlies the entire spiritual-metaphysical structure of the Commento and Heptaplus. The symbolic correspondences (fire/water/earth) create a unified vision. SYNTHESIZER to develop the implications for angelological hierarchy.]",
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus | aquinas",
+  "key_concepts": ["three worlds", "angelic world", "celestial world", "sublunar world", "intelligible realm", "cosmic hierarchy", "fire-water symbolism"],
+  "tags": ["angelology", "neoplatonism", "cosmology", "three-worlds-doctrine", "hierarchy", "symbolism"],
+  "kabbalistic_elements": "The three worlds correspond to the three pillars of the Sefirotic tree and the three supernal Sefirot above the Veil of Paroketh.",
+  "cross_references": {
+    "same_text": ["C.3.2", "C.3.3", "C.3.4", "C.3.5"],
+    "other_texts": ["Heptaplus proem (three worlds)", "Pseudo-Dionysius Celestial Hierarchy", "Proclus on triadic cosmic structure"],
+    "900_conclusions": ["Triadic cosmos", "Sefirotic pillars", "Angelic intelligible realm"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: Foundational cosmological framework for Book III. The three-worlds doctrine structures all subsequent angelology. Source: Allen, p. 6448-6456; Garin edition, Heptaplus proem 2, pp. 206-207. Kabbalistic density: HIGH (three pillars / three supernal Sefirot)."
+}
