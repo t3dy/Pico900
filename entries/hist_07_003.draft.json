@@ -1,0 +1,39 @@
+{
+ "thesis_id": "7.3",
+ "tier": "B",
+ "latin": "Foelicitas ultima hominis est cum continuatur intellectus agens possibili_ut forma; quam continuationem et latini alii quos legi et maxime Iohanes de Gandauo peruerse et erronee intellexit, qui non solum in hoc, sed ferme in omnibus quaesitis Philosophiae, doctrinam Auenrois corrupit omnino et deprauauit.",
+ "latin_source": "farmer1998:12940",
+ "translation": "The ultimate happiness of man is when the agent intellect is conjoined to the possible [intellect] as its form; and this conjunction the other Latins whom I have read, and especially John of Jandun, understood perversely and erroneously -- he who corrupted and utterly depraved the doctrine of Averroes, not only on this point but in almost all the questions of philosophy.",
+ "translation_note": "'Iohanes de Gandauo' is John of Jandun (d. 1328), the Latin Averroist commentator; the 1487 printing varies the spelling to 'Iohannes de gandago' (farmer1998:12961), and 'continuatur...ut forma' reflects the Averroist doctrine of the conjunction (continuatio) of the separate agent intellect with the individual's possible intellect as its form (farmer1998:12940).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:12940",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes, against John of Jandun (farmer1998:12940).",
+ "sources": [
+  {
+   "text": "the problem of the unity of the intellect, discussed together under theses 7.2-7.4",
+   "locator": "farmer1998:12967",
+   "pico_relation": "Farmer's note groups this thesis with 7.2 and 7.4 as concerning the unity of the intellect and cross-references Pico's own theses 3>67-69"
+  }
+ ],
+ "doctrine": "The thesis states that man's ultimate happiness occurs when the agent intellect is conjoined to the possible intellect as its form, and criticizes the other Latins who have read Averroes on this point, naming John of Jandun as chief among them for corrupting and depraving Averroes' doctrine not only on this point but in almost all the questions of philosophy (farmer1998:12940). Farmer's note groups this thesis with 7.2 and 7.4 under the same problem of the unity of the intellect, cross-referencing Pico's own theses 3>67-69 (farmer1998:12967).",
+ "context": "Black cites the thesis under the reference 'Conclusions, 40 (Conc. sec. Avenroen, 3)', using the pagination of the Schefer edition, quoting its Latin text and John of Jandun's name (black2006:10022).",
+ "reception": "",
+ "historiography": "Black is the only scholar cited in the material opened for this thesis; he reproduces the Latin without further comment beyond the citation itself (black2006:10022).",
+ "connections": ["7.2", "7.4", "17.9", "18.1", "20.7", "3.5", "3>67", "3>68", "3>69"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Felicitas ultima hominis est, cum continuatur intellectus agens possibili, ut forma, quam continuationem et Latini alii quos legi, et maxime Iohannes de Gandauo, perverse et erronee intellexit, qui non solum in hoc, sed ferme in omnibus quaesitis philosophiae, doctrinam Avenrois",
+   "work": "black2006",
+   "line": 10022,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico is quoting John of Jandun's actual position verbatim or a paraphrase attributed to him is not established by the sources consulted.",
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

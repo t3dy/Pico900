@@ -1,0 +1,36 @@
+{
+ "thesis_id": "28.22",
+ "tier": "B",
+ "latin": "Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium duo sunt currus ordinandi, ita ut ex secunda, tertia, quarta, quinta, fiat unus currus, et sunt quatuor phylacteria quae induit Vau; et ex sexta, septima, octaua, et nona fit secundus currus, et sunt phylacteria quae induit ultima He.",
+ "latin_source": "farmer1998:17959",
+ "latin_note": "The apparatus records 1486 'phylatteriorum ... phylatteria ... phylatteria' and 1487 'philatteriorum ... philatteria ... philatteria' for the orthography of 'phylacteriorum'/'phylacteria' (farmer1998:17978).",
+ "translation": "Although the chariots may be arranged in many ways, still, so far as concerns the mystery of the phylacteries, two chariots are to be set in order: from the second, third, fourth, and fifth [sefirot] one chariot is formed, and these are the four phylacteries that Vav puts on; and from the sixth, seventh, eighth, and ninth a second chariot is formed, and these are the phylacteries that the final He puts on.",
+ "translation_note": "'currus' ('chariot') translates the merkabah of Ezekiel's vision (Ezek. 1:4ff.), on which Farmer directs comparison to Scholem (farmer1998:17995); 'Vau' and the 'final He' are letters of the Tetragrammaton, each here said to be 'invested with' (induere) a set of four sefirot as its phylacteries.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:17959",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17959).",
+ "sources": [],
+ "doctrine": "Farmer glosses 'chariots' (chanot, merkabah in Hebrew) as the animated chariot of Ezekiel's vision (Ezek. 1:4ff.), rendered plural in antiquity through centuries of attempts to harmonize earlier commentaries on that text with each other and with other Hebrew and pagan chariot myths, including the charioteer myth of the Phaedrus, and directs the reader to Scholem for further discussion, though the note as consulted breaks off after naming Pico (farmer1998:17995).",
+ "context": "not established by the sources consulted.",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXII' among the 'Sources of the First Set of Theses' (wirszubski1989:2228, 2231).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium, duo sunt currus ordinandi, ita ut ex secunda, tertia, quarta, quinta fiat unus currus, et sunt quatuor phylacteria quae induit Vau; et ex sexta, septima, octaua et nona fit secundus currus, et sunt",
+   "work": "wirszubski1989",
+   "line": 2231,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's completed cross-reference to Scholem on the chariot-mysticism background (farmer1998:17995) is not established beyond the fragment consulted.",
+  "Wirszubski's identification of a specific source passage for this thesis is not established by the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

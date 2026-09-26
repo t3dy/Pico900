@@ -1,0 +1,22 @@
+{
+ "thesis_id": "3>15",
+ "tier": "B",
+ "latin": "Contradictoria coincidunt in natura uniali.",
+ "latin_source": "farmer1998:20452",
+ "translation": "Contradictories coincide in the unial nature.",
+ "translation_note": "'uniali' is an adjective Pico coins from 'unum' ('the One'), distinct from 'unitas' ('unity'); rendered here as 'unial' rather than smoothed into 'unified' or 'one', to preserve the coinage that Farmer's note ties to a distinctively Neoplatonic register in this run of theses (paraphrase, farmer1998:20526).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:20452",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20452).",
+ "doctrine": "Farmer's note states that this thesis is 'regularly cited (originally by Cassirer and most recently by Wirszubski) as evidence of the influence on Pico of Nicholas of Cusa's coincidentia oppositorum' (farmer1998:20526). He argues against that reading, stating that 'the idea expressed both by Pico and by Cusanus was a scholastic commonplace', whose syncretic origins he discusses elsewhere in his book, and directs the reader to thesis 2.31 for the bearing of this run of theses on traditional logic (paraphrase and quotation, farmer1998:20526).",
+ "historiography": "The German-language study Erkenntnistheorie und christliche Kabbalah cites this conclusio in the same footnote as 3>6, 3>16, and 3>18, following its discussion of Pico's thesis on demonstrative cognition (kabbalah_paradigma:1705).",
+ "connections": ["2.31", "3>13", "3>14", "3>16", "3>17", "3>18", "3>52", "3>70", "4>2"],
+ "condemned_flag": false,
+ "not_established": [
+  "The scholastic sources Farmer has in mind for the 'commonplace' he opposes to a distinctively Cusan reading are not named in the excerpt consulted (he refers to a discussion elsewhere in his book, pp. 85-89, not itself consulted).",
+  "The author of the work cited as kabbalah_paradigma is not identified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

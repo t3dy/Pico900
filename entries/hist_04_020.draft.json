@@ -1,0 +1,32 @@
+{
+ "thesis_id": "4.20",
+ "tier": "B",
+ "latin": "Actus intelligendi nobiliori modo causatur ab intellectu quam ab obiecto, quodcunque sit obiectum, modo non sit beatificum.",
+ "latin_source": "farmer1998:12375",
+ "translation": "The act of understanding is caused in a nobler way by the intellect than by the object, whatever the object may be, provided it is not the beatific object.",
+ "translation_note": "'Beatificum': the object of the beatific vision, i.e. God as seen by the blessed.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12375",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12375).",
+ "doctrine": "Continuing the note begun at thesis 19, the thesis asserts that the act of understanding is caused in a nobler way by the intellect than by the object, whatever the object, unless that object is the object of beatific vision. Farmer's note groups theses 19-20 together under a single cross-reference to thesis 2.40, on the source of 'difficulty' in understanding (farmer1998:12459; 2.40, farmer1998:11882). Edelheit confirms that, moving to thesis 20, the act of understanding is caused in a nobler fashion when it results from the intellect than when it results from the object, and connects the claim to Scotus's broader account of intellection, in which the superiority of intellect over object is exemplified by the case of the Father's cognition, though without citing a specific Ordinatio or Lectura location for thesis 20 itself (edelheit2022:15020).",
+ "historiography": "Edelheit's discussion is the only scholarly treatment of thesis 20 identified in the material consulted, and it does not name a specific Scotist text corresponding to this thesis, unlike his treatment of the adjacent theses (edelheit2022:15020).",
+ "connections": [
+  "2.40",
+  "4.19"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the act of understanding is caused in a nobler fashion when it results from the intellect than when it results from the object",
+   "work": "edelheit2022",
+   "line": 15020,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Edelheit does not identify a specific Scotist text (Ordinatio or Lectura location) for thesis 20 in the excerpt consulted, unlike for the adjacent theses; none is asserted here."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

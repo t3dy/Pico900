@@ -1,0 +1,38 @@
+{
+ "thesis_id": "7.4",
+ "tier": "B",
+ "latin": "Possibile est tenendo unitatem intellectus, animam meam, ita particulariter meam ut non sit mihi communis cum omnibus, remanere post mortem.",
+ "latin_source": "farmer1998:12947",
+ "translation": "It is possible, while holding to the unity of the intellect, that my soul -- so particularly mine that it is not common to me with everyone -- remains after death.",
+ "translation_note": "The thesis takes for granted the Averroist doctrine of the unity of the intellect, stated in thesis 7.2 (farmer1998:12937), and asks whether an individual, particular soul could nonetheless survive death; 'mihi communis cum omnibus' plays on the Averroist claim that the possible intellect is one and common to all human beings (farmer1998:12947).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:12947",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes (farmer1998:12947).",
+ "sources": [
+  {
+   "text": "the problem of the unity of the intellect, discussed together under theses 7.2-7.4",
+   "locator": "farmer1998:12967",
+   "pico_relation": "Farmer's note groups this thesis with 7.2-7.3 as concerning the unity of the intellect and cross-references Pico's own theses 3>67-69"
+  }
+ ],
+ "doctrine": "The thesis asks whether, granted the Averroist unity of the intellect, an individual and particular human soul could nonetheless survive death, framing the possible intellect as common to all but the surviving soul as 'so particularly mine that it is not common to me with everyone' (farmer1998:12947). Farmer's note groups it with 7.2-7.3 under the same problem of the unity of the intellect, cross-referencing Pico's theses 3>67-69 (farmer1998:12967).",
+ "context": "Black's footnote juxtaposes the Latin of this thesis with that of thesis 11.2, attributed to Abumaron, which holds that the agent intellect is nothing other than God, citing both without further comment (black2006:10044).",
+ "reception": "",
+ "historiography": "A footnote in the Dougherty anthology, quoting the Latin, states that Farmer's discussion in Syncretism in the West, pages 112-14, points out that this conclusion, attributed to Averroes, overstates his position considerably (dougherty2008:9368).",
+ "connections": ["7.2", "7.3", "11.2", "18.1"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "this conclusion, attributed to Averroës, overstates his position considerably",
+   "work": "dougherty2008",
+   "line": 9368,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which specific claim in Averroes' authentic corpus Farmer's cited discussion (Syncretism in the West, 112-14) judges this thesis to overstate is not given in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

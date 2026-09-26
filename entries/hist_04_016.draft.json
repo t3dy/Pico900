@@ -1,0 +1,47 @@
+{
+ "thesis_id": "4.16",
+ "tier": "B",
+ "latin": "Relatio creaturae ad deum est idem realiter fundamento, distincta formaliter et ex natura rei.",
+ "latin_source": "farmer1998:12361",
+ "translation": "The relation of a creature to God is really the same as its foundation, and formally distinct from it, by the nature of the thing.",
+ "translation_note": "'Fundamentum': the foundation, i.e. the subject or basis in which a relation inheres; 'ex natura rei': by the nature of the thing, marking Scotus's 'formal distinction' as against a merely notional one.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12361",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12361).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 1, d. 8, pars 1, q. 3",
+   "locator": "edelheit2022:14676",
+   "pico_relation": "Edelheit identifies this question as the discussion of relation and foundation behind thesis 16"
+  }
+ ],
+ "doctrine": "The thesis opens a series on the scholastic theory of relation: whether a creature's relation to God is really identical with its foundation (fundamentum, the subject in which the relation inheres) yet formally distinct from it 'by the nature of the thing' (ex natura rei). Farmer states that the problem was raised by Scotus against Henry of Ghent in the Ordinatio, book 2, distinction 1, questions 4–5, and that it addresses a theological difficulty: creatures depend for their existence on relations to God, yet such relations cannot be allowed to compromise divine transcendence (farmer1998:12399). He records Scotus's solution as an appeal to the 'formal distinction' explained at thesis 3.7, and to the technical language of thesis 2>62 (farmer1998:12404), and cross-references theses 5.11–13, 6.1, 7.24, 7.39 and 13.1 as parallel treatments among Pico's historical theses (farmer1998:12399). Edelheit confirms that Scotus discusses the relevant question in his Lectura, book 1, distinction 8, part 1, question 3, and states that this shows Pico was familiar with this discussion in Scotus (edelheit2022:14676).",
+ "historiography": "Edelheit's contribution is the identification of the Lectura passage; he offers no further assessment of Pico's fidelity to Scotus's argument in the material consulted (edelheit2022:14676).",
+ "connections": [
+  "2>62",
+  "3.7",
+  "4.17",
+  "5.11",
+  "5.12",
+  "5.13",
+  "6.1",
+  "7.24",
+  "7.39",
+  "13.1"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico was familiar with this discussion in Scotus",
+   "work": "edelheit2022",
+   "line": 14676,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's own eventual position endorses or merely reports Scotus's resolution by the formal distinction is not stated in the material consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

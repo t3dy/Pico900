@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.46",
+ "tier": "B",
+ "latin": "Non punitur Rex terrae in terra, quin prius humilietur militia coelestis in coelo.",
+ "latin_source": "farmer1998:18406",
+ "latin_note": "The 1487 reprint misread 'punitur' as 'ponitur', an error Farmer states 'was followed by all later Renaissance editors of Pico's text' (paraphrase of Farmer's note; the apparatus variant itself is recorded at farmer1998:18416).",
+ "translation": "The king of the earth is not punished on earth, unless the heavenly host is first humbled in heaven.",
+ "translation_note": "Follows the 1486 reading 'punitur' ('is punished') rather than the 1487 misprint 'ponitur' ('is placed'), per Farmer's note (farmer1998:18463).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18406",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18406).",
+ "doctrine": "Farmer's note states that both texts Wirszubski (1989: 51) proposes as potential sources emphasize 'the favorite Pichean theme that proportion exists between higher and lower realms', here expressed in an eschatological register (paraphrase, farmer1998:18463). He also records the transmission error by which the 1487 reprint read 'ponitur' for 'punitur', an error followed, in his words, 'by all later Renaissance editors of Pico's text' (paraphrase, farmer1998:18463).",
+ "historiography": "Wirszubski quotes the thesis as his 'Conclusio XLVI' and states that 'what this thesis states is not, strictly speaking, a specifically Kabbalistic' claim, though the excerpt consulted breaks off before he completes the point (wirszubski1989:2939).",
+ "connections": ["11>65", "24.27", "24.28", "24.29", "28.33"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in coelo.",
+   "work": "wirszubski1989",
+   "line": 2939,
+   "verbatim": true
+  },
+  {
+   "text": "What this thesis states is not, strictly speaking, a specifically Kabbalistic",
+   "work": "wirszubski1989",
+   "line": 2939,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The two potential sources Wirszubski (1989: 51) proposes are named by Farmer only in general terms in the excerpt consulted, not identified individually; not established further.",
+  "Wirszubski's completed characterization of the thesis (following 'is not, strictly speaking, a specifically Kabbalistic ...') is cut off in the material consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

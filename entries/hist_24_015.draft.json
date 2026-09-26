@@ -1,0 +1,40 @@
+{
+ "thesis_id": "24.15",
+ "tier": "B",
+ "latin": "Per deorum cedes tragice a theologis septima unitas discretiua intellectualis ebdomadae designatur.",
+ "latin_source": "farmer1998:16157",
+ "latin_note": "The German-language secondary work cited here as 'kabbalah_paradigma' quotes the thesis with the verb 'designantur' (plural) rather than Farmer's printed 'designatur' (singular) (kabbalah_paradigma:1868); this variant is not otherwise explained in the material consulted.",
+ "translation": "Through the slaughters of the gods, the theologians tragically signify the seventh, distinguishing unity of the intellectual hebdomad.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:16157",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus (farmer1998:16157).",
+ "sources": [
+  {
+   "text": "Proclus, Theologia Platonica 5 (pp. 324ff.)",
+   "locator": "farmer1998:16194",
+   "pico_relation": "Farmer cites this passage of Proclus's Platonic Theology as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer's note identifies the 'theologians' as the Orphic theologians, and glosses the 'seventh distinguishing unity' as the last of the seven principal henads in what Proclus calls the intellectual hebdomad (farmer1998:16194).",
+ "context": "Farmer's cross-reference network links the thesis to 22.1-3, 23.2, 24.12, 28.3, and 3>4 (farmer1998:16157).",
+ "reception": null,
+ "historiography": "The work cited as 'kabbalah_paradigma', whose author the packet marks as unconfirmed, pairs this thesis with the Cabalistic conclusion 11>11 and the Zoroastrian conclusion 8>7 as parallel formulations (kabbalah_paradigma:1868).",
+ "connections": [
+  "22.1",
+  "22.2",
+  "22.3",
+  "23.2",
+  "24.12",
+  "28.3",
+  "3>4"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The author of the work cited as 'kabbalah_paradigma' is not confirmed in the material consulted.",
+  "Which edition or manuscript underlies the 'designantur' variant is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,37 @@
+{
+ "thesis_id": "11>68",
+ "tier": "B",
+ "latin": "Qui sciuerit quid sit denarius in Arithmetica formali, et cognouerit naturam primi numeri spherici, sciet illud quod ego adhuc apud aliquem Cabalistam non legi, et est quod sit fundamentum secreti magni Iobelei in Cabala.",
+ "latin_source": "farmer1998:27921",
+ "latin_note": "The 1486 print reads 'formabili'; the errata list corrects it to 'formali', and the 1487 reprint carries the emendation (farmer1998:27945).",
+ "translation": "Whoever shall have known what the denarius is in formal arithmetic, and shall have recognized the nature of the first spherical number, will know something that I myself have not yet read in any Kabbalist, namely that it is the foundation of the great secret of the Jubilee in the Kabbalah.",
+ "translation_note": "'Denarius' is the number ten. 'Formal arithmetic' is cross-referenced by Farmer to thesis 7>9, where Pico holds that non-material, formal arithmetic gives 'the best route to natural prophecy' (farmer1998:23724). Farmer's note identifies the 'first spherical number' as five, a spherical number being one whose powers always end in that same digit, and compares Theon of Smyrna's Mathematics Useful for Understanding Plato 1.24 (farmer1998:27954).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch21, from Latin at farmer1998:27921",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27921).",
+ "doctrine": "The thesis links three technical objects: the denarius, the 'first spherical number' of formal arithmetic, and the Kabbalistic 'great Jubilee.' Farmer's note glosses the 'first spherical number' as five and cites Theon of Smyrna's Mathematics Useful for Understanding Plato 1.24 for the class of spherical numbers, whose powers always end in the same digit as the number itself (farmer1998:27954). The same note identifies the 'great Jubilee' as a standard Kabbalistic symbol of the third sefirah, one of whose names was Teshuvah ('penitence' or 'return'), and states that the great Jubilee carried an eschatological significance that Pico intended this thesis to emphasize (farmer1998:27954).",
+ "historiography": "Wirszubski quotes the thesis's Latin under a discussion he heads \"New Relationships and Orientations\" (wirszubski1989:9519). Mandosio quotes the same Latin from Pico's 1998 edition (i.e. Farmer's) in a note following his discussion of Farmer's translation of a neighboring Kabbalistic-magic thesis (mandosio2012:331).",
+ "connections": [
+  "1>5",
+  "28.42",
+  "6>5",
+  "7>9"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "New Relationships and Orientations",
+   "work": "wirszubski1989",
+   "line": 9519,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Wirszubski's discussion under 'New Relationships and Orientations' beyond quoting the Latin is not established by the excerpt consulted.",
+  "Mandosio's own assessment of this thesis, as distinct from the neighboring thesis (magic conclusion 25) his surrounding discussion concerns, is not established by the excerpt consulted.",
+  "The external source, if any, for the numerological and Jubilee material beyond Pico's own thesis network is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch21 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

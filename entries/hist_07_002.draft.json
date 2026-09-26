@@ -1,0 +1,32 @@
+{
+ "thesis_id": "7.2",
+ "tier": "B",
+ "latin": "Vna est anima intellectiua in omnibus hominibus.",
+ "latin_source": "farmer1998:12937",
+ "translation": "There is one intellective soul in all human beings.",
+ "translation_note": "'anima intellectiua' is the intellective soul; the thesis states in bare form the doctrine of the unity of the intellect associated with Averroes (farmer1998:12937).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:12937",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes (farmer1998:12937).",
+ "sources": [
+  {
+   "text": "the problem of the unity of the intellect, discussed together under theses 7.2-7.4",
+   "locator": "farmer1998:12967",
+   "pico_relation": "Farmer's note groups this thesis with 7.3-7.4 as concerning the unity of the intellect and cross-references Pico's own theses 3>67-69"
+  }
+ ],
+ "doctrine": "The thesis asserts flatly that there is one intellective soul in all human beings (farmer1998:12937). Farmer's note groups it together with the two theses that follow, 7.3 and 7.4, under the problem of the unity of the intellect, and directs the reader to Pico's own theses 3>67-69 (farmer1998:12967). A footnote in the Dougherty anthology quotes the Latin of this thesis verbatim and likewise cross-references Conclusions 3>67-9 (dougherty2008:9366).",
+ "context": "Farmer's cross-reference network for this run of theses also includes 18.1, attributed to Alexander of Aphrodisias, which asserts that the rational soul is immortal (farmer1998:14716), and 20.7, attributed to Plotinus, on the soul's final happiness in union with the first intellect (farmer1998:15105); both bear on the same question of the individuality and fate of the intellect that this thesis raises in Averroes' name.",
+ "reception": "",
+ "historiography": "The only scholarship on this thesis found in the material opened is the brief citation in the Dougherty anthology, which quotes the Latin and cross-references 3>67-9 without further comment (dougherty2008:9366).",
+ "connections": ["7.3", "7.4", "18.1", "20.7", "3>67", "3>68", "3>69"],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Any scholarly discussion of this thesis beyond the bare citation in the Dougherty footnote is not established by the sources consulted.",
+  "Whether Pico intends the thesis to state Averroes' own doctrine of a single shared intellect precisely, as opposed to a scholastic simplification of it, is not addressed in the material consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

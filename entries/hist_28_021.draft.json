@@ -1,0 +1,41 @@
+{
+ "thesis_id": "28.21",
+ "tier": "B",
+ "latin": "Qui sciet proprietatem quae est secretum tenebrarum, sciet cur mali demones plus in nocte quam die nocent.",
+ "latin_source": "farmer1998:17955",
+ "latin_note": "The 1487 apparatus reads 'in die' (farmer1998:17976).",
+ "translation": "One who understands the property that constitutes the secret of darkness will understand why wicked demons cause more harm by night than by day.",
+ "translation_note": "'secretum tenebrarum' ('secret of darkness') is, per Farmer, a symbol of the fifth sefirah, Din (Judgment), associated with God's [severity] (farmer1998:17991, incomplete in the material consulted).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:17955",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17955).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, fol. 7vb-8ra",
+   "locator": "wirszubski1989:2198",
+   "pico_relation": "identified by Wirszubski as the thesis's most probable direct source"
+  }
+ ],
+ "doctrine": "Farmer glosses the 'secret of darkness' as a symbol of the fifth sefirah, Din (Judgment), tied to God's severity, though the note as consulted breaks off before completing the gloss (farmer1998:17991). Corazzol independently identifies the same sefirotic power, explaining that because the 'measure of Din' (Middat ha-Din) dominates at night, it coincides with 'Middat Lailah,' the 'property of night,' and states that conclusion 28.21 refers to this same power, quoting the Latin thesis in full alongside an English rendering (corazzol2019:1374).",
+ "context": "not established by the sources consulted.",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis as his 'Conclusio XXI' (wirszubski1989:2195) and identifies its direct source as 'most probably' Recanati, fol. 7vb-8ra (wirszubski1989:2198). Corazzol, discussing Recanati's association of Din with night, cites the thesis as confirming that equation and quotes an English translation of it from elsewhere in his own study (corazzol2019:1374).",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "It is therefore clear that conclusion 28.21 refers to the same sefirotic power",
+   "work": "corazzol2019",
+   "line": 1374,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The remainder of Farmer's gloss on Din/God's attribute at farmer1998:17991 beyond the fragment consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

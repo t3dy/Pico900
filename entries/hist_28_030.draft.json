@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.30",
+ "tier": "B",
+ "latin": "Nullus angelus habens sex alas unquam transformatur.",
+ "latin_source": "farmer1998:18086",
+ "translation": "No angel having six wings is ever transformed.",
+ "translation_note": "None.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:18086",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18086).",
+ "sources": [
+  {
+   "text": "Zohar I, fol. 34v, via Menahem Recanati",
+   "locator": "wirszubski1989:2523",
+   "pico_relation": "Wirszubski identifies the Zohar as the thesis's ultimate source, transmitted through Recanati as its immediate source"
+  }
+ ],
+ "doctrine": "Farmer reads the thesis, like 28.28, as apparently drawing further distinctions within the angelic orders (farmer1998:18160).",
+ "context": "Farmer cross-references 28.28, on the winged creature of the fifth day understood as worldly angels (farmer1998:18078) (farmer1998:18160).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXX' and states that, though its ultimate source is undoubtedly the Zohar (part I, fol. 34v), there is no need to look for its immediate source beyond Recanati (wirszubski1989:2523). Elsewhere he places the thesis in a sequence of three theses on angels, noting that the source of the preceding conclusio begins in Recanati at fol. 11vb and that of this one at fol. 12va (wirszubski1989:3180).",
+ "connections": [
+  "28.28",
+  "28.29"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Though the ultimate source of this thesis is undoubtedly the Zohar, part I, fol. 34v, there is no need to look for its immediate source beyond Recanati",
+   "work": "wirszubski1989",
+   "line": 2523,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

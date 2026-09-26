@@ -1,0 +1,39 @@
+{
+ "thesis_id": "4.21",
+ "tier": "B",
+ "latin": "Substantia non cognoscitur per speciem propriam.",
+ "latin_source": "farmer1998:12379",
+ "translation": "Substance is not known through its own species.",
+ "translation_note": "'Species propria': the intelligible likeness or representation held to mediate a thing's cognition; the thesis denies that substance has such a species proper to itself.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12379",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12379).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 1, d. 3, pars 1, q. 1-2 ('De cognoscibilitate Dei'; Opera omnia, vol. 16)",
+   "locator": "edelheit2022:15111",
+   "pico_relation": "Edelheit identifies this question, the same discussion he assigns to thesis 7 (hist_04_007), as the source of thesis 21's claim about substance and species"
+  }
+ ],
+ "doctrine": "The thesis denies that substance is known through a 'species' (an intelligible likeness) proper to itself, a claim Farmer notes stands opposed to Pico's own view expressed elsewhere among his own theses, at 3>57 (farmer1998:12461). Edelheit states that thesis 21 holds that substance is not known through its proper species, and, 'just like thesis 7', traces it to Scotus's Lectura, book 1, distinction 3, part 1, questions 1-2, the same lengthy discussion 'on the cognition of God' (De cognoscibilitate Dei), where Scotus argues against views holding a species to be the cause of an object's intelligible presence to the intellect (edelheit2022:15111).",
+ "historiography": "Edelheit's contribution is to connect thesis 21 to the same Scotist locus as thesis 7, without further comment on Pico's own eventual position at 3>57 (edelheit2022:15111).",
+ "connections": [
+  "3>57",
+  "4.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 21 states that substance is not known through its proper species",
+   "work": "edelheit2022",
+   "line": 15111,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Pico's opposing view at 3>57, and how it bears on thesis 21's claim, is not given in the material consulted beyond Farmer's bare cross-reference."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

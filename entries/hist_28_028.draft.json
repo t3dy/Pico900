@@ -1,0 +1,38 @@
+{
+ "thesis_id": "28.28",
+ "tier": "B",
+ "latin": "Per uolatile quod creatum est die quinta, debemus intelligere angelos mundanos qui hominibus apparent, non eos qui non apparent nisi in spiritu.",
+ "latin_source": "farmer1998:18078",
+ "translation": "By the winged creature that was created on the fifth day, we ought to understand the worldly angels who appear to human beings, not those who appear only in spirit.",
+ "translation_note": "'uolatile' ('winged/flying creature') refers to Gen. 1:20, the creation of birds on the fifth day (farmer1998:18152).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:18078",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18078).",
+ "sources": [],
+ "doctrine": "Farmer reads the thesis as referring to Gen. 1:20 and as implying a hierarchy of angelic powers comparable to that found in 6.7; he notes that which sefirah is meant by 'the fifth day' is unclear, cross-referencing his note on 28.8, and further cross-references 28.30 as a related thesis (farmer1998:18152).",
+ "context": "Farmer cross-references 28.8, on souls descending from the third light through the fourth and fifth days (farmer1998:17645), and 6.7, on the illumination of an inferior angel by a superior one (farmer1998:12693) (farmer1998:18152).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXVIII' (wirszubski1989:2432).",
+ "connections": [
+  "28.8",
+  "6.7",
+  "28.30"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Per uolatile quod creatum est die quinta, debemus intelligere angelos mundanos, qui hominibus apparent, non eos qui non apparent nisi in spiritu.",
+   "work": "wirszubski1989",
+   "line": 2432,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which sefirah 'the fifth day' designates is left unresolved by Farmer himself (farmer1998:18152) and is not established further by the sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

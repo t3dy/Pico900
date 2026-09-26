@@ -1,0 +1,38 @@
+{
+ "thesis_id": "6.1",
+ "tier": "B",
+ "latin": "Potentia generandi in diuinis nec est essentia diuina precise et absolute sumpta, nec relatio uel proprietas, nec constitutum ex ambobus, nec alterum istorum cum inclusione alterius, sed est essentia cum modo relatiuo.",
+ "latin_source": "farmer1998:12671",
+ "translation": "The power of generating in the Godhead is neither the divine essence taken precisely and absolutely, nor a relation or property, nor something constituted of both, nor either of these with the inclusion of the other, but is the essence together with a relative mode.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12671",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12671; edelheit2022:15973).",
+ "sources": [
+  {
+   "text": "Giles of Rome, In primum librum Sententiarum (Cordoba, 1699), p. 147",
+   "locator": "edelheit2022:15996",
+   "pico_relation": "Cited in Edelheit's note as the locus for Giles's position on the power of generation"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis is 'relatively long and rather complicated', holding that the power of generation in divine things is not the divine essence understood in a concise and absolute manner, nor a relation or property, nor constituted of both (paraphrase, edelheit2022:15973). He cites Giles's commentary on the Sentences, book 1, page 147 of the Cordoba 1699 edition, as the locus for Giles's position (edelheit2022:15996).",
+ "context": "Edelheit divides the eleven Giles theses into two groups: theses 1-7 on theological issues, including the status of theology as a science and angelology, and theses 8-11 on natural philosophy, such as taste, heat and vacuum, noting that even the natural-philosophical theses are often taken from theological contexts, and this thesis opens the first group (paraphrase, edelheit2022:15967).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 246 (edelheit2022:15996).",
+ "connections": [
+  "6.2"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 1 is relatively long and rather complicated.",
+   "work": "edelheit2022",
+   "line": 15973,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

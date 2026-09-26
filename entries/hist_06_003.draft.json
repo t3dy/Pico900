@@ -1,0 +1,43 @@
+{
+ "thesis_id": "6.3",
+ "tier": "B",
+ "latin": "Deus sub ratione glorificatoris est subiectum in Theologia.",
+ "latin_source": "farmer1998:12679",
+ "translation": "God under the aspect of glorifier is the subject-matter of theology.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12679",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12679; edelheit2022:16121).",
+ "sources": [
+  {
+   "text": "Giles of Rome, In primum librum Sententiarum, prologue, question 1, article 3",
+   "locator": "edelheit2022:16121",
+   "pico_relation": "Edelheit's identified source: on the differences between theology and metaphysics as to how each considers God"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis holds that God as glorifier is the subject of theology, and finds this in Giles's commentary on the Sentences, book 1, prologue, question 1, article 3, in a passage distinguishing theology from metaphysics by their differing consideration of God (paraphrase, edelheit2022:16121).",
+ "context": "Farmer's note pairs this thesis with 6.2 as starting a series on the formal object of theology, cross-referencing 1>4, 2>27, 3>8, 7a>37 and 11>3 (paraphrase, farmer1998:12710). Edelheit groups it among the first seven of the eleven Giles theses that he characterizes as theological (paraphrase, edelheit2022:15967).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 246 (edelheit2022:16146).",
+ "connections": [
+  "6.2",
+  "11>3",
+  "1>4",
+  "2>27",
+  "3>8",
+  "7a>37"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In thesis 3 we find that God as glorifier is the subject of theology.",
+   "work": "edelheit2022",
+   "line": 16121,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

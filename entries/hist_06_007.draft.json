@@ -1,0 +1,40 @@
+{
+ "thesis_id": "6.7",
+ "tier": "B",
+ "latin": "Superior angelus illuminat inferioremnon quia ei uel obiectum presentet luminosum, uel quod in se est unitum illi particulariset et diuidat, sed quia inferioris intellectum conífortat et fortificat.",
+ "latin_source": "farmer1998:12693",
+ "latin_note": "The transcription at farmer1998:12693 runs 'inferioremnon' together and prints 'conífortat' for 'confortat'. Edelheit's quotation of the printed text (900 Theses, p. 246) confirms the wording 'inferiorem non ... particulariset et dividat ... confortat et fortificat', which shows that 'particulariset' stands in the printed text rather than being an artifact of this transcription (edelheit2022:16671).",
+ "translation": "A higher angel does not illuminate a lower one because it presents to it a luminous object, or because what is united in itself it particularizes and divides for the other, but because it strengthens and fortifies the lower one's understanding.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12693",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12693; edelheit2022:16616).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Opera omnia III.2, p. 234",
+   "locator": "edelheit2022:16671",
+   "pico_relation": "Cited by Edelheit as the locus, on whether two angels can be of the same species and communicate by particularizing one universal species into many"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis declares that a superior angel illuminates an inferior one not because it presents to it a luminous object, or because it particularizes and divides what is in itself united, but rather because it strengthens and fortifies the inferior angel's intellect, citing Giles's Opera omnia III.2, page 234, on communication between superior and inferior angels by particularizing one universal species into many (paraphrase, edelheit2022:16616, edelheit2022:16671).",
+ "context": "Edelheit observes, in discussing theses 7-10, that a standard Aristotelian account is here attributed by Pico to Giles, and suggests this may be another indication of the haste with which Pico composed the 900 Theses, noting a similar incident he had already found among the theses attributed to Albert the Great (paraphrase, edelheit2022:16760).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 246 (edelheit2022:16671).",
+ "connections": [
+  "5.6",
+  "5.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 7 declares that superior angel illuminates inferior angel not because it presents to it a luminous object, or because it particularizes and divides that which is in itself united, but rather because it strengthens and fortifies",
+   "work": "edelheit2022",
+   "line": 16616,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

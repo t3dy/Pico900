@@ -1,0 +1,56 @@
+{
+ "thesis_id": "22.2",
+ "tier": "B",
+ "latin": "Opifex mundi est supermundana anıma.",
+ "latin_source": "farmer1998:15442",
+ "latin_note": "Farmer's OCR renders the final word with a dotless 'ı' ('anıma'); read as 'anima' (soul).",
+ "translation": "The maker of the world is a supramundane soul.",
+ "translation_note": "'Opifex' (craftsman/maker) renders the Platonic demiurge; 'supermundana anima' names a soul-level principle above the sensible world, per Farmer's note locating the thesis among a set on the world's demiurge (farmer1998:15526).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:15442",
+ "pico_stance": "reports",
+ "attribution": "Reports Porphyry (farmer1998:15442).",
+ "sources": [
+  {
+   "text": "Proclus, In Platonis Timaeum commentaria (Diehl 1:300)",
+   "locator": "farmer1998:15526",
+   "pico_relation": "Farmer identifies this Proclus passage as the source Pico draws on for the thesis"
+  }
+ ],
+ "doctrine": "Farmer identifies this thesis, together with 22.1 and 22.3, as drawn from Proclus's commentary on the Timaeus (Diehl 1:300), a set Farmer suggests reading alongside 23.2 from Iamblichus on the same theme of the world's craftsman (farmer1998:15526). Steiris reads the thesis as Pico's report, following Porphyry, that the demiurge of the world is to be identified with a soul rather than with a higher hypostasis (steiris2014:465).",
+ "context": "The thesis belongs to the run of conclusions 'secundum Porphyrium' (farmer1998:15442).",
+ "reception": null,
+ "historiography": "The only modern discussion located is Steiris (2014), who cites the thesis as evidence of Pico's engagement, via Anaxagoras, with the lower Neoplatonic hypostases of Intellect and Soul (steiris2014:465).",
+ "connections": [
+  "22.1",
+  "22.4",
+  "22.6",
+  "22.7",
+  "23.2",
+  "23.7",
+  "24.18",
+  "3>21",
+  "5>10",
+  "5>11",
+  "5>12",
+  "5>19",
+  "5>2",
+  "5>34",
+  "5>9"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico admits that the Demiurge of the world is the supermundane soul",
+   "work": "steiris2014",
+   "line": 465,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico's own considered view (beyond reporting Porphyry) endorses this demiurge-as-soul reading is not established by the sources consulted.",
+  "The content of Proclus's passage (Diehl 1:300) beyond Farmer's bare citation is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

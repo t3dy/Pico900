@@ -1,0 +1,39 @@
+{
+ "thesis_id": "4.18",
+ "tier": "B",
+ "latin": "Aliquid potest mouere seipsum de actu uirtuali ad actum formalem.",
+ "latin_source": "farmer1998:12368",
+ "translation": "A thing can move itself from virtual act to formal act.",
+ "translation_note": "'Actu uirtuali'/'actum formalem': virtual act (a power or disposition not yet actualized) and formal act (actuality proper); the crux is whether a thing can actualize itself from the one state to the other.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12368",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12368).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 1, d. 3, pars 3, q. 2 (Opera omnia, vol. 3, Vatican City, 1954, pp. 245–330)",
+   "locator": "edelheit2022:14882",
+   "pico_relation": "Edelheit identifies this question as the discussion of self-motion from virtual to formal act behind thesis 18"
+  }
+ ],
+ "doctrine": "The thesis belongs to a series on motion beginning at thesis 2.37 from Thomas, with which Farmer notes it stands 'in conflict' (farmer1998:12456), asserting that a thing can move itself from a state of potentiality ('actu uirtuali', virtual act) to actuality proper ('actum formalem', formal act). Edelheit confirms that, according to thesis 18, anything can move itself from virtual act to formal act, and locates the discussion in Scotus's Ordinatio, book 1, distinction 3, part 3, question 2, within a lengthy inquiry into the causes of intellection (edelheit2022:14857).",
+ "historiography": "Edelheit's identification of the Ordinatio passage is the only scholarly treatment of thesis 18 among the sources consulted; he further notes that where Pico writes 'ad actum formalem', Scotus's own text has 'potentia ad actum formalem', without commenting on the significance of the difference (edelheit2022:14878).",
+ "connections": [
+  "2.37",
+  "2.38"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "According to thesis 18 anything can move itself from virtual act to formal act",
+   "work": "edelheit2022",
+   "line": 14857,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise sense in which the thesis 'conflicts' with 2.37-38 from Thomas, beyond Farmer's bare notice of the opposition, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

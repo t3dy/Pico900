@@ -1,0 +1,21 @@
+{
+ "thesis_id": "3>2",
+ "tier": "B",
+ "latin": "Non possumus dicere quod de re precisissime sumpta aliquid praedicetur praedicatione proprie dicta.",
+ "latin_source": "farmer1998:20321",
+ "translation": "We cannot say that anything is predicated, in the properly so-called sense of predication, of a thing taken in its most precise sense.",
+ "translation_note": "'de re precisissime sumpta' rendered 'of a thing taken in its most precise sense'; 'praedicatione proprie dicta' as 'the properly so-called sense of predication', keeping Pico's technical distinction between predication proper and looser senses of the term.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:20321",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20321).",
+ "historiography": "A German-language study of Pico's epistemology and Kabbalah cites this thesis in a footnote alongside 3>7, under a discussion headed 'zur Definition' ('on the definition') (kabbalah_paradigma:1656).",
+ "connections": ["3>7"],
+ "condemned_flag": false,
+ "not_established": [
+  "The author of the work cited as kabbalah_paradigma is not identified in the material consulted, which records only 'author to be confirmed from front matter'.",
+  "The content of the footnote's discussion of thesis 3>2, beyond the bare cross-reference to 3>7, is not established by the source excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

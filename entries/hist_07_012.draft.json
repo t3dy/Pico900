@@ -1,0 +1,50 @@
+{
+ "thesis_id": "7.12",
+ "tier": "B",
+ "latin": "Grauia et leuia mouent se per accidens mouendo medium per se.",
+ "latin_source": "farmer1998:13055",
+ "translation": "Heavy and light bodies move themselves accidentally, by moving the medium directly.",
+ "translation_note": "'per accidens'/'per se' translate the standard Aristotelian distinction between an incidental and an intrinsic or direct cause of motion; the thesis holds that a heavy or light body's own motion is only incidental, the direct motion belonging to the medium it moves (farmer1998:13055).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:13055",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes (farmer1998:13055).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas' rival view that heavy and light bodies are moved by no other mover than the generator or the remover of an obstacle",
+   "locator": "farmer1998:11780",
+   "pico_relation": "Farmer's note ties this thesis' series back to 2.37-38, attributed to Thomas Aquinas, as the opposing position"
+  },
+  {
+   "text": "the scholastic (Parisian) commentary tradition on Book Four of Aristotle's Physics, on local motion of heavy and light bodies, including in a vacuum",
+   "locator": "edelheit2022:4085",
+   "pico_relation": "Edelheit connects the thesis to this discussion, noting that Pico's version omits any mention of a vacuum"
+  }
+ ],
+ "doctrine": "The thesis holds that heavy and light bodies move themselves only by accident, the medium they move being what is moved directly (farmer1998:13055). Farmer's note states that this series begins at theses 2.37-38 and refers the reader to his note there (farmer1998:13131); those theses, attributed to Thomas Aquinas, hold that heavy and light bodies are moved by no mover other than the generator or the remover of an obstacle (farmer1998:11780). Edelheit places the thesis within the scholastic debate, carried on in commentaries on Book Four of Aristotle's Physics by the author he calls Hennon, over the local motion of heavy and light bodies, including whether such motion is possible in a vacuum; he quotes Pico's Latin and observes that Pico's thesis states the point 'without mentioning a vacuum' (edelheit2022:4085).",
+ "context": "Edelheit reports that Pico raises related questions on local motion 'in thesis 11 according to Giles of Rome and in thesis 12 according to Averroës', situating both within the same set of issues from Book Four of the Physica that Hennon's commentary discusses (edelheit2022:4073).",
+ "reception": "",
+ "historiography": "Edelheit is the only scholar cited in the material opened for this thesis; he treats it as one instance of Pico drawing on the same late-medieval Parisian discussions of local motion (associated with the commentator he calls Hennon) that supply several other theses in this series (edelheit2022:4073; edelheit2022:4085).",
+ "connections": ["2.37", "6.11"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico mentions some of these issues in thesis 11 according to Giles of Rome and in thesis 12 according to Averroës",
+   "work": "edelheit2022",
+   "line": 4073,
+   "verbatim": true
+  },
+  {
+   "text": "Gravia et levia movent se per accidens movendo medium per se",
+   "work": "edelheit2022",
+   "line": 4085,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The identity and dates of the author Edelheit refers to as 'Hennon' are not given in the excerpt consulted.",
+  "Any commission or Apologia reception of this thesis, beyond Edelheit's placement of it in the scholastic debate on local motion, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

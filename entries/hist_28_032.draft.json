@@ -1,0 +1,46 @@
+{
+ "thesis_id": "28.32",
+ "tier": "B",
+ "latin": "Ideo circumcisio fit octaua die, quia est superior quam sponsa uniuersalizata.",
+ "latin_source": "farmer1998:18179",
+ "translation": "Circumcision therefore takes place on the eighth day, because [that day] is superior to the universalized bride.",
+ "translation_note": "'octaua die' ('eighth day'), following Wirszubski's (1989: 45) reading, refers to the ninth sefirah; 'sponsa uniuersalizata' ('universalized bride') symbolizes the tenth sefirah (farmer1998:18213).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:18179",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18179).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, fol. 47vb",
+   "locator": "wirszubski1989:2576",
+   "pico_relation": "given by Wirszubski as the source passage for the thesis"
+  }
+ ],
+ "doctrine": "Farmer glosses 'eighth day,' following Wirszubski's (1989: 45) reading, as the ninth sefirah, and 'universalized bride' as a symbol of the tenth sefirah (farmer1998:18213).",
+ "context": "Farmer's cross-reference network links the thesis to 11>35, on how nothing is understood to proceed from God considered in himself, as infinite and one, but only separation from things and his enclosure within himself (farmer1998:27129); 26.5, on the intelligible order being above every intellectual hierarchy, as Amosis the Egyptian said (farmer1998:17143); 28.47, on the sefirot's influx expressed through AMEN (farmer1998:18410); 2>80, on Hebrew as the first language (farmer1998:20213); 3>55, on the order of the Hebrew language (farmer1998:21095); and 9>22, on the magical efficacy of Hebrew names alone (farmer1998:25378).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXXII' and gives Recanati, fol. 47vb, as its source (wirszubski1989:2573, 2576).",
+ "connections": [
+  "11>35",
+  "26.5",
+  "28.47",
+  "2>80",
+  "3>55",
+  "9>22"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Ideo circumcisio fit octaua die, quia est superior quam sponsa uniuersali- zata.",
+   "work": "wirszubski1989",
+   "line": 2576,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

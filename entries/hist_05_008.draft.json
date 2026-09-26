@@ -3,7 +3,7 @@
  "tier": "B",
  "latin": "Irascibilis et concupiscibilis ita distinguuntur in appetitu superiori sicut in",
  "latin_source": "farmer1998:12505",
- "latin_note": "Farmer's OCR extraction breaks off after 'sicut in', omitting the final word. Edelheit's quotation of the printed text gives the complete reading: 'Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.' (edelheit2022:15657).",
+ "latin_note": "The transcription at farmer1998:12505 breaks off after 'sicut in', omitting the final word. Edelheit's quotation of the printed text gives the complete reading: 'Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.' (edelheit2022:15657).",
  "translation": "The irascible and the concupiscible are distinguished in the higher appetite in the same way as in the lower.",
  "translation_note": "Translated from the complete reading recovered at edelheit2022:15657 ('...sicut in inferiori'), since the Farmer transcription at farmer1998:12505 breaks off before the final word (see latin_note).",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12505",

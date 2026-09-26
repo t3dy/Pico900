@@ -1,0 +1,47 @@
+{
+ "thesis_id": "28.31",
+ "tier": "B",
+ "latin": "Data est circumcisio ad liberationem a uirtutibus immundis quae in circuitu ambulant.",
+ "latin_source": "farmer1998:18175",
+ "translation": "Circumcision was given for liberation from the unclean powers that walk about in a circle.",
+ "translation_note": "'in circuitu ambulant' alludes to Ps. 12:9 (Vulgate 11:9), 'in circuitu impii ambulant' ('the impious walk in a circle'), the passage Wirszubski (1989: 44) quotes from Recanati in connection with circumcision (farmer1998:18207).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:18175",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18175).",
+ "sources": [
+  {
+   "text": "Menahem Recanati (associating the rite of circumcision with Ps. 12:9 Vulgate)",
+   "locator": "farmer1998:18207",
+   "pico_relation": "quoted by Wirszubski (1989: 44) as the passage linking circumcision to the psalm verse"
+  }
+ ],
+ "doctrine": "Farmer explains that the passage Wirszubski (1989: 44) quotes from Recanati associates the rite of circumcision with Ps. 12:9 (Vulgate 11:9), 'in circuitu impii ambulant' ('the impious walk in a circle'), and calls the thesis a fine example of Pico's Christian Cabalism and of the systematic links between widely separated theses in his text, directing the reader to read it together with 11>22 (farmer1998:18207, note incomplete in the material consulted).",
+ "context": "Farmer's cross-reference network links the thesis to 11>22, on the Cabalists' teaching concerning the redness of Esau (farmer1998:26817); 11>27, on what is evidently elicited from Cabalistic principles concerning the Messiah's coming (farmer1998:26926); 28.47, on the order of the sefirot's influx expressed through the word AMEN (farmer1998:18410); 2>80, on Hebrew as the first, non-arbitrary language (farmer1998:20213); 3>55, on mastering the order of the Hebrew language as a norm for finding any knowable thing (farmer1998:21095); and 9>22, on Hebrew names alone having efficacy in magical operation (farmer1998:25378).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXXI' and gives Recanati, fol. 47va, as its source (wirszubski1989:2543).",
+ "connections": [
+  "11>22",
+  "11>27",
+  "28.47",
+  "2>80",
+  "3>55",
+  "9>22"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir- cuitu ambulant.",
+   "work": "wirszubski1989",
+   "line": 2543,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The remainder of Farmer's note beyond the fragment consulted at farmer1998:18207.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

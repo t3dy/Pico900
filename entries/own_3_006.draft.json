@@ -1,0 +1,31 @@
+{
+ "thesis_id": "3>6",
+ "tier": "B",
+ "latin": "Sicut cognitio per demonstrationem habita bomini, pro communi statu quem hic experimur, est perfectissima cognitio, ita simpliciter inter cognitiones est imperfectissima.",
+ "latin_source": "farmer1998:20336",
+ "latin_note": "Farmer's transcription reads 'bomini'; the Dougherty anthology quotes the same conclusio, citing Farmer's own edition and translation (pp. 400-1), with 'habita homini' (dougherty2008:9970), suggesting 'bomini' is an OCR misreading of 'homini'.",
+ "translation": "Just as the cognition had by man through demonstration is, for the common condition we experience here, the most perfect cognition, so absolutely, among the kinds of cognition, it is the most imperfect.",
+ "translation_note": "'pro communi statu quem hic experimur' rendered 'for the common condition we experience here', keeping Pico's contrast between demonstrative cognition's perfection relative to the human condition and its imperfection considered absolutely among kinds of cognition.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:20336",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20336).",
+ "doctrine": "The Dougherty anthology sets this thesis beside a passage from Pico's own De ente et uno, chapter 5 (ed. Garin, p. 408; trans. Miller, p. 47), quoting it immediately after the conclusio's Latin as a comparandum (dougherty2008:9970).",
+ "historiography": "The German-language study Erkenntnistheorie und christliche Kabbalah cites this conclusio in the same footnote as 3>15, 3>16, and 3>18, in a discussion of Pico's account of demonstrative cognition (kabbalah_paradigma:1704).",
+ "connections": ["3>15", "3>16", "3>18"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfectissima cognitioo, ita simpliciter inter cognitiones est imperfectissima.",
+   "work": "dougherty2008",
+   "line": 9970,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The full text of the De ente et uno passage juxtaposed with this thesis in the Dougherty anthology is cut off in the material consulted after 'Cognitio item humana quae rationalis'; not established further.",
+  "The author of the work cited as kabbalah_paradigma is not identified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

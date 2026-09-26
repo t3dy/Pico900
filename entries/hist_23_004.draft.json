@@ -1,0 +1,40 @@
+{
+ "thesis_id": "23.4",
+ "tier": "B",
+ "latin": "Elementa in octo coeli corporibus coelesti modo bis inueniuntur, quae quis inueniet si retrogrado ordine in illa bina numeratione processerit.",
+ "latin_source": "farmer1998:15651",
+ "latin_note": "Farmer's edition additionally reproduces a facsimile transcription of the 1486 print's text of this thesis at farmer1998:10494, in the print's own orthography ('octo cceli corporibus coelefti modo bis inueniuntur...').",
+ "translation": "The elements are found twice, in a celestial manner, among the eight bodies of the heavens — a thing one will discover if one proceeds in reverse order through that twofold numbering.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:15651",
+ "pico_stance": "reports",
+ "attribution": "Reports Iamblichus (farmer1998:15651).",
+ "sources": [
+  {
+   "text": "Iamblichus, De mysteriis 1.17",
+   "locator": "farmer1998:15729",
+   "pico_relation": "Farmer suggests the thesis was apparently inspired by this passage"
+  }
+ ],
+ "doctrine": "Farmer places the thesis in a series on the caelum (heaven) beginning at thesis 7.9, suggesting it was apparently inspired by Iamblichus's De mysteriis 1.17 (farmer1998:15729).",
+ "context": "Farmer's cross-reference network links the thesis to 11>67 on the elements' presence in the heavens according to the Kabbalists (farmer1998:15651, cross-referencing 11>67).",
+ "reception": null,
+ "historiography": "Black (2006) proposes the thesis as a possible unmentioned source for a numerological computation elsewhere in the Heptaplus, while explicitly disputing Farmer's suggestion that 'bina' in the phrase 'bina numeratione' alludes to the Kabbalistic sefirah Binah: \"I do not think that Farmer's understanding of 'bina' as referring to the sefirah Binah is relevant here\" (black2006:1838, referring to Farmer's discussion in Syncretism in the West).",
+ "connections": [
+  "11>67"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "I do not think that Farmer's understanding of \"bina\" as referring to the sefirah Binah is relevant here",
+   "work": "black2006",
+   "line": 1838,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Black's proposed connection to the Heptaplus computation is accepted elsewhere in the scholarship is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

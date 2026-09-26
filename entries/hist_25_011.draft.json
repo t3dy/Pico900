@@ -1,0 +1,37 @@
+{
+ "thesis_id": "25.11",
+ "tier": "B",
+ "latin": "Iudicium sensus in musica non est adhibendum, sed solius intellectus.",
+ "latin_source": "farmer1998:17016",
+ "translation": "In music, the judgment of the senses is not to be applied, but that of the intellect alone.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:17016",
+ "pico_stance": "reports",
+ "attribution": "Reports Pythagorean mathematics (farmer1998:17016).",
+ "sources": [
+  {
+   "text": "Plato, Republic 7 (530d ff.)",
+   "locator": "farmer1998:17048",
+   "pico_relation": "Farmer cites this Plato passage as background, since the study of musical proportion prepares the soul for higher things"
+  }
+ ],
+ "doctrine": "Farmer's note reads the thesis as reflecting the view that the study of musical proportion prepares the soul for higher things, comparing Plato's Republic 7 (farmer1998:17048).",
+ "context": "No Farmer cross-references are recorded for this thesis in the research packet (farmer1998:17016).",
+ "reception": null,
+ "historiography": "Busi and Ebgi (2014) quote the thesis in their annotated edition and gloss it in their own Italian translation as 'In musica non va usato il giudizio dei sensi ma solo quello dell'intelletto', noting its proximity to a further thesis (10>2) on the efficacy of Orphic hymns in natural magic (busi2014:21386).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "In musica non va usato il giudizio dei sensi ma solo quello dell'intelletto",
+   "work": "busi2014",
+   "line": 21386,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No Farmer cross-references are recorded for this thesis in the research packet."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,44 @@
+{
+ "thesis_id": "6.4",
+ "tier": "B",
+ "latin": "Pater et filius non solum duo spirantes, sed etiam duo spiratores dici possunt.",
+ "latin_source": "farmer1998:12682",
+ "translation": "The Father and the Son can be called not only two who breathe forth, but also two breathers-forth.",
+ "translation_note": "Farmer's note explains that 'spirantes' (a participle) and 'spiratores' (a substantive), both from 'spirare', to breathe, were applied to the first two Persons as they gave rise to the procession of the Holy Spirit; Thomas used 'spirantes' in this context but avoided 'spiratores', which he took to imply too strong a distinction between the Persons, unlike Giles (paraphrase, farmer1998:12761).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12682",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12682; edelheit2022:16259).",
+ "sources": [
+  {
+   "text": "Giles of Rome, Reportatio lecturae super libros I-IV Sententiarum (Reportatio Monacensis), ed. Concetta Luna (Florence, 2003), pp. 200-201",
+   "locator": "edelheit2022:16044",
+   "pico_relation": "Edelheit's identified source, with 'spiration' at the centre of the thesis"
+  },
+  {
+   "text": "Albert the Great, Opera omnia, ed. Auguste Borgnet, vol. 26 (Paris, 1893), p. 81, offers a contrasting formula denying that the Father and Son are 'unus spirans' or 'unus spirator'",
+   "locator": "edelheit2022:16287",
+   "pico_relation": "Quoted by Edelheit alongside the thesis's source citation, as a comparandum on the same grammatical question"
+  }
+ ],
+ "doctrine": "Edelheit reports that 'spiration' stands at the centre of the thesis, and that it takes us to Trinitarian theology and to the manner in which plurality can or cannot be attributed to the Persons through participles or adjectives on the one hand, and through nouns on the other (paraphrase, edelheit2022:16044, edelheit2022:16259). He identifies Giles's Reportatio lecturae on the Sentences as the source, and separately quotes Albert the Great's Opera omnia as offering a related but contrasting formula (edelheit2022:16044; edelheit2022:16287).",
+ "context": "Farmer's note remarks that the conflict over 'spirantes' and 'spiratores' illustrates the metaphysical importance scholastic traditions could attach to minute grammatical distinctions (paraphrase, farmer1998:12761).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 246 (edelheit2022:16287).",
+ "connections": [
+  "6.5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 4 takes us to Trinitarian theology and to the manner in which plural- ity can or cannot be attributed to the Persons through participles or adjectives on the one hand, and through nouns on the other.",
+   "work": "edelheit2022",
+   "line": 16259,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

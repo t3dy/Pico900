@@ -1,0 +1,39 @@
+{
+ "thesis_id": "4.19",
+ "tier": "B",
+ "latin": "Actus intelligendi ab obiecto et intellectu tanquam duobus agentibus partialibus, ut quod causatur.",
+ "latin_source": "farmer1998:12371",
+ "translation": "The act of understanding is caused by the object and the intellect as by two partial agents, taken together as the complete cause.",
+ "translation_note": "'Ut quod causatur': the scholastic distinction between a cause taken 'as that which' (ut quod, the complete, per se cause) and 'as that by which' (ut quo, a formal principle); the thesis asserts that object and intellect jointly form the former. The rendering is provisional; the phrase is technical.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12371",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12371).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura Prol., pars 4, q. 1-2 (Opera omnia, vol. 16, p. 51)",
+   "locator": "edelheit2022:14931",
+   "pico_relation": "Edelheit cites this passage, on the causation of a habit from its object, as background to thesis 19's claim about the two partial causes of understanding"
+  }
+ ],
+ "doctrine": "The thesis, paired by Farmer with thesis 20 under a single note ('4.19-20. Cf. 2.40 and note.', farmer1998:12459; thesis 2.40, farmer1998:11882), addresses the causation of intellection: the act of understanding results from the object and the intellect as two partial agents constituting a single complete cause. Edelheit confirms that, in thesis 19, the act of understanding results from the object and the intellect together, and cites Scotus's Lectura, prologue, part 4, questions 1-2, on the practical or speculative character of a habit taken from its object (edelheit2022:14878, 14931).",
+ "historiography": "Edelheit is the only scholar identified as treating thesis 19; his contribution is confined to naming the Scotist passage and noting the shared theme with thesis 20 (edelheit2022:14878).",
+ "connections": [
+  "2.40",
+  "4.20"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the act of understanding results from the object",
+   "work": "edelheit2022",
+   "line": 14878,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise scholastic sense of 'ut quod causatur' in the thesis, and whether Edelheit's cited passage addresses this phrase directly, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

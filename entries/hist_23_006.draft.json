@@ -1,0 +1,36 @@
+{
+ "thesis_id": "23.6",
+ "tier": "B",
+ "latin": "Cum excellenter ad intellectum assimilatur anima, fit in uehiculo motus perfecte circularis.",
+ "latin_source": "farmer1998:15750",
+ "translation": "When the soul is assimilated to intellect in a superior way, a perfectly circular motion occurs in the vehicle.",
+ "translation_note": "'Vehiculum' renders the Neoplatonic okhema, the soul's subtle vehicle, per Farmer's cross-reference to his note on 5>45 (farmer1998:15816).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:15750",
+ "pico_stance": "reports",
+ "attribution": "Reports Iamblichus (farmer1998:15750).",
+ "sources": [
+  {
+   "text": "Proclus, In Platonis Timaeum commentaria (Diehl 2:72)",
+   "locator": "farmer1998:15816",
+   "pico_relation": "Farmer cites this Proclus passage as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer draws the thesis from Proclus's Timaeus commentary on the soul's 'vehicle', directing the reader to his note on thesis 5>45 for the concept, and reads this thesis as deliberately set against 20.11 from Plotinus (farmer1998:15816).",
+ "context": "The thesis stands opposite 20.11 (Plotinus) in Farmer's cross-reference network, and is linked by Farmer to 22.4 and 5>7 on related themes of the soul and the heavens (farmer1998:15816).",
+ "reception": null,
+ "historiography": "Howlett (2021) cites the Latin of the thesis, from Farmer's edition, alongside passages of Pico's Heptaplus, in her study of Aristotelian, Kabbalistic and Platonic strands in Pico's philosophy (howlett2021:9242).",
+ "connections": [
+  "20.11",
+  "22.4",
+  "5>45",
+  "5>7"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The content of Howlett's surrounding discussion of the soul's vehicle, beyond citing this thesis and Heptaplus passages, is not given in the material consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,45 @@
+{
+ "thesis_id": "22.7",
+ "tier": "B",
+ "latin": "Sicut Apollo est intellectus solaris, ita Aesculapius est intellectus lunaris.",
+ "latin_source": "farmer1998:15459",
+ "translation": "Just as Apollo is the solar intellect, so Aesculapius is the lunar intellect.",
+ "translation_note": "Compare Busi and Ebgi's own Italian rendering of the same thesis, 'Come Apollo è l'intelletto solare, cosi Asclepio è l'intelletto lunare' (busi2014:7251), which independently supports this reading.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:15459",
+ "pico_stance": "reports",
+ "attribution": "Reports Porphyry (farmer1998:15459).",
+ "sources": [
+  {
+   "text": "Proclus, In Platonis Timaeum commentaria (Diehl 1:147, 159)",
+   "locator": "farmer1998:15531",
+   "pico_relation": "Farmer identifies this Proclus passage, which sets Porphyry against Iamblichus, as the source for theses 22.4-8"
+  }
+ ],
+ "doctrine": "Farmer places the thesis in a set (22.4-8) adapted from Proclus's Timaeus commentary that pits Porphyry's reading against Iamblichus's, the first of a series of theses involving astrological correspondences that Farmer stresses do not endorse the horoscopic astrology Pico attacks elsewhere (farmer1998:15531). Farmer glosses 'Apollo'/solar intellect as Pico's 'total' or 'angelic' intellect, and 'Aesculapius'/lunar intellect as the passive intellect or reason, comparing thesis 5>19 (farmer1998:15531).",
+ "context": "Busi and Ebgi likewise trace the thesis to Proclus's commentary on the Timaeus, reading it as Pico's Porphyrian identification of Apollo with the solar intellect (busi2014:7251).",
+ "reception": null,
+ "historiography": "Busi and Ebgi (2014) cite the thesis, in a discussion of the Oration's Apolline solar symbolism, as evidence of Pico's derivation of the Apollo/solar-intellect identification from Proclus (busi2014:7251).",
+ "connections": [
+  "11>72",
+  "22.4",
+  "22.6",
+  "23.7",
+  "3>6",
+  "5>10",
+  "5>11",
+  "5>12",
+  "5>19",
+  "5>34",
+  "5>9",
+  "7a>74"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Whether Busi and Ebgi's citation of Proclus, In Timaeum (Diehl 1:159) names the same passage as Farmer's citation (Diehl 1:147, 159) is not further specified in the material consulted.",
+  "Pico's own considered view, beyond reporting Porphyry, is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

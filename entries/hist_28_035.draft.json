@@ -1,0 +1,40 @@
+{
+ "thesis_id": "28.35",
+ "tier": "B",
+ "latin": "Nulla res spiritualis descendens inferius operatur sine indumento.",
+ "latin_source": "farmer1998:18195",
+ "translation": "Nothing spiritual that descends to what is lower acts without a garment.",
+ "translation_note": "None.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:18195",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18195).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, fol. 50ra",
+   "locator": "wirszubski1989:2668",
+   "pico_relation": "given by Wirszubski as the thesis's direct source"
+  }
+ ],
+ "doctrine": "Farmer's own note, as consulted, gives only a bare restatement of the thesis in English with its cumulative number (390), without further gloss (farmer1998:18253).",
+ "context": "not established by the sources consulted.",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis in full as his 'Conclusio XXXV' and identifies its direct source as Recanati, fol. 50ra (wirszubski1989:2665, 2668). Busi and Ebgi likewise quote the thesis in Latin with an Italian translation ('Nessuna realta spirituale, che scende verso il basso, opera senza indumento'), citing Corazzol's edition of Recanati's Commentary on the Daily Prayers as the source Menahem Recanati passage (busi2014:15714); this quotation could not be independently re-located in the copy of Busi and Ebgi consulted for this entry, which appears to carry only the volume's introductory essay and indices.",
+ "connections": [],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Nulla res spiritualis descendens inferius operatur sine indumento.",
+   "work": "wirszubski1989",
+   "line": 2665,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The busi2014:15714 quotation and its citation of Corazzol's Recanati edition could not be independently re-located in the copy of Busi and Ebgi consulted for this entry; it is reported here as given by the research packet, not as independently re-verified.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

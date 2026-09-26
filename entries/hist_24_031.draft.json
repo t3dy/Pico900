@@ -1,0 +1,43 @@
+{
+ "thesis_id": "24.31",
+ "tier": "B",
+ "latin": "Secundum precedentem conclusionem ex Procli mente potest exponi unum ex dictis Zoroastris secundum quod apud Graecos legitur, quanquam apud Chaldeos aliter et legitur et exponitur.",
+ "latin_source": "farmer1998:16470",
+ "latin_note": "Wirszubski's transcription shows minor orthographic differences from Farmer's text: 'praecedentem' for 'precedentem', 'quamquam' for 'quanquam', and 'Chaldaeos' for 'Chaldeos' (wirszubski1989:12236).",
+ "translation": "According to the preceding conclusion, one of the sayings of Zoroaster can be explained, in Proclus's understanding, as it is read among the Greeks — although among the Chaldeans it is both read and explained differently.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:16470",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus (farmer1998:16470).",
+ "sources": [
+  {
+   "text": "Pico's claimed possession of the Chaldean Oracles in an original Chaldean-language text",
+   "locator": "farmer1998:16508",
+   "pico_relation": "Farmer offers this claim as background for the thesis's assertion that the Greek and Chaldean readings differ"
+  }
+ ],
+ "doctrine": "Farmer reads the thesis as reflecting Pico's claim to have possessed the Chaldean Oracles in an original Chaldean-language text, differing from the Greek transmission (farmer1998:16508). Corazzol situates the thesis within a set of 'Zoroastrian Conclusions' (8>5, 8>11, 8>14) drawing on a source he labels 'M', containing Latin translations of three Chaldean oracles, and reads 24.31 as a further reference to that same source (corazzol2019:192).",
+ "context": "Farmer's cross-reference network links the thesis to 24.13, 24.14, 24.30 and 24.4 on the trinities of the supermundane gods (farmer1998:16470).",
+ "reception": null,
+ "historiography": "Corazzol (2019) glosses the thesis as Pico's claim that, in their original version, the Chaldean oracles not only read differently but also evinced a different meaning from the Greek tradition (corazzol2019:192). Wirszubski (1989) transcribes the thesis in an appendix (wirszubski1989:12236).",
+ "connections": [
+  "24.13",
+  "24.14",
+  "24.30",
+  "24.4"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "in their original version the Chaldean oracles not only read differently but also evinced a different meaning",
+   "work": "corazzol2019",
+   "line": 192,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content and identity of Corazzol's source 'M' beyond its role as a Latin translation of Chaldean oracle material is not further specified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

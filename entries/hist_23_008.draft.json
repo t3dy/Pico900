@@ -1,0 +1,40 @@
+{
+ "thesis_id": "23.8",
+ "tier": "B",
+ "latin": "Qui finalem causam diluuiorum incendiorumque cognouerit, haec potius «καθάρσεις», id est purgationes, quam corruptiones uocabit.",
+ "latin_source": "farmer1998:15757",
+ "latin_note": "Wirszubski, citing Bohdan Kieszkowski's edition of the Conclusiones (Geneva, 1973), records the manuscript reading as 'licet potius' with the correction 'hec' [haec] added in the margin, differing from Farmer's printed 'haec potius' (wirszubski1989:10689).",
+ "translation": "Whoever has recognized the final cause of floods and conflagrations will call them rather 'katharseis' — that is, purgations — than corruptions.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:15757",
+ "pico_stance": "reports",
+ "attribution": "Reports Iamblichus (farmer1998:15757).",
+ "sources": [
+  {
+   "text": "Proclus, In Platonis Timaeum commentaria 1 (Diehl 1:119), on the destruction of Atlantis",
+   "locator": "farmer1998:15822",
+   "pico_relation": "Farmer identifies this Proclus passage, whose Greek he quotes, as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer identifies the thesis as quoting Proclus on the destruction of Atlantis from his Timaeus commentary, noting that in Diehl's edition the words are spoken not by Iamblichus (whose own reading of Atlantis's destruction appears earlier in Proclus) but by the Egyptian priest of Plato's Timaeus 22b ff. (farmer1998:15822).",
+ "context": "Farmer's cross-reference network links the thesis to 5>7 on Plato's Timaeus (farmer1998:15757).",
+ "reception": null,
+ "historiography": "Wirszubski (1989) cites the thesis from Kieszkowski's edition of the Conclusiones (Geneva, 1973), alongside a related Cabalistic conclusion, and records a textual variant in the witness he consulted (wirszubski1989:10689).",
+ "connections": [
+  "5>7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The reading licet appears in the text. The correction hec was added in the margin.",
+   "work": "wirszubski1989",
+   "line": 10689,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether 'licet potius' or 'haec potius' better represents Pico's original 1486 text is not resolved by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

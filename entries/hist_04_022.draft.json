@@ -1,0 +1,42 @@
+{
+ "thesis_id": "4.22",
+ "tier": "B",
+ "latin": "Habitus actum producit ut causa partialis effectiua.",
+ "latin_source": "farmer1998:12382",
+ "translation": "A habit produces an act as a partial efficient cause.",
+ "translation_note": "'Causa partialis effectiua': a partial efficient cause, i.e. one that contributes to, but does not alone account for, the production of an act.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12382",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12382).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 1, d. 17, pars 1, q. 1-2 ('De habitu caritatis'; Opera omnia)",
+   "locator": "edelheit2022:15153",
+   "pico_relation": "Edelheit identifies this question as the source of thesis 22's claim about habit as a partial efficient cause"
+  }
+ ],
+ "doctrine": "The thesis holds that a habit produces an act as a partial efficient cause, a question Farmer notes 'involves the issue of free will' and locates in Scotus's Ordinatio, book 1, distinction 17, part 1, questions 1-2 (farmer1998:12463). Edelheit confirms that thesis 22 holds that habit produces an act as a partial and effective cause, found in the same Ordinatio question, titled 'on the habit of charity' (De habitu caritatis), and observes a terminological difference between Pico's and Scotus's wording (edelheit2022:15153, 15161).",
+ "historiography": "Edelheit notes that where Pico writes of habit as a cause 'ut causa partialis effectiva', Scotus himself writes 'habitus est causa partialis activa'; this is the only scholarly comment on thesis 22's wording identified in the material consulted, and Edelheit does not assess whether the difference is substantive (edelheit2022:15161).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 22 states that habit produces an act as a partial and effective cause",
+   "work": "edelheit2022",
+   "line": 15153,
+   "verbatim": true
+  },
+  {
+   "text": "in Pico we have habitus … ut causa partialis effectiva, in Scotus we find habitus est causa partialis activa",
+   "work": "edelheit2022",
+   "line": 15161,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the substitution of 'effectiva' for Scotus's 'activa' reflects a deliberate terminological choice by Pico is not addressed by Edelheit in the material consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,38 @@
+{
+ "thesis_id": "4.10",
+ "tier": "B",
+ "latin": "In appetitu superiore ponendae sunt uirtutes.",
+ "latin_source": "farmer1998:12249",
+ "translation": "The virtues are to be placed in the higher appetite.",
+ "translation_note": "'Appetitus superior': the higher, rational appetite (the will), as against the lower, sensitive appetite.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12249",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12249).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 3, d. 33, q. unica (Opera omnia, vol. 21, Vatican City, 2004, pp. 281–282)",
+   "locator": "edelheit2022:14403",
+   "pico_relation": "Edelheit identifies this question as the discussion behind thesis 10 and prints Scotus's Latin beside Pico's"
+  }
+ ],
+ "doctrine": "Farmer glosses the thesis as 'opposed to 2.34 from Thomas' (farmer1998:12335), thesis 2.34 holding that no moral virtue except justice is present, as in its subject, in the will (farmer1998:11770, translated here from the Latin of that thesis). Where Thomas so restricts the will's role in virtue to justice alone, thesis 10 places the virtues generally in the appetitus superior, the higher, rational appetite, as against the lower, sensitive appetite. Edelheit traces the claim to Scotus's Lectura, book 3, distinction 33, question unica, where Scotus, 'following Augustine', argues against the view that habit governs passions not seated in the will (edelheit2022:14374).",
+ "historiography": "Edelheit is the only scholar identified in the material consulted as discussing thesis 10; his contribution is to locate its source in Scotus's Lectura and to print the Scotist Latin beside Pico's, without addressing why Pico adopts the position against Thomas's (edelheit2022:14403).",
+ "connections": [
+  "2.34"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the virtues should be placed in the superior appetite",
+   "work": "edelheit2022",
+   "line": 14374,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico endorsed the Scotist position over Thomas's, or reported it neutrally as one option among the historical theses, is not stated in the material consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

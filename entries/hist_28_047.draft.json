@@ -1,0 +1,43 @@
+{
+ "thesis_id": "28.47",
+ "tier": "B",
+ "latin": "Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus.",
+ "latin_source": "farmer1998:18410",
+ "translation": "Through the word AMEN an order is expressed of how the influx of the numerations proceeds.",
+ "translation_note": "'numerationum' is rendered literally as 'numerations', and 'AMEN' left untranslated, following the Latin at farmer1998:18410; the packet consulted does not gloss either term for this thesis specifically.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18410",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18410).",
+ "sources": [
+  {
+   "text": "Menahem Recanati",
+   "locator": "farmer1998:18468",
+   "pico_relation": "Farmer's note states Recanati 'affords all that is needed for the interpretation of this thesis' per Wirszubski's discussion"
+  }
+ ],
+ "doctrine": "Farmer's note reads the thesis as reflecting 'the general idea that mystical secrets lay hidden in the primal language, Hebrew', cross-referring 28.33 (paraphrase, farmer1998:18468). He states that thesis 11>65 'throws further light on Pico's sense in this thesis', and that the underlying views can be correlated with Pico's theses on the powers of the 'leaders' and other henads drawn from Proclus, citing 24.27-29 (paraphrase, farmer1998:18468).",
+ "historiography": "Wirszubski quotes the thesis and states that 'Recanati affords all that is needed for the interpretation of this thesis', though the excerpt consulted breaks off before he supplies that interpretation (wirszubski1989:2978). Separately, he quotes the same conclusio again as his 'Conclusio xlvii' in a discussion of the Hebrew term kawwanah, following a passage on the term middah (wirszubski1989:7560, 7562).",
+ "connections": ["11>65", "24.27", "24.28", "24.29", "28.33"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Recanati affords all that is needed for the interpretation of this thesis.",
+   "work": "wirszubski1989",
+   "line": 2978,
+   "verbatim": true
+  },
+  {
+   "text": "Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus.",
+   "work": "wirszubski1989",
+   "line": 7562,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Wirszubski's interpretation of the thesis via Recanati, promised at wirszubski1989:2978, is not given in the excerpt consulted; not established further.",
+  "The relation between kawwanah and the thesis's content, at wirszubski1989:7560-7562, is not fully explained in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

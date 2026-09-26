@@ -1,0 +1,36 @@
+{
+ "thesis_id": "28.20",
+ "tier": "B",
+ "latin": "Cum fiet lux speculi non lucentis sicut speculi lucentis, erit nox sicut dies, ut dicit Dauid.",
+ "latin_source": "farmer1998:17951",
+ "translation": "When the light of the non-shining mirror becomes like that of the shining mirror, night will be as day, as David says.",
+ "translation_note": "'speculum lucens' / 'speculum non lucens' ('shining mirror' / 'mirror not shining') are, per Farmer, common symbols of the sixth and tenth sefirot respectively (farmer1998:17985); the Davidic reference is Ps. 139:12 (farmer1998:17985).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:17951",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17951).",
+ "sources": [],
+ "doctrine": "Farmer identifies the 'shining mirror' and the 'mirror not shining' as common symbols of the tenth and sixth sefirot and glosses 'night will be just like day' as an allusion to Psalm 139:12 (farmer1998:17985). He reads the thesis's eschatological sense as reinforced at 11>54, especially given Pico's regular association of Christ with the sixth sefirah, and notes that the Recanati passages Wirszubski cites help interpret Pico's text without themselves being claimable as his direct sources (farmer1998:17985).",
+ "context": "Farmer cross-references 11>54, a Cabalistic conclusion confirming the Christian religion, which holds that what the Cabalists call being beatified in the future age 'in the shining mirror put away for the saints' is, on their own premises, the same thing as being beatified as saints in the Son (farmer1998:27529).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis as his 'Conclusio XX' (wirszubski1989:2129) and follows it by remarking that, Kabbalistically speaking, the thesis states a truism (wirszubski1989:2132).",
+ "connections": [
+  "11>54"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Kabbalistically speaking, this thesis states a truism.",
+   "work": "wirszubski1989",
+   "line": 2132,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The remainder of Wirszubski's discussion following the remark quoted at wirszubski1989:2132 is not established by the material consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

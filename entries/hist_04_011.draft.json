@@ -1,0 +1,36 @@
+{
+ "thesis_id": "4.11",
+ "tier": "B",
+ "latin": "Gratia est subiectiue in uoluntate, non in essentia animae.",
+ "latin_source": "farmer1998:12252",
+ "translation": "Grace is present, as in its subject, in the will, not in the essence of the soul.",
+ "translation_note": "'Subiectiue': as in a subject, the scholastic technical sense (that in which an accident inheres), not the modern sense of 'subjectively'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12252",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12252).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Lectura 2, d. 26, q. unica (Opera omnia, vol. 19, Vatican City, 1993, p. 266)",
+   "locator": "edelheit2022:14455",
+   "pico_relation": "Edelheit identifies this question as the source of thesis 11's placement of grace in the will rather than the soul's essence"
+  }
+ ],
+ "doctrine": "The thesis addresses the ontological seat of grace: whether the supernatural quality of grace inheres in the will or in the essence of the soul itself. Farmer locates the Scotist discussion in the Ordinatio, book 2, distinction 26, question unica, and notes that Thomas holds 'the opposite view' in his commentary on the Sentences, without specifying the passage (farmer1998:12337). Edelheit confirms that according to thesis 11 grace is located in the will and not the soul's essence, and traces the claim to Scotus's Lectura, book 2, distinction 26, question unica, where Scotus determines the relations of the soul to grace and glory while refuting an opinion that the form constituting the soul in supernatural being resides in the soul's essence (edelheit2022:14427, 14455).",
+ "historiography": "Edelheit is the only scholar identified as treating thesis 11 in the material consulted; his contribution is the identification of the Scotist source rather than an assessment of Pico's own position (edelheit2022:14427).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "grace is located in a subjective manner in the will and not in the soul’s essence",
+   "work": "edelheit2022",
+   "line": 14427,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which passage of Thomas's Sentences commentary Farmer intends by 'Sent.' is not given in the note as excerpted (farmer1998:12337)."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

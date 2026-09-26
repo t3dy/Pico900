@@ -1,0 +1,41 @@
+{
+ "thesis_id": "5.1",
+ "tier": "B",
+ "latin": "Datur lumen superius lumine fidei, in quo Theologi uident ueritates theologicae scientiae.",
+ "latin_source": "farmer1998:12482",
+ "translation": "A light is granted that is higher than the light of faith, in which theologians behold the truths of theological science.",
+ "translation_note": "'Lumen fidei': the light of faith; the thesis posits a further, higher light by which theologians see theological truths, distinct from both natural reason and faith.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12482",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12482).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quaestiones ordinariae (Summa), art. 6, q. 1 (ed. Scarparius, Ferrara, 1642, vol. 2, f. 106)",
+   "locator": "edelheit2022:15260",
+   "pico_relation": "Edelheit identifies this question as the source of thesis 1's claim that a light superior to the light of faith reveals theological truths"
+  }
+ ],
+ "doctrine": "The thesis belongs to a series on illuminationism, the doctrine that some truths are known by a special divine light rather than by natural reason or the light of faith alone; Farmer cross-references theses 6.7 and 7.1, and adds 'cf. also 10.1' before the note is cut off in the material consulted (farmer1998:12524). Edelheit states that the thesis is 'basically present' in Henry of Ghent's Summa, article 6, question 1, where Henry distinguishes matters held by belief through faith from other matters known differently by theologians (edelheit2022:15243).",
+ "historiography": "Edelheit's identification of Henry's Summa article is the only scholarly treatment of this thesis among the sources consulted; he refers the reader to his own earlier study of Henry's reception by Pico for further discussion, without reproducing its findings here (edelheit2022:15260).",
+ "connections": [
+  "6.7",
+  "7.1",
+  "10.1"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "This thesis is basically present in Henry’s Summa, art. 6, q. 1",
+   "work": "edelheit2022",
+   "line": 15243,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The continuation of Farmer's cross-reference list after '10.1,' is cut off in the material consulted, and any further theses it named are not established.",
+  "Two further items in Farmer's note, transcribed in the packet as '4716' and '523', could not be reliably resolved to Farmer ids from the OCR and are not asserted as connections here."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

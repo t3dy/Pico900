@@ -1,0 +1,37 @@
+{
+ "thesis_id": "24.32",
+ "tier": "B",
+ "latin": "Tertia trinitas deorum supermundanorum dicitur Apollo, et conuersiuum ei appropriatur.",
+ "latin_source": "farmer1998:16475",
+ "translation": "The third triad of the supermundane gods is called Apollo, and the revertive property is assigned to it.",
+ "translation_note": "'Conversivum' names the reversion (epistrophe) member of the Neoplatonic remaining/procession/reversion triad, per the thesis's association of Apollo with a specific triadic rank (farmer1998:16511).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:16475",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus (farmer1998:16475).",
+ "sources": [
+  {
+   "text": "Proclus, Theologia Platonica 6 (pp. 376ff.)",
+   "locator": "farmer1998:16511",
+   "pico_relation": "Farmer cites this passage as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer draws the thesis from Proclus's Platonic Theology book 6 (farmer1998:16511).",
+ "context": "Farmer's cross-reference network links the thesis to 24.13, 24.14, 24.30, 24.4, and 3>6 on the same series of supermundane and intellectual trinities (farmer1998:16475).",
+ "reception": null,
+ "historiography": "Busi and Ebgi (2014) quote the thesis in their edition, near their discussion of Apolline solar symbolism drawn from Pico's Oration (busi2014:24389).",
+ "connections": [
+  "24.13",
+  "24.14",
+  "24.30",
+  "24.4",
+  "3>6"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Busi and Ebgi's own discussion of the thesis, beyond situating it near their treatment of Apolline symbolism in the Oration, is not given in the material consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

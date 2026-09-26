@@ -1,0 +1,22 @@
+{
+ "thesis_id": "3>13",
+ "tier": "B",
+ "latin": "Contradictoria in natura intellectuali se compatiuntur.",
+ "latin_source": "farmer1998:20445",
+ "translation": "Contradictories are compatible with each other in the intellectual nature.",
+ "translation_note": "'se compatiuntur' rendered 'are compatible with each other', kept reciprocal as in the Latin.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:20445",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:20445).",
+ "doctrine": "Farmer's note treats this thesis as opening a run, 3>13-18, and states that its immediate successor, 3>15, is 'regularly cited (originally by Cassirer and most recently by Wirszubski) as evidence of the influence on Pico of Nicholas of Cusa's coincidentia oppositorum', but argues that the idea common to Pico and Cusanus 'was a scholastic commonplace' rather than distinctively Cusan (paraphrase and quotation, farmer1998:20526). He directs the reader to thesis 2.31 for the implications of this run for traditional logic (paraphrase, farmer1998:20526).",
+ "historiography": "Steiris cites this thesis in a footnote on Anaxagoras and Heraclitus, in the same note as references to Cassirer's and Wirszubski's readings of Pico's relation to Cusanus and to Farmer's page 405 (steiris2014:375).",
+ "connections": ["2.31", "3>14", "3>15", "3>16", "3>17", "3>18", "3>52", "3>70", "4>2"],
+ "condemned_flag": false,
+ "not_established": [
+  "The specific point Steiris draws from citing this thesis, beyond its appearance in the footnote alongside Cassirer, Wirszubski, and Farmer, is not established from the excerpt consulted.",
+  "The scholastic sources Farmer has in mind for the 'scholastic commonplace' he opposes to a distinctively Cusan reading are not named in the excerpt consulted (he refers to a discussion elsewhere in his book, pp. 85-89, not itself consulted)."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

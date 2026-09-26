@@ -1,0 +1,38 @@
+{
+ "thesis_id": "24.17",
+ "tier": "B",
+ "latin": "Licet ut tradit theologia distinctae sint diuinae hierarchiae, intelligen-",
+ "latin_source": "farmer1998:16166",
+ "latin_note": "Farmer's own transcription verbatim breaks off mid-word ('intelligen-') at what appears to be an OCR line-join in the inventory extraction (farmer1998:16166). The continuation is not taken from farmer1998 but is independently and identically attested, as the same thesis ('Conclusiones secundum Proclum', no. 17), by Black ('...intelligendum est tamen omnia in omnibus esse modo suo.', black2006:8798) and by Wirszubski ('...intelligendum est tarnen omnia in omnibus esse modo suo.', wirszubski1989:12669, 'tarnen' apparently an OCR misreading of 'tamen'). A VERIFIER should confirm the complete sentence against farmer1998 directly.",
+ "translation": "Although, as theology teaches, the divine hierarchies are distinct, it must nevertheless be understood that all things are in all things, each in its own way.",
+ "translation_note": "Translates the complete sentence as attested by black2006:8798 and wirszubski1989:12669, since Farmer's own transcription at farmer1998:16166 breaks off before 'intelligendum'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:16166",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus (farmer1998:16166).",
+ "sources": [
+  {
+   "text": "Proclus, Theologia Platonica 5 (p. 275)",
+   "locator": "farmer1998:16201",
+   "pico_relation": "Farmer cites this passage of Proclus's Platonic Theology as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer cites Proclus's Platonic Theology book 5 (p. 275) as the thesis's source and points to further discussion of its syncretic background earlier in his own book, without specifying a page in the note itself (farmer1998:16201). Black situates the underlying formula against Syrianus's Commentary on Aristotle's Metaphysics (ed. Kroll, 1892, pp. 81-82), quoting a related Procline dictum, 'Primorum omnium quaedam sunt in quibusdam...', as part of the same tradition (black2006:8798).",
+ "context": "Farmer's cross-reference network links the thesis to 22.1-3 and 23.2 on the same theme of the world's craftsman and intellectual hierarchy (farmer1998:16166).",
+ "reception": null,
+ "historiography": "Wirszubski (1989) quotes the thesis while identifying it as one of 'two motifs' recurring together elsewhere in Pico's corpus, without the consulted excerpt specifying what the two motifs are (wirszubski1989:12669). Black (2006) quotes the thesis in a discussion tracing the 'omnia in omnibus' formula to the Proclus-Syrianus tradition of commentary on Aristotle's Metaphysics (black2006:8798).",
+ "connections": [
+  "22.1",
+  "22.2",
+  "22.3",
+  "23.2"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The specific 'two motifs' Wirszubski identifies as recurring together are not further specified in the material consulted, since the quoted excerpt breaks off (wirszubski1989:12669).",
+  "Farmer's cross-reference to further discussion 'above' in his own book is not specified by page in the material consulted (farmer1998:16201)."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

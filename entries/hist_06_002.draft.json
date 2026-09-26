@@ -1,0 +1,43 @@
+{
+ "thesis_id": "6.2",
+ "tier": "B",
+ "latin": "Theologia nec est practica nec speculatiua, sed affectiua.",
+ "latin_source": "farmer1998:12676",
+ "translation": "Theology is neither practical nor speculative, but affective.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12676",
+ "pico_stance": "reports",
+ "attribution": "Reports Giles of Rome (farmer1998:12676; edelheit2022:16066).",
+ "sources": [
+  {
+   "text": "Giles of Rome, In primum librum Sententiarum, prologue, question 3, article 4",
+   "locator": "edelheit2022:16066",
+   "pico_relation": "Edelheit's identified source: Giles there designates theology by charity, since charity is the end of Scripture"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis holds theology to be neither practical nor speculative, but affective, and locates this in Giles's commentary on the Sentences, book 1, prologue, question 3, article 4, where Giles reasons that since charity is simply the end of Scripture, and charity belongs to the affect rather than the intellect, theology should be designated by charity (paraphrase, edelheit2022:16066).",
+ "context": "Farmer's note states that this thesis begins, with 6.3, a series on the formal object of theology, cross-referencing 1>4 (reconciling Thomas, Scotus and Giles), 2>27, 3>8, 7a>37 (using Pico's 'via numerorum'), and 11>3 (involving the Cabala) (paraphrase, farmer1998:12710). Edelheit groups this thesis among the first seven of the eleven Giles theses, which he characterizes as theological, including the status of theology as a science (paraphrase, edelheit2022:15967).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 246 (edelheit2022:16095).",
+ "connections": [
+  "6.3",
+  "11>3",
+  "1>4",
+  "2>27",
+  "3>8",
+  "7a>37"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 2 states that theology is neither practical nor is it speculative, but rather it is affective.",
+   "work": "edelheit2022",
+   "line": 16066,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Farmer's note and Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

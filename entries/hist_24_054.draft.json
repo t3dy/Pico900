@@ -1,0 +1,35 @@
+{
+ "thesis_id": "24.54",
+ "tier": "B",
+ "latin": "Ambrosia est analoga termino, et nectar infinito.",
+ "latin_source": "farmer1998:16819",
+ "translation": "Ambrosia is analogous to limit, and nectar to the unlimited.",
+ "translation_note": "'Terminus'/'infinitum' render the Platonic-Pythagorean pair of limit and the unlimited that Farmer's note ties to thesis 24.1 (farmer1998:16870).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:16819",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus (farmer1998:16819).",
+ "sources": [
+  {
+   "text": "Proclus, Theologia Platonica 4 (p. 202)",
+   "locator": "farmer1998:16870",
+   "pico_relation": "Farmer cites this passage as the thesis's source"
+  }
+ ],
+ "doctrine": "Farmer draws the thesis from Proclus's Platonic Theology book 4, glossing 'ambrosia' and 'nectar' as the food the charioteer feeds his horses in Plato's Phaedrus myth, and 'limit'/'infinite' by comparison with thesis 24.1 (farmer1998:16870).",
+ "context": "Farmer's cross-reference network links the thesis to 24.4, 5>26 and 5>58 on related Platonic themes (farmer1998:16819).",
+ "reception": null,
+ "historiography": "Busi and Ebgi (2014) quote the thesis in their edition immediately following a passage on the philosopher's contemplative ascent toward 'the nectar of eternity' drawn from the Oration (busi2014:24370).",
+ "connections": [
+  "24.4",
+  "5>26",
+  "5>58"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "The relation Busi and Ebgi draw between this thesis and the surrounding Oration passage, beyond adjacency in their edition, is not given in the material consulted."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

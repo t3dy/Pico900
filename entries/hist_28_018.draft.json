@@ -1,0 +1,42 @@
+{
+ "thesis_id": "28.18",
+ "tier": "B",
+ "latin": "Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis generatio.",
+ "latin_source": "farmer1998:17858",
+ "translation": "Whoever unites with Tiferet at midnight, all his descendants will prosper.",
+ "translation_note": "'Tipheret' (Tiferet, 'Beauty') is the sixth sefirah (farmer1998:17932); 'copulabitur' renders a technical term for mystical or theurgic union rather than marriage, and 'generatio' is here taken as 'offspring/descendants' rather than as a single temporal 'generation'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch11, from Latin at farmer1998:17858",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:17858).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, Commentary on the Torah, fol. 213rb-va",
+   "locator": "wirszubski1989:2060",
+   "pico_relation": "given by Wirszubski as the source passage for the thesis"
+  }
+ ],
+ "doctrine": "Farmer glosses Tiferet as the sixth sefirah, already identified with the 'great Adam' at thesis 28.10, and reads the thesis as carrying mystical and magical overtones suggesting the soul's union with the purified man-as-microcosm (farmer1998:17932). He notes that Pico's second set of Cabalistic conclusions regularly associates Christ with the sixth sefirah, which he takes to reinforce this mystical sense here (farmer1998:17932).",
+ "context": "Farmer cross-references the thesis to the opening of Pico's magical conclusions (cf. 9>10ff.) as bearing on the same theurgic theme (farmer1998:17932); the thesis is also linked by its subject, the sixth sefirah, to 28.10, on the 'great Adam' who is Tiferet (farmer1998:17728).",
+ "reception": null,
+ "historiography": "Wirszubski transcribes the thesis as his 'Conclusio XVIII' and gives Recanati, fol. 213rb-va, as its source (wirszubski1989:2060).",
+ "connections": [
+  "28.10"
+ ],
+ "condemned_flag": false,
+ "commission_verdict": null,
+ "quotations": [
+  {
+   "text": "Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis generatio. Cf. Recanati, fol. 213rb-va:",
+   "work": "wirszubski1989",
+   "line": 2060,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Recanati's passage itself (fol. 213rb-va) beyond Wirszubski's citation of it is not established by the sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch11 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

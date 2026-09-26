@@ -1,0 +1,36 @@
+{
+ "thesis_id": "4.14",
+ "tier": "B",
+ "latin": "Post passionem Christi potuerunt cerimonialia ueteris legis sine peccato obseruari.",
+ "latin_source": "farmer1998:12262",
+ "translation": "After the passion of Christ, the ceremonial precepts of the old law could be observed without sin.",
+ "translation_note": "'Cerimonialia ueteris legis': the ceremonial precepts of the Mosaic law, as distinct from its moral precepts; 'vetus lex' designates the Old Testament dispensation.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch6, from Latin at farmer1998:12262",
+ "pico_stance": "reports",
+ "attribution": "Reports Scotus (farmer1998:12262).",
+ "sources": [
+  {
+   "text": "John Duns Scotus, Ordinatio 4, d. 3, q. 4 (Opera omnia, vol. 11, Vatican City, 2008, pp. 210–223)",
+   "locator": "edelheit2022:14553",
+   "pico_relation": "Edelheit and Farmer both identify this question, on the survival of Old Testament ceremonial precepts after Christ's Passion, as the source of thesis 14"
+  }
+ ],
+ "doctrine": "The thesis addresses whether the ceremonial precepts of the Old Testament remained licitly observable after Christ's Passion. Farmer states that the thesis stands 'in opposition to Thomas', citing Thomas's Summa theologiae 1a2ae, question 103, article 4, and locates the Scotist discussion at Ordinatio, book 4, distinction 3, question 4 (farmer1998:12345). Edelheit confirms that thesis 14 holds that after Christ's Passion the religious ceremonies of the Old Testament could still be preserved without sin, discussed by Scotus in that same question, where Scotus identifies an intermediate period in which the first Law had not yet been discarded (edelheit2022:14532).",
+ "historiography": "Edelheit notes that some aspects of Scotus's account of this issue 'are not reflected in Pico's thesis', though they 'might have played a part in his defending strategy during the public debate which was planned but never took place', suggesting Pico compressed or adapted his source (edelheit2022:14532).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "could still be preserved without a sin",
+   "work": "edelheit2022",
+   "line": 14532,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which aspects of Scotus's fuller account Pico omits, beyond Edelheit's general remark, is not specified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

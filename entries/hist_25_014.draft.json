@@ -1,0 +1,27 @@
+{
+ "thesis_id": "25.14",
+ "tier": "B",
+ "latin": "Quilibet numerus linearis symbolizat deos.",
+ "latin_source": "farmer1998:17025",
+ "latin_note": "The 1486 print reads 'Qilibet' for 'Quilibet' (farmer1998:17034).",
+ "translation": "Every linear number symbolizes the gods.",
+ "translation_note": "Farmer glosses 'numerus linearis' as 'prime number', literally a number divisible only by itself, hence a symbol for indivisible divine powers (farmer1998:17106).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch9, from Latin at farmer1998:17025",
+ "pico_stance": "reports",
+ "attribution": "Reports Pythagorean mathematics (farmer1998:17025).",
+ "doctrine": "Farmer glosses 'linear number' as meaning a prime number, and, without claiming it as Pico's actual source, compares Theon of Smyrna's Mathematics Useful for Understanding Plato 1.6 (farmer1998:17106).",
+ "context": "Farmer's cross-reference network links the thesis to 1.6 from Albert the Great (farmer1998:17025).",
+ "reception": null,
+ "historiography": "Allen (2017) cites this thesis together with 25.13, from Pico's Opera Omnia (Basel, 1572, p. 79), associating linear numbers in Ficino's Timaeus commentary with souls and minds mediating between center and circumference (allen2017:2688).",
+ "connections": [
+  "1.6"
+ ],
+ "condemned_flag": false,
+ "quotations": [],
+ "not_established": [
+  "Whether Theon of Smyrna is Pico's actual source, as opposed to a parallel Farmer cites for comparison, is explicitly left open by Farmer's own note (farmer1998:17106)."
+ ],
+ "writer": "WRITER-full-batch9 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
