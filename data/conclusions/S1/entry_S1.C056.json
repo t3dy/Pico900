@@ -4,7 +4,11 @@
   "order": 56,
   "latin_incipit": "",
   "incipit_verified": false,
-  "english_translation": "",
+  "english_translation": {
+    "text": "[NEEDS_TRANSLATION: incipit not yet sourced from critical edition]",
+    "source": "pending_critical_edition",
+    "translator": "pending"
+  },
   "translation_source": null,
   "translation_translator": null,
   "philosophical_theme": "CLUSTER: Soul's faculties — Intellect, reason, sensation, imagination, memory; levels of consciousness",
@@ -60,6 +64,8 @@
     "theme": "Soul's Faculties and Descent",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:02:44.785184",
-  "_sourcing_phase": 2
+  "updated_date": "2026-09-26T02:08:23.982741",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Intellect within the Neoplatonism tradition."
 }

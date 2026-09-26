@@ -1,42 +1,44 @@
-﻿{
-    "commentary":  "Amplification of I.8.1: composite syllogisms permit logical operations (specifically, negative premises leading to conclusion) forbidden in Aristotelian categorical logic. This flexibility opens reasoning to non-standard modes essential for prophecy, astrology, and esoteric hermeneutics.",
-    "scholar_citations":  [
-                              {
-                                  "verified":  false,
-                                  "quotation":  "Pico\u0027s reception of Avicennan logic reflects his broader project of expanding philosophical reasoning to encompass occult, liminal, and divinary knowledge.",
-                                  "work":  "Syncretism in the West: Pico\u0027s Platform (1998)",
-                                  "scholar":  "Farmer, S. A.",
-                                  "page":  "TBD"
-                              },
-                              {
-                                  "verified":  false,
-                                  "quotation":  "[TO SOURCE on modal logic and magical reasoning]",
-                                  "work":  "The Arabic Influences on Early Modern Occult Philosophy (2015)",
-                                  "scholar":  "Saif, Liana",
-                                  "page":  "TBD"
-                              }
-                          ],
-    "latin_incipit":  "Licet in nullo syllogismo qui sit actu vel potentia categoricus ex duabus negativis concludi possit: potest tamen hoc fieri in syllogismo compositivo: ut scilicet ex duabus negativis concludatur.",
-    "incipit_id":  "I.8.2",
-    "charge":  "Classical Aristotelian logic forbids conclusion from two negative premises.",
-    "section_id":  "S4",
-    "conclusion_id":  "S4.C002",
-    "section":  "Conclusiones secundum Avicennam",
-    "defense":  "Avicenna demonstrates that composite syllogisms follow valid principles and enable reasoning about modal necessities, contingencies, and prophetic knowledge where classical logic proves insufficient.",
-    "status":  "standardized",
-    "commentary_status":  "sourced_quotations",
-    "heretical_flag":  false,
-    "latin_source":  "Farmer critical edition (1998)",
-    "tags":  [
-                 "logic",
-                 "modal-reasoning",
-                 "avicennian-logic",
-                 "prophecy-epistemology"
-             ],
-    "latin_verified":  true,
-    "english_translation":  {
-                                "translator":  "LLM",
-                                "source":  "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
-                                "text":  "Although in no actual or potential categorical syllogism can a conclusion be drawn from two negatives, this can occur in a compositive syllogism: namely, a conclusion from two negative premises."
-                            }
+{
+  "commentary": "Amplification of I.8.1: composite syllogisms permit logical operations (specifically, negative premises leading to conclusion) forbidden in Aristotelian categorical logic. This flexibility opens reasoning to non-standard modes essential for prophecy, astrology, and esoteric hermeneutics.",
+  "scholar_citations": [
+    {
+      "verified": false,
+      "quotation": "Pico's reception of Avicennan logic reflects his broader project of expanding philosophical reasoning to encompass occult, liminal, and divinary knowledge.",
+      "work": "Syncretism in the West: Pico's Platform (1998)",
+      "scholar": "Farmer, S. A.",
+      "page": "TBD"
+    },
+    {
+      "verified": false,
+      "quotation": "[TO SOURCE on modal logic and magical reasoning]",
+      "work": "The Arabic Influences on Early Modern Occult Philosophy (2015)",
+      "scholar": "Saif, Liana",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Licet in nullo syllogismo qui sit actu vel potentia categoricus ex duabus negativis concludi possit: potest tamen hoc fieri in syllogismo compositivo: ut scilicet ex duabus negativis concludatur.",
+  "incipit_id": "I.8.2",
+  "charge": "Classical Aristotelian logic forbids conclusion from two negative premises.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C002",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna demonstrates that composite syllogisms follow valid principles and enable reasoning about modal necessities, contingencies, and prophetic knowledge where classical logic proves insufficient.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "logic",
+    "modal-reasoning",
+    "avicennian-logic",
+    "prophecy-epistemology"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "Although in no actual or potential categorical syllogism can a conclusion be drawn from two negatives, this can occur in a compositive syllogism: namely, a conclusion from two negative premises."
+  },
+  "updated_date": "2026-09-26T02:08:24.109469",
+  "exegesis": "Pico's conclusion on Causation within the Avicennism (Islamic Philosophy) tradition."
 }

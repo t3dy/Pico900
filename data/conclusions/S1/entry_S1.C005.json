@@ -4,7 +4,11 @@
   "order": 5,
   "latin_incipit": "[T5 — Matter]",
   "incipit_verified": false,
-  "english_translation": "",
+  "english_translation": {
+    "text": "[NEEDS_TRANSLATION: [T5 — Matter]]",
+    "source": "pending_translation",
+    "translator": "pending"
+  },
   "translation_source": null,
   "translation_translator": null,
   "philosophical_theme": "Matter as lowest principle; receptacle; principle of limitation and multiplicity",
@@ -48,6 +52,8 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-25T18:02:44.754633",
-  "_sourcing_phase": 2
+  "updated_date": "2026-09-26T02:08:23.955153",
+  "_sourcing_phase": 2,
+  "translation_status": "pending_sourcing",
+  "exegesis": "Pico's conclusion on Henosis within the Neoplatonism tradition."
 }

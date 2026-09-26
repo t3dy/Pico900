@@ -1,0 +1,34 @@
+{
+  "conclusion_id": "S8.C008",
+  "section": "S8",
+  "order": 8,
+  "section_name": "Secundum Isaac Narbonensem et Abumaron",
+  "topic": "Medieval Jewish Philosophers",
+  "latin_incipit": "[TO BE SOURCED FROM CRITICAL EDITION]",
+  "incipit_verified": false,
+  "english_translation": {
+    "text": "[NEEDS_TRANSLATION: [TO BE SOURCED FROM CRITICAL EDITION]]",
+    "source": "pending_translation",
+    "translator": "pending"
+  },
+  "translation_source": null,
+  "translation_translator": null,
+  "exegesis": "Pico's conclusion on Mysticism within the Medieval Jewish Philosophy tradition.",
+  "commentary_status": "unstarted",
+  "charge": "Imports Jewish metaphysics into Christian system",
+  "defense": "Jewish philosophical tradition offers rigorous monotheistic metaphysics",
+  "scholar_citations": [],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "Neoplatonism",
+    "Kabbalah",
+    "Mysticism",
+    "pico900"
+  ],
+  "status": "unstarted",
+  "notes": "",
+  "created_date": "2026-09-26T02:07:15.341255",
+  "updated_date": "2026-09-26T02:08:24.291343",
+  "translation_status": "pending_sourcing"
+}

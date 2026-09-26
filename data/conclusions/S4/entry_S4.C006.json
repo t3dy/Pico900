@@ -1,42 +1,44 @@
-﻿{
-    "commentary":  "Classic Avicennian definition of composite essence. Unlike Platonic essences, Avicenna insists full definition requires both matter and form, grounding essence in world of generation and corruption. Pico adopts this to undergird metaphysical realism while allowing for spiritual ascent and individuation. Central to essence/existence distinction debates.",
-    "scholar_citations":  [
-                              {
-                                  "verified":  true,
-                                  "quotation":  "The vocabulary of necessity and possibility in Pico\u0027s discussion of the relation between God and creatures maps onto the scholastic distinction between ens a se and ens ab alio, a distinction whose Arabic articulation passes through Avicenna\u0027s necessary/possible dyad.",
-                                  "work":  "Scholasticism and Mysticism in Medieval Intellectual Culture (2008)",
-                                  "scholar":  "Edelheit, Oren",
-                                  "page":  "157"
-                              },
-                              {
-                                  "verified":  true,
-                                  "quotation":  "The metaphysical contribution of Avicenna that Pico draws upon beyond the explicit theses is the distinction between essence (mahiyya, quidditas) and existence (wujud, esse) as constitutive of all created beings.",
-                                  "work":  "Avicenna concept page",
-                                  "scholar":  "PicoDB avicenna.md",
-                                  "page":  "TBD"
-                              }
-                          ],
-    "latin_incipit":  "Essentia rei: materiam propriam et formam complectitur.",
-    "incipit_id":  "I.8.6",
-    "charge":  "Platonic and some Christian thinkers held essence to be immaterial, transcendent form.",
-    "section_id":  "S4",
-    "conclusion_id":  "S4.C006",
-    "section":  "Conclusiones secundum Avicennam",
-    "defense":  "Avicenna\u0027s composite definition reconciles Aristotelian metaphysics with Christian doctrine of creation: all created things, including matter, participate in being through conjunction of form and matter. Preserves both realism and possibility of ascent.",
-    "status":  "standardized",
-    "commentary_status":  "sourced_quotations",
-    "heretical_flag":  false,
-    "latin_source":  "Farmer critical edition (1998)",
-    "tags":  [
-                 "metaphysics",
-                 "essence-existence",
-                 "hylomorphism",
-                 "scholastic-synthesis"
-             ],
-    "latin_verified":  true,
-    "english_translation":  {
-                                "translator":  "LLM",
-                                "source":  "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
-                                "text":  "The essence of a thing comprises its proper matter and form."
-                            }
+{
+  "commentary": "Classic Avicennian definition of composite essence. Unlike Platonic essences, Avicenna insists full definition requires both matter and form, grounding essence in world of generation and corruption. Pico adopts this to undergird metaphysical realism while allowing for spiritual ascent and individuation. Central to essence/existence distinction debates.",
+  "scholar_citations": [
+    {
+      "verified": true,
+      "quotation": "The vocabulary of necessity and possibility in Pico's discussion of the relation between God and creatures maps onto the scholastic distinction between ens a se and ens ab alio, a distinction whose Arabic articulation passes through Avicenna's necessary/possible dyad.",
+      "work": "Scholasticism and Mysticism in Medieval Intellectual Culture (2008)",
+      "scholar": "Edelheit, Oren",
+      "page": "157"
+    },
+    {
+      "verified": true,
+      "quotation": "The metaphysical contribution of Avicenna that Pico draws upon beyond the explicit theses is the distinction between essence (mahiyya, quidditas) and existence (wujud, esse) as constitutive of all created beings.",
+      "work": "Avicenna concept page",
+      "scholar": "PicoDB avicenna.md",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Essentia rei: materiam propriam et formam complectitur.",
+  "incipit_id": "I.8.6",
+  "charge": "Platonic and some Christian thinkers held essence to be immaterial, transcendent form.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C006",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna's composite definition reconciles Aristotelian metaphysics with Christian doctrine of creation: all created things, including matter, participate in being through conjunction of form and matter. Preserves both realism and possibility of ascent.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "metaphysics",
+    "essence-existence",
+    "hylomorphism",
+    "scholastic-synthesis"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "The essence of a thing comprises its proper matter and form."
+  },
+  "updated_date": "2026-09-26T02:08:24.111209",
+  "exegesis": "Pico's conclusion on Causation within the Avicennism (Islamic Philosophy) tradition."
 }

@@ -1,36 +1,38 @@
-﻿{
-    "commentary":  "Avicenna\u0027s careful physiological work from Canon of Medicine and De Anima. Distinction between real being and intentional being of odor reflects epistemology: a thing exists as physical object AND as perceived form. Supports scientific foundation for spiritual and magical theories of sensation. Shows how olfactory perception bridges physical and intentional realms.",
-    "scholar_citations":  [
-                              {
-                                  "verified":  false,
-                                  "quotation":  "[TO SOURCE on Avicennian physiology and magical perception]",
-                                  "work":  "The Arabic Influences on Early Modern Occult Philosophy (2015)",
-                                  "scholar":  "Saif, Liana",
-                                  "page":  "TBD"
-                              }
-                          ],
-    "latin_incipit":  "Odor secundum esse reale et non intentionale usque ad sensum multiplicatur.",
-    "incipit_id":  "I.8.9",
-    "charge":  "Some held that sensible qualities exist only intentionally in the mind, not really in the world.",
-    "section_id":  "S4",
-    "conclusion_id":  "S4.C009",
-    "section":  "Conclusiones secundum Avicennam",
-    "defense":  "Avicenna demonstrates that sensible qualities possess real being that extends to the sense organ, enabling actual causation and interaction between external object and internal perception. Foundation for understanding magical correspondences as real physical influence.",
-    "status":  "standardized",
-    "commentary_status":  "sourced_quotations",
-    "heretical_flag":  false,
-    "latin_source":  "Farmer critical edition (1998)",
-    "tags":  [
-                 "epistemology",
-                 "sensation",
-                 "odor-theory",
-                 "intentional-being",
-                 "perception-physics"
-             ],
-    "latin_verified":  true,
-    "english_translation":  {
-                                "translator":  "LLM",
-                                "source":  "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
-                                "text":  "Odor, in its real being (not just intentional being), is multiplied all the way to the sense organ."
-                            }
+{
+  "commentary": "Avicenna's careful physiological work from Canon of Medicine and De Anima. Distinction between real being and intentional being of odor reflects epistemology: a thing exists as physical object AND as perceived form. Supports scientific foundation for spiritual and magical theories of sensation. Shows how olfactory perception bridges physical and intentional realms.",
+  "scholar_citations": [
+    {
+      "verified": false,
+      "quotation": "[TO SOURCE on Avicennian physiology and magical perception]",
+      "work": "The Arabic Influences on Early Modern Occult Philosophy (2015)",
+      "scholar": "Saif, Liana",
+      "page": "TBD"
+    }
+  ],
+  "latin_incipit": "Odor secundum esse reale et non intentionale usque ad sensum multiplicatur.",
+  "incipit_id": "I.8.9",
+  "charge": "Some held that sensible qualities exist only intentionally in the mind, not really in the world.",
+  "section_id": "S4",
+  "conclusion_id": "S4.C009",
+  "section": "Conclusiones secundum Avicennam",
+  "defense": "Avicenna demonstrates that sensible qualities possess real being that extends to the sense organ, enabling actual causation and interaction between external object and internal perception. Foundation for understanding magical correspondences as real physical influence.",
+  "status": "standardized",
+  "commentary_status": "sourced_quotations",
+  "heretical_flag": false,
+  "latin_source": "Farmer critical edition (1998)",
+  "tags": [
+    "epistemology",
+    "sensation",
+    "odor-theory",
+    "intentional-being",
+    "perception-physics"
+  ],
+  "latin_verified": true,
+  "english_translation": {
+    "translator": "LLM",
+    "source": "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+    "text": "Odor, in its real being (not just intentional being), is multiplied all the way to the sense organ."
+  },
+  "updated_date": "2026-09-26T02:08:24.112508",
+  "exegesis": "Pico's conclusion on Divine Attributes within the Avicennism (Islamic Philosophy) tradition."
 }
