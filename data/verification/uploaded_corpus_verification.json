@@ -1,5 +1,35 @@
 [
  {
+  "file": "entries/hist_01_001.draft.json",
+  "thesis_id": "1.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_002.draft.json",
+  "thesis_id": "1.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_003.draft.json",
+  "thesis_id": "1.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_004.draft.json",
+  "thesis_id": "1.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_005.draft.json",
+  "thesis_id": "1.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_006.draft.json",
+  "thesis_id": "1.6",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/hist_01_007.draft.json",
   "thesis_id": "1.7",
   "quotations_checked": [
@@ -49,6 +79,27 @@
   ]
  },
  {
+  "file": "entries/hist_01_011.draft.json",
+  "thesis_id": "1.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_012.draft.json",
+  "thesis_id": "1.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_01_013.draft.json",
+  "thesis_id": "1.13",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 13 we find that it is possible that sense would concur with the retention of species in a ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_01_014.draft.json",
   "thesis_id": "1.14",
   "quotations_checked": [
@@ -60,12 +111,285 @@
   ]
  },
  {
+  "file": "entries/hist_01_015.draft.json",
+  "thesis_id": "1.15",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 15 states that the consideration of the body (that in which it is a body) is a consideration ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_01_016.draft.json",
+  "thesis_id": "1.16",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 16 we find that potency regarding matter does not add anything to matter beyond reason.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_001.draft.json",
+  "thesis_id": "2.1",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 1 states that if the Spirit did not proceed from the Son, it would not be distinguished from ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_002.draft.json",
+  "thesis_id": "2.2",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 2 we find that the temporal procession of the Holy Spirit is extended according to the gif",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_003.draft.json",
+  "thesis_id": "2.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 3 states that the contingent existence of things which are, will be and were, since they were",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_004.draft.json",
+  "thesis_id": "2.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 4 emphasizes that the contingent nature for us of each of the future contingencies, is from G",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_005.draft.json",
+  "thesis_id": "2.5",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 5 states that, whatever future contingency God knows is known to Him in a necessary fashion.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_006.draft.json",
+  "thesis_id": "2.6",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 6 Pico states that the reason of the predestination of some and the reprobation of others ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_007.draft.json",
+  "thesis_id": "2.7",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 7 we find that, although the will of God will always be fulfilled, yet it does not impose ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_008.draft.json",
+  "thesis_id": "2.8",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 8 takes us to issues pertaining to grace, salvation, and the absolute power of God.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_009.draft.json",
+  "thesis_id": "2.9",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "It states that an act which was performed by a soul which was formed with charity is worthy of etern",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_010.draft.json",
+  "thesis_id": "2.10",
+  "quotations_checked": [
+   {
+    "work": "copenhaver2022",
+    "text": "The three divine persons together could have supposited a single nature.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 10 brings us again to Trinitarian theology and speculations. We find there that the three div",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_011.draft.json",
+  "thesis_id": "2.11",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Moral and cardinal virtues are at the centre of thesis 11. It states that moral and cardinal virtues",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_012.draft.json",
+  "thesis_id": "2.12",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 12 leads us to considering the relation between beatitude, intellectual activity and the acti",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Beatitudo est essentialiter in actu intellectus. Correlarium: Nec fruitio, nec aliquis actus volunta",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_013.draft.json",
+  "thesis_id": "2.13",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 13 is a declaration concerning the sacraments of the New Testament.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_014.draft.json",
+  "thesis_id": "2.14",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "It states that the true body of Christ is locally in heaven, but sacramentally it is in the altar.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_015.draft.json",
+  "thesis_id": "2.15",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "It states that the incapacity of bodies for suffering after resurrection is the result of the comple",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_016.draft.json",
+  "thesis_id": "2.16",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 16 states that Christ in the final judgement will judge not only in human nature but also acc",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Christus in ultimo iudicio iudicabit non solum in natura humana, sed etiam secundum naturam humanam.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_017.draft.json",
+  "thesis_id": "2.17",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 17 is somewhat complex in its structure and it brings us to consider the concept of creation,",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_018.draft.json",
+  "thesis_id": "2.18",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 18 states that in an angel, who is more blessed, time should be regarded in a subjective mann",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_019.draft.json",
+  "thesis_id": "2.19",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 19 takes us to the heart of the intellect-will debate, and also, as we shall shortly see, to ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_02_020.draft.json",
   "thesis_id": "2.20",
   "quotations_checked": [
    {
     "work": "edelheit2022",
     "text": "The first thesis at stake confronts the notion of the power of God with the problems of the possibil",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_021.draft.json",
+  "thesis_id": "2.21",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 21 brings us again to angelology.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "It states that there can be no plurification (that is, differentiation into many instances) of angel",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_022.draft.json",
+  "thesis_id": "2.22",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 22 examines an epistemological issue concerning the perception of God.",
     "status": "FOUND_EXACT"
    }
   ]
@@ -93,12 +417,176 @@
   ]
  },
  {
+  "file": "entries/hist_02_025.draft.json",
+  "thesis_id": "2.25",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 25 states that form is generated by accident.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_026.draft.json",
+  "thesis_id": "2.26",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 26 brings us to Thomas's famous definition of the principle individuation as signed matter.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_027.draft.json",
+  "thesis_id": "2.27",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 27 we find that the same amount of quality is found from the beginning and until the end o",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "According to Caroti, this thesis reflects a common view among commentators on Aristotle",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_028.draft.json",
+  "thesis_id": "2.28",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 28 takes us away from Aristotelian physics and, similarly to thesis 19, back to the intellect",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "It states that the whole of liberty consists essentially in reason.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_02_029.draft.json",
   "thesis_id": "2.29",
   "quotations_checked": [
    {
     "work": "edelheit2022",
     "text": "Pico’s thesis is thus in agreement with Thomas’s view",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_030.draft.json",
+  "thesis_id": "2.30",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Pico is using his own terminology (conceptus interuniti).",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_031.draft.json",
+  "thesis_id": "2.31",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "possum enim intelligere quid est homo vel fenix et tamen ignorare an esse habeat in rerum natura",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_032.draft.json",
+  "thesis_id": "2.32",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Unde sciendum, quod ipsa conceptio intellectus tripliciter se habet ad rem quae est extra animam",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_033.draft.json",
+  "thesis_id": "2.33",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "impossibile est aliquid idem affirmare et negare; sed si in aliquo distinguantur affirmationes et ne",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_034.draft.json",
+  "thesis_id": "2.34",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Unde cum, sicut dictum est, obiectum voluntatis sit bonum rationis voluntati proportionatum, quantum",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_035.draft.json",
+  "thesis_id": "2.35",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Haec propositio: Homo est risibilis, non est in secundo modo dicendi per se.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_036.draft.json",
+  "thesis_id": "2.36",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "quaecumque conjunguntur et separantur ab invicem, manentia eadem numero, non sunt",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_037.draft.json",
+  "thesis_id": "2.37",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Caroti has shown that this thesis is found in the Auctoritates Aristotelis",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_038.draft.json",
+  "thesis_id": "2.38",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "why, Thomas concludes, heavy and light bodies are moved by an external or generating mover which pro",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_039.draft.json",
+  "thesis_id": "2.39",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Phantasma est agens secundarium et instrumentale in productione speciei intelligibilis.",
     "status": "FOUND_EXACT"
    }
   ]
@@ -120,12 +608,99 @@
   ]
  },
  {
+  "file": "entries/hist_02_041.draft.json",
+  "thesis_id": "2.41",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Et propter hoc quidam potentias animae sensibiles distinguunt: dicunt enim, has esse duplices: quasd",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_042.draft.json",
+  "thesis_id": "2.42",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "This seems like an obvious conclusion which can be drawn from different discussions of Thomas – foll",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_043.draft.json",
+  "thesis_id": "2.43",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Deus non potest facere contradictoria esse simul. Sed materiam esse sine forma implicat contradictio",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Contra 43am conclusionem, que in forma sic habetur: ‘Implicat contradictionem materiam esse sine for",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_02_044.draft.json",
+  "thesis_id": "2.44",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Nos autem ponimus materiam esse causatam a Deo; unde necesse est ponere quod aliquo modo sit eius id",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_02_045.draft.json",
   "thesis_id": "2.45",
   "quotations_checked": [
    {
     "work": "edelheit2022",
     "text": "Thesis 45 states that we should not assume ideas of genera.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_03_001.draft.json",
+  "thesis_id": "3.1",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 1 we find that the proposition ‘essence generates’ is false since essence is completely ab",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "But why this thesis opens with the adverb ideo (therefore), suggesting a continuation from a previou",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_03_002.draft.json",
+  "thesis_id": "3.2",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "According to Pico it is possible that essence could be seen without Persons, and that one Person cou",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_03_003.draft.json",
+  "thesis_id": "3.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 3 takes us straight to the heart of the Scotist school. We find there that the will is able n",
     "status": "FOUND_EXACT"
    }
   ]
@@ -142,12 +717,126 @@
   ]
  },
  {
+  "file": "entries/hist_03_005.draft.json",
+  "thesis_id": "3.5",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 5 we learn that quiddities formally hold their existence by them- selves and from eternity",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_03_006.draft.json",
   "thesis_id": "3.6",
   "quotations_checked": [
    {
     "work": "edelheit2022",
     "text": "In the case of thesis 6 we do seem to have a problem since the opposite idea is found in Francis’s w",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_03_007.draft.json",
+  "thesis_id": "3.7",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 7 states that plurality of formalities stands with real identity.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_03_008.draft.json",
+  "thesis_id": "3.8",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 8 we find that existence is not about the quiddity of God but rather it is said about God ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_001.draft.json",
+  "thesis_id": "4.1",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 1 we read that charity (caritas) should not be regarded as a dif- ferent habit from the ha",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_002.draft.json",
+  "thesis_id": "4.2",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 2 takes us to the process of divine intellection. We find there that the idea of a stone is n",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_003.draft.json",
+  "thesis_id": "4.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 3 we find that arguing that the three Persons in the Trinity are distinguished in divine a",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "It clearly implies that although the view that the Persons in the Trinity are dis- tinguished by abs",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_004.draft.json",
+  "thesis_id": "4.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 4 declares that in Christ there were two forms of existence.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Here Scotus distinguishes between duo esse and duo entia and between human and divine existence.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_005.draft.json",
+  "thesis_id": "4.5",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 5 brings us to the tension between the two principal mental faculties in the human soul: the ",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "this might be the result of manuscript readings which were known to Pico but were rejected by the ed",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_006.draft.json",
+  "thesis_id": "4.6",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 6 deals with the principle of individuation. It states that any indi- viduum is an individuum",
     "status": "FOUND_EXACT"
    }
   ]
@@ -164,6 +853,301 @@
    {
     "work": "edelheit2022",
     "text": "yet another indication of the concatenatio, an internal connection between different theses",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_008.draft.json",
+  "thesis_id": "4.8",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "What we have here is an obvious connection between differ- ent theses, yet another indication of the",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_009.draft.json",
+  "thesis_id": "4.9",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 9 states that in Christ there was no acquired knowledge.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Hic distinguitur de cognitione infusa et acquisita.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_010.draft.json",
+  "thesis_id": "4.10",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "the virtues should be placed in the superior appetite",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_011.draft.json",
+  "thesis_id": "4.11",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "grace is located in a subjective manner in the will and not in the soul’s essence",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_012.draft.json",
+  "thesis_id": "4.12",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 12 states that the body of Christ was in itself incapable of suffering",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_013.draft.json",
+  "thesis_id": "4.13",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "it is possible, thanks to the absolute power of God, for the Original Sin to be eliminated without t",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_014.draft.json",
+  "thesis_id": "4.14",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "could still be preserved without a sin",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_015.draft.json",
+  "thesis_id": "4.15",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "there can be no valid consecration",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_016.draft.json",
+  "thesis_id": "4.16",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Pico was familiar with this discussion in Scotus",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_017.draft.json",
+  "thesis_id": "4.17",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "thesis 17 derives, to some extent, from the same discussion",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "any other relation is really (realiter) distinguished from a foundation",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_018.draft.json",
+  "thesis_id": "4.18",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "According to thesis 18 anything can move itself from virtual act to formal act",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_019.draft.json",
+  "thesis_id": "4.19",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "the act of understanding results from the object",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_020.draft.json",
+  "thesis_id": "4.20",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "the act of understanding is caused in a nobler fashion when it results from the intellect than when ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_021.draft.json",
+  "thesis_id": "4.21",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 21 states that substance is not known through its proper species",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_04_022.draft.json",
+  "thesis_id": "4.22",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 22 states that habit produces an act as a partial and effective cause",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "in Pico we have habitus … ut causa partialis effectiva, in Scotus we find habitus est causa partiali",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_001.draft.json",
+  "thesis_id": "5.1",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "This thesis is basically present in Henry’s Summa, art. 6, q. 1",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_002.draft.json",
+  "thesis_id": "5.2",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "paternity is the principle of producing in the Father",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_003.draft.json",
+  "thesis_id": "5.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 3 states that processions in the Trinity are conducted by the divine intellect and the divine",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_004.draft.json",
+  "thesis_id": "5.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 4 we find that this proposition should not be accepted: ‘the Father is the essence of the ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_005.draft.json",
+  "thesis_id": "5.5",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "It states that demons and sinful souls suffer from fire, inasmuch as it is hot, by a suffering of th",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_006.draft.json",
+  "thesis_id": "5.6",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 6 we find that operations of angels are measured by definite time.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_007.draft.json",
+  "thesis_id": "5.7",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "According to thesis 7 angels understand through a scientific habit which is natural to them.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_008.draft.json",
+  "thesis_id": "5.8",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 8 states that irascible and concupiscent [powers] are divided in the same way in both the sup",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Irascibilis et concupiscibilis ita distinguuntur in appetitu superi- ori sicut in inferiori.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_009.draft.json",
+  "thesis_id": "5.9",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 9 we find that having some specific and definable reality is common to both imaginary and ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_05_010.draft.json",
+  "thesis_id": "5.10",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 10 simply states that friendship is a virtue.",
     "status": "FOUND_EXACT"
    }
   ]
@@ -212,6 +1196,50 @@
   ]
  },
  {
+  "file": "entries/hist_06_001.draft.json",
+  "thesis_id": "6.1",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 1 is relatively long and rather complicated.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_06_002.draft.json",
+  "thesis_id": "6.2",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 2 states that theology is neither practical nor is it speculative, but rather it is affective",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_06_003.draft.json",
+  "thesis_id": "6.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "In thesis 3 we find that God as glorifier is the subject of theology.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_06_004.draft.json",
+  "thesis_id": "6.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 4 takes us to Trinitarian theology and to the manner in which plural- ity can or cannot be at",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_06_005.draft.json",
   "thesis_id": "6.5",
   "quotations_checked": [
@@ -229,6 +1257,17 @@
    {
     "work": "edelheit2022",
     "text": "Thesis 6 is directly connected to the previous thesis through the adverb ‘therefore’ (ideo).",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_06_007.draft.json",
+  "thesis_id": "6.7",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Thesis 7 declares that superior angel illuminates inferior angel not because it presents to it a lum",
     "status": "FOUND_EXACT"
    }
   ]
@@ -298,6 +1337,1389 @@
   ]
  },
  {
+  "file": "entries/hist_07_001.draft.json",
+  "thesis_id": "7.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_002.draft.json",
+  "thesis_id": "7.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_003.draft.json",
+  "thesis_id": "7.3",
+  "quotations_checked": [
+   {
+    "work": "black2006",
+    "text": "Felicitas ultima hominis est, cum continuatur intellectus agens possibili, ut forma, quam continuati",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_07_004.draft.json",
+  "thesis_id": "7.4",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "this conclusion, attributed to Averroës, overstates his position considerably",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_07_005.draft.json",
+  "thesis_id": "7.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_006.draft.json",
+  "thesis_id": "7.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_007.draft.json",
+  "thesis_id": "7.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_008.draft.json",
+  "thesis_id": "7.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_009.draft.json",
+  "thesis_id": "7.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_010.draft.json",
+  "thesis_id": "7.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_011.draft.json",
+  "thesis_id": "7.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_012.draft.json",
+  "thesis_id": "7.12",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Pico mentions some of these issues in thesis 11 according to Giles of Rome and in thesis 12 accordin",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Gravia et levia movent se per accidens movendo medium per se",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_07_013.draft.json",
+  "thesis_id": "7.13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_014.draft.json",
+  "thesis_id": "7.14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_015.draft.json",
+  "thesis_id": "7.15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_016.draft.json",
+  "thesis_id": "7.16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_017.draft.json",
+  "thesis_id": "7.17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_018.draft.json",
+  "thesis_id": "7.18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_019.draft.json",
+  "thesis_id": "7.19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_020.draft.json",
+  "thesis_id": "7.20",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_021.draft.json",
+  "thesis_id": "7.21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_022.draft.json",
+  "thesis_id": "7.22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_023.draft.json",
+  "thesis_id": "7.23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_024.draft.json",
+  "thesis_id": "7.24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_025.draft.json",
+  "thesis_id": "7.25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_026.draft.json",
+  "thesis_id": "7.26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_027.draft.json",
+  "thesis_id": "7.27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_028.draft.json",
+  "thesis_id": "7.28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_029.draft.json",
+  "thesis_id": "7.29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_030.draft.json",
+  "thesis_id": "7.30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_031.draft.json",
+  "thesis_id": "7.31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_032.draft.json",
+  "thesis_id": "7.32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_033.draft.json",
+  "thesis_id": "7.33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_034.draft.json",
+  "thesis_id": "7.34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_035.draft.json",
+  "thesis_id": "7.35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_036.draft.json",
+  "thesis_id": "7.36",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_037.draft.json",
+  "thesis_id": "7.37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_038.draft.json",
+  "thesis_id": "7.38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_039.draft.json",
+  "thesis_id": "7.39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_040.draft.json",
+  "thesis_id": "7.40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_07_041.draft.json",
+  "thesis_id": "7.41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_001.draft.json",
+  "thesis_id": "8.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_002.draft.json",
+  "thesis_id": "8.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_003.draft.json",
+  "thesis_id": "8.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_004.draft.json",
+  "thesis_id": "8.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_005.draft.json",
+  "thesis_id": "8.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_006.draft.json",
+  "thesis_id": "8.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_007.draft.json",
+  "thesis_id": "8.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_008.draft.json",
+  "thesis_id": "8.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_009.draft.json",
+  "thesis_id": "8.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_010.draft.json",
+  "thesis_id": "8.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_011.draft.json",
+  "thesis_id": "8.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_08_012.draft.json",
+  "thesis_id": "8.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_001.draft.json",
+  "thesis_id": "9.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_002.draft.json",
+  "thesis_id": "9.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_003.draft.json",
+  "thesis_id": "9.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_004.draft.json",
+  "thesis_id": "9.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_005.draft.json",
+  "thesis_id": "9.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_006.draft.json",
+  "thesis_id": "9.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_007.draft.json",
+  "thesis_id": "9.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_008.draft.json",
+  "thesis_id": "9.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_009.draft.json",
+  "thesis_id": "9.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_010.draft.json",
+  "thesis_id": "9.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_09_011.draft.json",
+  "thesis_id": "9.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_10_001.draft.json",
+  "thesis_id": "10.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_10_002.draft.json",
+  "thesis_id": "10.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_10_003.draft.json",
+  "thesis_id": "10.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_10_004.draft.json",
+  "thesis_id": "10.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_11_001.draft.json",
+  "thesis_id": "11.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_11_002.draft.json",
+  "thesis_id": "11.2",
+  "quotations_checked": [
+   {
+    "work": "cassirer1942",
+    "text": "Pico also completed the equating of God and the \"intellectus agens\"",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "cassirer1942",
+    "text": "an independent theoretical meaning and content",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_11_003.draft.json",
+  "thesis_id": "11.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_11_004.draft.json",
+  "thesis_id": "11.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_12_001.draft.json",
+  "thesis_id": "12.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_12_002.draft.json",
+  "thesis_id": "12.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_12_003.draft.json",
+  "thesis_id": "12.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_13_001.draft.json",
+  "thesis_id": "13.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_13_002.draft.json",
+  "thesis_id": "13.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_13_003.draft.json",
+  "thesis_id": "13.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_13_004.draft.json",
+  "thesis_id": "13.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "determines that there is not one sense of touch",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Dubitatur primo utrum sensus tactus sit unus vel plures",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_13_005.draft.json",
+  "thesis_id": "13.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_14_001.draft.json",
+  "thesis_id": "14.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_14_002.draft.json",
+  "thesis_id": "14.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_15_001.draft.json",
+  "thesis_id": "15.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_15_002.draft.json",
+  "thesis_id": "15.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_15_003.draft.json",
+  "thesis_id": "15.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_15_004.draft.json",
+  "thesis_id": "15.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_16_001.draft.json",
+  "thesis_id": "16.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_16_002.draft.json",
+  "thesis_id": "16.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_16_003.draft.json",
+  "thesis_id": "16.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_001.draft.json",
+  "thesis_id": "17.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_002.draft.json",
+  "thesis_id": "17.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_003.draft.json",
+  "thesis_id": "17.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Dubitatur secundo utrum intellectus agens sit nobilior possibili. Dubitatur tercio utrum intellectus",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_17_004.draft.json",
+  "thesis_id": "17.4",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "Dubitatur secundo utrum intellectus agens sit nobilior possibili. Dubitatur tercio utrum intellectus",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_17_005.draft.json",
+  "thesis_id": "17.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_006.draft.json",
+  "thesis_id": "17.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_007.draft.json",
+  "thesis_id": "17.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_008.draft.json",
+  "thesis_id": "17.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_17_009.draft.json",
+  "thesis_id": "17.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_001.draft.json",
+  "thesis_id": "18.1",
+  "quotations_checked": [
+   {
+    "work": "black2006",
+    "text": "a pertinent example of the difficulty in interpreting the Conclusiones",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "black2006",
+    "text": "contrary to common understanding of Alexander's position",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "black2006",
+    "text": "we have no information as to how Pico would have presented his case",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_18_002.draft.json",
+  "thesis_id": "18.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_003.draft.json",
+  "thesis_id": "18.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_004.draft.json",
+  "thesis_id": "18.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_005.draft.json",
+  "thesis_id": "18.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_006.draft.json",
+  "thesis_id": "18.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_007.draft.json",
+  "thesis_id": "18.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_18_008.draft.json",
+  "thesis_id": "18.8",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "It is worth citing, in this context, Pico's thesis 8 according to Alexander of Aphrodisias",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_19_001.draft.json",
+  "thesis_id": "19.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_19_002.draft.json",
+  "thesis_id": "19.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_19_003.draft.json",
+  "thesis_id": "19.3",
+  "quotations_checked": [
+   {
+    "work": "edelheit2022",
+    "text": "the science of the soul belongs mainly to natural science",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Conclusio responsalis: de anima est scientia naturalis tanquam de subiecto primo huius libri.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_19_004.draft.json",
+  "thesis_id": "19.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_19_005.draft.json",
+  "thesis_id": "19.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_001.draft.json",
+  "thesis_id": "20.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_002.draft.json",
+  "thesis_id": "20.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_003.draft.json",
+  "thesis_id": "20.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_004.draft.json",
+  "thesis_id": "20.4",
+  "quotations_checked": [
+   {
+    "work": "howlett2021",
+    "text": "Pico leans more on Plotinus, Ficino on Kabbalism",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_20_005.draft.json",
+  "thesis_id": "20.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_006.draft.json",
+  "thesis_id": "20.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_007.draft.json",
+  "thesis_id": "20.7",
+  "quotations_checked": [
+   {
+    "work": "black2006",
+    "text": "Felicitas hominis ultima est, cum particularis intellectus noster totali primoque intellectui plene ",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_20_008.draft.json",
+  "thesis_id": "20.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_009.draft.json",
+  "thesis_id": "20.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_010.draft.json",
+  "thesis_id": "20.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_011.draft.json",
+  "thesis_id": "20.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_012.draft.json",
+  "thesis_id": "20.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_013.draft.json",
+  "thesis_id": "20.13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_014.draft.json",
+  "thesis_id": "20.14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_20_015.draft.json",
+  "thesis_id": "20.15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_001.draft.json",
+  "thesis_id": "21.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_002.draft.json",
+  "thesis_id": "21.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_003.draft.json",
+  "thesis_id": "21.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_004.draft.json",
+  "thesis_id": "21.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_005.draft.json",
+  "thesis_id": "21.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_006.draft.json",
+  "thesis_id": "21.6",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Per quanto noto, nessuna fonte attribuisce però a tale personaggio un detto simile a quello riportat",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_21_007.draft.json",
+  "thesis_id": "21.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_21_008.draft.json",
+  "thesis_id": "21.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_001.draft.json",
+  "thesis_id": "22.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_002.draft.json",
+  "thesis_id": "22.2",
+  "quotations_checked": [
+   {
+    "work": "steiris2014",
+    "text": "Pico admits that the Demiurge of the world is the supermundane soul",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_22_003.draft.json",
+  "thesis_id": "22.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_004.draft.json",
+  "thesis_id": "22.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_005.draft.json",
+  "thesis_id": "22.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_006.draft.json",
+  "thesis_id": "22.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_007.draft.json",
+  "thesis_id": "22.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_008.draft.json",
+  "thesis_id": "22.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_009.draft.json",
+  "thesis_id": "22.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_010.draft.json",
+  "thesis_id": "22.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_011.draft.json",
+  "thesis_id": "22.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_22_012.draft.json",
+  "thesis_id": "22.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_001.draft.json",
+  "thesis_id": "23.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_002.draft.json",
+  "thesis_id": "23.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_003.draft.json",
+  "thesis_id": "23.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_004.draft.json",
+  "thesis_id": "23.4",
+  "quotations_checked": [
+   {
+    "work": "black2006",
+    "text": "I do not think that Farmer's understanding of \"bina\" as referring to the sefirah Binah is relevant h",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_23_005.draft.json",
+  "thesis_id": "23.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_006.draft.json",
+  "thesis_id": "23.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_007.draft.json",
+  "thesis_id": "23.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_23_008.draft.json",
+  "thesis_id": "23.8",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "The reading licet appears in the text. The correction hec was added in the margin.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_23_009.draft.json",
+  "thesis_id": "23.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_001.draft.json",
+  "thesis_id": "24.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_002.draft.json",
+  "thesis_id": "24.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_003.draft.json",
+  "thesis_id": "24.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_004.draft.json",
+  "thesis_id": "24.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_005.draft.json",
+  "thesis_id": "24.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_006.draft.json",
+  "thesis_id": "24.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_007.draft.json",
+  "thesis_id": "24.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_008.draft.json",
+  "thesis_id": "24.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_009.draft.json",
+  "thesis_id": "24.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_010.draft.json",
+  "thesis_id": "24.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_011.draft.json",
+  "thesis_id": "24.11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_012.draft.json",
+  "thesis_id": "24.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_013.draft.json",
+  "thesis_id": "24.13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_014.draft.json",
+  "thesis_id": "24.14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_015.draft.json",
+  "thesis_id": "24.15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_016.draft.json",
+  "thesis_id": "24.16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_017.draft.json",
+  "thesis_id": "24.17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_018.draft.json",
+  "thesis_id": "24.18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_019.draft.json",
+  "thesis_id": "24.19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_020.draft.json",
+  "thesis_id": "24.20",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_021.draft.json",
+  "thesis_id": "24.21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_022.draft.json",
+  "thesis_id": "24.22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_023.draft.json",
+  "thesis_id": "24.23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_024.draft.json",
+  "thesis_id": "24.24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_025.draft.json",
+  "thesis_id": "24.25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_026.draft.json",
+  "thesis_id": "24.26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_027.draft.json",
+  "thesis_id": "24.27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_028.draft.json",
+  "thesis_id": "24.28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_029.draft.json",
+  "thesis_id": "24.29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_030.draft.json",
+  "thesis_id": "24.30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_031.draft.json",
+  "thesis_id": "24.31",
+  "quotations_checked": [
+   {
+    "work": "corazzol2019",
+    "text": "in their original version the Chaldean oracles not only read differently but also evinced a differen",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_24_032.draft.json",
+  "thesis_id": "24.32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_033.draft.json",
+  "thesis_id": "24.33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_034.draft.json",
+  "thesis_id": "24.34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_035.draft.json",
+  "thesis_id": "24.35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_036.draft.json",
+  "thesis_id": "24.36",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_037.draft.json",
+  "thesis_id": "24.37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_038.draft.json",
+  "thesis_id": "24.38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_039.draft.json",
+  "thesis_id": "24.39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_040.draft.json",
+  "thesis_id": "24.40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_041.draft.json",
+  "thesis_id": "24.41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_042.draft.json",
+  "thesis_id": "24.42",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_043.draft.json",
+  "thesis_id": "24.43",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_044.draft.json",
+  "thesis_id": "24.44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_045.draft.json",
+  "thesis_id": "24.45",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_046.draft.json",
+  "thesis_id": "24.46",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_047.draft.json",
+  "thesis_id": "24.47",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_048.draft.json",
+  "thesis_id": "24.48",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_049.draft.json",
+  "thesis_id": "24.49",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_050.draft.json",
+  "thesis_id": "24.50",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_051.draft.json",
+  "thesis_id": "24.51",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_052.draft.json",
+  "thesis_id": "24.52",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_053.draft.json",
+  "thesis_id": "24.53",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_054.draft.json",
+  "thesis_id": "24.54",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_24_055.draft.json",
+  "thesis_id": "24.55",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_001.draft.json",
+  "thesis_id": "25.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_002.draft.json",
+  "thesis_id": "25.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_003.draft.json",
+  "thesis_id": "25.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_004.draft.json",
+  "thesis_id": "25.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_005.draft.json",
+  "thesis_id": "25.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_006.draft.json",
+  "thesis_id": "25.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_007.draft.json",
+  "thesis_id": "25.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_008.draft.json",
+  "thesis_id": "25.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_009.draft.json",
+  "thesis_id": "25.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_010.draft.json",
+  "thesis_id": "25.10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_011.draft.json",
+  "thesis_id": "25.11",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "In musica non va usato il giudizio dei sensi ma solo quello dell'intelletto",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_25_012.draft.json",
+  "thesis_id": "25.12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_013.draft.json",
+  "thesis_id": "25.13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_25_014.draft.json",
+  "thesis_id": "25.14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_26_001.draft.json",
+  "thesis_id": "26.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_26_002.draft.json",
+  "thesis_id": "26.2",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Fatum non est necessitas primae potentiae seminalis, sed est intellectualiter participata habitudo a",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_26_003.draft.json",
+  "thesis_id": "26.3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_26_004.draft.json",
+  "thesis_id": "26.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_26_005.draft.json",
+  "thesis_id": "26.5",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Nox, Tenebrae, Caliga, Ensoph",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_26_006.draft.json",
+  "thesis_id": "26.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_001.draft.json",
+  "thesis_id": "27.1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_002.draft.json",
+  "thesis_id": "27.2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_003.draft.json",
+  "thesis_id": "27.3",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Conclusio secundum priscam doctrinam Mercurii Trismegisti Aegyptii, 27.3.",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Anima in corpore, mens in anima, in mente verbum, tum horum pater deus.",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_27_004.draft.json",
+  "thesis_id": "27.4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_005.draft.json",
+  "thesis_id": "27.5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_006.draft.json",
+  "thesis_id": "27.6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_007.draft.json",
+  "thesis_id": "27.7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_008.draft.json",
+  "thesis_id": "27.8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_009.draft.json",
+  "thesis_id": "27.9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_27_010.draft.json",
+  "thesis_id": "27.10",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_001.draft.json",
+  "thesis_id": "28.1",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Conclusio cabalistica secundum secretam doctrinam sapientium Hebraeorum cab- alistarum",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO I Sicut homo et sacerdos inferior sacrificat deo animas animalium irrationa-",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_28_002.draft.json",
   "thesis_id": "28.2",
   "quotations_checked": [
@@ -325,9 +2747,89 @@
   ]
  },
  {
+  "file": "entries/hist_28_004.draft.json",
+  "thesis_id": "28.4",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO IV Peccatum Adae fuit truncatio regni a caeteris plantis.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_005.draft.json",
+  "thesis_id": "28.5",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "The direct source is Recanati, fol. 23vb, quoting the Zohar, part I, fol. 36r",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "because everything is created by mediation",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "demonstrably the direct source of some twenty-five theses",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "fairly compatible with Pico’s “Cabbalistic” thesis 28.5",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Baum von Gut und Böse in der neunten Sefirah Jesod",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_28_006.draft.json",
   "thesis_id": "28.6",
   "quotations_checked": []
+ },
+ {
+  "file": "entries/hist_28_007.draft.json",
+  "thesis_id": "28.7",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39]",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "The \"green line that encircles the universe\" is Intelligence, the third",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_008.draft.json",
+  "thesis_id": "28.8",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO VIII Animae a tertio lumine ad quartam diem, et inde ad quintam descendunt;",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_009.draft.json",
+  "thesis_id": "28.9",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO IX Per sex dies geneseos habemus intelligere sex extremitates aedificii proce-",
+    "status": "FOUND_EXACT"
+   }
+  ]
  },
  {
   "file": "entries/hist_28_010.draft.json",
@@ -336,6 +2838,28 @@
    {
     "work": "wirszubski1989",
     "text": "Adam means homo, and Tiferet (Glory or Beauty) is the sixth sefirah.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_011.draft.json",
+  "thesis_id": "28.11",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_012.draft.json",
+  "thesis_id": "28.12",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe-",
     "status": "FOUND_EXACT"
    }
   ]
@@ -352,12 +2876,56 @@
   ]
  },
  {
+  "file": "entries/hist_28_014.draft.json",
+  "thesis_id": "28.14",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO X I V Qui nouerit proprietatem meridionalem in dextrali coordinatione",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_28_015.draft.json",
   "thesis_id": "28.15",
   "quotations_checked": [
    {
     "work": "wirszubski1989",
     "text": "Compare Recanati, fol. 46rb, where he quotes the Bahir (§6 ed. Scholem)",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_016.draft.json",
+  "thesis_id": "28.16",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "a commonplace expressed in unusual language",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_017.draft.json",
+  "thesis_id": "28.17",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "CONCLUSIO XVII Vbicumque in scriptura fit mentio amoris maris et feminae nobis mystice",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_018.draft.json",
+  "thesis_id": "28.18",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Qui media nocte cum Tipheret copulabitur, prospera erit ei omnis generatio. Cf. Recanati, fol. 213rb",
     "status": "FOUND_EXACT"
    }
   ]
@@ -384,6 +2952,135 @@
   ]
  },
  {
+  "file": "entries/hist_28_020.draft.json",
+  "thesis_id": "28.20",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Kabbalistically speaking, this thesis states a truism.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_021.draft.json",
+  "thesis_id": "28.21",
+  "quotations_checked": [
+   {
+    "work": "corazzol2019",
+    "text": "It is therefore clear that conclusion 28.21 refers to the same sefirotic power",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_022.draft.json",
+  "thesis_id": "28.22",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Licet fiat multiplex coordinatio curruum, tamen inquantum attinet ad phylacteriorum mysterium, duo s",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_023.draft.json",
+  "thesis_id": "28.23",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Supra proprietatem penitentiae non est utendum uerbo dixit.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_024.draft.json",
+  "thesis_id": "28.24",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "This interpretation of Job 25:2 is traditional",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "I shall refrain from suggesting which of the three was Pico's direct source",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "Docet quod Michael archangelus dextre dei sancti et benedicti Aque et Grandinis",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "common symbols of the fourth and fifth sefirot",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "Empedocles becomes relevant as an interpreter of Job",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Scitur in cabala apertissime",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_025.draft.json",
+  "thesis_id": "28.25",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "this thesis, being an obvious sequel to Conclusiones xxv and xxvi secundum secretam doctrinam sapien",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_026.draft.json",
+  "thesis_id": "28.26",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Idem est bresith, id est in principio creauit, ac si dixisset in sapientia creauit. Quod dixit anche",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_027.draft.json",
+  "thesis_id": "28.27",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est diuinitas.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_028.draft.json",
+  "thesis_id": "28.28",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Per uolatile quod creatum est die quinta, debemus intelligere angelos mundanos, qui hominibus appare",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_28_029.draft.json",
   "thesis_id": "28.29",
   "quotations_checked": [
@@ -395,6 +3092,39 @@
    {
     "work": "wirszubski1989",
     "text": "It is certain that Pico read the Bahir: Scholem proved it beyond doubt.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_030.draft.json",
+  "thesis_id": "28.30",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Though the ultimate source of this thesis is undoubtedly the Zohar, part I, fol. 34v, there is no ne",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_031.draft.json",
+  "thesis_id": "28.31",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir- cuitu ambulant.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_032.draft.json",
+  "thesis_id": "28.32",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Ideo circumcisio fit octaua die, quia est superior quam sponsa uniuersali- zata.",
     "status": "FOUND_EXACT"
    }
   ]
@@ -416,12 +3146,191 @@
   ]
  },
  {
+  "file": "entries/hist_28_034.draft.json",
+  "thesis_id": "28.34",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "It was likewise in Recanati, and not by his own wits, that Pico found the shrewd combination of text",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_035.draft.json",
+  "thesis_id": "28.35",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Nulla res spiritualis descendens inferius operatur sine indumento.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_036.draft.json",
+  "thesis_id": "28.36",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Peccatum Soddomae fuit per truncationem ultimae plantae.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_037.draft.json",
+  "thesis_id": "28.37",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_038.draft.json",
+  "thesis_id": "28.38",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Sicut extrinsecus timor est inferior amore, ita intrinsecus est superior amore.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_039.draft.json",
+  "thesis_id": "28.39",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Ex praecedenti conclusione intelligitur, cur in Genesi [22:12] a timore laudatur Abraham, quem tarne",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/hist_28_040.draft.json",
   "thesis_id": "28.40",
   "quotations_checked": [
    {
     "work": "wirszubski1989",
     "text": "Its location is remarkable: it is inserted between two blocks of theses all of which derive from Rec",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_041.draft.json",
+  "thesis_id": "28.41",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Omnis anima bona est anima noua ueniens ab Oriente.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "The source of this thesis, as Gershom Scholem pointed out to me, is the Bahir",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_042.draft.json",
+  "thesis_id": "28.42",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Ideo Ioseph ossibus tantum sepultus est et non corpore, quia eius ossa erant uirtutes et militiae ar",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_043.draft.json",
+  "thesis_id": "28.43",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Ideo Moysis sepulchrum nemo nouit, quia exaltatus est in Iobeleo super- iore, et super Iobeleum misi",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "their presence in Pico's theses argues conclusively that the direct source of these theses is Recana",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_044.draft.json",
+  "thesis_id": "28.44",
+  "quotations_checked": [
+   {
+    "work": "novak1982",
+    "text": "The second possible source is Menalhem Recanati, whose commentary on the Torah Pico also had in Lati",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_045.draft.json",
+  "thesis_id": "28.45",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Sapientes Israhel, post cessationem prophetiae per spiritum, prophetarunt per filiam uocis.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_046.draft.json",
+  "thesis_id": "28.46",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in coelo.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "What this thesis states is not, strictly speaking, a specifically Kabbalistic",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/hist_28_047.draft.json",
+  "thesis_id": "28.47",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Recanati affords all that is needed for the interpretation of this thesis.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "Per dictionem AMEN ordo habetur expressus quomodo numerationum procedant influxus.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_001.draft.json",
+  "thesis_id": "10>1",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "who years earlier had composed his own commentary on the Hymns",
     "status": "FOUND_EXACT"
    }
   ]
@@ -438,6 +3347,11 @@
   ]
  },
  {
+  "file": "entries/own_10_003.draft.json",
+  "thesis_id": "10>3",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_10_004.draft.json",
   "thesis_id": "10>4",
   "quotations_checked": [
@@ -449,6 +3363,86 @@
   ]
  },
  {
+  "file": "entries/own_10_005.draft.json",
+  "thesis_id": "10>5",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "how many Pico recognized is anyone's guess",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_006.draft.json",
+  "thesis_id": "10>6",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "Pico's extreme correlative system",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_007.draft.json",
+  "thesis_id": "10>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_008.draft.json",
+  "thesis_id": "10>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_009.draft.json",
+  "thesis_id": "10>9",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Idem sunt Curetes apud Orpheum et potestates apud Dionysium",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_010.draft.json",
+  "thesis_id": "10>10",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Goodness only knows how one might employ opus Cabalae",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_011.draft.json",
+  "thesis_id": "10>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_012.draft.json",
+  "thesis_id": "10>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_013.draft.json",
+  "thesis_id": "10>13",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Idem est Typhon apud Orpheum et Zamael36 in Cabala.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_014.draft.json",
+  "thesis_id": "10>14",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_10_015.draft.json",
   "thesis_id": "10>15",
   "quotations_checked": [
@@ -456,6 +3450,164 @@
     "work": "wirszubski1989",
     "text": "What I have in mind is the fact that sefirot and Hebrew names of God are sometimes involved in the m",
     "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_016.draft.json",
+  "thesis_id": "10>16",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi velit illud d",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_017.draft.json",
+  "thesis_id": "10>17",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Ex eisdem dictis [cfr. fonti 55, 56] potest in­ telligi cur in Symposio a Diotima Porus consilii fil",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_018.draft.json",
+  "thesis_id": "10>18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_019.draft.json",
+  "thesis_id": "10>19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_020.draft.json",
+  "thesis_id": "10>20",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Per septennarium hymnorum paternae menti attri­ butorum, Protogoni, Palladis, Sa turni, Veneris, Rhe",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_021.draft.json",
+  "thesis_id": "10>21",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quant",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_022.draft.json",
+  "thesis_id": "10>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_023.draft.json",
+  "thesis_id": "10>23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_024.draft.json",
+  "thesis_id": "10>24",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Non inebriabitur per aliquem Bacchum, qui suae Musae prius copulatus non fuerit.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_025.draft.json",
+  "thesis_id": "10>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_026.draft.json",
+  "thesis_id": "10>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_027.draft.json",
+  "thesis_id": "10>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_028.draft.json",
+  "thesis_id": "10>28",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Frustra adit naturam et Protheum, qui Pana non attraxerit.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_10_029.draft.json",
+  "thesis_id": "10>29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_030.draft.json",
+  "thesis_id": "10>30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_10_031.draft.json",
+  "thesis_id": "10>31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_001.draft.json",
+  "thesis_id": "11>1",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "is by and large correct",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "busi2014",
+    "text": "Un fraintendimento, questo di Scholem e Wirszubski",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "mandosio2012",
+    "text": "This misinterpretation does not deeply affect Wirszubski's analysis",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_002.draft.json",
+  "thesis_id": "11>2",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "triplex merchiava is a triadic configuration of sefirot",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "busi2014",
+    "text": "Nessuna delle fonti ebraiche che conosciamo parla però",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "howlett2021",
+    "text": "not necessarily very meaningful up close",
+    "status": "NO_CORPUS_FILE"
    }
   ]
  },
@@ -523,6 +3675,22 @@
   ]
  },
  {
+  "file": "entries/own_11_008.draft.json",
+  "thesis_id": "11>8",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Ex praecedenti conclusione intellegi potest cur dixerit Paulus datum esse Iesu nomen quod est super ",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_009.draft.json",
+  "thesis_id": "11>9",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_010.draft.json",
   "thesis_id": "11>10",
   "quotations_checked": [
@@ -540,6 +3708,22 @@
    {
     "work": "wirszubski1989",
     "text": "…am aware, in Pico's Kabbalistic sources, appears in his eleventh Kabbalistic thesis secundum opinio",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_012.draft.json",
+  "thesis_id": "11>12",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Non potest operari per puram Ca- balam, qui non est rationaliter intellectualis.",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "non potest operari per puram Cabalam qui non est rational- iter intellectualis.",
     "status": "FOUND_EXACT"
    }
   ]
@@ -620,6 +3804,11 @@
   ]
  },
  {
+  "file": "entries/own_11_019.draft.json",
+  "thesis_id": "11>19",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_020.draft.json",
   "thesis_id": "11>20",
   "quotations_checked": [
@@ -640,6 +3829,60 @@
     "status": "FOUND_EXACT"
    }
   ]
+ },
+ {
+  "file": "entries/own_11_022.draft.json",
+  "thesis_id": "11>22",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio xxii: Per dicta Cabalistarum de rubedine Esau, et dictum illud quod est in libro Bresit Rh",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_023.draft.json",
+  "thesis_id": "11>23",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio xxiii: Per illud dictum Hieremiae5 Lacerauit uerbum suum, secundum expositio-",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_024.draft.json",
+  "thesis_id": "11>24",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta es",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_025.draft.json",
+  "thesis_id": "11>25",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Quilibet cabalista habet concedere quod messias eos a captivitate Diabolica et non temporali erat li",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_026.draft.json",
+  "thesis_id": "11>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_027.draft.json",
+  "thesis_id": "11>27",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_11_028.draft.json",
@@ -669,6 +3912,65 @@
   ]
  },
  {
+  "file": "entries/own_11_030.draft.json",
+  "thesis_id": "11>30",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "the source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 1",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_031.draft.json",
+  "thesis_id": "11>31",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "the Latin translation of Flavius Mithridates, Cod. Vat. Ebr. 190, fol. 343r",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "Whether Thesua is a misprint or a slip of the pen I dare not say.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_032.draft.json",
+  "thesis_id": "11>32",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxe",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_033.draft.json",
+  "thesis_id": "11>33",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "It was from Recanati, not from the biblical commentary of Moses ben Nahman of Gerona or the writings",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio xxxiii: Per hanc dictionem <WX> quae scribitur per Aleph, Iod, et Sein (et significat uiru",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_034.draft.json",
+  "thesis_id": "11>34",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_035.draft.json",
   "thesis_id": "11>35",
   "quotations_checked": [
@@ -691,6 +3993,97 @@
   ]
  },
  {
+  "file": "entries/own_11_037.draft.json",
+  "thesis_id": "11>37",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Pico's thirty-seventh thesis bears out my conclusion",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "how Christian Kabbala is created through the superposition of the symbolic language of Jewish Kabbal",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_038.draft.json",
+  "thesis_id": "11>38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_039.draft.json",
+  "thesis_id": "11>39",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quo",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "insofar as Deifilius est sapientia patris, Jesus could say of himself Ego sum principium qui loquor ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_040.draft.json",
+  "thesis_id": "11>40",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Hoc habent inevitabiliter concedere Cabalistae, quod verus messias per aquam homines purgabit.",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_041.draft.json",
+  "thesis_id": "11>41",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Sciri potest in Cabala per mysterium Mem clausi, cur post se Christus miserit paraclytum.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_042.draft.json",
+  "thesis_id": "11>42",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Scitur per fundamenta Cabalae quam recte dixerit Iesus [John 8:58] Antequam nasceretur Abraam ego su",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_043.draft.json",
+  "thesis_id": "11>43",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Behind Pico's symbolic interpretation of the consonants yod and waw ...",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_044.draft.json",
+  "thesis_id": "11>44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_045.draft.json",
+  "thesis_id": "11>45",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_046.draft.json",
   "thesis_id": "11>46",
   "quotations_checked": [
@@ -698,6 +4091,17 @@
     "work": "akopyan2018",
     "text": "Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod ",
     "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_047.draft.json",
+  "thesis_id": "11>47",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "... sefirah called Might or Judgment, shows through Pico's forty-seventh Kabbalistic thesis secundum",
+    "status": "FOUND_EXACT"
    }
   ]
  },
@@ -729,8 +4133,24 @@
   ]
  },
  {
+  "file": "entries/own_11_050.draft.json",
+  "thesis_id": "11>50",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "merchiava, as understood by Pico, embraces sefirot",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/own_11_051.draft.json",
   "thesis_id": "11>51",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_052.draft.json",
+  "thesis_id": "11>52",
   "quotations_checked": []
  },
  {
@@ -745,6 +4165,57 @@
   ]
  },
  {
+  "file": "entries/own_11_054.draft.json",
+  "thesis_id": "11>54",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_055.draft.json",
+  "thesis_id": "11>55",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_056.draft.json",
+  "thesis_id": "11>56",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_057.draft.json",
+  "thesis_id": "11>57",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_058.draft.json",
+  "thesis_id": "11>58",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_059.draft.json",
+  "thesis_id": "11>59",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_060.draft.json",
+  "thesis_id": "11>60",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_061.draft.json",
+  "thesis_id": "11>61",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "... there are several theses which clearly presuppose the identification of the Son with Wisdom.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_062.draft.json",
+  "thesis_id": "11>62",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_063.draft.json",
   "thesis_id": "11>63",
   "quotations_checked": [
@@ -756,6 +4227,22 @@
   ]
  },
  {
+  "file": "entries/own_11_064.draft.json",
+  "thesis_id": "11>64",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "... links the symbolism of the ten sefirot with Pico's Kabbalistic confirmation of Christianity.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_065.draft.json",
+  "thesis_id": "11>65",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_11_066.draft.json",
   "thesis_id": "11>66",
   "quotations_checked": [
@@ -765,6 +4252,53 @@
     "status": "FOUND_EXACT"
    }
   ]
+ },
+ {
+  "file": "entries/own_11_067.draft.json",
+  "thesis_id": "11>67",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_068.draft.json",
+  "thesis_id": "11>68",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "New Relationships and Orientations",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_069.draft.json",
+  "thesis_id": "11>69",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_11_070.draft.json",
+  "thesis_id": "11>70",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "All the theses considered so far touch upon points of detail. The seventieth concerns the Law as a w",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "the underlying unity and continuity of divine revelation admit of endless variations of meaning",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "This is in fact what to my mind Pico means by \"unialis continentia per indeterminatum ambitum rerum ",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_11_071.draft.json",
+  "thesis_id": "11>71",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_11_072.draft.json",
@@ -783,9 +4317,601 @@
   ]
  },
  {
+  "file": "entries/own_1_001.draft.json",
+  "thesis_id": "1>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_002.draft.json",
+  "thesis_id": "1>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_003.draft.json",
+  "thesis_id": "1>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_004.draft.json",
+  "thesis_id": "1>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_005.draft.json",
+  "thesis_id": "1>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_006.draft.json",
+  "thesis_id": "1>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_007.draft.json",
+  "thesis_id": "1>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_008.draft.json",
+  "thesis_id": "1>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_009.draft.json",
+  "thesis_id": "1>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_010.draft.json",
+  "thesis_id": "1>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_011.draft.json",
+  "thesis_id": "1>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_012.draft.json",
+  "thesis_id": "1>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_013.draft.json",
+  "thesis_id": "1>13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_014.draft.json",
+  "thesis_id": "1>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_015.draft.json",
+  "thesis_id": "1>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_016.draft.json",
+  "thesis_id": "1>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_1_017.draft.json",
+  "thesis_id": "1>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_001.draft.json",
+  "thesis_id": "2>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_002.draft.json",
+  "thesis_id": "2>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_003.draft.json",
+  "thesis_id": "2>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_004.draft.json",
+  "thesis_id": "2>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_005.draft.json",
+  "thesis_id": "2>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_006.draft.json",
+  "thesis_id": "2>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_007.draft.json",
+  "thesis_id": "2>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_008.draft.json",
+  "thesis_id": "2>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_009.draft.json",
+  "thesis_id": "2>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_010.draft.json",
+  "thesis_id": "2>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_011.draft.json",
+  "thesis_id": "2>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_012.draft.json",
+  "thesis_id": "2>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_013.draft.json",
+  "thesis_id": "2>13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_014.draft.json",
+  "thesis_id": "2>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_015.draft.json",
+  "thesis_id": "2>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_016.draft.json",
+  "thesis_id": "2>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_017.draft.json",
+  "thesis_id": "2>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_018.draft.json",
+  "thesis_id": "2>18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_019.draft.json",
+  "thesis_id": "2>19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_020.draft.json",
+  "thesis_id": "2>20",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_021.draft.json",
+  "thesis_id": "2>21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_022.draft.json",
+  "thesis_id": "2>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_023.draft.json",
+  "thesis_id": "2>23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_024.draft.json",
+  "thesis_id": "2>24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_025.draft.json",
+  "thesis_id": "2>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_026.draft.json",
+  "thesis_id": "2>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_027.draft.json",
+  "thesis_id": "2>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_028.draft.json",
+  "thesis_id": "2>28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_029.draft.json",
+  "thesis_id": "2>29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_030.draft.json",
+  "thesis_id": "2>30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_031.draft.json",
+  "thesis_id": "2>31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_032.draft.json",
+  "thesis_id": "2>32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_033.draft.json",
+  "thesis_id": "2>33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_034.draft.json",
+  "thesis_id": "2>34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_035.draft.json",
+  "thesis_id": "2>35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_036.draft.json",
+  "thesis_id": "2>36",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_037.draft.json",
+  "thesis_id": "2>37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_038.draft.json",
+  "thesis_id": "2>38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_039.draft.json",
+  "thesis_id": "2>39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_040.draft.json",
+  "thesis_id": "2>40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_041.draft.json",
+  "thesis_id": "2>41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_042.draft.json",
+  "thesis_id": "2>42",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_043.draft.json",
+  "thesis_id": "2>43",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_044.draft.json",
+  "thesis_id": "2>44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_045.draft.json",
+  "thesis_id": "2>45",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_046.draft.json",
+  "thesis_id": "2>46",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_047.draft.json",
+  "thesis_id": "2>47",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_048.draft.json",
+  "thesis_id": "2>48",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_049.draft.json",
+  "thesis_id": "2>49",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_050.draft.json",
+  "thesis_id": "2>50",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_051.draft.json",
+  "thesis_id": "2>51",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_052.draft.json",
+  "thesis_id": "2>52",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_053.draft.json",
+  "thesis_id": "2>53",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_054.draft.json",
+  "thesis_id": "2>54",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_055.draft.json",
+  "thesis_id": "2>55",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_056.draft.json",
+  "thesis_id": "2>56",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_057.draft.json",
+  "thesis_id": "2>57",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_058.draft.json",
+  "thesis_id": "2>58",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_059.draft.json",
+  "thesis_id": "2>59",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_060.draft.json",
+  "thesis_id": "2>60",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_061.draft.json",
+  "thesis_id": "2>61",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_062.draft.json",
+  "thesis_id": "2>62",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_063.draft.json",
+  "thesis_id": "2>63",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_064.draft.json",
+  "thesis_id": "2>64",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_065.draft.json",
+  "thesis_id": "2>65",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_066.draft.json",
+  "thesis_id": "2>66",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_067.draft.json",
+  "thesis_id": "2>67",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_068.draft.json",
+  "thesis_id": "2>68",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_069.draft.json",
+  "thesis_id": "2>69",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_070.draft.json",
+  "thesis_id": "2>70",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_071.draft.json",
+  "thesis_id": "2>71",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_072.draft.json",
+  "thesis_id": "2>72",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_073.draft.json",
+  "thesis_id": "2>73",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_074.draft.json",
+  "thesis_id": "2>74",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_075.draft.json",
+  "thesis_id": "2>75",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_076.draft.json",
+  "thesis_id": "2>76",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_077.draft.json",
+  "thesis_id": "2>77",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_078.draft.json",
+  "thesis_id": "2>78",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_079.draft.json",
+  "thesis_id": "2>79",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_2_080.draft.json",
+  "thesis_id": "2>80",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_001.draft.json",
+  "thesis_id": "3>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_002.draft.json",
+  "thesis_id": "3>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_003.draft.json",
+  "thesis_id": "3>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_004.draft.json",
+  "thesis_id": "3>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_005.draft.json",
+  "thesis_id": "3>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_006.draft.json",
+  "thesis_id": "3>6",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfecti",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
   "file": "entries/own_3_007.draft.json",
   "thesis_id": "3>7",
   "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_008.draft.json",
+  "thesis_id": "3>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_009.draft.json",
+  "thesis_id": "3>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_010.draft.json",
+  "thesis_id": "3>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_011.draft.json",
+  "thesis_id": "3>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_012.draft.json",
+  "thesis_id": "3>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_013.draft.json",
+  "thesis_id": "3>13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_014.draft.json",
+  "thesis_id": "3>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_015.draft.json",
+  "thesis_id": "3>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_016.draft.json",
+  "thesis_id": "3>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_017.draft.json",
+  "thesis_id": "3>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_018.draft.json",
+  "thesis_id": "3>18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_019.draft.json",
+  "thesis_id": "3>19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_020.draft.json",
+  "thesis_id": "3>20",
+  "quotations_checked": [
+   {
+    "work": "steiris2014",
+    "text": "when in itself all things exist in such a way that in itself all things are itself",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
  },
  {
   "file": "entries/own_3_021.draft.json",
@@ -808,6 +4934,154 @@
     "status": "NO_CORPUS_FILE"
    }
   ]
+ },
+ {
+  "file": "entries/own_3_023.draft.json",
+  "thesis_id": "3>23",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Sicut formae substantiates in secundo mundo sunt per modum accidentium, ita formae accidentales sunt",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_024.draft.json",
+  "thesis_id": "3>24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_025.draft.json",
+  "thesis_id": "3>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_026.draft.json",
+  "thesis_id": "3>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_027.draft.json",
+  "thesis_id": "3>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_028.draft.json",
+  "thesis_id": "3>28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_029.draft.json",
+  "thesis_id": "3>29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_030.draft.json",
+  "thesis_id": "3>30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_031.draft.json",
+  "thesis_id": "3>31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_032.draft.json",
+  "thesis_id": "3>32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_033.draft.json",
+  "thesis_id": "3>33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_034.draft.json",
+  "thesis_id": "3>34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_035.draft.json",
+  "thesis_id": "3>35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_036.draft.json",
+  "thesis_id": "3>36",
+  "quotations_checked": [
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Sicut intellectus dei uni- tatem multiplicat, ita anima intellectus multitudinem quantiftcat et exte",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_037.draft.json",
+  "thesis_id": "3>37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_038.draft.json",
+  "thesis_id": "3>38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_039.draft.json",
+  "thesis_id": "3>39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_040.draft.json",
+  "thesis_id": "3>40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_041.draft.json",
+  "thesis_id": "3>41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_042.draft.json",
+  "thesis_id": "3>42",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_043.draft.json",
+  "thesis_id": "3>43",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "unio unitatis guae est in alteritate animae cum unitate guae est sine alteritate",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_044.draft.json",
+  "thesis_id": "3>44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_045.draft.json",
+  "thesis_id": "3>45",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_046.draft.json",
+  "thesis_id": "3>46",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_047.draft.json",
+  "thesis_id": "3>47",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_048.draft.json",
+  "thesis_id": "3>48",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_3_049.draft.json",
@@ -843,8 +5117,28 @@
   ]
  },
  {
+  "file": "entries/own_3_050.draft.json",
+  "thesis_id": "3>50",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_051.draft.json",
+  "thesis_id": "3>51",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_3_052.draft.json",
   "thesis_id": "3>52",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_053.draft.json",
+  "thesis_id": "3>53",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_054.draft.json",
+  "thesis_id": "3>54",
   "quotations_checked": []
  },
  {
@@ -857,6 +5151,26 @@
     "status": "FOUND_EXACT"
    }
   ]
+ },
+ {
+  "file": "entries/own_3_056.draft.json",
+  "thesis_id": "3>56",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_057.draft.json",
+  "thesis_id": "3>57",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_058.draft.json",
+  "thesis_id": "3>58",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_059.draft.json",
+  "thesis_id": "3>59",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_3_060.draft.json",
@@ -873,6 +5187,327 @@
     "status": "FOUND_EXACT"
    }
   ]
+ },
+ {
+  "file": "entries/own_3_061.draft.json",
+  "thesis_id": "3>61",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_062.draft.json",
+  "thesis_id": "3>62",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "selfknowledge_notes",
+    "text": "Anima semper seipsam intelligit et se intelligendo quodammodo omnia entia intelligit.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_063.draft.json",
+  "thesis_id": "3>63",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intel",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_064.draft.json",
+  "thesis_id": "3>64",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "Dulles ultimately rejects Pico's doctrine of the intellect as incoherent",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_065.draft.json",
+  "thesis_id": "3>65",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_066.draft.json",
+  "thesis_id": "3>66",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_067.draft.json",
+  "thesis_id": "3>67",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "See Conclusions 3>67–9.",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_3_068.draft.json",
+  "thesis_id": "3>68",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_069.draft.json",
+  "thesis_id": "3>69",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_070.draft.json",
+  "thesis_id": "3>70",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_3_071.draft.json",
+  "thesis_id": "3>71",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Conclusio lxxi: Empedocles per litem et amicitiam in anima nihil aliud intelligit quam potentiam sur",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_001.draft.json",
+  "thesis_id": "4>1",
+  "quotations_checked": [
+   {
+    "work": "copenhaver2022",
+    "text": "If Pico had actually meant to state the Q9 thesis as a divided modal when he published it in the Con",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "Pico's exposure of it was badly underargued",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "radically alters the sense of the original",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "only took issue with the specific manner in which the",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "Pico cited Paludanus, a Thomist, in order to make anti-Thomist use of distinctions made by Thomists",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "easier to say than to understand",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Denials of the separability of accidents were repeatedly condemned",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_002.draft.json",
+  "thesis_id": "4>2",
+  "quotations_checked": [
+   {
+    "work": "copenhaver2022",
+    "text": "twelve of the thirteen theses make no appeal to possibility",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "Pico left his Q6 thesis in a modal tangle",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "My own conclusion is entirely about possibility, not about being so",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "a possible sacrament, its possible reality",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "the actual error is to claim the opposite",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "he chases after John of Paris",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "a certain John of Paris",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "my own opinion and quite different",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "nothing original or memorable about Q6",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "his judges were wrong and rigid, not at all reasonable",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "loquendo de possibili non de sic esse",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "differs slightly but not importantly",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_003.draft.json",
+  "thesis_id": "4>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_004.draft.json",
+  "thesis_id": "4>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_005.draft.json",
+  "thesis_id": "4>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_006.draft.json",
+  "thesis_id": "4>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_007.draft.json",
+  "thesis_id": "4>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_008.draft.json",
+  "thesis_id": "4>8",
+  "quotations_checked": [
+   {
+    "work": "copenhaver2022",
+    "text": "false, erroneous, heretical and contrary to the truth of sacred scripture",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "no one should understand me to say that Christ’s soul did not descend into Hell",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "not a movement in place going on in Christ’s soul but an effect that his soul has on those who need ",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "so it was befitting for Christ’s soul to have been in Hell",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "tamen ratio ei essendi in loco non est sua substantia, sed operatio eius ab ea transiens ad extra",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "est negare a Christo verum motum localem descendendi ad inferos",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "false, erroneous, heretical and contrary to the truth of sacred scripture",
+    "status": "FOUND_EXACT",
+    "field": "commission_verdict"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_009.draft.json",
+  "thesis_id": "4>9",
+  "quotations_checked": [
+   {
+    "work": "dougherty2008",
+    "text": "thesis 4>9, immediately following the first questionable thesis, was not disputed, even though it ma",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_010.draft.json",
+  "thesis_id": "4>10",
+  "quotations_checked": [
+   {
+    "work": "copenhaver2022",
+    "text": "Pico's Q10 thesis gave the gist of this gloss",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "Although Pico had logic and law on his side",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "not only Catholic but also more acceptable (probabilior) than its opposite",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "The commission's hostility towards Pico is reflected in its judgment",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "scandalous and contrary to the usual view of saintly teachers",
+    "status": "FOUND_PARTIAL"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "until now it has never been rejected by the Church",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_011.draft.json",
+  "thesis_id": "4>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_012.draft.json",
+  "thesis_id": "4>12",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_4_013.draft.json",
@@ -913,8 +5548,360 @@
   ]
  },
  {
+  "file": "entries/own_4_014.draft.json",
+  "thesis_id": "4>14",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "scandalous, offensive to pious ears, and against the usage of the universal church",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "ego non solum credo esse catholicam sed etiam veriorem sua opposita",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "videtur sequi quod aliquid aliud a Deo adorabitur latria quod est absurdum",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Ioannes Capreoli defensor Thomae ipse etiam fatetur in dictum Thomae non posse defendi",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "scandalosa et piarum aurium offensiva contra ritum ecclesie",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "scandalous, offensive to pious ears, and against the usage of the universal church",
+    "status": "FOUND_EXACT",
+    "field": "commission_verdict"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church",
+    "status": "FOUND_EXACT",
+    "field": "commission_verdict"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_015.draft.json",
+  "thesis_id": "4>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_016.draft.json",
+  "thesis_id": "4>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_017.draft.json",
+  "thesis_id": "4>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_018.draft.json",
+  "thesis_id": "4>18",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "erroneous and savoring of heresy",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "in error and suggestive of heresy",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "along with its corollary",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Erroneous and smacks of heresy",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "tyrannical command of the will",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "almost the whole University held this view",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "never seemed right or acceptable to me",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "not only Catholic but absolutely correct",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "sine rationis persuasione aut motivo",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "denying that people have this freedom that Aquinas had confirmed",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "expedient, not principled",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "philosopher of will",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_019.draft.json",
+  "thesis_id": "4>19",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "false, erroneous, and heretical",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Wrong, erroneous, heretical",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "Nisi essent dicta sanctorum, quae in manifesto sui sermonis videntur dicere oppositum",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "propter reverentiam sanctorum, sed dixi eam posse probabiliter defendi",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "peccato mortali iuste debeatur pena infinita secundum tempus",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "false, erroneous, and heretical",
+    "status": "FOUND_PARTIAL",
+    "field": "commission_verdict"
+   },
+   {
+    "work": "unknown",
+    "text": "error to error",
+    "status": "NOT_FOUND",
+    "field": "commission_verdict"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_020.draft.json",
+  "thesis_id": "4>20",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "false, erroneous, and heretical",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Wrong, erroneous, heretical",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "Non autem correspondet duratio pene durationi culpe",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "the duration of the sin is not a factor in determining the nature of the punishment or its duration",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "de rigore sermonis rationabiliter est intelligenda de peccato mortali proprie dicto",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "false, erroneous, and heretical",
+    "status": "FOUND_PARTIAL",
+    "field": "commission_verdict"
+   },
+   {
+    "work": "unknown",
+    "text": "error to error",
+    "status": "NOT_FOUND",
+    "field": "commission_verdict"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Wrong, erroneous, heretical",
+    "status": "FOUND_PARTIAL",
+    "field": "commission_verdict"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_4_021.draft.json",
+  "thesis_id": "4>21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_022.draft.json",
+  "thesis_id": "4>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_023.draft.json",
+  "thesis_id": "4>23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_024.draft.json",
+  "thesis_id": "4>24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_025.draft.json",
+  "thesis_id": "4>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_026.draft.json",
+  "thesis_id": "4>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_027.draft.json",
+  "thesis_id": "4>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_028.draft.json",
+  "thesis_id": "4>28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_4_029.draft.json",
+  "thesis_id": "4>29",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "out of a pertinacity of will",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "rash and savoring of heresy, since it is opposed to the determination of the universal church",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "Imprudent, to be refuted, smacks of heresy, being contrary to the declarations of the Church",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "Errare possum haereticus esse non possum",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "neque dogmatice neque assertive, sed dubitative semper, et inquisitive",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "edelheit2008",
+    "text": "rationabilius sit credere, ipsum esse salvum, quam credere ipsum esse damnatum",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "more like a polemic by Eusebius than a summa by Aquinas",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "dougherty2008",
+    "text": "perhaps the first to rehabilitate Origen in the theological debate",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "the glory of his eloquence and knowledge",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "There is a personal ring",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_5_001.draft.json",
+  "thesis_id": "5>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_002.draft.json",
+  "thesis_id": "5>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_003.draft.json",
+  "thesis_id": "5>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_004.draft.json",
+  "thesis_id": "5>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_005.draft.json",
+  "thesis_id": "5>5",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_5_006.draft.json",
   "thesis_id": "5>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_007.draft.json",
+  "thesis_id": "5>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_008.draft.json",
+  "thesis_id": "5>8",
   "quotations_checked": []
  },
  {
@@ -923,13 +5910,344 @@
   "quotations_checked": []
  },
  {
+  "file": "entries/own_5_010.draft.json",
+  "thesis_id": "5>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_011.draft.json",
+  "thesis_id": "5>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_012.draft.json",
+  "thesis_id": "5>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_013.draft.json",
+  "thesis_id": "5>13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_014.draft.json",
+  "thesis_id": "5>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_015.draft.json",
+  "thesis_id": "5>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_016.draft.json",
+  "thesis_id": "5>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_017.draft.json",
+  "thesis_id": "5>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_018.draft.json",
+  "thesis_id": "5>18",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_5_019.draft.json",
   "thesis_id": "5>19",
   "quotations_checked": []
  },
  {
+  "file": "entries/own_5_020.draft.json",
+  "thesis_id": "5>20",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_021.draft.json",
+  "thesis_id": "5>21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_022.draft.json",
+  "thesis_id": "5>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_023.draft.json",
+  "thesis_id": "5>23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_024.draft.json",
+  "thesis_id": "5>24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_025.draft.json",
+  "thesis_id": "5>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_026.draft.json",
+  "thesis_id": "5>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_027.draft.json",
+  "thesis_id": "5>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_028.draft.json",
+  "thesis_id": "5>28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_029.draft.json",
+  "thesis_id": "5>29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_030.draft.json",
+  "thesis_id": "5>30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_031.draft.json",
+  "thesis_id": "5>31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_032.draft.json",
+  "thesis_id": "5>32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_033.draft.json",
+  "thesis_id": "5>33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_034.draft.json",
+  "thesis_id": "5>34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_035.draft.json",
+  "thesis_id": "5>35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_036.draft.json",
+  "thesis_id": "5>36",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_037.draft.json",
+  "thesis_id": "5>37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_038.draft.json",
+  "thesis_id": "5>38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_039.draft.json",
+  "thesis_id": "5>39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_040.draft.json",
+  "thesis_id": "5>40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_041.draft.json",
+  "thesis_id": "5>41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_042.draft.json",
+  "thesis_id": "5>42",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_043.draft.json",
+  "thesis_id": "5>43",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_044.draft.json",
+  "thesis_id": "5>44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_045.draft.json",
+  "thesis_id": "5>45",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_046.draft.json",
+  "thesis_id": "5>46",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_047.draft.json",
+  "thesis_id": "5>47",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_048.draft.json",
+  "thesis_id": "5>48",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_049.draft.json",
+  "thesis_id": "5>49",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_050.draft.json",
+  "thesis_id": "5>50",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_051.draft.json",
+  "thesis_id": "5>51",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_052.draft.json",
+  "thesis_id": "5>52",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_053.draft.json",
+  "thesis_id": "5>53",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_054.draft.json",
+  "thesis_id": "5>54",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_055.draft.json",
+  "thesis_id": "5>55",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_056.draft.json",
+  "thesis_id": "5>56",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_057.draft.json",
+  "thesis_id": "5>57",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_5_058.draft.json",
   "thesis_id": "5>58",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_059.draft.json",
+  "thesis_id": "5>59",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_060.draft.json",
+  "thesis_id": "5>60",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_061.draft.json",
+  "thesis_id": "5>61",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_5_062.draft.json",
+  "thesis_id": "5>62",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_001.draft.json",
+  "thesis_id": "6>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_002.draft.json",
+  "thesis_id": "6>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_003.draft.json",
+  "thesis_id": "6>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_004.draft.json",
+  "thesis_id": "6>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_005.draft.json",
+  "thesis_id": "6>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_006.draft.json",
+  "thesis_id": "6>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_007.draft.json",
+  "thesis_id": "6>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_008.draft.json",
+  "thesis_id": "6>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_009.draft.json",
+  "thesis_id": "6>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_6_010.draft.json",
+  "thesis_id": "6>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_001.draft.json",
+  "thesis_id": "7>1",
+  "quotations_checked": [
+   {
+    "work": "cassirer1942",
+    "text": "a supersensible knowledge, which is alone able to disclose the supersensible nature",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_7_002.draft.json",
+  "thesis_id": "7>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_003.draft.json",
+  "thesis_id": "7>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_004.draft.json",
+  "thesis_id": "7>4",
   "quotations_checked": []
  },
  {
@@ -954,6 +6272,454 @@
   ]
  },
  {
+  "file": "entries/own_7_006.draft.json",
+  "thesis_id": "7>6",
+  "quotations_checked": [
+   {
+    "work": "cassirer1942",
+    "text": "it is harmful to real and genuine knowledge of God",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "selfknowledge_notes",
+    "text": "Pico himself had accorded a significant place to Pythagorean and Platonic mathematics in his project",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_7_007.draft.json",
+  "thesis_id": "7>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_008.draft.json",
+  "thesis_id": "7>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_009.draft.json",
+  "thesis_id": "7>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7_010.draft.json",
+  "thesis_id": "7>10",
+  "quotations_checked": [
+   {
+    "work": "mandosio2012",
+    "text": "Part of this profound and divine Science, had Joachim the Prophesier atteyned unto: by Numbers Forma",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_7_011.draft.json",
+  "thesis_id": "7>11",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "quoted, and I shall not add any except the eleventh thesis of Pico's Conclusiones de Mathematicis se",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_7a_001.draft.json",
+  "thesis_id": "7a>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_002.draft.json",
+  "thesis_id": "7a>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_003.draft.json",
+  "thesis_id": "7a>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_004.draft.json",
+  "thesis_id": "7a>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_005.draft.json",
+  "thesis_id": "7a>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_006.draft.json",
+  "thesis_id": "7a>6",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_007.draft.json",
+  "thesis_id": "7a>7",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_008.draft.json",
+  "thesis_id": "7a>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_009.draft.json",
+  "thesis_id": "7a>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_010.draft.json",
+  "thesis_id": "7a>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_011.draft.json",
+  "thesis_id": "7a>11",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_012.draft.json",
+  "thesis_id": "7a>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_013.draft.json",
+  "thesis_id": "7a>13",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_014.draft.json",
+  "thesis_id": "7a>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_015.draft.json",
+  "thesis_id": "7a>15",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_016.draft.json",
+  "thesis_id": "7a>16",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_017.draft.json",
+  "thesis_id": "7a>17",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_018.draft.json",
+  "thesis_id": "7a>18",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_019.draft.json",
+  "thesis_id": "7a>19",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_020.draft.json",
+  "thesis_id": "7a>20",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_021.draft.json",
+  "thesis_id": "7a>21",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_022.draft.json",
+  "thesis_id": "7a>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_023.draft.json",
+  "thesis_id": "7a>23",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_024.draft.json",
+  "thesis_id": "7a>24",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_025.draft.json",
+  "thesis_id": "7a>25",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_026.draft.json",
+  "thesis_id": "7a>26",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_027.draft.json",
+  "thesis_id": "7a>27",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_028.draft.json",
+  "thesis_id": "7a>28",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_029.draft.json",
+  "thesis_id": "7a>29",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_030.draft.json",
+  "thesis_id": "7a>30",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_031.draft.json",
+  "thesis_id": "7a>31",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_032.draft.json",
+  "thesis_id": "7a>32",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_033.draft.json",
+  "thesis_id": "7a>33",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_034.draft.json",
+  "thesis_id": "7a>34",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_035.draft.json",
+  "thesis_id": "7a>35",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_036.draft.json",
+  "thesis_id": "7a>36",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_037.draft.json",
+  "thesis_id": "7a>37",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_038.draft.json",
+  "thesis_id": "7a>38",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_039.draft.json",
+  "thesis_id": "7a>39",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_040.draft.json",
+  "thesis_id": "7a>40",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_041.draft.json",
+  "thesis_id": "7a>41",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_042.draft.json",
+  "thesis_id": "7a>42",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_043.draft.json",
+  "thesis_id": "7a>43",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_044.draft.json",
+  "thesis_id": "7a>44",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_045.draft.json",
+  "thesis_id": "7a>45",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_046.draft.json",
+  "thesis_id": "7a>46",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_047.draft.json",
+  "thesis_id": "7a>47",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_048.draft.json",
+  "thesis_id": "7a>48",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_049.draft.json",
+  "thesis_id": "7a>49",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_050.draft.json",
+  "thesis_id": "7a>50",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_051.draft.json",
+  "thesis_id": "7a>51",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_052.draft.json",
+  "thesis_id": "7a>52",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_053.draft.json",
+  "thesis_id": "7a>53",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_054.draft.json",
+  "thesis_id": "7a>54",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_055.draft.json",
+  "thesis_id": "7a>55",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_056.draft.json",
+  "thesis_id": "7a>56",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_057.draft.json",
+  "thesis_id": "7a>57",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_058.draft.json",
+  "thesis_id": "7a>58",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_059.draft.json",
+  "thesis_id": "7a>59",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_060.draft.json",
+  "thesis_id": "7a>60",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_061.draft.json",
+  "thesis_id": "7a>61",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_062.draft.json",
+  "thesis_id": "7a>62",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_063.draft.json",
+  "thesis_id": "7a>63",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_064.draft.json",
+  "thesis_id": "7a>64",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_065.draft.json",
+  "thesis_id": "7a>65",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_066.draft.json",
+  "thesis_id": "7a>66",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_067.draft.json",
+  "thesis_id": "7a>67",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_068.draft.json",
+  "thesis_id": "7a>68",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_069.draft.json",
+  "thesis_id": "7a>69",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_070.draft.json",
+  "thesis_id": "7a>70",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_071.draft.json",
+  "thesis_id": "7a>71",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_072.draft.json",
+  "thesis_id": "7a>72",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_073.draft.json",
+  "thesis_id": "7a>73",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_7a_074.draft.json",
+  "thesis_id": "7a>74",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_001.draft.json",
+  "thesis_id": "8>1",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_002.draft.json",
+  "thesis_id": "8>2",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_003.draft.json",
+  "thesis_id": "8>3",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_004.draft.json",
+  "thesis_id": "8>4",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_005.draft.json",
+  "thesis_id": "8>5",
+  "quotations_checked": []
+ },
+ {
   "file": "entries/own_8_006.draft.json",
   "thesis_id": "8>6",
   "quotations_checked": [
@@ -976,6 +6742,180 @@
   ]
  },
  {
+  "file": "entries/own_8_008.draft.json",
+  "thesis_id": "8>8",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_009.draft.json",
+  "thesis_id": "8>9",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_010.draft.json",
+  "thesis_id": "8>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_011.draft.json",
+  "thesis_id": "8>11",
+  "quotations_checked": [
+   {
+    "work": "corazzol2019",
+    "text": "The famous saying of Zoroaster's May [he/she/it] not go out when the Lictor passes can be perfectly ",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_8_012.draft.json",
+  "thesis_id": "8>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_013.draft.json",
+  "thesis_id": "8>13",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "I do not know in what context puer was used by the interpreters of Zoroaster's sayings. Nevertheless",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_8_014.draft.json",
+  "thesis_id": "8>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_8_015.draft.json",
+  "thesis_id": "8>15",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit aff",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_001.draft.json",
+  "thesis_id": "9>1",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "quia hec omnia reprobavi in prima conclusione mea",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "copenhaver2019",
+    "text": "The first four propositions distinguish good magic from bad",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "busi2014",
+    "text": "Piu che una scusa è una confessione",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Medieval magical treatises regularly began by protesting",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_002.draft.json",
+  "thesis_id": "9>2",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "Praedictam autem specificationem et restrictionem",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "certain arts, disguising themselves as natural philosophy",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Magia secundum communiter loquentes est ars cognoscendi",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_003.draft.json",
+  "thesis_id": "9>3",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "parte pratica della scienza naturale",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "mandosio2012",
+    "text": "the highest point of all philosophy",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "farmer1998",
+    "text": "concocted from the oil of scorpions and the tongues of asps",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_004.draft.json",
+  "thesis_id": "9>4",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "our obligation to operate magic in the world",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "mandosio2012",
+    "text": "the highest point of all philosophy",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "farmer1998",
+    "text": "Dato quocunque obiecto practicabili, nobilior est operatio",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_005.draft.json",
+  "thesis_id": "9>5",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_9_006.draft.json",
+  "thesis_id": "9>6",
+  "quotations_checked": [
+   {
+    "work": "busi2014",
+    "text": "le acque sopracelesti sono considerate alla stregua di un balsamo divino, che scende a guisa di abbo",
+    "status": "NOT_FOUND"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_007.draft.json",
+  "thesis_id": "9>7",
+  "quotations_checked": [
+   {
+    "work": "black2006",
+    "text": "non solum ego non approbavi in conclusionibus meis aut sequutus sum, sed expresse reprobavi",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
   "file": "entries/own_9_008.draft.json",
   "thesis_id": "9>8",
   "quotations_checked": [
@@ -985,6 +6925,171 @@
     "status": "FOUND_EXACT"
    }
   ]
+ },
+ {
+  "file": "entries/own_9_009.draft.json",
+  "thesis_id": "9>9",
+  "quotations_checked": [
+   {
+    "work": "wirszubski1989",
+    "text": "rest entirely on the distinction between revealed and nonrevealed science",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "de virtute sermonis falsa, erronea, superstitiosa et heretica",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "false, erroneous, superstitious, and heretical",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2022",
+    "text": "now the most discussed of Pico's 900 propositions",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2019",
+    "text": "understanding nothing at all about Kabbalah, not even the word",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "fuisse perfidum quendam hominem et diabolicum, qui dictus est Cabala",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "non haeretice, non superstitiose, sed scientifice",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "true and tolerable",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "cherishing the deceits of the Jews",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "disguising themselves as natural philosophy",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "cassirer1942",
+    "text": "takes refuge in magic",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "copenhaver2019",
+    "text": "Clever and correct but evasive",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2019",
+    "text": "seems less outrageous in context",
+    "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_010.draft.json",
+  "thesis_id": "9>10",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_9_011.draft.json",
+  "thesis_id": "9>11",
+  "quotations_checked": [
+   {
+    "work": "akopyan2018",
+    "text": "Mirabilia artis Magicae non fiunt nisi per unionem et actuationem eorum, quae seminaliter et separat",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_012.draft.json",
+  "thesis_id": "9>12",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_9_013.draft.json",
+  "thesis_id": "9>13",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "homo magus functions as a cosmic priest",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "busi2014",
+    "text": "Et sicut agricola ulmos vitibus, ita magus terram caelo",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "copenhaver2019",
+    "text": "a farmer marries elm to vine, so a magus joins earth to heaven",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "akopyan2018",
+    "text": "This image of alchemical marriage was used by several alchemists",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_014.draft.json",
+  "thesis_id": "9>14",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_9_015.draft.json",
+  "thesis_id": "9>15",
+  "quotations_checked": [
+   {
+    "work": "farmer1998",
+    "text": "it is not possible to know for certain his meaning here",
+    "status": "NOT_FOUND"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "asserts the superiority of Kabbala over magic",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "the powerful ally of natural magic, set Christian Kabbala",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "mandosio2012",
+    "text": "the higher point of magic was the lower",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_016.draft.json",
+  "thesis_id": "9>16",
+  "quotations_checked": [
+   {
+    "work": "mandosio2012",
+    "text": "Wirszubski wrongly interpreted these conclusions",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_017.draft.json",
+  "thesis_id": "9>17",
+  "quotations_checked": []
  },
  {
   "file": "entries/own_9_018.draft.json",
@@ -1008,6 +7113,17 @@
   ]
  },
  {
+  "file": "entries/own_9_019.draft.json",
+  "thesis_id": "9>19",
+  "quotations_checked": [
+   {
+    "work": "akopyan2018",
+    "text": "characters and figures are more powerful in a magical work than any material quality",
+    "status": "NO_CORPUS_FILE"
+   }
+  ]
+ },
+ {
   "file": "entries/own_9_020.draft.json",
   "thesis_id": "9>20",
   "quotations_checked": []
@@ -1020,6 +7136,11 @@
  {
   "file": "entries/own_9_022.draft.json",
   "thesis_id": "9>22",
+  "quotations_checked": []
+ },
+ {
+  "file": "entries/own_9_023.draft.json",
+  "thesis_id": "9>23",
   "quotations_checked": []
  },
  {
@@ -1040,6 +7161,27 @@
     "work": "wirszubski1989",
     "text": "twenty-fifth magical thesis",
     "status": "FOUND_EXACT"
+   }
+  ]
+ },
+ {
+  "file": "entries/own_9_026.draft.json",
+  "thesis_id": "9>26",
+  "quotations_checked": [
+   {
+    "work": "howlett2021",
+    "text": "something is achieved to which no magic attains",
+    "status": "NO_CORPUS_FILE"
+   },
+   {
+    "work": "wirszubski1989",
+    "text": "Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur pe",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "kabbalah_paradigma",
+    "text": "Pico, Conclusio magica, 9>26",
+    "status": "NO_CORPUS_FILE"
    }
   ]
  }
