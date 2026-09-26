@@ -3,11 +3,11 @@
  "tier": "C",
  "latin": "Sex transcendentia quae ponit communis doctrina a iunioribus latinis sunt efficta; ea et graeci peripatetici, et princeps eorum Aristoteles nescit.",
  "latin_source": "farmer1998:19083",
- "latin_note": "The sheet's underscore in 'doctrina_a' is restored to a space.",
+ "latin_note": "The sheet's underscore in 'doctrina_a' (farmer1998:19083) is restored to a space.",
  "translation": "The six transcendentals posited by the common teaching were fabricated by the more recent Latins; the Greek Peripatetics, and their prince Aristotle, know nothing of them.",
- "translation_note": "Sense checked; no further crux.",
+ "translation_note": "Sense checked against the Latin at farmer1998:19083, with no further crux identified.",
  "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19138; awaiting human check",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy, farmer1998:18858).",
  "writer": "TRANSLATOR-T05, 2026-09-25"
 }

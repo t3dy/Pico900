@@ -3,11 +3,11 @@
  "tier": "C",
  "latin": "Notitia de nouo acquisita fit ex praecedenti cognitione tanquam ex termino a quo, et tanquam ex causa effectiua partiali, formali, directiua, et tanquam ex causa praedisponente materiali.",
  "latin_source": "farmer1998:19194",
- "latin_note": "1486/1487 apparatus: 1486 omits paragraph mark (numbers in the present edition) that normally signal a new thesis",
+ "latin_note": "1486/1487 apparatus (farmer1998:19231): 1486 omits paragraph mark (numbers in the present edition) that normally signal a new thesis.",
  "translation": "Knowledge newly acquired arises out of prior cognition, taken as its point of departure, and as a partial efficient, formal, and directive cause, and as a predisposing material cause.",
- "translation_note": "Sense checked; no further crux beyond the apparatus's missing paragraph mark.",
+ "translation_note": "Sense checked against farmer1998:19257; no further crux beyond the apparatus's missing paragraph mark noted at farmer1998:19231.",
  "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19257; awaiting human check",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "attribution": "Pico's own opinion.",
  "writer": "TRANSLATOR-T05, 2026-09-25"
 }
