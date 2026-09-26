@@ -1,0 +1,23 @@
+{
+ "thesis_id": "11>38",
+ "tier": "B",
+ "latin": "Effectus qui sunt sequuti post mortem Christi debent conuincere quemlibet Cabalistam quod Iesus Nazarenus fuit uerus Messias.",
+ "latin_source": "farmer1998:27222",
+ "translation": "The effects that followed after Christ's death ought to convince any Cabalist that Jesus of Nazareth was the true Messiah.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27222",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27222).",
+ "doctrine": "Farmer's note identifies 'the effects that followed the death of Christ' as the eclipse of the sun and the tearing of the Temple veil (Luke 23:44-46, Mark 15:33-39), adding that Matthew 27:45-54 further reports an earthquake and the rising of the dead, and that Pico returns to the theme in the Heptaplus's second preface (farmer1998:27256).",
+ "historiography": "The Erkenntnistheorie study groups this thesis with 8>9 and 11>46 under a discussion of the Temple veil, quoting the Latin of 11>46 in full and citing Pompeo Faracovi's study of 'il tema dell'eclissi' (the theme of the eclipse) for further background (kabbalah_paradigma:2122).",
+ "connections": [
+  "8>9",
+  "11>46"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Faracovi's discussion of the eclipse theme, cited only at second hand (kabbalah_paradigma:2122), was not opened directly and its content is not established here."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

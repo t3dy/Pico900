@@ -1,0 +1,30 @@
+{
+ "thesis_id": "11>32",
+ "tier": "B",
+ "latin": "Si duplex Aleph quod est in textu: Non auferetur sceptrum, etc., coniunxerimus ad duplex Aleph quod est in textu: Deus possedit me ab initio, et ad duplex Aleph quod est in textu: Terra autem erat inanis, per uiam Cabalae intelligemus ibi Iacob de illo uero Messia locutum, qui fuit Iesus Nazarenus.",
+ "latin_source": "farmer1998:27025",
+ "latin_note": "The 1487 reprint reads 'ab initio . et duplex aleph' at the corresponding point (farmer1998:27036).",
+ "translation": "If we join the double Aleph that is in the text 'The scepter shall not depart', etc., to the double Aleph that is in the text 'The Lord possessed me from the beginning', and to the double Aleph that is in the text 'And the earth was without form', we shall understand, by way of the Cabala, that there Jacob spoke of that true Messiah who was Jesus of Nazareth.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27025",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27025).",
+ "doctrine": "Farmer's note identifies the three texts as Genesis 49:10 (Jacob's blessing), Proverbs 8:22, and Genesis 1:2, and states that 'Pico here is correlating three unconnected passages from the Old Testament to read out their collective Christian message' (farmer1998:27102). Farmer quotes Wirszubski's characterization of the technique: each Aleph 'is no more than a kind of code number or punched card by means of which three different verses are linked, each carrying latent Messiological connotations' (farmer1998:27102).",
+ "historiography": "Wirszubski quotes the thesis's Latin in full, bracketing the three scriptural references himself as Genesis 49:10, Proverbs 8:22, and Genesis 1:2 (wirszubski1989:9008, 9010). A second record in this packet, also nominally tied to 'Conclusio xxxii', quotes different Latin on 'another life' in Plato's Epinomis and the Cabalistic term 'seculum'; the packet flags it as unresolved between 28.n and 11.n numbering, it does not match this thesis's wording, and it is not used here (wirszubski1989:9710).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxerimus ad duplex Aleph quod est in textu [Prov. 8:22] Deus possedit me ab initio, et ad duplex Aleph quod est in textu [Gen. 1:2] Terra autem erat inanis, per viam Cabalae intelligemus ibi Iacob de illo Messia",
+   "work": "wirszubski1989",
+   "line": 9010,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The wirszubski1989:9710 record on 'another life in the Epinomis' does not match this thesis's content and is not used as evidence here; see historiography.",
+  "No Farmer cross-reference is recorded for this thesis in the material consulted; its connections to neighboring theses beyond the shared double-Aleph device are not established here."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,24 @@
+{
+ "thesis_id": "11>26",
+ "tier": "B",
+ "latin": "Quilibet Cabalista habet concedere ex dictis doctorum huius scientiae hoc manifeste dicentium, quod peccatum originale in aduentu messiae expiabitur.",
+ "latin_source": "farmer1998:26921",
+ "translation": "Every Cabalist has to concede, from the sayings of the doctors of this science who state this manifestly, that original sin will be expiated at the Messiah's coming.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:26921",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26921).",
+ "doctrine": "Farmer's note groups this thesis with the preceding 11>25 as views 'that could be drawn directly from a wide range of kabbalistic, Midrashic, or Talmudic texts' (farmer1998:26992). The thesis follows the same pattern as 11>25, a claim about the Messiah said to be conceded by Cabalist doctors themselves and read by Pico as confirming Christian doctrine, here applied to original sin rather than to the nature of captivity (farmer1998:26917, 26921).",
+ "connections": [
+  "11>22",
+  "11>25",
+  "28.31"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "A record in this packet nominally tied to Wirszubski's 'Conclusio xxvi' quotes Latin beginning 'Sicut per primi agentis influxum...', which does not match this thesis's wording; the packet flags the identification as unresolved between 28.n and 11.n numbering, and it is not used as evidence here (wirszubski1989:9948).",
+  "Which specific Cabalist authorities or texts Pico had in view for this claim is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

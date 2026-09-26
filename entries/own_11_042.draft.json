@@ -1,0 +1,37 @@
+{
+ "thesis_id": "11>42",
+ "tier": "B",
+ "latin": "Scitur per fundamenta cabale quam recte dixerit Iesus: Antequam nasceretur Abraam, ego sum.",
+ "latin_source": "farmer1998:27323",
+ "latin_note": "The colon is retained from the 1486 print at the corresponding point (farmer1998:27349).",
+ "translation": "It is known through the foundations of the Cabala how rightly Jesus said: 'Before Abraham was born, I am.'",
+ "translation_note": "The allusion is to John 8:58, per Farmer's note (farmer1998:27355).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27323",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27323).",
+ "doctrine": "Farmer's note identifies the allusion as John 8:58 and directs comparison to 11>37 (farmer1998:27355). Thesis 11>37, quoted in full for this batch, concerns the subordination of piety to wisdom in 'the right-hand ordering' of the sefirot, correlated there with Abraham's day and the day of Christ (farmer1998:27217). Farmer's cross-reference list further connects this thesis to 11>39, on Christ's answer 'I am the beginning who speaks to you' (farmer1998:27226), to 11>44 and 11>45, on the northern quarter and the water of baptism (farmer1998:27331, 27335), to 11>67, on the Cabalists' teaching that the heavens are of fire and water (farmer1998:27844), and to 28.33, among the historical Hebrew-Cabalist theses, on the letters of the Law (farmer1998:18183).",
+ "historiography": "Wirszubski quotes the thesis's Latin in full, introducing it, after having 'discussed just now' the thirty-seventh thesis, as one of 'two more' that 'are variations of the same theme' (wirszubski1989:8558, 8560). In the same discussion he adds, before the excerpt in this packet breaks off, that 'granted that Abraham is the fourth sefirah, Jesus cannot be anterior to' (the sentence is not completed in the material consulted) (wirszubski1989:8560).",
+ "connections": [
+  "11>37",
+  "11>39",
+  "11>44",
+  "11>45",
+  "11>67",
+  "28.33"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Scitur per fundamenta Cabalae quam recte dixerit Iesus [John 8:58] Antequam nasceretur Abraam ego sum.",
+   "work": "wirszubski1989",
+   "line": 8560,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The remainder of Wirszubski's sentence beginning 'Granted that Abraham is the fourth sefirah, Jesus cannot be anterior to...' is cut off in the material consulted, and his full argument is not established here (wirszubski1989:8560)."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

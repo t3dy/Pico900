@@ -1,0 +1,31 @@
+{
+ "thesis_id": "11>30",
+ "tier": "B",
+ "latin": "Necessario habent concedere Cabaliste secundum sua principia quod uerus Messias futurus est talis, ut de eo uere dicatur quod est Deus et dei filius.",
+ "latin_source": "farmer1998:27017",
+ "translation": "The Cabalists must necessarily concede, according to their own principles, that the true Messiah to come will be such that it can truly be said of him that he is God and the Son of God.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27017",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27017).",
+ "doctrine": "Farmer's note directs comparison to 11>39 (farmer1998:27052). Thesis 11>39 draws a consequence 'from this conclusion and the thirtieth stated above', namely that Jesus, asked who he was, rightly answered 'I am the beginning who speaks to you' (farmer1998:27226), so that the identification of the 'true Messiah' as God and Son of God argued here is meant to found that later, more specific Christological claim (farmer1998:27017, 27226).",
+ "historiography": "Wirszubski, tracing the manuscript sources of a run of theses in Menahem Recanati's commentary, states that 'the source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va', in a passage principally concerned with the placement of 'Conclusio xxix' between two theses on angels (wirszubski1989:3180). His discussion establishes only a manuscript source for the thesis's place in the sequence, not an account of its doctrinal content (wirszubski1989:3180).",
+ "connections": [
+  "11>28",
+  "11>39"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va",
+   "work": "wirszubski1989",
+   "line": 3180,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "What in Recanati's text, specifically, corresponds to the content of this thesis (as opposed to its place in the manuscript sequence) is not established by the sources consulted (wirszubski1989:3180)."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

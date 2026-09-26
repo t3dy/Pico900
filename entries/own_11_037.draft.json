@@ -1,0 +1,39 @@
+{
+ "thesis_id": "11>37",
+ "tier": "B",
+ "latin": "Qui intellexerit in dextrali coordinatione subordinationem pietatis ad sapientiam, perfecte intelliget_per uiam Cabalae quomodo Abraam in die suo per rectam lineam uidit diem Christi, et gauisus est.",
+ "latin_source": "farmer1998:27217",
+ "latin_note": "The underscore in 'intelliget_per' reproduces an OCR artifact for a word-space in the corpus copy (farmer1998:27217).",
+ "translation": "Whoever will have understood, in the right-hand ordering, the subordination of piety to wisdom will fully understand, by way of the Cabala, how Abraham in his day, by a straight line, saw the day of Christ, and rejoiced.",
+ "translation_note": "The allusion is to John 8:56 ('Abraham... saw my day, and was glad'); Farmer glosses 'piety' and 'wisdom' as the fourth and second sefirot respectively, correlated here with 'the day of Abraham' and 'the day of Christ' (farmer1998:27242).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27217",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27217).",
+ "doctrine": "Farmer glosses 'piety' and 'wisdom' as the fourth and second sefirot, correlated with 'the day of Abraham' and 'the day of Christ', and identifies Christ's association with divine 'Wisdom' with 1 Corinthians 1:24; he glosses the 'right-hand order' as the sefirot proper, as against an 'emanation of the left-hand' composed of evil forces (farmer1998:27242). He cross-references the thesis to 11>29, on the Cabalists' 'green line' that girds the universe, and to 25.7, on the threefold nature signified by the direct, reflected, and refracted ray in the science of optics (farmer1998:27012, 17003).",
+ "historiography": "Wirszubski quotes the thesis's Latin in full twice: first introducing it as 'Pico's thirty-seventh thesis' that 'bears out my conclusion' (wirszubski1989:7057), and again designating it 'Conclusio xxxvii' in a passage on how Christian Kabbala is created through the superposition of the symbolic language of Jewish Kabbala upon an eminently Christian text (wirszubski1989:8518, 8520).",
+ "connections": [
+  "11>29",
+  "25.7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico's thirty-seventh thesis bears out my conclusion",
+   "work": "wirszubski1989",
+   "line": 7057,
+   "verbatim": true
+  },
+  {
+   "text": "how Christian Kabbala is created through the superposition of the symbolic language of Jewish Kabbala upon an eminently Christian text",
+   "work": "wirszubski1989",
+   "line": 8518,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific 'conclusion' of Wirszubski's own argument that this thesis is said to 'bear out' (wirszubski1989:7057) is not given in the material consulted here."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

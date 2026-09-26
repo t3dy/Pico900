@@ -4,7 +4,7 @@
  "latin": "Qui profunde considerauerit nouenarium beatitudinum numerum de quo apud Matheum in euangelio, uidebit illas mirabiliter conuenire nouenario",
  "latin_source": "farmer1998:27741",
  "translation": "Whoever will have deeply considered the ninefold number of the beatitudes spoken of in the Gospel according to Matthew will see that they wonderfully agree with the ninefold [...]",
- "translation_note": "The Latin given in data/inventory/theses.json ends mid-sentence at 'nouenario'; the translation stops at the same point, marked '[...]'. Busi and Ebgi's edition quotes a fuller continuation of the same thesis's Latin, extending through '...numerationum quae sunt infra primam, quae est inaccessibilis divinitatis abyssus' (busi2014:15610), but this continuation has not been collated against Farmer's copy-text and is not incorporated into the Latin field here.",
+ "translation_note": "The Latin given in data/inventory/theses.json ends mid-sentence at 'nouenario' (farmer1998:27741); the translation stops at the same point, marked '[...]'. Busi and Ebgi's edition quotes a fuller continuation of the same thesis's Latin, extending through '...numerationum quae sunt infra primam, quae est inaccessibilis divinitatis abyssus' (busi2014:15610), but this continuation has not been collated against Farmer's copy-text and is not incorporated into the Latin field here.",
  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch20, from Latin at farmer1998:27741",
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion by his own opinion) (farmer1998:27741).",

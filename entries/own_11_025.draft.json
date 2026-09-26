@@ -1,0 +1,36 @@
+{
+ "thesis_id": "11>25",
+ "tier": "B",
+ "latin": "Quilibet cabalista habet concedere_quod messias eos a captiuitate Diabolica et non temporali erat liberaturus.",
+ "latin_source": "farmer1998:26917",
+ "latin_note": "The underscore in 'concedere_quod' reproduces an OCR artifact for a word-space in the corpus copy of Farmer's edition (farmer1998:26917); a modern-spelling quotation of the same clause in kabbalah_paradigma prints it as two separate words, 'concedere quod' (kabbalah_paradigma:2110).",
+ "translation": "Every Cabalist has to concede that the Messiah was going to free them from diabolical, and not temporal, captivity.",
+ "translation_note": "The unstated antecedent of 'eos' ('them') is not supplied by this thesis alone; the point at issue is the kind of captivity — a spiritual, diabolical one rather than the Jews' political subjection — from which the Cabalists' own Messiah was to free his people (farmer1998:26917).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:26917",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26917).",
+ "doctrine": "Farmer's note groups this thesis with the next as views 'that could be drawn directly from a wide range of kabbalistic, Midrashic, or Talmudic texts' (farmer1998:26992). Thesis 11>26 makes a structurally similar move immediately afterward, holding that Cabalist authorities themselves concede that original sin will be expiated at the Messiah's coming (farmer1998:26921), and 11>22 similarly argues, from Cabalistic exegesis of the redness of Esau, to a claim about Christ (farmer1998:26817).",
+ "historiography": "kabbalah_paradigma quotes this thesis's Latin in a footnote that also cites 11>21, an apparently garbled '11>24' reference (printed 'U>24'), and 11>40, appending a cross-reference to Wirszubski's Encounter, page 188, for the connection between Satan and the sefirah Geburah in Pico's theses (kabbalah_paradigma:2110). Which of the grouped theses that cross-reference is meant to illuminate beyond 11>40, whose subject (the Messiah purging by water) is likewise not evidently about Satan or Geburah, is not stated in the material consulted (kabbalah_paradigma:2110).",
+ "connections": [
+  "11>22",
+  "11>26",
+  "11>40",
+  "28.31"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Quilibet cabalista habet concedere quod messias eos a captivitate Diabolica et non temporali erat liberaturus.",
+   "work": "kabbalah_paradigma",
+   "line": 2110,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether kabbalah_paradigma's cross-reference to Wirszubski's Encounter p. 188 on Satan and Geburah is meant to bear specifically on this thesis's content, as against the other theses quoted in the same footnote, is not established by the sources consulted (kabbalah_paradigma:2110).",
+  "A record in this packet nominally tied to Wirszubski's 'Conclusio xxv' is flagged there as unresolved between the historical Hebrew-Cabalist theses (28.n) and this section (11>n); it is not used as evidence here (wirszubski1989:9123)."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

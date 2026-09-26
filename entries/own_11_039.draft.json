@@ -1,0 +1,43 @@
+{
+ "thesis_id": "11>39",
+ "tier": "B",
+ "latin": "Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus lesus quis esset, rectissime respondit, dicens: Ego sum principium qui loquor uobis.",
+ "latin_source": "farmer1998:27226",
+ "latin_note": "'lesus' apparently reflects an OCR misreading of 'Iesus' (I/l confusion) in the corpus copy (farmer1998:27226); Wirszubski's transcription of the same clause reads 'Iesus quis esset' (wirszubski1989:8572).",
+ "translation": "From this conclusion and the thirtieth stated above, it follows that every Cabalist has to concede that Jesus, when asked who he was, answered most rightly, saying: 'I am the beginning who speaks to you.'",
+ "translation_note": "The allusion is to John 8:25, in a form found, per Farmer, in certain variations of the Vulgate (farmer1998:27301).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27226",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27226).",
+ "doctrine": "Farmer's note states that Pico here correlates Christ with Hokhmah ('wisdom'), the second sefirah, comparing this thesis with 28.25 (farmer1998:27301). The thesis draws its conclusion explicitly from itself together with 'the thirtieth stated above', i.e. 11>30, which holds that the Cabalists must concede, by their own principles, that the true Messiah to come will be one of whom it can truly be said that he is God and Son of God (farmer1998:27017).",
+ "historiography": "Wirszubski quotes the thesis's Latin in full as 'the thirty-ninth' of a set, remarking that Pico's argument here is 'made easy not only by the seventh and sixty-first theses but also by the thirty-ninth' (wirszubski1989:8570, 8572). Discussing elsewhere the interchangeability of 'Principium' and 'Sapientia' as symbols in Pico's system, Wirszubski observes that, since 'Deifilius est sapientia patris', Jesus could say of himself 'Ego sum principium qui loquor vobis' (wirszubski1989:8868).",
+ "connections": [
+  "11>30",
+  "11>40",
+  "11>41",
+  "11>44",
+  "11>45",
+  "28.25"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus Iesus quis esset rectissime respondit dicens [John 8:25] Ego sum principium qui loquor uobis.",
+   "work": "wirszubski1989",
+   "line": 8572,
+   "verbatim": true
+  },
+  {
+   "text": "insofar as Deifilius est sapientia patris, Jesus could say of himself Ego sum principium qui loquor vobis",
+   "work": "wirszubski1989",
+   "line": 8868,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Which theses Wirszubski means by 'the seventh and sixty-first' in the same set (wirszubski1989:8570) is not identified in the material consulted."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

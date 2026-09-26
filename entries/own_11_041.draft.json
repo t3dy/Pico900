@@ -1,0 +1,31 @@
+{
+ "thesis_id": "11>41",
+ "tier": "B",
+ "latin": "Sciri potest in Cabalam per mysterium mem clausi cur post se Christus miserit paraclytum.",
+ "latin_source": "farmer1998:27235",
+ "latin_note": "Wirszubski's transcription of the same clause reads 'in Cabala' (ablative) where the copy-text consulted here has 'in Cabalam' (accusative) (wirszubski1989:8717); which reading is closer to the 1486 print is not established here.",
+ "translation": "It can be known in the Cabala, through the mystery of the closed mem, why Christ sent the Paraclete after himself.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27235",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27235).",
+ "doctrine": "Farmer's note explains 'the mystery of the closed mem' as an allusion to the Hebrew letter mem's open and closed forms, the latter used at the end of a word, and states that Pico intended to draw out its letter symbolism 'through the means suggested in 28.33'; it adds that the closed mem was a commonplace of Hebrew commentary, appearing in a non-final position only once in the Hebrew Bible (Isaiah 9:6), a verse of strong Messianic character, and glosses 'Paraclete' as the Holy Spirit (farmer1998:27307).",
+ "historiography": "Wirszubski quotes the thesis's Latin twice, introducing it as an instance of how 'his own theses afford a remarkable example' of letter mysticism (wirszubski1989:8716, 8717). A separate record in this packet, nominally tied to Wirszubski's 'Conclusio xli', identifies its subject as 'new souls' and its source as the Bahir, 'either directly or indirectly through the quotation in Recanati at fol. 9va' (wirszubski1989:3184); the packet flags this record as unresolved between 28.n and 11.n numbering, and, since its stated subject does not match this thesis's content, it is not used as evidence for this thesis's source here.",
+ "connections": [
+  "28.33"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Sciri potest in Cabala per mysterium Mem clausi, cur post se Christus miserit paraclytum.",
+   "work": "wirszubski1989",
+   "line": 8717,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The wirszubski1989:3184 record on 'Conclusio xli' and 'new souls' does not match this thesis's content and is not used as evidence of its source here; see historiography."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,42 @@
+{
+ "thesis_id": "11>31",
+ "tier": "B",
+ "latin": "Cum audis Cabalistas ponere in Thesua informitatem, intellige informitatem per antecedentiam ad formalitatem, non per priuationem.",
+ "latin_source": "farmer1998:27021",
+ "latin_note": "The 1487 reprint reads 'per accidentiam ad formalitatem' where the text given here has 'per antecedentiam ad formalitatem' (farmer1998:27034).",
+ "translation": "When you hear the Cabalists posit formlessness in Thesua, understand 'formlessness' by priority to formality, not by privation.",
+ "translation_note": "'Thesua' is Pico's own spelling; Farmer's note states that 'Pico's Latin transliteration may be corrupt' and that he 'apparently has in mind Teshuvah = \"penitence\" or \"return,\" alternate name for the third sefirah' (farmer1998:27093). Wirszubski likewise leaves 'Thesua' untranslated and remarks that he cannot say whether it is 'a misprint or a slip of the pen' (wirszubski1989:8974).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27021",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27021).",
+ "doctrine": "The thesis distinguishes two ways formlessness could be predicated of the sefirah Farmer identifies as Teshuvah: as a privation, or as a priority in the order of emanation prior to the conferring of form (farmer1998:27093). Wirszubski's discussion of the surrounding theses links the point to the wider Kabbalistic question of 'which was form and which matter', noting that some Kabbalists identified the formless 'Tohu' of Genesis with the second sefirah and others with the third, and that 'it is the latter view' this thesis reflects (wirszubski1989:9006).",
+ "historiography": "Wirszubski quotes the thesis's Latin in full, stating that its source is 'the Latin translation of Flavius Mithridates, Cod. Vat. Ebr. 190, fol. 343r' (wirszubski1989:8973), and adds that 'whether Thesua is a misprint or a slip of the pen I dare not say' (wirszubski1989:8974). The study cited here as kabbalah_paradigma cross-references the thesis to Wirszubski's Encounter, pages 26-29 and 174-175, and to Wirszubski's separate study of Francesco Giorgio's commentary, on Binah or Teshuvah as informitas (kabbalah_paradigma:1519).",
+ "connections": [
+  "11>29",
+  "11>32",
+  "28.23",
+  "6>7"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "the Latin translation of Flavius Mithridates, Cod. Vat. Ebr. 190, fol. 343r",
+   "work": "wirszubski1989",
+   "line": 8973,
+   "verbatim": true
+  },
+  {
+   "text": "Whether Thesua is a misprint or a slip of the pen I dare not say.",
+   "work": "wirszubski1989",
+   "line": 8974,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether 'Thesua' is a misprint, a slip of the pen, or a deliberate transliteration is not settled by Wirszubski, who states he cannot say (wirszubski1989:8974).",
+  "The specific content of kabbalah_paradigma's cross-reference to Wirszubski's Francesco Giorgio study beyond the page citation is not established here, that work not having been opened (kabbalah_paradigma:1519)."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,34 @@
+{
+ "thesis_id": "11>40",
+ "tier": "B",
+ "latin": "Hoc habent ineuitabiliter concedere Cabaliste, quod uerus messias per aquam homines purgabit.",
+ "latin_source": "farmer1998:27231",
+ "translation": "The Cabalists must inevitably concede this: that the true Messiah will purge men through water.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:27231",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:27231).",
+ "doctrine": "Farmer's note cross-refers the thesis to 11>44-45 (farmer1998:27305). Thesis 11>44, quoted in this thesis's cross-reference list, holds that it can be known from the Cabala, through the mystery of the northern quarter, why God will judge the world by fire, and 11>45 holds that it is most openly known in the Cabala why the Son of God came with the water of baptism, and the Holy Spirit with fire (farmer1998:27331, 27335).",
+ "historiography": "kabbalah_paradigma quotes this thesis's Latin in a footnote grouping it with 11>21, an apparently garbled '11>24' reference, and 11>25, appending a cross-reference to Wirszubski's Encounter, page 188, for the connection between Satan and the sefirah Geburah in Pico (kabbalah_paradigma:2111). A record in this packet on the manuscript source of a differently designated thesis, 'Conclusio xl', states that 'its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim', identifying its source as 'Recanati, fol. 65ra' (wirszubski1989:3188); the packet flags this record as unresolved between 28.n and 11.n numbering, and, since it does not evidently concern the Messiah purging by water, it is not used as evidence for this thesis's source here.",
+ "connections": [
+  "11>25",
+  "11>41",
+  "11>44",
+  "11>45"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Hoc habent inevitabiliter concedere Cabalistae, quod verus messias per aquam homines purgabit.",
+   "work": "kabbalah_paradigma",
+   "line": 2111,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The wirszubski1989:3188 record on 'Conclusio xl' and its Recanati source does not evidently concern this thesis's content and is not used as evidence of its source here; see historiography.",
+  "Whether kabbalah_paradigma's cross-reference to Wirszubski on Satan and Geburah is meant to bear on this thesis specifically, as against the other theses quoted in the same footnote, is not established (kabbalah_paradigma:2111)."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

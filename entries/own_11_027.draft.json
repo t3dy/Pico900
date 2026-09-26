@@ -1,0 +1,28 @@
+{
+ "thesis_id": "11>27",
+ "tier": "B",
+ "latin": "Ex principiis cabalistarum euidenter elicitur quod per aduentum mes-",
+ "latin_source": "farmer1998:26926",
+ "latin_note": "The Latin as given in data/inventory/theses.json breaks off mid-word at 'mes-'; this is an OCR/line-break defect in the copy-text consulted, not a feature of Pico's text (farmer1998:26926), and no further continuation of the sentence is present in the material consulted.",
+ "translation": "From the principles of the Cabalists it is clearly elicited that, through the coming of the... [the source breaks off here, mid-word, in the copy-text consulted].",
+ "translation_note": "The translation stops where the Latin available in the sources consulted stops, mid-word at 'mes-' (farmer1998:26926); the missing continuation, almost certainly a form of 'messias' or 'messiae' given the thesis's place in this series, is not established by the sources consulted.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch19, from Latin at farmer1998:26926",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26926).",
+ "doctrine": "Farmer's note states that the thesis 'ties theses 28.31 and 11>22 together nicely' (farmer1998:26995), but the truncation of the Latin available here prevents any further account of how the argument runs (farmer1998:26926). Thesis 28.31, among the historical Hebrew-Cabalist theses and quoted in this thesis's cross-reference list, holds that circumcision was given for liberation from unclean powers that 'walk about' (farmer1998:18175), and 11>28, the following thesis, reads a Hebrew particle repeated twice in Genesis 1:1 as pointing to two prior creations, an intellectual nature and an animal nature (farmer1998:27006).",
+ "historiography": "A record in this packet nominally tied to Wirszubski's 'Conclusio xxvii' quotes Latin on the sefirot Tiphereth and the tenth sefirah, Diadem ('Omnes torrentes tendunt ad mare...'), which does not match this thesis's wording; the packet flags the identification as unresolved between 28.n and 11.n numbering, and it is not used as evidence here (wirszubski1989:1705).",
+ "connections": [
+  "11>22",
+  "11>28",
+  "28.31"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The completion of the truncated Latin ('mes-') is not established by the sources consulted.",
+  "How thesis 11>27 'ties together' 28.31 and 11>22, beyond Farmer's bare cross-reference note, is not established by the sources consulted (farmer1998:26995).",
+  "The wirszubski1989:1705 record on 'Conclusio xxvii' does not evidently concern this thesis and is not used here; see historiography."
+ ],
+ "writer": "WRITER-full-batch19 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
