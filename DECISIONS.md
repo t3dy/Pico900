@@ -915,3 +915,15 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   `scripts/predeploy_check.py` gates the build (0 problems / 945 pages). The `gh-pages` branch is refreshed after
   each remediation pass. GitHub Pages "Source" still requires a human to set it in repo Settings, per `DEPLOY_STATE.md`.
 
+- **D-28 Second-sweep fabrication remediation filed (`docs/INCIDENT_2026-09-26_SECOND_SWEEP.md`).** The
+  second sweep promised in D-26 ran to completion in four batches (A-D): 9 confirmed fabrications removed,
+  6 misattributions re-tagged to the correct work, and several same-work wrong-line-number citations
+  corrected on discovery, across `own_3_049`, `own_4_001`, `own_4_010`, `own_4_018`, `own_4_019`, `own_4_020`,
+  `own_4_029`, `own_9_001`, `own_9_003`, `own_9_004`, `own_9_006`, `own_9_013`, `own_9_015`, `own_9_018`,
+  `own_10_005`, `own_10_006`, `own_11_018`, `hist_02_040`, `hist_03_001`, `hist_21_006`, `hist_28_024`. All
+  now show 0 NOT_FOUND against `scripts/verify_against_uploaded_corpus.py` (re-run against the full
+  900-entry corpus, not a scoped subset) and pass `scripts/entry_gate_local.py` (900/900). Two new
+  NOT_FOUND quotations surfaced in `own_4_019` (edelheit2008) after this sweep closed and remain open for a
+  future pass. Reason for filing: D-26 forward-referenced this incident doc; per this project's standing
+  rule ("if something a document promises has not been built, build it"), it is now written.
+
