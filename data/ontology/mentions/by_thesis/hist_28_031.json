@@ -1,0 +1,27 @@
+{
+ "thesis_id": "28.31",
+ "latin": "Data est circumcisio ad liberationem a uirtutibus immundis quae in circuitu ambulant.",
+ "farmer_latin_line": 18175,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2543,
+   "method": "latin_quote",
+   "evidence": [
+    "est circumcisio ad liberationem",
+    "immundis que in circuitu",
+    "data est circumcisio ad",
+    "uirtutibus immundis que in"
+   ],
+   "context": "CONCLUSIO X X X I Data est circumcisio ad liberationem a uirtutibus immundis, quae in cir- cuitu ambulant. Cf. Recanati, fol. 47va:"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>22",
+  "11>27",
+  "28.47",
+  "2>80",
+  "3>55",
+  "9>22"
+ ]
+}

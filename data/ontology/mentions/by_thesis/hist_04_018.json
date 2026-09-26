@@ -1,0 +1,35 @@
+{
+ "thesis_id": "4.18",
+ "latin": "Aliquid potest mouere seipsum de actu uirtuali ad actum formalem.",
+ "farmer_latin_line": 12368,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14857,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 18"
+   ],
+   "context": "312 chapter 9 According to thesis 18 anything can move itself from virtual act to formal act.95 This idea can be found in Scotus’s Ordinatio 1, d. 3, pars 3, q. 2, in the midst of a lengthy discussion, entitled: ‘whether the intellective part, when it or any member of it is properly used, would be either the entire cause which"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14882,
+   "method": "latin_quote",
+   "evidence": [
+    "actu uirtuali ad actum",
+    "aliquid potest mouere seipsum",
+    "mouere seipsum de actu",
+    "de actu uirtuali ad"
+   ],
+   "context": "95 Pico, 900 Theses, p. 240: “Aliquid potest movere seipsum de actu virtuali ad actum formalem.” 96 John Duns Scotus, Ordinatio 1, d. 3, pars 3, q. 2, in Opera omnia, vol. 3 (Vatican City, 1954), pp. 245–330."
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.37",
+  "2.38",
+  "2.40",
+  "3>57",
+  "4.19"
+ ]
+}

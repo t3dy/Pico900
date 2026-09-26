@@ -1,0 +1,22 @@
+{
+ "thesis_id": "11>26",
+ "latin": "Quilibet Cabalista habet concedere ex dictis doctorum huius scientiae hoc manifeste dicentium, quod peccatum originale in aduentu messiae expiabitur.",
+ "farmer_latin_line": 26921,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9948,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvi"
+   ],
+   "resolved": false,
+   "context": "New Relationships and Orientations Conclusio xxvi: Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>22",
+  "11>25",
+  "28.31"
+ ]
+}

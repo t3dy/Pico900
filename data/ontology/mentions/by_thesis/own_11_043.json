@@ -1,0 +1,56 @@
+{
+ "thesis_id": "11>43",
+ "latin": "Per mysterium duarum litterarum uau et iod scitur quomodo ipse messias ut deus fuit principium suiipsius ut homo.",
+ "farmer_latin_line": 27327,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1950,
+   "method": "farmer_id",
+   "evidence": [
+    "11>43"
+   ],
+   "context": "tumperfecte quievit, tanquam in suaperfectione, mundus cum Iod coniunctus est cum Vau, quodfactum est in Christo, quifuit verus deifilius et homo. 126 Dazu auch Pico, Conclusio cabalistica..., 11>33. (S. 534). 127 Pico, Conclusio cabalistica..., 11>43. (S. 538): Per mysterium duarum litterarum vau et iod scitur quomodo ipse messias ut deus fuit prineipium suiipsius ut homo. Brought to you by | UCL - University College London"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1950,
+   "method": "latin_quote",
+   "evidence": [
+    "messias ut deus fuit",
+    "scitur quomodo ipse messias",
+    "mysterium duarum litterarum uau",
+    "uau et iod scitur"
+   ],
+   "context": "tumperfecte quievit, tanquam in suaperfectione, mundus cum Iod coniunctus est cum Vau, quodfactum est in Christo, quifuit verus deifilius et homo. 126 Dazu auch Pico, Conclusio cabalistica..., 11>33. (S. 534). 127 Pico, Conclusio cabalistica..., 11>43. (S. 538): Per mysterium duarum litterarum vau et iod scitur quomodo ipse messias ut deus fuit prineipium suiipsius ut homo. Brought to you by | UCL - University College London"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8428,
+   "method": "latin_quote",
+   "evidence": [
+    "messias ut deus fuit",
+    "scitur quomodo ipse messias",
+    "mysterium duarum litterarum uau",
+    "ut deus fuit principium"
+   ],
+   "context": "Conclusio xliii: Per mysterium duarum litterarum Vau et Iod scitur quomodo ipse messias ut deus fuit principium sui ipsius ut homo. Behind Pico's symbolic interpretation of the consonants yod and waw,"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8426,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  xliii"
+   ],
+   "resolved": true,
+   "context": "cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo. Conclusio xliii: Per mysterium duarum litterarum Vau et Iod scitur quomodo ipse messias ut deus fuit principium sui ipsius ut homo."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>44",
+  "11>45",
+  "11>67",
+  "28.33"
+ ]
+}

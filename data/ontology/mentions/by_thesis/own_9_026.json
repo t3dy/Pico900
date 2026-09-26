@@ -1,0 +1,48 @@
+{
+ "thesis_id": "9>26",
+ "latin": "Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabale, si sit pura cabala et immediata, fit aliquid ad quod nulla magia attingit.",
+ "farmer_latin_line": 25480,
+ "mentions": [
+  {
+   "work": "howlett2021",
+   "line": 6210,
+   "method": "latin_quote",
+   "evidence": [
+    "si sit pura cabala",
+    "attingitur per mediationem causarum",
+    "aliquid quod non attingitur",
+    "sicut per primi agentis"
+   ],
+   "context": "of the ﬁrst agent, if that inﬂuence is individual and immediate, some- thing is achieved that is not attained through the mediation of causes, so through a work of Cabala, if it is the pure and immediate Cabala, some- thing is achieved to which no magic attains.’ ‘Sicut per primi agentis inﬂuxum, si sit specialis et immediatus, ﬁt aliquid quod non attingitur per mediationem causarum, ita per opus cabale, si sit pura cabala et immediata, ﬁt aliquid ad quod nulla magia attingit.’"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2184,
+   "method": "farmer_id",
+   "evidence": [
+    "9>26"
+   ],
+   "context": "videtur cum Philosophis ambulare, per latentes profundi sensus intelligentias, mysteria complectitur., ebenso auch Conclusio cabalistica..., 28.35. (S. 358). Hierzu im folgenden Kapitel. 139 Pico, Conclusio magica, 9>26. (S. 502). Brought to you by | UCL - University College London Authenticated"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9950,
+   "method": "latin_quote",
+   "evidence": [
+    "si sit pura cabala",
+    "attingitur per mediationem causarum",
+    "aliquid quod non attingitur",
+    "ita per opus cabale"
+   ],
+   "context": "Conclusio xxvi: Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit pura Cabala et immediata, fit aliquid quod nulla Magia attingit."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>12",
+  "1>6",
+  "5>2",
+  "9>16",
+  "9>17",
+  "9>18"
+ ]
+}

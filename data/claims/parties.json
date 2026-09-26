@@ -1,0 +1,16 @@
+{
+  "_note": "Pico's relationship parties: the people and bodies against whom the relevance of any card (thesis, passage, claim) can be scored. Slugs are the ids used in claim.bears_on[].party and in relevance scores. Seeded with names only; the KIND and content of each relationship must be established by verified claims, never asserted here. RESEARCHERS propose additions in their packet's `proposed_parties`; the orchestrator merges them (one writer per file).",
+  "parties": [
+    {"id": "ficino", "name": "Marsilio Ficino"},
+    {"id": "poliziano", "name": "Angelo Poliziano"},
+    {"id": "savonarola", "name": "Girolamo Savonarola"},
+    {"id": "lorenzo-de-medici", "name": "Lorenzo de' Medici"},
+    {"id": "barbaro", "name": "Ermolao Barbaro"},
+    {"id": "benivieni", "name": "Girolamo Benivieni"},
+    {"id": "cittadini", "name": "Cittadini"},
+    {"id": "innocent-viii", "name": "Pope Innocent VIII"},
+    {"id": "trial-commission", "name": "The papal commission of 1487"},
+    {"id": "mithridates", "name": "Flavius Mithridates"},
+    {"id": "gianfrancesco-pico", "name": "Gianfrancesco Pico"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+ "thesis_id": "5.1",
+ "latin": "Datur lumen superius lumine fidei, in quo Theologi uident ueritates theologicae scientiae.",
+ "farmer_latin_line": 12482,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15243,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 1"
+   ],
+   "context": "tions regarding the philosophical issues it contains and their contexts. In what follows we shall provide these clarifications while tracing the theses back to Henry’s texts and assessing the manner in which Pico has used Henry’s ideas. According to thesis 1 there is a light which is superior to the light of faith, by which the theologians see the truths of theological science.2 This thesis is basically present in Henry’s Summa, art. 6, q. 1, where the medieval master claims that in theology there are matters held by belief through faith, but the"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15260,
+   "method": "latin_quote",
+   "evidence": [
+    "fidei in quo theologi",
+    "in quo theologi uident",
+    "datur lumen superius lumine",
+    "superius lumine fidei in"
+   ],
+   "context": "my previous publication: ‘Henry of Ghent and Giovanni Pico della Mirandola: A Chapter on the Reception and Influence of Scholasticism in the Renaissance’, in Gordon A. Wilson (ed.), A Companion to Henry of Ghent (Leiden, 2011), pp. 369–397. 2 Pico, 900 Theses, p. 242: “Datur lumen superius lumine fidei, in quo Theologi vident veritates theologicae scientiae.” 3 Henry of Ghent, Quaestiones ordinariae (Summa), VI, 1, ed. Scarparius (Ferrara, 1642), II, f. 106: “Ad quaestionem istam intelligendam quod Theologia sit credibilium, et nullorum"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10.1",
+  "11.2",
+  "5.2",
+  "6.7",
+  "7.1"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "thesis_id": "28.6",
+ "latin": "Magnus aquilo fons est animarum omnium simpliciter, sicut alu dies quarundam et non omnium.",
+ "farmer_latin_line": 17637,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1482,
+   "method": "latin_quote",
+   "evidence": [
+    "aquilo fons est animarum",
+    "dies quarundam et non",
+    "est animarum omnium simpliciter",
+    "magnus aquilo fons est"
+   ],
+   "context": "CONCLUSIO VI Magnus Aquilo fons est animarum omnium simpliciter, sicut alii dies quarundam et non omnium. The interpretation of this thesis depends entirely on the precise location of"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1479,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO VI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO VI Magnus Aquilo fons est animarum omnium simpliciter, sicut alii dies"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9061,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones vi"
+   ],
+   "resolved": false,
+   "context": "texts concerning Is as an appellation of God are discussed in the Pugio Fidei.l% Pico, however, considers Is as a reminder of the mystery of the Trinity. Whether Pico meant to interpret the word tP'X as an acronym (for instance, Π'ΠΧ, mn\\ raw; cf. Conclusiones vi and lix), I do not know, nor does it matter.\" What matters is that it is only by the three letters, aleph, yod, sin, and not by the meaning vir that \"we are perfectly reminded of the mystery of the Trinity.\""
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9767,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": false,
+   "context": "Renaissance than for the history of Christian Kabbala.25 Here I shall consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>37",
+  "11>47",
+  "28.8",
+  "3>67",
+  "3>68",
+  "3>69"
+ ]
+}

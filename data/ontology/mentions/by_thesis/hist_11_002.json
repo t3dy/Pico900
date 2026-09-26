@@ -1,0 +1,33 @@
+{
+ "thesis_id": "11.2",
+ "latin": "Intellectus agens nihil aliud est quam deus.",
+ "farmer_latin_line": 14058,
+ "mentions": [
+  {
+   "work": "black2006",
+   "line": 10046,
+   "method": "latin_quote",
+   "evidence": [
+    "nihil aliud est quam",
+    "agens nihil aliud est",
+    "intellectus agens nihil aliud",
+    "aliud est quam deus"
+   ],
+   "context": "opinionem … in doctrinam Platonis, 33). 48 Ibid., 40 (Conc. sec. Avenroen, 4): “Possibile est tenendo unitatem intellectus, animam meam ita particulariter meam, ut non sit mihi communis cum omnibus, remanere post mortem”; ibid., 54 (Conc. sec. Abumaron Babylonium, 2): “Intellectus agens nihil aliud est quam Deus.” ## Page 206"
+  },
+  {
+   "work": "cassirer1942",
+   "line": 874,
+   "method": "latin_quote",
+   "evidence": [
+    "agens nihil aliud est",
+    "intellectus agens nihil aliud"
+   ],
+   "context": "the intellect is there disclosed the truly Universal, which forms a necessary momentand the real mark of the Divine. Thus Pico also completed the equating of God and the \"intellectus agens\": \"intellectus agens nihil aliud est qram Dens.\"\"2 The mystic\"see- ing,\" the \"visio intellectualis,\" does not for him thereforecoincide with mere mysticfeeling: it has an independenttheoretical mean- ing and content. Hence Pico is by no means willing to renouncethe"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10.1",
+  "4.2"
+ ]
+}

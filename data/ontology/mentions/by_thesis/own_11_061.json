@@ -1,0 +1,47 @@
+{
+ "thesis_id": "11>61",
+ "latin": "Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo omnia conuertuntur, et in quo demum sabbatizant omnia.",
+ "farmer_latin_line": 27736,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 8368,
+   "method": "latin_quote",
+   "evidence": [
+    "in quo demum sabbatizant",
+    "quo omnia conuertuntur et",
+    "patre et per quem",
+    "sapientia patris est qui"
+   ],
+   "context": "Conclusio lxi: Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo omnia conuertuntur, et in quo demum sabbatizant omnia."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8544,
+   "method": "latin_quote",
+   "evidence": [
+    "idem filius qui est",
+    "filius qui est sapientia",
+    "qui est sapientia patris"
+   ],
+   "context": "although the ineffable Tetragrammaton as a rule represents the sixth sefirah, Glory (Tiferet), there are several theses which clearly presuppose the identification of the Son with Wisdom. Two of them, the seventh (\"deum dei filium patrisque sapientiam\") and the sixty-first, (\"idem filius qui est sapientia patris\"), I have quoted in full earlier in this chapter."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8366,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxi"
+   ],
+   "resolved": true,
+   "context": "conuertens animas [Ps. 19:8], quod facit dare fructum in tempore suo [Ps. 1:3]. Conclusio lxi: Per eandem conclusionem sciri potest quod idem filius, qui est sapientia patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>16",
+  "11>18",
+  "11>4",
+  "11>59",
+  "11>62"
+ ]
+}

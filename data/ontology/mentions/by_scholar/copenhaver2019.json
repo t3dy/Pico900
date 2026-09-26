@@ -1,0 +1,45 @@
+{
+ "work": "copenhaver2019",
+ "meta": {
+  "author": "Brian P. Copenhaver",
+  "title": "Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory",
+  "year": 2019,
+  "kind": "monograph",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\Brian_P_Copenhaver_Magic_and_the_Dignity_of_Man__Pico_della_Mirandola_and_His_Oration_in_Modern__pdf_f7f272e1.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\Brian P Copenhaver Magic and the Dignity of Man_ Pico della Mirandola and His Oration in Modern Memory libgen li.txt",
+  "word_count": 280077,
+  "source_file": "Brian P Copenhaver Magic and the Dignity of Man_ Pico della Mirandola and His Oration in Modern Memory libgen li.pdf"
+ },
+ "n_mentions": 2,
+ "n_theses": 1,
+ "mentions": [
+  {
+   "work": "copenhaver2019",
+   "line": 15260,
+   "method": "latin_quote",
+   "evidence": [
+    "seraphim hasmalim haiot aralim",
+    "cherubim seraphim hasmalim haiot",
+    "haiot aralim tarsisim ophanim",
+    "hasmalim haiot aralim tarsisim"
+   ],
+   "context": "Jewish tradition often preferred ten groups. In a Kabbalist text known to Pico, the names ­were ­those that he used in the Conclusions, while changing the order: T1K2 ​­There are nine hierarchies of angels, whose names are Cherubim, Seraphim, Hasmalim, Haiot, Aralim, Tarsisim, Ophanim, Thephsarim, and Isim. Another thesis added that",
+   "thesis_id": "28.2"
+  },
+  {
+   "work": "copenhaver2019",
+   "line": 20042,
+   "method": "latin_quote",
+   "evidence": [
+    "seraphim hasmalim haiot aralim",
+    "cherubim seraphim hasmalim haiot",
+    "haiot aralim tarsisim ophanim",
+    "hasmalim haiot aralim tarsisim"
+   ],
+   "context": "1K1 ​Just as a ­human being and lower priest sacrifices souls of nonreason- ing animals to God, so Michael, a higher priest, sacrifices souls of animals that reason. 1K2 ​­There are nine hierarchies of angels, whose names are Cherubim, Sera- phim, Hasmalim, Haiot, Aralim, Tarsisim, Ophanim, Thephsarim, and Isim. 1K4 ​Adam’s sin was to cut the Kingdom off from other Plants. 1K5 ​God created the world with the Tree of Knowledge of Good and Evil",
+   "thesis_id": "28.2"
+  }
+ ]
+}

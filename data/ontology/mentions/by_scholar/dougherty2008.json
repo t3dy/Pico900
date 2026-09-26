@@ -1,0 +1,664 @@
+{
+ "work": "dougherty2008",
+ "meta": {
+  "author": "M. V. Dougherty (ed.)",
+  "title": "Pico della Mirandola: New Essays",
+  "year": 2008,
+  "kind": "collection",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\M_V_Dougherty_Pico_della_Mirandola__New_Essays_pdf_78172345.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\M V Dougherty Pico della Mirandola_ New Essays.txt",
+  "word_count": 106088,
+  "source_file": "M V Dougherty Pico della Mirandola_ New Essays.pdf"
+ },
+ "n_mentions": 61,
+ "n_theses": 41,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 1575,
+   "method": "latin_quote",
+   "evidence": [
+    "corticem uidetur cum philosophis",
+    "apologis uelarunt ipse sub",
+    "uerborum corticem uidetur cum",
+    "per latentes profundi sensus"
+   ],
+   "context": "68 See the sixty-third of Pico’s “Conclusiones cabalisticae LXXI secundum opinionem pro- priam,” in S. A. Farmer, Syncretism in the West: Pico’s 900 Theses (1486): The Evolution of Traditional Religious and Philosophical Systems (Tempe, AZ: Medieval and Renaissance Texts and Studies, 1998), 546–7: “Sicut Aristoteles diviniorem philosophiam, quam philosophi antiqui sub fabulis et apologis velarunt, ipse sub philosophicae speculationis facie dis- simulavit et verborum brevitate obscuravit, ita Rabi Moyses Aegyptius, in libro qui a Latinis dicitur Dux neutrorum, dum per superﬁcialem verborum corticem videtur cum",
+   "thesis_id": "11>63"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 1669,
+   "method": "latin_quote",
+   "evidence": [
+    "de diuinitate christi quam",
+    "diuinitate christi quam magia",
+    "est scientia que nos",
+    "nulla est scientia que"
+   ],
+   "context": "“What, indeed, would have been the point of eloquence in this work, put 76 Farmer, Syncretism, 496: “Nulla est scientia quae nos magis certiﬁcet de divinitate Christi quam magia et Cabala.” 77 Pico, Opera, 175: “Volo . . . aliquid dicere latius de ista Cabala, quanquam et supra in prima parte Apologiae nostrae multa dixerimus; sed illa forte non magis ab istis magistris intel-",
+   "thesis_id": "9>9"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2195,
+   "method": "farmer_id",
+   "evidence": [
+    "4>8"
+   ],
+   "context": "1. Christ did not truly and in respect to his real presence descend into hell as Thomas and the common way propose, but only in effect. (4>8) Wrong, erroneous, heretical. 2. The second is: that for a mortal sin of a ﬁnite time an inﬁnite temporal penalty is not due, but only a ﬁnite penalty. (4>20)",
+   "thesis_id": "4>8"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2198,
+   "method": "farmer_id",
+   "evidence": [
+    "4>20"
+   ],
+   "context": "(4>8) Wrong, erroneous, heretical. 2. The second is: that for a mortal sin of a ﬁnite time an inﬁnite temporal penalty is not due, but only a ﬁnite penalty. (4>20) Wrong, erroneous, heretical. 3. Neither the Cross of Christ, nor any image, should be adored with the adoration of veneration, even in that way that Thomas proposes.",
+   "thesis_id": "4>20"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2202,
+   "method": "farmer_id",
+   "evidence": [
+    "4>14"
+   ],
+   "context": "Wrong, erroneous, heretical. 3. Neither the Cross of Christ, nor any image, should be adored with the adoration of veneration, even in that way that Thomas proposes. (4>14) Outrageous, offensive to pious ears, and unaccustomed in the universal Church. 4. I do not agree with the common opinion of the theologians saying that God can assume any nature, but I concede this of the rational",
+   "thesis_id": "4>14"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2206,
+   "method": "farmer_id",
+   "evidence": [
+    "4>13"
+   ],
+   "context": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church. 4. I do not agree with the common opinion of the theologians saying that God can assume any nature, but I concede this of the rational nature. (4>13) Smacks of heresy. 5. It is not in the free power of man to believe that an article of faith is true when it pleases him and to believe that it is false when it",
+   "thesis_id": "4>13"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2210,
+   "method": "farmer_id",
+   "evidence": [
+    "4>18"
+   ],
+   "context": "Smacks of heresy. 5. It is not in the free power of man to believe that an article of faith is true when it pleases him and to believe that it is false when it pleases him. (Corollary to 4>18) Erroneous and smacks of heresy. 6. It is more rational to believe that Origen is saved, than to believe that he is damned. (4>29)",
+   "thesis_id": "4>18"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2213,
+   "method": "farmer_id",
+   "evidence": [
+    "4>29"
+   ],
+   "context": "pleases him. (Corollary to 4>18) Erroneous and smacks of heresy. 6. It is more rational to believe that Origen is saved, than to believe that he is damned. (4>29) Imprudent, to be refuted, smacks of heresy, being contrary to the declarations of the Church. 7. There is no science that assures us more of the divinity of Christ",
+   "thesis_id": "4>29"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2217,
+   "method": "farmer_id",
+   "evidence": [
+    "9>9"
+   ],
+   "context": "Imprudent, to be refuted, smacks of heresy, being contrary to the declarations of the Church. 7. There is no science that assures us more of the divinity of Christ than magic and Cabala. (9>9) Wrong, erroneous, superstitious, heretical. 8. Whoever says that an accident cannot exist unless it exists in some- thing can uphold the sacrament of the Eucharist, even maintaining",
+   "thesis_id": "9>9"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2222,
+   "method": "farmer_id",
+   "evidence": [
+    "4>1"
+   ],
+   "context": "8. Whoever says that an accident cannot exist unless it exists in some- thing can uphold the sacrament of the Eucharist, even maintaining that the substance of the bread does not remain as the common way holds. (4>1) Erroneous. 9. If the common way is maintained concerning the possibility of assumption in respect to any creature, I say that without the con-",
+   "thesis_id": "4>1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2229,
+   "method": "farmer_id",
+   "evidence": [
+    "4>2"
+   ],
+   "context": "version of the bread into the body of Christ, or the annihilation of the breadness, the body of Christ can exist on the altar in accor- dance with the truth of the sacrament of the Eucharist. This is said speaking of what is possible, however, not of what is so. (4>2) Wrong and in matters of faith erroneous. 10. Those words: This is my body, etc., which are spoken in the Conse- cration, are held in a material and not indicative sense. (4>10)",
+   "thesis_id": "4>2"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2232,
+   "method": "farmer_id",
+   "evidence": [
+    "4>10"
+   ],
+   "context": "speaking of what is possible, however, not of what is so. (4>2) Wrong and in matters of faith erroneous. 10. Those words: This is my body, etc., which are spoken in the Conse- cration, are held in a material and not indicative sense. (4>10) Outrageous, contrary to the opinion of the Church Fathers. ## Page 55",
+   "thesis_id": "4>10"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2242,
+   "method": "farmer_id",
+   "evidence": [
+    "9>8"
+   ],
+   "context": "11. The miracles of Christ are the most certain argument of his divinity, not because of the things he did, but because of the way in which he did them. (9>8) Can be taken wrongly being presented among the magic theses. 12. It is more improperly said that God is intellect or that which has intellect, than that the rational soul is an angel. (3>49)",
+   "thesis_id": "9>8"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2245,
+   "method": "farmer_id",
+   "evidence": [
+    "3>49"
+   ],
+   "context": "he did them. (9>8) Can be taken wrongly being presented among the magic theses. 12. It is more improperly said that God is intellect or that which has intellect, than that the rational soul is an angel. (3>49) Wrong and can be twisted to a heretical meaning. 13. The soul understands nothing in act and distinctly except itself. (3>60)",
+   "thesis_id": "3>49"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2248,
+   "method": "farmer_id",
+   "evidence": [
+    "3>60"
+   ],
+   "context": "intellect, than that the rational soul is an angel. (3>49) Wrong and can be twisted to a heretical meaning. 13. The soul understands nothing in act and distinctly except itself. (3>60) Wrong.",
+   "thesis_id": "3>60"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2264,
+   "method": "farmer_id",
+   "evidence": [
+    "4>9"
+   ],
+   "context": "kept clear of theological – especially Christological – implications. They would thus uphold a barrier between natural philosophy and theology that Pico trespassed – deliberately so, as we will see. More interestingly, thesis 4>9, immediately following the ﬁrst questionable thesis, was not disputed, even though it may put all rational theology into jeopardy: “Although it seems probable to me, it should not be obstinately asserted that the soul of Christ could not have descended into hell in another way",
+   "thesis_id": "4>9"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2309,
+   "method": "farmer_id",
+   "evidence": [
+    "4>8"
+   ],
+   "context": "cannot identify Pico with any single school. He is also knowledgeable con- cerning enmities but takes advantage of these by setting himself above such discussions. For instance, in the context of his thesis concerning Christ’s descent to hell (1 or 4>8), he refers to the condemnation of 1277 and not only points out inner contradictions between some articles but also quotes English doctors who refused to respect the prohibition at all: “The English say, that these articles did not cross the sea, where-",
+   "thesis_id": "4>8"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2380,
+   "method": "farmer_id",
+   "evidence": [
+    "4>18"
+   ],
+   "context": "22 Petrus Garsias, Determinationes magistrales contra conclusiones apologales Joannis Pici Miran- dulani (Rome: Silber, 1489), fol. e8r: “sed superveniente lumine ﬁdei sufﬁcienter deter- minatur et elevatur intellectus una cum imperio voluntatis ad credendum christiane.” 23 Farmer, Syncretism in the West, 431 (thesis 4>18). The emphasis is on “praecise quia vult.” ## Page 58",
+   "thesis_id": "4>18"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2396,
+   "method": "farmer_id",
+   "evidence": [
+    "3>60"
+   ],
+   "context": "obvious linkage within that single thesis extends to his claim that the entire set of 900 theses is tied together with some “hidden concatena- tion.”24 Incidentally, he mentions this in the context of the last criticized thesis (3>60), which he discusses under the new heading: “Disputation on the hidden understanding of the soul.”25 This is explained as that kind of intuition that works without reference to phantasms, that is, intuition as distinct from cognition of external objects. Since it is on this occasion",
+   "thesis_id": "3>60"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2437,
+   "method": "farmer_id",
+   "evidence": [
+    "4>13"
+   ],
+   "context": "What scholastic disputation can amount to, in a technical sense, is evident in a passage where Pico defends his thesis that God can assume only a rational nature (4>13). Here he concedes that to an untrained listener such a statement may sound outrageous, but not more than other propositions that follow from God’s absolute potency, such as “God is an ass; God is wood; . . . God can be condemned to hell; God can be",
+   "thesis_id": "4>13"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2452,
+   "method": "farmer_id",
+   "evidence": [
+    "thesis 28.5"
+   ],
+   "context": "good or evil – whatever its name – has God as its proper and principal cause.” Angelo Poliziano would go as far as to maintain succinctly that God is the cause of good and evil.29 It should be noted that the thesis is fairly compatible with Pico’s “Cabbalistic” thesis 28.5, which states, “With the tree of knowledge of good and evil, in which the ﬁrst man sinned, God created the world.”30 If sin emerges from knowledge, how much more from scholastic debates?",
+   "thesis_id": "28.5"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2459,
+   "method": "farmer_id",
+   "evidence": [
+    "4>29"
+   ],
+   "context": "For one thing, Pico stretches the mode of disputation to its limits in showing that the exercise of the mind, not petriﬁed conclusions, is the aim of such debates. This was also his strategy in the imputed defense of Origen (4>29). Not only had Origen written before certain dogmas of the Church had been issued,31 he also had expressly disclaimed to pronounce dogmas rather than questions and proposals, so that Pico repeatedly insists on the right to pronounce opinions in an “inquisitive",
+   "thesis_id": "4>29"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2472,
+   "method": "farmer_id",
+   "evidence": [
+    "thesis 28.5"
+   ],
+   "context": "teologico di Lorenzo il Magniﬁco: L’intervento di Poliziano,” Vivens homo 5 (1994): 431– 44, at 437–9. See also Paul Richard Blum, Philosophieren in der Renaissance (Stuttgart: Kohlhammer, 2004), 183ff. 30 Farmer, Syncretism in the West, 347 (thesis 28.5); “world” is the translation for “saeculum.” In his note on this thesis, Farmer indicates that the tree refers not only to the paradise but also to the ten seﬁrot, so knowledge and sin go along with the creation of the secular world.",
+   "thesis_id": "28.5"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2782,
+   "method": "farmer_id",
+   "evidence": [
+    "11>63"
+   ],
+   "context": "60 See Pearl Kibre, The Library of Pico della Mirandola (New York: Columbia University Press, 1936), 43–4. The theses from Maimonides are 12.1–3, in Farmer, Syncretism in the West, 276, and they deal with his interpretation of Aristotle’s Prime Mover. 61 Farmer, Syncretism in the West, 547 (11>63). ## Page 66",
+   "thesis_id": "11>63"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2811,
+   "method": "farmer_id",
+   "evidence": [
+    "11>1"
+   ],
+   "context": "tion given there between practical and speculative Cabala has a remark- able outlook in the Cabalistic theses “according to his own view,” which – interestingly – remained unchallenged, as did most of the “magic” theses. The ﬁrst Cabalistic thesis (11>1) says, “Whatever other Cabalists say, in a ﬁrst division I distinguish the science of Cabala into the science of seﬁrot and shemot [names], as it were into practical and speculative science.”65 Whatever the current research on Pico’s Cabala, which is still in ﬂux,66",
+   "thesis_id": "11>1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2843,
+   "method": "farmer_id",
+   "evidence": [
+    "11>3"
+   ],
+   "context": "Pico claims an original stance and distinguishes practical from specula- tive Cabala. Unsurprisingly, the next two theses clarify what he means. Thesis 11>3 teaches, “The science that is the practical part of the Cabala practices all formal metaphysics and inferior theology.”67 To the reader, trained in scholastic terminology, this is a debatable but not outrageous statement. Even though it is not quite clear what “formal” means with",
+   "thesis_id": "11>3"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2855,
+   "method": "farmer_id",
+   "evidence": [
+    "11>2"
+   ],
+   "context": "that part of philosophy that serves as an interface with physics and the philosophy of nature. Evidently, both disciplines as included in practical Cabala need to be referred to speculative Cabala, which is deﬁned in the preceding thesis (11>2): Whatever other Cabalists say, I divide the speculative part of the Cabala",
+   "thesis_id": "11>2"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2953,
+   "method": "farmer_id",
+   "evidence": [
+    "11>2"
+   ],
+   "context": "of revolving alphabets as closely connected with biblical hermeneutics, which is justiﬁed by Pico’s remarks in the Apology but raises another question concerning his quasi-hermeneutic approach to reality. Unfor- tunately, Zorzi does not reconcile theses 11>2 and 11>3, which seem to contradict one another insofar as metaphysics and theology are qualiﬁed one time as speculative, another time as practical. Nevertheless, the bulk of the 72 Cabalistic theses do as promised, since",
+   "thesis_id": "11>2"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2953,
+   "method": "farmer_id",
+   "evidence": [
+    "11>3"
+   ],
+   "context": "of revolving alphabets as closely connected with biblical hermeneutics, which is justiﬁed by Pico’s remarks in the Apology but raises another question concerning his quasi-hermeneutic approach to reality. Unfor- tunately, Zorzi does not reconcile theses 11>2 and 11>3, which seem to contradict one another insofar as metaphysics and theology are qualiﬁed one time as speculative, another time as practical. Nevertheless, the bulk of the 72 Cabalistic theses do as promised, since",
+   "thesis_id": "11>3"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2961,
+   "method": "farmer_id",
+   "evidence": [
+    "11>72"
+   ],
+   "context": "ample use of speculations with numbers and letters of the Hebrew alpha- bet. So, if we trust Pico’s command of Cabalistic operations (and that is what the explicit novelty of his method requires), we may also be con- vinced by his concluding thesis (11>72): “Just as true astrology teaches us to read in the book of God, so the Cabala teaches us to read in the book of the Law.”72 The analogy is that astrology and natural magic contem- plate the admirable works of God in an analogous way as Cabala interprets",
+   "thesis_id": "11>72"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7890,
+   "method": "farmer_id",
+   "evidence": [
+    "11>48"
+   ],
+   "context": "Among the Kabbalistic theses with magical themes are four that dealt with astrology: 11>48. Whatever other Cabalists say, I say that the ten spheres correspond to the ten numerations [seﬁrot] like this: so that starting from the ediﬁce, Jupiter corresponds to the fourth, Mars to the ﬁfth. . . .",
+   "thesis_id": "11>48"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7894,
+   "method": "farmer_id",
+   "evidence": [
+    "11>49"
+   ],
+   "context": "to the ten numerations [seﬁrot] like this: so that starting from the ediﬁce, Jupiter corresponds to the fourth, Mars to the ﬁfth. . . . 11>49. Anyone who knows the correspondence of the Ten Commandments through the conjunction of astrological truth with theological truth will see from the foundation that I set out in the preceding conclusion, whatever other Cabalists say, that the ﬁrst commandment corresponds to the ﬁrst",
+   "thesis_id": "11>49"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7900,
+   "method": "farmer_id",
+   "evidence": [
+    "11>50"
+   ],
+   "context": "other Cabalists say, that the ﬁrst commandment corresponds to the ﬁrst numeration. . . . 11>50. When the Cabalists say that sons should be sought from the seventh and the eighth, those petitions in the inferior merkabah are to be interpreted this way: so that one is asked to grant them, the other not to prohibit them. And which one grants and which one prohibits anyone who is knowledgeable",
+   "thesis_id": "11>50"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 7906,
+   "method": "farmer_id",
+   "evidence": [
+    "11>51"
+   ],
+   "context": "And which one grants and which one prohibits anyone who is knowledgeable in astrology and Cabala can understand from the preceding conclusions. 11>51. Just as the full moon was in Solomon, so the full sun was in the true Messiah, who was Jesus. And concerning the diminished correspondence in Zedekiah anyone can conjecture, if he is profound in the Cabala.29",
+   "thesis_id": "11>51"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9005,
+   "method": "farmer_id",
+   "evidence": [
+    "1>1"
+   ],
+   "context": "4 Pico announces this theme in the Oration and in the ﬁrst of the 900 theses according to his own opinion: “There is no natural or divine question in which Aristotle and Plato do not agree in meaning and substance, although in their words they seem to disagree” (1>1) (Conclusions, 365). For a sustained argument against any single framework of interpretation for Pico, see William G. Craven, Giovanni Pico della Mirandola: Symbol of His Age: Modern Interpretations of a Renaissance Philosopher (Geneva: Libraire Droz, 1981). 5 Dulles, Princeps Concordiae, 131. Unlike the highly polished rhetorical character of the",
+   "thesis_id": "1>1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9067,
+   "method": "farmer_id",
+   "evidence": [
+    "3>40"
+   ],
+   "context": "and the Italian Thought of the Renaissance,” in Medieval Aspects of Renaissance Learning: Three Essays, ed. and trans. Edward P. Mahoney (Durham, NC: Duke University Press, 1974), 71–3, and Farmer, Syncretism in the West, 47–9 and the notes on 218–31. 8 Conclusions 3>40 (Farmer, 410–11). This passage refers speciﬁcally to acquiring com- plete knowledge through intelligibles above us without relying on inquiry, but by instead following “a purgatorial path” (per uiam purgatoriam). Pico asserts that this position is common to Platonists as well as Aristotelians, though it is “less apparent” in the latter.",
+   "thesis_id": "3>40"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9259,
+   "method": "farmer_id",
+   "evidence": [
+    "2>30"
+   ],
+   "context": "sensus quod videmus: auditum, visum, gustum, tactum, olfactum, quasi quinque maria mediterranea diffusos intrare corporis continentem. . . . ” Pico makes reference here to Plato Theaetetus 156Aff. 23 Conclusions 2>30 (ed. and trans. Farmer, 380–1): “Common sense is not distinct from the sense of sight, hearing, smell, taste, and touch.” See also 2>58, which appeals to the authority of Aristotle and Plato to conﬁrm that the common sense power does not differ “in subject” from the exterior sense powers.",
+   "thesis_id": "2>30"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9260,
+   "method": "farmer_id",
+   "evidence": [
+    "2>58"
+   ],
+   "context": "mediterranea diffusos intrare corporis continentem. . . . ” Pico makes reference here to Plato Theaetetus 156Aff. 23 Conclusions 2>30 (ed. and trans. Farmer, 380–1): “Common sense is not distinct from the sense of sight, hearing, smell, taste, and touch.” See also 2>58, which appeals to the authority of Aristotle and Plato to conﬁrm that the common sense power does not differ “in subject” from the exterior sense powers. 24 Heptaplus 4.2 (ed. Garin, 274, 276; trans. Carmichael, 120–1): “Intellectum enim, qui est",
+   "thesis_id": "2>58"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9366,
+   "method": "latin_quote",
+   "evidence": [
+    "est anima intellectiua in",
+    "anima intellectiua in omnibus",
+    "una est anima intellectiua",
+    "intellectiua in omnibus hominibus"
+   ],
+   "context": "28 Conclusions 7.2 (ed. and trans. Farmer, 252–3): “Vna est anima intellectiua in omnibus hominibus.” See Conclusions 3>67–9. 29 Conclusions 7.4 (ed. and trans. Farmer, 252–3): “Possibile est tenendo unitatem intel- lectus, animam meam ita particulariter meam, ut non sit mihi communis, cum omnibus",
+   "thesis_id": "7.2"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9367,
+   "method": "farmer_id",
+   "evidence": [
+    "3>67–9"
+   ],
+   "context": "28 Conclusions 7.2 (ed. and trans. Farmer, 252–3): “Vna est anima intellectiua in omnibus hominibus.” See Conclusions 3>67–9. 29 Conclusions 7.4 (ed. and trans. Farmer, 252–3): “Possibile est tenendo unitatem intel- lectus, animam meam ita particulariter meam, ut non sit mihi communis, cum omnibus remanere post mortem.” See the discussion in Farmer, Syncretism in the West, 112–14, which",
+   "thesis_id": "3>67"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9368,
+   "method": "latin_quote",
+   "evidence": [
+    "cum omnibus remanere post",
+    "sit mihi communis cum",
+    "ut non sit mihi",
+    "communis cum omnibus remanere"
+   ],
+   "context": "28 Conclusions 7.2 (ed. and trans. Farmer, 252–3): “Vna est anima intellectiua in omnibus hominibus.” See Conclusions 3>67–9. 29 Conclusions 7.4 (ed. and trans. Farmer, 252–3): “Possibile est tenendo unitatem intel- lectus, animam meam ita particulariter meam, ut non sit mihi communis, cum omnibus remanere post mortem.” See the discussion in Farmer, Syncretism in the West, 112–14, which points out that this conclusion, attributed to Averro¨es, overstates his position considerably",
+   "thesis_id": "7.4"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9373,
+   "method": "farmer_id",
+   "evidence": [
+    "3>64"
+   ],
+   "context": "remanere post mortem.” See the discussion in Farmer, Syncretism in the West, 112–14, which points out that this conclusion, attributed to Averro¨es, overstates his position considerably (113). 30 Conclusions 3>64 (ed. and trans. Farmer, 419): “Intellectualis natura, quae est in anima rationalisupranaturamrationalem,praecisediffertanaturaintellectualipurasicutdiffert pars a toto.” 31 Dulles ultimately rejects Pico’s doctrine of the intellect as incoherent: “His theory of intel-",
+   "thesis_id": "3>64"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9373,
+   "method": "latin_quote",
+   "evidence": [
+    "natura que est in",
+    "que est in anima",
+    "intellectualis natura que est"
+   ],
+   "context": "remanere post mortem.” See the discussion in Farmer, Syncretism in the West, 112–14, which points out that this conclusion, attributed to Averro¨es, overstates his position considerably (113). 30 Conclusions 3>64 (ed. and trans. Farmer, 419): “Intellectualis natura, quae est in anima rationalisupranaturamrationalem,praecisediffertanaturaintellectualipurasicutdiffert pars a toto.” 31 Dulles ultimately rejects Pico’s doctrine of the intellect as incoherent: “His theory of intel-",
+   "thesis_id": "3>64"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9472,
+   "method": "farmer_id",
+   "evidence": [
+    "2>30"
+   ],
+   "context": "species from objects; thus the eye, on seeing a colored object, would receive that species of color, but no judgment would occur until the species had been abstracted and impressed on the intellect. 36 Conclusions 2>30. Conclusions 2>58 seems to extend the point with respect to the three other interior senses (imaginative, cogitative, memorative), though they are said not to “differ from the sensitive powers of the interior senses” (ed. and trans. Farmer, 388–9), which they are standardly taken to be.",
+   "thesis_id": "2>30"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9472,
+   "method": "farmer_id",
+   "evidence": [
+    "2>58"
+   ],
+   "context": "species from objects; thus the eye, on seeing a colored object, would receive that species of color, but no judgment would occur until the species had been abstracted and impressed on the intellect. 36 Conclusions 2>30. Conclusions 2>58 seems to extend the point with respect to the three other interior senses (imaginative, cogitative, memorative), though they are said not to “differ from the sensitive powers of the interior senses” (ed. and trans. Farmer, 388–9), which they are standardly taken to be.",
+   "thesis_id": "2>58"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9476,
+   "method": "farmer_id",
+   "evidence": [
+    "2>1"
+   ],
+   "context": "other interior senses (imaginative, cogitative, memorative), though they are said not to “differ from the sensitive powers of the interior senses” (ed. and trans. Farmer, 388–9), which they are standardly taken to be. 37 Conclusions 2>1 (ed. and trans. Farmer, 372–3): “Potest a specie in sensu exteriori exis- tente immediate abstrahi species uniuersalis.” 38 Leen Spruit, Species Intelligibilis: From Perception to Knowledge, 2 vols. (Leiden: Brill, 1995), 2:30.",
+   "thesis_id": "2>1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9476,
+   "method": "latin_quote",
+   "evidence": [
+    "existente immediate abstrahi species",
+    "exteriori existente immediate abstrahi",
+    "specie in sensu exteriori",
+    "sensu exteriori existente immediate"
+   ],
+   "context": "other interior senses (imaginative, cogitative, memorative), though they are said not to “differ from the sensitive powers of the interior senses” (ed. and trans. Farmer, 388–9), which they are standardly taken to be. 37 Conclusions 2>1 (ed. and trans. Farmer, 372–3): “Potest a specie in sensu exteriori exis- tente immediate abstrahi species uniuersalis.” 38 Leen Spruit, Species Intelligibilis: From Perception to Knowledge, 2 vols. (Leiden: Brill, 1995), 2:30.",
+   "thesis_id": "2>1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9517,
+   "method": "farmer_id",
+   "evidence": [
+    "3>63"
+   ],
+   "context": "ception of knowledge. As we have seen previously, there is a progression 39 Conclusions 3>63 (ed. and trans. Farmer, 418–19): “ . . . nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intelligere.” 40 Conclusions 2>31; see also 2>77, in which he rejects abstraction as the “ﬁrst operation” of the intellect. In the very ﬁrst of the historical conclusions, he cites Albertus Magnus as",
+   "thesis_id": "3>63"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9517,
+   "method": "latin_quote",
+   "evidence": [
+    "intrinsecum est in ea",
+    "in ea per quod",
+    "per quod possit sine",
+    "est in ea per"
+   ],
+   "context": "ception of knowledge. As we have seen previously, there is a progression 39 Conclusions 3>63 (ed. and trans. Farmer, 418–19): “ . . . nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intelligere.” 40 Conclusions 2>31; see also 2>77, in which he rejects abstraction as the “ﬁrst operation” of the intellect. In the very ﬁrst of the historical conclusions, he cites Albertus Magnus as",
+   "thesis_id": "3>63"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9519,
+   "method": "farmer_id",
+   "evidence": [
+    "2>31"
+   ],
+   "context": "39 Conclusions 3>63 (ed. and trans. Farmer, 418–19): “ . . . nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intelligere.” 40 Conclusions 2>31; see also 2>77, in which he rejects abstraction as the “ﬁrst operation” of the intellect. In the very ﬁrst of the historical conclusions, he cites Albertus Magnus as denying the need for intelligible species altogether: “Intelligible images are not necessary, and it is not ﬁtting for good Aristotelians to posit them” (1.1, ed. and trans. Farmer, 212–",
+   "thesis_id": "2>31"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9519,
+   "method": "farmer_id",
+   "evidence": [
+    "2>77"
+   ],
+   "context": "39 Conclusions 3>63 (ed. and trans. Farmer, 418–19): “ . . . nihil tamen intrinsecum est in ea, per quod possit sine propria specie aliquid a se distinctum intelligere.” 40 Conclusions 2>31; see also 2>77, in which he rejects abstraction as the “ﬁrst operation” of the intellect. In the very ﬁrst of the historical conclusions, he cites Albertus Magnus as denying the need for intelligible species altogether: “Intelligible images are not necessary, and it is not ﬁtting for good Aristotelians to posit them” (1.1, ed. and trans. Farmer, 212–",
+   "thesis_id": "2>77"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9526,
+   "method": "latin_quote",
+   "evidence": [
+    "separata intelligit per species",
+    "est in corpore aut",
+    "intelligit per species sibi",
+    "anima separata intelligit per"
+   ],
+   "context": "3). As Farmer notes, this actually reverses Albert’s view, yet serves a polemical purpose for Pico (Syncretism in the West, 213 n. 1.1). 41 Farmer, Syncretism in the West, 102–5. 42 Conclusions 1.6 (ed. and trans. Farmer, 214–5): “Anima separata intelligit per species sibi a principio sui esse concreatas, quibus dum est in corpore aut nunquam aut raro utitur.” 43 Conclusions 5>19 (ed. and trans. Farmer, 442–3): “Possibile est ut pars rationalis animae nostrae, quam secundum peripateticos possibilem intellectum uoco, ad hoc perueniat,",
+   "thesis_id": "1.6"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9528,
+   "method": "farmer_id",
+   "evidence": [
+    "5>19"
+   ],
+   "context": "41 Farmer, Syncretism in the West, 102–5. 42 Conclusions 1.6 (ed. and trans. Farmer, 214–5): “Anima separata intelligit per species sibi a principio sui esse concreatas, quibus dum est in corpore aut nunquam aut raro utitur.” 43 Conclusions 5>19 (ed. and trans. Farmer, 442–3): “Possibile est ut pars rationalis animae nostrae, quam secundum peripateticos possibilem intellectum uoco, ad hoc perueniat, ut sine coniunctione ad phantasmata discurrat et operetur.”",
+   "thesis_id": "5>19"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9528,
+   "method": "latin_quote",
+   "evidence": [
+    "coniunctione ad phantasmata discurrat",
+    "possibilem intellectum uoco ad",
+    "rationalis anime nostre quam",
+    "nostre quam secundum peripateticos"
+   ],
+   "context": "41 Farmer, Syncretism in the West, 102–5. 42 Conclusions 1.6 (ed. and trans. Farmer, 214–5): “Anima separata intelligit per species sibi a principio sui esse concreatas, quibus dum est in corpore aut nunquam aut raro utitur.” 43 Conclusions 5>19 (ed. and trans. Farmer, 442–3): “Possibile est ut pars rationalis animae nostrae, quam secundum peripateticos possibilem intellectum uoco, ad hoc perueniat, ut sine coniunctione ad phantasmata discurrat et operetur.”",
+   "thesis_id": "5>19"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9574,
+   "method": "farmer_id",
+   "evidence": [
+    "2>74"
+   ],
+   "context": "45 As early as the Commento (II.14; trans. Jayne, 110–1), Pico takes up the theme of the cognitive reﬂexivity and return of rational soul. Like angelic minds, rational souls have the capacity to return to themselves and ultimately to their cause. By the complete return to their cause, they achieve bliss. See Conclusions 2>74: “I say that according to Thomas it must be said that our beatitude consists in a reﬂexive act of the intellect.” See also Conclusions 17.3 and 17.4. 46 Oratio (ed. Garin, 124; trans. Wallis, 14–15): “Tum illud gn¯othi seauton, idest cognosce te",
+   "thesis_id": "2>74"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9616,
+   "method": "farmer_id",
+   "evidence": [
+    "3>60"
+   ],
+   "context": "in some way understands all beings.”50 If the soul understands itself in the 47 Conclusions 3>60 (ed. and trans. Farmer, 418–19): “Nihil intelligit actu et distincte anima, nisi se ipsam.” 48 The Apologia can be found in the 1572 Basel edition of the Opera, reprinted as Joannes Picus Mirandulanus, Opera omnia (Turin: Bottega D’Erasmo, 1971), 114–240. I have cited",
+   "thesis_id": "3>60"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9616,
+   "method": "latin_quote",
+   "evidence": [
+    "nihil intelligit actu et",
+    "et distincte anima nisi",
+    "anima nisi se ipsam",
+    "distincte anima nisi se"
+   ],
+   "context": "in some way understands all beings.”50 If the soul understands itself in the 47 Conclusions 3>60 (ed. and trans. Farmer, 418–19): “Nihil intelligit actu et distincte anima, nisi se ipsam.” 48 The Apologia can be found in the 1572 Basel edition of the Opera, reprinted as Joannes Picus Mirandulanus, Opera omnia (Turin: Bottega D’Erasmo, 1971), 114–240. I have cited",
+   "thesis_id": "3>60"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9626,
+   "method": "farmer_id",
+   "evidence": [
+    "3>62"
+   ],
+   "context": "49 See Dulles, Princeps Concordiae, 139–40, and Cassirer, “Giovanni Pico della Mirandola,” 19. As Dulles noted, Petrus Garsias (1440–1505) argued against Pico that if such knowledge is said to be “hidden,” it is not actual but latent. 50 Conclusions 3>62 (ed. and trans. Farmer, 418–19): “Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.” The passage is discussed in Michael J. B. Allen, “Cultura Hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man,” in Gio- vanni Pico della Mirandola: Convegno internazionale di Studi nel Cinquecentesimo Anniversario",
+   "thesis_id": "3>62"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9626,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligit et se intelligendo",
+    "se intelligendo quodammodo omnia",
+    "et se intelligendo quodammodo",
+    "anima seipsam semper intelligit"
+   ],
+   "context": "49 See Dulles, Princeps Concordiae, 139–40, and Cassirer, “Giovanni Pico della Mirandola,” 19. As Dulles noted, Petrus Garsias (1440–1505) argued against Pico that if such knowledge is said to be “hidden,” it is not actual but latent. 50 Conclusions 3>62 (ed. and trans. Farmer, 418–19): “Anima seipsam semper intelligit, et se intelligendo quodammodo omnia entia intelligit.” The passage is discussed in Michael J. B. Allen, “Cultura Hominis: Giovanni Pico, Marsilio Ficino and the Idea of Man,” in Gio- vanni Pico della Mirandola: Convegno internazionale di Studi nel Cinquecentesimo Anniversario",
+   "thesis_id": "3>62"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9970,
+   "method": "farmer_id",
+   "evidence": [
+    "3>6"
+   ],
+   "context": "65 Conclusions 3>6 (ed. and trans. Farmer, 400–1): “Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfectissima cognitioo, ita simpliciter inter cognitiones est imperfectissima.” 66 De ente et uno 5 (ed. Garin, 408; trans. Miller, 47): “Cognitio item humana quae rationalis",
+   "thesis_id": "3>6"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9970,
+   "method": "latin_quote",
+   "evidence": [
+    "inter cognitiones est imperfectissima",
+    "statu quem hic experimur",
+    "sicut cognitio per demonstrationem",
+    "quem hic experimur est"
+   ],
+   "context": "65 Conclusions 3>6 (ed. and trans. Farmer, 400–1): “Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfectissima cognitioo, ita simpliciter inter cognitiones est imperfectissima.” 66 De ente et uno 5 (ed. Garin, 408; trans. Miller, 47): “Cognitio item humana quae rationalis",
+   "thesis_id": "3>6"
+  }
+ ]
+}

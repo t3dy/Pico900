@@ -1,0 +1,37 @@
+{
+ "thesis_id": "24.17",
+ "latin": "Licet ut tradit theologia distinctae sint diuinae hierarchiae, intelligen-",
+ "farmer_latin_line": 16166,
+ "mentions": [
+  {
+   "work": "black2006",
+   "line": 8798,
+   "method": "latin_quote",
+   "evidence": [
+    "theologia distincte sint diuine",
+    "distincte sint diuine hierarchie",
+    "licet ut tradit theologia",
+    "ut tradit theologia distincte"
+   ],
+   "context": "103–104): “Primorum omnium quaedam sunt in quibusdam per modum quo licet ut sit unum eorum in alio. Quod est quia in esse sunt vita et intelligentia, et in vita sunt esse et intelligentia, et in intelligentia sunt esse et vita.” 68 Conclusions, 78 (Conc. sec. Proclum, 17): “Licet, ut tradit Theologia, distinctae sint divinae hierarchiae, intelligendum est tamen omnia in omnibus esse modo suo.” 69 Syrianus, Commentaria in Metaphysica, ed. G. Kroll, Commentaria in Aristotelem Graeca, VI (Berlin: Reimer, 1892), 81–82 (879B): “τ2ς δ’ Jν Hς ν πλ τει τρε ς Bλεγ ν"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 12669,
+   "method": "latin_quote",
+   "evidence": [
+    "theologia distincte sint diuine",
+    "distincte sint diuine hierarchie",
+    "licet ut tradit theologia",
+    "ut tradit theologia distincte"
+   ],
+   "context": "Compare also Pico, Conclusiones secundum Proclum 17: Licet ut tradit theologia distinctae sint divinae hierarchiae, intelligendum est tarnen omnia in omnibus esse modo suo.12 The preceding discussion and collocation of texts show that two motifs"
+  }
+ ],
+ "farmer_crossrefs": [
+  "22.1",
+  "22.2",
+  "22.3",
+  "23.2"
+ ]
+}

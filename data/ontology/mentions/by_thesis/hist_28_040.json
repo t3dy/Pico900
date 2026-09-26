@@ -1,0 +1,65 @@
+{
+ "thesis_id": "28.40",
+ "latin": "Quotienscunque ignoramus proprietatem a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est.",
+ "farmer_latin_line": 18298,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2777,
+   "method": "latin_quote",
+   "evidence": [
+    "influxus super petitione quam",
+    "petimus ad dominum naris",
+    "quam petimus ad dominum",
+    "dominum naris recurrendum est"
+   ],
+   "context": "CONCLUSIO XL Quotienscunque ignoramus proprietatem a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. While the notion of prayer to the \"master of the nose\" ultimately derives"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7557,
+   "method": "latin_quote",
+   "evidence": [
+    "influxus super petitione quam",
+    "petimus ad dominum naris",
+    "quam petimus ad dominum",
+    "dominum naris recurrendum est"
+   ],
+   "context": "Conclusio xl: Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est. Conclusio xlvii:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2774,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XL"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XL Quotienscunque ignoramus proprietatem a qua est influxus super petitione"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3188,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": false,
+   "context": "its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7555,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": true,
+   "context": "Kabbalistic theses secundum secretam doctrinam sapientum Hebraeorum Cabalistarum argue his acquaintance with the mysticism of prayer: Conclusio xl: Quotienscunque ignoramus proprietatem [middah] a qua est influxus super petitione quam petimus, ad dominum naris recurrendum est."
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>10",
+  "11>50"
+ ]
+}

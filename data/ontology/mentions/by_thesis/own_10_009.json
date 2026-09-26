@@ -1,0 +1,23 @@
+{
+ "thesis_id": "10>9",
+ "latin": "Idem sunt curetes apud Orpheum, et potestates apud Dionysium.",
+ "farmer_latin_line": 25779,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 10011,
+   "method": "latin_quote",
+   "evidence": [
+    "et potestates apud dionysium",
+    "orpheum et potestates apud",
+    "curetes apud orpheum et",
+    "apud orpheum et potestates"
+   ],
+   "context": "Conclusio ix: Idem sunt Curetes apud Orpheum et potestates apud Dionysium. Conclusio x: Qui praecedentis conclusionis opus attentauerit, adhibeat opus Cabalae"
+  }
+ ],
+ "farmer_crossrefs": [
+  "24.13",
+  "5>7"
+ ]
+}

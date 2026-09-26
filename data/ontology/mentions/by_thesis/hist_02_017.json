@@ -1,0 +1,47 @@
+{
+ "thesis_id": "2.17",
+ "latin": "Licet defendi possit quoquomodo creaturam posse creare, rationabilius tamen est credere potentiam creandi creaturae communicari non posse.",
+ "farmer_latin_line": 11530,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 11064,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 17"
+   ],
+   "context": "tions and qualifications which stand behind Pico’s thesis. They are probably the arguments Pico would have used in case that his plan for a public debate had materialized. Thesis 17 is somewhat complex in its structure and it brings us to consider the concept of creation, or in fact two different meanings of this concept. We find there that it might be possible in some way to defend the view that a cre- ated being can create; yet it would be more reasonable to believe that the abil-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 11086,
+   "method": "latin_quote",
+   "evidence": [
+    "posse creare rationabilius tamen",
+    "creaturam posse creare rationabilius",
+    "defendi possit quoquomodo creaturam",
+    "quoquomodo creaturam posse creare"
+   ],
+   "context": "74 Ibid.: “… et sic etiam verbum caro factum, est causa resurrectionis animarum. Unde etiam secundum humanam naturam convenienter est judex non solum corporalium, sed spiri- tualium bonorum.” 75 Pico, 900 Theses, p. 224: “Licet defendi possit quoquomodo creaturam posse creare, rationabilius tamen est credere potentiam creandi creaturae communicari non posse.” ## Page 244"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11.1",
+  "13.5",
+  "4>28",
+  "5.6",
+  "5>37",
+  "5>38",
+  "5>39",
+  "5>40",
+  "6>1",
+  "7.5",
+  "7a>26",
+  "7a>7",
+  "8.7",
+  "8.8",
+  "9>16",
+  "9>17",
+  "9>18"
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "thesis_id": "11>7",
+ "latin": "Nullus hebraeus cabalista potest negare quod nomen Iesu, si eum secundum modum et principia cabalae interpretemur, hoc totum precise_et nihil aliud significat, id est, deum dei filium patrisque sapientiam per tertiam diuinitatis personam, quae est ardentissimus amoris ignis, naturae humanae in unitate suppositi unitum.",
+ "farmer_latin_line": 26493,
+ "mentions": [
+  {
+   "work": "copenhaver2022",
+   "line": 4950,
+   "method": "latin_quote",
+   "evidence": [
+    "humane in unitate suppositi",
+    "in unitate suppositi unitum",
+    "nature humane in unitate"
+   ],
+   "context": "(who is the hottest ﬁre of Love) to human nature in the unity of a supposit. Three Hebrew letters in a sacred name, Yeshu (,)ושי convinced Pico that Jews had to accept the Trinity. In the ﬁnal phrase of his thesis, naturae humanae in unitate suppositi unitum, the noun suppositum expressed standard Christological meta- physics and trinitarian theology. Elsewhere a shorter thesis applied the verb suppositare to a metaphysical conundrum debated by Aquinas and other"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1938,
+   "method": "farmer_id",
+   "evidence": [
+    "11>7"
+   ],
+   "context": "Seitenzählung), fol. 12a, aber auch schon an Rhabanus Maurus' Versuche, die gesamte Heilsgeschichte figurativ in den Namen Christi hineinzulesen, Rhabanus Maurus, In ho- norem sancta crucis, c. 22, S. 170-177. 125 Pico, Conclusiones cabalisticae..., 11>7., (S. 522): Nullus hebraeus cabalistapotest ne- gare quod nomen Iesu, si eum secundum modum et principia cabalae interpretamur, hoc totum precise et nihil aliud significat, id est, deum deifilium patrisque sapientiam per tertiam divinitatis personam, quae est ardentissimus amoris ignis, naturae humanae in"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1939,
+   "method": "latin_quote",
+   "evidence": [
+    "que est ardentissimus amoris",
+    "in unitate suppositi unitum",
+    "humane in unitate suppositi",
+    "aliud significat id est"
+   ],
+   "context": "Heilsgeschichte figurativ in den Namen Christi hineinzulesen, Rhabanus Maurus, In ho- norem sancta crucis, c. 22, S. 170-177. 125 Pico, Conclusiones cabalisticae..., 11>7., (S. 522): Nullus hebraeus cabalistapotest ne- gare quod nomen Iesu, si eum secundum modum et principia cabalae interpretamur, hoc totum precise et nihil aliud significat, id est, deum deifilium patrisque sapientiam per tertiam divinitatis personam, quae est ardentissimus amoris ignis, naturae humanae in unitate suppositi unitum., 11>8.: Ex praecedenti conclusione intellegi potest cur dixerit"
+  },
+  {
+   "work": "knots_spirals",
+   "line": 267,
+   "method": "farmer_id",
+   "evidence": [
+    "11>7"
+   ],
+   "context": "11>5. Every Hebrew cabalist, following the principles and sayings of the science of the Cabala, is inevitably forced to concede, without addition, omission, or variation, precisely what the Catholic faith of Christians maintains concerning the Trinity and every divine Person, Father, Son, and Holy Spirit. 11>7. No Hebrew Cabalist can deny that the name of Jesus, if we interpret it following the method and principles of the Cabala, signifies precisely all this and nothing else, that is: God the Son of God and the Wisdom of the Father, united to human nature in the unity of the assumption through the third Person of God, who is the most ardent fire of love."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8207,
+   "method": "latin_quote",
+   "evidence": [
+    "que est ardentissimus amoris",
+    "in unitate suppositi unitum",
+    "interpretemur hoc totum precise",
+    "humane in unitate suppositi"
+   ],
+   "context": "argued a thesis like the seventh: Conclusio vii: Nullus Hebraeus Cabalista potest negare quod nomen Iesu, si eum2 secun- dum modum et principia cabalae interpretemur, hoc totum precise et nihil aliud signiflcat, id est deum dei filium patrisque sapientiam per tertiam"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8544,
+   "method": "latin_quote",
+   "evidence": [
+    "dei filium patrisque sapientiam",
+    "deum dei filium patrisque"
+   ],
+   "context": "although the ineffable Tetragrammaton as a rule represents the sixth sefirah, Glory (Tiferet), there are several theses which clearly presuppose the identification of the Son with Wisdom. Two of them, the seventh (\"deum dei filium patrisque sapientiam\") and the sixty-first, (\"idem filius qui est sapientia patris\"), I have quoted in full earlier in this chapter."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8206,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": true,
+   "context": "debate concerning the question how Pico might, could, or would have argued a thesis like the seventh: Conclusio vii: Nullus Hebraeus Cabalista potest negare quod nomen Iesu, si eum2 secun- dum modum et principia cabalae interpretemur, hoc totum precise et nihil aliud signiflcat, id est deum dei filium patrisque sapientiam per tertiam"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9814,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": false,
+   "context": "\"vinum observatum in uvis suis,\" that is, the tenth sefirah. Kabbala appears again in the seventh Zoroastrian thesis: Conclusio vii: Quae dicunt interpretes super xiiii amphorismo, perfecte intelligentur per ea, quae dicunt Cabalistae de morte osculi."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>14",
+  "11>8",
+  "5>3"
+ ]
+}

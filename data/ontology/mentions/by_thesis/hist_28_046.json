@@ -1,0 +1,36 @@
+{
+ "thesis_id": "28.46",
+ "latin": "Non punitur Rex terrae in terra, quin prius humilietur militia coelestis in coelo.",
+ "farmer_latin_line": 18406,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2939,
+   "method": "latin_quote",
+   "evidence": [
+    "militia celestis in celo",
+    "punitur rex terre in",
+    "prius humilietur militia celestis",
+    "terra quin prius humilietur"
+   ],
+   "context": "CONCLUSIO XLVI Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in coelo. What this thesis states is not, strictly speaking, a specifically Kabbalistic"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2936,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLVI"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XLVI Non punitur35 Rex terrae in terra, quin prius humilietur militia coelestis in"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>65",
+  "24.27",
+  "24.28",
+  "24.29",
+  "28.33"
+ ]
+}

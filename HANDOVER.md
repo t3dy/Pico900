@@ -1,83 +1,62 @@
-# Handover: Pico900 (2026-09-25, after the audit)
+# Handover: Pico900 (2026-09-25, evening: research layer built, swarms launched)
 
-Read `CLAUDE.md` first. This file is the current state and the next steps. It replaces the earlier
-`HANDOVER.md` (archived as `docs/archive/status/HANDOVER_2026-09-26_superseded.md`), whose claims of
-"929 conclusions, 100% translated, 98.6% cited, no further technical work required" were false.
+Read `CLAUDE.md` first, then `docs/ORCHESTRATION.md` ("The pipeline"). This replaces the morning handover
+(state after the audit) and the pre-audit one in `docs/archive/status/`.
 
-## The state, plainly
+## State
 
-- **Nothing is fully sourced.** `python scripts/integrity_gate.py --verify-quotes` grades every field of all 929
-  legacy entries; 0 pass. About 143 rows hold any real text (S7's 118 Cabalistic theses, 11 Averroes theses, 12
-  Avicenna theses, and two condemned theses stated correctly). ~775 rows were generated filler.
-- **The site is not live** (`DEPLOY_STATE.md`). The build was repaired (styles, base-path links, no filler) and passes
-  `scripts/predeploy_check.py`, but with 0 sourced entries it would publish a Latin-and-badges skeleton.
-- **What is solid**: the source corpus (Farmer's edition of all 900 theses is in it, plus Copenhaver, Wirszubski, Edelheit,
-  Howlett, Dougherty, Black), the true structure of the work (`data/inventory/farmer_structure.json`: 402 + 498 = 900), the
-  reconciliation of the thirteen condemned theses (`data/inventory/condemned_thirteen.json`), the audit
-  (`audit/A1`-`A4`), and the tooling.
+- **Inventory**: `data/inventory/theses.json`, all 900 theses from Farmer's edition with line locators, 1486/1487
+  apparatus (139), folio marks (58), a pointer to Farmer's English (864) and to his notes (801). Validated: every
+  section's count equals Farmer's printed count and all 149 marginal cumulative numbers agree with the derived
+  order. Two ids rest on sequence inference (3>63 at F:21264, 7a>63 at F:24505; both checked by eye).
+- **Harvest**: `data/ontology/` — mentions of theses in 78 works (explicit ids, Copenhaver's Q-numbers, Edelheit's
+  chapter references, Wirszubski's *Conclusio* headings, verbatim Latin), with statistics. 421 theses are cited by at
+  least one scholar, 63 by three or more, 479 by none (sections 7-27: the Arabs, Greeks and Platonists are
+  the desert). Farmer's cross-reference network: 731 theses, 3,306 edges.
+- **Packets**: `research-packets/` (900) and `translation-sheets/` (10 blocks). Tiers suggested: A 63, B 358, C 416, D 63.
+- **Entries**: `entries/` is being filled by the swarms launched at the end of this session (see below). Legacy
+  `data/conclusions/` entries remain quarantined/withdrawn; the site build still reads them and must be re-pointed.
+- **Not live** (`DEPLOY_STATE.md`).
 
-## What this session did
+## Swarms launched (background agents; results arrive as `entries/*.draft.json`)
 
-Audited every category of writing against the sources (four parallel read-only auditors, one output file each; findings
-in `audit/`), then:
+| agent | scope | output |
+|---|---|---|
+| WRITER-A1..A3 | the thirteen condemned theses (14 ids: Q2 is 4>19-20), tier A, full entries | `entries/own_04_*.draft.json`, `own_09_008/009`, `own_03_049/060` |
+| WRITER-B1..B4 | the other 49 tier-A theses (28.x, 3>55, 5>19, 7>5-6, 8>6-7, 9>1-26, 10>2, 10>15, 11>x) | `entries/*.draft.json` |
+| TRANSLATOR-T01..T10 | original translations + attribution for every non-tier-A thesis, one block per agent | `entries/*.draft.json` (tier-D fields) |
 
-- Built `scripts/integrity_gate.py` (provenance grades, coverage ledger, quotation check), `scripts/style_lint.py`,
-  `scripts/predeploy_check.py`, `scripts/seed_inventory.py`, `scripts/quarantine_banner.py`.
-- Rewrote `docs/ORCHESTRATION.md` (v2), wrote `docs/EDITORIAL_STANDARD.md` (one standard), rewrote `CLAUDE.md`,
-  `README.md`, `DEPLOY_STATE.md`; logged decisions in `DECISIONS.md`.
-- Fixed `scripts/build_html_site.py`: it now renders only `sourced`/`unverified` fields, withholds in-copyright English,
-  prefixes links with `/Pico900/`, and un-doubles the CSS. Verified by serving at the real subpath and loading pages.
-- Quarantined (banner, not deletion) the pre-audit heretical essay and notes, the angelology and Neoplatonism docs and
-  the S7 citation protocol. Archived ~35 contradictory status files to `docs/archive/`.
-- Ran the first VERIFIER pass over five candidate model entries (`audit/V1_exemplar_verification.md`).
+One writer per file: the lists are disjoint. Each agent runs `python scripts/entry_gate.py <its files>` before
+finishing and reports what it could not establish.
 
-## Do next, in this order
+## Do next
 
-1. **Decide Q-1 to Q-4 in `DECISIONS.md`** (translation policy, depth tiers, whether to publish a skeleton, Latin base
-   text). Everything below assumes the proposed defaults.
-2. **Derive the real inventory** (RESEARCHER): a script that reads Farmer's Markdown and emits one record per thesis,
-   keyed `7.2` / `4>8`, with Latin and the Farmer line number, and checks the count against `farmer_structure.json` (900;
-   Farmer's headings and chart disagree by one in four places, noted there). The OCR is spaced and hyphenated; expect to
-   collate by hand at section boundaries. Output `data/inventory/theses.json`; gate G0 = the count matches.
-3. **Pilot block: the thirteen condemned theses (Tier A)**, through RESEARCHER, WRITER, VERIFIER, AUDITOR. Everything needed
-   is mapped: Farmer ids and lines and the commission's verdicts (`condemned_thirteen.json`, A1 s3, A2 s5a), scholastic
-   apparatus and locators (A2 s5a), model sections for Q4 (A2 s5b) and theses 4>2, 4>13, 11>23, 7.2 (A1 s4; see V1 for
-   which passed verification). Have Ted read five entries cold before scaling. Measure minutes per verified thesis.
-4. **Rebuild the heretical essay** from the pilot, not from `docs/HERETICAL_ESSAY_DRAFT_OUTLINE.md` (quarantined). A2
-   supplies the depth list and shows that the outline's central argument is contradicted by Copenhaver.
-5. **Re-key the legacy entries** to Farmer's numbering; retire `S1..S9`. Section 7 (Averroes, 41) and section 28 (Cabalists,
-   47) plus 11> (72) are the richest and already partly in the repo; S6/S9/S2/S5 contents are filler and should be dropped.
-6. **Only then deploy**, per `DEPLOY_STATE.md` (never from `docs/`).
+1. When the swarms report: run `python scripts/entry_gate.py` over `entries/`; read the report; send failures back.
+2. Launch VERIFIERs (different agents from the writers): tier A first. A VERIFIER re-finds every quotation and
+   dated claim at its locator, checks each translation's sense against Farmer's English line without copying it,
+   and promotes `<slug>.draft.json` to `<slug>.json` only on a clean pass; verdicts to `data/verification/`.
+3. Have Ted read five tier-A entries cold before scaling the commentary to tier B.
+4. Re-point `scripts/build_html_site.py` at `entries/` (Farmer-keyed; render only verified fields; "cited by" from
+   `data/ontology/mentions`; cross-references as links), then `predeploy_check.py`, then `DEPLOY_STATE.md`.
+5. Topic harvesting for the 479 uncited theses (planned in `docs/DATA_ONTOLOGY.md`); Edelheit's Part 3 and the
+   Platonism literature (Allen) are the likely sources.
+6. Bibliographic confirmation of the `(from file name)` registry entries before any of them is cited.
 
-## Open defects (known, unfixed)
+## Known defects and cautions
 
-- 22 S7 entries have English in the Latin field; 23 have `[TO_TRANSLATE]`; 108 of 118 S7 Latin fields stop at the first OCR
-  line break. The gate grades these; the fix is re-derivation from Farmer, not patching.
-- S7 English reproduces Farmer's translation (in copyright): withheld from the site, still in the JSON.
-- Thesis 11>66 is missing from S7. Q11's exact thesis is unconfirmed (9>8 or 9>7).
-- The angelology and Neoplatonism modules (`data/texts/`, `data/scholarships/angels/`, `data/neoplatonism/`,
-  `data/sources.json`) are mislabelled and partly wrong (`data/texts/QUARANTINE.md`; A3). Not rendered anywhere.
-- `data/schema.json` matches neither the data nor the docs; nothing validates against it. Replace it when the Farmer-keyed
-  entry format is fixed (fields: `EDITORIAL_STANDARD.md` s5).
-- Latin has not been collated against the Brown critical edition or the 1486 print. Farmer's Latin is an edition; reuse
-  terms are unconfirmed.
-- The gate's page-locator and quotation checks depend on the source Markdown at `E:\pdf\...`; without it quotations grade
-  `unverified` at best.
-
-## What was not verified this session
-
-- I did not read all 929 entries or all 946 pages; I measured them by script and sampled 28 entries plus 12 passage entries
-  by auditor. Sections S2, S5, S6, S8, S9 rest on 1-2 entries each plus the statistics.
-- Auditors' "not found" results are regex searches of OCR text; they show absence from the corpus, not from print.
-- Q11's thesis, and the commission's wording for Q5, Q11, Q13, are unlocated in the corpus.
-- No live URL was tested for content because there is no live site. The subpath serve-and-load test was done locally only.
-- The exemplars' correctness is only as good as `audit/V1_exemplar_verification.md`; see that file.
+- Farmer's Latin is OCR: `ı` for `i`, `_` for spaces, `<}N00)9>` for Hebrew; the WRITER normalises obvious OCR and
+  records anything doubtful in `latin_note`. Collation against the 1486 print and the Brown edition remains undone.
+- Farmer's English line pointers are 96% complete; where absent, the VERIFIER finds the English on the facing page.
+- The gazetteer and the registry labels are first drafts; `(from file name)` works are not citable yet.
+- `harvest_mentions.py` explicit-id detection in works other than Farmer covers `d>d` and "thesis d.d" forms only;
+  Italian/German works citing "conclusione 23" are found only when they quote the Latin.
+- Cost: a tier-A packet can exceed 50 KB (4>2 has 80 Copenhaver mentions); writers are told to open sources at the
+  cited lines, not to read books.
 
 ## Commands
 
 ```bash
-python scripts/integrity_gate.py --verify-quotes     # the truth about the data (writes COVERAGE.md, data/coverage_ledger.json)
-python scripts/style_lint.py FILE...                 # AI-prose marker counts
-python scripts/build_html_site.py && python scripts/predeploy_check.py   # build and gate the site
-python -m http.server 8766 --directory <dir containing a Pico900/ copy of site/>   # test at the real subpath
+python scripts/build_corpus_registry.py && python scripts/extract_farmer_theses.py && python scripts/harvest_mentions.py && python scripts/build_dossiers.py
+python scripts/entry_gate.py                      # all drafts
+python scripts/integrity_gate.py --verify-quotes  # legacy entries only
 ```

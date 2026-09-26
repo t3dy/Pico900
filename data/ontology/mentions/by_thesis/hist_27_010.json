@@ -1,0 +1,22 @@
+{
+ "thesis_id": "27.10",
+ "latin": "Decem ultores, de quibus dixit secundum Mercurium praecedens conclusio, uidebit profundus contemplator correspondere male coordinationi denariae in cabala_et praefectis illius, de quibus ego in cabalisticis conclusionibus nihil posui, quia est secretum.",
+ "farmer_latin_line": 17362,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9575,
+   "method": "latin_quote",
+   "evidence": [
+    "dixit secundum mercurium precedens",
+    "mercurium precedens conclusio uidebit",
+    "cabalisticis conclusionibus nihil posui",
+    "et prefectis illius de"
+   ],
+   "context": "Conclusio x: Decern ultores, de quibus dixit secundum Mercurium praecedens conclu- sio, uidebit profundus contemplator correspondere malae coordinationi denariae in Cabala, et praefectis illius, de quibus ego in Cabalisticis conclu- sionibus nihil posui, quia est secretum.14"
+  }
+ ],
+ "farmer_crossrefs": [
+  "27.9"
+ ]
+}

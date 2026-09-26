@@ -1,0 +1,74 @@
+{
+ "thesis_id": "28.29",
+ "latin": "Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sa/de, regno Dauidis debet appropriari.",
+ "farmer_latin_line": 18082,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2463,
+   "method": "latin_quote",
+   "evidence": [
+    "regno dauidis debet appropriari",
+    "quatuor litterarum quod est",
+    "ex mem sade pe",
+    "quod est ex mem"
+   ],
+   "context": "CONCLUSIO XXIX Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno Dauidis debet appropriari. The strange name fSXö MS PS is not a meaningful Hebrew word, but a vox"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7256,
+   "method": "latin_quote",
+   "evidence": [
+    "regno dauidis debet appropriari",
+    "quatuor litterarum quod est",
+    "ex mem sade pe",
+    "quod est ex mem"
+   ],
+   "context": "Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii. Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno Dauidis debet appropriari. The relationship or correspondence between the ten sefirot and divine"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2460,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XXIX"
+   ],
+   "resolved": true,
+   "context": "Sources of the First Set of Theses CONCLUSIO XXIX Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3177,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "the conspectus of sources is that the location of individual theses seems to be determined sometimes by the incidence of cognate subject matter in Recanati even when the direct source of the theses is in all likelihood not Recanati. Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3182,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "between two theses both of which treat of angels. The source of Conclusio xxviii begins in Recanati at fol. llvb, and the source of Conclusio xxx at 12va. The name MSPS is discussed in Recanati at fol. llva. Thus it appears that while the phrasing of Conclusio xxix was inspired by the Bahir, its location reflects the arrangement of the subject matter in Recanati. Another case in point is Conclusio xli. It treats of new souls and its source is the Bahir, either directly or indirectly through the quotation in"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3284,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxix"
+   ],
+   "resolved": false,
+   "context": "reference to sefirot derives from a commentary on the Book of Creation. It is certain that Pico read the Bahir: Scholem proved it beyond doubt.5 But of the three theses that reflect recognizable passages in the Bahir only one (Conclusio xxix) derives in all likelihood from the Bahir itself, whereas the other two might equally well derive from quotations of the Bahir in Recanati's Commentary on the Pentateuch. The Bahir is the penultimate piece in Cod. Vat. Ebr. 191. It is the earliest extant text of Kabbala proper."
+  }
+ ],
+ "farmer_crossrefs": [
+  "28.28"
+ ]
+}

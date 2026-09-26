@@ -1,0 +1,39 @@
+{
+ "thesis_id": "2.36",
+ "latin": "Duo accıdentia solo numero differentia non sunt in eodem subiecto.",
+ "farmer_latin_line": 11777,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12452,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 36"
+   ],
+   "context": "on individuals.171 This is exactly the opposite view to what we have in Pico’s thesis and it might just be the same case as in thesis 8, where, as we have seen, Pico critically reacts to Ockham through the mediation of Thomas. Thesis 36 states that two accidents which differ only in number are not placed in the same subject.172 Let us have a look at Thomas’s commentary on the Sentences, 2, d. 13, q. 1, a. 3, argument 2. Thomas claims there that things which are mutually united and separated while remaining the same in number"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12480,
+   "method": "latin_quote",
+   "evidence": [
+    "solo numero differentia non",
+    "numero differentia non sunt",
+    "duo accidentia solo numero",
+    "differentia non sunt in"
+   ],
+   "context": "non tamen pro se sed pro omnibus particularibus; nam hoc commune ‘homo’ non potest ridere. Eodem modo nullus actus ridendi est realiter in hoc communi ‘homo’, sed tantum in homine particulari.” 172 Pico, 900 Theses, p. 228: “Duo accidentia solo numero differentia non sunt in eodem subiecto.” 173 Thomas Aquinas, Scriptum super libros Sententiarum, 2, d. 13, q. 1, a. 3: “Praeterea, quae- cumque conjunguntur et separantur ab invicem, manentia eadem numero, non sunt"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.37",
+  "2>36",
+  "2>37",
+  "2>9",
+  "4.18",
+  "6.11",
+  "7.12",
+  "7.7",
+  "7a>44"
+ ]
+}

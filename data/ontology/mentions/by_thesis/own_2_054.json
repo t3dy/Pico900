@@ -1,0 +1,22 @@
+{
+ "thesis_id": "2>54",
+ "latin": "Iste propositiones sunt concedende ut omnino uere: Materia prima fit asinus, bos, et similia.",
+ "farmer_latin_line": 19764,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 18062,
+   "method": "latin_quote",
+   "evidence": [
+    "ut omnino uere materia",
+    "asinus bos et similia",
+    "uere materia prima fit",
+    "omnino uere materia prima"
+   ],
+   "context": "(which can be found in 900 Theses, p. 388) which the editor of the text had missed: “Et ad hunc sensum videtur ipse ponere conclusionem qum 55 [it should be 54!] sic habea- tur: ‘iste propositiones sunt concedere ut omnino vere. Materia prima fit [sit?] asinus, bos et similia’….” On this see Dulles, Princeps Concordiae, p. 88: “Pico found it possible to include vegetable and animal souls under the category of material things, on the ground that these souls are merely realizations of the rationes seminales universally present in"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.4"
+ ]
+}

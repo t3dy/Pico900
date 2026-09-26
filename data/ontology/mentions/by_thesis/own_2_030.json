@@ -1,0 +1,31 @@
+{
+ "thesis_id": "2>30",
+ "latin": "Sensus communis non est distinctus a sensu uisus, auditus, odoratus,",
+ "farmer_latin_line": 19313,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 9259,
+   "method": "farmer_id",
+   "evidence": [
+    "2>30"
+   ],
+   "context": "sensus quod videmus: auditum, visum, gustum, tactum, olfactum, quasi quinque maria mediterranea diffusos intrare corporis continentem. . . . ” Pico makes reference here to Plato Theaetetus 156Aff. 23 Conclusions 2>30 (ed. and trans. Farmer, 380–1): “Common sense is not distinct from the sense of sight, hearing, smell, taste, and touch.” See also 2>58, which appeals to the authority of Aristotle and Plato to conﬁrm that the common sense power does not differ “in subject” from the exterior sense powers."
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9472,
+   "method": "farmer_id",
+   "evidence": [
+    "2>30"
+   ],
+   "context": "species from objects; thus the eye, on seeing a colored object, would receive that species of color, but no judgment would occur until the species had been abstracted and impressed on the intellect. 36 Conclusions 2>30. Conclusions 2>58 seems to extend the point with respect to the three other interior senses (imaginative, cogitative, memorative), though they are said not to “differ from the sensitive powers of the interior senses” (ed. and trans. Farmer, 388–9), which they are standardly taken to be."
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.1",
+  "1.10",
+  "2>1",
+  "7.10"
+ ]
+}

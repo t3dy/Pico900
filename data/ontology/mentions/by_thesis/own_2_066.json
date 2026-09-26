@@ -1,0 +1,27 @@
+{
+ "thesis_id": "2>66",
+ "latin": "Formalitas est actualitas apta per se perficere possibilem intellectum.",
+ "farmer_latin_line": 19980,
+ "mentions": [
+  {
+   "work": "mandosio2012",
+   "line": 255,
+   "method": "latin_quote",
+   "evidence": [
+    "formalitas est actualitas apta",
+    "actualitas apta per se",
+    "est actualitas apta per"
+   ],
+   "context": "28 Pico (1998), p. 416 (same series of conclusions, 58): ‘Formalitas est adæquatum objectum intellectus.’ Farmer’s translation (‘A formality is an adequate object of the intellect’, ibid., p. 417) is inappropriate, since the very concept of ‘a formality’ is meaningless. 29 Ibid., p. 400 (same series, 7): ‘intellectus est difﬁnitio totius esse . . . ’ 30 Ibid., p. 392 (Conclusiones philosophicæ secundum propriam opinionem, 66): ‘Formalitas est actualitas apta per se perﬁcere possibilem intellectum.’ Again, Farmer’s translation (‘A formality is an actuality appropriate per se to perfect . . . ’, ibid., p. 393) is inadequate. ## Page 4"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.14",
+  "2>68",
+  "3.7",
+  "3>5",
+  "3>58",
+  "5>19",
+  "6.9"
+ ]
+}

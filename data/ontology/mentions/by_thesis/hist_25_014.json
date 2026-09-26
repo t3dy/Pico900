@@ -1,0 +1,21 @@
+{
+ "thesis_id": "25.14",
+ "latin": "Quilibet numerus linearis symbolizat deos.",
+ "farmer_latin_line": 17025,
+ "mentions": [
+  {
+   "work": "allen2017",
+   "line": 2688,
+   "method": "latin_quote",
+   "evidence": [
+    "quilibet numerus linearis",
+    "numerus linearis symbolizat",
+    "linearis symbolizat deos"
+   ],
+   "context": "beginning at the center as undivided and motionless but gradually becoming divided and “mutable” as they approach the circumference. In these lines are the souls and minds. Cf. Pico della Mirandola, Cottclusiones DCCCC, Conclusiones secundum mathematicam Pythagorae, nos. 13 (“Quilibet numerus planus aequilaterus animam symbolizat”) and 14 (“Quilibet numerus linearis symbolizat deos”), in his Opera Omnia (Basel, 1572), p. 79. 30. Cf. Ficino’s Timaeus commentary 22 (Opera, p. 1449.3): “Quattuor apud mathematicum: signum, linea, planum atque profundum.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.6"
+ ]
+}

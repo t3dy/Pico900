@@ -1,0 +1,56 @@
+{
+ "thesis_id": "2.40",
+ "latin": "Difficultas intelligendi et ex parte ipsius intellectus et ex parte ipsius intelligibilis prouenire potest.",
+ "farmer_latin_line": 11882,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 4119,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 40"
+   ],
+   "context": "Simplicius in Pico’s account.62 In his commentaries on Book Two of Aristotle’s Metaphysica Hennon discusses whether the difficulty in understanding comes from our intellect or from the things we try to understand; and he concludes that it comes from our intellect. Pico in thesis 40 according to Thomas Aquinas simply presents these two options.63 In his account of Book Four of Aristotle’s Metaphysica Hennon attempts to determine the relation between ‘being’ and ‘one’; and he concludes that they are interchangeable and mean the same"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12649,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 40"
+   ],
+   "context": "in the production of intelligible species. But Thomas does not specifically regard phantasm as secondary and instrumental actor in the production of intelligible species, this formulation is found only in Pico. Thesis 40, just like thesis 20, is included among the theses which were crit- icized by Bernardo Torni and we shall discuss it again and with further detail in Chapter 12. It refers to a famous Aristotelian question and states that a dif- ficulty in understanding can originate partly in the intellect itself and partly"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 4141,
+   "method": "latin_quote",
+   "evidence": [
+    "parte ipsius intelligibilis prouenire",
+    "intelligendi et ex parte",
+    "ex parte ipsius intellectus",
+    "difficultas intelligendi et ex"
+   ],
+   "context": "“Circa hunc textum queritur utrum difficultas cognoscendi sit ex parte intellectus nostri aut ex parte rerum cognoscibilium. Conclusio responsalis: difficultas cognoscendi tam substancias materiales quam inmateriales est ex parte intellectus nostri.” Pico, 900 Theses, p. 230: “Difficultas intelligendi et ex parte ipsius intellectus et ex parte ipsius intelligibi- lis provenire potest.” A variant of this question can be found in Johannes le Damoisiau’s commentaries on Aristotle’s Physica, Book One; see Bakker, ‘Natural Philosophy and Metaphysics in Late Fifteenth-Century Paris. II’, p. 213: “Dubitatur primo utrum singulare"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12671,
+   "method": "latin_quote",
+   "evidence": [
+    "parte ipsius intelligibilis prouenire",
+    "intelligendi et ex parte",
+    "ex parte ipsius intellectus",
+    "difficultas intelligendi et ex"
+   ],
+   "context": "illius hominis, ut Commentator fingit in III de Anima. – Relinquitur ergo quod omnino impossibile et inconveniens est ponere unum intellectum omnium hominum.” 188 Pico, 900 Theses, p. 230: “Difficultas intelligendi et ex parte ipsius intellectus et ex parte ipsius intelligibilis provenire potest.” And see Aristotle, Metaphysics, 993b4–11. 189 Thomas Aquinas, Summa contra gentiles, 3, 45, n. 5: “Si autem intellectus possibilis non est a corpore separatus secundum esse, ex hoc ipso quod est tali corpori unitus secun-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.1",
+  "3>40",
+  "4.19",
+  "4.20",
+  "7.25"
+ ]
+}

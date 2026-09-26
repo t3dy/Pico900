@@ -1,0 +1,87 @@
+{
+ "thesis_id": "11>14",
+ "latin": "Per litteram <W>, id est, scin, quae mediat in nomine lesu, significatur nobis cabalistice quod tum perfecte quieuit, tanquam in sua perfectione, mundus cum Iod coniunctus est cum Vau, quod factum est in Christo, qui fuit uerus dei filius et homo.",
+ "farmer_latin_line": 26697,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1945,
+   "method": "farmer_id",
+   "evidence": [
+    "11>14"
+   ],
+   "context": "unitate suppositi unitum., 11>8.: Ex praecedenti conclusione intellegi potest cur dixerit Paulus datum esse Iesu nomen quod est super omne nomen, et cur in nomine Iesu dictum sit: Omne genu flecti caelestium, terrestrium, et infernorum, quod etiam est maxime ca- balisticum; et potest ex se intelligere qui est profundus in cabala. 11>14. ( S. 526): Per litteram VJ, id est sein, quae mediat in nomine Iesu, significatur nobis, cabalistice quod tumperfecte quievit, tanquam in suaperfectione, mundus cum Iod coniunctus est cum Vau, quodfactum est in Christo, quifuit verus deifilius et homo."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1946,
+   "method": "latin_quote",
+   "evidence": [
+    "que mediat in nomine",
+    "mundus cum iod coniunctus",
+    "significatur nobis cabalistice quod",
+    "cum iod coniunctus est"
+   ],
+   "context": "Paulus datum esse Iesu nomen quod est super omne nomen, et cur in nomine Iesu dictum sit: Omne genu flecti caelestium, terrestrium, et infernorum, quod etiam est maxime ca- balisticum; et potest ex se intelligere qui est profundus in cabala. 11>14. ( S. 526): Per litteram VJ, id est sein, quae mediat in nomine Iesu, significatur nobis, cabalistice quod tumperfecte quievit, tanquam in suaperfectione, mundus cum Iod coniunctus est cum Vau, quodfactum est in Christo, quifuit verus deifilius et homo. 126 Dazu auch Pico, Conclusio cabalistica..., 11>33. (S. 534)."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8421,
+   "method": "latin_quote",
+   "evidence": [
+    "tum perfecte quieuit tanquam",
+    "uerus dei filius et",
+    "perfecte quieuit tanquam in",
+    "significatur nobis cabalistice quod"
+   ],
+   "context": "Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice, quod tum perfecte quieuit tanquam in sua perfectione mundus cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11009,
+   "method": "latin_quote",
+   "evidence": [
+    "tum perfecte quieuit tanquam",
+    "uerus dei filius et",
+    "perfecte quieuit tanquam in",
+    "significatur nobis cabalistice quod"
+   ],
+   "context": "Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice quod tum perfecte quieuit tanquam in sua perfectione mundus cum Iod coniunctus est cum Vau, quod factum est in Christo qui fuit uerus dei filius et homo."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8419,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": true,
+   "context": "symbolism. It is indeed a fact that Pico resorted to letter symbolism more often than to combination of letters. Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice, quod tum perfecte quieuit tanquam in sua perfectione mundus"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9856,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": false,
+   "context": "Kabbalistic books. The fourteenth thesis goes to the heart of Christian Kabbala. Conclusio xiv: Per dictum illud Zoroastris, adhuc tres dies sacrificabitis, et non ultra, apparuit mihi per Arithmeticam superioris merchiaue illos computandos"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 11007,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": true,
+   "context": "siah are identical, it is certainly noteworthy that nomen Jesu and nomen Messiae are by no means identical in Pico's theses. Conclusio xiv: Per litteram <1P> id est sein quae mediat in nomine Iesu significatur nobis cabalistice quod tum perfecte quieuit tanquam in sua perfectione mundus"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>15",
+  "28.22",
+  "5>6"
+ ]
+}

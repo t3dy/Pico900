@@ -1,0 +1,40 @@
+{
+ "thesis_id": "11>32",
+ "latin": "Si duplex Aleph quod est in textu: Non auferetur sceptrum, etc., coniunxerimus ad duplex Aleph quod est in textu: Deus possedit me ab initio, et ad duplex Aleph quod est in textu: Terra autem erat inanis, per uiam Cabalae intelligemus ibi Iacob de illo uero Messia locutum, qui fuit Iesus Nazarenus.",
+ "farmer_latin_line": 27025,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9010,
+   "method": "latin_quote",
+   "evidence": [
+    "possedit me ab initio",
+    "cabale intelligemus ibi iacob",
+    "initio et ad duplex",
+    "uiam cabale intelligemus ibi"
+   ],
+   "context": "Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxerimus ad duplex Aleph quod est in textu [Prov. 8:22] Deus possedit me ab initio, et ad duplex Aleph quod est in textu [Gen. 1:2] Terra autem erat inanis, per viam Cabalae intelligemus ibi Iacob de illo Messia"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9008,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxii"
+   ],
+   "resolved": true,
+   "context": "fied it with the third.16 It is the latter view that occasioned Pico's statement \"cum audis Cabalistas ponere in Thesu<u>a informitatem,\" etc. Conclusio xxxii: Si duplex Aleph quod est in textu [Gen. 49:10] Non auferetur sceptrum etc. coniunxerimus ad duplex Aleph quod est in textu [Prov. 8:22] Deus"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9710,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxii"
+   ],
+   "resolved": false,
+   "context": "propriam opinionem numero LXII in doctrinam Platonis, links Plato's Epinomis with Kabbala. Conclusio xxxii: Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur seculum"
+  }
+ ],
+ "farmer_crossrefs": []
+}

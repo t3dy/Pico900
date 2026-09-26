@@ -1,0 +1,36 @@
+{
+ "thesis_id": "3.2",
+ "latin": "Potest uideri essentia sine personis, et una persona sine alia.",
+ "farmer_latin_line": 11978,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13130,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 2"
+   ],
+   "context": "false.6 This is exactly what we have in Pico’s thesis. Francis goes on and demon- strates further different components of this proposition but this is beyond the scope of the present discussion. The relations between ‘essence’ and ‘Persons’ is discussed in thesis 2. This topic brings us of course to the subtleties of Trinitarian theology. According to Pico it is possible that essence could be seen without Persons, and that one Person could be seen without another Person.7 This is discussed in the com-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13155,
+   "method": "latin_quote",
+   "evidence": [
+    "et una persona sine",
+    "personis et una persona",
+    "uideri essentia sine personis",
+    "una persona sine alia"
+   ],
+   "context": "stantialibus non fit nisi una abstractio, et generare non potest predicari nisi formaliter cum adiective predicetur. Ergo generare si dicatur de essentia sic abstracta dicetur de ea in primo modo dicendi per se. Sed hoc falsum.” 7 Pico, 900 Theses, p. 232: “Potest videri essentia sine personis, et una persona sine alia.” 8 Francis of Mayronnes, Scriptum super Primum Sententiarum, pp. s9v–t1v. ## Page 287"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>4",
+  "2.1",
+  "2>47",
+  "2>48",
+  "3.1",
+  "4.5"
+ ]
+}

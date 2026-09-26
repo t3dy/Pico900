@@ -1,0 +1,22 @@
+{
+ "thesis_id": "28.37",
+ "latin": "Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis.",
+ "farmer_latin_line": 18201,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 2708,
+   "method": "latin_quote",
+   "evidence": [
+    "secretum orationis antelucane nihil",
+    "intelligere quam proprietatem pietatis",
+    "antelucane nihil aliud debemus",
+    "debemus intelligere quam proprietatem"
+   ],
+   "context": "CONCLUSIO X X X V I I Per secretum orationis antelucanae, nihil aliud debemus intelligere quam proprietatem pietatis. Cf. Recanati, fol. 52va:"
+  }
+ ],
+ "farmer_crossrefs": [
+  "24.6"
+ ]
+}

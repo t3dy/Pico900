@@ -1,0 +1,982 @@
+{
+ "thesis_id": "4>13",
+ "latin": "Non assentior communi sententiae theologorum dicentium posse deum quamlibet naturam suppositare, sed de rationali tamen hoc concedo.",
+ "farmer_latin_line": 21767,
+ "mentions": [
+  {
+   "work": "copenhaver2022",
+   "line": 4907,
+   "method": "latin_quote",
+   "evidence": [
+    "assentior communi sententie theologorum",
+    "non assentior communi sententie",
+    "deum quamlibet naturam suppositare",
+    "communi sententie theologorum dicentium"
+   ],
+   "context": "I do not assent to the usual statement by theologians who say that God can make any nature whatever the supposit, granting this instead only for a nature able to reason (non assentior communi sententiae theologorum dicentium posse Deum quamlibet naturam suppositare, sed de rationabili tantum hoc concedo);"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6537,
+   "method": "latin_quote",
+   "evidence": [
+    "deum quamlibet naturam suppositare",
+    "posse deum quamlibet naturam"
+   ],
+   "context": "I do not assent to the usual statement by theologians who say that God can make any nature whatever the supposit (posse Deum quamlibet naturam suppositare) . . ."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6908,
+   "method": "latin_quote",
+   "evidence": [
+    "assentior communi sententie theologorum",
+    "non assentior communi sententie",
+    "deum quamlibet naturam suppositare",
+    "communi sententie theologorum dicentium"
+   ],
+   "context": "thesis: Non assentior communi sententiae theologorum dicentium posse Deum quamli- bet naturam suppositare, sed de rationabili tantum hoc concedo."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 128,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "2.9 Terms of Art 84 2.10 Pico Against Humanism 94 3. What Can Be Taken On? Pico’s Q4 99 3.1 Incarnation 99 3.2 Assenting and Asserting 110 3.3 Henry of Ghent’s Metaphysics 113"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 416,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": " 5 supplied the Latin in parentheses. I’ve also provided full English translations for four of Pico’s Questions (Q4, 8, 9, and 10) at the ends of Chapters 3, 4 and 5. Pico’s arguments, in the manner of scholastic philosophy, are often dense and almost never supported by formalizations like ‘is ’ or ‘if p, then q.’ To clarify Pico’s reasoning and to avoid ambiguity and repetition, I’ve used such devices to"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 528,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "of their ﬁrst editions, while also consulting the very useful editions and translations of the Apology (Afr.) by Paolo Fornaciari and of the Conclusions by Albano Biondi (Bnd.). Since neither the 1487 Apology nor Fornaciari’s edition is divided into numbered paragraphs, I cite the Apology only by page, except for Q4, Q6, Q9, and Q10, where the numbering follows my translations in Chapters 3, 4 and 5 of this book. I also give pages numbers for Bnd. ² Pico, Con. p. 1 (Bnd. p. 7)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 849,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Q1 Hell Q5 Kabbalah Q9 Eucharist Q2 Sin Q6 Eucharist Q10 Eucharist Q3 Worship Q7 Origen Q11 Miracle Q4 Incarnation Q8 Belief Q12 God Q13 Soul14"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 888,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Nonetheless, readers who penetrated the Apology’s metaphysical thickets would eventually see connections among topics that may have looked disconnected at ﬁrst. What does the eucharist in theses Q6, Q9, and Q10 have to do with Hell in Q1, for example? A thesis about Christ’s incarnation, Q4, gives the answer: that God’s body (Figure 1.1) links all ﬁve theses. The mystery of incarnation explored in Q4 declares that divinity is embodied. The eucharistic mystery examined in Q6, Q9, and Q10 insists that God’s body"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 2137,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Centiloquium widely attributed to Ockham and printed in the late Quattrocento. A topic in this little book was the metaphysics of the incarnation, meant to explain how the deity could take on a non-divine human nature in the person of Christ. Pico’s Q4 thesis engaged this doctrine: I do not assent to the usual statement by theologians who say that God can make"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 2154,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Franciscan convents, these distinctions would have been lost on many acute philosophers because the metaphysics of supposition was dying in disgrace and the semantics of supposition had fallen out of the curriculum. But readers addressed by the Q4 thesis—Pico’s judges, certainly—would have recognized both terminologies, as in this recital from the Centiloquium:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 2178,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "have seen that “God has taken on some nature in the unity of the supposit (in unitate suppositi).” This phrase was metaphysical, without a doubt, meant to solve a puzzle about the incarnation by showing how the deity could take on (as in the Q4 thesis) a non-divine human nature in the person of Christ. An omnipotent divinity could do anything—more or less. Hence, according to the Centiloquium, “God can take on a stone, a stick of wood and so on.” The implications were staggering: “all these propositions are possible: God is a donkey; God is a stone; a"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 2316,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁸⁸ Pico, Apo. pp. 54, 75 (Afr., pp. 174–6, 238) for the two mentions of Plato. See also Pico, Q4.10–13, 20, at the end of Chapter 3 of this book, for John of Damascus; Henry of Ghent cited John in a Quodlibet that Pico reproduced verbatim but without further comment on the Damascene. One might count John as either a late patristic authority or early medieval."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 4902,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "In his Apology, not quite 56,000 words, Pico used many dozens of suppo- words, even though, just a few months earlier, he had needed this terminology only ﬁve times in the 18,000 words of the Conclusions. Two of these ﬁve uses were in condemned theses: Q4 on the incarnation, I do not assent to the usual statement by theologians who say that God can make"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 4926,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Pico’s comment about “suppositing with regard to any creature whatever”— including bread as well as human bodies—linked the eucharistic theorizing in Q6 with speculation in Q4 about another article of faith: the incarnation. The next chapters of this book will examine the connection. But the tallies of suppo- words in the prince’s two books explain themselves: this medieval terminology,"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 4935,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "’? 95 incidental in the Conclusions, became indispensable for the Apology—after the Pope condemned the Q4, Q6, and other theses. Pico relied heavily on suppo- words only when he needed them to defend himself.⁹⁶ Pico’s use of suppo- words in these two propositions was plainly metaphysical, like two other such cases in the Conclusions. Neither of these other propositions"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5130,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "3 What Can Be Taken On? Pico’s Q4"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5464,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "He tested this position carefully against the views of Albert, Bernard of Gannat, Durand, Godfrey of Fontaines, Henry of Ghent, John of Naples, and Scotus. They and he used many suppo- words, including the unusual suppositare, a key term in Pico’s Q4 thesis: this and other suppo- words occur twenty-seven times in Q4. Both for the title of Q4 and for the Q4 thesis, the prince, who read Capreolus, chose suppositare—not supponere, the usual verb. He came back to suppositare eighteen times in Q4, where other unusual usages are suppositabilis (twice) and"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5475,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "¹⁸ Aquinas, ST 3.4.1; Kennedy (1989), (1990). ¹⁹ Cabrol (1900–07), 5.13. ²⁰ Pico, Q4.1–3, 7, 10, 25–7, 29–30, 33, 35–7; (Apo. pp. 41–2, 45–7; Afr., pp. 134–8, 144–52): for Q4, Q8, Q9 and Q10, I cite my translations, by paragraph, at the ends of Chapters 3, 4 and 5 of this book; see also Cabrol (1900–08), 5.12–26, esp. 12. Except for Q4.7 and 10, in the excerpt from Henry of Ghent, all the suppo- words in Q4 are in passages written by Pico himself; hence, the presentation of metaphysical"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5513,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "and widely accepted, though agreement about it was far from unanimous. One energetic critic was Henry of Ghent, who—along with Aquinas—was one of the six theologians headlined at the start of the Conclusions. But Pico never mentioned Henry in the twenty-nine propositions, including the Q4 thesis, that especially provoked his enemies in Rome. The only medieval ﬁgure mentioned in these conclusions was Aquinas—both times to correct him.²³ What were Pico’s credentials as a critic of theology? Except for his writings, the"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5522,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "he studied in Padua, Paris and elsewhere. The Conclusions and Apology were shaped by Pico’s university experience, but the relevant propositions in the Conclusions show no special interest in suppo- words. All in all, the prince left few clues in this earlier work for readers puzzled by suppositare in the Q4 thesis. These are ﬁve recent translations of the thesis, in order of publication:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5555,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "The renderings of suppositare are “assume,” “assume as a form,” “be the substan- tial subject,” “appear” (perhaps), and “take on.” Serious scholars and skilled Latinists produced these signiﬁcantly different versions of a pivotal term in the Q4 thesis. Where might they have looked for guidance? Since Henry of Ghent’s presence is the largest in Q4—even larger than Pico’s— maybe Henry could help. Like other theologians of his day, he proposed intricate philosophical solutions to knotty doctrinal problems. One puzzle, the eucharist,"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5597,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "innovation was a challenge to Aristotelian metaphysics of the kind favored by Aquinas and others.²⁷ Henry—a user of suppo- words who was well known to Pico—might be a good informant for the suppositare problem. But except for Q4 and other parts of the Apology that cite Henry, all the evidence about Pico’s knowledge of him comes from the thirteen theses in the Conclusions listed under his name. None of them mentions the incarnation, much less the modalities of taking-on, and none uses a"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5604,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "suppo- word. They are the usual miscellany in the Conclusions: angels and demons, illumination and powers of the soul, also the metaphysics of relations and four propositions that bear on trinitarian questions. None of this would have motivated the arguments in Q4. And where the Conclusions proposes the original Q4 thesis, Henry is nowhere to be seen.²⁸ The Quodlibet (Qdl. 13.5) by Henry that ﬁlls most of Pico’s Q4 is hard to follow. Partly this is a problem with the genre—replies by anyone (quilibet) to questions"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5615,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "metaphysical abstractions from shifting perspectives and meta-perspectives. To make matters worse, the text of Qdl. 13.5 printed in Pico’s Apology is bad— sometimes unintelligible. Mistakes, large and small, spoil the whole selection. This is one example, at Q4.18, where the ﬁrst edition of 1487 has Tenendo igitur hanc opinionem ad praesens, dico ad primum in oppositum,"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5635,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "²⁷ Hödl (2011), pp. 119–20; Wielockx (2011), pp. 25–6; Wilson (2011b), p. 6. ²⁸ Pico, Con. pp. 5–6, 41–4 (Bnd. pp. 16–18, 88–92). ²⁹ Pico, Q4.5–23 (Apo. pp. 41–5; Afr., pp. 134–44); Hamesse (2006), pp. 28–38. ³⁰ Pico, Q4.18 (Apo. pp. 43–4; Afr., p. 142); cf. Henry of Ghent (1985), p. 34.5–8, in the edition by Jos Decorte."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5659,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "able. The omitted part also subtracts a key point of doctrine, about the triduum, which was crucial for Henry: more on the triduum later. A scribe’s mistake—like skipping words when his glance jumps over them—can explain the defective text at Q4.18. The ﬁrst three words in line 1 come from the end of the previous passage, Q4.17:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5673,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "If line-breaks in Pico’s manuscript came after oppositum and naturam, a copyist’s eye could easily have slipped from -tum at the end of line 1 to -ram at the end of line 2 and then on to incorpoream at the start of line 3. The text of Q4 could have been corrupted in this way or some other way either before or after it went to the printer, and either before typesetting or during production. But the text of Qdl. 13.5 that Pico used to write the Apology could not have been as defective as the corresponding pages of the 1487 edition. Pico"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5678,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "production. But the text of Qdl. 13.5 that Pico used to write the Apology could not have been as defective as the corresponding pages of the 1487 edition. Pico followed Henry’s reasoning and mentioned no ﬂaws in the text, but the printed Q4 is so full of textual errors—more than two dozen within a few pages—that understanding would have been blocked. Pico himself almost certainly did not write out the copy of Henry’s Quodlibet that went to the printer. Manuscripts from the same period as the Apology show"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5692,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "110  Q4 text of Henry’s Quodlibet. But Pico—while composing Q4, before the damage was done—obviously understood Henry’s arguments.³¹"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5698,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "3.2 Assenting and Asserting As Pico opened his Q4 defense, he divided the Q4 thesis into a “conceding” and a “refusing” part. A ﬁner division (indicated by my tags) might have been better, though none of the ﬁve pieces would have been easy:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5712,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "which accepts what Pico does not oppose. Part , if it is true, states a fact about the Almighty, which Pico does not deny. He only refuses assent to and together, where is an assertion made by theologians about God, not a fact about God. Here, at the beginning of Q4, Pico’s assenting/asserting distinction makes a big difference, but he does not say why until near the end of Q4. Even there, however, while restating a lengthy argument whose burden has been metaphysical, he passes over deeper epistemic questions involving assent, deferring them to Q8.³³"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5731,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "and cod. Chigi A.VI.190; Campanini (2008) is a fascinating study of the marginalia; the letter to Pico edited in Licata (2017), p. 111, records another complaint about the prince’s handwriting by a contemporary. ³² Pico, Q4.1 (Apo. p. 41; Afr., p. 134); the English translation at the end of this chapter assumes my emendations of the Latin text as printed in Apo. These corrections will be fully annotated in my ITRL edition and translation; I give my rationale for emending Q4 at the end of the ﬁrst section of this chapter."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5735,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "emendations of the Latin text as printed in Apo. These corrections will be fully annotated in my ITRL edition and translation; I give my rationale for emending Q4 at the end of the ﬁrst section of this chapter. ³³ Pico, Q4.1 (Apo. p. 41; Afr., p. 134): For an account of assensus, see Aquinas, ST 2–2.6.1, 9, where Christian faith is an “act of the intellect assenting (assentire) to divine truth from a command of the will moved through grace by God.” Assent is the “main act of faith” and “comes through grace from God moving inwardly.” Alston (1996), pp. 11, 20, identiﬁes “assent” with “acceptance”: “a voluntary act,”"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5759,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "claimed that not-x could not be inferred from his not assenting to x. And he was right: refusing to accept a proposition doesn’t entail its contradiction.³⁵ But then the prince apparently contradicted himself. He had just said that when he wrote the Q4 thesis he was careful only to refuse assent to its and parts. Then he announced that (i) he personally (in me) did not refuse assent to +  even though (ii) this was allowed because he was “not obliged to believe the opposite explicitly (oppositum . . . explicite credere), even if it were true, since this"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5772,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Then he added that ‘God can’t’ statements—like not-x—were hard to handle and might disparage the Almighty’s power. This was why asserting not-x would have gone too far, in his opinion, and his caution had authoritative backing. Henry of Ghent, a distinguished theologian, had changed his mind about part of the Q4 thesis. If a giant like Henry had trouble solving the puzzle addressed by the thesis, Pico was in good company when he called the + part of his proposition into question by not assenting to it.³⁷"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5776,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "thesis. If a giant like Henry had trouble solving the puzzle addressed by the thesis, Pico was in good company when he called the + part of his proposition into question by not assenting to it.³⁷ Most of Pico’s Q4 is a long excerpt from a Quodlibet by Henry that analyzes, in painstaking detail, the problem stated by the Q4 thesis. Pico introduced this selection conﬁdently, saying that “the best proof of this”—meaning the difﬁculty of ‘God can’t’ statements—“comes on the authority of Henry of Ghent,” who had"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5781,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "selection conﬁdently, saying that “the best proof of this”—meaning the difﬁculty of ‘God can’t’ statements—“comes on the authority of Henry of Ghent,” who had “turned away” from an earlier position on the topic now contested by Pico. The prince hoped that Henry’s reversal would exculpate him. If the Q4 problem was so hard that this renowned theologian had to reconsider his approach to it, how could a court compel anyone to endorse x rather than not-x?³⁸"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5786,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "could a court compel anyone to endorse x rather than not-x?³⁸ ³⁴ Pico, Q4.1, 36 (Apo. pp. 41, 47; Afr., pp. 134, 150–2): for de virtute sermonis, see Courtenay (1984); and for belief and disbelief, Kennedy (1983), pp. 155–6, 160. ³⁵ Pico, Q4.2 (Apo. p. 41; Afr., p. 134). ³⁶ Pico, Q4.3 (Apo. p. 41; Afr., pp. 134–6). ³⁷ Pico, Q4.3–4 (Apo. p. 41; Afr., pp. 134–6)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5790,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "and for belief and disbelief, Kennedy (1983), pp. 155–6, 160. ³⁵ Pico, Q4.2 (Apo. p. 41; Afr., p. 134). ³⁶ Pico, Q4.3 (Apo. p. 41; Afr., pp. 134–6). ³⁷ Pico, Q4.3–4 (Apo. p. 41; Afr., pp. 134–6). ³⁸ Pico, Q4.4 (Apo. p. 41; Afr., p. 136); the excerpt from Henry follows in Q4.5–23. ## Page 125"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5799,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Pico’s reasoning inverts a rhetorical device that philosophers classiﬁed as a fallacy—like arguing ad hominem, by attacking someone personally; or ad bacu- lum, by threatening harm; or ad verecundiam, by citing an irrelevant authority. Henry’s authority, by contrast, was plainly relevant to the Q4 thesis, as Q4 would show at length. But ﬁrst Pico set a rhetorical trap by redesigning a sophistical maneuver: tu quoque. In its standard form, this ‘you too’ ploy arms an accused person by disarming"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5813,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Pico meant his rhetorical gesture about Henry to cover the whole Apology and immunize all the condemned theses: case by case, the prince implied, views contested by his propositions caused eminent authorities to change their minds and reverse themselves. But he lost touch with this persuasive evidence in Q4’s conclusion, after summing up Henry’s position at Q4.24. After 1900 words—more than half of this document’s 3500 words—spent on Henry’s exonerating revision, Pico’s analysis of the theologian’s metaphysics"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5818,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "After 1900 words—more than half of this document’s 3500 words—spent on Henry’s exonerating revision, Pico’s analysis of the theologian’s metaphysics highlighted not the illi quoque gambit but the less theatrical contrast between asserting and assenting. This distinction was crucial for the Q4 thesis which, in virtue of its language, refuses “assent.” But no other condemned thesis makes a ﬁrst-person, non assentior statement. Most theses defended by the Apology are just bare doctrine, like the Q13 proposition, a third-person declaration with no ﬁrst-"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5833,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "no explicitly doxastic content—nothing to afﬁrm or deny that-k. And when Pico had this proposition printed in the Conclusions—as a statement offered for debate—he took no epistemic responsibility for doubting or supposing or believ- ing that-k. The Q13 and Q4 theses differ conspicuously because only the latter advertises its doxastic content, which Pico framed as not assenting (non assentior):"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5840,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "³⁹ Pico, Q4.24, 37 (Apo. pp. 45, 47; Afr., pp. 144–52). ## Page 126"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5846,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "? 113 by refusing to accept part of Q4, he took as much epistemic responsibility as such a refusal required—just that much and no more.⁴⁰ Most theses defended in the Apology are like the Q13 proposition. They make no doxastic commitments; they take no epistemic responsibility; and none except"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5850,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "such a refusal required—just that much and no more.⁴⁰ Most theses defended in the Apology are like the Q13 proposition. They make no doxastic commitments; they take no epistemic responsibility; and none except the Q4 thesis is a statement of non-assent. So Pico’s emphasis in Q4 on the assenting/asserting distinction could not help him much with the rest of the Apology, where a showier strategy was the illi quoque tactic also employed in Q4. But ﬁrst he had to defend the Q4 thesis in all its elements, of which the most"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 5888,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁴⁰ Pico, Con. pp. 40, 42 (Bnd. pp. 86, 90); Apo. pp. 41, 109 (Afr., pp. 134, 358): the Q4 thesis is identical in both versions, but the wording of the Q13 thesis differs slightly. ⁴¹ Wilson (2011b), p. 371. ⁴² Aquinas, De ente 2.73–77; Owens (1988)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6111,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "outside the universe, beyond the highest heavens. Another puzzles about Christ’s soul during the three days: when it was separated from the body in the tomb, could the soul have been joined, on an altar or elsewhere, with the same body? Pico found a defense of his Q4 thesis in Henry’s third question about God’s power: whether the Almighty “could have taken on (assumere) a non-intellectual sub- stance in the unity of a person.” This person, the Son, is the second of three in the Trinity, and the issue at hand also involves the Son’s two natures, divine and"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6140,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁵² Henry of Ghent (1985), p. 3.1–16. ⁵³ Henry of Ghent (1985), pp. 27–8.52–60; cf. Pico, Q4.5. ⁵⁴ Feser (2014), pp. 31–41. ## Page 132"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6197,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁵⁵ Henry of Ghent (1985), p. 30.5–9; cf. Pico, Q4.6 (Apo. p. 42; Afr., p. 136). ⁵⁶ Henry of Ghent (1985), p. 30.9–12; cf. Pico, Q4.6–7 (Apo. p. 42; Afr., p. 136); Emery (2001), pp. 77–84; also section 1 of this chapter on perichôrêsis; section 3 on being as X, E, and S. Illapsus (“ﬂowing in”) might be “falling in,” but see Colum. 2.2.11, in a medical context, for “ﬂuid ﬂowing in"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6245,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "creaturely natures.⁶⁰ ⁵⁷ Henry of Ghent (1985), p. 30.12–19; cf. Pico, Q4.7 (Apo. p. 42; Afr., p. 136). ⁵⁸ Henry of Ghent (1985), pp. 30.20–31.39; Greg. Moral. in Job, 16.45; cf. Pico, Q4.8–10 (Apo. pp. 42–3; Afr., pp. 136–8). ⁵⁹ Henry of Ghent (1985), p. 32.56–62; John of Damascus, De ﬁde 3.17 (cf. Chase, pp. 316–17);"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6249,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁵⁸ Henry of Ghent (1985), pp. 30.20–31.39; Greg. Moral. in Job, 16.45; cf. Pico, Q4.8–10 (Apo. pp. 42–3; Afr., pp. 136–8). ⁵⁹ Henry of Ghent (1985), p. 32.56–62; John of Damascus, De ﬁde 3.17 (cf. Chase, pp. 316–17); cf. Pico, Q4.11 (Apo. p. 43; Afr., p. 138). ⁶⁰ Henry of Ghent (1985), pp. 32–3.63–78; Arist. Mete. 390a10–12, where the Decorte text (66–7) cites Metaphysics 4; John of Damascus, De ﬁde 3.18 (cf. Chase, pp. 318–19); cf. Pico, Q4.12–13 (Apo. p. 43; Afr., pp. 138–40)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6302,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁶¹ Henry of Ghent (1985), p. 33.79–83; Aug. De trin. 13.9.12; cf. Pico, Q4.14–15 (Apo. p. 43; Afr., p. 140). ⁶² Cabrol (1900–08), 5.15. ⁶³ Henry of Ghent (1985), p. 27.43–7; cf. Pico, Q4.17–18 (Apo. pp. 43–4; Afr., pp. 140–2)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6355,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁶⁴ Henry of Ghent (1985), p. 20.9–13. ⁶⁵ Henry of Ghent (1985), p. 23.81–7; Rubin (1991), pp. 45–7, 79–80. ⁶⁶ Henry of Ghent (1985), p. 34.96–13; cf. Pico, Q4.17–18 (Apo. pp. 43–4; Afr., pp. 140–2). ## Page 137"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6406,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁶⁷ Aug. Trin. 14.15.83. ⁶⁸ Henry of Ghent (1985), pp. 34.13–36.46; cf. Pico, Q4.19–22 (Apo. p. 44; Afr., pp. 142–4). ⁶⁹ Henry of Ghent (1985), pp. 34.13–35.19; cf. Pico, Q4.20–21 (Apo. p. 44; Afr., pp. 142–4). ## Page 138"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6447,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁷⁰ Henry of Ghent (1985), p. 35.19–40; John of Damascus, De ﬁde 3.18 (cf. Chase, p. 319); cf. Pico, Q4.20–21 (Apo. p. 44; Afr., pp. 142–4). As often, John meditates on the ﬁrst chapter of John’s Gospel (“the Word was made ﬂesh,” 1:14) in light of the ﬁrst chapter of Genesis (“in our image and likeness,” 1:26), where Christ, the incarnate God, is preﬁgured in Adam, a composite substance of body and soul. ⁷¹ Henry of Ghent (1985), p. 36.43; cf. Pico, Q4.22 (Apo. p. 44; Afr., p. 144); Peter of Spain (2014),"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6495,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "3.5 Pico’s Henry Pico presented this long excerpt from Henry’s Qdl. 13.5 as evidence that the verdict against his own Q4 thesis was mistaken—that the Pope’s commission was wrong to rule that his thesis, because of its language, was suggestive of heresy. Pico objected that he had only declined to assent, as a matter of academic debate, to a statement commonly made by theologians, “that God can make any nature"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6503,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "a nature able to reason.” Henry had said the same in Qdl. 13.5, while acknow- ledging that his own view—a change of mind—was not the “more widespread and better established” position. Henry’s Qdl. 13.5 did not make “the usual statement”—as Pico called it in Q4. And yet the prince had never seen Henry’s proposal condemned. On the contrary: other prominent theologians (Pico gave seven names) repeated Henry’s account in"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6509,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁷² Henry of Ghent (1985), p. 36.45–6; cf. Pico, Q4.23 (Apo. pp. 44–5; Afr., p. 144); Plato made his Third Man argument in Parm. 132A–B. ⁷³ Henry of Ghent (1985), p. 36.47–59; cf. Pico, Q4.23 (Apo. pp. 44–5; Afr., p. 144)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6518,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "? 127 order to agree or disagree, but none of them made heresy charges. Since Pico’s position in his Q4 thesis was just the same as Henry’s in Qdl. 13.5, and since this much-discussed teaching had never been denounced as deviant, why should the judges in Rome have charged the prince with such a crime?⁷⁴ Maybe the experts who saw nothing wrong with Henry’s position were mis-"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6531,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "nature’s pattern is in some way divine; hence, any nature, reasoning or unreason- ing, is ﬁt to be made a divine supposit by the Almighty; so Henry was wrong to exclude unreasoning natures from what God might choose to take on. This short statement in Q4.25 of a case against Henry was crucial for the words of Pico’s Q4 thesis—words that weighed heavily when his proposition was condemned “in virtue of the language” used in it, as follows:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6541,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": ". . . The second sentence of Q4.25 mirrors this last phrase from the Q4 thesis: quamlibet naturam possit substantiﬁcare et suppositare."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6546,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "quamlibet naturam possit substantiﬁcare et suppositare. Except for the conjunction et (“and”), only one word in Q4.25 was different: the added factitive verb, substantiﬁcare, “to make [something] a substance,” indicated that suppositare was also (by attraction) factitive, “to make [something] a suppo- sit.” Among suppo- words, the most common verb in writings known to Pico was"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6560,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁷⁴ Pico, Q4.1, 24 (Apo. pp. 41, 45; Afr., pp. 134, 144); Henry of Ghent (1985), pp. 27–8.58–60. Pico lists Bernard de Gannat, Durand, Godfrey of Fontaines, Scotus, and three others—probably William (John) of Ware, Robert Orford (of Collotorto or Colethorpe), and Thomas Sutton (the Englishman). ⁷⁵ Pico, Q4.25 (Apo. p. 45; Afr., pp. 144–6)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6564,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "lists Bernard de Gannat, Durand, Godfrey of Fontaines, Scotus, and three others—probably William (John) of Ware, Robert Orford (of Collotorto or Colethorpe), and Thomas Sutton (the Englishman). ⁷⁵ Pico, Q4.25 (Apo. p. 45; Afr., pp. 144–6). ⁷⁶ Pico, Q4.1, 26–7 (Apo. pp. 41, 45; Afr., pp. 134, 146). ## Page 141"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6611,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁷⁷ Pico, Q4.28 (Apo. p. 45; Afr., pp. 146–8). ⁷⁸ Pico, Q4.26 (Apo. p. 45; Afr., p. 146). ⁷⁹ Pico, Q4.27 (Apo. p. 45; Afr., p. 146); Henry of Ghent (1985), p. 27.53–7. ⁸⁰ See the previous section of this chapter."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6624,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "mated by it. Hence, according to Pico, the elevated “body itself can also be called intellectual,” and Henry had left no door open for non-intellectual natures.⁸¹ But what about the body in the tomb? The answer is not in the excerpt from Henry’s Qdl. 13.5 included in Pico’s Q4. Instead, the prince replied with a distinction of his own between the body/soul composite as a whole and the body alone as part of this whole. He also speciﬁed that () the restriction of taking-on to reasoning natures applies only to the combination of () what God takes on"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6656,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "making it true by synecdoche to say “Christ is in the tomb.”⁸³ ⁸¹ Pico, Q4.28–9 (Apo. pp. 45–6; Afr., pp. 146–8); Henry of Ghent (1985), p. 34.4–10. ⁸² Pico, Q4.28 (Apo. p. 45; Afr., p. 146): for positions taken on the triduum, see section 3.1 of this chapter. ⁸³ On the “sharing of properties” (communicatio idiomatum), see Aquinas, SS 3.2.1.2.3, 2.3.3; 14.1.4;"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6709,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "and all praise to Augustine.⁸⁶ ⁸⁴ Pico, Q4.30 (Apo. p. 46; Afr., p. 148). ⁸⁵ Pico, Q4.30 (Apo. p. 46; Afr., p. 148); Henry of Ghent (1985), p. 36.55–62, citing Aug. Tract. in evang. Ioan. 2.15. ⁸⁶ Pico, Q4.26, 30 (Apo. pp. 45–6; Afr., pp. 146–8); Henry of Ghent (1985), p. 36.55–62, citing Aug."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6724,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "perfectly acceptable for him to take a position against unreasoning natures that did not explicitly contradict “the usual statement,” as he called it elsewhere. His summary is telegraphic, but it echoes a distinction emphasized at the beginning of Q4—between contradicting a claim outright and withholding assent to it. This distinction was the core of Pico’s defense, and he would soon return to it. But ﬁrst he reminded his judges that their own theories might have unhappy consequences.⁸⁷"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6729,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "ﬁrst he reminded his judges that their own theories might have unhappy consequences.⁸⁷ For purposes of disputation, philosophers commonly explored the boundaries of theory by defending positions like the Q4 thesis that were not “the usual.” Accordingly, Pico’s Q4 defense had put Henry’s less usual metaphysical theory into evidence as the main basis for claiming that only a reasoning nature can be made a divine supposit. Then, while wrapping his case up, the prince examined"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6737,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "one doctrine would harm the faithful more than the other—especially ordinary believers who were not theologians. Which teaching, aired in public debate, would be “more scandalous for the uneducated and more hurtful to pious ears?” Pico accused his judges of wanting to quash the Q4 thesis, even if it were correct, not for principled reasons but because it might do damage in this practical way.⁸⁸ Then the prince turned the tables on his opponents: even if the position (in favor of unreasoning natures) against the Q4 thesis were the better choice theor-"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6761,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁸⁷ Pico, Q4.1, 31 (Apo. pp. 41, 46; Afr., pp. 134, 148); and section 1 of this chapter on assenting and asserting. ⁸⁸ Pico, Q4.32 (Apo. p. 46; Afr., p. 148)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6790,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Since non-philosophical Christians would surely dislike the ﬁrst sentence more, Pico claimed that refusing to support it would cause less scandal than backing the second sentence. Strictly speaking, however, his Q4 thesis doesn’t afﬁrm or deny anything; instead, the thesis withholds assent from “the usual” position—the view implied by the ﬁrst donkey sentence. The epistemic ins and outs of assent—as distinct from belief, faith and opinion—come up in Pico’s Q8, but his Q4 bypasses"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6794,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "anything; instead, the thesis withholds assent from “the usual” position—the view implied by the ﬁrst donkey sentence. The epistemic ins and outs of assent—as distinct from belief, faith and opinion—come up in Pico’s Q8, but his Q4 bypasses these complications. Leaving epistemology for later, Q4 attacked the logical competence of the prince’s judges while showing why “assent” matters.⁹¹ Pico considered two propositions—call them p and q—that make statements about two other propositions, r and not-r. Proposition not-r is the contradiction of"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6811,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁸⁹ Pico, Q4.33 (Apo. p. 46; Afr., p. 148–50); Aquinas, SS 3.2.1.1.1; Oberman (1983), pp. 255–8. ⁹⁰ Copenhaver (2015), pp. 337–48. ⁹¹ Pico, Q4.33 (Apo. p. 46; Afr., p. 150). ⁹² Pico, Q4.34 (Apo. p. 46; Afr., p. 150)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6831,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "faith.” Since no one would ever believe such a thing about a napping infant, the judges must have deliberately deceived themselves, and their unfounded verdict was insincere.⁹³ To bring Q4 to a close, Pico quoted the part of his trial record where the court found that his Q4 thesis “detracts from God’s omnipotence and thereby suggests heresy.” The surviving transcript records two statements by the court about Q4. First, Pico’s initial presentation of his position:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6864,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁹³ Pico, Q4.34–5 (Apo. pp. 46–8; Afr., p. 150). ⁹⁴ Dorez and Thuasne (1897), pp. 124, 129. ## Page 147"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6873,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "(discredere).” In other words, as Pico had already said more than once, his judges (deliberately) confused not assenting to “the usual” with contradicting it outright. He focused on a reply to the court where he said “I follow Henry in this,” pointing out that “this” was the Q4 thesis exactly as stated, a refusal of assent. By following Henry in order to justify withholding assent—not in order to make an assertion—he did not assert “the view that says God cannot make any nature whatever the supposit.” Since all competent theologians knew that not"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6884,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "and defended a position that he had opposed when he was less experienced—that “not any nature can be made the supposit by God.” The view that Henry abandoned was the very same position from which Pico withheld assent in the Q4 thesis—condemned as suggesting heresy. Did the Pope’s commission believe that Henry, “the one called the Stately Doctor because of the excellence of his teaching,” was Pico’s partner in crime?⁹⁶ Third, Pico aimed another barrage at the court’s bungled proceedings and bad"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6888,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "that Henry, “the one called the Stately Doctor because of the excellence of his teaching,” was Pico’s partner in crime?⁹⁶ Third, Pico aimed another barrage at the court’s bungled proceedings and bad faith. Either his judges were right to condemn the Q4 thesis or they were wrong. If they were wrong, the prince was not guilty as charged, and their prosecution was inept. But if they were right, meaning that God’s omnipotence had been insulted, he was guilty of heresy of the worst kind, and the Q4 thesis plainly did more than"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6894,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "he was guilty of heresy of the worst kind, and the Q4 thesis plainly did more than just suggest it: again, not guilty as charged by blundering judges. They lost both ways: they were either wrong and incompetent or right and negligent.⁹⁷ Fourth and ﬁnally, the court disgraced itself by ﬁnding against the Q4 thesis de virtute sermonis—“in virtue of its language.” Even if Henry’s position were absolutely and incontrovertibly heretical (strange for someone of his reputation), Pico’s thesis—just because of how he stated it, precisely in virtue of its language—"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6898,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "virtute sermonis—“in virtue of its language.” Even if Henry’s position were absolutely and incontrovertibly heretical (strange for someone of his reputation), Pico’s thesis—just because of how he stated it, precisely in virtue of its language— would not likewise be heretical. This, Pico maintained, was because the Q4 thesis “does not entail (non infert)” what Henry said.⁹⁸ In this concluding part of Q4, the prince had no need to go over the asserting/ assenting distinction again after stating and restating it so often. But the words de"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6904,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "assenting distinction again after stating and restating it so often. But the words de virtute sermonis, used three times in this short ﬁnal paragraph, have the same effect. As a forensic weapon used by Pico’s enemies, this phrase—the equivalent of vi sermonis in the court’s verdict—aimed straight at the terminology of the Q4 thesis:"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6913,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁹⁵ Pico, Q4.36 (Apo. p. 47; Afr., pp. 150–2); Kennedy (1983), pp. 155–6, 160. ⁹⁶ Pico, Q4.37 (Apo. p. 47; Afr., p. 152). ⁹⁷ Pico, Q4.38 (Apo. p. 47; Afr., p. 152). ⁹⁸ Pico, Q4.39 (Apo. p. 47; Afr., p. 152)."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6926,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "targets, however, were the nine italicized words whose narrower lexical range might provoke a theologian. Five of these—Deus (“God”), natura (“nature”), posse (“can”), rationabilis (“reasoning”), suppositare (“make a supposit”)—are key terms in the metaphysics of Q4. But here, at Q4.39, Pico had already rested his metaphysical case after Q4.31 in order to make (and score) rhetorical, logical and juridical points. From his own tactical point of view, the decisive words in the Q4 thesis were the two ﬁrst-person verbs—assentior (“I assent”) and concedo"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6930,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "metaphysical case after Q4.31 in order to make (and score) rhetorical, logical and juridical points. From his own tactical point of view, the decisive words in the Q4 thesis were the two ﬁrst-person verbs—assentior (“I assent”) and concedo (“I grant”)—and the ﬁrst was the controlling term. Q4 ended as it began, with Pico looking for cover under the word “assent.” When Pico wrote the original version of the Q4 thesis, his project was not yet the Apology; his task at the time was the 900 Conclusions. But even in this very"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6938,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "reduced his exposure with the words he picked to begin his thesis: non assentior, “I do not assent.” He could have written non credo, “I do not believe,” but—for once—caution got the best of him. Had he asserted disbelief, he would have given his enemies more to shoot at, and his defense in Q4 would have had less basis in the Q4 thesis.⁹⁹ Pico had no thought of needing an Apology when he ﬁrst wrote the troublesome Q4 proposition for the Conclusions. The chronology of his works shows that he"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6943,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "Pico had no thought of needing an Apology when he ﬁrst wrote the troublesome Q4 proposition for the Conclusions. The chronology of his works shows that he did not devise the crucial assenting/asserting distinction—stated at the beginning of Q4 and repeated later—just to give himself cover under ﬁre. The Q4 thesis and its defense in Q4 are authentic statements by a skilled interpreter—educated in the scholastic tradition—of the mystery of the incarnation, a sacred article of Christian faith. The following is what Pico wrote in his Apology.¹⁰⁰"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 6964,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁹⁹ Pico, Q4.1 (Apo. p. 41; Afr., p. 134); Dorez and Thuasne (1897), pp. 124, 129. ¹⁰⁰ The English of this translation sometimes departs in signiﬁcant ways from the Latin of the 1487 edition, corrected here by Decorte’s edition of Henry of Ghent’s Quodlibet 13.5, Pico’s main authority in this Question."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8053,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "of incarnation. Talking about impanation was risky, however, and Quidort used this language cautiously.³¹ Since many accounts of Christological mysteries—eventually including Pico’s Q4 thesis—relied on the metaphysics of supposition, this element of Quidort’s approach was familiar to every theologian. And since they all agreed that the bread’s accidents remained after consecration, the main questions were about non-accidental items like the bread’s substance and nature. While the bread’s"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8406,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "them.⁴⁷ Although Pico made little of the incarnation in the Oration, circumstances forced him to deal with it in the Apology, where he seemed (but only seemed) to contradict himself. The Q4 thesis states that only “a nature able to reason” is capable of being taken on by God, as Christ’s human nature was taken on in the incarnation. But Q6 defends the “taking-on of bread by the incarnate Word,” even though a merely bready nature cannot reason. Strictly speaking, the hypothetical"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8416,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "tactical reasons for sticking with prima facie evidence of a defendant contradicting himself.⁴⁸ Pico never addressed the seeming contradiction: there is no sign that he was even aware of it. The Q6 and Q4 theses were only two of his 900 Conclusions: making each and every one of them compatible with all the others was not his plan. Each proposition was its own puzzle to be solved by disputation, though few of the 900 theses were actually tested by debate. The Apology recorded only"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8424,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "With so much at stake in these few statements, the author of the Apology should have been alert for embarrassments that slipped past the author of the Conclusions. But Pico noticed no conﬂict between the Q6 and Q4 theses when he defended them in the Apology. In all likelihood, neither of the doctrines involved— incarnation and eucharist—meant any more to him than to any other educated believer, including his judges. They and he revered such dogmas without giving"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8622,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "The “usual approach” granted that any creature—possibly—could be taken on by a divine supposit: this taking-on was possible because God could do anything. Pico had rejected this approach in the Q4 thesis, but the Q6 thesis at least entertains the possibility: God’s absolute power guarantees that an -theory of eucharistic consecration is no less possible than a - or an -theory. Aristotle had surveyed the boundaries of possibility by distinguishing assertoric from problem-"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8798,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "In fact, the Q6 thesis in its original setting, the Conclusions, seems difﬁdent— unlike the other twelve condemned propositions. How much Pico really cared about incarnational metaphysics is impossible to say, but his command of this intricate subject is plain to see in Q4. As eucharistic theology, however, there’s nothing original or memorable about Q6—beyond the author’s display of himself as a stupor mundi of the mind.⁶⁷ So why should this prodigy have worked so hard to say so much that was so"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8933,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "The thesis printed in the 1487 Apology omits the last four words of the original in the Conclusions: “as the usual approach holds.”⁷⁴ The -clause of the Q9 thesis, referring to this communis via, discards the - theory of remaining upheld by Q6. Just as the Q6 and Q4 theses looked incompatible—at ﬁrst glance—about what can be taken on by God, so were the Q9 and Q6 theses inconsistent, prima facie, about how accidents can exist in the eucharist. Neither appearance of incompatibility would have worried Pico—had"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 8958,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "⁷⁴ Pico, Q9.1 (Apo. pp. 60, 103, 105; Afr., pp. 194, 336, 344); cf. Con. p. 41 (Bnd. p. 88); Dorez and Thuasne (1897), pp. 134–6. The English translations of Q9 and Q10 at the end of this chapter incorporate my emendations of the Latin text in Apo. See Chapter 3.1-2 of this book for the defective text of Q4. Comparing Q9 with its main source, Paludanus (1552), shows that this Question also needs emending, but Q10 is very short and harder to judge. ⁷⁵ Pico, Apo. pp. 41, 60, 103 (Afr., pp. 134, 194, 336); Con. pp. 41–4 (Bnd. pp. 88–92); section 1 of this chapter."
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 12133,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "him than to other educated Christians—but also no more important, as far as we know. Pico’s detachment from the doctrinal content of his own theses is evident: at ﬁrst glance, the Q4 and Q6 theses look incompatible; likewise the Q6 and Q9 theses. When he ﬁrst made these propositions public in the Conclusions, each was its own puzzle, and he expected each solution to display his ingenuity. There were 900 such theses: he could not have guaranteed that all 900 were compatible, and he"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 12155,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "deﬁed the court roughly in the order of its charges against him.¹⁵ The form of the Apology was formless, the author did not choose its topics, the theological doctrines defended by it were not his inventions and he had no special stake in most of them. In Q4 on the incarnation, he gave more space to Henry of Ghent than to himself. He took the theory of the eucharist defended in Q6 from Jean Cabrol’s digest of Jean Quidort’s Determination. The novel ideas about faith"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 13606,
+   "method": "q_number",
+   "evidence": [
+    "Q4"
+   ],
+   "context": "conversations 4 26–38, 42, 170, 173, 218, 240, 242–4 education 5–6 Q2 1, 13, Q2 42, 240 speech 46 Q3 1, 13, 240 theology 164–5 Q4 4–5, 7n.1, 13–15, 39–40, 94–5, 99, vocabulary 2 105–13, 110n.32, 118, 126–7, 131–44, way 2 159, 166, 170, 173, 176, philosophy 2, 4–6, 13, 19, 26, 30, 35, 37, 42–3, 176n.74, 240–1"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2206,
+   "method": "farmer_id",
+   "evidence": [
+    "4>13"
+   ],
+   "context": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church. 4. I do not agree with the common opinion of the theologians saying that God can assume any nature, but I concede this of the rational nature. (4>13) Smacks of heresy. 5. It is not in the free power of man to believe that an article of faith is true when it pleases him and to believe that it is false when it"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2437,
+   "method": "farmer_id",
+   "evidence": [
+    "4>13"
+   ],
+   "context": "What scholastic disputation can amount to, in a technical sense, is evident in a passage where Pico defends his thesis that God can assume only a rational nature (4>13). Here he concedes that to an untrained listener such a statement may sound outrageous, but not more than other propositions that follow from God’s absolute potency, such as “God is an ass; God is wood; . . . God can be condemned to hell; God can be"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 7762,
+   "method": "latin_quote",
+   "evidence": [
+    "assentior communi sententie theologorum",
+    "posse deum quamlibet naturam",
+    "non assentior communi sententie",
+    "deum quamlibet naturam suppositare"
+   ],
+   "context": "42 Ibid., p. 134: “Quarta conclusio damnata per istos est haec: ‘Non assentior communi sen- tentiae theologorum dicentium posse Deum quamlibet naturam suppositare sed de rationabili tantum hoc concedo’. Per hanc conclusionem ego non intendo negare Deum posse quamlibet naturam suppositare, sed solum intendo negare assensum particularem"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 20312,
+   "method": "latin_quote",
+   "evidence": [
+    "deum quamlibet naturam suppositare",
+    "communi sententie theologorum dicentium",
+    "theologorum dicentium posse deum",
+    "sententie theologorum dicentium posse"
+   ],
+   "context": "Pedro Garsia against the Apology 429 communi sententie theologorum dicentium posse deum quamlibet naturam sup- positare), reflected in the title of Pico’s next condemned thesis, makes it easier for Garsia to defend this ‘common notion’.95 In this case there is no need to look hard for a mismatch or a gap between Pico’s account and the standard"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 20340,
+   "method": "latin_quote",
+   "evidence": [
+    "assentior communi sententie theologorum",
+    "suppositare sed de rationali",
+    "non assentior communi sententie",
+    "deum quamlibet naturam suppositare"
+   ],
+   "context": "obviously false and heretical.99 Garsia mentions here once again the phrase 95 Ibid., f. c4v: “Non assentior communi sententie theologorum dicentium posse deum quamlibet naturam suppositare sed de rationali tantum hoc concedo.” 96 Ibid.: “Hec conclusio ex vi sermonis videtur derogare divine omnipotentie et per hoc her- esim sapere. Et quamvis defensor predicte conclusionis in sua declaratione multa subt-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>3",
+  "1>4",
+  "4>14"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "thesis_id": "2.33",
+ "latin": "Materia nullum dicit actum entitatiuum positiuum.",
+ "farmer_latin_line": 11767,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12267,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 33"
+   ],
+   "context": "proved, since any distinction, either of a thing or of reason, is based on affir- mation and negation.159 But in this case we do not have a reference to ‘a thing outside the soul’. In thesis 33 we find that matter never indicates a positive act productive of an entity.160 In Thomas’s commentary on the Sentences, 2, d. 18, q. 1, a. 2, we have a discussion concerning the way God operates on matter through sem- inal reasons. Thomas concludes this account by arguing that matter is purely"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12298,
+   "method": "latin_quote",
+   "evidence": [
+    "materia nullum dicit actum",
+    "dicit actum entitatiuum positiuum",
+    "nullum dicit actum entitatiuum"
+   ],
+   "context": "impossibile est aliquid idem affirmare et negare; sed si in aliquo distinguantur affirma- tiones et negationes pertinentes ad illam distinctionem, de ipso verificari poterunt: quia omnis distinctio, sive rei sive rationis, fundatur in affirmatione et negatione …” 160 Pico, 900 Theses, p. 228: “Materia nullum dicit actum entitativum positivum.” ## Page 269"
+  }
+ ],
+ "farmer_crossrefs": [
+  "18.3",
+  "2>52",
+  "2>8",
+  "7.21",
+  "8.6"
+ ]
+}

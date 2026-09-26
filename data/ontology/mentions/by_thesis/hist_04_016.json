@@ -1,0 +1,49 @@
+{
+ "thesis_id": "4.16",
+ "latin": "Relatio creaturae ad deum est idem realiter fundamento, distincta formaliter et ex natura rei.",
+ "farmer_latin_line": 12361,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14676,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 16"
+   ],
+   "context": "this issue, and yet what we have here is evidence that Pico was familiar with this discussion in Scotus. Thanks to this fact we can surmise how Pico might have defended this thesis. Thesis 16 states that the relation of a created being with God is really (real- iter) the same (as any other relation) in its foundation, but it is formally dif- ferent and because of the nature of the thing.81 Scotus discusses this issue in Lectura 1, d. 8, pars 1, q. 3. While discussing the relation between ‘a certain"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14705,
+   "method": "latin_quote",
+   "evidence": [
+    "formaliter et ex natura",
+    "relatio creature ad deum",
+    "idem realiter fundamento distincta",
+    "est idem realiter fundamento"
+   ],
+   "context": "significant, – et si natura significationis earum est talis quod non extendat se nisi ad ali- quid quod est praesens quando significant, oportet illud quod significant esse praesens quando partes proferuntur.” 81 Pico, 900 Theses, p. 240: “Relatio creaturae ad Deum est idem realiter fundamento, dis- tincta formaliter et ex natura rei.” ## Page 320"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 19555,
+   "method": "latin_quote",
+   "evidence": [
+    "formaliter et ex natura",
+    "et ex natura rei"
+   ],
+   "context": "42 Ibid., f. a7r: “Nam proposita tali propositione inter disputandum: attributa divina non for- maliter et ex natura rei distinguuntur, ut ponit Scotus et sui sequaces, sed sola ratione; manifestum est quod sensus proprius predicte conclusionis est negare omnem distinc- tionem formalem et ex natura rei inter attributa divina, quam Scotus et sui sequaces ponunt, et solam distinctionem rationis affirmare, que omnem aliam excludit.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "13.1",
+  "2>62",
+  "3.7",
+  "5.11",
+  "5.12",
+  "5.13",
+  "6.1",
+  "7.24",
+  "7.39"
+ ]
+}

@@ -1,0 +1,688 @@
+{
+ "packet": "black2006-b",
+ "researcher": "",
+ "created": "",
+ "scope": null,
+ "claims": [
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "The Heptaplus abandons the fourfold senses of Scripture and sets up a new, explicitly theorised concept of allegory, which Pico claims is unique to his work.",
+   "quotes": [
+    {
+     "text": "The Heptaplus, on the other hand, represents a decisive break from this tradition. Here, Pico refers to his method as ‘allegory’, but he frees the word from the structure of the four senses. They, along with their concomitant terminology, are abandoned, and in their place is established a new concept of allegory, explicitly theorized and, so he claims, unique to his work.",
+     "work": "black2006",
+     "line": 4942,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Refines the received picture of the Heptaplus's method against the Psalms commentaries."
+   },
+   "id": "black2006-b:001"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first exposition"
+   },
+   "theses": [],
+   "text": "The Heptaplus shows no interest in philology as such; when Pico cites the Hebrew or the Septuagint his aim is interpretative, not textual.",
+   "quotes": [
+    {
+     "text": "The other striking way in which the Heptaplus differs from the Expositiones in Psalmos is the lack of interest in philology, as defined above. Questions of textual transmission are never posed. On the rare occasions when he glosses words with reference to the Hebrew or the Septuagint, Pico’s intention remains interpretative rather than textual.",
+     "work": "black2006",
+     "line": 4955,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus",
+    "Septuagint"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:002"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem"
+   },
+   "theses": [],
+   "text": "In the second proem Pico derives the Hebrew word he transcribes asciamaim from words for fire and water, symbolising the highest and lowest worlds, to show that the heavens hold a median position.",
+   "quotes": [
+    {
+     "text": "when in the second proem he demonstrates the median position of the heavens by deriving the word “asciamaim” (in his transcription) from “es”, meaning “fire” and symbolizing the highest world, and “maim”, meaning “water” and symbolizing the lowest world.",
+     "work": "black2006",
+     "line": 4979,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "asciamaim"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "primary_text",
+     "text": "Black cites Pico's own Latin at Garin 184, which he says reuses an exegesis of the Conclusiones.",
+     "quote": {
+      "text": "caelum natura media idcirco ab Hebraeis asciamaim, quasi ex es et maim, idest ex igne et aqua quam diximus, compositum nuncupatur.",
+      "work": "black2006",
+      "line": 5000
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:003"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": {
+    "text": "expositiones in psalmos",
+    "ref": "Psalm 47, expositio physica"
+   },
+   "theses": [],
+   "text": "In Black's account, Pico's exposition of Psalm 47 reads the city of God as the spiritual world and the kings of the earth as corporeal spheres separated from corruption.",
+   "quotes": [
+    {
+     "text": "The “city of God” will be understood as the spiritual world; the “kings of the earth” as corporeal spheres separated from corruption, with jurisdiction over only the earth and earthly things.",
+     "work": "black2006",
+     "line": 4871,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:004"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "The first proem does not chiefly justify Pico's allegorical theory but his attitude to Moses's text, through two arguments: aligning Moses with ancient philosophy, and then claiming a concealed layer of meaning in the Bible.",
+   "quotes": [
+    {
+     "text": "At the heart of the first proem of the Heptaplus is a complex justification, not of Pico’s allegorical theory as such, but of his general attitude to Moses’s text. In outline, it has two central arguments. The first is to align Moses with ancient philosophy. Once this is accepted, it is used to justify a second, but related, argument according to which the Bible, and especially Genesis, has a concealed layer of meaning.",
+     "work": "black2006",
+     "line": 5035,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus",
+    "Moses",
+    "Genesis"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Refocuses what the first proem is for."
+   },
+   "id": "black2006-b:005"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black locates the same esoteric attitude in two non-Christian traditions, the Neoplatonic, reaching Christianity through Pseudo-Dionysius, and the kabbalistic, known to Pico through translations made for him by Mithridates and through contacts in the Italian Jewish community.",
+   "quotes": [
+    {
+     "text": "the same esoteric attitude is discernable in two non-Christian traditions: the Neoplatonic and the kabbalistic. The former had a significant Christian manifestation in the writings of Pseudo-Dionysius the Areopagite, which were highly esteemed by Pico and widely circulated in the fifteenth century. The latter was known to him through the translations made for him by Mithridates, and was also a contemporary subject of discussion in the Italian Jewish community, with which he had personal links.",
+     "work": "black2006",
+     "line": 5053,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Black says Pico knew kabbalah through translations Mithridates made for him.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:006"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "In the Heptaplus Pico deliberately removed references to the word kabbalah; Black argues this expurgation is more apparent than substantial, though several typical kabbalistic approaches to the biblical text are absent.",
+   "quotes": [
+    {
+     "text": "when in the Heptaplus he reformulated the esoteric stance which he had proposed in his previous works, Pico deliberately removed references to the word ‘kabbalah’. This expurgation was, I shall argue, more apparent than substantial, although it is notable that several typical kabbalistic approaches to the biblical text are absent from the Heptaplus.",
+     "work": "black2006",
+     "line": 5062,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Qualifies the view that the Heptaplus drops Kabbalah."
+   },
+   "id": "black2006-b:007"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Pico's argument that Moses was a master of all learning rests on evidence including a book called Sapientia, the testimony of Luke and Philo, Egyptian teachers of the Greek philosophers, Numenius's phrase 'Attic Moses', and Hermippus on Pythagoras.",
+   "quotes": [
+    {
+     "text": "a) the existence of a mysterious book, written in a secret language, entitled Sapientia and attributed to Solomon.",
+     "work": "black2006",
+     "line": 5085,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "d) Numenius called Plato an “Attic Moses”: that is, he recognized that their doctrines were the same, although expressed in different languages.",
+     "work": "black2006",
+     "line": 5093,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "e) Hermippus attested that Pythagoras transferred very many things from Mosaic law into his own philosophy.",
+     "work": "black2006",
+     "line": 5096,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Sapientia",
+    "Numenius",
+    "Hermippus",
+    "Plato",
+    "Pythagoras",
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:008"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "The first proem's argument is aimed at unidentified opponents who separate Moses's text from the philosophers and find Moses rough and popular by comparison.",
+   "quotes": [
+    {
+     "text": "The argument of this part of the proem is directed against a group of unidentified opponents. These people assume a distinction between Moses’s text (that is, the Pentateuch) and the writings of the philosophers. Moses, they say, appears “rough and popular” in comparison to the philosophers.",
+     "work": "black2006",
+     "line": 5125,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses",
+    "Pentateuch"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "Who Pico's opponents in the first proem are is not identified.",
+     "basis_quote": "a group of unidentified opponents"
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:009"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "To explain the disparity between the apparent simplicity of Moses's book and the complexity proper to great philosophy, Pico invokes esotericism: the custom of ancient wise men not to write of divine things, or to write of them in a concealed fashion.",
+   "quotes": [
+    {
+     "text": "But for his argument to be convincing, Pico must also explain the disparity between the apparent simplicity of Moses’s book and the complexity regarded as proper to a great work of philosophy. To do this, he invokes the idea of esotericism: that “it was a celebrated custom of ancient wise men that they either did not write about divine things at all, or that they wrote about them in a concealed fashion.”",
+     "work": "black2006",
+     "line": 5133,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Moses"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:010"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "A substantial part of the first proem's argument for esotericism repeats historical and thematic references from the Commento, the Apologia and the Oratio, the last being essentially a verbatim transcript of the Apologia at this point.",
+   "quotes": [
+    {
+     "text": "Comparison with Pico’s previous works shows that a substantial proportion of this passage is composed from the same historical and thematic references as corresponding passages in the Commento, the Apologia and the Oratio.",
+     "work": "black2006",
+     "line": 5235,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The Oratio, at this point, is essentially a verbatim transcript of the Apologia.",
+     "work": "black2006",
+     "line": 5241,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Commento",
+    "Apologia",
+    "Oratio"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:011"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "The esoteric hermeneutic stance of the Heptaplus was for the most part already developed by 1486; the Heptaplus version expands earlier versions without substantial deviation.",
+   "quotes": [
+    {
+     "text": "We are dealing, then, with a hermeneutic stance already for the most part developed by Pico by 1486; there are additions of details, but no substantial deviations. The version in the Heptaplus is an expansion of the previous versions.",
+     "work": "black2006",
+     "line": 5428,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Heptaplus",
+    "1486"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:012"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Pico's historical examples share the idea of a demarcation between initiated and uninitiated, which he equates with a division of reading into exoteric or literal for the multitude and esoteric or non-literal for the elite, whom he calls the perfect.",
+   "quotes": [
+    {
+     "text": "The common denominator of all these historical examples is the idea of a demarcation between the uninitiated and the initiated, between the masses and the elite, which in turn leads to a division of biblical interpretation between exoteric or literal and esoteric or non-literal.",
+     "work": "black2006",
+     "line": 5434,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Furthermore, he equates the two aspects of this dichotomy: the literal reading corresponds to the multitude, and the non-literal to the elite—or, as he sometimes refers to them, in the terminology of Paul and the early Christians, “the perfect”.",
+     "work": "black2006",
+     "line": 5442,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Paul"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:013"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Black holds that esotericism of Pico's kind was not typical of Christianity throughout its history but arose at a particular time for particular reasons and was later superseded.",
+   "quotes": [
+    {
+     "text": "This approach was by no means typical of Christianity throughout its history. On the contrary, it developed at a particular time, for particular reasons, and was then superseded",
+     "work": "black2006",
+     "line": 5457,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:014"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "Pico regarded Pseudo-Dionysius as a convert of Paul and so a first-century figure, but Black thinks the direct sources of Pico's idea of esotericism were probably later.",
+   "quotes": [
+    {
+     "text": "and Pseudo-Dionysius, it must be recalled, he regarded as a convert of Paul, and therefore as having lived in the first century AD. It is likely, however, that the direct sources for Pico’s idea of esotericism were of a later date",
+     "work": "black2006",
+     "line": 5482,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "It is likely",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Paul"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:015"
+  },
+  {
+   "claimant": "Crofton Black",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "first proem"
+   },
+   "theses": [],
+   "text": "The elements of Pico's esotericism were current in late second and early third century Christian exegesis and found their fullest expression in Clement of Alexandria's Stromata, and much later Christian hermeneutics withdrew from Clement's position.",
+   "quotes": [
+    {
+     "text": "The essential elements of his account, as listed above, were current in the development of Christian biblical exegesis in the late second and early third centuries, and found their fullest expression in the Stromata of Clement of Alexandria. Much of the subsequent history of Christian hermeneutics can be regarded as a withdrawal—sometimes stealthy, sometimes radical—from the position developed by Clement.",
+     "work": "black2006",
+     "line": 5487,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Clement of Alexandria",
+    "Stromata"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "black2006-b:016"
+  }
+ ],
+ "not_mined": [],
+ "proposed_topics": [],
+ "proposed_parties": [],
+ "notes": ""
+}

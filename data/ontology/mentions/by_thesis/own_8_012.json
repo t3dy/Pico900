@@ -1,0 +1,24 @@
+{
+ "thesis_id": "8>12",
+ "latin": "Per Syrenam apud Zoroastrem nihil aliud intelligas quam partem animae rationalem.",
+ "farmer_latin_line": 24956,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 9112,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligas quam partem anime",
+    "quam partem anime rationalem",
+    "aliud intelligas quam partem",
+    "nihil aliud intelligas quam"
+   ],
+   "context": "re, negli schemi pichiani, un loro ruolo ben definito. Come leggiamo in una Conclusio, esse equivarrebbero infatti alla ragione (potenza superiore sia alla conoscenza sensibile - Circe, sia alla fantasia-Calipso); cfr. Conclusiones, p. 500, n. 8>rz: «Per Syrenam apud Zoroa­ strem nihil aliud intelligas quam partem animae rationalem [Per Sirene, in Zoroastro, in­ tendi nient'altro che la parte razionale dell'anima]>>. ## Page 198"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>10",
+  "8>10",
+  "8>13"
+ ]
+}

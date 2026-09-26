@@ -1,0 +1,34 @@
+{
+ "thesis_id": "2.3",
+ "latin": "Contingens rerum quae sunt, erunt, aut fuerunt, existentia ideo deo ab aeterno fuit infallibiliter nota, quia fuit aeternitati eius praesentialiter praeposita.",
+ "farmer_latin_line": 11315,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10290,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 3"
+   ],
+   "context": "via Thomas, refers clearly to the Holy Spirit. Pico is accurate here but obviously his thesis, which includes different formulation and wording, does not reflect all the theological nuances and implications found in Thomas. Thesis 3 states that the contingent existence of things which are, will be and were, since they were known to God’s eternity in a present fashion, were infallibly and eternally known by Him.10 It can be found in Thomas’s Summa theologiae, 1, q. 14, a. 13, entitled: ‘whether the knowledge of God is of future"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10309,
+   "method": "latin_quote",
+   "evidence": [
+    "aut fuerunt existentia ideo",
+    "que sunt erunt aut",
+    "rerum que sunt erunt",
+    "eterno fuit infallibiliter nota"
+   ],
+   "context": "9 Ibid.: “Sic igitur nullus alius effectus potest esse ratio quod divina Persona sit novo modo in rationali creatura, nisi gratia gratum faciens. Unde secundum solam gratiam facien- tem, mittitur et procedit temporaliter Persona divina.” 10 Pico, 900 Theses, p. 220: “Contingens rerum quae sunt, erunt, aut fuerunt, existentia ideo Deo ad aeterno fuit infallibiliter nota, quia fuit aeternitati eius praesentialiter praeposita.” 11 Thomas Aquinas, Summa theologiae, 1, q. 14, a. 13: “Et licet contingentia fiant in actu suc- cessive, non tamen Deus successive cognoscit contingentia, prout sunt in suo esse, sicut"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.2",
+  "4.1",
+  "4.11",
+  "4.13"
+ ]
+}

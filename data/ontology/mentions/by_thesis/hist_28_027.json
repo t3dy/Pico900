@@ -1,0 +1,46 @@
+{
+ "thesis_id": "28.27",
+ "latin": "Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est diuinitas.",
+ "farmer_latin_line": 18074,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1815,
+   "method": "latin_quote",
+   "evidence": [
+    "est iustus ita mare",
+    "mare ad quod tendunt",
+    "iustus ita mare ad",
+    "quod tendunt omnia flumina"
+   ],
+   "context": "S. 155f., deutet die anima superior, die auch Farmer, Syncretism in the West, S. 362, hier als Sefirah Jesod lesen möchte, als Gesamtheit der sefirotischen Welt und als >Paradies<. Die hier folgenden Ausführungen versuchen, Picos Begriffsschema differenzierter zu betrachten. 116 Pico, Conclusio cabalistica..., 28.27. (S. 356): Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est divinitas., dazu Conclusio...in doctrina Piatonis, 5>32 (S. 448): Per aliam vitam in Epinomide intelligere debemus connexionempartis cum suo toto, et credo idem esse quod apud Cabalistas dicitur saeculum venturum. Akteur der"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2404,
+   "method": "latin_quote",
+   "evidence": [
+    "est iustus ita mare",
+    "mare ad quod tendunt",
+    "iustus ita mare ad",
+    "quod tendunt omnia flumina"
+   ],
+   "context": "CONCLUSIO X X V I I Sicut congregatio aquarum est iustus, ita mare ad quod tendunt omnia flumina est diuinitas. Cf. Recanati, fol. 9va:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1705,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxvii"
+   ],
+   "resolved": false,
+   "context": "hoc indicatur per illud quod dicitur in textu [Eccl. 1:7] Omnes torrentes tendunt ad mare, quia scilicet per Tiphereth tendunt sex extrema quae dicuntur torrentes contenti in eo ad Athereth [Diadem, the tenth sefirah] quae dicitur mare [cf. Conclusio xxvii]. Si uero considerantur in particulari sunt pietas [Hesed, otherwise called Gedullah, the fourth sefirah], potentia, eternitas [Nesah, Eternity or Victory], decor, fundamentum seculi, et dia- dema."
+  }
+ ],
+ "farmer_crossrefs": [
+  "24.8",
+  "28.8",
+  "6.7"
+ ]
+}

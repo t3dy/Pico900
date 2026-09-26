@@ -809,3 +809,19 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   inventory is rebuilt, or wait. [Proposed: wait until the pilot block (the thirteen) passes G2.]
 - **Q-4 Latin base text.** Farmer's Latin is an edition; the Brown edition named in the old CLAUDE.md was never
   consulted. [Proposed: collate against the Brown edition and the 1486 print before publishing any Latin.]
+
+## 2026-09-25, evening: research layer and swarms
+
+- **D-8 The inventory is derived by script from Farmer's OCR** (`scripts/extract_farmer_theses.py`) and validated against
+  Farmer's own marginal cumulative numbers; ids inferred from sequence are logged for verification. No hand-typed inventory.
+- **D-9 Mentions are harvested deterministically** (`scripts/harvest_mentions.py`); statistics of scholarly attention per thesis
+  come from the harvest and drive the suggested tier. A model never decides whether a scholar discusses a thesis.
+- **D-10 The research packet is the WRITER's only input**; entries are Farmer-keyed JSON (`docs/ENTRY_FORMAT.md`) gated by
+  `scripts/entry_gate.py` before any VERIFIER reads them.
+- **D-11 Provisional adoption of the proposed defaults for Q-1..Q-4** so that the pilot could start tonight, pending Ted's
+  decision: original translations checked against Farmer's line and never copied (Q-1); tiers A-D from the statistics with
+  override in `data/ontology/theses.json` (Q-2); no publication before the tier-A block passes verification (Q-3); Farmer's
+  OCR as copy-text with the 1486/1487 apparatus recorded, collation deferred (Q-4). Any of these can be reversed; the data
+  carries enough provenance to re-derive.
+- **D-12 Generated research data is committed** (inventory, ontology, packets, registry) so that future sessions and agents
+  without access to `E:\` can still write and verify from locators; the source Markdown itself is not committed.

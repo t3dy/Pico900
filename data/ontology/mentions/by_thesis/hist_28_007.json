@@ -1,0 +1,55 @@
+{
+ "thesis_id": "28.7",
+ "latin": "Cum dicit Salomon in oratione sua in libro Regum: Exaudi o_coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum.",
+ "farmer_latin_line": 17641,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1504,
+   "method": "latin_quote",
+   "evidence": [
+    "exaudi celum per celum",
+    "dicit salomon in oratione",
+    "uiridem debemus intelligere que",
+    "salomon in oratione sua"
+   ],
+   "context": "CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39] Exaudi, ο coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9218,
+   "method": "latin_quote",
+   "evidence": [
+    "exaudi celum per celum",
+    "dicit salomon in oratione",
+    "uiridem debemus intelligere que",
+    "salomon in oratione sua"
+   ],
+   "context": "theses. The seventh thesis secundum secretam doctrinam sapientum Hebraeorum Cabalistarum states: Cum dicit Salomon in oratione sua in libro Regum, Exaudi, ο coelum, per coelum lineam uiridem debemus intelligere quae gyrat uniuersum. The \"green line that encircles the universe\" is Intelligence, the third"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1501,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO VII"
+   ],
+   "resolved": true,
+   "context": "Pico's Encounter with Jewish Mysticism CONCLUSIO VII Cum dicit Salomon in oratione sua in libro Regum [1 Kings 8:32,34,36,39]"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9814,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vii"
+   ],
+   "resolved": false,
+   "context": "\"vinum observatum in uvis suis,\" that is, the tenth sefirah. Kabbala appears again in the seventh Zoroastrian thesis: Conclusio vii: Quae dicunt interpretes super xiiii amphorismo, perfecte intelligentur per ea, quae dicunt Cabalistae de morte osculi."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>29",
+  "22.12"
+ ]
+}

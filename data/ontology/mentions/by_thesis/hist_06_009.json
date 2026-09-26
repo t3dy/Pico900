@@ -1,0 +1,65 @@
+{
+ "thesis_id": "6.9",
+ "latin": "Calor, si sit etiam separatus, ignem generare poterit.",
+ "farmer_latin_line": 12783,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15969,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 8–11"
+   ],
+   "context": "These 11 theses can clearly be divided into two groups: the first, theses 1–7, deal with theological issues such as the status of theology as a science and angelology; and the second, theses 8–11, deal with issues pertaining to natural philosophy such as the sense of taste, heat or vacuum. Yet often even these natural issues are taken from theological contexts where they are discussed as examples."
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16745,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 8, 9"
+   ],
+   "context": "beginning of Pico’s thesis. This might reflect Pico’s own interpretation of Giles or else another place in Giles where these possibilities are discussed. In any case this is the conceptual context of this thesis. The last 4 theses are focused on natural philosophy (theses 8, 9, and 11), and on the subordination of sciences (thesis 10). According to thesis 8 the sense of taste, since it is a taste, perceives not only that which has flavour, but also that which has moisture.59 The sense of taste is mentioned by Giles in his"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16760,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 7–10"
+   ],
+   "context": "a standard Aristotelian account is attributed by Pico to Giles and how exactly it fits into the project of the 900 theses. This might just be another indication of the haste with which Pico was working on the theses. We have already seen a similar incident in Chapter 6, while examining theses 7–10 dedicated to Albert 59 Pico, 900 Theses, p. 248: “Sensus gustus, ut gustus est, non solum saporabile, sed humidum"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16791,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 9"
+   ],
+   "context": "the Great. Thus, in Giles’s commentary on De anima we find that taste (gustus) or flavour (sapor) are related to moisture (umor), just as vision is related to colour and hearing to sound.63 Thesis 9 states that even if heat was separated, it could generate fire.64 This issue brings us to the relation between nature and supposite, discussed by Giles in his Reportatio of his commentary on the Sentences, 3, q. 1, and ‘disguised’ under the title, ‘whether it was possible for God to be incarnated’ (utrum pos-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16980,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 9"
+   ],
+   "context": "356 chapter 11 that exist in the respective formulations of ideas by Pico and Giles. A good example of this can be found in thesis 9, on heat and fire, where an example from natural philosophy discussed in a theological context by Giles becomes a thesis on natural philosophy by Pico. In thesis 10, on the subordination of sciences, a contrast seem to be emerging between what we have in Pico and"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 16819,
+   "method": "latin_quote",
+   "evidence": [
+    "sit etiam separatus ignem",
+    "etiam separatus ignem generare",
+    "si sit etiam separatus",
+    "separatus ignem generare poterit"
+   ],
+   "context": "63 Giles of Rome, Super libros de Anima (Venice 1500; repr. Frankfurt 1982), f. 36v: “Dico autem proprium esse sensibile quod non contingit errare sensum, ut visus respectu col- oris et auditus respectu soni et gustus respectu humoris, scilicet saporis….” 64 Pico, 900 Theses, p. 248: “Calor, si sit etiam separatus, ignem generare poterit.” 65 Giles of Rome, Opera omnia III.2, pp. 389–392. 66 Ibid., pp. 389–390: “Secundo, notandum quem ordinem habet natura ad subpositum, qui est talis: numquam natura daret esse, nisi esset in supposito. Oportet enim quod ex se est"
+  }
+ ],
+ "farmer_crossrefs": []
+}

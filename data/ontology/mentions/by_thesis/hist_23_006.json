@@ -1,0 +1,24 @@
+{
+ "thesis_id": "23.6",
+ "latin": "Cum excellenter ad intellectum assimilatur anima, fit in uehiculo motus perfecte circularis.",
+ "farmer_latin_line": 15750,
+ "mentions": [
+  {
+   "work": "howlett2021",
+   "line": 9242,
+   "method": "latin_quote",
+   "evidence": [
+    "uehiculo motus perfecte circularis",
+    "in uehiculo motus perfecte",
+    "cum excellenter ad intellectum"
+   ],
+   "context": "72. Howlett (2016, 111–14). 73. Pico, Heptaplus (1965b, 124). 74. Dulles (1941, 134). 75. Ogren (2009a, 227). Pico (1998, 312–13, 23.6): ‘Cum excellenter ad intellectum assimilator anima, ﬁt in vehiculo motus perfecte circularis.’ 76. Pico, Heptaplus (1965b, 118). 77. Pico, Heptaplus (1965b, 118–19)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "20.11",
+  "22.4",
+  "5>45",
+  "5>7"
+ ]
+}

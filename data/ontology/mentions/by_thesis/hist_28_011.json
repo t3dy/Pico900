@@ -1,0 +1,48 @@
+{
+ "thesis_id": "28.11",
+ "latin": "Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita, ad significandum quod ex secunda numeratione procedit tertia, quae in quartam, quintam, sextam, et decimam diuiditur.",
+ "farmer_latin_line": 17732,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 24877,
+   "method": "latin_quote",
+   "evidence": [
+    "ad significandum quod ex",
+    "dictum est ex heden",
+    "exire fluuium qui diuiditur",
+    "capita ad significandum quod"
+   ],
+   "context": "[73] Rectius dicitur quod paradisus sit totum aedificium, quam quod sit decima, et in medio eius est collocatus magnus Adam, qui est Tipheret. [74] Dictum est ex Heden exire fluvium qui dividitur in qua­ tuor capita, ad significandum quod ex secunda numeratione proce­ dit tertia, quae in quarta, quintam, sextam et decimam dividitur. [75] Scribunt interpretes Chaldei verbum fuisse Zoroastris ala­"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1737,
+   "method": "latin_quote",
+   "evidence": [
+    "ad significandum quod ex",
+    "dictum est ex heden",
+    "exire fluuium qui diuiditur",
+    "procedit tertia que in"
+   ],
+   "context": "CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad significandum quod ex secunda numeratione procedit tertia, quae in quar- tam, quintam, sextam et decimam diuiditur."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1734,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XI"
+   ],
+   "resolved": true,
+   "context": "Sol. 4:12] \"A garden locked is my sister, my bride.\" CONCLUSIO XI Dictum est ex Heden exire fluuium qui diuiditur in quatuor capita ad"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>68",
+  "11>69",
+  "1>8",
+  "24.2",
+  "3>1"
+ ]
+}

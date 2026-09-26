@@ -1,0 +1,80 @@
+{
+ "thesis_id": "28.3",
+ "latin": "Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii.",
+ "farmer_latin_line": 17540,
+ "mentions": [
+  {
+   "work": "corazzol2019",
+   "line": 919,
+   "method": "latin_quote",
+   "evidence": [
+    "proprietas clementie negandum tamen",
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem"
+   ],
+   "context": "Can we assume that Pico indeed had an interest in Middat ha-Din, the “Property of Judg- ment”, and its power? The third of the forty-seven Conclusiones secundum secretam doc- trinam sapientum Hebreorum cabalistarum reads as follows: “Quamvis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii”.69 Furthermore, the thirteenth of his Kabbalistic Conclusions According to the Author’s Opinion reads: “Qui operatur in cabala sine admixtione extranei, si diu erit in opera, mor-"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1358,
+   "method": "latin_quote",
+   "evidence": [
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem",
+    "non est quin contineat"
+   ],
+   "context": "CONCLUSIO III Quamuis nomen ineffabile9 sit proprietas clementiae, negandum tarnen non est quin contineat proprietatem iudicii. The direct source is Liber Combinationum, Cod. Vat. Ebr. 190, fol. 41r:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 7253,
+   "method": "latin_quote",
+   "evidence": [
+    "proprietas clementie negandum tamen",
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem"
+   ],
+   "context": "doctrinam sapientum Hebraeorum Cabalistarum: Quamuis nomen ineffabile sit proprietas clementiae, negandum tamen non est quin contineat proprietatem iudicii. Nomen dei quatuor litterarum, quod est ex mem, sade, pe, et sade, regno"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9235,
+   "method": "latin_quote",
+   "evidence": [
+    "quamuis nomen ineffabile sit",
+    "ineffabile sit proprietas clementie",
+    "est quin contineat proprietatem",
+    "non est quin contineat"
+   ],
+   "context": "Tetragrammaton, it is noteworthy that in the third thesis secundum secre- tam doctrinam sapientum Hebraeorum Cabalistarum Pico states: Quamuis nomen ineffabile sit proprietas clementiae, negandum tarnen non est quin contineat proprietatem iudicii. Judgment and Clemency are the Fire and the Water of which Heaven"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1355,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO III"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO III Quamuis nomen ineffabile9 sit proprietas clementiae, negandum tarnen non"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3319,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio  iii"
+   ],
+   "resolved": false,
+   "context": "Finally, the Vaticanus 190. The first piece included in this manuscript is the anonymous Liber Combinationum. Pico certainly used it for his first set of theses: it is the direct source of Conclusio iii. The book, in Scholem's opinion, is a fourteenth-century popular version of Abraham Abulafia's combinational and philosophical Kabbala.7 It is almost certain that Pico also used the Corona Nominis Boni (see"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>4",
+  "24.16",
+  "24.17"
+ ]
+}

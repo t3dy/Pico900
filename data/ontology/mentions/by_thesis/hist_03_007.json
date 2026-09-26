@@ -1,0 +1,28 @@
+{
+ "thesis_id": "3.7",
+ "latin": "Pluralitas formalitatum stat cum idemtitate reali.",
+ "farmer_latin_line": 12076,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13399,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 7"
+   ],
+   "context": "Pico and Francis of Mayronnes 281 The next two theses seem to come from the Tractatus formalitatum. Let us begin with thesis 7 first and then go back and discuss thesis 6. Thesis 7 states that plurality of formalities stands with real identity.34 These issues are dis- cussed in the Tractatus formalitatum secundum doctrinam Francisci Mayronis. While discussing in the very beginning of the tractate, ‘whether those things"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13426,
+   "method": "latin_quote",
+   "evidence": [
+    "formalitatum stat cum idemtitate",
+    "stat cum idemtitate reali",
+    "pluralitas formalitatum stat cum"
+   ],
+   "context": "are the reason for the condition of an adequate form.36 34 Pico, 900 Theses, p. 234: “Pluralitas formalitatum stat cum idemtitate reali.” 35 Francis of Mayronnes, Tractatus formalitatum secundum doctrinam Francisci Mayronis (Venice, 1520), p. 263D: “Nam si illa que distinguuntur realiter non distinguuntur formaliter tunc ab uno progrederentur indentitas et pluralitas hoc patet, nam pluralitas"
+  }
+ ],
+ "farmer_crossrefs": []
+}

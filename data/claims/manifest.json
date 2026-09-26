@@ -1,0 +1,133 @@
+{
+ "job": "angelology-and-ficino-claims-sweep",
+ "created": "2026-09-26",
+ "prompts": [
+  "P20260926003059",
+  "P20260926040957",
+  "P20260926041129",
+  "P20260926041806"
+ ],
+ "recovery": "resume: python scripts/claims_pack.py <packet> for each item not `done`; owners are exclusive (one writer per packet)",
+ "items": [
+  {
+   "packet": "allen2017-venus",
+   "work": "allen2017",
+   "scope": "Allen, 'The Birth Day of Venus' (Commento and Heptaplus), l. 5679 to ~6800 incl. notes",
+   "owner": "R-ALLEN-1",
+   "status": "pending",
+   "output": "data/claims/angelology/allen2017-venus.claims.json"
+  },
+  {
+   "packet": "allen2017-other",
+   "work": "allen2017",
+   "scope": "rest of Allen 2017: angels, Dionysius, Proclus, One/Being, Pico-Ficino",
+   "owner": "R-ALLEN-2",
+   "status": "pending",
+   "output": "data/claims/angelology/allen2017-other.claims.json"
+  },
+  {
+   "packet": "black2006-a",
+   "work": "black2006",
+   "scope": "Black l. 1-4700 (intro, ch. 1-4)",
+   "owner": "R-BLACK-A",
+   "status": "pending",
+   "output": "data/claims/angelology/black2006-a.claims.json"
+  },
+  {
+   "packet": "black2006-b",
+   "work": "black2006",
+   "scope": "Black l. 4700-9300 (ch. 4-5, second proem)",
+   "owner": "R-BLACK-B",
+   "status": "pending",
+   "output": "data/claims/angelology/black2006-b.claims.json"
+  },
+  {
+   "packet": "black2006-c",
+   "work": "black2006",
+   "scope": "Black l. 9300-13849 (ch. 6-7, appendix, conclusion)",
+   "owner": "R-BLACK-C",
+   "status": "pending",
+   "output": "data/claims/angelology/black2006-c.claims.json"
+  },
+  {
+   "packet": "borghesi2012",
+   "work": "borghesi2012",
+   "scope": "Oration angelic passages (Pico) + editors' notes",
+   "owner": "R-ORATION",
+   "status": "pending",
+   "output": "data/claims/angelology/borghesi2012.claims.json"
+  },
+  {
+   "packet": "wallis1965-heptaplus",
+   "work": "wallis1965",
+   "scope": "Heptaplus text (Carmichael): angelic world, three worlds, plan",
+   "owner": "R-HEPTAPLUS",
+   "status": "pending",
+   "output": "data/claims/angelology/wallis1965-heptaplus.claims.json"
+  },
+  {
+   "packet": "wallis1965-deente",
+   "work": "wallis1965",
+   "scope": "De ente et uno (Miller): argument, Ficino, Dionysius, Parmenides",
+   "owner": "R-DEENTE",
+   "status": "pending",
+   "output": "data/claims/angelology/wallis1965-deente.claims.json"
+  },
+  {
+   "packet": "howlett2021",
+   "work": "howlett2021",
+   "scope": "Howlett: De ente, Ficino, Dionysius, One/Being",
+   "owner": "R-HOWLETT",
+   "status": "pending",
+   "output": "data/claims/angelology/howlett2021.claims.json"
+  },
+  {
+   "packet": "edelheit2022",
+   "work": "edelheit2022",
+   "scope": "Edelheit 2022: separate substances, Cittadini, Aquinas/Dionysius",
+   "owner": "R-EDELHEIT-1",
+   "status": "pending",
+   "output": "data/claims/angelology/edelheit2022.claims.json"
+  },
+  {
+   "packet": "edelheit2008",
+   "work": "edelheit2008",
+   "scope": "Edelheit 2008: Ficino, Pico, Savonarola relations",
+   "owner": "R-EDELHEIT-2",
+   "status": "pending",
+   "output": "data/claims/angelology/edelheit2008.claims.json"
+  },
+  {
+   "packet": "dougherty2008",
+   "work": "dougherty2008",
+   "scope": "Dougherty (ed.) New Essays: De ente, One, angels (not Allen's essay)",
+   "owner": "R-DOUGHERTY",
+   "status": "pending",
+   "output": "data/claims/angelology/dougherty2008.claims.json"
+  },
+  {
+   "packet": "copenhaver2019-angels",
+   "work": "copenhaver2019",
+   "scope": "Copenhaver 2019: Oration angels, Metatron, Pallas, Dionysius",
+   "owner": "R-COPENHAVER",
+   "status": "pending",
+   "output": "data/claims/angelology/copenhaver2019-angels.claims.json"
+  },
+  {
+   "packet": "copenhaver2022-angels",
+   "work": "copenhaver2022",
+   "scope": "Copenhaver 2022: trial angelology, Dionysius/Proclus, Ficino",
+   "owner": "R-COPENHAVER",
+   "status": "pending",
+   "output": "data/claims/angelology/copenhaver2022-angels.claims.json"
+  },
+  {
+   "packet": "wirszubski1989-angels",
+   "work": "wirszubski1989",
+   "scope": "Wirszubski: Hebrew hierarchies, Metatron, binsica, dating of sources",
+   "owner": "R-WIRSZUBSKI",
+   "status": "pending",
+   "output": "data/claims/angelology/wirszubski1989-angels.claims.json"
+  }
+ ]
+}

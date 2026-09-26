@@ -1,0 +1,21 @@
+{
+ "thesis_id": "4>20",
+ "latin": "Secunda est quod peccato mortali finiti temporis non debetur pena infinita secundum tempus, sed finita tantum.",
+ "farmer_latin_line": 21879,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 2198,
+   "method": "farmer_id",
+   "evidence": [
+    "4>20"
+   ],
+   "context": "(4>8) Wrong, erroneous, heretical. 2. The second is: that for a mortal sin of a ﬁnite time an inﬁnite temporal penalty is not due, but only a ﬁnite penalty. (4>20) Wrong, erroneous, heretical. 3. Neither the Cross of Christ, nor any image, should be adored with the adoration of veneration, even in that way that Thomas proposes."
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>2",
+  "1>7",
+  "4>19"
+ ]
+}

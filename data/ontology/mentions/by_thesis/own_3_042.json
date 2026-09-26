@@ -1,0 +1,32 @@
+{
+ "thesis_id": "3>42",
+ "latin": "Infinitas dei per superexcedentiam ad esse intellectuale et uiam mysticae theologiae probari potest, et ad id probandum omnis alia uia inefficax est.",
+ "farmer_latin_line": 20881,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1753,
+   "method": "farmer_id",
+   "evidence": [
+    "3>42"
+   ],
+   "context": "lassen sich für Pico in der Sprache der Kabbalah formulieren, ja vielleicht 108 Pico, Conclusio paradoxa..., 3>42. (S. 410): Infinitas dei per superexcedentiam ad esse intellectuale et viam mysticae theologiae probari potest, et ad idprobandum omnis alia via inefficax est., und Conclusio in Theologia secundum opinionem propriam, a communi modo dicendi theologorum satis diversam, 4>11. (S. 426)."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1753,
+   "method": "latin_quote",
+   "evidence": [
+    "omnis alia uia inefficax",
+    "theologie probari potest et",
+    "superexcedentiam ad esse intellectuale",
+    "ad esse intellectuale et"
+   ],
+   "context": "lassen sich für Pico in der Sprache der Kabbalah formulieren, ja vielleicht 108 Pico, Conclusio paradoxa..., 3>42. (S. 410): Infinitas dei per superexcedentiam ad esse intellectuale et viam mysticae theologiae probari potest, et ad idprobandum omnis alia via inefficax est., und Conclusio in Theologia secundum opinionem propriam, a communi modo dicendi theologorum satis diversam, 4>11. (S. 426)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "4>9",
+  "7.18"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "thesis_id": "3>21",
+ "latin": "Per praedictas conclusiones intelligi potest quae sit omiomeria Anaxagorae, quam opifex intellectus distinguit.",
+ "farmer_latin_line": 20551,
+ "mentions": [
+  {
+   "work": "steiris2014",
+   "line": 108,
+   "method": "farmer_id",
+   "evidence": [
+    "3>21"
+   ],
+   "context": "text in prior scholarship. In his Conclusiones, Pico comments on Anaxagoras: 3>21. Per predictas conclusiones intelligi potest, que sit omiomeria Anaxagorae, quam opi- fex intellectus distinguit.6 (Through the preceding conclusions one can understand what Anaxagoras’s homoeomeria is, which the demiurge of the intellect distinguishes.)7"
+  },
+  {
+   "work": "steiris2014",
+   "line": 137,
+   "method": "farmer_id",
+   "evidence": [
+    "3>21"
+   ],
+   "context": "Vita e dottrina (Florence 1937) 72–89. 6 G. Pico della Mirandola, “Conclusiones sive Theses DCCC,” Syncretism in the West: Pico’s 900 The- ses (1486), The Evolution of Traditional Religious and Philosophical Systems, ed. S. A. Farmer (Tempe 1998) 3>21. 7 Farmer, Syncretism in the West (n. 5 above) 405. 8 Pico della Mirandola, “Conclusiones” (n. 6 above) 3>22. 9 Farmer, Syncretism in the West (n. 5 above) 405."
+  },
+  {
+   "work": "steiris2014",
+   "line": 297,
+   "method": "farmer_id",
+   "evidence": [
+    "3>21"
+   ],
+   "context": "Renaissance: From Ficino, Pico, Della Porta to Trithemius, Agrippa, Bruno (Leiden 2007) 46, 56, 67. 36 Pico della Mirandola, “De Hominis Dignitate” (n. 4 above) 128, 152; Borghesi et al., “Overview” (n. 1 above) 91, 133; Farmer, Syncretism in the West (n. 5 above) 486–487. 37 Pico della Mirandola, “Conclusiones” (n. 6 above) 3>21, 3>22. 38 DK (n. 10 above) 59 B12; J. Barnes, The Presocratic Philosophers, Volume 2: Empedocles to Democritus (London 1979) 105–107; Curd, Anaxagoras of Clazomenae, Fragments and Testimonia (n. 11 above) 52, 121–122, 196–212; McKirahan, Philosophy Before Socrates (n. 14 above) 216–220; J. Magee,"
+  },
+  {
+   "work": "steiris2014",
+   "line": 379,
+   "method": "farmer_id",
+   "evidence": [
+    "3>21"
+   ],
+   "context": "47 DK (n. 10 above) 22 B10, B50; G. S. Kirk, Heraclitus: The Cosmic Fragments, A Critical Study with Introduction, Text and Translation (Cambridge 1954) 94–96. 48 Farmer, Syncretism in the West (n. 5 above) 405. 49 Pico della Mirandola, “Conclusiones” (n. 6 above) 3>21. 50 Farmer, Syncretism in the West (n. 5 above) 405. ## Page 7"
+  },
+  {
+   "work": "steiris2014",
+   "line": 108,
+   "method": "latin_quote",
+   "evidence": [
+    "per predictas conclusiones intelligi",
+    "quam opifex intellectus distinguit",
+    "anaxagore quam opifex intellectus",
+    "omiomeria anaxagore quam opifex"
+   ],
+   "context": "text in prior scholarship. In his Conclusiones, Pico comments on Anaxagoras: 3>21. Per predictas conclusiones intelligi potest, que sit omiomeria Anaxagorae, quam opi- fex intellectus distinguit.6 (Through the preceding conclusions one can understand what Anaxagoras’s homoeomeria is, which the demiurge of the intellect distinguishes.)7"
+  },
+  {
+   "work": "steiris2014",
+   "line": 340,
+   "method": "latin_quote",
+   "evidence": [
+    "per predictas conclusiones intelligi",
+    "quam opifex intellectus distinguit",
+    "anaxagore quam opifex intellectus",
+    "omiomeria anaxagore quam opifex"
+   ],
+   "context": "draws from Simplicius’s In Aristotelis physicorum libros commentaria. The similarity of the two passages is obvious: Per predictas conclusiones intelligi potest, que sit omiomeria Anaxagorae, quam opifex in- tellectus distinguit.49 (Through the preceding conclusions one can understand what Anaxago- ras’s homoeomeria is, which the demiurge of the intellect distinguishes.)50"
+  }
+ ],
+ "farmer_crossrefs": []
+}

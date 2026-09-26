@@ -1,0 +1,33 @@
+{
+ "thesis_id": "4.6",
+ "latin": "Vnumquodque indiuiduum est indiuiduum per propriam differentiam indiuidualem, quae dicitur hecheitas.",
+ "farmer_latin_line": 12236,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14090,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 6"
+   ],
+   "context": "attachment to the will, the faculty which has ‘stretching ability’. Since it does not refer to ‘stretching’, Pico’s thesis is a little more obscure. And while the Scotist discussion uses actus Pico prefers operatio. Thesis 6 deals with the principle of individuation. It states that any indi- viduum is an individuum thanks to a special individual difference which is called ‘haecceity’ or ‘thisness’ (hecceitas).34 This issue is discussed by Scotus in his Ordinatio 2, d. 3, pars 1, q. 4. It is here that Scotus wishes to clarify his"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14114,
+   "method": "latin_quote",
+   "evidence": [
+    "est indiuiduum per propriam",
+    "indiuidualem que dicitur hecheitas",
+    "per propriam differentiam indiuidualem",
+    "unumquodque indiuiduum est indiuiduum"
+   ],
+   "context": "et isti actus sequuntur intellectionem moderativam ut sunt per ipsam moderati.” 33 Ibid.: “Ex his duabus conditionibus sequitur corollarium quod praxis qua extenditur hab- itus practicus non est nisi actus voluntatis elicitus vel imperatus.” 34 Pico, 900 Theses, p. 238: “Unumquodque individuum est individuum per propriam differ- entiam individualem, quae dicitur hecheitas.” 35 John Duns Scotus, Ordinatio 2, d. 3, pars 1, q. 4, in Opera omnia, vol. 7 (Vatican City, 1973), pp. 426–427: “Quantum ad primam viam, primo expono quid intelligo per individuatio-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.26",
+  "3>20",
+  "4.7"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "thesis_id": "11>64",
+ "latin": "In textu, Audi Israhel, dominus deus noster dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori ad inferius, quam ab inferiori ad superius bis.",
+ "farmer_latin_line": 27756,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 9131,
+   "method": "latin_quote",
+   "evidence": [
+    "ibi collectio ab inferiori",
+    "inferiori ad superius et",
+    "intelligatur ibi collectio ab",
+    "unus rectius est ut"
+   ],
+   "context": "Conclusio lxiv: In textu [Deut. 6:4] Audi Israhel Dominus Deus noster Dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori ad inferius, quam ab inferiori ad superius bis."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9129,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio lxiv"
+   ],
+   "resolved": true,
+   "context": "Chapter 14, links the symbolism of the ten sefirot with Pico's Kabbalistic confirmation of Christianity. Conclusio lxiv: In textu [Deut. 6:4] Audi Israhel Dominus Deus noster Dominus unus, rectius est ut intelligatur ibi collectio ab inferiori ad superius, et a superiori"
+  }
+ ],
+ "farmer_crossrefs": []
+}

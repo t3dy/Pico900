@@ -1,0 +1,36 @@
+{
+ "thesis_id": "1.11",
+ "latin": "Stat speciem cuius dicimur reminisci esse totaliter deperditam et abolitam.",
+ "farmer_latin_line": 11141,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 9727,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 11"
+   ],
+   "context": "This is part of the conceptual background behind Pico’s thesis but I could not find the reference to Avicenna in this context. Pico’s thesis could easily come from this discussion by Albert. In thesis 11 we find that it is assumed that a species of which it is stated that we recall is completely abandoned and abolished.67 In Albert’s commen- tary on De anima, Book 3, Tract. 2, Chapter 19, in the midst of a comparison between possible, agent and speculative intellect, we read that the separate"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9755,
+   "method": "latin_quote",
+   "evidence": [
+    "esse totaliter deperditam et",
+    "speciem cuius dicimur reminisci",
+    "totaliter deperditam et abolitam",
+    "cuius dicimur reminisci esse"
+   ],
+   "context": "per-se-sensata, secundum quod per se opponitur ad id quod est per accidens, et non sic, secundum quod per se opponitur ei quod est non primo; impossibile enim est, quod idem numero passivum habeat activa diversa secundum genus.” 67 Pico, 900 Theses, p. 216: “Stat speciem cuius dicimur reminisci esse totaliter deperditam et abolitam.” 68 Albert the Great, Opera omnia (Cologne Edition), vol. 7/1, p. 206: “Separatus enim sic intellectus tam possibilis quam agens quam etiam compositus ex utroque slummodo est,"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.23",
+  "2.41",
+  "4>7",
+  "7.1",
+  "7.31",
+  "9>12"
+ ]
+}

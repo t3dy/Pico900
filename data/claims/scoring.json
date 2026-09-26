@@ -1,0 +1,25 @@
+{
+  "_note": "Weights and cut-offs for claims_score.py. A design decision (DECISIONS.md, 2026-09-26), not ground truth: importance is a triage score for editorial attention and card prominence. Change a weight only with a DECISIONS.md entry; the scorer records the weights it used in every output file.",
+  "importance_weights": {
+    "centrality": 0.25,
+    "corroboration": 0.20,
+    "contestation": 0.15,
+    "warrant_strength": 0.15,
+    "reach": 0.10,
+    "frame_shift": 0.15
+  },
+  "warrant_weights": {
+    "primary_text": 1.0,
+    "scholar_evidence": 0.7,
+    "argument": 0.5,
+    "authority": 0.4,
+    "inference": 0.3,
+    "none": 0.2
+  },
+  "tiers": {"primary": 0.15, "secondary": 0.35, "_note": "fractions of verified claims by rank; the rest are tertiary"},
+  "reach_cap": 4,
+  "relevance_kind_weights": {
+    "quarrel": 1.0, "trial": 1.0, "correspondence": 0.8, "source": 0.8, "teaching": 0.7,
+    "patronage": 0.7, "friendship": 0.6, "reception": 0.5, "other": 0.4
+  }
+}

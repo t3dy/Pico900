@@ -1,0 +1,34 @@
+{
+ "thesis_id": "5>11",
+ "latin": "Primus septennarius uitae humanae est sub Mercurio, secundus sub Venere, tertius sub Marte, quartus sub Ioue, quintus sub Saturno, et reliqui septennarii secundum eum qui fuerit praedominatus in praecedentibus.",
+ "farmer_latin_line": 22344,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 24610,
+   "method": "latin_quote",
+   "evidence": [
+    "tertius sub marte quartus",
+    "sub saturno et reliqui",
+    "humane est sub mercurio",
+    "sub marte quartus sub"
+   ],
+   "context": "sit nefas. [38] Ex precedenti conclusione habetur quae sit virga Mercu­ rii soporifera. [39] Primus septennarius vitae humanae est sub Mercurio, se­ cundus sub Venere, tertius sub Marte, quartus sub love, quintus sub Saturno, et reliqui septennarii secundum eum qui fuerit prae­ dominatus in praecedentibus."
+  },
+  {
+   "work": "txt_medieval_and_early_modern_science_",
+   "line": 1446,
+   "method": "farmer_id",
+   "evidence": [
+    "5>9–12"
+   ],
+   "context": "chapter three inspecifictypesofintellect,inwhichindividualsoulscometopar- ticipatethroughcelestialvirtue,withheavenbeing\"acelestialani- mal.\" [Footnote: Farmer, Syncretism in the West, pp. 306–307 (conclusions 22.4–8). These conclu- sions seem to be connected to Pico's own Platonic theses 5>9–12 (Farmer, Syncretism intheWest,pp.440–441).Farmer,SyncretismintheWest,pp.448–449(conclusion] TheenterprisebaffledPico'sFlorentinefriendsandcontem- poraries.SomethreemonthsbeforePico'sdeath,MarsilioFicino (1433–1499) had a very difficult time convincing Angelo Poliziano"
+  }
+ ],
+ "farmer_crossrefs": [
+  "22.4",
+  "5>10",
+  "5>12",
+  "5>9"
+ ]
+}

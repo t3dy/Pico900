@@ -1,0 +1,83 @@
+{
+ "thesis_id": "11>6",
+ "latin": "Trıa magna dei nomina quaternaria, quae sunt in secretis cabalistarum, per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <N?NN> sit patris, nomen «nmm» sit filii, nomen «?YTN» sit spiritus sancti, intelligere potest qui in scientia cabalae fuerit profundus.",
+ "farmer_latin_line": 26487,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 21989,
+   "method": "latin_quote",
+   "evidence": [
+    "scientia cabale fuerit profundus",
+    "tribus personis trinitatis ita",
+    "tria magna dei nomina",
+    "spiritus sancti intelligere potest"
+   ],
+   "context": "cristologica. Quest'opera abulafiana non si annovera però tra le \" Conclusiones, p. 522, n. I I>6: <<Tria magna dei nomina quaternaria, guae sunt in secretis cabalistarum, per mirabile appropriationem tribus personis trinitatis ita debere at­ tributi, ut nomen ['hyh] sit patis, nomen [Yhwh] sit filii, nomen ['dny] sit spiritus sancti intelligere potest qui in scientia cabalae fuerit profundus>>."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1557,
+   "method": "farmer_id",
+   "evidence": [
+    "11>6"
+   ],
+   "context": "94 Dazu auch Pico, Conclusio cabalistica..., 11>6. (S. 522). Gottvater offenbart sich im Namen der ersten Sefirah, ΪΤΠΝ, der Sohn bezeichnet als ΠΊΪΤ und sechste Sefirah den Intellekt, während Malchut für Pico in >TTN den spiritus repräsentiert. Hierzu, wenn auch ohne Hinweis auf Intellekt und Seele Greive, Die christliche Kabbalah, S. 150f., ebenso"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8458,
+   "method": "latin_quote",
+   "evidence": [
+    "dei nomina quaternaria que",
+    "in secretis cabalistarum per",
+    "in scientia cabale fuerit",
+    "tribus personis trinitatis ita"
+   ],
+   "context": "Conclusio vi: Tria magna Dei nomina quaternaria,' quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <ΓΡΠΧ> [alefli, he, yod, he] sit patris, nomen <ΓΠΓΡ> [yod, he, waw, he] sit filii, nomen o n x > [aleph, daleth, nun, yod\\ sit spiritus sancti, intelli-"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 10081,
+   "method": "latin_quote",
+   "evidence": [
+    "dei nomina quaternaria que",
+    "in secretis cabalistarum per",
+    "in scientia cabale fuerit",
+    "tribus personis trinitatis ita"
+   ],
+   "context": "probable answer: Tria magna Dei nomina quaternaria, quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui, ut nomen <ΓΡηχ> [aleph, he, yod, he] sit patris, nomen <mn,> [yod, he, waw, he] sit fllii, nomen <TIN> [aleph, daleth, nun, yod] sit spiritus sancti, intelli-"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8456,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": true,
+   "context": "able without the equation of the Tetragrammaton with the second person of the Trinity. Conclusio vi: Tria magna Dei nomina quaternaria,' quae sunt in secretis Cabalistarum per mirabilem appropriationem tribus personis trinitatis ita debere attribui,"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9061,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusiones vi"
+   ],
+   "resolved": false,
+   "context": "texts concerning Is as an appellation of God are discussed in the Pugio Fidei.l% Pico, however, considers Is as a reminder of the mystery of the Trinity. Whether Pico meant to interpret the word tP'X as an acronym (for instance, Π'ΠΧ, mn\\ raw; cf. Conclusiones vi and lix), I do not know, nor does it matter.\" What matters is that it is only by the three letters, aleph, yod, sin, and not by the meaning vir that \"we are perfectly reminded of the mystery of the Trinity.\""
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9767,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio vi"
+   ],
+   "resolved": false,
+   "context": "Renaissance than for the history of Christian Kabbala.25 Here I shall consider five theses which, in one way or another, concern Kabbala. Conclusio vi: Dicta interpretum Chaldaeorum super xi amphorismo de duplici ebriatione Bacchi et Sileni, perfecte intelligentur per dicta Cabalistarum de duplici uino."
+  }
+ ],
+ "farmer_crossrefs": []
+}

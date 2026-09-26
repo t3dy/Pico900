@@ -1,0 +1,34 @@
+{
+ "thesis_id": "28.14",
+ "latin": "Qui nouerit proprietatem meridionalem in dextrali coordinatione, sciet cur omnis profectio Abraam semper fit uersus austrum.",
+ "farmer_latin_line": 17745,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1867,
+   "method": "latin_quote",
+   "evidence": [
+    "semper fit uersus austrum",
+    "meridionalem in dextrali coordinatione",
+    "proprietatem meridionalem in dextrali",
+    "qui nouerit proprietatem meridionalem"
+   ],
+   "context": "CONCLUSIO X I V Qui nouerit proprietatem meridionalem in dextrali coordinatione, seiet cur omnis profectio Abraham semper fit uersus austrum. Either of the following texts could be the source of this thesis. One is"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9856,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xiv"
+   ],
+   "resolved": false,
+   "context": "Kabbalistic books. The fourteenth thesis goes to the heart of Christian Kabbala. Conclusio xiv: Per dictum illud Zoroastris, adhuc tres dies sacrificabitis, et non ultra, apparuit mihi per Arithmeticam superioris merchiaue illos computandos"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>37",
+  "1>8",
+  "3>1"
+ ]
+}

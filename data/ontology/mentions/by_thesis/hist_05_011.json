@@ -1,0 +1,57 @@
+{
+ "thesis_id": "5.11",
+ "latin": "Ratitudo formaliter cuiuslibet creati est respectus.",
+ "farmer_latin_line": 12610,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 15678,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 11"
+   ],
+   "context": "In thesis 9 we find that having some specific and definable reality is common to both imaginary and non-imaginary.34 This thesis is connected to Henry’s discussion of relation, so we shall deal with it shortly below, while discussing thesis 11. Thesis 10 simply states that friendship is a virtue.35 It is dealt by Henry in Quodlibet X, q. 12. Henry provides here a philosophical account of the notion of friendship, using mainly the authorities of Aristotle and Cicero, and maintain-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15721,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Theses 11, 12"
+   ],
+   "context": "330 chapter 10 Theses 11, 12 and 13 deal with Henry’s notion of relation, a crucial point in Henry’s thought which can be found in many different parts of his works. Thus, thesis 11 states that formally, the approval of some created being is the formal approval.37 In thesis 12 it is argued that in addition to this, it is necessary for"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15731,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 11 and 13"
+   ],
+   "context": "able from a foundation.39 Henry discusses in detail the question whether a relation in divine matters remains a relation in Quodlibet III, q. 4, where we can find some expressions which are close to theses 11 and 13, according to which every relation in what concerns existence in created beings is founded or based on ( fundatur super) some accident; since, on the one hand, a thing has its absolute existence in the subject because of one category (= substance), but on the other hand, a thing"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15738,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 11"
+   ],
+   "context": "has its relative existence with regard to another thing thanks to the category ‘relation’. Because of this every relation as such is accidental since all other categories are accidental to substance.40 Thesis 11 can be found in Quodlibet V, q. 2, where Henry is discussing the double respect of relation as one of the accidental categories transferred from a created being towards God: with regard to its own foundation and with regard to its opposite. The medieval master distinguishes here an empty"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 15746,
+   "method": "latin_quote",
+   "evidence": [
+    "cuiuslibet creati est respectus",
+    "ratitudo formaliter cuiuslibet creati",
+    "formaliter cuiuslibet creati est"
+   ],
+   "context": "a few slips. See Cicero, Laelius de amicitia 20: “Est autem amicitia nihil aliud nisi omnium divinarum, humanarumque rerum cum benevolentia et caritate summe consensio.” 37 Pico, 900 Theses, p. 244: “Ratitudo formaliter cuiuslibet creati est respectus.” 38 Ibid.: “Ad hoc, ut sit mutuitas realis relacionis, requiritur quod fundamentum ex sua nat- ura ordinetur ad aliud, tanquam ad suam perfectionem.” 39 Ibid.: “Relatio non distinguitur a fundamento realiter.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "4.16"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "thesis_id": "23.5",
+ "latin": "Super hunc mundum, quem uocant Theologi < >, est alius quem uocant < >, et super hunc alius quem uocant < >.",
+ "farmer_latin_line": 15746,
+ "mentions": [
+  {
+   "work": "farmer1998",
+   "line": 10496,
+   "method": "latin_quote",
+   "evidence": [
+    "mundum quem uocant theologi",
+    "super hunc mundum quem",
+    "hunc mundum quem uocant",
+    "hunc alius quem uocant"
+   ],
+   "context": "(Elementa in octo cceli corporibus cœlefti modo bis inueniun tur: quz quis inueniet ft retrogrado ordine in illa bina numera- tione proceflerite C Super hunc mundum quem uocant Theologi eft alius quem uocant & fuper hunc alius quem uocant (Cum excellenter ad íntelle&tum affimilatur anima fit in uehí:"
+  }
+ ],
+ "farmer_crossrefs": [
+  "20.6",
+  "24.46"
+ ]
+}

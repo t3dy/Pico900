@@ -1,0 +1,35 @@
+{
+ "thesis_id": "22.2",
+ "latin": "Opifex mundi est supermundana anıma.",
+ "farmer_latin_line": 15442,
+ "mentions": [
+  {
+   "work": "steiris2014",
+   "line": 465,
+   "method": "latin_quote",
+   "evidence": [
+    "opifex mundi est",
+    "est supermundana anima",
+    "mundi est supermundana"
+   ],
+   "context": "the lower hypostases, namely Intellect and Soul (ȌȣȤȒ).67 In the Conclusiones, accord- ing to Porphyry, Pico admits that the Demiurge of the world is the supermundane soul: 22.2. Opifex mundi est supermundana anima.68 (The demiurge of the world is the supermundane soul.)69"
+  }
+ ],
+ "farmer_crossrefs": [
+  "22.1",
+  "22.4",
+  "22.6",
+  "22.7",
+  "23.2",
+  "23.7",
+  "24.18",
+  "3>21",
+  "5>10",
+  "5>11",
+  "5>12",
+  "5>19",
+  "5>2",
+  "5>34",
+  "5>9"
+ ]
+}

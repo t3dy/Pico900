@@ -1,0 +1,43 @@
+{
+ "thesis_id": "11>40",
+ "latin": "Hoc habent ineuitabiliter concedere Cabaliste, quod uerus messias per aquam homines purgabit.",
+ "farmer_latin_line": 27231,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2111,
+   "method": "farmer_id",
+   "evidence": [
+    "11>40"
+   ],
+   "context": "adorasset. Strukturell entspricht die Wirkung Geburah auf diese Weise der Erbsünde. 133 Pico, Conclusiones cabalisticae..., 11>21. (S. 528), U>24., 11>25. (S. 530): Quilibet cabalista habet concedere quod messias eos a captivitate Diabolica et non temporali erat liberaturus. 11>40., (S. 536): Hoc habent inevitabiliter concedere Cabalistae, quod verus messias per aquam homines purgabit. Zur Verbindung von Satan und Geburah bei Pico auch Wirszubski, Pico's Encounter, S. 188. Auch in seinen Anmerkungen zum Buch Hiob setzt Pico das satanische Prinzip mit der Materie gleich, die allein in der sublunaren Welt"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2111,
+   "method": "latin_quote",
+   "evidence": [
+    "quod uerus messias per",
+    "cabaliste quod uerus messias",
+    "habent ineuitabiliter concedere cabaliste",
+    "uerus messias per aquam"
+   ],
+   "context": "adorasset. Strukturell entspricht die Wirkung Geburah auf diese Weise der Erbsünde. 133 Pico, Conclusiones cabalisticae..., 11>21. (S. 528), U>24., 11>25. (S. 530): Quilibet cabalista habet concedere quod messias eos a captivitate Diabolica et non temporali erat liberaturus. 11>40., (S. 536): Hoc habent inevitabiliter concedere Cabalistae, quod verus messias per aquam homines purgabit. Zur Verbindung von Satan und Geburah bei Pico auch Wirszubski, Pico's Encounter, S. 188. Auch in seinen Anmerkungen zum Buch Hiob setzt Pico das satanische Prinzip mit der Materie gleich, die allein in der sublunaren Welt"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 3188,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xl"
+   ],
+   "resolved": false,
+   "context": "its source is the Bahir, either directly or indirectly through the quotation in Recanati at fol. 9va. Its location is remarkable: it is inserted between two blocks of theses all of which derive from Recanati seriatim. The source of Conclusio xl, the last of the first block, is Recanati, fol. 65ra. The source of Conclusio xlii, the first of the second block, is Recanati, fol. 75rb. Now, halfway between fols. 65 and 75, Recanati discusses transmigration of souls, old souls, and new souls, and quotes part of the passage of the Bahir"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>41",
+  "11>44",
+  "11>45"
+ ]
+}

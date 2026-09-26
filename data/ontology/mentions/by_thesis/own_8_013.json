@@ -1,0 +1,32 @@
+{
+ "thesis_id": "8>13",
+ "latin": "Per puerum apud interpretes nihil aliud intellige quam intellectum.",
+ "farmer_latin_line": 24960,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1877,
+   "method": "farmer_id",
+   "evidence": [
+    "8>13"
+   ],
+   "context": "S. 156f., und wesentlich Wirszubski, Pico's Encounter, S. 157f., der neben Moses Mai- monides und Menachem Recanati vor allem Levi ben Gerschon fur die Quelle hält. 119 Pico, Conclusio cabalistica..., 28.10. (S. 350). 120 Pico, Conclusio secundum...Zoroastris, 8>13. (S. 490). Hierzu Wirszubski, Pico's Encoun- ter, S. 193. 121 Pico, Conclusio cabalistica..., 28.18. (S. 352). Dazu auch Archangelus, Interpretationes in dogmata, fol. 766."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9845,
+   "method": "latin_quote",
+   "evidence": [
+    "apud interpretes nihil aliud",
+    "per puerum apud interpretes",
+    "puerum apud interpretes nihil"
+   ],
+   "context": "Conclusio xiii: Per puerum apud interpretes nihil aliud in teilige quam intellectual. I do not know in what context puer was used by the interpreters of Zoroaster's sayings. Nevertheless, the chances are that the connecting link"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>10",
+  "8>10",
+  "8>12"
+ ]
+}

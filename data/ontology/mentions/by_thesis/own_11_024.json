@@ -1,0 +1,33 @@
+{
+ "thesis_id": "11>24",
+ "latin": "Per responsionem Cabalistarum ad quaestionem quare in libro numerorum coniuncta est particula mortis Mariae particu/lae uitulae ruffae, et per expositionem eorum super eo passu ubi Moyses, in peccato uituli, dixit: Dele me; et per dicta in libro Zoar super eo textu: Et eius liuore sanati sumus, redarguuntur ineuitabiliter Hebrei dicentes non fuisse conueniens ut mors Christi satisfaceret pro peccato humani generis.",
+ "farmer_latin_line": 26909,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 8291,
+   "method": "latin_quote",
+   "evidence": [
+    "dele me et per",
+    "christi satisfaceret pro peccato",
+    "cabalistarum ad questionem quare",
+    "dicta in libro zoar"
+   ],
+   "context": "Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta est particula mortis Mariae particulae uitulae ruffae, et per expositionem eorum super eo passu ubi Moyses in peccato uituli dixit [Exod. 32:32] Dele me, et per dicta in libro Zoar super eotextu [Isa. 53:5] Et"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8289,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxiv"
+   ],
+   "resolved": true,
+   "context": "nem Cabalistarum6 habemus intelligere quod Deum sanctum et benedic- tum lacerauit Deus pro peccatoribus. Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta est particula mortis Mariae particulae uitulae ruffae, et per"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>38",
+  "8>8"
+ ]
+}

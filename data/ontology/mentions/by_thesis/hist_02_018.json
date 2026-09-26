@@ -1,0 +1,41 @@
+{
+ "thesis_id": "2.18",
+ "latin": "Aeuum est subiectiue in angelo beatiori.",
+ "farmer_latin_line": 11534,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 11147,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 18"
+   ],
+   "context": "to created beings is regarded as defensible, although the second meaning, that is, the authority of creation, which cannot be communicated, is regarded as more reasonable. Pico’s thesis is accurate but perhaps not explicit enough. Thesis 18 states that in an angel, who is more blessed, time should be regarded in a subjective manner.78 In Thomas’s commentary on the Sentences, 2, d. 2, q. 1, a. 2, we find, in argument 5, an echo of this idea. This article dis- cusses ‘whether time is only one’ (Utrum aevum sit tantum unum), and accord-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 11174,
+   "method": "latin_quote",
+   "evidence": [
+    "subiectiue in angelo beatiori",
+    "est subiectiue in angelo",
+    "euum est subiectiue in"
+   ],
+   "context": "chies and orders of angels – which might just be the origin of the notion of an 78 Pico, 900 Theses, p. 224: “Aevum est subiective in angelo beatiori.” 79 Thomas Aquinas, Scriptum super libros Sententiarum, 2, d. 2, q. 1, a. 2: “Praeterea, si men- suretur per unum aevum, hoc non est nisi per aevum quod est mensura esse primi angeli. Sed, ut infra dicitur, angelus qui corruit, inter omnes major fuit. Ergo videtur quod esse"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2>4",
+  "4>28",
+  "5.6",
+  "5>37",
+  "5>38",
+  "5>39",
+  "5>40",
+  "5>46",
+  "6>1",
+  "9>16",
+  "9>17",
+  "9>18"
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "thesis_id": "4>29",
+ "latin": "Rationabilius est credere Origenem esse saluum, quam credere ipsum",
+ "farmer_latin_line": 22051,
+ "mentions": [
+  {
+   "work": "copenhaver2022",
+   "line": 848,
+   "method": "q_number",
+   "evidence": [
+    "Q7"
+   ],
+   "context": "Q1 Hell Q5 Kabbalah Q9 Eucharist Q2 Sin Q6 Eucharist Q10 Eucharist Q3 Worship Q7 Origen Q11 Miracle Q4 Incarnation Q8 Belief Q12 God Q13 Soul14"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 915,
+   "method": "q_number",
+   "evidence": [
+    "Q7"
+   ],
+   "context": "the condemned theses together—except two. Thesis Q5 on Kabbalah, now the most discussed of Pico’s 900 propositions, was utterly unintelligible to his judges in Rome and completely detached from the scholastic philosophizing that informed all the other condemned theses—except one, Q7 on Origen. In the broadest sense, all the theses were disputational in intent, and the pattern of all but Q5 and Q7 is the quaestio form of medieval commentaries, quodlibets and summas. The form of Q5 reﬂects its own exotic content, however, while Q7’s"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 920,
+   "method": "q_number",
+   "evidence": [
+    "Q7"
+   ],
+   "context": "but Q5 and Q7 is the quaestio form of medieval commentaries, quodlibets and summas. The form of Q5 reﬂects its own exotic content, however, while Q7’s format is more like a polemic by Eusebius than a summa by Aquinas, and the content of Q7 is philological. If the whole Apology were like Q7, scholars would now see Pico’s book as foreshadowing the achievements of Erasmus in patristic philology—a humanist undertaking motivated, in part, by historical conscious- ness and realized by historical methods. But Q7 and Q5 are not like the rest of the"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 944,
+   "method": "q_number",
+   "evidence": [
+    "Q7"
+   ],
+   "context": "¹⁶ For an annotated translation of Q7 on Origen see Crouzel (1977); also Terracciano (2012) and Scheck (2016), pp. 21–30; on Eusebius, see Grafton and Williams (2006), pp. 194–208; on Pico’s Kabbalah, Copenhaver (2019a). For Pico’s scholasticism, Edelheit (2008), pp. 279–367, is of great importance; see especially pp. 281–9. Although I agree with Edelheit that Pico wanted to concordize the"
+  },
+  {
+   "work": "copenhaver2022",
+   "line": 13614,
+   "method": "q_number",
+   "evidence": [
+    "Q7"
+   ],
+   "context": "155, 162–3, 178, 206, 223, 239, 243, see also Q6 7n.1, 11–16, 18, 21n.37, 32, 32n.65, 39, medieval philosophy, natural philosophy, 94–5, 145, 165–76, 178, 180, 188, 195, scholastic philosophy 240–1 Phoenicians 46 Q7 13, 15 Pico della Mirandola, Gianfrancesco 5n.4, 239, Q8 13, 25, 105n.20, 110, 132, 200–3, 205, 241, 243 207–8, 210–18, 224–32, 236–7, 240–3 Pico della Mirandola, Giovanni Q9 7n.1, 12–18, 21n.37, 39, 105n.20, 140–1,"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2213,
+   "method": "farmer_id",
+   "evidence": [
+    "4>29"
+   ],
+   "context": "pleases him. (Corollary to 4>18) Erroneous and smacks of heresy. 6. It is more rational to believe that Origen is saved, than to believe that he is damned. (4>29) Imprudent, to be refuted, smacks of heresy, being contrary to the declarations of the Church. 7. There is no science that assures us more of the divinity of Christ"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 2459,
+   "method": "farmer_id",
+   "evidence": [
+    "4>29"
+   ],
+   "context": "For one thing, Pico stretches the mode of disputation to its limits in showing that the exercise of the mind, not petriﬁed conclusions, is the aim of such debates. This was also his strategy in the imputed defense of Origen (4>29). Not only had Origen written before certain dogmas of the Church had been issued,31 he also had expressly disclaimed to pronounce dogmas rather than questions and proposals, so that Pico repeatedly insists on the right to pronounce opinions in an “inquisitive"
+  },
+  {
+   "work": "edelheit2008",
+   "line": 17486,
+   "method": "latin_quote",
+   "evidence": [
+    "esse saluum quam credere",
+    "saluum quam credere ipsum"
+   ],
+   "context": "sunt.” Samson and Solomon had their shortcomings, but at least they belong to the People of God. I do not know what Trajan is doing here. 144 Ibid., p. 218: “… ut non solum secundum Ruﬁnum, Pamphilum, et Eusebium, sed etiam secundum Hieronymum rationabilius sit credere, ipsum esse salvum, quam credere ipsum esse damnatum.” 145 Ibid.: “Pro quinto articulo dico, hanc propositionem, quantumcunque aliquis graviter in vita mortaliter peccet, et constet ipsum mortaliter peccasse, nisi constet de"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>4",
+  "2>4"
+ ]
+}

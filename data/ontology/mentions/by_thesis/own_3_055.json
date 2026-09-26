@@ -1,0 +1,74 @@
+{
+ "thesis_id": "3>55",
+ "latin": "Qui ordinem hebraicae linguae profunde et radicaliter tenuerit, atque illum proportionabiliter in scientiis seruare nouerit, cuiuscunque scibilis perfecte inueniendi_normam et regulam habebit.",
+ "farmer_latin_line": 21095,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 20319,
+   "method": "farmer_id",
+   "evidence": [
+    "3>55"
+   ],
+   "context": "dall'altro l'impurità. I cabbalisti gli hanno insegnato a distingue- \" Ibid., p. 414, n. 3>55' «Qui ordinem hebraicae linguae profunde et radicaliter te­ nuerit, atque illum proportionabiliter in scientiis servare noverit, cuiuscunque scibilis per­ fecte inveniendi normam et regulam habebit>>. \" Ibid., p. 358, n. 28.3y << Nullae sunt litterae in tota lege guae in formis, coniunctioni­"
+  },
+  {
+   "work": "busi2014",
+   "line": 26613,
+   "method": "farmer_id",
+   "evidence": [
+    "3>55"
+   ],
+   "context": "1479. 25' 1 1 5 28. 35' 213 1503, 8-I I : 289 3>43' 273 Commentarii in Somnium Scipionis (Macrobio) 3>52: XXVI Il, 3, r: 184 3>55= 305 II, 3, 2: r85 5>3: 304 Commentariorum urbanorum . . . octo et tri­ 5>6: r6, 27 ginta libri 5>9: 136, 149, r69, 320"
+  },
+  {
+   "work": "busi2014",
+   "line": 20319,
+   "method": "latin_quote",
+   "evidence": [
+    "in scientiis seruare nouerit",
+    "illum proportionabiliter in scientiis",
+    "atque illum proportionabiliter in",
+    "normam et regulam habebit"
+   ],
+   "context": "dall'altro l'impurità. I cabbalisti gli hanno insegnato a distingue- \" Ibid., p. 414, n. 3>55' «Qui ordinem hebraicae linguae profunde et radicaliter te­ nuerit, atque illum proportionabiliter in scientiis servare noverit, cuiuscunque scibilis per­ fecte inveniendi normam et regulam habebit>>. \" Ibid., p. 358, n. 28.3y << Nullae sunt litterae in tota lege guae in formis, coniunctioni­"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 2240,
+   "method": "farmer_id",
+   "evidence": [
+    "3>55"
+   ],
+   "context": "nische Übersetzung des von Abulafia verfaßten Sendschreibens an Rabbi Yehuda. Fabrizio Lelli, Yohanan Alemanno, S. 315-317, weist zusätzlich daraufhin, daß die Deutung Abulafias und der übrigen hier relevanten Autoren durch Yohanan Alemanno vermittelt sein könnte. 141 Pico, Conclusio paradoxa..., 3>55. (S. 314). 142 Zur hier anwesenden Idee einer >Cabala practica< und zur Idee der >Kawwanah<, Wirszub- ski, Pico's Encounter, S. 140-144, S. 147f."
+  },
+  {
+   "work": "mandosio2012",
+   "line": 474,
+   "method": "latin_quote",
+   "evidence": [
+    "scibilis perfecte inueniendi normam",
+    "perfecte inueniendi normam et",
+    "in scientiis seruare nouerit",
+    "normam et regulam habebit"
+   ],
+   "context": "63 Ibid., p. 358 (Conclusiones cabalisticæ . . . secundum secretam doctrinam sapientum Hebræorum cabalistarum, 33): ‘Nullæ sunt litteræ in tota lege quæ in formis, conjunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate, majoritate, coronatione, clausura, apertura, et ordine, decem numerationum secreta non manifestent.’ 64 Ibid., p. 414 (Concl. paradox., 55): ‘Qui ordinem Hebraicæ linguæ profunde et radicaliter tenuerit, atque illum proportionaliter in scientiis servare noverit, cujuscunque scibilis perfecte inveniendi normam et regulam habebit.’ 65 Ibid., p. 500 (Concl. mag., 22): ‘Nulla nomina ut signiﬁcativa . . . in magico opere virtutem habere pos"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 9650,
+   "method": "latin_quote",
+   "evidence": [
+    "scibilis perfecte inueniendi normam",
+    "perfecte inueniendi normam et",
+    "in scientiis seruare nouerit",
+    "normam et regulam habebit"
+   ],
+   "context": "Unless I am mistaken, Kabbala was also in Pico's mind when he wrote the fifty-fifth thesis of the Conclusiones paradoxae: Qui ordinem Hebraicae linguae profunde et radicaliter tenuerit, atque ilium proportionabiliter in scientiis seruare nouerit, cuiuscunque scibilis perfecte inueniendi normam et regulam habebit.\""
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>2",
+  "3>56"
+ ]
+}

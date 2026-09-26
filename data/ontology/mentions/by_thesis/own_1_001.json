@@ -1,0 +1,38 @@
+{
+ "thesis_id": "1>1",
+ "latin": "Nullum est quaesitum naturale aut diuinumin quo Aristoteles et Plato sensu et re non conueniant, quamuis uerbis dissentire uideantur.",
+ "farmer_latin_line": 18502,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 9005,
+   "method": "farmer_id",
+   "evidence": [
+    "1>1"
+   ],
+   "context": "4 Pico announces this theme in the Oration and in the ﬁrst of the 900 theses according to his own opinion: “There is no natural or divine question in which Aristotle and Plato do not agree in meaning and substance, although in their words they seem to disagree” (1>1) (Conclusions, 365). For a sustained argument against any single framework of interpretation for Pico, see William G. Craven, Giovanni Pico della Mirandola: Symbol of His Age: Modern Interpretations of a Renaissance Philosopher (Geneva: Libraire Droz, 1981). 5 Dulles, Princeps Concordiae, 131. Unlike the highly polished rhetorical character of the"
+  },
+  {
+   "work": "howlett2021",
+   "line": 4209,
+   "method": "latin_quote",
+   "evidence": [
+    "sensu et re non",
+    "nullum est quesitum naturale",
+    "quamuis uerbis dissentire uideantur",
+    "et plato sensu et"
+   ],
+   "context": "and thirdly, by reinterpreting one tradition through another (1998, 59– 61). 118. Borghesi (2010, 221). 119. Pico, Conclusions (1998, 364–65, 1 > 1): ‘Nullum est quaesitum natu- rale aut diuinum_in quo Aristoteles et Plato sensu et re non conueniant, quamuis uerbis dissentire uideantur.’ 120. Safa (2001, 220)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>63",
+  "2>40",
+  "2>42",
+  "3>28",
+  "3>45",
+  "3>48",
+  "5>42",
+  "7>5"
+ ]
+}

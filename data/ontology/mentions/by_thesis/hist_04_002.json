@@ -1,0 +1,31 @@
+{
+ "thesis_id": "4.2",
+ "latin": "Idea lapidis non est aliud quam lapis productus a diuino intellectu in esse intelligibili, quod est esse secundum quid, existens in mente diuina sicut cognitum in cognoscente.",
+ "farmer_latin_line": 12144,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13758,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 2"
+   ],
+   "context": "Spirit moves towards loving as it moves towards believing and hoping, through an intermediate habit which is different from that through which it inhabits it.6 Pico’s remark might be said to reflect quite accurately Scotus’s idea. Thesis 2 takes us to the process of divine intellection. We find there that the idea of a stone is nothing but the production of a stone by the divine intel- lect on an intelligible level of existence. It exists in the divine mind just as something known (cognitum) exists in the mind of someone who knows it (in"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13787,
+   "method": "latin_quote",
+   "evidence": [
+    "est esse secundum quid",
+    "idea lapidis non est",
+    "sicut cognitum in cognoscente",
+    "lapidis non est aliud"
+   ],
+   "context": "tinctione 26); saltem caritas non videtur esse alius habitus realiter ab illo per quem Spiritus Sanctus inhabitat animam, et ita non sic Spiritus Sanctus per habitum ‘medium’ – supple ‘alium ab illo quo inhabitat’ – movet ad diligere sicut movet ad credere et sperare.” 7 Pico, 900 Theses, p. 236: “Idea lapidis non est aliud quam lapis productus a divino intellectu in esse intelligibili, quod est esse secundum quid, existens in mente divina sicut cognitum in cognoscente.”"
+  }
+ ],
+ "farmer_crossrefs": [
+  "3.5"
+ ]
+}

@@ -115,20 +115,32 @@ has not passed G2."
 | Status-file sprawl (25+ root files, contradictory) | one `HANDOVER.md`, one `PROGRESS` derived from the ledger; dated reports go to `docs/archive/` |
 | Model-voice examples that read as real quotations | prohibition 6 |
 
-## The first job: RESEARCHER phase 0 (inventory derivation)
+## The pipeline (v2.1, 2026-09-25): deterministic research, then agents
 
-Before any agent writes, the inventory must be derived directly from Farmer's Markdown. This is a
-RESEARCHER job, not a WRITER job (no synthesis, no interpretation, just transcription and line-number
-recording).
+Everything an agent writes from is produced by scripts that read the sources; no model decides what a
+scholar "discusses". Run in this order after any change to the corpus or the parser:
 
-**Input:** `E:\pdf\renaissance magic\Pico\Markdown\Stephen_A_Farmer_Syncretism_in_the_West__Pico_900_Theses_1486_pdf_c99b971b.md` (the whole edition)
+```
+python scripts/build_corpus_registry.py    # data/corpus/registry.json: one entry per work, locator file, role
+python scripts/extract_farmer_theses.py    # data/inventory/theses.json: the 900 from Farmer's OCR (gate G0)
+python scripts/harvest_mentions.py         # data/ontology/mentions/**, stats.json, MENTION_STATS.md, connections/
+python scripts/build_dossiers.py           # research-packets/<slug>.md (+INDEX.md, translation-sheets/), data/ontology/theses.json
+```
 
-**Output:** `data/inventory/theses.json` (900 theses with Farmer line numbers, Latin, tier stubs)
+| stage | what it establishes | how it is checked |
+|---|---|---|
+| inventory | id, Latin, Farmer line, 1486/1487 apparatus, folio, Farmer's English line (pointer), note lines | count = 900 per section; Farmer's marginal cumulative numbers (149 of them) must agree with the derived order; ids inferred from sequence are listed in `extract_report.json` |
+| harvest | every place a work cites or quotes a thesis: explicit ids (`4>13`), Copenhaver's `Q4`, Edelheit's "thesis 6" by chapter, Wirszubski's `Conclusio xxiii`, and verbatim Latin (normalised 4-word shingles) | each mention carries `work:line`, the evidence string and a context window; statistics per thesis/work are computed, never written |
+| packets | one file per thesis: text, apparatus, Farmer's note excerpts and cross-references, all mentions with context, gazetteer counts, suggested tier | a packet contains nothing without a locator |
 
-**Script:** `python scripts/extract_farmer_theses.py`
+**Roles on top of the pipeline.** *TRANSLATOR* (a WRITER restricted to tier-D fields) works from
+`research-packets/translation-sheets/T*.md`, one block per agent, and never touches a tier-A thesis.
+*WRITER* works from one packet per thesis and writes `entries/<slug>.draft.json` (`docs/ENTRY_FORMAT.md`).
+*VERIFIER* runs `python scripts/entry_gate.py` first (locators exist, quotations verbatim, translation not
+Farmer's), then re-reads every quoted or dated claim at its locator, then promotes `draft` to `entries/<slug>.json`.
+Tiers are suggested by statistics (`data/ontology/theses.json`: A condemned or >=3 works, B >=1, C Farmer only,
+D Latin only) and may be overridden by Ted there.
 
-**Gate G0:** entry count == 900; no duplicate thesis_ids; sections match `data/inventory/farmer_structure.json`
-
-**Why this matters:** v1 minted entries to reach a target count (929) without consulting the source. Farmer says 900.
-The inventory is the contract: every WRITER entry corresponds to exactly one row in the inventory, and every row
-carries the Farmer line number so a VERIFIER can re-derive or spot-check it without needing a human working document.
+**Why the inventory is the contract.** v1 minted entries to reach a target count (929) without consulting the
+source. Farmer prints 900; the parser finds 900 and proves the order against Farmer's own running count. Every entry
+corresponds to one row, and every row carries the Farmer line so a VERIFIER can re-derive it.

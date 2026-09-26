@@ -1,0 +1,23 @@
+{
+ "thesis_id": "2>16",
+ "latin": "Tractatus suppositionum ad logicum non pertinet.",
+ "farmer_latin_line": 19092,
+ "mentions": [
+  {
+   "work": "copenhaver2022",
+   "line": 4968,
+   "method": "latin_quote",
+   "evidence": [
+    "suppositionum ad logicum non",
+    "tractatus suppositionum ad logicum"
+   ],
+   "context": "theory: treatises on suppositions don’t belong to logic (tractatus suppositionum ad logicum non pertinent). When Peter of Spain divided his textbook—the standard introduction to logic—"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2>17",
+  "2>18",
+  "2>60",
+  "4>10"
+ ]
+}

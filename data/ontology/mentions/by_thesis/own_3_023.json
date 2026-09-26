@@ -1,0 +1,32 @@
+{
+ "thesis_id": "3>23",
+ "latin": "Sicut formae substantiales in secundo mundo sunt per modum accidentium, ita formae accidentales sunt in primo mundo per modum substantiarum.",
+ "farmer_latin_line": 20561,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1768,
+   "method": "farmer_id",
+   "evidence": [
+    "3>23"
+   ],
+   "context": "paradoxa..., 3>61. (S. 418). Hierzu auch Roulier, Jean Pic de la Mirandole, S. 359-363, und Farmer, Syncretism in the West, S. 112-114, wenn auch ohne die von uns gezogenen Schlußfolgerungen. 114 Pico, Conclusiones paradoxae..., 3>23. (S. 404): Sicut formae substantiates in secundo mundo sunt per modum accidentium, ita formae accidentales sunt in primo mundo per modum substantiarum. Sicut in primo mundo non est album, sed albedo, ita in secundo mundo non est ignis, sed igneum. 3>35. (S. 408), Conclusio... in doctrina Piatonis, 5>26."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1768,
+   "method": "latin_quote",
+   "evidence": [
+    "sunt in primo mundo",
+    "accidentales sunt in primo",
+    "primo mundo per modum",
+    "ita forme accidentales sunt"
+   ],
+   "context": "paradoxa..., 3>61. (S. 418). Hierzu auch Roulier, Jean Pic de la Mirandole, S. 359-363, und Farmer, Syncretism in the West, S. 112-114, wenn auch ohne die von uns gezogenen Schlußfolgerungen. 114 Pico, Conclusiones paradoxae..., 3>23. (S. 404): Sicut formae substantiates in secundo mundo sunt per modum accidentium, ita formae accidentales sunt in primo mundo per modum substantiarum. Sicut in primo mundo non est album, sed albedo, ita in secundo mundo non est ignis, sed igneum. 3>35. (S. 408), Conclusio... in doctrina Piatonis, 5>26."
+  }
+ ],
+ "farmer_crossrefs": [
+  "3>24",
+  "4>4"
+ ]
+}

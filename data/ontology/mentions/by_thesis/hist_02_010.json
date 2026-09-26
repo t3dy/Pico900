@@ -1,0 +1,55 @@
+{
+ "thesis_id": "2.10",
+ "latin": "Potuerunt tres personae diuinae simul suppositare unam naturam.",
+ "farmer_latin_line": 11412,
+ "mentions": [
+  {
+   "work": "copenhaver2022",
+   "line": 5494,
+   "method": "latin_quote",
+   "evidence": [
+    "potuerunt tres persone diuine",
+    "diuine simul suppositare unam",
+    "persone diuine simul suppositare",
+    "tres persone diuine simul"
+   ],
+   "context": "The three divine persons together could have supposited a single nature. Potuerunt tres personae divinae simul suppositare unam naturam.²¹ Everyone agreed that there are three supposits in the Trinity, not one just one—a single supposit for each divine person. One supposit belongs to the second person,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10573,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 10"
+   ],
+   "context": "different terminology (opus ab anima … elicitum) but overall his thesis is accu- rate, by which we mean that he must have been familiar with this conceptual background. And in this case there is no disagreement with Ockham.34 Thesis 10 brings us again to Trinitarian theology and speculations. We find there that the three divine Persons can at once assume one nature.35 It can be found in Thomas’s Summa contra gentiles, 4, 39, n. 3, where the nature of hypostatic union and union in supposit in Christ are discussed. Thomas deals"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10604,
+   "method": "latin_quote",
+   "evidence": [
+    "potuerunt tres persone diuine",
+    "diuine simul suppositare unam",
+    "persone diuine simul suppositare",
+    "tres persone diuine simul"
+   ],
+   "context": "and commutative justice ( justitia commutativa). 34 William Ockham, Quaestiones variae: notabilia, dubitationes et determinationes, q. 6, a. 11: “Sed de condigno non potest aliquis mereri gratiam vel gloriam sine caritate.” 35 Pico, 900 Theses, p. 222: “Potuerunt tres personae divinae simul suppositare unam naturam.” ## Page 234"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.20",
+  "2.32",
+  "2.34",
+  "2.8",
+  "20.11",
+  "20.8",
+  "20.9",
+  "25.8",
+  "4.10",
+  "4.13",
+  "5.10",
+  "5.8",
+  "7a>70"
+ ]
+}

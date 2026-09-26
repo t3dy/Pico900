@@ -1,0 +1,33 @@
+{
+ "thesis_id": "4.9",
+ "latin": "In Christo non fuit scientia acquisita.",
+ "farmer_latin_line": 12246,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14286,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 9"
+   ],
+   "context": "only ‘a being’ virtually contains in itself everything intelligible found in its infe- riors and this is why it is the first object of our intellect.45 Obviously this is the source and context of Pico’s thesis. Thesis 9 states that in Christ there was no acquired knowledge.46 Scotus dis- cusses this issue in Ordinatio 3, d. 14, q. 3, entitled ‘whether Christ’s soul knew everything in its particular genus’ (Utrum anima Christi novit omnia in genere proprio).47 In the beginning of the exposition of the first opinion we find a"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14314,
+   "method": "latin_quote",
+   "evidence": [
+    "in christo non fuit",
+    "christo non fuit scientia",
+    "non fuit scientia acquisita"
+   ],
+   "context": "eorum, ut veritas et bonitas et unitas et huiusmodi. Nihil ergo est quod virtualiter in se vel in suis inferioribus continet omne intelligibile nisi ipsum ens; et ideo ipsum erit primum obiectum intellectus nostri.” 46 Pico, 900 Theses, p. 238: “In Christo non fuit scientia acquisita.” 47 John Duns Scotus, Lectura 3, d. 14, q. 3, in Opera omnia, vol. 9, pp. 459–474. This is indi- cated by Farmer in Pico, 900 Theses, p. 239. 48 Ibid., p. 461: “Hic distinguitur de cognitione infusa et acquisita. Et dicitur quod quantum"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.10",
+  "2.15",
+  "2.34",
+  "2.8"
+ ]
+}

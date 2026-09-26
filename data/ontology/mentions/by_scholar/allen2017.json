@@ -1,0 +1,56 @@
+{
+ "work": "allen2017",
+ "meta": {
+  "author": "Michael J. B. Allen",
+  "title": "Studies in the Platonism of Marsilio Ficino and Giovanni Pico",
+  "year": 2017,
+  "kind": "collection",
+  "role": null,
+  "path": "E:\\pdf\\renaissance magic\\Pico\\Markdown\\Allen_MichaelJ_B_Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_Pico_Routledge_pdf_8084ac74.md",
+  "locator_unit": "markdown line",
+  "plain_text_twin": "E:\\pdf\\renaissance magic\\Pico\\plain_text_drafts\\Allen MichaelJ B Studies in the Platonism of Marsilio Ficino and Giovanni Pico Routledge.txt",
+  "word_count": 158747,
+  "source_file": "Allen MichaelJ B Studies in the Platonism of Marsilio Ficino and Giovanni Pico Routledge.pdf"
+ },
+ "n_mentions": 3,
+ "n_theses": 3,
+ "mentions": [
+  {
+   "work": "allen2017",
+   "line": 1680,
+   "method": "latin_quote",
+   "evidence": [
+    "intelligit actu et distincte",
+    "et distincte anima nisi",
+    "nihil intelligit actu et",
+    "actu et distincte anima"
+   ],
+   "context": "## Page 46 42 Opera, p. 92. We should align this with the thirteenth of the theses–No. 60 of the same Conclusiones paradoxae that the commission set up by Innocent VIII found objectionable in various ways: «Nihil intelligit actu et distincte anima nisi seipsam» (Opera, p. 92). Pico defended this in his Apologia by way of substituting two more propositions (Opera, pp. 235, 240 – nos. 45 and 46), though his chief opponent, Pedro Garsias, traced both of them back to Averroes. See DULLES, Princeps Concordiae cit., pp. 138–143 (with the claim that the defence of this",
+   "thesis_id": "3>60"
+  },
+  {
+   "work": "allen2017",
+   "line": 2687,
+   "method": "latin_quote",
+   "evidence": [
+    "numerus planus equilaterus animam",
+    "planus equilaterus animam symbolizat",
+    "quilibet numerus planus equilaterus"
+   ],
+   "context": "and mobile circumference” as in heaven and the elements, or in the “individual lines” that mediate between them, beginning at the center as undivided and motionless but gradually becoming divided and “mutable” as they approach the circumference. In these lines are the souls and minds. Cf. Pico della Mirandola, Cottclusiones DCCCC, Conclusiones secundum mathematicam Pythagorae, nos. 13 (“Quilibet numerus planus aequilaterus animam symbolizat”) and 14 (“Quilibet numerus linearis symbolizat deos”), in his Opera Omnia (Basel, 1572), p. 79. 30. Cf. Ficino’s Timaeus commentary 22 (Opera, p. 1449.3): “Quattuor apud mathematicum: signum, linea, planum",
+   "thesis_id": "25.13"
+  },
+  {
+   "work": "allen2017",
+   "line": 2688,
+   "method": "latin_quote",
+   "evidence": [
+    "quilibet numerus linearis",
+    "numerus linearis symbolizat",
+    "linearis symbolizat deos"
+   ],
+   "context": "beginning at the center as undivided and motionless but gradually becoming divided and “mutable” as they approach the circumference. In these lines are the souls and minds. Cf. Pico della Mirandola, Cottclusiones DCCCC, Conclusiones secundum mathematicam Pythagorae, nos. 13 (“Quilibet numerus planus aequilaterus animam symbolizat”) and 14 (“Quilibet numerus linearis symbolizat deos”), in his Opera Omnia (Basel, 1572), p. 79. 30. Cf. Ficino’s Timaeus commentary 22 (Opera, p. 1449.3): “Quattuor apud mathematicum: signum, linea, planum atque profundum.”",
+   "thesis_id": "25.14"
+  }
+ ]
+}

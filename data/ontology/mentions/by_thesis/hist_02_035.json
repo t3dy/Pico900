@@ -1,0 +1,50 @@
+{
+ "thesis_id": "2.35",
+ "latin": "Haec propositio: Homo est risibilis, non est in secundo modo / dicendi per se.",
+ "farmer_latin_line": 11773,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12367,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 35"
+   ],
+   "context": "should be regarded as its subject.167 Between the Summa and the commentary to the Sentences we could trace Pico’s thesis and to some extent reconstruct its argumentative context. Thesis 35 states that the proposition: ‘human being is capable of laughter’ is not in the second mode of speaking per se.168 In Thomas’s commentary on Aristotle’s Posterior Analytics, Book 1, Lect. 8, n. 8, we find that this proposi- tion is used as an example for a circular demonstration, where we have three"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12389,
+   "method": "latin_quote",
+   "evidence": [
+    "in secundo modo dicendi",
+    "non est in secundo",
+    "hec propositio homo est",
+    "risibilis non est in"
+   ],
+   "context": "alterum. Uti autem actus voluntatis est secundum Augustinum; sed non absolute secun- dum quod voluntas est finis, sed secundum quod praesupponit collationem rationis ordi- nantis ad alterum. Et ideo in voluntate hoc modo accepta, est justitia sicut in subjecto.” 168 Pico, 900 Theses, p. 228: “Haec propositio: Homo est risibilis, non est in secundo modo dicendi per se.” 169 Thomas Aquinas, Expositio Posteriorum Analyticorum, Lib. 1, Lect. 8, n. 8 (I am using the text online from the Corpus Thomisticum website): “Et ita se habentibus terminis, con-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12429,
+   "method": "latin_quote",
+   "evidence": [
+    "in secundo modo dicendi",
+    "non est in secundo",
+    "est in secundo modo",
+    "secundo modo dicendi per"
+   ],
+   "context": "mortale est risibile. Minor sic: omne risibile est animal rationale mortale; omnis homo est risibilis; ergo omnis homo est animal rationale mortale.” 170 Francis of Marchia, Quaestiones praeambulae in IV libros Sententiarum secundum redac- tionem A, 4, q. 1, a. 1: “Et quod plus est, conclusio in secundo modo dicendi per se non sequitur per se ex premissis absolutis per se quocumque modo, gracia forme, set tantum gracia materia, per accidens. Probacio: quia conclusio, que sequitur ex premissis gracia forme, sequitur in omni materia, retenta illa forma; set ex istis premissis, secundum istam"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.24",
+  "2.37",
+  "2>36",
+  "2>37",
+  "4.18",
+  "6.11",
+  "7.12",
+  "7a>44"
+ ]
+}

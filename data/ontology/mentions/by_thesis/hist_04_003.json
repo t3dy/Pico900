@@ -1,0 +1,44 @@
+{
+ "thesis_id": "4.3",
+ "latin": "Qui dixerit personas in diuinis absolutis proprietatibus distingui, catholicae ueritati non repugnabit.",
+ "farmer_latin_line": 12149,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 13850,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 3"
+   ],
+   "context": "behind Pico’s thesis which offers us only a glimpse into the complexities and difficulties involved in this issue. It must be pointed out that in Pico (see n. 7) God is in some way the creator of this idea lapidis in our minds. In thesis 3 we find that arguing that the three Persons in the Trinity are distinguished in divine absolute properties is not against the Catholic truth.13 Distinctions between the Persons in the Trinity are among the issues discussed by Scotus in Ordinatio 1, d. 8, pars 1, q. 4, where the tension between divine sim-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13910,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 3"
+   ],
+   "context": "world cannot grasp the books’ etc. Yet logically speaking, it is clear that this issue is not regarded negatively by authority.18 This passage contains in fact the two parts of thesis 3, and it is also crucial for understanding one of Pico’s main lines of argumentation in the Apology. It clearly implies that although the view that the Persons in the Trinity are dis- tinguished by absolute individual characters is not supported by an authority,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 13874,
+   "method": "latin_quote",
+   "evidence": [
+    "in diuinis absolutis proprietatibus",
+    "personas in diuinis absolutis",
+    "absolutis proprietatibus distingui catholice",
+    "catholice ueritati non repugnabit"
+   ],
+   "context": "sicut declaratum fuit distinctione 30 quod nulla relatio potest esse nova in Deo per actum intellectus divini.” And see the discussion of ‘ideas’ with references to Augustine on pp. 262–264. 13 Pico, 900 Theses, p. 236: “Qui dixerit personas in divinis absolutis proprietatibus distingui, catholicae veritati non repugnabit.” 14 John Duns Scotus, Ordinatio 1, d. 8, pars 1, q. 4, in Opera omnia, vol. 4 (Vatican City, 1956), pp. 230–277. This is indicated by Farmer in Pico, 900 Theses, p. 237."
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>2",
+  "1>5",
+  "2.16",
+  "2>25",
+  "3.7"
+ ]
+}

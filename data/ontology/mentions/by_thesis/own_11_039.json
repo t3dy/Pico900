@@ -1,0 +1,46 @@
+{
+ "thesis_id": "11>39",
+ "latin": "Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus lesus quis esset, rectissime respondit, dicens: Ego sum principium qui loquor uobis.",
+ "farmer_latin_line": 27226,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 8572,
+   "method": "latin_quote",
+   "evidence": [
+    "posita sequitur quod quilibet",
+    "principium qui loquor uobis",
+    "superius posita sequitur quod",
+    "sum principium qui loquor"
+   ],
+   "context": "Conclusio xxxix: Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus Iesus quis esset rectissime respondit dicens [John 8:25] Ego sum principium qui loquor uobis."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8868,
+   "method": "latin_quote",
+   "evidence": [
+    "ego sum principium qui",
+    "principium qui loquor uobis",
+    "sum principium qui loquor"
+   ],
+   "context": "We have seen in the previous chapter that \"Principium\" and \"Sapientia\" are interchangeable symbols. Hence, insofar as Deifilius est sapientia patris, Jesus could say of himself Ego sum principium qui loquor vobis. On the other hand, in his twentieth Kabbalistic thesis secundum opinionem propriam Pico argues:"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 8570,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "Conclusio xxxix"
+   ],
+   "resolved": true,
+   "context": "made easy not only by the seventh and sixty-first theses but also by the thirty-ninth: Conclusio xxxix: Ex hac conclusione et trigesima superius posita sequitur quod quilibet Cabalista habet concedere quod interrogatus Iesus quis esset rectissime"
+  }
+ ],
+ "farmer_crossrefs": [
+  "11>40",
+  "11>41",
+  "11>44",
+  "11>45"
+ ]
+}

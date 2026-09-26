@@ -1,0 +1,56 @@
+{
+ "thesis_id": "1.8",
+ "latin": "Lumen non habet in medio nisi esse intentionale.",
+ "farmer_latin_line": 11047,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 9488,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Theses 7–10"
+   ],
+   "context": "And yet Albert’s emphasis, in Chapter 13 for instance, on self-understanding of the intellect as the only activity which connects the intellect, while being in the body, to the intelligible realm, is not found in Pico.47 Theses 7–10 focus on sense perception. In thesis 7 we find that sound, accord- ing to its real existence, is brought to the beginning of the nerve responsible for hearing.48 This thesis in, of course, related to thesis 9 which is again about sound and hearing, but strangely enough, Pico placed between these two a the-"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9579,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 7 and 9"
+   ],
+   "context": "Pico and Albert the Great 201 it moves the audible nerve.54 Thus, Pico in both theses dedicated to the sense of hearing – theses 7 and 9 – accurately reflects Albert’s views, although he uses a slightly different terminology. Thesis 8 states that light in a medium has only intentional existence.55 Albert discusses the nature of light and sight, col- our, medium and intention, in his commentary on De anima, Book 2, Tract. 3,"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10159,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 7–10"
+   ],
+   "context": "Pico and Albert the Great 213 Albert’s comments. It is hard to tell though why Pico has chosen to dedicate several theses, for instance theses 7–10, to some very standard and rather lim- ited accounts of sense perception, and how this is related to his overall project of the 900 theses. It is also difficult to find a clear rationale behind the order in which Pico"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 9611,
+   "method": "latin_quote",
+   "evidence": [
+    "in medio nisi esse",
+    "non habet in medio",
+    "lumen non habet in",
+    "habet in medio nisi"
+   ],
+   "context": "voco nervum auditivum, qui expanditur in interiori auris, qui quando pulsatur ab aere, qui est in aure, fit auditus; aer enim, qui est in aure, continuus est aeri exteriori, et ideo ab exteriori moto aere movetur interior auris. Et ille movet nervum auditivum …” 55 Pico, 900 Theses, p. 214: “Lumen non habet in medio nisi esse intentionale.” 56 Albert the Great, Opera omnia (Cologne Edition), vol. 7/1, pp. 108–121. But see also Albert’s extensive discussion of sight, light, medium, colours and related concepts in De homine: Albert the Great, Opera omnia (Cologne Edition), vol. 27/2, pp. 145–202."
+  }
+ ],
+ "farmer_crossrefs": [
+  "1.7",
+  "2.6",
+  "2.7",
+  "2>76",
+  "8.10",
+  "8.11",
+  "8.9",
+  "9.9"
+ ]
+}

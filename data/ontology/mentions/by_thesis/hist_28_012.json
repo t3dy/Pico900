@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.12",
+ "latin": "Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexerimus.",
+ "farmer_latin_line": 17737,
+ "mentions": [
+  {
+   "work": "wirszubski1989",
+   "line": 1786,
+   "method": "latin_quote",
+   "evidence": [
+    "fato si per fatum",
+    "omnia pendere ex fato",
+    "ex fato si per",
+    "erit omnia pendere ex"
+   ],
+   "context": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe- rimus. The source of this thesis can be either of two remarkably similar texts. One"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 1783,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XII"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XII Verum erit omnia pendere ex fato, si per fatum, fatum supremum intellexe-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>20",
+  "10>21",
+  "11>37",
+  "11>68",
+  "11>69",
+  "24.2"
+ ]
+}

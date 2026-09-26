@@ -1,0 +1,40 @@
+{
+ "thesis_id": "2.11",
+ "latin": "Virtutes morales et cardinales remanebunt in patria post resurrectionem.",
+ "farmer_latin_line": 11415,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 10624,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 11"
+   ],
+   "context": "is much more elaborate than the statement found in Pico; that said, the latter’s thesis is clearly adequate in relation to what we have found in Thomas and surely reflects his familiarity with this topic. Moral and cardinal virtues are at the centre of thesis 11. It states that moral and cardinal virtues remain in patria after resurrection.38 This is discussed by Thomas in his commentary on the Sentences, 3, d. 34, q. 1, a. 3, in the response to argument 6. Aiming at supporting the contrary position, Thomas argues"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 10648,
+   "method": "latin_quote",
+   "evidence": [
+    "morales et cardinales remanebunt",
+    "uirtutes morales et cardinales",
+    "cardinales remanebunt in patria",
+    "in patria post resurrectionem"
+   ],
+   "context": "Dico autem unitatem singularis naturae, si assumeretur unum corpus et una anima ei unita, ex quorum unione una humanitas resultaret, ut sic tres personae in una natura assumpta convenirent sicut conveniunt in natura aeterna.” 38 Pico, 900 Theses, p. 222: “Virtutes morales et cardinales remanebunt in patria post resurrectionem.” 39 Thomas Aquinas, Scriptum super Sententiis, 3, d. 34, q. 1, a. 3 [87]: “Dona omnia, ut dic- tum est, tollunt imperfectionem quae est in virtutibus quantum ad modum operandi. Sed"
+  }
+ ],
+ "farmer_crossrefs": [
+  "2.34",
+  "20.11",
+  "20.8",
+  "20.9",
+  "25.8",
+  "2>2",
+  "4.10",
+  "5.10",
+  "5.8",
+  "7a>70"
+ ]
+}

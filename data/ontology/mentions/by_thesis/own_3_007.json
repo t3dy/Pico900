@@ -1,0 +1,58 @@
+{
+ "thesis_id": "3>7",
+ "latin": "Sicut deus est simpliciter cognitio totius esse, ita intellectus est diffinitio",
+ "farmer_latin_line": 20341,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1653,
+   "method": "farmer_id",
+   "evidence": [
+    "3>7"
+   ],
+   "context": "des Nikolaus von Kues hingewiesen. 99 Zur Entfaltung der Erkenntnis z.B. Pico, Conclusio...Chaldaeorum, 26.4. (S. 338), Conclusiones philosophicae..., 2>5., 2>6. (S. 374), Conclusio...hymnos Orphei 10>26. (S. 514), dazu zur Definition Conclusio paradoxa..., 3>7. (S. 400): Sicutdeus estsimpli- citer cognitio totius esse, ita intellectus est diffinitio totius esse, et anima scientia totius esse. 100 Pico, Conclusiones paradoxae..., 3>2., 3<7. (S. 400)."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1693,
+   "method": "farmer_id",
+   "evidence": [
+    "3>7"
+   ],
+   "context": "101 Pico, Conclusiones paradoxae..., 3>7. (S. 400), zusammen mit 3>40. (S. 410). 102 Pico, Conclusiones paradoxae..., 3>60. (S. 418): Nihil intellegit actu et distincte anima, nisi se ipsam., 3>61.: Tota substantia animae rationalis est pars intellectualis., 3>66.: Potest anima per extrinsecam informationem ad hoc devenire, ut omnia per substantialem"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1710,
+   "method": "farmer_id",
+   "evidence": [
+    "3>7"
+   ],
+   "context": "106 Pico, Conclusio paradoxa..., 3>22. (S. 404): Nemo miretur quodAnaxagoras intellectum appellaverit immixtum, cum sit maxime mixtus, quia maxima mixtio coincidit cum maxima simplicitate in natura intellectuali. 107 Pico, Conclusiones paradoxae..., 3>7. (S. 400), 3>36. (S. 408): Sicut intellectus dei uni- tatem multiplicat, ita anima intellectus multitudinem quantiftcat et extendit. Auch die Sefirot selbst lassen sich fur Pico als mitgeteilte und gedachte Einheit Gottes jenseits seiner absoluten Einheit auslegen, wie schon Massetani, La filosofia cabbalistica, S. 111-123,"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1654,
+   "method": "latin_quote",
+   "evidence": [
+    "ita intellectus est diffinitio",
+    "esse ita intellectus est",
+    "cognitio totius esse ita",
+    "totius esse ita intellectus"
+   ],
+   "context": "99 Zur Entfaltung der Erkenntnis z.B. Pico, Conclusio...Chaldaeorum, 26.4. (S. 338), Conclusiones philosophicae..., 2>5., 2>6. (S. 374), Conclusio...hymnos Orphei 10>26. (S. 514), dazu zur Definition Conclusio paradoxa..., 3>7. (S. 400): Sicutdeus estsimpli- citer cognitio totius esse, ita intellectus est diffinitio totius esse, et anima scientia totius esse. 100 Pico, Conclusiones paradoxae..., 3>2., 3<7. (S. 400)."
+  }
+ ],
+ "farmer_crossrefs": [
+  "2>2",
+  "2>3",
+  "2>80",
+  "3>2",
+  "3>3",
+  "3>4",
+  "3>5",
+  "3>6",
+  "5>26",
+  "5>53"
+ ]
+}

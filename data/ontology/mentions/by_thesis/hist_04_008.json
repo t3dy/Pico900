@@ -1,0 +1,45 @@
+{
+ "thesis_id": "4.8",
+ "latin": "Ens de suis passionibus et ultimis differentiis quiditatiue non praedicatur.",
+ "farmer_latin_line": 12243,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 14228,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "Thesis 8"
+   ],
+   "context": "Pico and John Duns Scotus 299 Thesis 8 is in fact a conceptual continuation of thesis 7, since it comes from the same discussion by Scotus where the unique status of the concept of being is discussed in the context of the question regarding the possibility of know- ing God. Pico was clearly reading this discussion by Scotus while formulating"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14232,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "theses 7 and 8"
+   ],
+   "context": "the same discussion by Scotus where the unique status of the concept of being is discussed in the context of the question regarding the possibility of know- ing God. Pico was clearly reading this discussion by Scotus while formulating theses 7 and 8. What we have here is an obvious connection between differ- ent theses, yet another indication of the concatenatio, an internal connection between different theses. Thesis 8 states that a being is not predicated of its ‘passions’ (that is passive"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 14259,
+   "method": "latin_quote",
+   "evidence": [
+    "de suis passionibus et",
+    "passionibus et ultimis differentiis",
+    "et ultimis differentiis quiditatiue",
+    "differentiis quiditatiue non predicatur"
+   ],
+   "context": "habet aliquid ex parte potentiae cui repugnet videre Deum. Unde dico propter hoc quod causa tota istius facti, quare potentia intellectiva nunc non videt Deum, non est alia quam voluntas Dei, quia Deus non vult.” 42 Pico, 900 Theses, p. 238: “Ens de suis passionibus et ultimis differentiis quiditative non praedicatur.” 43 John Duns Scotus, Lectura 1, d. 3, pars 1, q. 1–2, in Opera omnia, vol. 16, pp. 262–263: “Secundo dico quod ens non praedicatur in ‘quid’ de passionibus suis, ita quod non inclu-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "1>14",
+  "2.42",
+  "2>5",
+  "3.4",
+  "3.8",
+  "4.7"
+ ]
+}

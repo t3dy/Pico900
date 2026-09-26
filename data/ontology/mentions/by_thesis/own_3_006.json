@@ -1,0 +1,50 @@
+{
+ "thesis_id": "3>6",
+ "latin": "Sicut cognitio per demonstrationem habita bomini, pro communi statu quem hic experimur, est perfectissima cognitio, ita simpliciter inter cognitiones est imperfectissima.",
+ "farmer_latin_line": 20336,
+ "mentions": [
+  {
+   "work": "dougherty2008",
+   "line": 9970,
+   "method": "farmer_id",
+   "evidence": [
+    "3>6"
+   ],
+   "context": "65 Conclusions 3>6 (ed. and trans. Farmer, 400–1): “Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfectissima cognitioo, ita simpliciter inter cognitiones est imperfectissima.” 66 De ente et uno 5 (ed. Garin, 408; trans. Miller, 47): “Cognitio item humana quae rationalis"
+  },
+  {
+   "work": "dougherty2008",
+   "line": 9970,
+   "method": "latin_quote",
+   "evidence": [
+    "inter cognitiones est imperfectissima",
+    "statu quem hic experimur",
+    "sicut cognitio per demonstrationem",
+    "quem hic experimur est"
+   ],
+   "context": "65 Conclusions 3>6 (ed. and trans. Farmer, 400–1): “Sicut cognitio per demonstrationem habita homini, pro communi statu quem hic experimur, est perfectissima cognitioo, ita simpliciter inter cognitiones est imperfectissima.” 66 De ente et uno 5 (ed. Garin, 408; trans. Miller, 47): “Cognitio item humana quae rationalis"
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1703,
+   "method": "farmer_id",
+   "evidence": [
+    "3>6"
+   ],
+   "context": "und Conclusio...in doctrina Piatonis, 5>29. (S. 446). 103 Pico, Conclusio paradoxa..., 3>20. (S. 404): Ipseitas uniuscuiusque tunc maxime est ipsa, cum in ipsa ita sunt omnia, ut in ipsa omnia sunt ipsa. 104 Pico, Conclusiones paradoxae..., 3>6. (S. 400): Sicut cognitioper demonstrationem habita homini, pro communi statu quem hic experimur, estperfectissima cognitio, ita simpliciter inter cognitiones est imperfectissima., 3>15., 3>16., 3>18. (S. 402). 105 Pico, Conclusio philosophica..., 2>7. (S. 374)."
+  },
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1704,
+   "method": "latin_quote",
+   "evidence": [
+    "inter cognitiones est imperfectissima",
+    "statu quem hic experimur",
+    "ita simpliciter inter cognitiones",
+    "pro communi statu quem"
+   ],
+   "context": "103 Pico, Conclusio paradoxa..., 3>20. (S. 404): Ipseitas uniuscuiusque tunc maxime est ipsa, cum in ipsa ita sunt omnia, ut in ipsa omnia sunt ipsa. 104 Pico, Conclusiones paradoxae..., 3>6. (S. 400): Sicut cognitioper demonstrationem habita homini, pro communi statu quem hic experimur, estperfectissima cognitio, ita simpliciter inter cognitiones est imperfectissima., 3>15., 3>16., 3>18. (S. 402). 105 Pico, Conclusio philosophica..., 2>7. (S. 374). 106 Pico, Conclusio paradoxa..., 3>22. (S. 404): Nemo miretur quodAnaxagoras intellectum"
+  }
+ ],
+ "farmer_crossrefs": []
+}

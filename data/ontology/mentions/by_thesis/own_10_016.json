@@ -1,0 +1,35 @@
+{
+ "thesis_id": "10>16",
+ "latin": "Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi uelit illud dictum theologi inducentis opificem mundi noctem consulentem de opificio mundano.",
+ "farmer_latin_line": 25895,
+ "mentions": [
+  {
+   "work": "busi2014",
+   "line": 15082,
+   "method": "farmer_id",
+   "evidence": [
+    "10>16"
+   ],
+   "context": "[56] In base alla precedente tesi si può dedurre, in modo piu cor­ retto di quanto non faccia Proclo, il significato di quel detto del teolo­ go che rappresenta ilfabbricatore del mondo consultarsi con la Notte riguardo la sua opera di creazione [Conclusiones, p. 510, n. 10>16]. [57] L 'E n Sof non si deve annoverare tra le altre numerazioni, poiché è la loro unità astratta e incomunicata, non l'unità coordinata [Conclusiones, p. 520, n. 1 1>4]."
+  },
+  {
+   "work": "busi2014",
+   "line": 24761,
+   "method": "latin_quote",
+   "evidence": [
+    "exponere quam exponat proclus",
+    "precedenti conclusione potest quis",
+    "exponat proclus quid sibi",
+    "conclusione potest quis rectius"
+   ],
+   "context": "lem hierarchiam in abysso primae unitatis, et sub caligine prima­ rum tenebrarum, inparticipaliter abscondita. [55] Idem est nox apud Orpheum et ensoph in Cabala. [56] Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi velit illud dictum theologi indu­ centis opificem mundi noctem consulentem de opificio mundano. [57] Ensoph non est aliis numerationibus connumeranda, quia"
+  }
+ ],
+ "farmer_crossrefs": [
+  "10>15",
+  "11>35",
+  "11>36",
+  "11>4",
+  "5>9"
+ ]
+}

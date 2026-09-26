@@ -1,0 +1,355 @@
+{
+ "packet": "black2006-b",
+ "file": "data\\claims\\angelology\\black2006-b.claims.json",
+ "verified_at": "2026-09-26T04:27:50+00:00",
+ "claims": [
+  {
+   "id": "black2006-b:001",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4942,
+     "line_end": 4947,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Scripture' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:002",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4955,
+     "line_end": 4960,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:003",
+   "status": "needs_fix",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4980,
+     "line_end": 4984,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "primary_from_scholar",
+     "severity": "error",
+     "where": "warrant w1",
+     "detail": "attribution primary_text but black2006 is a scholarly work, not an edition of Pico"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:004",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4871,
+     "line_end": 4873,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "\"Black's\" occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Psalm' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "entities",
+     "detail": "entity 'Pico' is in no quotation of this claim"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:005",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5035,
+     "line_end": 5041,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:006",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5053,
+     "line_end": 5061,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Christianity' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:007",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5062,
+     "line_end": 5067,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:008",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5085,
+     "line_end": 5086,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5093,
+     "line_end": 5095,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5096,
+     "line_end": 5097,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Luke' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Egyptian' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:009",
+   "status": "needs_fix",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5125,
+     "line_end": 5129,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "schema",
+     "severity": "error",
+     "where": "open_question q1",
+     "detail": "quote needs text, work, line"
+    }
+   ]
+  },
+  {
+   "id": "black2006-b:010",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5133,
+     "line_end": 5139,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:011",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5235,
+     "line_end": 5238,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5241,
+     "line_end": 5242,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:012",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5428,
+     "line_end": 5431,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:013",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5434,
+     "line_end": 5438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5442,
+     "line_end": 5445,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:014",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5458,
+     "line_end": 5460,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:015",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5482,
+     "line_end": 5485,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "black2006-b:016",
+   "status": "needs_fix",
+   "quotes": [
+    {
+     "verdict": "not_found",
+     "coverage": 0.789,
+     "basis": "approximate: share of the longest fragment found near this location"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "quote_not_found",
+     "severity": "error",
+     "where": "quotes[0]",
+     "detail": "the quotation is not found in black2006",
+     "verdict": {
+      "verdict": "not_found",
+      "coverage": 0.789,
+      "best_match": {
+       "line_start": 5497,
+       "line_end": 5509,
+       "excerpt": "25 On the Egyptians as a source of the knowledge of the  prisci  theologi, see D.P. Walker, The Ancient Theology: Studies in Christian Platonism from the Fifteenth to the Eighteenth Century (London: Duckworth, 1972), 19–21. ## Page 119 104                  chapter four second and early third centuries, and found their fullest expression in the Stromata of Clement of Alexandria. Much of the subsequent history of Christian hermeneutics can be regarded as a withdrawal— sometimes stealthy, sometimes radical—from the position developed by Clement. The scattered arrangement of the Stromata—the title"
+      },
+      "basis": "approximate: share of the longest fragment found near this location"
+     },
+     "suggested_line": 5497,
+     "suggested_excerpt": "25 On the Egyptians as a source of the knowledge of the  prisci  theologi, see D.P. Walker, The Ancient Theology: Studies in Christian Platonism from the Fifteenth to the Eighteenth Century (London: Duckworth, 1972), 19–21. ## Page 119 104                  chapter four second and early third centuries, and found their fullest expression in the Stromata of Clement of Alexandria. Much of the subsequent history of Christian hermeneutics can be regarded as a withdrawal— sometimes stealthy, sometimes radical—from the position developed by Clement. The scattered arrangement of the Stromata—the title"
+    }
+   ]
+  }
+ ],
+ "summary": {}
+}

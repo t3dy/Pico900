@@ -1,0 +1,46 @@
+{
+ "thesis_id": "2.37",
+ "latin": "Grauia et leuia a nullo alio motore mouentur quam uel a generante uel a remouente prohibens.",
+ "farmer_latin_line": 11780,
+ "mentions": [
+  {
+   "work": "edelheit2022",
+   "line": 12498,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 37"
+   ],
+   "context": "262 chapter 7 In thesis 37 we find a very standard piece of Aristotelian physics (distin- guishing between a mover which generates movement – be it an internal prin- ciple as in living beings or an external one like a man moving a stone – and a factor which removes obstacles) according to which heavy and light bodies are"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12551,
+   "method": "edelheit_chapter",
+   "evidence": [
+    "thesis 37"
+   ],
+   "context": "But what about the first kind, those which are moved per se but not a seip- sis, and what about the heavy bodies? For this we must turn to Thomas’s Quaestiones disputatae de veritate, q. 24, a. 1. Here we find another classification which brings us closer to Pico’s thesis (which is strongly related to thesis 37). Thomas distinguishes between those which have the principle of movement and action in themselves and can move themselves, like animals; and those which cannot move themselves, even though they do have in themselves some"
+  },
+  {
+   "work": "edelheit2022",
+   "line": 12523,
+   "method": "latin_quote",
+   "evidence": [
+    "alio motore mouentur quam",
+    "motore mouentur quam uel",
+    "nullo alio motore mouentur"
+   ],
+   "context": "175 Pico, 900 Theses, p. 228: “Gravia et levia a nullo alio motore moventur quam vel a generante vel a removente prohibens.” Caroti has shown that this thesis is found in the Auctoritates Aristotelis; see Caroti, ‘Note sulle fonti medievali di Pico della Mirandola’, p. 68, and n. 29 there."
+  }
+ ],
+ "farmer_crossrefs": [
+  "2>36",
+  "2>37",
+  "2>9",
+  "4.18",
+  "6.11",
+  "7.12",
+  "7.7",
+  "7a>44"
+ ]
+}

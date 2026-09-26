@@ -1,0 +1,57 @@
+{
+ "thesis_id": "28.44",
+ "latin": "Cum anima comprehenderit quicquid poterit comprehendere, et coniungetur animae superiori, expoliabit mdumentum terrenum a se, et extirpabitur de loco suo et coniungetur cum diuinitate.",
+ "farmer_latin_line": 18397,
+ "mentions": [
+  {
+   "work": "kabbalah_paradigma",
+   "line": 1809,
+   "method": "latin_quote",
+   "evidence": [
+    "quicquid poterit comprehendere et",
+    "et extirpabitur de loco",
+    "se et extirpabitur de",
+    "extirpabitur de loco suo"
+   ],
+   "context": "115 Pico, Conclusio cabalistica..., 28.44. (S. 362): Cum anima comprehenderit quicquid poterit comprehendere, et coniungentur animae superiori, expoliabit indumentum terrenum a se, et extirpabitur de loco suo et coniungitur cum divinitate. Greive, Die christliche Kabbalah, S. 155f., deutet die anima superior, die auch Farmer, Syncretism in the West, S. 362, hier als"
+  },
+  {
+   "work": "novak1982",
+   "line": 1016,
+   "method": "latin_quote",
+   "evidence": [
+    "et coniungetur cum diuinitate",
+    "et coniungetur anime superiori",
+    "suo et coniungetur cum",
+    "loco suo et coniungetur"
+   ],
+   "context": "The second possible source is Menalhem Recanati, whose commentary on the Torah Pico also had in Latin translation. Recanati refers to death by the kiss of God, and Wirszubski shows that one of Pico's Conclusionesis taken directly from this passage: Cum anima comprehenderit quidquid poterit comprehendere, et coniungetur anime superiori, expoliebit indumentum terrenum a se, ut ex(s)tirpabitur de loco suo, et coniungetur cum diuinitate.s150 This is one of the kabbalistic conclusions, but it could serve equally as a translation of"
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2893,
+   "method": "latin_quote",
+   "evidence": [
+    "quicquid poterit comprehendere et",
+    "et coniungetur cum diuinitate",
+    "et extirpabitur de loco",
+    "se et extirpabitur de"
+   ],
+   "context": "CONCLUSIO XLIV Cum anima comprehenderit quicquid poterit comprehendere, et coniun- getur animae superiori, expoliabit indumentum terrenum a se, et extirpa- bitur de loco suo, et coniungetur cum diuinitate."
+  },
+  {
+   "work": "wirszubski1989",
+   "line": 2890,
+   "method": "wirszubski_conclusio",
+   "evidence": [
+    "CONCLUSIO XLIV"
+   ],
+   "resolved": true,
+   "context": "CONCLUSIO XLIV Cum anima comprehenderit quicquid poterit comprehendere, et coniun-"
+  }
+ ],
+ "farmer_crossrefs": [
+  "28.27",
+  "28.35"
+ ]
+}
