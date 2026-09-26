@@ -22,7 +22,7 @@
  ],
  "doctrine": "This is the second of Pico's conclusions on the Orphic Hymns 'secundum opinionem propriam', asserting that the hymns, properly performed, are the most efficacious instrument within natural (as opposed to demonic) magic (farmer1998:25575). It follows 10>3, which insists the gods' names Orpheus invokes are not those of 'deceiving demons... from whom evil, and not good, proceeds' but rather 'names of natural and divine powers' given by the true God for man's benefit if rightly used (farmer1998:25580), and it presupposes the interpretive method of 10>7, that the hymns yield 'nothing sound' without understanding sensible properties 'through the way of secret analogy' (farmer1998:25685).",
  "context": "Wirszubski (1989) quotes this same sentence directly from Pico's Opera, page 106, placing it beside a quotation from Gikatilla's Portae Iustitiae in a discussion of the parallel Pico draws between Kabbalistic and Orphic-magical technique (wirszubski1989:7588). Howlett (2021) quotes it from Farmer's edition, pages 504-505, immediately after a companion thesis contrasting the mediated causation of magic with 'pura cabala et immediata' (howlett2021:6214). Busi and Ebgi (2014) print the Latin from the Conclusiones (page 504) and call the thesis 'particolarmente interessante per il suo contesto «orfico»' ('particularly interesting for its “Orphic” context') (busi2014:21389), giving alongside it their own Italian translation.",
- "reception": "This thesis is not among the thirteen censured by the 1487 commission (data/inventory/condemned_thirteen.json; research-packets/INDEX.md records no condemned flag for 10>2); no commission verdict on it specifically is established by the sources consulted. Farmer's note records that 'Walker (1975: 22ff), who like Yates confused Pico's natural magic with Ficino's,' begins a discussion of the thesis's reception in modern scholarship, but the material consulted breaks off there (farmer1998:25649).",
+ "reception": "Farmer's note records that 'Walker (1975: 22ff), who like Yates confused Pico's natural magic with Ficino's,' begins a discussion of the thesis's reception in modern scholarship, but the material consulted breaks off there (farmer1998:25649).",
  "historiography": "Three independent studies quote this conclusio verbatim as evidence for Pico's claim that Orphic song, correctly performed, functions as an instrument of natural magic (busi2014:21389; howlett2021:6214; wirszubski1989:7588). Farmer's edition records a disagreement with Walker's account of Pico's natural magic, noting that Walker, 'like [Frances] Yates, confused Pico's natural magic with Ficino's' (farmer1998:25649); the specifics of this disagreement beyond that note are not given in the material consulted.",
  "connections": [
   "10>3",
@@ -42,7 +42,8 @@
  ],
  "not_established": [
   "Farmer's full disagreement with Walker's (1975) reading is not established beyond the truncated note at farmer1998:25649.",
-  "Whether the Apologia or the commission addressed this thesis is not established by the sources consulted."
+  "Whether the Apologia or the commission addressed this thesis is not established by the sources consulted.",
+  "This thesis is not among the thirteen censured by the 1487 commission (data/inventory/condemned_thirteen.json; research-packets/INDEX.md records no condemned flag for 10>2); no commission verdict on it specifically is established by the sources consulted."
  ],
  "writer": "WRITER-swarm-batch7 (agent), 2026-09-26",
  "verifier": null,
