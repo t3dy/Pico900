@@ -10,32 +10,18 @@
   "exegesis": "This is Averroes's famous doctrine of the unity of the intellect—there is only one eternal, shared intellectus possibilis (potential intellect) for all people. Individual thought is the result of this intellect acting through particular faculties. This was controversial, especially for Christian theologians who insisted on individual immortality.",
   "scholar_citations": [
     {
-      "scholar": "Averroes (Ibn Rushd)",
-      "work": "Long Commentary on De Anima III",
-      "quote": "The possible intellect is one in substance and eternal, though its operations appear multiple through the diversity of human individuals.",
-      "verified": false,
-      "source_note": "[Core doctrine of Latin Averroism; widely documented]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Copenhaver",
-      "work": "Pico on Trial",
-      "quote": "Averroist monopsychism directly contradicted Christian doctrine of individual immortal souls and personal responsibility for sin.",
-      "verified": false,
-      "source_note": "[Copenhaver's discussion of condemned conclusions]"
-    },
-    {
-      "scholar": "Wirszubski & Kristeller",
-      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
-      "quote": "Pico's engagement with Averroist intellect theory shows his effort to synthesize Aristotelian psychology with Neoplatonic and Kabbalistic doctrines of individual soul ascent.",
-      "verified": false,
-      "source_note": "[Context of Pico's philosophical syncretism]"
-    },
-    {
-      "scholar": "Edelheit",
-      "work": "Scholasticism and Medieval Philosophy in the Works of Pico della Mirandola",
-      "quote": "The unity of intellect thesis challenged medieval scholastic psychology, forcing thinkers like Pico to develop more sophisticated accounts of individual intellection.",
-      "verified": false,
-      "source_note": "[Scholastic context for Pico's critiques]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": true,
@@ -51,5 +37,5 @@
   "notes": "Central to understanding both Averroist philosophy and Pico's heretical propositions. Pico preserves elements while rejecting the most problematic implications.",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666121Z",
-  "updated_date": "2026-09-26T02:07:15.445371"
+  "updated_date": "2026-09-26T02:19:54.807759"
 }

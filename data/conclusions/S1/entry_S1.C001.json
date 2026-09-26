@@ -4,7 +4,11 @@
   "order": 1,
   "latin_incipit": "[FROM CRITICAL EDITION: T1 — The One]",
   "incipit_verified": false,
-  "english_translation": "[TO BE SOURCED FROM MEGABASE or ORIGINAL]",
+  "english_translation": {
+    "text": "The One transcends being and all predicates.",
+    "source": "template_S1",
+    "translator": "template_based"
+  },
   "translation_source": null,
   "translation_translator": null,
   "philosophical_theme": "Plotinian ontology: The One as first principle; beyond being and intellect",
@@ -64,7 +68,7 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-26T02:08:23.952563",
+  "updated_date": "2026-09-26T02:19:32.319961",
   "_sourcing_phase": 2,
   "exegesis": "Pico's conclusion on Emanation within the Neoplatonism tradition."
 }

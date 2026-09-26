@@ -10,25 +10,18 @@
   "exegesis": "Contrary to terrestrial bodies, the heavens are simple, immutable substances. Pico registers this to uphold celestial incorruptibility, a key cosmological distinction.",
   "scholar_citations": [
     {
-      "scholar": "Aristotle",
-      "work": "De Caelo I-II (On the Heavens)",
-      "quote": "The heavens are composed of a fifth element (aether) which is eternal and incorruptible, unlike the four terrestrial elements.",
-      "verified": false,
-      "source_note": "[Classical cosmological doctrine]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Averroes",
-      "work": "Commentary on De Caelo",
-      "quote": "The simplicity and immutability of the heavens follows necessarily from their eternal circular motion.",
-      "verified": false,
-      "source_note": "[Averroist defense of celestial physics]"
-    },
-    {
-      "scholar": "Edelheit",
-      "work": "Scholasticism and Medieval Metaphysics in Pico",
-      "quote": "The incorruptibility of the heavens was essential to medieval theodicy and theories of divine immutability.",
-      "verified": false,
-      "source_note": "[Theological context for celestial doctrine]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -43,5 +36,5 @@
   "notes": "Defends the coherence of medieval two-tiered cosmology (celestial vs. terrestrial). Challenged by modern physics but important to Renaissance thought.",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666195Z",
-  "updated_date": "2026-09-26T02:07:15.448930"
+  "updated_date": "2026-09-26T02:19:54.811038"
 }

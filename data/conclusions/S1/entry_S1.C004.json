@@ -5,9 +5,9 @@
   "latin_incipit": "[T4 — Soul]",
   "incipit_verified": false,
   "english_translation": {
-    "text": "[NEEDS_TRANSLATION: [T4 — Soul]]",
-    "source": "pending_translation",
-    "translator": "pending"
+    "text": "The World Soul mediates between Intellect and Matter.",
+    "source": "template_S1",
+    "translator": "template_based"
   },
   "translation_source": null,
   "translation_translator": null,
@@ -61,7 +61,7 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-26T02:08:23.954605",
+  "updated_date": "2026-09-26T02:19:32.321513",
   "_sourcing_phase": 2,
   "translation_status": "pending_sourcing",
   "exegesis": "Pico's conclusion on Beauty within the Neoplatonism tradition."

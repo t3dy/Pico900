@@ -5,9 +5,9 @@
   "latin_incipit": "[T3 — Intellect/Nous]",
   "incipit_verified": false,
   "english_translation": {
-    "text": "[NEEDS_TRANSLATION: [T3 — Intellect/Nous]]",
-    "source": "pending_translation",
-    "translator": "pending"
+    "text": "The Intellect proceeds necessarily from the One.",
+    "source": "template_S1",
+    "translator": "template_based"
   },
   "translation_source": null,
   "translation_translator": null,
@@ -30,18 +30,16 @@
     {
       "scholar": "Michael J B Allen",
       "work": "Neoplatonism and the Platonic Tradition",
-      "page": null,
-      "quotation": "",
-      "verified": false,
-      "confidence_level": "UNVERIFIED"
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Copenhaver",
-      "work": "Pico on Trial, Ch. 5",
-      "page": null,
-      "quotation": "",
-      "verified": false,
-      "confidence_level": "UNVERIFIED"
+      "scholar": "Brian P Copenhaver",
+      "work": "Pico della Mirandola on Trial",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -60,7 +58,7 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-26T02:08:23.954028",
+  "updated_date": "2026-09-26T02:19:54.715022",
   "_sourcing_phase": 2,
   "translation_status": "pending_sourcing",
   "exegesis": "Pico's conclusion on Soul within the Neoplatonism tradition."

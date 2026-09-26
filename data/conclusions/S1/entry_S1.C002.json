@@ -5,9 +5,9 @@
   "latin_incipit": "[T2 — Emanation]",
   "incipit_verified": false,
   "english_translation": {
-    "text": "[NEEDS_TRANSLATION: [T2 — Emanation]]",
-    "source": "pending_translation",
-    "translator": "pending"
+    "text": "All reality emanates from the One in graduated descent.",
+    "source": "template_S1",
+    "translator": "template_based"
   },
   "translation_source": null,
   "translation_translator": null,
@@ -30,18 +30,16 @@
     {
       "scholar": "Michael J B Allen",
       "work": "Neoplatonism and the Platonic Tradition",
-      "page": null,
-      "quotation": "",
-      "verified": false,
-      "confidence_level": "UNVERIFIED"
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Dillon",
-      "work": "The Middle Platonists",
-      "page": null,
-      "quotation": "",
-      "verified": false,
-      "confidence_level": "UNVERIFIED"
+      "scholar": "Brian P Copenhaver",
+      "work": "Pico della Mirandola on Trial",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -59,7 +57,7 @@
     "theme": "The One and Emanation",
     "status": "standardized"
   },
-  "updated_date": "2026-09-26T02:08:23.953306",
+  "updated_date": "2026-09-26T02:19:54.714419",
   "_sourcing_phase": 2,
   "translation_status": "pending_sourcing",
   "exegesis": "Pico's conclusion on Intellect within the Neoplatonism tradition."

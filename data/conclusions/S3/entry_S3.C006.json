@@ -10,25 +10,18 @@
   "exegesis": "Averroes held that species have determinate modes of generation. Pico agrees: a rational animal cannot arise both through normal procreation and decay (spontaneous generation). This defends a more teleological biology.",
   "scholar_citations": [
     {
-      "scholar": "Averroes",
-      "work": "Commentary on Aristotle's Physics and Generation and Corruption",
-      "quote": "Species are fixed in their modes of generation and cannot alternate between propagation and spontaneous generation.",
-      "verified": false,
-      "source_note": "[Averroes on natural philosophy and essentialism]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Aristotle",
-      "work": "De Generatione et Corruptione II.3",
-      "quote": "Each species has its proper mode of generation determined by its essential nature.",
-      "verified": false,
-      "source_note": "[Aristotelian teleology preserved by Averroes]"
-    },
-    {
-      "scholar": "Farmer",
-      "work": "Syncretism in the West: Pico's Platform of Islamic Philosophy",
-      "quote": "Pico's adoption of Averroist biology defends essentialism against materialist accounts of spontaneous generation.",
-      "verified": false,
-      "source_note": "[Farmer on Pico's natural philosophy]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -43,5 +36,5 @@
   "notes": "Supports Pico's defense of formal causation and real essences against naturalistic reductionism.",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666167Z",
-  "updated_date": "2026-09-26T02:07:15.447402"
+  "updated_date": "2026-09-26T02:19:54.809613"
 }

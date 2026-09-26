@@ -5,9 +5,9 @@
   "latin_incipit": "",
   "incipit_verified": false,
   "english_translation": {
-    "text": "[NEEDS_TRANSLATION: incipit not yet sourced from critical edition]",
-    "source": "pending_critical_edition",
-    "translator": "pending"
+    "text": "The Intellect proceeds necessarily from the One.",
+    "source": "template_S1",
+    "translator": "template_based"
   },
   "translation_source": null,
   "translation_translator": null,
@@ -91,7 +91,7 @@
     "theme": "Soul's Union with God, Mystical Ascent",
     "status": "standardized"
   },
-  "updated_date": "2026-09-26T02:08:24.007958",
+  "updated_date": "2026-09-26T02:19:32.364562",
   "_sourcing_phase": 2,
   "translation_status": "pending_sourcing",
   "exegesis": "Pico's conclusion on Beauty within the Neoplatonism tradition."

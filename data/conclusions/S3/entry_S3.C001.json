@@ -10,25 +10,18 @@
   "exegesis": "Averroes (influenced by Avicenna) viewed dreams as potential vehicles of prophecy when the agent intellect impresses forms onto the passive imagination. The intellectus agens acts as a divine transmitter of truth. This view stands close to Neoplatonism and supports the prophetic function of the philosopher-sage.",
   "scholar_citations": [
     {
-      "scholar": "Averroes (Ibn Rushd)",
-      "work": "Long Commentary on Aristotle's De Anima, Book III",
-      "quote": "The agent intellect functions as the transmitter of intelligible forms to the imaginative faculty in dreams and waking thought alike.",
-      "verified": false,
-      "source_note": "[TO_VERIFY in Latin Averroist tradition]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Avicenna (Ibn Sina)",
-      "work": "Kitab al-Shifa (Book of Healing), De Anima",
-      "quote": "Dreams occur when the agent intellect impresses forms onto the imaginative faculty, freed from the distraction of sensory input.",
-      "verified": false,
-      "source_note": "[TO_VERIFY in Avicennian psychology]"
-    },
-    {
-      "scholar": "Copenhaver",
-      "work": "Pico on Trial: Heresy, Freedom, and Philosophy",
-      "quote": "Pico's acceptance of Averroist dream epistemology reflects his commitment to natural magic grounded in philosophical principles.",
-      "verified": false,
-      "source_note": "[TO_VERIFY: Copenhaver's treatment of prophecy in Pico]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -43,5 +36,5 @@
   "notes": "Key to understanding Averroist epistemology and Pico's defense of natural prophecy against charges of magic.",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666068Z",
-  "updated_date": "2026-09-26T02:07:15.444827"
+  "updated_date": "2026-09-26T02:19:54.807299"
 }

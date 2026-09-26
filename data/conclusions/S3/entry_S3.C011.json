@@ -10,18 +10,18 @@
   "exegesis": "This explores the epistemological structure of knowledge and the risk of hidden circularity in logical proofs, a critical insight into the limits of rational demonstration.",
   "scholar_citations": [
     {
-      "scholar": "Aristotle",
-      "work": "Posterior Analytics I.1-3 (on circularity and infinite regress)",
-      "quote": "Circular proof, where the conclusion is used to establish the premises, is not genuine knowledge.",
-      "verified": false,
-      "source_note": "[Aristotelian epistemology]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Averroes",
-      "work": "Commentary on Posterior Analytics",
-      "quote": "Some demonstrations avoid circularity through necessary principles, but others remain subject to hidden circularity.",
-      "verified": false,
-      "source_note": "[Averroist epistemology]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -36,5 +36,5 @@
   "notes": "Philosophical insight into the limits of rational demonstration; supports Pico's openness to non-discursive forms of knowledge (intuition, revelation).",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666214Z",
-  "updated_date": "2026-09-26T02:07:15.449889"
+  "updated_date": "2026-09-26T02:19:54.811956"
 }

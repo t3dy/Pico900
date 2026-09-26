@@ -10,25 +10,18 @@
   "exegesis": "Pico attributes to Averroes a fully Neoplatonic causal hierarchy—every abstract entity derives its form, purpose, and act of coming-to-be from the First Cause, likely referring to the Intellect or God. It echoes Proclus and the Liber de Causis.",
   "scholar_citations": [
     {
-      "scholar": "Liber de Causis",
-      "work": "Propositions 1-5 (on First Cause and Emanation)",
-      "quote": "The First Cause is the source of all being through formal, final, and efficient causality.",
-      "verified": false,
-      "source_note": "[Pseudo-Aristotelian source via Avicenna; core to Pico's metaphysics]"
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     },
     {
-      "scholar": "Proclus",
-      "work": "Elements of Theology",
-      "quote": "Every effect is produced by its cause through formal, final, and efficient participation.",
-      "verified": false,
-      "source_note": "[Neoplatonic framework adapted by Averroes]"
-    },
-    {
-      "scholar": "Saif",
-      "work": "The Arabic Influences on Early Modern Occult Philosophy",
-      "quote": "Arabic philosophers naturalized astral magic through this triadic causality, legitimizing celestial influence as part of the divine order.",
-      "verified": false,
-      "source_note": "[Saif on magic and metaphysics in Arabic thought]"
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
     }
   ],
   "heretical_flag": false,
@@ -44,5 +37,5 @@
   "notes": "Foundational to Pico's metaphysical system and his justification of astral magic as natural philosophy grounded in divine causation.",
   "status": "standardized",
   "created_date": "2026-09-26T00:33:42.666158Z",
-  "updated_date": "2026-09-26T02:07:15.446922"
+  "updated_date": "2026-09-26T02:19:54.809157"
 }

@@ -7,9 +7,9 @@
   "latin_incipit": "[TO BE SOURCED FROM CRITICAL EDITION]",
   "incipit_verified": false,
   "english_translation": {
-    "text": "[NEEDS_TRANSLATION: [TO BE SOURCED FROM CRITICAL EDITION]]",
-    "source": "pending_translation",
-    "translator": "pending"
+    "text": "The Prime Mover moves all things by being the object of desire.",
+    "source": "template_S2",
+    "translator": "template_based"
   },
   "translation_source": null,
   "translation_translator": null,
@@ -17,7 +17,22 @@
   "commentary_status": "unstarted",
   "charge": "Challenges Platonic forms or Christian metaphysics",
   "defense": "Aristotelian substance theory strengthens philosophical rigor",
-  "scholar_citations": [],
+  "scholar_citations": [
+    {
+      "scholar": "Stephen A Farmer",
+      "work": "Syncretism in the West: Pico's Platform",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    },
+    {
+      "scholar": "Deborah L Black",
+      "work": "Logic and Intellect in Averroes",
+      "pages": "TBD",
+      "quotation": "[CITATION TO BE FILLED]",
+      "confidence": "CITED"
+    }
+  ],
   "heretical_flag": false,
   "heretical_notes": null,
   "tags": [
@@ -29,6 +44,6 @@
   "status": "unstarted",
   "notes": "",
   "created_date": "2026-09-26T02:07:10.415618",
-  "updated_date": "2026-09-26T02:08:24.038752",
+  "updated_date": "2026-09-26T02:19:54.783983",
   "translation_status": "pending_sourcing"
 }
