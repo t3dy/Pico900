@@ -1,0 +1,34 @@
+{
+ "thesis_id": "10>5",
+ "tier": "B",
+ "latin": "Tantus est numerus hymnorum Orphei, quantus est numerus cum quo deus triplex creauit saeculum, sub quaternarii pythagorici forma numeratus.",
+ "latin_source": "farmer1998:25675",
+ "latin_note": "The apparatus records a 1486 print variant 'qnaternani' for 'quaternarii' (farmer1998:25691).",
+ "translation": "The number of Orpheus's hymns is as great as the number with which the threefold God created the world, reckoned under the form of the Pythagorean quaternary.",
+ "translation_note": "The 'Pythagorean quaternary' is the sum of the first four natural numbers (1+2+3+4=10), yielding the decad whose symbolism recurs in 11>56 (farmer1998:25706; farmer1998:27538).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25675",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 10> (Orphic Hymns) (farmer1998:25675).",
+ "sources": [],
+ "doctrine": "Farmer explains the 'Pythagorean quaternarius' as the first four natural numbers, the numerical correspondents of point, line, plane, and solid, whose sum yields the denarius or 'decad' whose symbolism, he writes, 'permeates Pico's thought', cross-referencing 11>56 (farmer1998:25706; farmer1998:27538). Farmer adds that most Renaissance manuscripts held eighty-six Orphic hymns, but that how many Pico himself recognized 'is anyone's guess' (farmer1998:25706).",
+ "context": null,
+ "reception": null,
+ "historiography": "Busi and Ebgi quote the Latin and give their own Italian translation, 'Il numero degli Inni di Orfeo è lo stesso con cui il dio trino creò il mondo, calcolato secondo il quaternario pitagorico' (busi2014:17244). Wirszubski also quotes the Latin verbatim, as 'Conclusio v' (wirszubski1989:10061).",
+ "connections": ["11>56", "5>5"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "how many Pico recognized is anyone's guess",
+   "work": "farmer1998",
+   "line": 25706,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific total number of Orphic Hymns Pico had in mind is not established by Farmer's note or the other sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

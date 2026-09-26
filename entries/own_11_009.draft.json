@@ -1,0 +1,35 @@
+{
+ "thesis_id": "11>9",
+ "tier": "A",
+ "latin": "Siqua est de nouissimis temporibus humana coniectura, inuestigare possumus per secretissimam uiam cabalae futuram esse consumationem saeculi hinc ad annos quingentos et quatuordecim, et dies uigintiquinque.",
+ "latin_source": "farmer1998:26588",
+ "translation": "If there is any human conjecture about the last times, we can discover, through the most secret way of Cabala, that the consummation of the age will occur five hundred and fourteen years and twenty-five days from now.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:26588",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:26588).",
+ "sources": [
+  {
+   "text": "Heptaplus 7.4 (dating the world's origin from biblical genealogies)",
+   "locator": "farmer1998:26621",
+   "pico_relation": "Farmer suggests this passage may reveal something of Pico's method for the calculation made in this conclusion"
+  }
+ ],
+ "doctrine": "The conclusion claims that the 'most secret way of Cabala' permits a human conjecture about the timing of the world's consummation, fixed at five hundred and fourteen years and twenty-five days from the thesis's own date (farmer1998:26588). Farmer's note calculates that counting from the publication date of the theses, 7 December 1486, and ignoring calendar reforms, this yields 1 January 2000 (farmer1998:26621). The same note observes that Pico's caution in producing such calculations should be kept in view (farmer1998:26621). Farmer suggests that some of Pico's method may be recovered from Heptaplus 7.4, which dates the world's origin from biblical genealogies and stresses a correspondence between the six days of creation and six ages of history before a final age (farmer1998:26621).",
+ "context": "Farmer cross-refers the conclusion to a historical thesis on Averroes concerning the soul's individual immortality after death (farmer1998:12947). He also cross-refers it to a promise, among the Questions to be Answered by Numbers, to determine when the consummation of the age will occur (farmer1998:24257).",
+ "reception": null,
+ "historiography": "Busi and Ebgi's edition quotes the conclusion's Latin in full and calculates a resulting end-date taking 7 December 1486 as the starting point, though the passage available here is cut off before it states that date (busi2014:20347). Mandosio's article links the conclusion, in the same footnote, to a separate thesis on the arithmetic of the 'great secret of the Jobeleus [Jubilee] in Cabala', with a further reference to Wirszubski's page 32 and to Reuchlin's later commentary (mandosio2012:334).",
+ "connections": [
+  "7.4",
+  "7a>38"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The precise resulting calendar date under Busi and Ebgi's calculation is not given in the passage excerpted here (busi2014:20347).",
+  "Whether Wirszubski's 'Conclusio ix', quoted regarding the Orphic Hymns, belongs to this thesis or to a different Cabalistic conclusion is unresolved in the sources consulted (wirszubski1989:10009); it is not used as evidence here.",
+  "Reception of this conclusion (commission scrutiny, Apologia reply, later readers) is not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

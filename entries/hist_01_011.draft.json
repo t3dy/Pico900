@@ -1,0 +1,32 @@
+{
+ "thesis_id": "1.11",
+ "tier": "B",
+ "latin": "Stat speciem cuius dicimur reminisci esse totaliter deperditam et abolitam.",
+ "latin_source": "farmer1998:11141",
+ "translation": "It can be maintained that the species of which we are said to be reminded is wholly lost and destroyed.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:11141",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11141).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on De anima, Book 3, Tract 2, Chapter 19",
+   "locator": "edelheit2022:9755",
+   "pico_relation": "Edelheit compares the thesis's wording on the separate intellect to this passage"
+  }
+ ],
+ "doctrine": "Farmer's note glosses 'image' in the surrounding discussion as the image of God, and cross-refers Albert's Summa theologiae on the state of innocence as one burdened by neither fault nor punishment (farmer1998:11166). The note contrasts this with a thesis where Pico is said to suggest a contrary view, and with the Heptaplus, which states that through grace human nature can be restored to its earlier dignity (farmer1998:11166).",
+ "historiography": "Farmer's note explicitly resists claims he considers excessive, made elsewhere, about Pico and human dignity, arguing instead that Pico's views on the topic rest solidly on ancient and medieval tradition (farmer1998:11166). Edelheit's chapter reports that thesis 11 holds that the species of which we are said to remember is entirely lost and abolished, and relates it to Albert's commentary on De anima, Book 3, on the separate intellect (edelheit2022:9727). Edelheit notes that he could not find the specific reference to Avicenna in this context, though the thesis could plausibly derive from Albert's discussion (edelheit2022:9727).",
+ "connections": [
+  "4>7",
+  "7.1",
+  "9>12"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Context and reception beyond Farmer's and Edelheit's notes are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

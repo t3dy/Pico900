@@ -1,0 +1,36 @@
+{
+ "thesis_id": "1.4",
+ "tier": "B",
+ "latin": "In quolibet puncto materiae sunt per habitum inchoationis potestatiuum",
+ "latin_source": "farmer1998:11028",
+ "latin_note": "The extracted Latin ends at 'potestatiuum' without a governed noun (farmer1998:11028). Edelheit's quotation of the same passage continues one word further, to 'potestativum essentiae', without completing the sentence (edelheit2022:9297). The further continuation beyond 'essentiae' was not independently verified here (edelheit2022:9297).",
+ "translation": "In any point of matter there are, through the habit of inchoation, [things] potentially of the essence...",
+ "translation_note": "The Latin as extracted (farmer1998:11028) breaks off after 'potestatiuum'. This translation follows the incomplete text available at farmer1998:11028, marking the necessary insertion with brackets, and does not supply the missing continuation. Edelheit's chapter paraphrases the fuller thesis as holding that in any point of matter there are, through the powerful habit of generation, the essences of all natural forms, coeternal with matter according to the philosophers but created together with matter according to faith (edelheit2022:9289).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:11028",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11028).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on the Physics, Book 1, Tract 3 (on the desire of matter for form)",
+   "locator": "edelheit2022:9289",
+   "pico_relation": "Edelheit compares Pico's wording to Albert's account of matter's inchoate possession of form"
+  }
+ ],
+ "doctrine": "Farmer's note glosses 'habit' as an infused property created with matter but not included in matter's formal definition (farmer1998:11060). The same note reports that the thesis reflects Pico's view that all things are in some way contained in all things (farmer1998:11060). It also reports that the thesis has a double-truth structure, one answer for the philosophers and another for faith, which reflects Pico's own position rather than Albert's (farmer1998:11060).",
+ "historiography": "Edelheit suggests that Pico's phrase might echo Albert's own statement that matter already has an inchoate possession of divine being (edelheit2022:9297).",
+ "connections": [
+  "1.1",
+  "2>54",
+  "3>52",
+  "7>5"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The Latin text of this thesis beyond 'potestativum essentiae' is not established from the sources consulted.",
+  "Context and reception beyond Edelheit's and Farmer's notes are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

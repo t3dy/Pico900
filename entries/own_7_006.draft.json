@@ -1,0 +1,43 @@
+{
+ "thesis_id": "7>6",
+ "tier": "A",
+ "latin": "Nihil magis nociuum theologo quam frequens et assidua in mathematicis Euclidis exercitatio.",
+ "latin_source": "farmer1998:23713",
+ "translation": "Nothing is more harmful to the theologian than frequent and continual practice in the mathematics of Euclid.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:23713",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:23713).",
+ "doctrine": "The conclusion holds that frequent, continual practice in Euclidean mathematics harms the theologian (farmer1998:23713). Cassirer reads it as Pico's conclusion that such practice is harmful to real and genuine knowledge of God (cassirer1942:1099). The neighboring theses set the arts in parallel: music moves the spirits that serve the soul as medicine moves those that govern the body (7>7, farmer1998:23717). Medicine heals the soul through the body, music the body through the soul, in the next conclusion (7>8, farmer1998:23721). Formal, non-material arithmetic, by contrast, gives the best road to natural prophecy (7>9, farmer1998:23724).",
+ "context": "Mandosio's study of Pico's numerology quotes this conclusion alongside the fourth thesis of the Mathematics section, that the objects of the mathematicians, taken absolutely, perfect the intellect not at all (mandosio2012:411). An unsigned set of notes on Pico's sources for self-knowledge judges Pico 'rather contemptuous of Euclid' even while giving Pythagorean and Platonic mathematics 'a significant place' in his project (selfknowledge_notes:1236). The same notes, citing Pico's ownership of a Greek manuscript of Proclus' commentary on Euclid's Elements, conjecture that his target was the moderni's use of Euclid rather than the ancient commentary tradition (selfknowledge_notes:1237).",
+ "reception": null,
+ "historiography": "Cassirer quotes the conclusion as evidence that Pico judged mathematical exercise harmful to 'real and genuine knowledge of God' (cassirer1942:1099). Mandosio's article on John Dee's numerology cites the same conclusion within a footnote pairing it with Pico's fourth mathematical thesis (mandosio2012:411). An unsigned set of notes on Pico and self-knowledge is the only source consulted here to comment on the conclusion's target specifically, judging Pico 'rather contemptuous of Euclid' (selfknowledge_notes:1236).",
+ "connections": [
+  "7>7",
+  "7>8",
+  "7>9"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "it is harmful to real and genuine knowledge of God",
+   "work": "cassirer1942",
+   "line": 1099,
+   "verbatim": true
+  },
+  {
+   "text": "Pico himself had accorded a significant place to Pythagorean and Platonic mathematics in his project, while being rather contemptuous of Euclid",
+   "work": "selfknowledge_notes",
+   "line": 1236,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "No specific text Pico is rebutting is identified beyond Euclid's Elements themselves in the sources consulted.",
+  "Whether Pico owned a Greek manuscript of Proclus' commentary on Euclid, reported at second hand (citing Kibre 1966) at selfknowledge_notes:1237, was not independently verified here.",
+  "Reception of this conclusion (commission scrutiny, Apologia reply, later readers) is not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

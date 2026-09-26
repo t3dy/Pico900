@@ -1,0 +1,34 @@
+{
+ "thesis_id": "1.6",
+ "tier": "B",
+ "latin": "Anima separata intelligit per species sıbi a principio sui esse concreatas, quibus dum est in corpore aut nunquam aut raro utitur.",
+ "latin_source": "farmer1998:11040",
+ "latin_note": "Farmer's text prints 'sıbi' with a dotless i for 'sibi' (farmer1998:11040). Dougherty's and Edelheit's quotations both give the standard spelling 'sibi' (dougherty2008:9526; edelheit2022:9376).",
+ "translation": "The separated soul understands through species created together with it from the beginning of its existence, which, while it is in the body, it either never or rarely uses.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:11040",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11040).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on De anima, Book 3",
+   "locator": "edelheit2022:9351",
+   "pico_relation": "Edelheit compares the thesis to Albert's discussion there of the separated intellect"
+  }
+ ],
+ "doctrine": "Farmer's note ties the thesis to Pico's harmonized Aristotelian/Platonic theory of knowledge, listing related theses spanning both the historical and the 'own opinion' sections (farmer1998:11072).",
+ "historiography": "Dougherty's essay footnote quotes the thesis's Latin text as edited by Farmer, in a series of citations to related theses on the possible intellect and the separated soul (dougherty2008:9526). Edelheit's chapter states that thesis 6 concerns the separated soul, declaring that it understands through species created together with it from the beginning of its existence but rarely or never uses them while embodied, and sets this beside Albert's commentary on De anima, Book 3 (edelheit2022:9351).",
+ "connections": [
+  "1.1",
+  "3>40",
+  "5>19",
+  "5>29"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Context and reception beyond Dougherty's and Edelheit's citations are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

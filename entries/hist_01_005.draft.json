@@ -1,0 +1,35 @@
+{
+ "thesis_id": "1.5",
+ "tier": "B",
+ "latin": "Forma in intensione et remissione non uarlatur secundum essentiam, sed",
+ "latin_source": "farmer1998:11035",
+ "latin_note": "The line as extracted breaks off after 'sed' (farmer1998:11035). Edelheit's quotation of the same thesis completes the sentence: 'sed secundum esse' (edelheit2022:9328).",
+ "translation": "Form, in intensification and remission, does not vary according to essence, but according to existence.",
+ "translation_note": "This translation follows the complete text attested in Edelheit's quotation, 'sed secundum esse' (edelheit2022:9328), since the line as extracted in the inventory breaks off at 'sed' (farmer1998:11035).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:11035",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11035).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on the Physics, Book 2, Tract 2, Chapter 2 (definition of form)",
+   "locator": "edelheit2022:9304",
+   "pico_relation": "Edelheit compares the thesis to Albert's definition there of form as an essence acquired by matter through motion"
+  }
+ ],
+ "doctrine": "Farmer's note explains that 'intension and remission of forms' in scholastic usage concerns alteration in the Aristotelian sense, an increase or decrease of accidental qualities over time (farmer1998:11066). The note reports that Pico's views on such questions were conservative, and cross-refers the thesis to his complaint, among his own theses, about the mathematical treatment of such matters by the moderni (farmer1998:11066).",
+ "historiography": "Edelheit's chapter reports that thesis 5 holds that form does not change in intensity and remission according to essence, but according to existence, and sets this beside Albert's definition of form in his commentary on the Physics (edelheit2022:9304).",
+ "connections": [
+  "1.1",
+  "2.27",
+  "2>34",
+  "7>5"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Context and reception beyond Edelheit's citation are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

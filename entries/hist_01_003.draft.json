@@ -1,0 +1,32 @@
+{
+ "thesis_id": "1.3",
+ "tier": "B",
+ "latin": "Haec est in quarto modo dicendi per se: homo est homo.",
+ "latin_source": "farmer1998:10933",
+ "translation": "This belongs to the fourth mode of speaking per se: man is man.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:10933",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:10933).",
+ "sources": [
+  {
+   "text": "Aristotle, Posterior Analytics 1.4 (commentary tradition on the four modes of per se predication)",
+   "locator": "farmer1998:11013",
+   "pico_relation": "Farmer traces the scholastic background of the fourth mode of per se predication to this text"
+  }
+ ],
+ "doctrine": "The thesis classifies the proposition 'man is man' as belonging to the fourth of the modes in which a predicate is ascribed to a subject per se (farmer1998:10933). Farmer's note traces the four modes to the commentary tradition on the Posterior Analytics 1.4 (farmer1998:11013). The same note cross-refers the fourth mode to a thesis on common sensibles and to three of Pico's own theses on the common sense and reason (farmer1998:11130).",
+ "historiography": "Edelheit's chapter states that thesis 3 places the proposition 'a human being is a human being' in the fourth mode of speaking per se, and that Albert discusses the four modes in his commentary on the Posterior Analytics, book 1, tract 2, chapter 8 (edelheit2022:9242). Edelheit reports that in this fourth mode the proposition does not depend on anything else (edelheit2022:9267).",
+ "connections": [
+  "1.4",
+  "13.3",
+  "2>30"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Context and reception beyond Edelheit's citation are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

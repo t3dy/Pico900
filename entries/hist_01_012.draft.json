@@ -1,0 +1,32 @@
+{
+ "thesis_id": "1.12",
+ "tier": "B",
+ "latin": "Non introducitur uegetalis anima ante sensualem, nec sensualis ante rationalem, sed tota simul.",
+ "latin_source": "farmer1998:11145",
+ "translation": "The vegetative soul is not introduced before the sensitive soul, nor the sensitive before the rational, but all together at once.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:11145",
+ "pico_stance": "reports",
+ "attribution": "Reports Albert the Great (farmer1998:11145).",
+ "sources": [
+  {
+   "text": "Albert the Great, commentary on De anima, Book 1, Tract 2, Chapter 15",
+   "locator": "edelheit2022:9855",
+   "pico_relation": "Edelheit compares the thesis to Albert's discussion there of whether the soul differs in its several powers"
+  }
+ ],
+ "doctrine": "Farmer's note situates the thesis within the historical debate on the unity of the soul, cross-referring two Averroes theses and a thesis on Plotinus (farmer1998:11175). The note directs readers to Pico's own theses on unity in general and to a theological thesis on the transcendentals constituting the image of God for Pico's wider views (farmer1998:11175).",
+ "historiography": "Edelheit's chapter reports that thesis 12 holds that the vegetative soul is not introduced before the sensitive, nor the sensitive before the rational, but all three together at once, and relates this to Albert's question, in his commentary on De anima, of whether the soul differs in its powers (edelheit2022:9830). Edelheit judges that Pico is thinking along lines similar to Albert's here, while using his own terminology and understanding (edelheit2022:9830).",
+ "connections": [
+  "2.41",
+  "7.31",
+  "4>7"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Context and reception beyond Edelheit's citation are not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

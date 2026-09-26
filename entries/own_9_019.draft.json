@@ -1,0 +1,41 @@
+{
+ "thesis_id": "9>19",
+ "tier": "A",
+ "latin": "Ideo uoces et uerba in magico opere efficaciam habent, quia illud in quo primum magicam exercet natura, uox est dei.",
+ "latin_source": "farmer1998:25366",
+ "translation": "Therefore words and utterances have efficacy in the magical work, because that in which nature first exercises magic is the voice of God.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:25366",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25366).",
+ "sources": [
+  {
+   "text": "Genesis 1 (creation of the world through divine speech)",
+   "locator": "farmer1998:25400",
+   "pico_relation": "Farmer's note identifies the biblical creation account, mediated for the kabbalists by the divine names and the Hebrew alphabet, as the association behind this word-magic thesis"
+  }
+ ],
+ "doctrine": "The conclusion grounds the efficacy of magical words in a theology of divine speech: words have power in the magical operation because the first exercise of magic by nature is the voice of God (farmer1998:25366). Farmer's note connects the thesis to the creation of the world through speech in Genesis, understood by the kabbalists as mediated by the divine names and the letters of the Hebrew alphabet (farmer1998:25400). Pico follows it immediately with the corollary that any voice has power in magic only in so far as it is formed by the voice of God (farmer1998:25370).",
+ "context": "Mandosio's article on Dee's numerology identifies this thesis and the one following it as items nineteen and twenty of the magical conclusions Pico gives 'according to his own opinion' (mandosio2012:477). The same footnote places both within a run of conclusions holding that no name has power as a significant name in the magical work unless it is Hebrew or closely derived from Hebrew (mandosio2012:477).",
+ "reception": null,
+ "historiography": "Akopyan quotes the conclusion in both his 2018 article on Pico's astrology and his 2021 monograph on the reception of the Disputationes, in each case within a longer excerpt running from Pico's claim that characters and figures are more powerful in a magical work than any material quality to his analogy between magical characters and Kabbalistic numbers (akopyan2018:625; akopyan2021:1350). Mandosio's article cites the same conclusion within a footnote on Pico's magical theses concerning Hebrew names (mandosio2012:477).",
+ "connections": [
+  "9>20"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "characters and figures are more powerful in a magical work than any material quality",
+   "work": "akopyan2018",
+   "line": 625,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether Pico draws on a specific Kabbalistic text for the 'vox Dei' formula beyond the Genesis account Farmer cites is not established by the sources consulted.",
+  "Reception of this conclusion (commission scrutiny, Apologia reply, later readers) is not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

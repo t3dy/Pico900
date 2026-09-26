@@ -1,0 +1,57 @@
+{
+ "thesis_id": "9>26",
+ "tier": "A",
+ "latin": "Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabale, si sit pura cabala et immediata, fit aliquid ad quod nulla magia attingit.",
+ "latin_source": "farmer1998:25480",
+ "translation": "Just as an effect arises through the influence of the first agent, if that influence is particular and unmediated, which is not reached through the mediation of causes, so through a work of Cabala, if it is pure, immediate Cabala, an effect arises which no magic reaches.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:25480",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25480).",
+ "sources": [
+  {
+   "text": "Farmer's cross-referenced conclusions 9>16-18 and 11>12 on the 'pure Cabala' distinction",
+   "locator": "farmer1998:25547",
+   "pico_relation": "Farmer's note treats these as the immediate conceptual background for 'pure Cabala' in this conclusion"
+  }
+ ],
+ "doctrine": "The conclusion draws an analogy between the causal directness of the first agent and the causal directness of 'pure Cabala': an effect achieved through God's individual, unmediated influence is not attainable through the mediation of secondary causes, and likewise an effect achieved through pure, immediate Cabala is not attainable through any magic (farmer1998:25480). Farmer's note glosses 'pure Cabala' as Cabala engaging the intellectual part of the soul, in contrast to 'natural magic', which uses the rational part (farmer1998:25547). The same note reports an implied contrast with the inferior, astrological forms of Cabalistic magic that Pico discusses in the Apology (farmer1998:25547).",
+ "context": "Farmer cross-refers the conclusion to 11>12, where Pico states that no one who is not rationally intellectual can work through pure Cabala (farmer1998:26604). He also cross-refers it to the three preceding Magic theses distinguishing the horizon of eternal time, proper to the magus, from the horizon of eternity and time, proper to Cabala (farmer1998:25354-25362).",
+ "reception": null,
+ "historiography": "Howlett's monograph translates the conclusion into English immediately before quoting its Latin in full (howlett2021:6210). Wirszubski's edition numbers this thesis 'Conclusio xxvi' among the magical conclusions and prints its Latin as 'per opus cabalae' rather than Farmer's 'per opus cabale' (wirszubski1989:9950). A German-language study of Pico's Kabbalistic epistemology cites the same thesis in a list of cross-references, labelled 'Conclusio magica, 9>26' (kabbalah_paradigma:2184).",
+ "connections": [
+  "11>12",
+  "1>6",
+  "5>2",
+  "9>16",
+  "9>17",
+  "9>18"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "something is achieved to which no magic attains",
+   "work": "howlett2021",
+   "line": 6210,
+   "verbatim": true
+  },
+  {
+   "text": "Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabalae, si sit pura Cabala et immediata, fit aliquid quod nulla Magia attingit.",
+   "work": "wirszubski1989",
+   "line": 9950,
+   "verbatim": true
+  },
+  {
+   "text": "Pico, Conclusio magica, 9>26",
+   "work": "kabbalah_paradigma",
+   "line": 2184,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this conclusion (commission scrutiny, Apologia reply) is not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

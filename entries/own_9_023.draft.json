@@ -1,0 +1,35 @@
+{
+ "thesis_id": "9>23",
+ "tier": "A",
+ "latin": "Quilibet numerus praeter ternarium et denarium sunt materiales / in magia; isti formales sunt, et in magica arithmetica sunt numeri numerorum.",
+ "latin_source": "farmer1998:25465",
+ "latin_note": "The '/' in the Latin marks a line break preserved from the source line (farmer1998:25465); it does not indicate an omission.",
+ "translation": "Every number besides the ternary and the denary is material in magic; these are formal, and in magical arithmetic they are the numbers of numbers.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:25465",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (farmer1998:25465).",
+ "sources": [
+  {
+   "text": "Pico, Apologia (Opera, 172): three as the 'first odd number' and ten as 'every number'",
+   "locator": "farmer1998:25488",
+   "pico_relation": "Farmer identifies Pico's own later defense in the Apology as explaining the material/formal distinction drawn in this conclusion"
+  }
+ ],
+ "doctrine": "The conclusion assigns every number except three and ten a 'material' status in magic, reserving 'formal' status and the status of 'numbers of numbers' to those two alone (farmer1998:25465). Farmer's note identifies three and ten as the most sacred numbers of the Christian and Pythagorean traditions respectively (farmer1998:25488). The same note traces the material/formal distinction to the Apology, where three is called the 'first odd number' and ten 'every number', since counting beyond it proceeds only by repetition (farmer1998:25488). Farmer's note disputes Kristeller's 1943 view that the principle that the first in each genus is the most perfect in that genus was a Ficinian innovation, calling it instead a scholastic commonplace (farmer1998:25488). Farmer judges it likely that the magical arithmetic of this conclusion is the same numerical method Pico sets out at the start of the Mathematics theses (farmer1998:25488).",
+ "context": "Akopyan quotes the same Latin, nearly unchanged, in both his 2018 article and his 2021 monograph, in each case within a footnote listing several adjoining magical conclusions on characters, figures, and Kabbalistic number (akopyan2018:615; akopyan2021:1344). Mandosio situates the conclusion within Pico's broader account of 'formal' numbers, citing the Apology's discussion of Pythagorean number and directing further reading to Wirszubski's sixth chapter and to Reuchlin's 1995 edition (mandosio2012:319).",
+ "reception": null,
+ "historiography": "The scholarship excerpted here cites this conclusion's Latin chiefly as an instance of Pico's numerology rather than analyzing it individually (akopyan2018:615; mandosio2012:319). Farmer's note remains the fullest discussion available in the sources consulted, including its dispute with Kristeller over the scholastic or Ficinian origin of the 'first in each genus' principle (farmer1998:25488).",
+ "connections": [
+  "7>1"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether Pico's three/ten distinction follows a specific numerical source beyond the Apology passage Farmer cites is not established by the sources consulted.",
+  "The fuller discussion in Wirszubski's sixth chapter and in Reuchlin, referred to at mandosio2012:319, was not opened for this entry.",
+  "Reception of this conclusion is not established by the sources consulted.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

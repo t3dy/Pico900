@@ -1,0 +1,44 @@
+{
+ "thesis_id": "28.44",
+ "tier": "A",
+ "latin": "Cum anima comprehenderit quicquid poterit comprehendere, et coniungetur animae superiori, expoliabit mdumentum terrenum a se, et extirpabitur de loco suo et coniungetur cum diuinitate.",
+ "latin_source": "farmer1998:18397",
+ "latin_note": "Farmer's OCR prints 'expoliabit mdumentum' at this line (farmer1998:18397). Wirszubski's transcription of the same conclusion gives 'expoliabit indumentum' (wirszubski1989:2893). Novak's transcription agrees with 'indumentum' (novak1982:1016). 'mdumentum' is read here as a scanning defect for 'indumentum', not as Pico's word (farmer1998:18397).",
+ "translation": "When the soul has understood whatever it will be able to understand, and is joined to the soul above it, it will strip off its earthly garment, and be uprooted from its place, and be joined together with divinity.",
+ "translation_note": "Farmer's note glosses 'anima superior' as the intellectual nature (farmer1998:18422). The same note reports that 'diuinitas' in Pico's Cabalistic conclusions usually denotes the Shekhinah, the tenth sefirah (farmer1998:18422). This translation renders the Latin plainly, without importing that gloss into the English sentence (farmer1998:18422).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch1, from Latin at farmer1998:18397",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18397).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, commentary on the Torah, in Latin translation",
+   "locator": "novak1982:1016",
+   "pico_relation": "Novak reports that Wirszubski traced this conclusion directly to a passage of Recanati concerning death by the kiss of God"
+  }
+ ],
+ "doctrine": "The conclusion states a sequence: full comprehension, union with a higher soul, the shedding of an earthly garment, and union with divinity (farmer1998:18397). Farmer glosses the 'anima superior' of the sequence as the intellectual nature (farmer1998:18422). The same note cross-refers the 'garment' to conclusion 28.35 (farmer1998:18422). It further states that 'divinity' in Pico's Cabalistic conclusions normally denotes the Shekhinah, the divine presence and tenth sefirah (farmer1998:18422).",
+ "context": "Novak reports that Wirszubski traced the conclusion directly to a passage of Menahem Recanati's commentary on the Torah, which Pico read in Latin translation (novak1982:1016). Novak's account places the source passage within Recanati's discussion of death by the kiss of God (novak1982:1016). Wirszubski's own edition of the Cabalistic conclusions numbers this thesis 'Conclusio XLIV' (wirszubski1989:2890).",
+ "reception": null,
+ "historiography": "Novak judges the Latin close enough to Recanati's source that it could, in his words, 'serve equally as a translation' of it, though the excerpt available here breaks off before he completes the thought (novak1982:1016). An unsigned study of Pico's Kabbalistic epistemology quotes the same Latin conclusion and invokes Greive's reading of the 'anima superior', without reproducing Greive's conclusion in the passage excerpted here (kabbalah_paradigma:1809).",
+ "connections": [
+  "28.27",
+  "28.35"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "The second possible source is Menalhem Recanati, whose commentary on the Torah Pico also had in Latin translation.",
+   "work": "novak1982",
+   "line": 1016,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis specifically (commission scrutiny, a reply in the Apologia, later readers) is not established by the sources consulted.",
+  "Greive's full reading of 'anima superior', cited but not reproduced in the excerpt at kabbalah_paradigma:1809, is not established here.",
+  "not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
