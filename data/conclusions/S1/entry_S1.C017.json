@@ -21,8 +21,8 @@
     "Macrobius (Neoplatonic cosmology)",
     "Ficino"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -52,5 +52,11 @@
   ],
   "status": "standardized",
   "notes": "T6–T20 likely constitute a coherent metaphysical cluster. Each conclusion probably refines the ontological hierarchy. Pico cites Plotinus, Porphyry, and Ficino heavily. Check Allen's systematic treatment in *Neoplatonism and the Platonic Tradition*.",
-  "created_from_cluster": true
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T2-T5",
+    "theme": "Henosis and Union with the Good",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.154843"
 }

@@ -1,0 +1,120 @@
+{
+  "thesis": "Angelology is the structural backbone connecting all four texts + 900 Conclusions, unifying Pico's system.",
+  "nodes": [
+    {
+      "id": "oration",
+      "type": "text",
+      "role": "Dignity thesis: human freedom vs. angelic fixed nature; ascent through hierarchy",
+      "angelology_density": "medium",
+      "primary_lineages": [
+        "pseudo-dionysius",
+        "aquinas"
+      ],
+      "key_entry": "O.1.2 (hierarchy established before humans)"
+    },
+    {
+      "id": "commento",
+      "type": "text",
+      "role": "Participatory intellection: seraphim as goal via love; Kabbalistic mysticism (binsica)",
+      "angelology_density": "very_high",
+      "primary_lineages": [
+        "kabbalah",
+        "plotinus",
+        "pseudo-dionysius"
+      ],
+      "key_entries": [
+        "C.1.5 (binsica)",
+        "C.3.1 (seraphim = Chokmah)",
+        "C.3.4 (angelic invocations)"
+      ]
+    },
+    {
+      "id": "heptaplus",
+      "type": "text",
+      "role": "Cosmological framework: seven-layer angelology; Sefirotic + planetary angels",
+      "angelology_density": "very_high",
+      "primary_lineages": [
+        "kabbalah",
+        "pseudo-dionysius",
+        "aquinas",
+        "plotinus"
+      ],
+      "key_entries": [
+        "H.L2.D1.1 (hierarchy)",
+        "H.L5.D1.1 (Kabbalistic)",
+        "H.L6.D4.1 (planetary)"
+      ]
+    },
+    {
+      "id": "being_unity",
+      "type": "text",
+      "role": "Metaphysical grounding: participated being; angels as degrees of being and unity",
+      "angelology_density": "high",
+      "primary_lineages": [
+        "plotinus",
+        "aquinas",
+        "pseudo-dionysius"
+      ],
+      "key_entries": [
+        "U.2.2 (apophatic theology)",
+        "U.3.1 (angelic intellection)"
+      ]
+    },
+    {
+      "id": "s5_celestial_magic",
+      "type": "section_900",
+      "role": "Celestial magic: angelic invocations through planetary correspondences",
+      "related_angelology": "heptaplus Layer 6 (planetary angels)"
+    },
+    {
+      "id": "s7_kabbalah",
+      "type": "section_900",
+      "role": "Kabbalah: Sefirotic angelology; Hebrew invocations",
+      "related_angelology": "heptaplus Layer 5 + Commento Book I"
+    }
+  ],
+  "edges": [
+    {
+      "from": "oration",
+      "to": "commento",
+      "label": "ascent goal (angelhood) → method (love as motive force)",
+      "mechanism": "humans' capacity to ascend = love of the seraphim (highest angel)"
+    },
+    {
+      "from": "commento",
+      "to": "heptaplus",
+      "label": "mystical union → cosmological principle",
+      "mechanism": "binsica (mystical death) = entry into Sefirotic tree; personal experience → universal cosmos"
+    },
+    {
+      "from": "heptaplus",
+      "to": "being_unity",
+      "label": "cosmology → metaphysics (emanation)",
+      "mechanism": "hierarchical creation in Genesis → hierarchical participation in being"
+    },
+    {
+      "from": "being_unity",
+      "to": "oration",
+      "label": "participated being → human dignity",
+      "mechanism": "humans participate in angelic intellect → capable of free choice and ascent"
+    },
+    {
+      "from": "heptaplus",
+      "to": "s5_celestial_magic",
+      "label": "planetary angels → celestial magic invocations",
+      "mechanism": "Layer 6 astronomical correspondences become practical magic formulas"
+    },
+    {
+      "from": "heptaplus",
+      "to": "s7_kabbalah",
+      "label": "Sefirotic angelology → Kabbalistic theses",
+      "mechanism": "Layer 5 Kefirotic structure → specific 900 conclusions on Hebrew angelology"
+    },
+    {
+      "from": "commento",
+      "to": "s7_kabbalah",
+      "label": "mystical experience → doctrinal foundation",
+      "mechanism": "binsica and righteous ascent → Sefirotic path doctrine in 900"
+    }
+  ]
+}

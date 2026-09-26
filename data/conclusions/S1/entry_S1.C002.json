@@ -20,8 +20,8 @@
     "Porphyry",
     "Proclus"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -49,5 +49,11 @@
   ],
   "status": "standardized",
   "notes": "Pico must reconcile Plotinian emanation with Christian creation doctrine. Check whether Pico distinguishes emanation (eternal) from creation (temporal).",
-  "created_from_cluster": false
+  "created_from_cluster": false,
+  "_sourcing": {
+    "cluster": "T1",
+    "theme": "The One and Emanation",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.147837"
 }

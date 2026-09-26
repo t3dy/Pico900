@@ -20,8 +20,8 @@
     "Porphyry",
     "Proclus"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Dillon",
@@ -42,5 +42,11 @@
   ],
   "status": "standardized",
   "notes": "Pico's treatment of matter connects to questions of body, corporeality, and divine embodiment (Q1, Q4, Q6). Check relationship to creation doctrine.",
-  "created_from_cluster": false
+  "created_from_cluster": false,
+  "_sourcing": {
+    "cluster": "T1",
+    "theme": "The One and Emanation",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.149216"
 }

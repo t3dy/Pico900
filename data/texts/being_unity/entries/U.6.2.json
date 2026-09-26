@@ -1,0 +1,27 @@
+{
+  "conclusion_id": "U.6.2",
+  "text": "being_unity",
+  "book": "Ten",
+  "passage_number": 12,
+  "latin_text": "[From critical edition, p. 96-97, lines 3433-3437]",
+  "english_translation": "We are not one if we do not bind, by the union of virtue, sense bent downward with reason which looks at heavenly things. If there are two princes in us, reigning in turns, as it were, we for a time follow God with the law of mind, for a time follow Baal with the law of the flesh, and our kingdom divided against itself is utterly desolated.",
+  "translation_source": "Miller translation (Hackett edition, 1998)",
+  "exegesis": "Pico applies the metaphysics of unity to the human soul's internal hierarchy. The human being is a microcosm of the cosmic hierarchy: sense and appetite correspond to matter and the material world; reason corresponds to the angelic intellect. Virtue (habitually integrated action) binds these levels in harmonious subordination, with reason ruling over sense. Without this integration, the soul is divided, fragmented between competing masters (God and Baal)—and a divided kingdom is destroyed. The seraph exemplifies unified rule: intellect and will are one in devotion to divine good. The human soul, mimicking the angelic hierarchy on a smaller scale, must achieve similar unity through virtue. Just as demons represent the dissolution of angelic unity through division from God, humans in vice experience their own demonic fragmentation: will against reason, flesh against spirit, selfish appetite against charity. This passage thus frames angelology as a mirror for human psychology and ethics. The hierarchy of being (God → angels → human reason → human sense → matter) becomes the hierarchy of virtue (charity → prudence → temperance → justice) that must organize the integrated soul.",
+  "exegesis_status": "draft",
+  "lineage": ["pseudo-dionysius", "aquinas"],
+  "key_concepts": ["human-soul-as-microcosm", "virtue-as-integration", "reason-ruling-sense", "demonic-fragmentation", "unity-of-virtue", "angelic-model-for-human-perfection"],
+  "tags": ["angelology", "ethics", "virtue", "human-nature", "hierarchy", "integration", "thomistic-theology"],
+  "metaphysical_theme": "Human soul as microcosm of the cosmic hierarchy; virtue as harmonious subordination of lower faculties to reason; humans called to resist demonic fragmentation and achieve seraphic unity",
+  "cross_references": {
+    "same_text": ["U.6.1 (seraph as ethical exemplar; ambition vs. charity)", "U.4.1-U.4.2 (demon as fragmented angel; division as loss of being)", "U.3.2 (transcendental hierarchy as measure of perfection)"],
+    "other_texts": ["Oration: Human freedom to ascend (toward integrated angelic order and virtue) or descend (toward fragmented bestial disorder or demonic nature)", "Commento Book III: The ascent of love (caritas) that unifies the soul's faculties toward divine union; the seraph as the exemplar of this unified love", "Heptaplus Layer 1-6: The integration of all worlds (elemental through angelic) as a unified hierarchy; human virtue as participation in this cosmic order"],
+    "900_conclusions": ["Conclusions on human nature and dignity as rational", "Conclusions on virtue and the ordering of the soul", "Conclusions on human freedom and moral choice"]
+  },
+  "scholar_citations": [
+    "Aquinas, Summa II.1-2: On virtue as harmonizing the soul's powers; how reason should rule over sense and appetite",
+    "Edelheit on Pico's psycho-spiritual integration: Virtue as the human manifestation of cosmic hierarchy",
+    "Black on the demonic as the model of what not to become: Fragmentation and division as the anti-virtue"
+  ],
+  "status": "sourced",
+  "notes": "HARVESTER passage U.6.2 is the culmination and application of Pico's entire metaphysical and ethical system. By presenting the human soul as a microcosm of the cosmic hierarchy, Pico shows that angelology is not merely theoretical but deeply practical. Every human faces the choice exemplified by the seraph and the demon: unity or division, virtue or vice, ascent toward angelic nature or descent toward bestial and demonic fragmentation. The passage concludes De Ente et Uno by making angelology existentially urgent: to understand the seraph is to understand what the human soul must become; to understand the demon is to understand what the divided soul becomes without virtue."
+}

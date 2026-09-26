@@ -23,8 +23,8 @@
     "Proclus",
     "Pseudo-Dionysius (hierarchies)"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -54,5 +54,11 @@
   ],
   "status": "standardized",
   "notes": "T61–T80 address celestial beings and intermediary powers. CRITICAL for heretical essay: theurgy, daemon magic, and theurgic innovation are condemned (Q5). Pico draws on Iamblichus *De Mysteriis* and Proclus's henad theory. Daemon theses intersect with Kabbalah (sefirot as intermediaries). Check for 'divine names' language (sign of theurgic engagement).",
-  "created_from_cluster": true
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T21-T30",
+    "theme": "Soul's Faculties and Descent",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.179304"
 }

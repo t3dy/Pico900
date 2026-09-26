@@ -536,14 +536,133 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
+## 2026-09-25 — Comprehensive PicoDB Integration into Pico900 (C)
+
+**Decision**: Transform Pico900 from focused digital edition (3 tabs: Conclusions, Sources, About) into comprehensive research companion (7 tabs) by importing, curating, and academically refining PicoDB materials.
+
+**Vision**:
+Pico900 becomes the canonical public-facing Pico research platform with:
+- Scholarship curated to academic encyclopedia quality
+- Voice and tone modeled on our key scholars (Copenhaver, Howlett, Edelheit, Wirszubski)
+- All writing rigorously peer-review-ready; no AI-ish hedging or tropes
+- PicoDB infrastructure (94 scholarly documents, ~4.8M words, SQLite FTS5) reused and elevated
+
+**7-Tab Architecture**:
+1. **Conclusions** (existing) — 236 standardized conclusions with charges, defenses, citations
+2. **Sources** (existing) — 46 curated intellectual works Pico consulted
+3. **Scholars** (new, CURATED) — 15–20 major Pico scholars with profiles, works, debates
+4. **Bibliography** (new, EXHAUSTIVE) — 90+ entries (primary + secondary); searchable, sortable, exportable to BibTeX/CSV
+5. **Biography** (new) — Interactive timeline with 50+ verified life events, locations, people, evidence status
+6. **People** (new) — Figures in Pico's life (Savonarola, Ficino, Lorenzo de' Medici, Poliziano, etc.); bios, relationships, letters
+7. **Primary Texts** (new) — Facing-page Latin/English editions of Oration, Commento, Heptaplus, On Being and Unity (reuses Phase 1-Alpha angelology infrastructure)
+8. **About** (existing, expanded) — Project context, methodology, citation guidance, credits
+
+**Data Sourcing**:
+- **Scholars**: Extract from PicoDB corpus analysis (top 15–20 by citation frequency in 94 documents)
+- **Bibliography**: PicoDB `sources.json` (90+ entries) + corpus metadata; curate and enhance with summaries
+- **Biography**: PicoDB `pico_life_timeline.json` (100+ events) + `pico_locations.json` + network data; enhance with evidence status and source tracking
+- **People**: Extract from timeline events, letters, contemporary chronicles; write bios at 200–300 words each
+- **Primary Texts**: Reuse critical editions from angelology research (Borghesi for Oration, Allen for Commento, Black for Heptaplus)
+
+**Writing Standards**:
+- All content must meet **academic encyclopedia quality**: publishable as-is in *Speculum*, *Renaissance Quarterly*, or university press.
+- Voice and tone modeled on Copenhaver (precise, assertive, historically grounded), Howlett (broad synthesis, careful qualification), Edelheit (scholastic rigor), Wirszubski (primary-source grounding).
+- **Explicit style guide** (`PICO900_STYLE_GUIDE.md`) created to:
+  - Eliminate AI-ish tropes: "It's not X but Y," "While X is true, Y is also true," "Interestingly," "As mentioned," phantom scholarship
+  - Require assertive claims backed by evidence, not hedging
+  - Enforce precise terminology (Kabbalah, not Qabalah; theurgy, not theourgeia; intellectual substances, not spiritual beings)
+  - Forbid filler and explain-down prose; require discipline of scholarly argument
+- Reuse PicoDB writing where solid; update and enhance with current scholarship (Copenhaver 2019, Howlett 2019, Edelheit 2022)
+
+**Curators & Decision Rules**:
+- **Scholars: Curated (15–20 only)**
+  - Top tier (must-include): Copenhaver, Wirszubski, Howlett, Edelheit, Busi, Allen, Akopyan, Black, Farmer, Kristeller
+  - Secondary tier (may include): Breen, Cassirer, Thompson, Rijser, Corazzol, Novak, etc.
+  - Criterion: 2+ substantial works on Pico in PicoDB corpus + active contribution to Pico studies (within last 20 years for secondary-tier)
+  - Rationale: Keeps site focused and navigable; readers can consult PicoDB for exhaustive bibliography
+  
+- **Bibliography: Exhaustive (90+ entries)**
+  - All primary Pico works (writings) with edition / translation information
+  - All secondary scholarship in PicoDB corpus (94 documents, curated to exclude duplicates)
+  - Organized by: Author (A–Z) | Type (Primary/Secondary/Edition) | Topic (Kabbalah, Magic, Theology, Astrology, etc.) | Date (newest or oldest first)
+  - Export formats: Chicago, BibTeX, CSV
+  
+- **Biography: 50+ Major Events (Verified/Likely/Uncertain/Placeholder)**
+  - Criterion: Events that shaped Pico's intellectual or spiritual trajectory, or events that shaped him as a historical figure
+  - Evidence status tracked (Verified via multiple sources; Likely via contemporary testimony; Uncertain via inference; Placeholder awaiting source work)
+  - Locations and people linked; cross-events referenced
+  
+- **People: 10–15 Major Figures**
+  - Criterion: Documented relationship with Pico (correspondence, contemporary accounts, later testimony) + historical significance in their own right
+  - Must include: Savonarola, Ficino, Lorenzo de' Medici, Poliziano, Benivieni, Pico's family (father, uncle Giovan Francesco)
+  - May include: Elector Anselm of Mainz (heresy prosecutor), Pope Innocent VIII, Loren the Magnificent's heirs
+
+**Implementation (4 Phases, ~4–5 weeks)**:
+
+**Phase 1: Data Extraction & Curation (Weeks 1–2)**
+- [ ] Extract top 15–20 scholars from PicoDB corpus; write profiles (100–150 words each + major works)
+- [ ] Organize bibliography from PicoDB sources.json; add summaries, topic tags, availability info
+- [ ] Enhance pico_life_timeline.json: add location mappings, people links, evidence status, source citations
+- [ ] Create people bios (200–300 words each) from timeline events, letters, contemporary chronicles
+- [ ] Deliverables: `data/scholars.json`, `data/bibliography.json`, `data/biography.json`, `data/people.json`
+
+**Phase 2: Templates & Generation (Weeks 2–3)**
+- [ ] Create HTML templates: scholars.html, scholar_detail.html, bibliography.html, biography.html (timeline), people.html, person_detail.html
+- [ ] Build page-generation scripts (build_scholars.py, build_bibliography.py, build_biography.py, build_people.py)
+- [ ] Implement filtering, sorting, search (client-side for landing pages; server-side for bibliography export)
+- [ ] Wire up internal links (scholars ↔ bibliography ↔ biography ↔ people)
+- [ ] Create CSS for timeline, location maps, network graphs
+
+**Phase 3: Integration & Testing (Weeks 3–4)**
+- [ ] Generate all pages from curated data
+- [ ] Test all filtering, sorting, search, links, exports
+- [ ] Verify scholar bios are accurate and academically sound (spot-check against Copenhaver, Howlett, etc.)
+- [ ] Verify bibliography citations are complete and consistent
+- [ ] Spot-check timeline for historical accuracy
+- [ ] Test mobile responsiveness
+- [ ] Measure page load times (<1s target)
+
+**Phase 4: Deploy & Polish (Week 5)**
+- [ ] Commit all changes with comprehensive commit message
+- [ ] Deploy to GitHub Pages
+- [ ] Live testing on production site
+- [ ] Iterate on UX based on initial feedback
+- [ ] Final accuracy pass
+
+**Style Enforcement**:
+- Every scholar bio, bibliography entry, biography event, and people profile must be reviewed against PICO900_STYLE_GUIDE.md
+- No hedging ("could argue," "some scholars think"); assertive claims backed by evidence
+- No AI tropes (see checklist in style guide)
+- Academic encyclopedia voice throughout
+- When in doubt: Would Copenhaver, Howlett, or Edelheit have written it this way?
+
+**Relation to Existing Work**:
+- **Does NOT block** Phase 0 (Heretical Essay Research) or Phase 1 main pipeline (900 Conclusions)
+- **Reuses** Phase 1-Alpha angelology research (four-text digital editions) for Primary Texts tab
+- **Enhances** Sources tab by linking to scholar profiles who discuss each source
+- **Links from** Conclusions to relevant scholar profiles and bibliography entries
+
+**Success Criteria**:
+- [ ] All 15–20 scholar profiles complete and peer-review-ready
+- [ ] Bibliography exhaustive (90+ entries) with search, filter, export functionality
+- [ ] Biography timeline interactive with 50+ verified events, locations, people
+- [ ] People tab with 10–15 figures, documented relationships, historical context
+- [ ] Primary Texts tab with facing-page Latin/English for 4 major works
+- [ ] No broken links; all internal cross-references working
+- [ ] Mobile-responsive design on all pages
+- [ ] Page load times <1s (landing pages), <3s (detail pages with content)
+- [ ] All writing passes PICO900_STYLE_GUIDE.md audit (no AI tropes, assertive, scholarly, rigorous)
+- [ ] Site integrated into main Pico900 nav; About page expanded with methodology
+
+---
+
 ## Next Decision Gates
 
-- **Phase 1 → Phase 2**: Retrospective complete; HARVESTER methodology refined (content-first + HARV-CHECK); Phase 2 parallel tracks approved
-- **Phase 2a Start**: Dispatch builder (S3 site), researcher (S7 citations), HARVESTER H2 (S2 extraction) simultaneously (week 1, 2026-09-30)
-- **Phase 2a Checkpoint**: Week 2 (2026-10-07) — S3 site rendering tests, S7 Wirszubski 50% complete, S2 extraction in progress
-- **Phase 2b Integration**: Week 3–4 (2026-10-14 to 2026-10-21) — S3 site deployed, S7 citations ≥80%, S1 remediation ramping
-- **Phase 2 Complete**: Week 5 (2026-10-28) — All four tracks closed; manifest shows ≥90% overall completion
-- **Phase 3 Gate**: Heretical essay Q5/Q8 drafting approved once S7 citations 100% + S3 site live
-- **Angelology Research**: Continue in parallel (four-text editions); integrate findings into Pico900 Q1/Q6/Q8 sections as they become ready
-- **Sources Feature**: Deploy once initial site structure is live; test filterable cards and detail page navigation
+- **Phase 1 → Phase 2**: Data extraction complete; scholar profiles written; bibliography curated; all JSON files validated against schema
+- **Phase 2 → Phase 3**: All templates working; pages generating correctly; internal links verified
+- **Phase 3 → Phase 4**: All content academically sound; no broken links; mobile responsive; <1s page loads achieved
+- **Phase 4 Complete**: Deployed to GitHub Pages; live site tested; ready for public use
+- **Future enhancements**: Full-text search over Primary Texts; timeline filtering by date range; network graph visualization of people relationships
+
+
 

@@ -21,8 +21,8 @@
     "Iamblichus (soul ascent)",
     "Pseudo-Dionysius"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -51,5 +51,11 @@
   ],
   "status": "standardized",
   "notes": "Core to Pico's anthropology. Soul's capacity for ascent (via Oration and triplex via) connects to Q13 (condemned). Check for theurgy language (Iamblichan).",
-  "created_from_cluster": false
+  "created_from_cluster": false,
+  "_sourcing": {
+    "cluster": "T1",
+    "theme": "The One and Emanation",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.148769"
 }

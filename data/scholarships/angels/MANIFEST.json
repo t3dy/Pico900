@@ -1,0 +1,316 @@
+{
+  "project": "Pico900 — Angelology Scholarship Database",
+  "date_created": "2026-09-25",
+  "role": "SYNTHESIZER",
+  "source_entries": "68 angelology-tagged entries from four Pico texts",
+  "status": "Foundation layer complete; ready for heretical essay research",
+  "total_size_kb": 260.0,
+  "files": [
+    {
+      "filename": "lineage_pseudodionysius.json",
+      "size_kb": 100.1,
+      "passages": 52,
+      "description": "Pseudo-Dionysius + Aquinas angelology across all four texts",
+      "key_coverage": [
+        "Hierarchical cosmos (nine-order ladder)",
+        "Angels as cosmic intelligences",
+        "Ascent through intellectual perfection",
+        "Seraphim–cherubim–thrones structure"
+      ],
+      "texts_covered": ["oration", "commento", "heptaplus", "being_unity"],
+      "scholarly_citations": [
+        "Howlett (Dionysian reconciliation)",
+        "Edelheit (Aquinas framework)",
+        "Black (Heptaplus as Dionysian ladder)",
+        "Allen (Neoplatonic mediation)"
+      ],
+      "use_for": [
+        "Understanding hierarchical angelology framework",
+        "Tracing human dignity doctrine",
+        "Heptaplus Layer 2 (allegorical) exegesis"
+      ]
+    },
+    {
+      "filename": "lineage_aquinas.json",
+      "size_kb": 19.5,
+      "passages": 8,
+      "description": "Aquinas scholastic angelology framework",
+      "key_coverage": [
+        "Angels as pure intellects (no matter)",
+        "Individuation by form, not accidents",
+        "Hierarchical proximity to God",
+        "Angelic knowledge and will",
+        "Participatory being"
+      ],
+      "texts_covered": ["oration", "commento", "heptaplus", "being_unity"],
+      "scholarly_citations": [
+        "Edelheit (parallel reading, scholastic foundation)",
+        "Howlett (Aquinas + Pseudo-Dionysius compatibility)"
+      ],
+      "use_for": [
+        "Metaphysical commitments of Pico's angelology",
+        "Participatory intellection doctrine",
+        "Comparing scholastic vs. mystical angelology"
+      ]
+    },
+    {
+      "filename": "lineage_kabbalah.json",
+      "size_kb": 47.6,
+      "passages": 25,
+      "explicit_passages": 8,
+      "description": "Kabbalistic angelology — Pico's most innovative synthesis",
+      "key_coverage": [
+        "Sefiroth with angelic names",
+        "Righteous ascent through emanations",
+        "Binsica (death from kissing) — mystical union",
+        "Letter permutation and Hebrew correspondences",
+        "Divine names as angelic invocations"
+      ],
+      "explicit_entries": [
+        "C.1.2 (Kabbalah intro)",
+        "C.1.4 (Letter permutation)",
+        "C.1.5 (binsica — MOST DENSE)",
+        "C.2.3 (Sefirotic structure)",
+        "C.3.1 (Seraphim = Chokmah/Wisdom)",
+        "C.3.2 (Sefirotic tree)",
+        "C.3.3 (Hebrew correspondences)",
+        "C.3.4 (Angelic invocations)"
+      ],
+      "sefirotic_correspondences": "Complete Pico mapping (9 Sefiroth × 9 angel orders)",
+      "scholarly_citations": [
+        "Wirszubski & Kristeller (Pico's genuine understanding)",
+        "Busi (Sefirotic density in Commento & Heptaplus)",
+        "Howlett (degree of sophistication)"
+      ],
+      "research_gaps_filled": "Densest Kabbalistic concentration in Pico's angelology documented",
+      "use_for": [
+        "Tracing Kabbalistic hermeneutics in Commento Book I",
+        "Heptaplus Layer 5 (Kabbalistic) exegesis",
+        "Heretical essay on condemned Kabbalistic conclusions",
+        "Understanding Sefirotic angelology in 900 Conclusions S7"
+      ]
+    },
+    {
+      "filename": "lineage_plotinus.json",
+      "size_kb": 83.8,
+      "passages": 44,
+      "description": "Plotinian emanation and hierarchical participation",
+      "key_coverage": [
+        "Emanation from the One through Intellect and Soul",
+        "Hierarchical participation as cosmic principle",
+        "Angels as Nous (Divine Intellect)",
+        "Love (eros) as binding force",
+        "Ascent through contemplation (theoria)"
+      ],
+      "texts_covered": ["oration", "commento", "heptaplus", "being_unity"],
+      "scholarly_citations": [
+        "Allen (Neoplatonism of Pico; Ficino mediation)",
+        "Howlett (Platonism chapter; reconciling Aristotle + Plotinus)",
+        "Black (Plotinian structure in Heptaplus)"
+      ],
+      "use_for": [
+        "Emanationist metaphysics underlying all four texts",
+        "Pico's synthesis of Aristotle + Plotinus",
+        "Metaphysical grounding of mystical ascent",
+        "Neoplatonic framework in Being & Unity"
+      ]
+    },
+    {
+      "filename": "scholar_debate_log.json",
+      "size_kb": 5.2,
+      "debates": 4,
+      "description": "Scholarly cruxes with evidence and synthesis",
+      "debates_documented": [
+        {
+          "title": "How deeply did Pico understand Kabbalah?",
+          "crux": "Wirszubski (genuine) vs. Allen (selective)",
+          "assessment": "Preponderance supports Wirszubski"
+        },
+        {
+          "title": "Is Heptaplus literal exegesis or Neoplatonic cosmology?",
+          "crux": "Black (both) vs. Howlett (straining) vs. Allen (Ficino-dependent)",
+          "assessment": "Black + Howlett correct; intent is genuine within philosophical framework"
+        },
+        {
+          "title": "Did Pico reject Aquinas or deepen him?",
+          "crux": "Edelheit (deepens via Plotinus + Kabbalah) vs. scholasticists (incoherent)",
+          "assessment": "Edelheit most accurate; works via participatory metaphysics"
+        },
+        {
+          "title": "Is angelology central to Pico's heretical status?",
+          "crux": "Copenhaver + Farmer (yes, celestial magic) vs. Howlett (partly)",
+          "assessment": "Central to heretical condemnations; demonic invocation via angelic names"
+        }
+      ],
+      "use_for": [
+        "Understanding scholarly disagreements about Pico's system",
+        "Evidence grounding for heretical essay",
+        "Identifying which 900 Conclusions were condemned for angelology reasons"
+      ]
+    },
+    {
+      "filename": "cross_text_angelology_web.json",
+      "size_kb": 3.8,
+      "nodes": 6,
+      "edges": 7,
+      "description": "Graph representation of angelology across texts",
+      "thesis": "Angelology is the structural backbone connecting all four texts + 900 Conclusions",
+      "nodes_included": [
+        "Oration (dignity thesis)",
+        "Commento (participatory intellection + Kabbalah)",
+        "Heptaplus (cosmological framework; all four lineages)",
+        "Being & Unity (metaphysical grounding)",
+        "900 Conclusions S5 (celestial magic)",
+        "900 Conclusions S7 (Kabbalah)"
+      ],
+      "edges_included": [
+        "Oration → Commento (ascent goal → method)",
+        "Commento → Heptaplus (mystical union → cosmology)",
+        "Heptaplus → Being & Unity (cosmology → metaphysics)",
+        "Being & Unity → Oration (participated being → dignity)",
+        "Heptaplus → S5 (planetary angels → magic invocations)",
+        "Heptaplus → S7 (Sefirotic angelology → Kabbalistic theses)",
+        "Commento → S7 (mystical experience → doctrinal foundation)"
+      ],
+      "use_for": [
+        "Visualizing Pico's unified system",
+        "Understanding where each text contributes to whole",
+        "Mapping 900 Conclusions to four-text angelology"
+      ]
+    },
+    {
+      "filename": "README.md",
+      "size_kb": "~30 (not JSON)",
+      "description": "Comprehensive guide to database contents and usage",
+      "contents": [
+        "Database overview",
+        "File descriptions (what each lineage covers)",
+        "Entry statistics by text and lineage",
+        "Sefirotic correspondence table",
+        "Scholar debate summaries",
+        "Usage examples and integration notes",
+        "Next steps for Phase 2 + heretical essay"
+      ],
+      "read_first": true,
+      "use_for": [
+        "Understanding database structure and contents",
+        "Quick lookup of which file to use for specific research",
+        "Guidance on using database for heretical essay"
+      ]
+    },
+    {
+      "filename": "MANIFEST.json",
+      "size_kb": "~20 (this file)",
+      "description": "This file — index of all deliverables",
+      "contents": ["File inventory", "Statistics", "Validation", "Next steps"]
+    }
+  ],
+  "validation": {
+    "all_json_valid": true,
+    "validation_date": "2026-09-25",
+    "files_checked": 6,
+    "total_passages_indexed": 129,
+    "unique_entries_sourced": 68,
+    "cross_references_verified": "Spot-checked; all point to existing entry IDs"
+  },
+  "entry_distribution": {
+    "oration": {
+      "total": 15,
+      "angelology_tagged": 15,
+      "lineages": {
+        "pseudo_dionysius": 12,
+        "aquinas": 2,
+        "kabbalah": 1,
+        "plotinus": 8
+      }
+    },
+    "commento": {
+      "total": 20,
+      "angelology_tagged": 20,
+      "lineages": {
+        "pseudo_dionysius": 8,
+        "aquinas": 1,
+        "kabbalah": 13,
+        "plotinus": 12
+      }
+    },
+    "heptaplus": {
+      "total": 22,
+      "angelology_tagged": 22,
+      "lineages": {
+        "pseudo_dionysius": 18,
+        "aquinas": 3,
+        "kabbalah": 7,
+        "plotinus": 16
+      }
+    },
+    "being_unity": {
+      "total": 12,
+      "angelology_tagged": 12,
+      "lineages": {
+        "pseudo_dionysius": 14,
+        "aquinas": 2,
+        "kabbalah": 4,
+        "plotinus": 8
+      }
+    }
+  },
+  "lineage_summary": {
+    "pseudo_dionysius": {
+      "passages": 52,
+      "primary_texts": ["heptaplus", "oration"],
+      "density": "highest",
+      "role": "Hierarchical cosmic framework"
+    },
+    "plotinus": {
+      "passages": 44,
+      "primary_texts": ["heptaplus", "being_unity", "commento"],
+      "density": "very_high",
+      "role": "Emanationist metaphysics; participatory being"
+    },
+    "kabbalah": {
+      "passages": 25,
+      "explicit_passages": 8,
+      "primary_texts": ["commento", "heptaplus"],
+      "density": "high (densest in commento)",
+      "role": "Mystical synthesis; Sefirotic angelology"
+    },
+    "aquinas": {
+      "passages": 8,
+      "primary_texts": ["being_unity", "heptaplus"],
+      "density": "medium",
+      "role": "Scholastic framework; pure intellects"
+    }
+  },
+  "success_criteria": {
+    "lineage_pseudodionysius": "✓ Complete",
+    "lineage_aquinas": "✓ Complete",
+    "lineage_kabbalah": "✓ Complete (with explicit Kabbalistic flags)",
+    "lineage_plotinus": "✓ Complete",
+    "scholar_debate_log": "✓ Complete (4 major cruxes documented)",
+    "cross_text_web": "✓ Complete (6 nodes, 7 edges showing connections)",
+    "all_files_valid_json": "✓ Yes",
+    "all_citations_sourced": "✓ Yes",
+    "cross_references_accurate": "✓ Spot-checked"
+  },
+  "next_steps": {
+    "phase_2": [
+      "Expand Kabbalah lineage with 900 Conclusions S7 entries",
+      "Cross-index with 72 Goetia spirits for celestial magic",
+      "Add heretical flags (which conclusions were condemned)"
+    ],
+    "phase_3": [
+      "Use scholar debate log as backbone for heretical essay",
+      "Pull quotes from passage entries for evidence",
+      "Structure essay by condemned conclusion number"
+    ],
+    "phase_4": [
+      "Annotate each 900 Conclusion with relevant angelology entries",
+      "Link back to four texts via cross_text_angelology_web",
+      "Display scholar debate for controversial doctrines in web interface"
+    ]
+  },
+  "created_by": "SYNTHESIZER agent (Claude Haiku 4.5)",
+  "purpose": "Shared scholarship layer for Pico900 digital editions + heretical essay research",
+  "git_status": "Ready to commit; no conflicts"
+}

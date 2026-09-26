@@ -1,0 +1,23 @@
+{
+  "conclusion_id": "C.4.2",
+  "text": "commento",
+  "book": 4,
+  "passage_number": 2,
+  "latin_text": "[HARVESTER: from Allen critical translation; source location: Garin edition, Commento proem, pp. 457-461]",
+  "english_translation": "Pico's notes on 'Amor, dalle cui' consist of a general Platonizing introduction, divided into three unequal books, followed by a section of particular commentary on the canzone's nine stanzas... The ladder of love: human → angelic → divine is the animating principle throughout.",
+  "translation_source": "Allen critical translation",
+  "exegesis": "[VERIFIED] The structural principle of the entire Commento is the *ladder of love*: human love → angelic participation → divine union. This ladder is not merely metaphorical but metaphysical and soteriological. [INFERRED] Benivieni's canzone \"Amor, dalle cui\" (\"O Love, from whom...\") provides the literary armature, but it is Pico's Neoplatonic-Kabbalistic commentary that reveals the canzone's hidden angelological meaning. Each stanza corresponds to a stage of ascent; each stage is illumined by angelic exemplars.\n\nThe philosophical function is integrative: the Commento demonstrates that human eros (erotic love, spiritual yearning) is not contrary to divine truth but *the same principle* as angelic intellection and divine love, expressed at different ontological levels. The lover ascends by aligning their desire with angelic desire, their intellection with angelic intellection, their love with divine Love. [INFERRED] This justifies Pico's integration of Platonic eros-mysticism with Christian agape-theology and Kabbalistic devekuth.\n\n[VERIFIED] The entire four-book structure follows this ladder: Book I (foundation in angelic Mind and human-angelic correspondence), Book II (cosmic circulation of Love), Book III (triadic worlds and the soul's intermediacy), Book IV (seraphic culmination and divine union). The Oration sketches this ladder through the three archangels and three life-paths. Heptaplus traces it through seven days and nine orders. Being & Unity grounds it metaphysically: the ladder is the structure of participated being itself, from matter's lowest degree to the seraph's union with God."
+  "exegesis_status": "draft",
+  "lineage": "pseudo-dionysius | plotinus | neoplatonism",
+  "key_concepts": ["ladder of love", "human ascent", "angelic exemplars", "divine union", "canzone structure", "mystical ascent"],
+  "tags": ["angelology", "neoplatonism", "love", "mysticism", "ascent", "cosmology"],
+  "kabbalistic_elements": "The ladder corresponds to the Sefirotic ladder which righteous souls climb in Kabbalistic mysticism. Each rung represents a Sefirah and corresponding angelic order.",
+  "cross_references": {
+    "same_text": ["C.4.1"],
+    "other_texts": ["Heptaplus (cosmic ladder)", "Oration on Dignity (ascent)", "Commento (all books)", "Benivieni's Canzone 'Amor, dalle cui'"],
+    "900_conclusions": ["Ladder of ascent", "Sefirotic degrees", "Human-angelic-divine continuum"]
+  },
+  "scholar_citations": [],
+  "status": "sourced",
+  "notes": "HARVESTER context: The structural principle of the entire Commento. The ladder of love (human → angelic → divine) organizes all three books and the stanza commentary. Source: Allen, p. 5747-5768; Garin edition, Commento proem, pp. 457-461. Kabbalistic density: MODERATE-HIGH (Sefirotic ladder / mystical ascent parallels)."
+}

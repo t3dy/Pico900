@@ -1,0 +1,110 @@
+{
+  "debates": [
+    {
+      "crux": "How deeply did Pico understand Kabbalah?",
+      "importance": "Critical for assessing Pico's syncretism claims",
+      "scholars": {
+        "Wirszubski": "Genuine synthesis; Pico read the texts carefully and understood Sefirotic structure",
+        "Kristeller": "Supports Wirszubski; documents Pico's access to Kabbalistic texts",
+        "Busi": "Mixed; strong on Sefirotic correspondence, weak on practical Kabbalah",
+        "Allen": "Pico understood Kabbalah selectively; emphasized Neoplatonic layer over authentic mysticism"
+      },
+      "evidence": [
+        {
+          "text": "commento",
+          "entries": [
+            "C.1.2",
+            "C.1.4",
+            "C.1.5",
+            "C.3.1",
+            "C.3.2"
+          ],
+          "key_indicator": "Explicit Kabbalistic doctrine (binsica, letter permutation, Sefirotic correspondences)"
+        },
+        {
+          "text": "heptaplus",
+          "entries": [
+            "H.L5.D1.1",
+            "H.L5.D1.2",
+            "H.L5.D1.3"
+          ],
+          "key_indicator": "Layer 5 Kabbalistic interpretation of Genesis; shows systematic Sefirotic reading"
+        }
+      ],
+      "assessment": "Preponderance of evidence supports Wirszubski: Pico engaged seriously with Kabbalah, demonstrated genuine understanding of Sefirotic system, though may have adapted rather than strictly adhered to Lurianic tradition."
+    },
+    {
+      "crux": "Is Heptaplus literal Biblical exegesis or Neoplatonic cosmology with Biblical labels?",
+      "importance": "Determines how to read Pico's hermeneutical method",
+      "scholars": {
+        "Black": "Both - Pico genuinely attempting to reconcile textual authority with philosophical principle",
+        "Howlett": "More reconciliation attempt than pure exegesis; Pico is straining the text",
+        "Allen": "More Ficino Platonism than Pico's own innovation; dependent on Ficino's Platonic Theology"
+      },
+      "evidence": [
+        {
+          "text": "heptaplus",
+          "entries": [
+            "H.L2.D1.1",
+            "H.L2.D1.2",
+            "H.L4.D1.1",
+            "H.L5.D1.1"
+          ],
+          "key_indicator": "Systematic seven-layer hermeneutics; each layer (literal, allegorical, tropological, anagogical, Kabbalistic, astrological, numerological) treats same text as different philosophical principle"
+        }
+      ],
+      "assessment": "Black and Howlett are both correct: Pico intends genuine exegesis but within a philosophical framework that determines interpretation. The point is not textual archaeology but doctrinal harmony - whether all philosophical traditions (Pseudo-Dionysius, Aquinas, Kabbalah, Plotinus) describe the same cosmic truth."
+    },
+    {
+      "crux": "Did Pico reject Aquinas or deepen his synthesis?",
+      "importance": "Establishes whether Pico is scholastic reformer or revolutionary",
+      "scholars": {
+        "Edelheit": "Deepens - uses Aquinas as foundation, modifies via Neoplatonic participation",
+        "Howlett": "Deepens with tension - strains Aquinas's framework but within scholastic method",
+        "Some scholasticists": "Incoherent synthesis; Plotinus + Kabbalah cannot cohere with Aquinas"
+      },
+      "evidence": [
+        {
+          "text": "being_unity",
+          "entries": [
+            "U.1.1",
+            "U.1.2",
+            "U.2.1",
+            "U.2.2",
+            "U.3.1"
+          ],
+          "key_indicator": "Explicit dialogue with Aristotle + Plotinus; maintains Aquinas's being/essence doctrine while importing Plotinian emanation"
+        },
+        {
+          "text": "commento",
+          "entries": [
+            "C.1.1",
+            "C.2.1"
+          ],
+          "key_indicator": "Angels as participatory intelligences - Aquinas framework applied to mystical union (Plotinian eros)"
+        }
+      ],
+      "assessment": "Edelheit is most accurate: Pico deepens Aquinas by importing Plotinian participation and Kabbalistic mysticism. The synthesis works at the level of metaphysics (all hierarchies are participatory) even where individual doctrines seem to diverge."
+    },
+    {
+      "crux": "Is angelology central to Pico's heretical status (1486 Rome trial)?",
+      "importance": "Determines which angelology conclusions were condemned",
+      "scholars": {
+        "Copenhaver": "Yes - celestial magic (section 5 of 900 Conclusions) depends on angelology; condemned for attempting demonic invocation through angelic names",
+        "Farmer": "Yes - Goetia correspondences (72 spirits) as demonic beings, not angels",
+        "Howlett": "Partly - the freedom/dignity thesis (based on angelic fixed nature vs. human freedom) was heretical"
+      },
+      "evidence": [
+        {
+          "text": "900_conclusions",
+          "sections": [
+            "S5 (Celestial Magic)",
+            "S7 (Kabbalah)"
+          ],
+          "key_indicator": "Explicit invocations of celestial/planetary angels; possible demonic summoning interpretation"
+        }
+      ],
+      "assessment": "Copenhaver and Farmer are correct: angelology was central to heretical condemna tions, particularly around demonic invocation via celestial names and Kabbalistic summoning."
+    }
+  ]
+}

@@ -23,8 +23,8 @@
     "Proclus (providence)",
     "Pseudo-Dionysius (beauty)"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Copenhaver",
@@ -46,5 +46,11 @@
   ],
   "status": "standardized",
   "notes": "T21–T40 constitute the second major cluster. Pico explores how divine intellection, providence, and beauty function in Neoplatonic hierarchy. Likely draws on Plotinus Enneads 3.2, 5.8 and Proclus *Elements of Theology*. Check Copenhaver's Q12 (divine nature) analysis.",
-  "created_from_cluster": true
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T6-T20",
+    "theme": "Metaphysical Hierarchy, Being, Intellect",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.165007"
 }

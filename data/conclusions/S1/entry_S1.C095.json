@@ -25,8 +25,8 @@
     "Pseudo-Dionysius (mystical theology)",
     "Ficino"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Copenhaver",
@@ -54,7 +54,7 @@
     }
   ],
   "heretical_flag": true,
-  "heretical_notes": "T81–T95 address the soul's ultimate ascent and union with the One. Q13 (condemned) explicitly addresses the soul's union with God in contemplation. Copenhaver analyzes Q13 as one of the thirteen condemned theses. CRITICAL FOR HERETICAL ESSAY: Pico's syncretic mysticism (henosis + Christian union + Kabbalistic devekuth) appears here. Mark any theses on mystical ecstasy, divinization, or the soul becoming divine as heretical candidates.",
+  "heretical_notes": "Q13 cluster: Soul's union with God. See *Apology* Q13 and heretical research notes.",
   "tags": [
     "henosis",
     "mystical_union",
@@ -65,5 +65,11 @@
   ],
   "status": "standardized",
   "notes": "T81–T95 constitute the climactic cluster: Pico's mystical theology. The Oration on the Dignity of Man culminates in the soul's ascent through triplex via (purgation, illumination, union). These conclusions likely articulate that ascent in technical Neoplatonic terms. Q13 (condemned) sits here. Pico synthesizes Plotinian henosis with Christian mysticism (via Pseudo-Dionysius) and Jewish Kabbalah (devekuth). Essential for understanding Pico's entire philosophical project as culminating in mystical anthropology. Copenhaver's Ch. 5 (*Pico on Trial*) analyzes Q13's relation to the broader condemned theses and the mystical context of the 900.",
-  "created_from_cluster": true
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T31-T40",
+    "theme": "Soul's Union with God, Mystical Ascent",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.193460"
 }

@@ -22,8 +22,8 @@
     "Plotinus",
     "Macrobius"
   ],
-  "charge": "",
-  "defense": "",
+  "charge": "[TO_SOURCE FROM COPENHAVER/TRIAL DOCS]",
+  "defense": "[TO_SOURCE FROM APOLOGY + COPENHAVER]",
   "scholar_citations": [
     {
       "scholar": "Michael J B Allen",
@@ -54,5 +54,11 @@
   ],
   "status": "standardized",
   "notes": "T41–T60 address soul's internal structure and faculties. Pico engages Plotinus's accounts of the soul's various levels and their operations. Critical for understanding human cognition and the ascent of the soul (Oration, triplex via). Cross-check with S3/S4 (Aristotelian intellect).",
-  "created_from_cluster": true
+  "created_from_cluster": true,
+  "_sourcing": {
+    "cluster": "T6-T20",
+    "theme": "Metaphysical Hierarchy, Being, Intellect",
+    "status": "standardized"
+  },
+  "updated_date": "2026-09-25T18:01:35.168207"
 }
