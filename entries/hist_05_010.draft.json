@@ -1,0 +1,35 @@
+{
+ "thesis_id": "5.10",
+ "tier": "B",
+ "latin": "Amicitia est uirtus.",
+ "latin_source": "farmer1998:12607",
+ "translation": "Friendship is a virtue.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12607",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12607; edelheit2022:15679).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet X, question 12",
+   "locator": "edelheit2022:15679",
+   "pico_relation": "Edelheit's identified source, where Henry argues, using the authorities of Aristotle and Cicero, that friendship is a virtue"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis simply states that friendship is a virtue, and that Henry deals with it at Quodlibet X, question 12, providing a philosophical account of friendship using mainly the authorities of Aristotle and Cicero, and maintaining that friendship is indeed a virtue (paraphrase, edelheit2022:15679).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted (edelheit2022:15679). Farmer has no note on this thesis.",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 10 simply states that friendship is a virtue.",
+   "work": "edelheit2022",
+   "line": 15679,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

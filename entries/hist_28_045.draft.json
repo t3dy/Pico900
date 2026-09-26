@@ -1,0 +1,37 @@
+{
+ "thesis_id": "28.45",
+ "tier": "B",
+ "latin": "Sapientes Israhel post cessationem prophetiae per spiritum, prophetarunt per filiam uocis.",
+ "latin_source": "farmer1998:18402",
+ "translation": "The wise men of Israel, after the cessation of prophecy through the spirit, prophesied through the daughter of the voice.",
+ "translation_note": "'filiam uocis' is kept literal, 'daughter of the voice', calquing the rabbinic bat qol; Farmer glosses 'spirit'/'daughter of the voice' as higher and lower modes of prophecy flowing from the tenth sefirah, 'kingdom' (paraphrase, farmer1998:18429).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch12, from Latin at farmer1998:18402",
+ "pico_stance": "reports",
+ "attribution": "Reports Hebrew Cabalists (farmer1998:18402).",
+ "sources": [
+  {
+   "text": "Menahem Recanati, fol. 83va-b",
+   "locator": "wirszubski1989:2920",
+   "pico_relation": "Wirszubski directs comparison of the thesis to this passage of Recanati"
+  }
+ ],
+ "doctrine": "Farmer's note, following the passage from Recanati cited by Wirszubski (1989: 51), glosses 'spirit' and 'daughter of the voice' as higher and lower modes of prophecy flowing from 'kingdom', the tenth and lowest sefirah, and states that the scheme fits a general view in Pico's historical theses of a systematic degradation of wisdom over time (paraphrase, farmer1998:18429).",
+ "historiography": "Wirszubski quotes the thesis as his 'Conclusio XLV' under the heading 'Sources of the First Set of Theses' and directs comparison to Recanati, fol. 83va-b (wirszubski1989:2917, 2920).",
+ "connections": [],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Sapientes Israhel, post cessationem prophetiae per spiritum, prophetarunt per filiam uocis.",
+   "work": "wirszubski1989",
+   "line": 2920,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Recanati, fol. 83va-b, beyond Wirszubski's cross-reference to it, is not established by the sources consulted.",
+  "The content of Wirszubski (1989: 51) on this thesis, cited by Farmer, is not otherwise in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch12 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
