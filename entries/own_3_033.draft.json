@@ -1,0 +1,22 @@
+{
+ "thesis_id": "3>33",
+ "tier": "C",
+ "latin": "Ratio praedicamenti ad aliquid est esse imaginarium.",
+ "latin_source": "farmer1998:20675",
+ "translation": "The defining character of the category of relation ('ad aliquid') is an imaginary being.",
+ "translation_note": "'ad aliquid' is the scholastic name for Aristotle's category of relation; 'esse imaginarium' is the technical term for a relation's diminished, merely conceived mode of being (farmer1998:20675).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch6, from Latin at farmer1998:20675",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion",
+ "writer": "WRITER-light-batch6 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship consulted covers this thesis; it falls outside the sources gathered for this project's scholarship passes. Translation is original and unverified beyond the Latin source line."
+ ],
+ "connections": [
+  "3>30",
+  "3>31",
+  "3>32"
+ ]
+}
