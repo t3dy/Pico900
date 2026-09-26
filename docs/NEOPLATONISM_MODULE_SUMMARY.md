@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A3: the module's validation certified JSON shape only; claims of verified citations and resolved cross-references are untested (50 of 146 cross-references resolve to nothing).  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Neoplatonism Research Module — Complete Setup Summary
 
 **Date**: 2026-09-25  

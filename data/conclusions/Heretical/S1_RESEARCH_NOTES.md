@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A1 and A2 found the scholar quotations and page numbers here are not verbatim or are misplaced, and that it gives Latin for Q4, Q6 and Q9 that occurs nowhere in the 900 and misnames Q2 as 'original sin'.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # S1 SYNTHESIZER Research Notes: Heretical Conclusions (13 Condemned Theses)
 **Date**: 2026-09-25  
 **Task**: S1-HERETICAL synthesis of papal condemned conclusions  

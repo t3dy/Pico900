@@ -769,3 +769,43 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 
 
 
+
+
+---
+
+## 2026-09-25: Audit and reset (supersedes the "Phase 1/2 complete" entries above)
+
+The "Phase 1 complete / Phase 2 complete / ready to deploy" entries above are **withdrawn**. `audit/A1`-`A4`
+found 0 of 929 entries fully sourced, ~775 rows of generated filler, an invented section scheme,
+fabricated and misattributed scholarly quotations, and a site that would have rendered unstyled with
+dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
+
+### Decided (by the agent, in-session; reversible; Ted to review)
+
+- **D-1 Filler is withdrawn, not deleted.** The build renders only fields graded `sourced` or `unverified` by
+  `scripts/integrity_gate.py`; everything else shows a labelled "not yet edited" state. Data files stay
+  (history, git); `data/quarantine.json` lists fields proven wrong.
+- **D-2 The inventory comes from the edition.** Unit = one thesis in Farmer's numbering (`7.2`, `4>8`); the
+  repo's `S1..S9` ids and the 929 count are retired. `data/inventory/farmer_structure.json` (402 + 498 = 900).
+- **D-3 The thirteen condemned are flags on numbered theses, not a section**
+  (`data/inventory/condemned_thirteen.json`). Correct dates: printed 7 Dec 1486; commission Feb-Mar 1487; bull 4 Aug 1487.
+- **D-4 Orchestration v2** (`docs/ORCHESTRATION.md`): workspace roles plus a WRITER that works only from a sourced
+  packet; VERIFIER is a different agent; deterministic provenance gates; no script writes prose; v1 archived.
+- **D-5 One editorial standard** (`docs/EDITORIAL_STANDARD.md`) replaces the two conflicting guides.
+  "Not X but Y" is permitted against a named position and banned as a reflex.
+- **D-6 The pre-audit heretical essay outline and S1 notes are quarantined** (banner, not deletion): none of
+  their scholar quotations is verbatim.
+- **D-7 Site publishing**: never from `docs/`; `predeploy_check.py` gate; `DEPLOY_STATE.md` says NOT LIVE.
+
+### Needs Ted's decision (proposed defaults in brackets)
+
+- **Q-1 Translation policy.** Farmer's English is (c) 1998 and S7 currently reproduces it verbatim. [Proposed:
+  original translations from the Latin, checked against Farmer, not copied; machine-drafted work disclosed
+  and human-checked. Consistent with the existing CLAUDE.md rule "original translation by Ted Hand 2026".]
+- **Q-2 Depth tiers A-D** (`docs/EDITORIAL_STANDARD.md` s5). [Proposed: A = the thirteen condemned, then
+  sections with the richest scholarship; D = Latin and translation only, "commentary forthcoming".] PhD-depth
+  commentary on all 900 in one pass is not credible; the alternative is a much longer timeline.
+- **Q-3 Whether to publish a skeleton** (Latin and badges, work-in-progress banner) before the Farmer-keyed
+  inventory is rebuilt, or wait. [Proposed: wait until the pilot block (the thirteen) passes G2.]
+- **Q-4 Latin base text.** Farmer's Latin is an edition; the Brown edition named in the old CLAUDE.md was never
+  consulted. [Proposed: collate against the Brown edition and the 1486 print before publishing any Latin.]

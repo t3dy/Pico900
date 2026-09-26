@@ -1,156 +1,89 @@
-# Claude Code Instructions — Pico900
+# Claude Code Instructions: Pico900
 
-Digital edition of Giovanni Pico della Mirandola's *900 Conclusions* (*Conclusiones 900*) with facing-page Latin (from the critical edition) and English, scholarly commentary from verbatim quotations, and an in-depth "Heretical" essay synthesizing research on the condemned propositions.
+A scholarly digital edition of Giovanni Pico della Mirandola's *Conclusiones* (the *900 Theses*, Rome,
+7 December 1486): Latin and English, with commentary at the standard of a good monograph, that lets a
+reader recover the historical context and the philosophical depth of each thesis, and the trial that
+condemned thirteen of them. Inherits `C:\Dev\CLAUDE.md`, `C:\Dev\AGENTS.md` and `C:\Dev\ORCHESTRATION.md`.
 
-## Project Summary
+## State, 2026-09-25 (read this before believing any other status file)
 
-**Live site**: https://t3dy.github.io/Pico900  
-**Repository**: https://github.com/t3dy/Pico900  
-**Type**: Static digital edition + research portal  
-**Status**: Bootstrapping from existing research  
+An audit (`audit/A1`-`A4`) found that the earlier reports of "929 entries, 100% translated, 98% cited,
+approved, ready to deploy" were false. **0 of 929 entries are fully sourced.** About 143 rows hold any
+real text; the other ~775 are generated filler that has been withdrawn from the site. The site is
+**not live** (`DEPLOY_STATE.md`). What is solid: the source corpus, the true structure of the work
+(`data/inventory/farmer_structure.json`), the reconciliation of the thirteen condemned theses
+(`data/inventory/condemned_thirteen.json`), the audit reports, and the tooling below.
 
-This project is **not** a replacement for `C:\Dev\PicoDB` (the full research portal) or `C:\Dev\megabase` (the LLM conversation archive). Pico900 is a **specific deliverable**: a snazzy, hyperlinked website presenting all 900 conclusions with scholarly apparatus, sourced entirely from existing research, PicoDB infrastructure, and megabase LLM conversations.
+Run `python scripts/integrity_gate.py --verify-quotes` for the live picture (`COVERAGE.md`).
 
-## Context Engineering Strategy
+## Read first, by task
 
-The 900 Conclusions are the densest Pico text (895 propositions + editorial material). To work at this scale without exploding context costs:
+| task | read |
+|---|---|
+| write or review any prose | `docs/EDITORIAL_STANDARD.md` |
+| run agents | `docs/ORCHESTRATION.md` (roles, gates, prohibitions) |
+| touch data | `data/inventory/`, `data/quarantine.json`, `COVERAGE.md` |
+| build or publish | `DEPLOY_STATE.md`, then `scripts/predeploy_check.py` |
+| know what is wrong and why | `audit/` |
+| current handover | `HANDOVER.md` |
 
-1. **Source the Latin programmatically.** The critical edition is free at https://cds.lib.brown.edu/cds-project/picos-900-theses. We fetch/parse the full text once, store as JSON.
+Older status, handover and phase files are in `docs/archive/`. They are history, not instructions.
 
-2. **Find existing translations first.** Megabase contains multiple translation passes (LLM-assisted, scholarly notes). Search before doing new work: grep megabase for "900", "conclusiones", "conclusions", "theses" and harvest all translation artifacts.
+## Ground truth and where it is
 
-3. **Leverage PicoDB's study passes.** PicoDB has 15+ study passes (Kabbalah, astrology, biography, angelology, astrology, etc.). Those study passes created source packets, scholar profiles, and section summaries. Port relevant material into Pico900's commentary and "Heretical" essay.
+- **Structure and Latin/English of all 900 theses**: Farmer, *Syncretism in the West: Pico's 900 Theses
+  (1486)* (Tempe: MRTS 167, 1998), Markdown at `E:\pdf\renaissance magic\Pico\Markdown\Stephen_A_Farmer_*c99b971b.md`
+  (~30k lines; cite by line, e.g. `F:21444`). Its English is in copyright: do not reproduce it.
+- **The trial**: Copenhaver, *Pico della Mirandola on Trial: Heresy, Freedom, and Philosophy* (Oxford UP, 2022);
+  Fornaciari's edition of the *Apologia* (2010; only front matter and contents survive in the corpus).
+- Also in the corpus (73 Markdown files): Copenhaver, *Magic and the Dignity of Man* (Harvard UP, 2019);
+  Wirszubski, *Pico's Encounter with Jewish Mysticism*; Edelheit, *A Philosopher at the Crossroads* (Brill, 2022);
+  Sophia Howlett, *Re-evaluating Pico* (Palgrave Macmillan, 2021); M. V. Dougherty (ed.), *Pico della Mirandola:
+  New Essays* (CUP, 2008); Crofton Black, *Pico's Heptaplus and Biblical Hermeneutics* (Brill, 2006); Allen, Akopyan, Busi and others.
+- PicoDB (`C:\Dev\PicoDB`) and megabase (`C:\Dev\megabase`) are *leads*, never evidence: a megabase summary is
+  an LLM's memory of a book. Open the book. The Markdown is OCR: search with short fragments and tolerate
+  hyphenation and double spaces.
 
-4. **Commentary is *cited* before *generated*.** For each conclusion, prefer verbatim quotations from scholarship (Wirszubski, Copenhaver, Howlett, Edelheit, Dougherty, Busi, Allen, Akopyan, Black, etc.) over LLM synthesis. Only synthesize after we've exhausted direct quotation.
+## Non-negotiable rules (each is a scar)
 
-5. **"Heretical" essay is a synthesis project.** Copenhaver's *Pico on Trial*, the Dougherty anthology, Howlett, Edelheit chapters, and footnotes on the 1486 Rome trial all discuss specific condemned conclusions. Collect those discussions, organize by conclusion number, and write a unified essay pulling them together.
+1. **Never invent text.** No translation, Latin, charge, defense, exegesis, quotation, page number or
+   bibliographic detail is written unless it comes from a source you opened. Say "not established by the
+   sources consulted" instead. Prior agents filled fields to hit a count; that is the failure to avoid.
+2. **No script writes prose.** Generators carry sourced text forward; they contain no template sentences.
+3. **No self-approval.** The agent that wrote a field never verifies it. Verification means re-finding the quotation
+   or fact in the source, not re-running a schema validator.
+4. **Quote gate.** No quotation is stored until located verbatim; record file and line. An introduction is not by the
+   author of the volume it introduces.
+5. **Dates.** Published 7 Dec 1486 (colophon, F:28040); commission Feb-Mar 1487; bull of 4 Aug 1487. "Condemned by
+   papal bull (1486)" is wrong wherever it appears.
+6. **Verify before "done"** (workspace rule): quote gate output, load the built page, state what is unverified.
+7. **Never publish from `docs/`**, and never deploy without `DEPLOY_STATE.md` and `predeploy_check.py`.
 
-6. **Checkpoint the corpus.** Create `data/conclusions_manifest.json` tracking: conclusion_id, Latin, English, translation_source, commentary_status, scholar_citations_count, heretical_flag. Use this to know what's done and what's not.
+## Files known to contain unverified or invented material; do not cite or imitate
 
-## File Structure
+`docs/HERETICAL_ESSAY_DRAFT_OUTLINE.md` and `data/conclusions/Heretical/S1_RESEARCH_NOTES.md` (none of the
+scholar quotations in them is verbatim), the S7 `scholar_citations` (3 strings reused), the `S4` "Farmer"
+quotations, all `template_*`/`pending_*` fields, and the archived v1 style guides' "model voice" paragraphs.
+Consult `audit/` before reusing anything from the pre-audit pipeline.
+
+## Layout
 
 ```
-Pico900/
-├── CLAUDE.md                          (this file)
-├── DECISIONS.md                       (decisions log)
-├── DEPLOY_STATE.md                    (GitHub Pages + repo config)
-├── README.md                          (public-facing)
-├── data/
-│   ├── conclusions_raw.json           (fetched Latin + metadata from critical ed.)
-│   ├── conclusions_manifest.json      (checkpoint: ID, source status, commentary status)
-│   ├── translations/
-│   │   ├── translated_conclusions.json (merged translations from megabase passes)
-│   │   └── translation_sources.md     (which megabase convos contributed)
-│   └── scholarship/
-│       ├── heretical_conclusions.json (conclusions flagged as condemned; sources)
-│       ├── scholar_index.json         (Wirszubski, Copenhaver, etc.; their IDs + works)
-│       └── citations.json             (conclusion_id → list of source quotations)
-├── docs/
-│   ├── SOURCING_PROTOCOL.md           (how to find translations in megabase)
-│   ├── COMMENTARY_PROTOCOL.md         (when to quote vs synthesize)
-│   ├── HERETICAL_ESSAY_PLAN.md        (structure for the condemned-propositions essay)
-│   └── PICOLATINDECLARATIONS.md       (reference: text/critical edition notes)
-├── scripts/
-│   ├── fetch_critical_edition.py      (scrape/parse Latin from Brown)
-│   ├── merge_translations.py          (consolidate megabase translation passes)
-│   ├── build_site.py                  (generate static HTML from JSON)
-│   └── checkpoint_manifest.py         (track progress)
-├── src/
-│   ├── css/
-│   │   └── edition.css                (facing-page layout, scholar highlighting)
-│   ├── js/
-│   │   └── edition.js                 (vanilla JS for nav, filtering, heretical toggle)
-│   └── templates/
-│       ├── index.html                 (landing page)
-│       ├── conclusion.html            (single-conclusion page with facing text)
-│       ├── heretical_essay.html       (long-form essay on condemned propositions)
-│       └── about.html                 (documentation)
-├── site/                              (generated static HTML, gitignored)
-└── .gitignore
+CLAUDE.md  HANDOVER.md  DECISIONS.md  DEPLOY_STATE.md  README.md  COVERAGE.md (generated)
+audit/                       A1-A4 audit reports (the evidence for everything above)
+data/inventory/              farmer_structure.json, condemned_thirteen.json (the real 900)
+data/quarantine.json         fields proven wrong; never rendered
+data/conclusions/<S#|Heretical>/entry_*.json   legacy entries (mostly filler; being replaced by Farmer-keyed entries)
+data/coverage_ledger.json    generated by integrity_gate.py
+docs/EDITORIAL_STANDARD.md  docs/ORCHESTRATION.md  docs/archive/
+scripts/integrity_gate.py    provenance grades, coverage ledger, quote verification
+scripts/style_lint.py        mechanical AI-prose markers
+scripts/predeploy_check.py   DEPLOYER's gate for site/
+scripts/build_html_site.py   builds site/ (renders only sourced/unverified fields)
+scripts/seed_inventory.py    writes data/inventory/* and data/quarantine.json from the audit
 ```
 
-## Workflow Phases
+## Related
 
-### Phase 1: Foundation (CURRENT)
-- Create folder + CLAUDE.md + DEPLOY_STATE.md ✓
-- Search megabase for 900 Conclusions work + translations
-- Create `data/conclusions_manifest.json` as checkpoint
-- Document sourcing protocol for translations
-- Begin collecting scholar citations for ~first 100 conclusions
-
-### Phase 2: Fetch + Merge
-- `fetch_critical_edition.py`: grab Latin from Brown critical edition
-- `merge_translations.py`: consolidate megabase translations into JSON
-- Populate `data/conclusions_raw.json` and `data/translations/translated_conclusions.json`
-- Hand-verify first 20 for accuracy
-
-### Phase 3: Commentary + Heretical
-- For each conclusion: find 2-3 relevant scholar quotations (Copenhaver, Wirszubski, etc.)
-- Populate `data/scholarship/citations.json`
-- Extract heretical flags from `data/scholarship/heretical_conclusions.json`
-- Begin drafting "Heretical" essay
-
-### Phase 4: Build + Deploy
-- `build_site.py`: generate static HTML from JSON
-- Test facing-page layout, search, heretical toggle
-- Deploy to GitHub Pages
-
-## Research Sources
-
-### Megabase
-`C:\Dev\megabase` contains LLM conversation artifacts. Search for:
-- "900 conclusions" / "900 theses" / "conclusiones"
-- "pico translation"
-- "pico heretical" / "pico condemned"
-- "pico propositions"
-
-### PicoDB
-`C:\Dev\PicoDB` has 15+ study passes with sections on:
-- 900 Conclusions structure (Farmer's reading in `docs/PICO_PRIMARY_TEXT_ACQUISITION_PROTOCOL.md`)
-- Heretical conclusions (embedded in `artifacts/essays/`)
-- Kabbalah, astrology, angelology theses
-- Scholar profiles (Copenhaver, Howlett, Wirszubski, etc.)
-
-### Scholarship Library
-- **Wirszubski & Kristeller**: *Pico della Mirandola's Encounter with Jewish Mysticism* — Kabbalah theses, 900 structure
-- **Copenhaver**: *Pico della Mirandola on Trial* — Heretical conclusions, Rome trial, condemned propositions
-- **Dougherty** (ed.): *Pico della Mirandola* anthology — essays on individual works, some on 900
-- **Howlett**: Three chapters on concordism, Oration, and 900 structure
-- **Edelheit**: Scholastic sources for the 900
-- **Black**: Heptaplus hermeneutics (overlaps 900's exegetical theses)
-- **Akopyan**: Astrology in the 900 and *Disputationes*
-- **Farmer**: The 900 as debate database; oral-disputational logic
-
-### Critical Edition
-Free Latin text: https://cds.lib.brown.edu/cds-project/picos-900-theses
-
-### PDF Research Materials
-`E:\pdf\renaissance magic\Pico\` contains 73 processed sources (73 Markdown conversions in `E:\pdf\renaissance magic\Pico\Markdown`).
-
-## Key Decisions (log to DECISIONS.md immediately)
-
-- **Latin source**: Brown critical edition (free, reliable)
-- **Translation**: Existing megabase work first, supplement as needed
-- **Commentary**: Verbatim quotations from scholarship, then LLM synthesis
-- **Deployment**: GitHub Pages, static site, vanilla JS
-- **Scope**: All 900 eventually; start with highest-research-coverage conclusions
-
-## Operating Constraints
-
-1. **Never commit copyrighted PDFs or full-text scholarly books** to the repo. Use quotations only.
-2. **All translations must be sourced** — either cite megabase conversation ID or mark as "original translation by Ted Hand 2026"
-3. **"Heretical" essay must cite scholarship directly.** No synthesis without backing quotation.
-4. **Commentary status is tracked in `conclusions_manifest.json`.** Update the checkpoint after every major change.
-5. **Context engineering**: If a session gets large, split work by conclusion clusters (e.g., 1-100, 101-200, etc.) and checkpoint.
-
-## Related Projects
-
-- `C:\Dev\PicoDB` — Full Pico research portal (15+ study passes, SQLite, 73 sources)
-- `C:\Dev\megabase` — LLM conversation archive (translation passes, conceptual work)
-- `E:\pdf\renaissance magic\Pico\` — 73 research materials in Markdown
-
-## Links
-
-- Public site: https://t3dy.github.io/Pico900
-- Repo: https://github.com/t3dy/Pico900
-- Critical edition: https://cds.lib.brown.edu/cds-project/picos-900-theses
+`C:\Dev\PicoDB` (research portal), `C:\Dev\megabase` (LLM archive), `E:\pdf\renaissance magic\Pico\` (sources),
+`C:\Dev\wiki` (workspace knowledge base).

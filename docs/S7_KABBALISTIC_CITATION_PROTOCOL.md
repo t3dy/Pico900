@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A1 found the citations this protocol produced are three strings repeated across 118 entries, one of them absent from every source and one misattributed.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # S7 Kabbalistic Citation Protocol
 
 **Status**: In progress — Systematic citation harvesting from Wirszubski, Copenhaver, Scholem  

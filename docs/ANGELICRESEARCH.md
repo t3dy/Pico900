@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A3 found its Heptaplus 'seven-layer' scheme is in neither Pico nor Black, its Kabbalistic layer rests on text where Pico declines to give the Hebrew angelology, and its scholar attributions are unfindable.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Angelic Research Protocol — Pico900
 
 **Status**: Foundation document for Phase 1+ (Digital Editions Project)  

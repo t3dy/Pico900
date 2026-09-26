@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A3: the lineage files' 'verified' status is untested; 46 of 129 passages still contain placeholders.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Angelology Scholarship Database — Pico900
 
 **Date created**: 2026-09-25  

@@ -1,0 +1,129 @@
+{
+ "_provenance": "Transcribed from audit/A1_conclusions.md s3. Copenhaver, Pico on Trial (C:846-850) names the thirteen by topic in the Apologia's order. Latin incipits are the auditor's transcription of Farmer's OCR (u/v and punctuation are Farmer's, not Pico's 1486 print): COLLATE against the Brown edition and the editio princeps before publication. Farmer's Latin is an edition; confirm reuse terms.",
+ "dates": {
+  "printed_Rome_Silber": "7 December 1486 (F:28040-28042)",
+  "commission_created": "February 1487 (C:514, 543)",
+  "commission_verdicts": "March 1487; first meeting 2 March, Q1 verdict 5 March (C:545-546, 1281)",
+  "bull_Etsi_ex_iniuncto": "4 August 1487 (Black gives 8 August; A2); published in December; condemned the whole work, not only the thirteen (F:1325-1332)",
+  "correction": "No condemnation existed in 1486. The repo's 'Condemned by papal bull (1486)' is wrong."
+ },
+ "theses": [
+  {
+   "q": 1,
+   "topic": "Descent into Hell",
+   "farmer_id": "4>8",
+   "farmer_line": 21657,
+   "latin_incipit_farmer_ocr": "Christus non ueraciter et quantum ad realem presentiam descendit ad inferos ut ponit Thommas et communis uia, sed solum quo ad effectum",
+   "repo_entry": "H.1.1",
+   "audit_result": "matches in substance; repo Latin reconstructed, differs from Farmer"
+  },
+  {
+   "q": 2,
+   "topic": "Punishment of mortal sin",
+   "farmer_id": "4>19-20",
+   "farmer_line": 21873,
+   "latin_incipit_farmer_ocr": "Secunda est quod peccato mortali finiti temporis non debetur poena infinita secundum tempus, sed finita tantum",
+   "repo_entry": "H.1.2",
+   "audit_result": "unfilled; repo tags wrongly say original sin"
+  },
+  {
+   "q": 3,
+   "topic": "Adoration of the cross and images",
+   "farmer_id": "4>14",
+   "farmer_line": 21771,
+   "latin_incipit_farmer_ocr": "Nec crux Christi nec ulla imago adoranda est adoratione latriae, etiam eo modo quo ponit Thommas",
+   "repo_entry": "H.1.3",
+   "audit_result": "unfilled"
+  },
+  {
+   "q": 4,
+   "topic": "Assumption of natures by God",
+   "farmer_id": "4>13",
+   "farmer_line": 21767,
+   "latin_incipit_farmer_ocr": "Non assentior communi sententiae theologorum dicentium posse deum quamlibet naturam suppositare, sed de rationali tamen hoc concedo",
+   "repo_entry": "H.1.4",
+   "audit_result": "WRONG: repo Latin invented"
+  },
+  {
+   "q": 5,
+   "topic": "Magic and Kabbalah and Christ's divinity",
+   "farmer_id": "9>9",
+   "farmer_line": 25208,
+   "latin_incipit_farmer_ocr": "Nulla est scientia quae nos magis certificet de diuinitate Christi quam magia et cabala",
+   "repo_entry": "H.1.5",
+   "audit_result": "matches"
+  },
+  {
+   "q": 6,
+   "topic": "Eucharist: presence without conversion",
+   "farmer_id": "4>2",
+   "farmer_line": 21444,
+   "latin_incipit_farmer_ocr": "Si teneatur communis uia de possibilitate suppositationis in respectu ad quamcunque creaturam, dico quod sine conuersione panis in corpus Christi uel paneitatis anihilatione, potest fieri ut in altari sit corpus Christi ...",
+   "repo_entry": "H.1.6",
+   "audit_result": "INVERTED in repo"
+  },
+  {
+   "q": 7,
+   "topic": "Salvation of Origen",
+   "farmer_id": "4>29",
+   "farmer_line": 22051,
+   "latin_incipit_farmer_ocr": "Rationabilius est credere Origenem esse saluum, quam credere ipsum esse damnatum",
+   "repo_entry": "H.1.7",
+   "audit_result": "unfilled"
+  },
+  {
+   "q": 8,
+   "topic": "Freedom to believe",
+   "farmer_id": "4>18",
+   "farmer_line": 21862,
+   "latin_incipit_farmer_ocr": "Dico probabiliter, et nisi esset communis modus dicendi theologorum in oppositum, firmiter assererem ... nullus credit aliquid esse uerum praecise quia uult credere id esse uerum",
+   "repo_entry": "H.1.8",
+   "audit_result": "unfilled"
+  },
+  {
+   "q": 9,
+   "topic": "Eucharist: accidents",
+   "farmer_id": "4>1",
+   "farmer_line": 21439,
+   "latin_incipit_farmer_ocr": "Qui dixerit accidens existere non posse nisi inexistat, Eucharistiae poterit sacramentum tenere etiam tenendo panis substantiam non remanere ut tenet communis uia",
+   "repo_entry": "H.1.9",
+   "audit_result": "WRONG: repo states the opposite"
+  },
+  {
+   "q": 10,
+   "topic": "Eucharist: words of consecration",
+   "farmer_id": "4>10",
+   "farmer_line": 21666,
+   "latin_incipit_farmer_ocr": "Illa uerba (hoc est corpus, etc.), quae in consecratione dicuntur, materialiter tenentur non significatiue",
+   "repo_entry": "H.1.10",
+   "audit_result": "repo Latin invented, English distorted"
+  },
+  {
+   "q": 11,
+   "topic": "Christ's miracles",
+   "farmer_id": "9>8 (UNCONFIRMED; 9>7 is the alternative)",
+   "farmer_line": 25204,
+   "latin_incipit_farmer_ocr": "Miracula Christi non ratione rei factae, sed ratione modi faciendi, suae diuinitatis argumentum certissimum sunt",
+   "repo_entry": "H.1.11",
+   "audit_result": "unfilled; identification unconfirmed"
+  },
+  {
+   "q": 12,
+   "topic": "Whether God understands",
+   "farmer_id": "3>49",
+   "farmer_line": 20990,
+   "latin_incipit_farmer_ocr": "Magis improprie dicitur de deo quod sit intellectus uel intelligens, quam de anima rationali quod sit angelus",
+   "repo_entry": "H.1.12",
+   "audit_result": "unfilled"
+  },
+  {
+   "q": 13,
+   "topic": "The hidden understanding of the soul",
+   "farmer_id": "3>60",
+   "farmer_line": 21254,
+   "latin_incipit_farmer_ocr": "Nihil intelligit actu et distincte anima, nisi se ipsam",
+   "repo_entry": "H.1.13",
+   "audit_result": "unfilled"
+  }
+ ]
+}

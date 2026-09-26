@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A3 found data/sources.json holds 46 of a claimed 87 sources, is a list of supposed influences and not a bibliography, and that at least eight of ten rows checked contain factual errors.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Sources Feature — Pico900
 
 ## Overview

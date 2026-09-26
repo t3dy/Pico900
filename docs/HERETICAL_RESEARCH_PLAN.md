@@ -1,3 +1,8 @@
+<!-- QUARANTINE-BANNER -->
+> **QUARANTINED 2026-09-25: do not cite, quote or build on this file.**  
+> audit/A2 found pre-reading hypotheses here later re-issued as quotations (lines 84-85, 117) and misnamed bibliography. Treat every claim as a lead, not a finding.  
+> Rewrite from the sources under `docs/ORCHESTRATION.md` (RESEARCHER -> WRITER -> VERIFIER). Evidence in `audit/`.
+
 # Phase 0 Research Plan: Heretical Essay on Condemned Propositions
 
 **Objective**: Research the 13 conclusions condemned by Pope Innocent VIII (1486). Output: essay outline + citation map. Use this as a learning ground to refine the pipeline before scaling to all 900 conclusions.
