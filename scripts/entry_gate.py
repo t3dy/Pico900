@@ -11,7 +11,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REG = json.load(io.open(os.path.join(ROOT, "data", "corpus", "registry.json"), encoding="utf-8"))["works"]
 INV = {t["thesis_id"]: t for t in json.load(io.open(os.path.join(ROOT, "data", "inventory", "theses.json"), encoding="utf-8"))["theses"]}
 LOC = re.compile(r"\b([a-z][a-z0-9_]{2,40}):(\d{2,6})(?:\s?-\s?(\d{2,6}))?\b")
-PROSE = ("doctrine", "context", "reception", "historiography", "attribution", "latin_note", "translation_note", "commission_verdict")
+COMMENTARY = ("doctrine", "context", "reception", "historiography", "commission_verdict")  # every sentence needs a locator
+NOTES = ("attribution", "latin_note", "translation_note")  # short editorial notes: scholars named must be anchored, locators optional
+PROSE = COMMENTARY + NOTES
 SURNAMES = ["Copenhaver", "Farmer", "Wirszubski", "Edelheit", "Howlett", "Black", "Allen", "Akopyan", "Busi", "Dougherty", "Idel",
             "Scholem", "Kristeller", "Garin", "Yates", "Craven", "Di Napoli", "Kieszkowski", "Biondi", "Fornaciari", "Caroti",
             "Robiglio", "Mahoney", "Nardi", "Corazzol", "Ogren", "Novak", "Cassirer", "Walker", "Trinkaus", "Bausi", "Valcke"]
@@ -94,8 +96,8 @@ def check(path):
         if r > 0.85:
             fails.append(f"translation is near-identical to Farmer's English (similarity {r:.2f}); write an original rendering")
         notes.append(f"translation/Farmer similarity {r:.2f}")
-    # 4 prose sentences carry locators
-    for f in PROSE:
+    # 4 commentary sentences carry locators
+    for f in COMMENTARY:
         txt = d.get(f) or ""
         if not txt:
             continue

@@ -51,8 +51,10 @@ begins. Line numbers are those of the Markdown/plain-text file, not printed page
 1. Every locator's work-key exists in the registry and its line number lies inside that file.
 2. Every item in `quotations` is found verbatim (whitespace- and OCR-normalised) within 3 lines of its locator.
 3. `translation` is not identical, nor near-identical, to the text at Farmer's English line (copyright).
-4. Prose fields contain no sentence without a locator, except sentences inside `not_established`.
-5. No scholar surname appears in prose that does not appear in the registry or in `quotations`.
+4. The commentary fields (`doctrine`, `context`, `reception`, `historiography`, `commission_verdict`) contain no
+   sentence without a locator; the short notes (`attribution`, `latin_note`, `translation_note`) need a locator only
+   where they make a claim about a source.
+5. No scholar surname appears in any prose or note field without a locator in the same sentence.
 6. `tier` D entries have only `latin*`, `translation*`, `translator`, `pico_stance`, `attribution`.
 
 A draft that fails is returned to the WRITER with the failing rule; it is never patched by the gate.

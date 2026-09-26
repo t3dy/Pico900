@@ -882,3 +882,43 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   Bibliography (90+ searchable/exportable works), Biography (interactive life timeline), Primary Texts (facing-page editions
   of Oration, Commento, Heptaplus, De ente), and About.
 
+- **D-24 (proposed, then reversed same day) In-repo research corpus for cloud sessions.** A commit staged all 73
+  canonical Markdown corpus files, 146 plain-text conversions and generated Latin texts under `data/corpus/` and
+  `data/texts/` to let cloud sessions work without local `E:\` access. It was never pushed (D-25) and was dropped
+  from history entirely on 2026-09-27 (D-28) once Ted said explicitly not to commit copyrighted material. A cloud
+  session now gets the corpus by other means (a private mount, or Ted supplying it out of band), not via `git`.
+
+## 2026-09-26, morning (window-8857d983)
+
+- **D-25 The in-repo corpus must not reach the public remote.** `github.com/t3dy/Pico900` is PUBLIC. The commit behind
+  D-24 added 73 MB of full-text conversions of in-copyright, libgen-sourced books under `data/corpus/`; the project's
+  operating constraint ("never commit copyrighted full-text scholarly books; quotations only") and ordinary copyright
+  law forbid publishing them. The commit was local and unpushed and stayed so. Flagged to Ted in chat on 2026-09-26;
+  resolved 2026-09-27 by D-28.
+- **D-26 Entry gate rule 4 narrowed** to the commentary fields; the short notes (`attribution`, `latin_note`,
+  `translation_note`) need locators only where they claim something about a source. Reason: the first 118 drafts showed
+  the rule rejecting one-line attributions; the gate must fail on invention, not on form. 89/118 pass after the change.
+- **D-27 Incremental output for swarm agents.** Every writer or translator writes each entry file as soon as it is
+  composed. Reason: two translators built the whole block in a generation script and lost it all to a session limit.
+
+## 2026-09-27 (window-8857d983): resolving D-25 per Ted's explicit instruction
+
+Ted, in chat: "don't commit anything copyrighted to the github just our digital edition and project and website etc
+we've been building."
+
+- **D-28 Drop the copyrighted-corpus commit from history; push only the edition and its apparatus.** The commit behind
+  D-24 was removed from `main`'s history with `git rebase --onto` (verified: no later commit depended on its files;
+  the rebase was clean). `.gitignore` now excludes `data/corpus/`, `data/texts/`, `docs/resources/` so they cannot be
+  re-added by accident. This closes D-25: nothing in `data/corpus/`, `data/texts/`, or `docs/resources/` (SEP entries,
+  copied verbatim) is ever committed. `main` is pushed after this decision.
+- **D-29 Research-stage material with embedded scholar excerpts stays local.** `research-packets/*.md` and
+  `data/ontology/mentions/**/*.json` (the harvester's per-thesis dossiers) each carry hundreds of ~700-character
+  `context` excerpts copied verbatim from in-copyright scholarship (Copenhaver, Wirszubski, Edelheit, and others),
+  gathered so a WRITER agent doesn't have to re-open the source book for every sentence. In aggregate — roughly 1,800
+  files, ~9.5 MB — this is a substantial reproduction of secondary sources and not "our digital edition"; it is
+  scratch working material, reproducible at will from `scripts/harvest_mentions.py` + `scripts/build_dossiers.py`
+  against the local corpus. Untracked from git (`git rm --cached`) and added to `.gitignore`; kept on disk locally.
+  What *is* pushed and is the edition itself: `entries/` (our own prose, with short attributed quotations, exactly
+  the kind of quotation any published scholarly edition makes), `data/inventory/` (Pico's own Latin, the primary
+  text under edition — public domain, 1486), `data/ontology/theses.json`, `MENTION_STATS.md` and `stats.json`
+  (aggregate counts and rankings, not excerpt text), `docs/`, `scripts/`, and the site itself.
