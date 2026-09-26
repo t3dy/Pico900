@@ -1,0 +1,20 @@
+{
+ "thesis_id": "24.47",
+ "tier": "C",
+ "latin": "Omnis ordo medius manet in antecedente stabiliter, et in se firmat consequentem.",
+ "latin_source": "farmer1998:16701",
+ "translation": "Every middle order remains stably in what precedes it, and establishes in itself what follows.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16701",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.46",
+  "24.48"
+ ]
+}

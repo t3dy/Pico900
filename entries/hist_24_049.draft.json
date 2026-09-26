@@ -1,0 +1,20 @@
+{
+ "thesis_id": "24.49",
+ "tier": "C",
+ "latin": "Prima trinitas manet tantum, secunda manet et procedit, tertia post processum conuertit.",
+ "latin_source": "farmer1998:16710",
+ "translation": "The first triad only remains in itself; the second remains and proceeds; the third, after proceeding, reverts to its source.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16710",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.48",
+  "24.50"
+ ]
+}

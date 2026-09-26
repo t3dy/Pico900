@@ -1,0 +1,17 @@
+{
+ "thesis_id": "7.26",
+ "tier": "C",
+ "latin": "Propositio necessaria quae ab Aristotele in libro Priorum contra possibilem et inuentam distinguitur, est illa quae est ex terminis necessariis.",
+ "latin_source": "farmer1998:13282",
+ "translation": "The necessary proposition, which Aristotle in the Prior Analytics distinguishes from the possible proposition and the 'found' proposition, is that which is composed of necessary terms.",
+ "translation_note": "'Inuenta' ('found') renders a scholastic technical term for a class of assertoric premises discussed alongside necessary and possible ones (farmer1998:13282).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch1, from Latin at farmer1998:13282",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes",
+ "not_established": [
+  "No secondary scholarship discussing thesis 7.26 specifically was found in the corpus harvest (0 scholar mentions); it is not established which particular passage or work Pico is reporting or against whom, beyond the source named in the thesis itself."
+ ],
+ "writer": "WRITER-light-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

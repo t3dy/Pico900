@@ -1,0 +1,21 @@
+{
+ "thesis_id": "24.35",
+ "tier": "C",
+ "latin": "Dei de quibus in Phedro_in quatuor trinitates sunt distinguendi: Opificatiuam, Custoditiuam, Vitalem, et Conuersiuam.",
+ "latin_source": "farmer1998:16487",
+ "latin_note": "The corpus text prints an underscore where the sentence runs 'de quibus in Phedro' into 'in quatuor trinitates'; read here as a clause break (farmer1998:16562).",
+ "translation": "The gods spoken of in the Phaedrus are to be distinguished into four triads: the creative, the guardian, the vital, and the reversive.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16487",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.34",
+  "24.36"
+ ]
+}

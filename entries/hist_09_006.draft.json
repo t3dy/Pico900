@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.6",
+ "tier": "C",
+ "latin": "Qui crediderit intentionem dici de omni esse aliam ab ea quam dixit praecedens conclusio defendere non potest Aristotelem a Theophrasto, quod ex maiori necessaria et minori inuenta sequatur conclusio necessaria.",
+ "latin_source": "farmer1998:13876",
+ "translation": "Whoever believes that the sense of 'predicated of all' is other than what the preceding conclusion stated cannot defend Aristotle against Theophrastus, that a necessary conclusion follows from a necessary major premise and a minor premise that is merely found true.",
+ "translation_note": "Refers to the ancient dispute, reported for Theophrastus, over whether a necessary conclusion can follow a syllogism with an assertoric (non-modal) minor premise (farmer1998:13876).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13876",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.6 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

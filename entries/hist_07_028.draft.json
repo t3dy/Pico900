@@ -1,0 +1,17 @@
+{
+ "thesis_id": "7.28",
+ "tier": "C",
+ "latin": "Cum Aristoteles dixit ex maiori necessaria et minore inuenta/concludi conclusionem necessariam, intelligendum est de minore quae est inuenta per se, necessaria per accidens.",
+ "latin_source": "farmer1998:13290",
+ "latin_note": "Farmer's text shows a slash ('inuenta/concludi') at the point of an apparent line break in the source; read continuously as 'inuenta concludi' (farmer1998:13290).",
+ "translation": "When Aristotle said that a necessary conclusion is concluded from a necessary major premise and a 'found' minor premise, this must be understood of a minor that is 'found' per se but necessary per accidens.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch1, from Latin at farmer1998:13290",
+ "pico_stance": "reports",
+ "attribution": "Reports Averroes",
+ "not_established": [
+  "No secondary scholarship discussing thesis 7.28 specifically was found in the corpus harvest (0 scholar mentions); it is not established which particular passage or work Pico is reporting or against whom, beyond the source named in the thesis itself."
+ ],
+ "writer": "WRITER-light-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

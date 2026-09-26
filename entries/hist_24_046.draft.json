@@ -1,0 +1,21 @@
+{
+ "thesis_id": "24.46",
+ "tier": "C",
+ "latin": "Sicut secundum causalitatis ambitum, ita secundum nature et gradus sublimitatem haec per ordinem se inuicem excedunt: Anima, Intellectus, Vita,",
+ "latin_source": "farmer1998:16695",
+ "translation": "Just as in the compass of causality, so in the sublimity of nature and degree, these exceed one another in order: Soul, Intellect, Life --",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16695",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "The quoted Latin ends after 'Vita,' with the list apparently incomplete; the terms that would complete the series are not given in the excerpt consulted (farmer1998:16736).",
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.45",
+  "24.47"
+ ]
+}

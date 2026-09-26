@@ -1,0 +1,21 @@
+{
+ "thesis_id": "24.9",
+ "tier": "C",
+ "latin": "Tertium ordinem secundae trinitatis per tres terminos exprimit Plato: extrema, perfectum, et secundum figuram.",
+ "latin_source": "farmer1998:16056",
+ "translation": "Plato expresses the third order of the second triad through three terms: the extremes, the complete, and that which is according to shape.",
+ "translation_note": "'secundum figuram' is rendered 'according to shape'; which Procline term this last term of the triad corresponds to is not confirmed here (farmer1998:16094).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16056",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.8",
+  "24.10"
+ ]
+}

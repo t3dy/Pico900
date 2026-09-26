@@ -1,0 +1,30 @@
+{
+  "thesis_id": "7a>61",
+  "tier": "D",
+  "latin": "Vtrum anima rationalis sit materialis.",
+  "latin_source": "farmer1998:24499",
+  "translation": "Whether the rational soul is material.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch11, from Latin at farmer1998:24499",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "not_established": [
+    "No scholarship in the sources consulted discusses this thesis individually; text and cross-reference are from Farmer's edition alone (farmer1998:24499)."
+  ],
+  "writer": "WRITER-light-batch11 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null,
+  "connections": [
+    "2>70",
+    "3>47",
+    "3>60",
+    "3>61",
+    "3>62",
+    "3>63",
+    "3>64",
+    "3>65",
+    "3>66",
+    "7a>62",
+    "7a>63",
+    "7a>65"
+  ]
+}

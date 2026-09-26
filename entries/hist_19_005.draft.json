@@ -1,0 +1,16 @@
+{
+ "thesis_id": "19.5",
+ "tier": "C",
+ "latin": "Propositio est per se cum uel subiectum diffinit praedicatum, uel praedicatum subiectum, uel ambo diffiniuntur per idem tertium.",
+ "latin_source": "farmer1998:14898",
+ "translation": "A proposition is per se when either the subject defines the predicate, or the predicate the subject, or both are defined through the same third [term].",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:14898",
+ "pico_stance": "reports",
+ "attribution": "Reports Themistius",
+ "not_established": [
+  "No secondary scholarship discussing thesis 19.5 specifically was found in the corpus harvest; the attribution to Themistius rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

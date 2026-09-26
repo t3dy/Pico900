@@ -1,0 +1,18 @@
+{
+ "thesis_id": "20.5",
+ "tier": "C",
+ "latin": "Anima irrationalis est idolum animae rationalis, ab ea dependens sicut lumen 2 sole.",
+ "latin_source": "farmer1998:15098",
+ "latin_note": "Latin as given reads 'lumen 2 sole' (probable OCR corruption of 'lumen a sole'); not corrected in the field above, only in translation.",
+ "translation": "The irrational soul is an image of the rational soul, depending on it as light depends on the sun.",
+ "translation_note": "The source prints 'lumen 2 sole', evidently an OCR misreading of 'lumen a sole' ('light from the sun'); translated on that reading.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch3, from Latin at farmer1998:15098",
+ "pico_stance": "reports",
+ "attribution": "Reports Plotinus",
+ "not_established": [
+  "No secondary scholarship discussing thesis 20.5 specifically was found in the corpus harvest."
+ ],
+ "writer": "WRITER-light-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

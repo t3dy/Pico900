@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.7",
+ "tier": "C",
+ "latin": "Possibile quod diffinit Aristoteles in libro Priorum_est commune ad possibile et ad inuentum, ut contra distinctum necessario.",
+ "latin_source": "farmer1998:13881",
+ "translation": "The 'possible' that Aristotle defines in the book of the Prior Analytics is common to both the possible and the actually-found, as distinguished from the necessary.",
+ "translation_note": "OCR joins 'Priorum' and 'est' without a space in the source text; read as 'Priorum est' (farmer1998:13881).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13881",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.7 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

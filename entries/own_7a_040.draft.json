@@ -1,0 +1,17 @@
+{
+ "thesis_id": "7a>40",
+ "tier": "D",
+ "latin": "Quae opinio uerior de trinitate: Arn, Sabellii, Eucliph, aut fidei catholicae.",
+ "latin_source": "farmer1998:24263",
+ "translation": "Which opinion about the Trinity is truer: that of 'Arn', of Sabellius, of 'Eucliph', or that of the catholic faith.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch10, from Latin at farmer1998:24263",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own question",
+ "writer": "WRITER-light-batch10 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "translation_note": "The first and third names are given exactly as the source text prints them at farmer1998:24263 ('Arn', 'Eucliph'); these read as corrupted or abbreviated forms of heresiarchs' names, transcribed as-is rather than silently emended.",
+ "not_established": [
+  "The identity behind 'Arn' and 'Eucliph' is not established here (possibly Arius and a third Trinitarian heresiarch, e.g. Eunomius or Eutyches, but this is a guess, not a finding); no scholarship on this specific thesis was consulted."
+ ]
+}

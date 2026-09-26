@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.5",
+ "tier": "C",
+ "latin": "Intentio dici de omni secundum Aristotelem est talis quod praedicatum dicitur de subiecto, et de omni eo quod est subiectum actu uel potentia, possibilitate contingentiae, non necessitatis.",
+ "latin_source": "farmer1998:13789",
+ "translation": "The sense of 'predicated of all' according to Aristotle is such that the predicate is predicated of the subject, and of everything that is the subject either actually or potentially, with a contingent possibility, not a necessary one.",
+ "translation_note": "'dici de omni' (the dictum de omni) is the technical term from the Prior Analytics for a predicate holding of every instance of a subject term (farmer1998:13789).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13789",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.5 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

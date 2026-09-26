@@ -1,0 +1,17 @@
+{
+ "thesis_id": "17.9",
+ "tier": "C",
+ "latin": "Cum dicit Anstoteles non recordari nos post mortem quia passiuus intellectus corrumpitur, per passiuum intellectum, possibilem intellectum intelligit.",
+ "latin_source": "farmer1998:14655",
+ "translation": "When Aristotle says that we do not remember after death because the passive intellect is corrupted, by 'passive intellect' he means the possible intellect.",
+ "translation_note": "The source text reads 'Anstoteles' for 'Aristoteles' (farmer1998:14655).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:14655",
+ "pico_stance": "reports",
+ "attribution": "Reports Simplicius",
+ "not_established": [
+  "No secondary scholarship discussing thesis 17.9 specifically was found in the corpus harvest; the attribution to Simplicius rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

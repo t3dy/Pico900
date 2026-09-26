@@ -1,0 +1,28 @@
+{
+  "thesis_id": "7a>70",
+  "tier": "D",
+  "latin": "Vtrum distinguatur irascibilis a concupiscibili.",
+  "latin_source": "farmer1998:24613",
+  "translation": "Whether the irascible is distinguished from the concupiscible.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch11, from Latin at farmer1998:24613",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "not_established": [
+    "No scholarship in the sources consulted discusses this thesis individually; text and cross-reference are from Farmer's edition alone (farmer1998:24613)."
+  ],
+  "writer": "WRITER-light-batch11 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null,
+  "connections": [
+    "11>72",
+    "2.11",
+    "22.4",
+    "5>19",
+    "5>29",
+    "5>30",
+    "7a>71",
+    "7a>72",
+    "7a>73",
+    "7a>74"
+  ]
+}

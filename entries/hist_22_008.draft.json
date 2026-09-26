@@ -1,0 +1,18 @@
+{
+ "thesis_id": "22.8",
+ "tier": "C",
+ "latin": "Ex praecedenti conclusione elicio ego cur luna in ascendente dat sanita-",
+ "latin_source": "farmer1998:15462",
+ "latin_note": "Text is truncated in the source mid-word at 'sanita-' (apparent OCR/page-break loss).",
+ "translation": "From the preceding conclusion I deduce why the moon in the ascendant gives heal—",
+ "translation_note": "The Latin at farmer1998:15462 breaks off mid-word at 'sanita-'; the translation stops at the corresponding point rather than guessing the missing word (probably a form of 'sanitas', health).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch3, from Latin at farmer1998:15462",
+ "pico_stance": "reports",
+ "attribution": "Reports Porphyry",
+ "not_established": [
+  "No secondary scholarship discussing thesis 22.8 specifically was found in the corpus harvest."
+ ],
+ "writer": "WRITER-light-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

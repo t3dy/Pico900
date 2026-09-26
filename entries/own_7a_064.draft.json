@@ -1,0 +1,20 @@
+{
+  "thesis_id": "7a>64",
+  "tier": "D",
+  "latin": "Vtrum sicut est dare mundum sensibilem, ita sit dare mundum intelligibilem.",
+  "latin_source": "farmer1998:24508",
+  "translation": "Whether, just as there is a sensible world to posit, so there is an intelligible world to posit.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch11, from Latin at farmer1998:24508",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion",
+  "not_established": [
+    "No scholarship in the sources consulted discusses this thesis individually; text and cross-reference are from Farmer's edition alone (farmer1998:24508)."
+  ],
+  "writer": "WRITER-light-batch11 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null,
+  "translation_note": "'dare' is the scholastic idiom for positing an entity's existence, not literally 'to give' (farmer1998:24508).",
+  "connections": [
+    "7a>65"
+  ]
+}

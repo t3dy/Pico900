@@ -1,0 +1,21 @@
+{
+ "thesis_id": "24.36",
+ "tier": "C",
+ "latin": "Quatuor sunt exercitus iuniorum deorum. Primus habitat a primo coelo usque ad principium aeris; secundus inde usque ad dimidium aeris. Tertius inde usque ad terram.",
+ "latin_source": "farmer1998:16491",
+ "translation": "There are four hosts of the younger gods. The first dwells from the first heaven down to the beginning of the air; the second from there down to the middle of the air; the third from there down to the earth.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16491",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "The Latin as given in the corpus announces four hosts but names only three; whether a fourth clause was dropped in transcription of the source is not established by the material consulted (farmer1998:16564).",
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.35",
+  "24.37"
+ ]
+}

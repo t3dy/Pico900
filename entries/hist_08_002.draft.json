@@ -1,0 +1,16 @@
+{
+ "thesis_id": "8.2",
+ "tier": "C",
+ "latin": "Licet in nullo syllogismo qui sit actu uel potentia cathegoricus ex duabus negatiuis concludi possit, potest tamen hoc fieri in syllogismo compositiuo, ut scilicet ex duabus negatiuis concludatur.",
+ "latin_source": "farmer1998:13570",
+ "translation": "Although in no syllogism that is actually or potentially categorical can a conclusion be drawn from two negative premises, this can nevertheless happen in a compositive syllogism, namely that a conclusion be drawn from two negatives.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch1, from Latin at farmer1998:13570",
+ "pico_stance": "reports",
+ "attribution": "Reports Avicenna",
+ "not_established": [
+  "No secondary scholarship discussing thesis 8.2 specifically was found in the corpus harvest (0 scholar mentions); it is not established which particular passage or work Pico is reporting or against whom, beyond the source named in the thesis itself."
+ ],
+ "writer": "WRITER-light-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

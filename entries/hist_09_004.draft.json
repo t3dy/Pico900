@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.4",
+ "tier": "C",
+ "latin": "Cum dicit Aristoteles omnem doctrinam et omnem disciplinam fieri ex praeexistenti cognitione, intelligende sunt per doctrinam et disciplinam cognitio diffinitiua et argumentatiua.",
+ "latin_source": "farmer1998:13784",
+ "translation": "When Aristotle says that all teaching and all learning arise from pre-existing knowledge, by 'teaching' and 'learning' are to be understood definitional and argumentative knowledge.",
+ "translation_note": "'doctrina' and 'disciplina' render the standard scholastic pairing of teaching (the teacher's act) and learning (the learner's act), here glossed as knowledge gained respectively by definition and by argumentation (farmer1998:13784).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13784",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.4 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

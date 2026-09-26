@@ -1,0 +1,17 @@
+{
+ "thesis_id": "23.5",
+ "tier": "C",
+ "latin": "Super hunc mundum, quem uocant Theologi < >, est alius quem uocant < >, et super hunc alius quem uocant < >.",
+ "latin_source": "farmer1998:15746",
+ "translation": "Above this world, which the theologians call < >, there is another which they call < >, and above this another which they call < >.",
+ "translation_note": "The bracketed gaps '< >' are already present in the Farmer source text at farmer1998:15746 (evidently terms, likely transliterated Greek, missing from the transcription); reproduced as found, with no content supplied for them.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch3, from Latin at farmer1998:15746",
+ "pico_stance": "reports",
+ "attribution": "Reports Iamblichus",
+ "not_established": [
+  "No secondary scholarship discussing thesis 23.5 specifically was found in the corpus harvest."
+ ],
+ "writer": "WRITER-light-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

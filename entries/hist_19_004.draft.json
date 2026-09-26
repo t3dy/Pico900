@@ -1,0 +1,17 @@
+{
+ "thesis_id": "19.4",
+ "tier": "C",
+ "latin": "Praeter duas species demonstrationis quia quas ponit Aristoteles, tertia alia ponenda est, et est cum una proprietas per coeuam proprietatem demonstratur.",
+ "latin_source": "farmer1998:14893",
+ "translation": "Besides the two species of demonstration 'that' [quia] which Aristotle posits, a third must be posited, namely when one property is demonstrated through a coeval property.",
+ "translation_note": "'demonstratio quia' (demonstration of the fact, as opposed to 'propter quid', demonstration of the reasoned fact) is Aristotle's term from Posterior Analytics 1.13 (farmer1998:14893).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:14893",
+ "pico_stance": "reports",
+ "attribution": "Reports Themistius",
+ "not_established": [
+  "No secondary scholarship discussing thesis 19.4 specifically was found in the corpus harvest; the attribution to Themistius rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

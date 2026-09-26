@@ -1,0 +1,17 @@
+{
+ "thesis_id": "16.1",
+ "tier": "C",
+ "latin": "Diffinitio de anima data ab Aristotele in qua dicitur: Anima est actus corporis, cum de rationali, de qua principaliter datur, intelligitur, accipienda est causaliter non formaliter.",
+ "latin_source": "farmer1998:14474",
+ "translation": "The definition of the soul given by Aristotle, in which it is said 'the soul is the act of the body,' when understood of the rational soul (of which it is chiefly given), is to be taken causally, not formally.",
+ "translation_note": "'causaliter non formaliter': the rational soul is the body's act as its cause, not as a form intrinsically informing it, per the standard scholastic distinction (farmer1998:14474).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:14474",
+ "pico_stance": "reports",
+ "attribution": "Reports Ammonius",
+ "not_established": [
+  "No secondary scholarship discussing thesis 16.1 specifically was found in the corpus harvest; the attribution to Ammonius rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

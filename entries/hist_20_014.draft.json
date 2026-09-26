@@ -1,0 +1,18 @@
+{
+ "thesis_id": "20.14",
+ "tier": "C",
+ "latin": "Sicut accidentalis foelicitas animaduersione indiget, ita substantialis foelicitas per carentiam animaduersionis non solum non deperditur, sed",
+ "latin_source": "farmer1998:15211",
+ "latin_note": "Text is truncated in the source at 'sed' (apparent OCR/page-break loss); no continuation is available to quote.",
+ "translation": "Just as accidental happiness needs conscious awareness, so substantial happiness, through the lack of such awareness, is not only not lost, but—",
+ "translation_note": "The Latin at farmer1998:15211 breaks off mid-sentence after 'sed'; the translation stops at the same point rather than supplying the missing continuation.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch3, from Latin at farmer1998:15211",
+ "pico_stance": "reports",
+ "attribution": "Reports Plotinus",
+ "not_established": [
+  "No secondary scholarship discussing thesis 20.14 specifically was found in the corpus harvest."
+ ],
+ "writer": "WRITER-light-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,20 @@
+{
+ "thesis_id": "24.25",
+ "tier": "C",
+ "latin": "Quadruplex est fabrica: prima uniuersalia uniuersalium ex toto perornat; secunda uniuersa quidem sed particulariter; tertia secundum diuisa secundum uniuersalitatem; quarta partes particulariter contexit uniuersalibus.",
+ "latin_source": "farmer1998:16292",
+ "translation": "Fabrication is fourfold: the first adorns, as a whole, the universals of universals; the second adorns universal things too, but in a particular way; the third adorns divided things, but according to universality; the fourth weaves particular parts together with universals in a particular way.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch4, from Latin at farmer1998:16292",
+ "pico_stance": "reports",
+ "attribution": "Reports Proclus",
+ "writer": "WRITER-light-batch4 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null,
+ "not_established": [
+  "No secondary scholarship among the sources consulted discusses this thesis."
+ ],
+ "connections": [
+  "24.24",
+  "24.26"
+ ]
+}

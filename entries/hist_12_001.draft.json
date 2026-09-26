@@ -1,0 +1,17 @@
+{
+ "thesis_id": "12.1",
+ "tier": "C",
+ "latin": "Demonstratio octaui Physicorum, a Aristotele ad probandum primum motorem adducta, aliquid probat speciale primo.",
+ "latin_source": "farmer1998:14139",
+ "translation": "The demonstration in the eighth book of the Physics, brought forward by Aristotle to prove a first mover, proves something particular about a first mover, not an absolutely first one.",
+ "translation_note": "'aliquid probat speciale primo' is ambiguous; rendered per the standard reading that the argument proves only a limited, not an absolutely universal, first mover (farmer1998:14139).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:14139",
+ "pico_stance": "reports",
+ "attribution": "Reports Moses of Egypt",
+ "not_established": [
+  "No secondary scholarship discussing thesis 12.1 specifically was found in the corpus harvest; the attribution to Moses of Egypt rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

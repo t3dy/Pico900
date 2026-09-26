@@ -1,0 +1,17 @@
+{
+ "thesis_id": "8.11",
+ "tier": "C",
+ "latin": "Organum odoratus sunt caruncule mamillares in anteriori cerebri parte constitutae.",
+ "latin_source": "farmer1998:13680",
+ "translation": "The organ of smell is the mammillary caruncles situated in the anterior part of the brain.",
+ "translation_note": "'Caruncule mamillares' (mammillary caruncles/processes) is the medieval anatomical term, following Avicenna, for what later anatomy identifies with the olfactory bulbs (farmer1998:13680).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch1, from Latin at farmer1998:13680",
+ "pico_stance": "reports",
+ "attribution": "Reports Avicenna",
+ "not_established": [
+  "No secondary scholarship discussing thesis 8.11 specifically was found in the corpus harvest (0 scholar mentions); it is not established which particular passage or work Pico is reporting or against whom, beyond the source named in the thesis itself."
+ ],
+ "writer": "WRITER-light-batch1 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

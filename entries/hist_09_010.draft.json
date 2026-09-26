@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.10",
+ "tier": "C",
+ "latin": "Quelibet species secundum esse spirituale_est formaliter cognitio.",
+ "latin_source": "farmer1998:13892",
+ "translation": "Any species, according to its spiritual mode of being, is formally an act of cognition.",
+ "translation_note": "OCR joins 'spirituale' and 'est' without a space in the source text; read as 'spirituale est' (farmer1998:13892).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13892",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.10 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

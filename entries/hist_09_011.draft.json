@@ -1,0 +1,17 @@
+{
+ "thesis_id": "9.11",
+ "tier": "C",
+ "latin": "Actualis cognitio sensus communis apprehendentis phantasma ut sensibile_est somnium.",
+ "latin_source": "farmer1998:13895",
+ "translation": "The actual cognition of the common sense, apprehending a phantasm as a sensible thing, is a dream.",
+ "translation_note": "OCR joins 'sensibile' and 'est' without a space in the source text; read as 'sensibile est' (farmer1998:13895).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-light-batch2, from Latin at farmer1998:13895",
+ "pico_stance": "reports",
+ "attribution": "Reports al-Farabi",
+ "not_established": [
+  "No secondary scholarship discussing thesis 9.11 specifically was found in the corpus harvest; the attribution to al-Farabi rests on the 900 Conclusions' own section rubric, not on external confirmation."
+ ],
+ "writer": "WRITER-light-batch2 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
