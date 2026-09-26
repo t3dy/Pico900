@@ -1,49 +1,136 @@
 {
-  "thesis_id": "4>18",
-  "tier": "A",
-  "latin": "Dico probabiliter, et nisi esset communis modus dicendi theologorum in oppositum, firmiter assererem; assero tamen hoc dictum in se esse probabile, et est: quod sicut nullus opinatur aliquid ita esse praecise quia uult sic opinari, ita nullus credit aliquid esse uerum praecise quia uult credere id esse uerum. Correlarium: Non est in potestate libera hominis credere articulum fidei esse uerum quando placet, et credere eum esse falsum quando sibi placet.",
-  "latin_source": "farmer1998:21862",
-  "latin_note": "Copy-text Farmer 1998, thesis farmer1998:21862-21866, corollary farmer1998:21869-21870; u/v as Farmer prints them. The underscores in the OCR ('praecise_quia', 'uerum_quando') are scanning artefacts and are printed here as spaces; Edelheit's transcription of Farmer's text has the same words (edelheit2022:21290-21295). The corollary is included because the censure concerned it (dougherty2008:2208-2211; copenhaver2022:11515-11516). In the Apology Pico omitted the preamble ('Dico probabiliter ... et est') and restated the thesis in slightly different words (copenhaver2022:10135-10148).",
-  "translation": "I say it as a probable opinion, and I would affirm it outright were the theologians' customary way of speaking not against it; still, I affirm that the statement is probable in itself. It is this: just as no one opines that a thing is so exactly and only because he wants to opine it, so no one believes a thing true exactly and only because he wants to believe it true. Corollary: A person does not have it in his free power to believe an article of faith true when he likes and to believe it false when he likes.",
-  "translation_note": "'praecise' is rendered 'exactly and only', following Copenhaver's analysis of the adverb, from praecidere, 'cut off in front' (copenhaver2022:10769-10777). The preamble is taken with 'in oppositum' governing the theologians' common manner of speaking, so that what Pico would firmly assert is his own dictum, as Farmer's sense also has it (farmer1998:21910-21912); Copenhaver's rendering attaches 'the opposite' to what Pico would assert (copenhaver2022:10139-10140), a reading the Latin order does not obviously support (editorial judgement from farmer1998:21862-21863). 'assero' and 'probabile': Pico asserts only that the dictum is probable, not the dictum itself (farmer1998:21862-21864).",
-  "translator": "machine-drafted 2026-09-25 (agent WRITER-A2), checked against the sense of Farmer's English at farmer1998:21910; awaiting human check",
-  "pico_stance": "endorses (as probable)",
-  "attribution": "Pico's own opinion, among the theological conclusions 'rather opposed to the common mode of speaking of theologians' (farmer1998:21490-21494, 21862).",
-  "sources": [
-    {"text": "Peter Lombard, Sentences 3, distinctions 23-24", "locator": "farmer1998:21891", "pico_relation": "the thesis bears on the commentary tradition on these distinctions"},
-    {"text": "Robert Holcot, Sentences commentary", "locator": "copenhaver2022:12232", "pico_relation": "Q8 of the Apology is modelled on Holcot's arguments, which Pico then disclaims"},
-    {"text": "Pierre d'Ailly, Sentences commentary", "locator": "copenhaver2022:10778", "pico_relation": "cited in Q8; uses 'praecise' in the same context"},
-    {"text": "Aristotle, De anima, with Averroes' Long Commentary (comment 153)", "locator": "copenhaver2022:11521", "pico_relation": "Pico's authority for the first part, that opinion is not willed"},
-    {"text": "Augustine", "locator": "copenhaver2022:11528", "pico_relation": "Pico's authority for the second part, that belief is not willed"}
-  ],
-  "doctrine": "The thesis turns on the difference between assent and assertion: to assent is to accept a proposition, while to assert is to put it forward as one's own claim, and Pico here asserts only that his dictum is probable (copenhaver2022:5735-5740, 5753-5755; farmer1998:21862-21864). Copenhaver notes that Pico's defence of Q4 passes over the epistemic questions of assent and defers them to Q8 (copenhaver2022:5712-5715). Aquinas had defined faith as an act of the intellect assenting to divine truth from a command of the will moved by grace (copenhaver2022:5735-5737). Against that background the thesis makes a two-part claim: as no one holds an opinion exactly and only because he wills to, so no one believes exactly and only because he wills to (farmer1998:21864-21866; copenhaver2022:10763-10777). The corollary applies this to faith and denies what Copenhaver calls doxastic voluntarism, the view that one can believe an article of faith true or not true as one decides (farmer1998:21869-21870; copenhaver2022:1413-1416). Before the commission Pico said that although every act of belief is 'in our power', it is not so by a 'tyrannical command of the will', since the will cannot desire the act against the judgement of reason (farmer1998:21892-21895). In the Apology he cited Aristotle's De anima through Averroes for the first part and Augustine for the second (copenhaver2022:11521-11529). The Augustinian principle as Pico gives it is that no one can believe from mere command of the will 'sine rationis persuasione aut motivo' (edelheit2008:17644-17647). Farmer calls the thesis intellectualist: it held that not even dogmas could be accepted by a pure act of will without first passing intellectual tests (farmer1998:5974-5977).",
-  "context": "Pico recalled that when he was in Paris 'almost the whole University held this view', meaning the epistemology of the nominalist Pierre d'Ailly and others (copenhaver2022:10728-10731). Of the six medieval theologians named in Q8, only Albert the Great was not famously a critic of Thomism (copenhaver2022:10719-10722). Pico modelled Q8 on Robert Holcot, who held without qualification that the act of believing is not free, and then disclaimed Holcot's position as one that 'never seemed right or acceptable to me' (copenhaver2022:10860-10864, 11328-11329). He argued that Holcot had never been condemned for it, so that his own narrower view could hardly be heretical (copenhaver2022:11360-11365). The commission included the Thomist Bishop Pedro Garcia, who later devoted thirty-one pages to answering Pico's five on this Question (copenhaver2022:10678-10681, 1449-1451).",
-  "reception": "The commission found the thesis 'erroneous and savoring of heresy' (farmer1998:21895-21896). Pico reported that the judges condemned the proposition 'along with its corollary' as 'in error and suggestive of heresy' (copenhaver2022:11515-11516). Blum's translation of the record lists the corollary alone as the censured item, with the verdict 'Erroneous and smacks of heresy' (dougherty2008:2208-2211). Garcia's own analysis separated the two: the main conclusion might be acceptable, but the corollary seemed to him erroneous and suggestive of heresy (copenhaver2022:10813-10819). Garcia, citing Aquinas, argued that believing as one wishes is in the will's free power, since reason and will together empower us to believe or not (copenhaver2022:10678-10713). Blum notes that Garcia met Pico's argument by adding a third element, the infused light of faith (dougherty2008:2354-2363). In the Apology Pico called the main conclusion 'not only Catholic but absolutely correct' (copenhaver2022:11516-11517). Farmer judges that the Apology moderated Pico's views somewhat, though his final position is hard to decide (farmer1998:21896-21898).",
-  "historiography": "Farmer uses the thesis against the Burckhardtian image of Pico as the archetypal 'philosopher of will', a reading he traces to misreadings of the first pages of the Oration (farmer1998:5970-5977). Copenhaver agrees that the Apology argued there was no human will to believe, 'denying that people have this freedom that Aquinas had confirmed', but explains the stance as pragmatic: if Pico had been free to believe, the judges could have held him responsible for believing the condemned theses (copenhaver2022:12247-12252, 12266-12271). He adds that Pico's alliances with Holcot and others were 'expedient, not principled' (copenhaver2022:12232-12234). Blum reads Garcia's appeal to infused faith as pushing the debate toward the Reformation question of grace in the act of belief, which Pico had not meant to debate (dougherty2008:2361-2366). The thesis that Farmer sets against the image of Pico as a philosopher of will is itself a denial of one kind of freedom, the freedom to believe at will (editorial inference from farmer1998:5970-5977 and copenhaver2022:12266-12271).",
-  "connections": ["4>13", "4>29", "4>24", "4>25", "5>46"],
-  "condemned_flag": true,
-  "commission_verdict": "'erroneous and savoring of heresy' (farmer1998:21895-21896); Pico's report in the Apology, 'in error and suggestive of heresy' (copenhaver2022:11515-11516); Blum's translation from Dorez and Thuasne 'Erroneous and smacks of heresy', attached to the corollary (dougherty2008:2183, 2208-2211).",
-  "quotations": [
-    {"text": "erroneous and savoring of heresy", "work": "farmer1998", "line": 21896, "verbatim": true},
-    {"text": "in error and suggestive of heresy", "work": "copenhaver2022", "line": 11516, "verbatim": true},
-    {"text": "along with its corollary", "work": "copenhaver2022", "line": 11515, "verbatim": true},
-    {"text": "Erroneous and smacks of heresy", "work": "dougherty2008", "line": 2211, "verbatim": true},
-    {"text": "tyrannical command of the will", "work": "farmer1998", "line": 21894, "verbatim": true},
-    {"text": "almost the whole University held this view", "work": "copenhaver2022", "line": 10729, "verbatim": true},
-    {"text": "never seemed right or acceptable to me", "work": "copenhaver2022", "line": 10863, "verbatim": true},
-    {"text": "not only Catholic but absolutely correct", "work": "copenhaver2022", "line": 11516, "verbatim": true},
-    {"text": "sine rationis persuasione aut motivo", "work": "edelheit2008", "line": 17647, "verbatim": true},
-    {"text": "denying that people have this freedom that Aquinas had confirmed", "work": "copenhaver2022", "line": 12270, "verbatim": true},
-    {"text": "expedient, not principled", "work": "copenhaver2022", "line": 12232, "verbatim": true},
-    {"text": "philosopher of will", "work": "farmer1998", "line": 5972, "verbatim": true}
-  ],
-  "not_established": [
-    "Whether the commission censured the thesis with its corollary or the corollary alone: Pico's own report says both (copenhaver2022:11515-11516), Blum's list gives the corollary (dougherty2008:2208-2211); the notarial record (Dorez and Thuasne 1897, p. 129) is not in the corpus.",
-    "The Latin of the verdict: not established by the sources consulted.",
-    "Pico's final position after the Apology: Farmer finds it difficult to decide (farmer1998:21897-21898).",
-    "Giovanni Caroli's treatment of this thesis (cited at edelheit2022:21296) was not consulted."
-  ],
-  "writer": "WRITER-A2 (agent), 2026-09-25",
-  "verifier": null,
-  "verified_date": null
+ "thesis_id": "4>18",
+ "tier": "A",
+ "latin": "Dico probabiliter, et nisi esset communis modus dicendi theologorum in oppositum, firmiter assererem; assero tamen hoc dictum in se esse probabile, et est: quod sicut nullus opinatur aliquid ita esse praecise quia uult sic opinari, ita nullus credit aliquid esse uerum praecise quia uult credere id esse uerum. Correlarium: Non est in potestate libera hominis credere articulum fidei esse uerum quando placet, et credere eum esse falsum quando sibi placet.",
+ "latin_source": "farmer1998:21862",
+ "latin_note": "Copy-text Farmer 1998, thesis farmer1998:21862-21866, corollary farmer1998:21869-21870; u/v as Farmer prints them. The underscores in the OCR ('praecise_quia', 'uerum_quando') are scanning artefacts and are printed here as spaces; Edelheit's transcription of Farmer's text has the same words (edelheit2022:21290-21295). The corollary is included because the censure concerned it (dougherty2008:2208-2211; copenhaver2022:11515-11516). In the Apology Pico omitted the preamble ('Dico probabiliter ... et est') and restated the thesis in slightly different words (copenhaver2022:10135-10148).",
+ "translation": "I say it as a probable opinion, and I would affirm it outright were the theologians' customary way of speaking not against it; still, I affirm that the statement is probable in itself. It is this: just as no one opines that a thing is so exactly and only because he wants to opine it, so no one believes a thing true exactly and only because he wants to believe it true. Corollary: A person does not have it in his free power to believe an article of faith true when he likes and to believe it false when he likes.",
+ "translation_note": "'praecise' is rendered 'exactly and only', following Copenhaver's analysis of the adverb, from praecidere, 'cut off in front' (copenhaver2022:10769-10777). The preamble is taken with 'in oppositum' governing the theologians' common manner of speaking, so that what Pico would firmly assert is his own dictum, as Farmer's sense also has it (farmer1998:21910-21912); Copenhaver's rendering attaches 'the opposite' to what Pico would assert (copenhaver2022:10139-10140), a reading the Latin order does not obviously support (editorial judgement from farmer1998:21862-21863). 'assero' and 'probabile': Pico asserts only that the dictum is probable, not the dictum itself (farmer1998:21862-21864).",
+ "translator": "machine-drafted 2026-09-25 (agent WRITER-A2), checked against the sense of Farmer's English at farmer1998:21910; awaiting human check",
+ "pico_stance": "endorses (as probable)",
+ "attribution": "Pico's own opinion, among the theological conclusions 'rather opposed to the common mode of speaking of theologians' (farmer1998:21490-21494, 21862).",
+ "sources": [
+  {
+   "text": "Peter Lombard, Sentences 3, distinctions 23-24",
+   "locator": "farmer1998:21891",
+   "pico_relation": "the thesis bears on the commentary tradition on these distinctions"
+  },
+  {
+   "text": "Robert Holcot, Sentences commentary",
+   "locator": "copenhaver2022:12232",
+   "pico_relation": "Q8 of the Apology is modelled on Holcot's arguments, which Pico then disclaims"
+  },
+  {
+   "text": "Pierre d'Ailly, Sentences commentary",
+   "locator": "copenhaver2022:10778",
+   "pico_relation": "cited in Q8; uses 'praecise' in the same context"
+  },
+  {
+   "text": "Aristotle, De anima, with Averroes' Long Commentary (comment 153)",
+   "locator": "copenhaver2022:11521",
+   "pico_relation": "Pico's authority for the first part, that opinion is not willed"
+  },
+  {
+   "text": "Augustine",
+   "locator": "copenhaver2022:11528",
+   "pico_relation": "Pico's authority for the second part, that belief is not willed"
+  }
+ ],
+ "doctrine": "The thesis turns on the difference between assent and assertion: to assent is to accept a proposition, while to assert is to put it forward as one's own claim, and Pico here asserts only that his dictum is probable (copenhaver2022:5735-5740, 5753-5755; farmer1998:21862-21864). Copenhaver notes that Pico's defence of Q4 passes over the epistemic questions of assent and defers them to Q8 (copenhaver2022:5712-5715). Aquinas had defined faith as an act of the intellect assenting to divine truth from a command of the will moved by grace (copenhaver2022:5735-5737). Against that background the thesis makes a two-part claim: as no one holds an opinion exactly and only because he wills to, so no one believes exactly and only because he wills to (farmer1998:21864-21866; copenhaver2022:10763-10777). The corollary applies this to faith and denies what Copenhaver calls doxastic voluntarism, the view that one can believe an article of faith true or not true as one decides (farmer1998:21869-21870; copenhaver2022:1413-1416). Before the commission Pico said that although every act of belief is 'in our power', it is not so by a 'tyrannical command of the will', since the will cannot desire the act against the judgement of reason (farmer1998:21892-21895). In the Apology he cited Aristotle's De anima through Averroes for the first part and Augustine for the second (copenhaver2022:11521-11529). The Augustinian principle as Pico gives it is that no one can believe from mere command of the will 'sine rationis persuasione aut motivo' (edelheit2022:18269-18270 [line per this session's uploaded copy of edelheit2022, not yet reconciled with the project corpus registry's pagination]). Farmer calls the thesis intellectualist: it held that not even dogmas could be accepted by a pure act of will without first passing intellectual tests (farmer1998:5974-5977).",
+ "context": "Pico recalled that when he was in Paris 'almost the whole University held this view', meaning the epistemology of the nominalist Pierre d'Ailly and others (copenhaver2022:10728-10731). Of the six medieval theologians named in Q8, only Albert the Great was not famously a critic of Thomism (copenhaver2022:10719-10722). Pico modelled Q8 on Robert Holcot, who held without qualification that the act of believing is not free, and then disclaimed Holcot's position as one that 'never seemed right or acceptable to me' (copenhaver2022:10860-10864, 11328-11329). He argued that Holcot had never been condemned for it, so that his own narrower view could hardly be heretical (copenhaver2022:11360-11365). The commission included the Thomist Bishop Pedro Garcia, who later devoted thirty-one pages to answering Pico's five on this Question (copenhaver2022:10678-10681, 1449-1451).",
+ "reception": "The commission found the thesis 'erroneous and savoring of heresy' (farmer1998:21895-21896). Pico reported that the judges condemned the proposition 'along with its corollary' as 'in error and suggestive of heresy' (copenhaver2022:11515-11516). Blum's translation of the record lists the corollary alone as the censured item, with the verdict 'Erroneous and smacks of heresy' (dougherty2008:2208-2211). Garcia's own analysis separated the two: the main conclusion might be acceptable, but the corollary seemed to him erroneous and suggestive of heresy (copenhaver2022:10813-10819). Garcia, citing Aquinas, argued that believing as one wishes is in the will's free power, since reason and will together empower us to believe or not (copenhaver2022:10678-10713). Blum notes that Garcia met Pico's argument by adding a third element, the infused light of faith (dougherty2008:2354-2363). In the Apology Pico called the main conclusion 'not only Catholic but absolutely correct' (copenhaver2022:11516-11517). Farmer judges that the Apology moderated Pico's views somewhat, though his final position is hard to decide (farmer1998:21896-21898).",
+ "historiography": "Farmer uses the thesis against the Burckhardtian image of Pico as the archetypal 'philosopher of will', a reading he traces to misreadings of the first pages of the Oration (farmer1998:5970-5977). Copenhaver agrees that the Apology argued there was no human will to believe, 'denying that people have this freedom that Aquinas had confirmed', but explains the stance as pragmatic: if Pico had been free to believe, the judges could have held him responsible for believing the condemned theses (copenhaver2022:12247-12252, 12266-12271). He adds that Pico's alliances with Holcot and others were 'expedient, not principled' (copenhaver2022:12232-12234). Blum reads Garcia's appeal to infused faith as pushing the debate toward the Reformation question of grace in the act of belief, which Pico had not meant to debate (dougherty2008:2361-2366). The thesis that Farmer sets against the image of Pico as a philosopher of will is itself a denial of one kind of freedom, the freedom to believe at will (editorial inference from farmer1998:5970-5977 and copenhaver2022:12266-12271).",
+ "connections": [
+  "4>13",
+  "4>29",
+  "4>24",
+  "4>25",
+  "5>46"
+ ],
+ "condemned_flag": true,
+ "commission_verdict": "'erroneous and savoring of heresy' (farmer1998:21895-21896); Pico's report in the Apology, 'in error and suggestive of heresy' (copenhaver2022:11515-11516); Blum's translation from Dorez and Thuasne 'Erroneous and smacks of heresy', attached to the corollary (dougherty2008:2183, 2208-2211).",
+ "quotations": [
+  {
+   "text": "erroneous and savoring of heresy",
+   "work": "farmer1998",
+   "line": 21896,
+   "verbatim": true
+  },
+  {
+   "text": "in error and suggestive of heresy",
+   "work": "copenhaver2022",
+   "line": 11516,
+   "verbatim": true
+  },
+  {
+   "text": "along with its corollary",
+   "work": "copenhaver2022",
+   "line": 11515,
+   "verbatim": true
+  },
+  {
+   "text": "Erroneous and smacks of heresy",
+   "work": "dougherty2008",
+   "line": 2211,
+   "verbatim": true
+  },
+  {
+   "text": "tyrannical command of the will",
+   "work": "farmer1998",
+   "line": 21894,
+   "verbatim": true
+  },
+  {
+   "text": "almost the whole University held this view",
+   "work": "copenhaver2022",
+   "line": 10729,
+   "verbatim": true
+  },
+  {
+   "text": "never seemed right or acceptable to me",
+   "work": "copenhaver2022",
+   "line": 10863,
+   "verbatim": true
+  },
+  {
+   "text": "not only Catholic but absolutely correct",
+   "work": "copenhaver2022",
+   "line": 11516,
+   "verbatim": true
+  },
+  {
+   "text": "sine rationis persuasione aut motivo",
+   "work": "edelheit2022",
+   "line": 18269,
+   "verbatim": true
+  },
+  {
+   "text": "denying that people have this freedom that Aquinas had confirmed",
+   "work": "copenhaver2022",
+   "line": 12270,
+   "verbatim": true
+  },
+  {
+   "text": "expedient, not principled",
+   "work": "copenhaver2022",
+   "line": 12232,
+   "verbatim": true
+  },
+  {
+   "text": "philosopher of will",
+   "work": "farmer1998",
+   "line": 5972,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Whether the commission censured the thesis with its corollary or the corollary alone: Pico's own report says both (copenhaver2022:11515-11516), Blum's list gives the corollary (dougherty2008:2208-2211); the notarial record (Dorez and Thuasne 1897, p. 129) is not in the corpus.",
+  "The Latin of the verdict: not established by the sources consulted.",
+  "Pico's final position after the Apology: Farmer finds it difficult to decide (farmer1998:21897-21898).",
+  "Giovanni Caroli's treatment of this thesis (cited at edelheit2022:21296) was not consulted.",
+  "The edelheit2022 locator for the \"sine rationis persuasione\" quotation was corrected from a misattributed edelheit2008 citation during this session's verification against uploaded source text; its line number is per that upload, not the project's registered corpus copy, and should be reconciled."
+ ],
+ "writer": "WRITER-A2 (agent), 2026-09-25",
+ "verifier": null,
+ "verified_date": null
 }
