@@ -844,3 +844,41 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   window (7f8bd73, ae9a4bf) were made with `git add -A` and swept in another window's uncommitted claims-layer files as a
   snapshot; history was not rewritten (rewriting under concurrent windows is riskier than the snapshot). From now on each
   window stages only the files it owns, by name.
+
+## 2026-09-26: Claims layer, intellectual network, and research companion architecture
+
+- **D-18 Claims layer architecture and verification gate** (`docs/CLAIMS_MODEL.md`, `scripts/claims_verify.py`).
+  What scholars argue must be deconstructed into atomic claims with verbatim quotations, warrants, open questions,
+  and confidence levels. A claim is valid only when `scripts/claims_verify.py` re-locates its exact quotation in the
+  OCR corpus and a second agent samples its restatement for overreach. Prose is never written from ungrounded memory.
+  Reason: audit A3 proved that ungrounded scholarly summaries inevitably invent or misattribute arguments.
+
+- **D-19 Intellectual Network System architecture** (`docs/INTELLECTUAL_NETWORK_DESIGN.md`, `docs/NETWORK_SYSTEM_HANDOVER.md`).
+  Models Pico's intellectual network across 32+ core figures as first-class scholarly metadata. Replaces crude single-score
+  "influence" with 17 typed, directed relationships, a 5-level evidence scale (strictly separating primary documentation from
+  scholarly inference), and multi-dimensional scoring across 7 dimensions (textual centrality, source relation, network
+  relevance, controversy, historical significance, evidence quality, tradition significance). Reason: Pico used thinkers from
+  mutually incompatible traditions; flattening this to "influence" distorts the historical reality.
+
+- **D-20 Parties vocabulary as seed for person registry** (`data/claims/parties.json`, ticket `T-REL-01`).
+  The initial party identifiers in `data/claims/parties.json` (Ficino, Del Medigo, Mithridates, Alemanno, Barbaro, etc.)
+  serve as the seed for `data/network/persons.json`. Each party receives a canonical `person_id`, merging variants
+  (e.g., `elia-del-medigo` and `elijah-delmedigo`) and preventing entity duplication across systems.
+
+- **D-21 Static-first site, cards, and two-stage Workbench** (`docs/SITE_DESIGN.md`, tickets `T-SITE-01`..`T-SITE-08`).
+  Card frames, relational browsing, facet controls, and reading tours are implemented static-first. The Workbench is
+  designed in two distinct stages: Stage 1 operates entirely client-side via browser `localStorage` (personal collections,
+  custom tags, notes, export), allowing immediate deployment to static hosts (GitHub Pages, Vercel) without a database
+  backend. Stage 2 (cloud accounts, server persistence, collaborative sharing) is layered on without altering the static edition.
+
+- **D-22 Mandatory claims-based prose derivation** (`scripts/commentary_check.py`, tickets `T-ANG-01`, `T-FIC-01`).
+  All new narrative prose, angelology commentaries, finding aids, and thematic essays must cite verified claims directly
+  using `[[claim_id]]` syntax. `scripts/commentary_check.py` acts as a deterministic gating tool, rejecting any prose
+  whose claims are missing, unverified, or unquoted.
+
+- **D-23 PicoDB research companion integration** (`pico900_picodb_integration_plan.md`, ticket `T-SITE-05`).
+  Pico900 integrates research assets from `C:\dev\PicoDB` (SQLite `pico.db`, `sources.json`, `pico_life_timeline.json`,
+  corpus catalog) to expand from 3 tabs to 7 tabs: Conclusions, Sources (46+ works), Scholars (15–20 curated profiles),
+  Bibliography (90+ searchable/exportable works), Biography (interactive life timeline), Primary Texts (facing-page editions
+  of Oration, Commento, Heptaplus, De ente), and About.
+

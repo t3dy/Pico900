@@ -1,7 +1,7 @@
 {
  "packet": "wirszubski1989-angels",
  "file": "data\\claims\\angelology\\wirszubski1989-angels.claims.json",
- "verified_at": "2026-09-26T04:39:58+00:00",
+ "verified_at": "2026-09-26T05:14:07+00:00",
  "claims": [
   {
    "id": "wirszubski1989-angels:001",
@@ -2457,5 +2457,13 @@
    ]
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 94,
+  "verified": 94,
+  "needs_fix": 0,
+  "quotes": 156,
+  "quotes_verbatim": 156,
+  "warnings": 90,
+  "verified_rate": 1.0
+ }
 }

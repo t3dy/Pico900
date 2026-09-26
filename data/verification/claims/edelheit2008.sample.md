@@ -2,80 +2,70 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## edelheit2008:001 (Amos Edelheit, assertive)
+## edelheit2008:002 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says historians have not stressed enough the differences between Ficino and Pico, whom they sometimes treat as two equal and similar representatives of Florentine humanism or philosophy.
+**Restatement:** Edelheit contrasts the two: Ficino, in On the Christian Religion, offers a historical picture of religion and of Christianity's place in it built on newly arrived Neoplatonic texts and ignores the doctrines of the Doctors, whereas Pico's Apology is concerned with purifying religious opinions and beliefs.
 
-> Historians of the intellectual life of the period have not always emphasized enough the differences between Ficino and Pico, who were regarded sometimes as two equal, and similar, representatives of humanism and/or philosophy in Florence in our period.
-> (edelheit2008:2246)
+> Ficino, in his On the Christian Religion, offers a new historical picture of religion, and of the unique place of Christianity in it, based on newly arrived Neoplatonic texts, both pagan and Christian. He does not examine in detail any of the views and dogmas of the Doctors of the Church, but simply ignores them in most of his work
+> (edelheit2008:2272)
 
-
-## edelheit2008:013 (Amos Edelheit, assertive)
-
-**Restatement:** Edelheit says Ficino's Platonic Theology contains hidden echoes of Aquinas's Summa contra Gentiles, the only scholastic text that contemporary sources expressly say Ficino studied, and takes the lack of express references as evidence of Ficino's attitude.
-
-> Some ... hidden references to Thomas Aquinas’ Summa contra Gentiles (the only scholastic text which we are expressly told in contemporary sources was studied by Ficino) in the Platonic Theology is, if anything, evidence of this position. Otherwise, why have these echoes without express references?
-> (edelheit2008:2314)
-
-- warrant [argument]: Argues from the absence of express references to the presence of echoes
-
-## edelheit2008:021 (Amos Edelheit, assertive)
-
-**Restatement:** Edelheit says that through the influence of Gemistos Plethon Pico planned a work interpreting ancient poetry on a Neoplatonic allegorical basis but did not live to write it.
-
-> Through the influence of Gemistos Plethon, Pico also planned a work interpreting ancient poetry on a Neoplatonic allegorical basis—but he did not live to write it.
-> (edelheit2008:1843)
+> Pico, on the other hand, is not concerned in his Apology with Church organization and other social phenomena, but mainly with the purification of religious opinions and beliefs.
+> (edelheit2008:2281)
 
 
-## edelheit2008:033 (Amos Edelheit, assertive)
+## edelheit2008:003 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says Ficino calls for replacing the Aristotelian foundation of scholastic theology with an ancient Neoplatonic theology serving as a preamble of faith, on the model of Augustine, and regards this as what Ficino means by legitimate wisdom.
+**Restatement:** Edelheit says Pico's mastery of scholastic philosophy, in which he was far more expert than Ficino, allowed him to show theologians in their own terms how fragile some scholastic dogmas were, and that he appealed not to a dogmatic philosophy such as Platonism but to the doubting method of the skeptical Academy.
 
-> On the one hand, he is calling for the replacement of the Aristotelian foundation of scholastic theology by an ancient Neoplatonic theology, which should serve as praeambula fidei, similar to Augustine’s model; this is what he regards as the “legitimate wisdom”.
-> (edelheit2008:13166)
+> His mastery of scholastic philosophy—in which he was far more an expert than Ficino—enables him to show the theologians, in their own terms and modes of thought, how fragile and contradictory some of the scholastic dogmas and sententiae, even those of the most respected saints and Doctors, can be.
+> (edelheit2008:2284)
 
-
-## edelheit2008:035 (Amos Edelheit, assertive)
-
-**Restatement:** Edelheit says the ancient theologians are in harmony with one another for Ficino and are all represented in Plato, who is interpreted by Neoplatonists who adopted the mysteries of Christianity, so that Christianity is the climax of the histories of both religion and philosophy.
-
-> the ancient theologians are in harmony with one another, and they all are represented in Plato; Plato is interpreted by those Neoplatonic philosophers who used and adopted the mysterious truths of Christianity. Since the praecipua mysteria of the late Platonists are based on John, Paul, Hierotheus, and Dionysius the Areopagite, Christianity is the climax of both the history of religion and the history of philosophy.
-> (edelheit2008:12046)
+> he appeals, not to an ancient dogmatic philosophy such as Platonism (not to mention the Aristotelianism of the scholastics), but to the doubting and searching method of the skeptical Academy.
+> (edelheit2008:2289)
 
 
-## edelheit2008:036 (Amos Edelheit, assertive)
+## edelheit2008:005 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says Ficino claims to have found that the chief mysteries of Numenius, Philo, Plotinus, Iamblichus and Proclus were taken from John, Paul, Hierotheus and Dionysius the Areopagite, and that whatever they said about the divine mind and the angels was taken from those figures.
+**Restatement:** Edelheit argues that Pico uses scholastic literature and argument in the Apology only in answering the papal commission, to show his technical competence, while his own account of theology and religion uses a different Latin style and arguments linking the ancient Academy's skepticism with faith.
 
-> Ego certe reperi praecipua Numenii, Philonis, Plotini, Iamblici, Proculi mysteria, ab Ioanne, Paulo, Yerotheo, Dionysio Areopagita accepta fuisse. Quicquid enim de mente divina angelisque, et caeteris ad Theologiam spectantibus magniﬁcum dixere, manifeste ab illis usurpaverunt.
-> (edelheit2008:12033)
+> he does use scholastic literature and forms of argumentation, but only in his critical responses to the accusations of the theologians who were members of the papal commission, in order to demonstrate to them his competence in technical theological discussions and to refute their arguments on their own ground.
+> (edelheit2008:1226)
 
-> Ficino admits that he is developing the arguments or cultural programme of Basil and Augustine regarding the usurpatio and acceptio of the ideas of John, Paul, Hierotheus, and Pseudo-Dionysius the Areopagite in the philosophical writings of Numenius, Philo, Plotinus, Iamblichus, and Proclus.
-> (edelheit2008:12012)
-
-
-## edelheit2008:040 (Amos Edelheit, assertive)
-
-**Restatement:** Edelheit reports that a Dominican, Vincenzo Bandello da Castelnuovo, refuted Ficino's theory of will and intellect at length and politely, which Kristeller took to show that Ficino was taken seriously by his scholastic contemporaries.
-
-> The fact that this prominent Thomist took the trouble to refute Ficino in a lengthy treatise, and in a rather polite and respectful fashion, tends to show that Ficino was taken seriously by his scholastic contemporaries, and that they felt he was dealing, at least in part, with the same problems which were treated by themselves and by their own masters
-> (edelheit2008:10675)
+> But when he presents his own attitude to theology and religion, Pico uses a very different Latin style, and he also uses philosophical arguments which connect the skepticism of the ancient Academy, on the philosophical level, with faith and opinions which appear only in Scripture and in the primitive Church.
+> (edelheit2008:1231)
 
 
-## edelheit2008:042 (Amos Edelheit, assertive)
+## edelheit2008:018 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says that in Ficino's humanist theology the pagan ancient theology replaces Aristotelianism and gives Christianity historical and philosophical profundity, without validating it.
+**Restatement:** Edelheit says the Platonic and Neoplatonic writings supplied Ficino with his framework for the history of religion, while for Pico the instrument for a first, philosophical re-examination of religious opinions is the concepts of probabile and verisimile, which he learned by his own admission from the skeptical Academy's writings in Latin.
 
-> The pagan ancient theology replaces here Aris- ... totelianism, and for Ficino, it also gives historical and philosophical profundity to Christianity. Such a profundity does not constitute a validation of Christianity.
-> (edelheit2008:13303)
+> The Platonic and Neoplatonic writings, recently brought to the West in the fifteenth century, supply Ficino with his framework for the history of religion. For Pico, the basic instrument for a first, philosophical, re-examination of religious opinions are the concepts of probabile and verisimile, which he learnt (on his own admission) from the writings of the skeptical Academy surviving in Latin.
+> (edelheit2008:1857)
 
 
-## edelheit2008:045 (Amos Edelheit, assertive)
+## edelheit2008:020 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says Savonarola does not represent all aspects of the new humanist theology: he represents the supernatural aspect of Christianity that Ficino missed in his Iron Age, but was not a philosopher and had only a partial humanist education.
+**Restatement:** Edelheit says Ficino, and some other humanists, borrowed the concept of ancient theology, prisca theologia, from the Neoplatonic tradition to designate pre-Christian pagan theology culminating in Plato.
 
-> Of course, Savonarola does not represent all the various aspects of the new theology. He does represent the supernatural aspect of Christianity which Ficino missed in his Iron Age; but he was not a philosopher, and his humanist education was only partial
-> (edelheit2008:14089)
+> ‘Ancient theology’, prisca theologia, was a concept which Ficino, and some other humanists, borrowed from the Neoplatonic tradition to designate pre-Christian, pagan theology, culminating in Plato.
+> (edelheit2008:1845)
+
+
+## edelheit2008:024 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says Pico uses the Academy's procedures only at the lower, philosophical level of judging opinions by probability, and remains a Christian who accepts Scripture, the Creed and the first councils as binding and of divine origin.
+
+> But Pico is not ‘just’ a skeptical academic. As my analysis shows, he uses the procedures of the Academics only at the lower, philosophical level of examining opinions as to their greater or lesser probability. Pico is a Christian, and he accepts Scripture, the Creed and the dogmatic decisions of the first Ecumenical Councils as binding and of divine origin.
+> (edelheit2008:2516)
+
+- warrant [argument]: Rests on Edelheit's own analysis of the Apologia
+
+## edelheit2008:034 (Amos Edelheit, speculative)
+
+**Restatement:** Edelheit suspects that Ficino's discussions of prisca theologia may be aimed at professional theologians such as Caroli, indicating to them that Platonism is more relevant to understanding Christianity than the traditional Aristotelianism of the scholastics.
+
+> I suspect that the discussions of prisca theologia, beside being part of Ficino’s own conception of the continuity and break in the history of religion, may also be directed at professional theologians such as Caroli. The connection which Ficino establishes between prisca theologia and early Platonism, and between early Christianity and late Platonism, may serve as an indication to them that Platonism is more relevant to the understanding of Christianity and of religion in general than the traditional Aristotelianism of the scholastics.
+> (edelheit2008:13268)
 
 
 ## edelheit2008:047 (Amos Edelheit, assertive)
@@ -84,14 +74,6 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 
 > It is also part of Ficino’s character and temperament to disseminate his views and doctrines in a positive rather than in a disputative manner. Pico’s personality is very different. He is not a priest, and being a wealthy aristocrat he is not dependent on any patrons. The argumentative strain is evident in many of his writings and in much of his social behaviour.
 > (edelheit2008:14216)
-
-
-## edelheit2008:050 (Amos Edelheit, hedged)
-
-**Restatement:** Edelheit says Ficino does not state explicitly the boundary between divine truth and human opinion, but his references to mixing the human with the divine, and the absence of most Fathers and all Doctors, make it fairly clear.
-
-> Ficino does not say this explicitly, but his references to mixing the human with the divine, as well as the absence of most Fathers and all Doctors even when one might excpect them to appear, make this fairly clear.
-> (edelheit2008:14033)
 
 
 ## edelheit2008:053 (Amos Edelheit, assertive)
@@ -118,33 +100,89 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (edelheit2008:14417)
 
 
-## edelheit2008:075 (Amos Edelheit, assertive)
+## edelheit2008:057 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit cites Di Napoli's claim that Pico was consciously proud to be the first to bring Plato and the Platonists into a public disputation, resting only on Pico's own words that the doctrine of the Platonists was brought by him into public disputation for the first time in many centuries, as far as he knew, and remarks that Di Napoli finds this unimportant for Pico.
+**Restatement:** Edelheit says the distinction between the Creed, the dogmatic formulations and the opinions of Fathers and Doctors is the key to the humanist theology that Pico developed.
 
-> tutte le dispute degli Studi e degli Ordini religiosi ignoravano Platone; e Pico era consapevolmente orgoglioso di essere il primo a portare Platone e i platonici in una pubblica disputa.
-> (edelheit2008:15098)
-
-> Di Napoli does not give any evidence to prove his argument except a citation from Pico himself, in note 10, p. 124: “‘… Platonicorum… doctrina… a me nunc primum, quod sciam,—verbo absit invidia—post multa saecula sub disputandi examen est in publicum allata.’”
-> (edelheit2008:15100)
+> This distinction, I argue, is the key to an understanding of the humanist theology that Pico developed.
+> (edelheit2008:14445)
 
 
-## edelheit2008:078 (Amos Edelheit, assertive)
+## edelheit2008:063 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says that Pico, after presenting the first explanation, states that although many Doctors hold it he does not hold it and did not follow it, and gives no reasons or refutation, since what matters to him is that many Doctors accept the explanation.
+**Restatement:** Edelheit reports Alison Brown's publication of a letter showing that the condemnation process started earlier than previously thought and was connected with the condemnation of Jean Laillier.
 
-> Pico only says: ego tamen non teneo, nec sequutus sum eam in conclusione mea. That is all. What is important to him is that many Doctors of the Church accept this explanation. He is very far from proving his own view.
-> (edelheit2008:15390)
+> This document shows that the condemnation process started earlier than we thought, and that it was connected with the famous condemnation of Jean Laillier.
+> (edelheit2008:14501)
 
 
-## edelheit2008:080 (Amos Edelheit, assertive)
+## edelheit2008:065 (Amos Edelheit, assertive)
 
-**Restatement:** Edelheit says Pico is not interested in determining which opinion is truer, and quotes Pico as saying that he does not decide whether the Scotists' opinion or the one he follows on the way separated substances are in a place is truer, only that his opinion was held by so many celebrated Catholic Doctors that those who condemn it as heretical are more rash than he.
+**Restatement:** Edelheit's view of the purpose of the nine hundred theses is that Pico was putting forward a deliberate critique of scholastic theology, confronting the Church and demanding a decision on a vast range of opinions in order to produce a historical-critical perspective.
 
-> Pico is not interested in determining which opinion is truer. It is enough for him to show that many excellent Catholic Doctors believed in his opinion:
-> (edelheit2008:15478)
+> In my view, he was putting forward a deliberate critique of scholastic theology. This critique was aimed at confronting the Church and demanding a decision on a vast range of opinions, in order to produce a historical-critical perspective, which emphasized that these opinions had arisen in different cultural contexts, rather than deriving directly from faith.
+> (edelheit2008:14758)
 
-> But which of the two opinions on the way of being in a place of separated substances would be truer, i.e., that of the Scotists, or rather the opinion of those which I follow, I do not determine.
-> (edelheit2008:15482)
+
+## edelheit2008:076 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says Pico's summary of his condemned conclusion is that since only Christ's soul descended into hell, and souls like any separated substance are not suited to be located or moved locally except by their operation, the soul was present in hell through its operation without physical presence.
+
+> After a short summary of his conclusion, where he points out that because only Christ’s soul descended into hell, and souls are separated from any substance, and are therefore not ‘compatible’ with space, it seems that he did not descend there by means of local movement, but only ‘through his operation’; that is without his physical presence in hell, his soul was present there and produced the effects.
+> (edelheit2008:15339)
+
+
+## edelheit2008:087 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says that Pico combines new humanist methods of philology and history with scholastic critical observation in his discussions of the authority of patristic and scholastic theology.
+
+> His detailed and dialectical discussions are critical observations on the authoritative status of patristic and scholastic theology. In these observations Pico combines some of the new humanistic intuitions and methods of philology and history with scholastic critical observations
+> (edelheit2008:15644)
+
+
+## edelheit2008:091 (Amos Edelheit, hedged)
+
+**Restatement:** Edelheit says Academia in this context almost certainly means Plato's immediate successors, especially Speusippus and Xenocrates, and that the notion of a dogmatic ancient Academy distinct from Plato was unusual in Pico's day and contrasts, as Pico himself contrasts it, with Ficino's Neoplatonic interpretations.
+
+> Academia in this context almost certainly means the immediate successors of Plato and especially Speusippus and Xenocrates. Such a notion of a dogmatic ancient Academy distinct from Plato is unusual in Pico’s day, and we could contrast it, as Pico himself does, with Ficino’s Neoplatonic interpretations of the Platonic dialogues
+> (edelheit2008:17938)
+
+
+## edelheit2008:097 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit cites Allen for a point on which Ficino and Pico agree, that it would normally be indecorous for Plato to have Parmenides treat dialectic alone, while they differ on why Parmenides continued: Pico says because the company was small, Ficino because he was going to deal with the highest matters of theology.
+
+> In other words, both Ficino and Pico agree that normally it would be indecorous for Plato to have Parmenides treat of dialectic alone; but, whereas Pico maintains that Parmenides continued in the debate only because the company was small, Ficino maintains that he continued because he was going to deal with the highest matters of theology”
+> (edelheit2008:18073)
+
+
+## edelheit2008:099 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says that in the Apologia Pico describes the disputation of the theses as a scholastic exercise in the manner of the Academies among a few learned men, that the theses include impious dogmas of ancient philosophers such as Averroes and Alexander which he had always declared foreign to true philosophy and to the faith, and that they were proposed as opinions held by others.
+
+> While these propositions were worth discussing among learned men, they should not be read by everyone, claims Pico, since they include many impious doctrines of ancient philosophers. I defended these doctrines, he says, in the manner of a disputation, but I always confessed, maintaned, and declared, both in public and in private, that they were foreign both to the true and right philosophy and to faith.
+> (edelheit2008:17726)
+
+> I nevertheless undertook to dispute them as a scholastic exercise, in the manner of the Academics, in a secret assembly among a few learned men.
+> (edelheit2008:17731)
+
+
+## edelheit2008:100 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says Pico clearly separates angelic, divine and human cognition, quoting Pico that angelic knowledge, which appropriates the name of intellectual knowledge, is further from God's infinite knowledge that knows all things through essence than from the rational knowledge proper to the rational soul or man.
+
+> Pico clearly separates between angelic, divine and human cognition, ibid., p. 235: “nihil aliud intendebam, nisi quod noticia angelica, quae intellectualis noticiae nomen sibi appropriat, magis distat ab infinita noticia Dei, quae omnia per essentiam cognoscit, quam distet a noticia rationativa, animae rationali vel homini appropriata.”
+> (edelheit2008:17705)
+
+
+## edelheit2008:102 (Amos Edelheit, assertive)
+
+**Restatement:** Edelheit says Pico told Ermolao Barbaro in a letter of December 6, 1484, that he had recently turned from Aristotle to the Academia not as a deserter but as an explorer, and adds that Plato and Aristotle agree in substance and disagree only in words.
+
+> But in another letter, which was written in Florence and dated December 6, 1484, to his friend Ermolao Barbaro, Pico announced that he had recently moved from Aristotle to the Academia, and that he did it not as a refugee (with the implication that he had totally abandoned Aristotle), but rather as an examiner or an explorer (sed non transfuga… verum explorator).
+> (edelheit2008:18186)
+
+> Pico carries on with an observation concerning an agreement between Plato and Aristotle in content, and an only apparent disagreement in their style. Here the key concepts are verba and res: … ita ut si verba spectes, nihil pugnantius, si res nihil concordius.
+> (edelheit2008:18193)
 
 

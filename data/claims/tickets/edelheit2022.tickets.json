@@ -1,5 +1,26 @@
 {
  "packet": "edelheit2022",
- "open": 0,
- "tickets": []
+ "open": 2,
+ "tickets": [
+  {
+   "claim_id": "edelheit2022:118",
+   "code": "quote_not_found",
+   "severity": "error",
+   "where": "quotes[0]",
+   "detail": "the quotation is not found in edelheit2022",
+   "suggested_line": 19549,
+   "suggested_excerpt": "It is, perhaps, not entirely superfluous to point out here the fact that the question aiming at explaining the manner in which Christ as a spiritual being had descended into a physical place like hell is the scholastic-theological 42     Ibid., f. a7r: “Nam proposita tali propositione inter disputandum: attributa divina non for- maliter et ex natura rei distinguuntur, ut ponit Scotus et sui sequaces, sed sola ratione; manifestum est quod sensus proprius predicte conclusionis est negare omnem distinc-",
+   "verdict": "not_found"
+  },
+  {
+   "claim_id": "edelheit2022:133",
+   "code": "quote_altered",
+   "severity": "error",
+   "where": "quotes[0]",
+   "detail": "the quotation is altered in edelheit2022",
+   "suggested_line": 20090,
+   "suggested_excerpt": "Exactly at this point the question regarding the universal nature of the 1277 condemnation is presented: Garsia refers to a known view (and joke), men- tioned by Pico in the Apology,81 according to which the Parisian condemna- tion is not universal and thus does not cross the sea (to England) nor the Alps 79     Ibid., f. b4r–v: “Sunt preterea ultime tres opiniones suspecte de errore et heresi pro quanto fuerunt damnate Parisius … Nam articulo cviii dicitur sic: quod substantia anime nullo modo est mobilis secundum locum, nec per se nec per accidens. Et si ponatur alicubi",
+   "verdict": "altered"
+  }
+ ]
 }

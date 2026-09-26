@@ -1,7 +1,7 @@
 {
  "packet": "wallis1965-deente",
  "file": "data\\claims\\angelology\\wallis1965-deente.claims.json",
- "verified_at": "2026-09-26T04:40:28+00:00",
+ "verified_at": "2026-09-26T05:14:07+00:00",
  "claims": [
   {
    "id": "wallis1965-deente:001",
@@ -3208,5 +3208,13 @@
    ]
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 138,
+  "verified": 138,
+  "needs_fix": 0,
+  "quotes": 216,
+  "quotes_verbatim": 216,
+  "warnings": 89,
+  "verified_rate": 1.0
+ }
 }

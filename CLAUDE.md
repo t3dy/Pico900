@@ -33,6 +33,30 @@ at once: run `git status` first, name the files you own (`scripts/tickets.py`), 
 and never edit a file another window is changing. If something a document promises has not been built, build it. Report
 what was verified by running it and what was not; a shape check is not verification.
 
+## Agentic Onboarding: How to Work with Our System Files
+
+Incoming agents (Claude Code, Antigravity, etc.) must operate by this protocol:
+
+1. **Hierarchy of Truth**:
+   - **`PROMPTS.md`** is the ultimate authority for user intent. Always run `python scripts/harvest_prompts.py --check` first.
+   - **`TICKETS.md`** (`data/tickets/board.json`) is the agile board. Run `python scripts/tickets.py ready` to see what can be worked on. Run `python scripts/tickets.py check` to ensure no conflicting file ownership among active tickets.
+   - **`DECISIONS.md`** records all architectural decisions (D-1 through D-23). Review it to understand established principles.
+   - **`HANDOVER.md`** is the operational state. Read it to know what the previous session accomplished and where work stopped.
+   - **`docs/ORCHESTRATION.md`** defines role contracts (RESEARCHER, WRITER, VERIFIER, LINKER, AUDITOR) and swarm recipes.
+   - **`docs/CLAIMS_MODEL.md`** defines the verified claims system for all scholarship.
+
+2. **The 4 Active Development Streams (Interrupted Work Triage)**:
+   - **Stream 1: Thesis Entries (`T-ENT-01`, `T-ENT-02`, `T-ENT-03`)**: 118 draft entries in `entries/`. 20 pass `scripts/entry_gate.py`; 98 fail primarily due to translation similarity (>0.85 against Farmer's English; D-13) or missing sentence locators. Next: Remediate the 98 drafts, then launch VERIFIER agents on the 20 passing drafts.
+   - **Stream 2: Claims Layer (`T-CLAIMS-02`, `T-CLAIMS-03`, `T-CLAIMS-04`)**: 1,665 claims verified across 14 packets. 13 packets 100% verified. Only 2 claims in `edelheit2022.claims.json` need quote fix. Next: Fix the 2 claims, run semantic verifier (`T-CLAIMS-03`), run LINKER (`T-CLAIMS-04`), run `claims_score.py`.
+   - **Stream 3: Intellectual Network (`T-REL-01`)**: Spec and Phase 0 plan ready (`docs/INTELLECTUAL_NETWORK_DESIGN.md`). Next: Implement `scripts/network_bootstrap.py` to generate `data/network/persons.json` from `build_dossiers.py` gazetteer + `data/claims/parties.json`.
+   - **Stream 4: Research Companion / PicoDB Integration (`T-SITE-05`)**: 7-tab companion site planned from `C:\dev\PicoDB`. Next: Curate `data/sources.json` with 30–100 word blurbs sortable by tradition.
+
+3. **Deterministic Gates (Quote the Output)**:
+   - `python scripts/entry_gate.py` — exits 0 only when translations are original and every sentence has a locator.
+   - `python scripts/claims_verify.py` — exits 0 only when every quotation is located verbatim in the OCR corpus.
+   - `python scripts/commentary_check.py <file>` — exits 0 only when every claim cited in prose is verified.
+
+
 ## Read first, by task
 
 | task | read |

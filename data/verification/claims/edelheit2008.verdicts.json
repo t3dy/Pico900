@@ -1,7 +1,7 @@
 {
  "packet": "edelheit2008",
  "file": "data\\claims\\angelology\\edelheit2008.claims.json",
- "verified_at": "2026-09-26T04:39:40+00:00",
+ "verified_at": "2026-09-26T05:14:05+00:00",
  "claims": [
   {
    "id": "edelheit2008:001",
@@ -2463,5 +2463,13 @@
    ]
   }
  ],
- "summary": {}
+ "summary": {
+  "claims": 108,
+  "verified": 108,
+  "needs_fix": 0,
+  "quotes": 153,
+  "quotes_verbatim": 153,
+  "warnings": 80,
+  "verified_rate": 1.0
+ }
 }
