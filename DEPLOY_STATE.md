@@ -1,8 +1,13 @@
 # Deployment State: Pico900
 
-**Status: NOT LIVE.** `https://t3dy.github.io/Pico900/` returned GitHub's "There isn't a GitHub Pages
-site here" (404) when checked on 2026-09-25. Nothing has been published. Any earlier document that says
-"deployed", "ready to deploy" or "live" is wrong; see `audit/A4_site_and_governance.md` Part B.
+**Status: BUILT AND PUSHED, PAGES SOURCE NOT YET CONFIGURED.** As of 2026-09-26, the `gh-pages` branch
+holds a complete build (947 files: 900 thesis pages + section/condemned/about/scholarship pages + CSS)
+with all 900 theses covered end to end (Latin + original translation on every page; most also carry
+packet-sourced commentary with locators). `predeploy_check.py` passes clean (0 problems, 945 pages
+checked). **The one remaining step is manual and cannot be done from this cloud session**: go to the
+repo's Settings -> Pages and set Source to the `gh-pages` branch, root. Once set, GitHub Pages will serve
+it at the canonical URL below within a few minutes; then load it and read a few pages per the checklist
+below before considering this fully live.
 
 | | |
 |---|---|
@@ -12,8 +17,9 @@ site here" (404) when checked on 2026-09-25. Nothing has been published. Any ear
 | Base path | `/Pico900/` (Pages serves from a repo subpath; a build without it 404s every asset) |
 | Build | `python scripts/build_site_v2.py` -> `site/` (gitignored); renders `entries/` (verified as edition text, drafts badged) |
 | Local root-served build | `PICO_BASE_PATH="" python scripts/build_site_v2.py` |
-| Gate before publishing | `python scripts/predeploy_check.py` must exit 0 |
-| Pages source | **not yet configured.** Decision pending: see below |
+| Gate before publishing | `python scripts/predeploy_check.py` must exit 0 - PASSED (2026-09-26, 0 problems / 945 pages) |
+| Pages source | `gh-pages` branch pushed and ready; **repo Settings -> Pages -> Source still needs to be set to it manually** (no API access to repo settings from this session) |
+| Content coverage | All 900 theses have entries (100% Latin + translation coverage). 0 entries are `verifier`-promoted (all still WRITER-agent drafts, badged "unverified draft" on every page) pending a local session with real corpus access running the full `entry_gate.py` and a VERIFIER pass. |
 
 ## Do not do this
 
