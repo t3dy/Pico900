@@ -1,0 +1,38 @@
+{
+ "thesis_id": "5.3",
+ "tier": "B",
+ "latin": "Processiones distinguuntur in diuinis penes intellectum et uoluntatem.",
+ "latin_source": "farmer1998:12489",
+ "translation": "The processions in the Godhead are distinguished by way of intellect and will.",
+ "translation_note": "'Penes' here has its scholastic sense 'by way of, in respect of' rather than its classical sense 'in the possession of'.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12489",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12489; edelheit2022:15338).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Summa, article 54, questions 9 and 10",
+   "locator": "edelheit2022:15338",
+   "pico_relation": "Edelheit's proposed traces of the doctrine, where God's operations are explained by means of intellect and will"
+  }
+ ],
+ "doctrine": "Edelheit judges that, beyond changing Henry's 'ratio generandi' to 'principium generandi', the thesis is in accordance with Henry's opinion (paraphrase, edelheit2022:15338). He states that the thesis holds that the processions in the Trinity are conducted by the divine intellect and the divine will, and that traces of this are found in article 54, questions 9 and 10, of Henry's Summa (paraphrase, edelheit2022:15338).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15372).",
+ "connections": [
+  "5.2"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 3 states that processions in the Trinity are conducted by the divine intellect and the divine will",
+   "work": "edelheit2022",
+   "line": 15338,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter, or any discussion of it in Pico's Apologia: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,52 @@
+{
+ "thesis_id": "2.21",
+ "tier": "B",
+ "latin": "Non est sub eadem specie angelorum plurificatio.",
+ "latin_source": "farmer1998:11543",
+ "translation": "There is no plurification of angels under one and the same species.",
+ "translation_note": "'Plurificatio' names the multiplication of individuals within a species; Farmer's note explains that Thomas's commitment to angels' total immateriality, together with matter as the principle of individuation (thesis 2.26), made each angel necessarily its own species (farmer1998:11623).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11543",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11543).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super libros Sententiarum, book 2, distinction 3, question 1, article 4",
+   "locator": "edelheit2022:11340",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's discussion behind the thesis"
+  }
+ ],
+ "doctrine": "The thesis denies that angels can be multiplied as individuals within one species (edelheit2022:11340). Edelheit locates the discussion in Thomas's commentary on the Sentences, book 2, distinction 3, question 1, article 4, which reasons that, angels being immaterial and no form or nature multiplying number except through diversity of matter, an immaterial form not received in matter must be unique (edelheit2022:11340; edelheit2022:11370). Farmer's note adds that Pico rejected the Thomistic premise on grounds of cosmic correspondence, holding that matter existed in the angelic nature no less than in lower natures, and that he planned to settle the underlying question of matter's uniformity across levels of reality at thesis 2>68 (farmer1998:11623).",
+ "context": "Farmer records that Pico had already postponed the question of matter's uniformity in the Commento (Garin, Scritti vari, 472), and planned to argue the same question 'proportionally' at a further passage the note does not fully specify in the excerpt consulted (farmer1998:11623).",
+ "reception": "Edelheit states that this thesis is among those criticized by the Florentine physician Bernardo Torni, and that he discusses it again, with further detail, in a later chapter of his book (edelheit2022:11340).",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he situates it within Torni's criticisms of Pico and, on the doctrinal point itself, traces its reasoning to Thomas's Sentences commentary (edelheit2022:11340).",
+ "connections": [
+  "2.26",
+  "2>44",
+  "2>68",
+  "8.3",
+  "11>67",
+  "14.1"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 21 brings us again to angelology.",
+   "work": "edelheit2022",
+   "line": 11340,
+   "verbatim": true
+  },
+  {
+   "text": "It states that there can be no plurification (that is, differentiation into many instances) of angels in the same species.",
+   "work": "edelheit2022",
+   "line": 11340,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of Edelheit's further, later-chapter discussion of Torni's criticism: not available in the excerpt consulted.",
+  "The specific passage where Pico settles the uniformity of matter 'proportionally', alluded to but not identified in Farmer's note excerpt."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

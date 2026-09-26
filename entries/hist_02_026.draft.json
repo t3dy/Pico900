@@ -1,0 +1,47 @@
+{
+ "thesis_id": "2.26",
+ "tier": "B",
+ "latin": "Materia signata_est principium indiuiduationis.",
+ "latin_source": "farmer1998:11656",
+ "latin_note": "The underscore in the OCR ('signata_est') stands for a word space; the thesis reads 'materia signata est'.",
+ "translation": "Designated matter is the principle of individuation.",
+ "translation_note": "Farmer's note glosses 'materia signata' as matter determined and limited by form (farmer1998:11733).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11656",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11656).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Summa theologiae 1, question 75, article 4",
+   "locator": "edelheit2022:11830",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's discussion of designated matter as the principle of individuation"
+  }
+ ],
+ "doctrine": "The thesis states Thomas's doctrine that designated matter -- matter as determined and limited by form -- is what individuates a species into distinct particulars (farmer1998:11733; edelheit2022:11830). Edelheit locates the discussion in Thomas's Summa theologiae 1, question 75, article 4, on whether the soul is the human being, where Thomas holds that a thing's definition signifies not form alone but form together with matter (edelheit2022:11830; edelheit2022:11854).",
+ "context": "Farmer's note opposes the thesis to thesis 4.6, reported from Scotus, which grounds individuation instead in a proper individual difference or 'haecceitas', and refers to 3>20 among Pico's own opinions for Pico's own view of individuation (farmer1998:11733).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he presents it as Thomas's 'famous definition' of the principle of individuation as signed matter (edelheit2022:11830).",
+ "connections": [
+  "1.5",
+  "2.12",
+  "2.25",
+  "2.43",
+  "2>34",
+  "3>20",
+  "4.6"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 26 brings us to Thomas's famous definition of the principle individuation as signed matter.",
+   "work": "edelheit2022",
+   "line": 11830,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Pico's own alternative view of individuation at 3>20: this packet gives only the cross-reference, not its content, so its content is not established by the sources consulted here."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,40 @@
+{
+ "thesis_id": "2.28",
+ "tier": "B",
+ "latin": "Tota libertas est in ratione essentialiter.",
+ "latin_source": "farmer1998:11662",
+ "translation": "The whole of liberty is essentially in reason.",
+ "translation_note": "None beyond standard vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11662",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11662).",
+ "sources": [],
+ "doctrine": "The thesis locates freedom essentially in reason rather than in will, a claim Edelheit calls 'not an obvious statement' since freedom is usually associated with the will rather than with reason or intellect (edelheit2022:11936). Farmer records no note of his own on this thesis.",
+ "context": "Edelheit reads the thesis as returning, after the intervening thesis on Aristotelian physics, to the intellect-will debate already raised at thesis 2.19 (edelheit2022:11936).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he flags it as a substantive, non-obvious philosophical claim rather than commenting on its reception (edelheit2022:11936).",
+ "connections": [
+  "2.19"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 28 takes us away from Aristotelian physics and, similarly to thesis 19, back to the intellect-will debate.",
+   "work": "edelheit2022",
+   "line": 11936,
+   "verbatim": true
+  },
+  {
+   "text": "It states that the whole of liberty consists essentially in reason.",
+   "work": "edelheit2022",
+   "line": 11936,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific Thomistic text behind this thesis: not identified in the excerpt consulted (Farmer records no note of his own on it)."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

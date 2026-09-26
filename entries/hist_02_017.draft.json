@@ -1,0 +1,50 @@
+{
+ "thesis_id": "2.17",
+ "tier": "B",
+ "latin": "Licet defendi possit quoquomodo creaturam posse creare, rationabilius tamen est credere potentiam creandi creaturae communicari non posse.",
+ "latin_source": "farmer1998:11530",
+ "translation": "Although it can be defended, in some way, that a creature is able to create, it is nevertheless more reasonable to believe that the power to create cannot be communicated to a creature.",
+ "translation_note": "None beyond standard vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11530",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11530).",
+ "sources": [],
+ "doctrine": "The thesis concedes a qualified sense in which a creature might be said to create, while holding it more reasonable that the power of creation proper cannot be communicated to any creature (edelheit2022:11064). Farmer's note identifies the thesis as touching emanationism, a doctrine he says Thomas regarded as heretical, and states that Pico's own opposing view is set out in the Apology (Opera, 189) (farmer1998:11564).",
+ "context": "Farmer's note lists a wide network of related historical theses on emanation and causation (7.5, 8.7-8, 11.1, 13.5, 26.3) and records that Pico planned to treat aspects of emanationism through his 'way of numbers' at 7a>7 and 7a>26 (farmer1998:11564).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he describes it as 'somewhat complex in its structure', turning on two distinct senses of the concept of creation (edelheit2022:11064).",
+ "connections": [
+  "11.1",
+  "13.5",
+  "4>28",
+  "5.6",
+  "5>37",
+  "5>38",
+  "5>39",
+  "5>40",
+  "6>1",
+  "7.5",
+  "7a>7",
+  "7a>26",
+  "8.7",
+  "8.8",
+  "9>16",
+  "9>17",
+  "9>18"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 17 is somewhat complex in its structure and it brings us to consider the concept of creation, or in fact two different meanings of this concept.",
+   "work": "edelheit2022",
+   "line": 11064,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific Thomistic text Edelheit has in view, and the content of the Apology's discussion at Opera 189: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

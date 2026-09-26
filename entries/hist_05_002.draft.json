@@ -1,0 +1,39 @@
+{
+ "thesis_id": "5.2",
+ "tier": "B",
+ "latin": "Paternitas est principium generandi in patre.",
+ "latin_source": "farmer1998:12486",
+ "translation": "Paternity is the principle of generating in the Father.",
+ "translation_note": "'Patre' is capitalized in sense as the first Trinitarian Person, following Henry of Ghent's Trinitarian context for the thesis (edelheit2022:15330).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch7, from Latin at farmer1998:12486",
+ "pico_stance": "reports",
+ "attribution": "Reports Henry of Ghent (farmer1998:12486; edelheit2022:15330).",
+ "sources": [
+  {
+   "text": "Henry of Ghent, Quodlibet III, q. 3",
+   "locator": "edelheit2022:15330",
+   "pico_relation": "Edelheit's identified source: Henry argues there that the Father's own characteristic feature, paternity, is the reason of production, not the divine essence"
+  }
+ ],
+ "doctrine": "Edelheit reports that the thesis comes from Henry of Ghent's Quodlibet III, question 3, where Henry argues that the Father's own characteristic feature, paternity, is the reason of production, and not the divine essence, although one can say more (paraphrase, edelheit2022:15330).",
+ "historiography": "Edelheit's chapter is the only scholarship on this thesis found in the material consulted; he quotes the thesis's Latin verbatim from the printed 900 Theses, page 242 (edelheit2022:15357).",
+ "connections": [
+  "5.3",
+  "5.4"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "paternity is the principle of producing in the Father",
+   "work": "edelheit2022",
+   "line": 15330,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Reception of this thesis beyond Edelheit's chapter, or any discussion of it in Pico's Apologia: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch7 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

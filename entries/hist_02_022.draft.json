@@ -1,0 +1,42 @@
+{
+ "thesis_id": "2.22",
+ "tier": "B",
+ "latin": "Deus per speciem non uidetur, sed ipse per suam essentiam intellectui applicatur ut species intelligibilis.",
+ "latin_source": "farmer1998:11546",
+ "latin_note": "Farmer's apparatus records a variant reading in the 1487 printing: 'Deus in patria per speciem' (farmer1998:11552); theses.json and this entry follow Farmer's main reading.",
+ "translation": "God is not seen through a species [a sensible likeness], but he himself, through his own essence, is joined to the intellect as an intelligible species.",
+ "translation_note": "'Species' here has the scholastic technical sense of a cognitive likeness or form through which an object is known, not a biological species.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11546",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11546).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super Sententiis, book 4, distinction 49, question 2, article 1",
+   "locator": "edelheit2022:11435",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's discussion of the vision of God behind the thesis"
+  }
+ ],
+ "doctrine": "The thesis denies that God is known through a mediating sensible likeness, holding instead that God joins himself to the intellect directly, through his own essence functioning as the intelligible species (edelheit2022:11435). Edelheit locates the question in Thomas's commentary on the Sentences, book 4, distinction 49, question 2, article 1, and connects it to Thomas's account, elsewhere in the same discussion, of a thing whose quiddity is its own existence and which therefore admits no plurification (edelheit2022:11435; edelheit2022:11465).",
+ "context": "Farmer's note cross-refers the thesis to Thomas's Sentences commentary, book 4, distinction 49, question 2, article 1, and suggests Pico planned to collate it with other theses distinguishing God's transcendent and revealed natures, without further detail in the excerpt consulted (farmer1998:11634).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he presents it as an epistemological thesis on the perception of God, continuous with Thomas's argument for the uniqueness of a being whose essence is its existence (edelheit2022:11435).",
+ "connections": [
+  "28.35",
+  "2>5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 22 examines an epistemological issue concerning the perception of God.",
+   "work": "edelheit2022",
+   "line": 11435,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The other theses Pico is said to have planned to collate this one with: not identified in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

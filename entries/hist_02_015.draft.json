@@ -1,0 +1,43 @@
+{
+ "thesis_id": "2.15",
+ "tier": "B",
+ "latin": "Impassibilitas corporum post resurrectionem erit ex pleno dominio animae super corpus.",
+ "latin_source": "farmer1998:11433",
+ "latin_note": "Farmer's apparatus records a variant: the 1486 printing reads 'domino', corrected to 'dominio' in the 1487 printing (farmer1998:11439); theses.json and this entry follow the 1487 reading.",
+ "translation": "The impassibility of bodies after the resurrection will come from the soul's full dominion over the body.",
+ "translation_note": "None beyond standard vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11433",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11433).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, commentary on the Sentences (specific book, distinction and article not given in the excerpt consulted)",
+   "locator": "edelheit2022:10916",
+   "pico_relation": "Edelheit discusses the thesis in connection with Thomas's commentary on the Sentences without the excerpt naming the precise locus"
+  }
+ ],
+ "doctrine": "The thesis explains the impassibility (incapacity for suffering) of resurrected bodies as an effect of the soul's complete dominion over the body (edelheit2022:10916). Farmer's note ties the same issue to the debate over Christ's own impassibility discussed at thesis 4.12 (from Scotus), and situates it within Dominican-Franciscan controversy (farmer1998:11512).",
+ "context": "Farmer records that the Apology (Opera, [page not given in the excerpt]) also addresses the issue, without further detail available in the sources consulted (farmer1998:11512).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he treats it as continuing an examination, begun at the preceding thesis, of what happens to bodies in a non-corporeal, spiritual or miraculous condition (edelheit2022:10916).",
+ "connections": [
+  "2>3",
+  "4.12"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It states that the incapacity of bodies for suffering after resurrection is the result of the complete dominion of the soul over the body.",
+   "work": "edelheit2022",
+   "line": 10916,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The precise book, distinction and article of Thomas's Sentences commentary Edelheit has in view: cut off in the excerpt consulted.",
+  "The content of the Apology's treatment of this issue: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

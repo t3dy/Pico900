@@ -1,0 +1,48 @@
+{
+ "thesis_id": "2.14",
+ "tier": "B",
+ "latin": "Verum corpus Christi est in coelo localiter, in altari sacramentaliter.",
+ "latin_source": "farmer1998:11430",
+ "translation": "The true body of Christ is in heaven locally, and on the altar sacramentally.",
+ "translation_note": "None beyond standard vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11430",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11430).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Summa theologiae 3, question 75, article 1",
+   "locator": "edelheit2022:10872",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's discussion of Eucharistic presence behind the thesis"
+  }
+ ],
+ "doctrine": "The thesis distinguishes two modes of Christ's bodily presence: local presence in heaven and sacramental presence on the altar (edelheit2022:10872). Edelheit locates the underlying question in Thomas's Summa theologiae 3, question 75, article 1, on whether Christ is present in the sacrament 'in rei veritate' (edelheit2022:10916, quoting Thomas's own phrase). He further remarks that Pico's contrast of the adverbs 'localiter' and 'sacramentaliter' does not fully register the nuance Thomas gives to Christ's presence in the altar as being there 'in rei veritate' (edelheit2022:10916).",
+ "context": "Farmer's note pairs 2.13-14 as sacrament theses and records that 2.14 is discussed at length in Pico's Apology, in the Opera edition at 183ff (farmer1998:11507).",
+ "reception": "Farmer records that the thesis received extended discussion in Pico's own Apology (Opera, 183ff), though the content of that discussion is not given in the sources consulted here (farmer1998:11507).",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he judges that Pico's formulation, in setting 'localiter' against 'sacramentaliter', is 'not sensitive enough' to the nuance of Thomas's own account of Christ's presence in the altar (edelheit2022:10916).",
+ "connections": [
+  "2.13",
+  "2.20",
+  "2>3",
+  "4.12",
+  "4.14",
+  "4.15",
+  "4>1",
+  "4>2",
+  "4>10"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "It states that the true body of Christ is locally in heaven, but sacramentally it is in the altar.",
+   "work": "edelheit2022",
+   "line": 10872,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The content of the Apology's discussion of this thesis beyond Farmer's page reference: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

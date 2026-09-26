@@ -1,0 +1,37 @@
+{
+ "thesis_id": "2.19",
+ "tier": "B",
+ "latin": "Non potest esse peccatum in uoluntate, nisi sit defectus in ratione.",
+ "latin_source": "farmer1998:11537",
+ "translation": "There cannot be sin in the will unless there is a defect in reason.",
+ "translation_note": "None beyond standard vocabulary.",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11537",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11537).",
+ "sources": [],
+ "doctrine": "The thesis makes sin in the will depend on a prior defect in reason, denying that error could arise from the will independently of reason (edelheit2022:11198). Edelheit places it at the center of the intellect-will debate and the problem of evil, and notes that an opposing view -- that error in reason itself comes from a failure to control the passions -- is the alternative the thesis rules out (edelheit2022:11198).",
+ "context": "Farmer's note cross-refers the thesis to his note on 2.12 and to thesis 5>46 among Pico's own opinions, which restates the same Thomistic position in commenting on Plato (farmer1998:11578; farmer1998:22978).",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he reads it as continuous with the intellect-will debate he treats at length elsewhere, and points to his own separate study of the 1474 controversy between Marsilio Ficino and Vincenzo Bandello as further background on that debate (edelheit2022:11225).",
+ "connections": [
+  "2.12",
+  "2.28",
+  "2>4",
+  "5>46"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 19 takes us to the heart of the intellect-will debate, and also, as we shall shortly see, to the problem of evil.",
+   "work": "edelheit2022",
+   "line": 11198,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The specific Thomistic text behind this thesis: not identified in the excerpt consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

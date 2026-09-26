@@ -1,0 +1,48 @@
+{
+ "thesis_id": "2.13",
+ "tier": "B",
+ "latin": "Sacramenta noue legis sunt causa gratiae, non solum sine qua non, sed per quam.",
+ "latin_source": "farmer1998:11426",
+ "translation": "The sacraments of the New Law are a cause of grace, not only as that without which grace is not given, but as that through which it is given.",
+ "translation_note": "The Latin distinguishes a merely necessary condition ('sine qua non') from an efficient channel ('per quam'); Edelheit paraphrases the same distinction as between an 'indispensable cause' and an 'efficient cause' (edelheit2022:10811).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch3, from Latin at farmer1998:11426",
+ "pico_stance": "reports",
+ "attribution": "Reports Thomas Aquinas (farmer1998:11426).",
+ "sources": [
+  {
+   "text": "Thomas Aquinas, Scriptum super Sententiis, book 4, distinction 1, question 1, article 4",
+   "locator": "edelheit2022:10811",
+   "pico_relation": "Edelheit identifies this as the location of Thomas's discussion behind the thesis"
+  }
+ ],
+ "doctrine": "The thesis holds that the sacraments of the New Testament cause grace not merely as an indispensable condition but as an efficient cause (edelheit2022:10811). Edelheit locates the underlying discussion in Thomas's commentary on the Sentences, book 4, distinction 1, question 1, article 4, where Thomas considers, against an opposing view he associates with Ockham and Pecham, a stronger causal role for the sacraments than a bare condition (edelheit2022:10811). Farmer's note glosses 'New Law' as the New Testament and groups the thesis with other theses on the sacraments scattered through the work, including 4.14-15, 4>1-2 and 4>10 (farmer1998:11507).",
+ "context": "Farmer's note records that the companion thesis 2.14, on the Eucharist, is discussed at length in the Apology (farmer1998:11507); the note does not say the same of 2.13 itself, so no comparable Apology discussion of 2.13 specifically is established by the sources consulted.",
+ "reception": "Not established by the sources consulted.",
+ "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he reads Thomas's Sentences commentary as committing Thomas, in Pico's presentation, to a position on sacramental causality perhaps beyond what Thomas himself intended, and notes Pico's own choice of terminology differs from Thomas's (edelheit2022:10811).",
+ "connections": [
+  "2.14",
+  "2.20",
+  "2>3",
+  "4.12",
+  "4.14",
+  "4.15",
+  "4>1",
+  "4>2",
+  "4>10"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Thesis 13 is a declaration concerning the sacraments of the New Testament.",
+   "work": "edelheit2022",
+   "line": 10811,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Any commission or Apology reception of this specific thesis: not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch3 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
