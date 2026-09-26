@@ -1,0 +1,81 @@
+{
+  "title": "Conclusion Entry Schema",
+  "version": "1.0",
+  "fields": {
+    "conclusion_id": "str (e.g., 'I.1.1')",
+    "section": "str (one of SECTIONS keys)",
+    "latin_incipit": "str (opening words of Latin text)",
+    "latin_source": "str enum: 'critical_edition' | 'megabase' | 'picodb'",
+    "latin_verified": "bool",
+    "english_translation": {
+      "text": "str",
+      "source": "str (megabase file or 'original_2026')",
+      "translator": "str enum: 'LLM' | 'Ted Hand'"
+    },
+    "exegesis": "str (1-2 paragraphs of philosophical context)",
+    "commentary_status": "str enum: 'unstarted' | 'draft' | 'sourced_quotations' | 'complete'",
+    "scholar_citations": [
+      {
+        "scholar": "str (author name)",
+        "work": "str (title)",
+        "pages": "str or int (page or page range)",
+        "quotation": "str (exact quotation)",
+        "confidence": "str enum: 'VERIFIED' | 'CITED' | 'INFERRED'",
+        "relevance": "str (how this quotation illuminates the conclusion)"
+      }
+    ],
+    "heretical_flag": "bool",
+    "heretical_notes": "str (if flagged: charge, defense, debate summary)",
+    "tags": [
+      "str (from allowed tag set)"
+    ],
+    "notes": "str (editorial notes, uncertainties, revisions)",
+    "status": "str enum: 'unstarted' | 'draft' | 'sourced' | 'complete' | 'reviewed'",
+    "created_date": "ISO 8601 date",
+    "updated_date": "ISO 8601 date",
+    "assigned_to": "str (LLM agent ID or 'Ted Hand' or None)"
+  },
+  "allowed_tags": [
+    "angels",
+    "arabic_philosophy",
+    "aristotlelianism",
+    "astrology",
+    "causality",
+    "christian_theology",
+    "epistemology",
+    "essence_existence",
+    "eucharist",
+    "heretical",
+    "incarnation",
+    "intellect",
+    "kabbalah",
+    "logic",
+    "magic",
+    "metaphysics",
+    "platonism",
+    "prophecy",
+    "soul",
+    "theology"
+  ],
+  "status_values": [
+    "unstarted",
+    "draft",
+    "sourced",
+    "complete",
+    "reviewed"
+  ],
+  "confidence_values": [
+    "VERIFIED",
+    "CITED",
+    "INFERRED"
+  ],
+  "sources": [
+    "critical_edition",
+    "megabase",
+    "picodb"
+  ],
+  "translators": [
+    "LLM",
+    "Ted Hand"
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "philosophers": [
+    {
+      "id": "plotinus",
+      "name": "Plotinus",
+      "dates": "204-270 CE",
+      "period": "Late Neoplatonism",
+      "key_works": [
+        {
+          "title": "Enneads",
+          "composed": "c. 253-270 CE",
+          "structure": "54 tractates arranged in 6 groups of 9",
+          "standard_citation": "Ennead.Tractate.Section",
+          "example": "Enn. 5.1.1 (The Three Hypostases)",
+          "translations": [
+            {
+              "translator": "Armstrong",
+              "year": "1966-1988",
+              "volumes": 3,
+              "notes": "Standard English translation"
+            }
+          ]
+        }
+      ],
+      "core_concepts": [
+        "The One (beyond being)",
+        "Emanation and procession",
+        "Intellect (Nous) as first hypostasis",
+        "World Soul (Psyche)",
+        "Matter and evil",
+        "Contemplation and return",
+        "Henosis (mystical union)"
+      ],
+      "pico_relevance": "Central to Pico's metaphysics, ontology of emanation, soul-matter relation, and mystical union",
+      "key_scholars": ["Armstrong", "Rist", "Beierwaltes", "Michael J B Allen"],
+      "archive_locations": ["Michael J B Allen/", "Beierwaltes/"],
+      "notes": "Pico's *Heptaplus* and *Conclusions* draw heavily on Plotinian henology"
+    },
+    {
+      "id": "porphyry",
+      "name": "Porphyry (Malchos)",
+      "dates": "234-305 CE",
+      "period": "Late Neoplatonism, editor of Plotinus",
+      "key_works": [
+        {
+          "title": "Sententiae ad Intelligibilia (Launching Points for the Intelligible Realm)",
+          "composed": "c. 300 CE",
+          "structure": "32 chapters + appendix",
+          "standard_citation": "Sent. ch.number",
+          "notes": "Main systematic work; heavily used in medieval philosophy"
+        },
+        {
+          "title": "Isagoge (Introduction)",
+          "composed": "c. 300 CE",
+          "structure": "5-fold logical classification",
+          "notes": "Intro to Aristotle's *Categories*; became standard logic text"
+        },
+        {
+          "title": "On Abstinence (De Abstinentia)",
+          "composed": "c. 305 CE",
+          "structure": "4 books",
+          "notes": "Ethics and theurgy; Pico cites for demonology"
+        },
+        {
+          "title": "Letter to Marcella",
+          "notes": "Ethical and theological treatise"
+        }
+      ],
+      "core_concepts": [
+        "Substance (ousia) and hypostasis",
+        "Being and intellect",
+        "The intelligible triad",
+        "Daemons and intermediaries",
+        "Theurgy and ritual",
+        "Virtue ethics (Platonic four virtues)"
+      ],
+      "pico_relevance": "Demonology, daemon hierarchy, theurgy, substance/essence debates, ethical theory",
+      "key_scholars": ["Dillon", "Michael J B Allen", "Beierwaltes", "Brisson"],
+      "archive_locations": ["Christian Platonism/", "Michael J B Allen/"],
+      "notes": "Pico's daemon cosmology and theurgic theses often cite Porphyry's *On Abstinence*"
+    },
+    {
+      "id": "iamblichus",
+      "name": "Iamblichus of Apamea",
+      "dates": "c. 245-325 CE",
+      "period": "Late Neoplatonism, founder of Syrian school",
+      "key_works": [
+        {
+          "title": "De Mysteriis Aegyptiorum (On the Mysteries)",
+          "composed": "c. 305 CE",
+          "structure": "10 books (Book 1 survives complete; others fragmentary)",
+          "standard_citation": "Myst. book.section",
+          "notes": "Attributed to 'Abammon' (Egyptian priest); actually Iamblichus",
+          "translations": [
+            {
+              "translator": "Clarke/Dillon/Hershbell",
+              "year": "2003",
+              "notes": "Critical edition with introduction"
+            }
+          ]
+        },
+        {
+          "title": "Exhortation to Philosophy (Protrepticus)",
+          "notes": "Fragments on philosophical method"
+        },
+        {
+          "title": "On the Pythagorean Life",
+          "notes": "Fragments on Pythagorean symbolism and practice"
+        }
+      ],
+      "core_concepts": [
+        "Theurgy (divine working/operation)",
+        "Sympathy and cosmic harmony",
+        "Divine names and ritual efficacy",
+        "Henads (divine principles)",
+        "Daemons and intermediaries",
+        "Symbolic theology"
+      ],
+      "pico_relevance": "Foundational for Pico's theurgic theses, divine names, daemons, ritual efficacy",
+      "key_scholars": ["Tanaseanu-Döbler", "Struck", "Copenhaver"],
+      "archive_locations": ["Iamblichus/", "Chaldean Oracles/"],
+      "notes": "Iamblichus systematized theurgy; Pico's condemned propositions include theurgic claims"
+    },
+    {
+      "id": "proclus",
+      "name": "Proclus Lycaeus",
+      "dates": "412-485 CE",
+      "period": "Late Neoplatonism, medieval transmission",
+      "key_works": [
+        {
+          "title": "Elements of Theology (Stoicheiosis Theologike)",
+          "composed": "c. 450 CE",
+          "structure": "211 propositions (strict deductive order)",
+          "standard_citation": "Prop. number",
+          "notes": "Most systematic Neoplatonic work; heavily cited in medieval scholasticism"
+        },
+        {
+          "title": "Theologia Platonica",
+          "composed": "c. 450 CE",
+          "structure": "6 books",
+          "notes": "Extensive commentary on Plato; medieval reception crucial"
+        },
+        {
+          "title": "Commentary on the Parmenides",
+          "notes": "Dense ontological work; influences medieval henology"
+        }
+      ],
+      "core_concepts": [
+        "Henology (theology of the One)",
+        "Procession and reversion",
+        "Triadic structure (Unity-Multiplicity-Return)",
+        "Henads (divine manifestations)",
+        "Intermediate principles",
+        "Negative theology"
+      ],
+      "pico_relevance": "Henology, triadic logic, henads as divine names, medieval transmission via Pseudo-Dionysius",
+      "key_scholars": ["Michael J B Allen", "Beierwaltes", "Bechtle", "Siorvanes"],
+      "archive_locations": ["Michael J B Allen/"],
+      "notes": "Allen is the expert on Proclus in Pico; *Elements of Theology* is most cited Neoplatonic text in medieval scholasticism"
+    },
+    {
+      "id": "chaldean_oracles",
+      "name": "Chaldean Oracles (Logia Chaldaica)",
+      "dates": "c. 2nd century CE (attributed to Julianus the Chaldean & son)",
+      "period": "Early Neoplatonism, theurgic tradition",
+      "key_works": [
+        {
+          "title": "Oracles (Fragments)",
+          "structure": "~200 metrical fragments",
+          "standard_citation": "Fragment number (Majercik or des Places)",
+          "notes": "Only fragmentary; cited through Porphyry, Iamblichus, Proclus"
+        }
+      ],
+      "core_concepts": [
+        "Divine fire and noetic fire",
+        "Divine names (nomina)",
+        "Henads and demiurge",
+        "Triadic cosmology",
+        "Theurgy and ascent"
+      ],
+      "pico_relevance": "Divine names, theurgic practice, fire-theology, Pico's prisca theologia",
+      "key_scholars": ["Majercik", "Brisson", "Struck", "des Places"],
+      "archive_locations": ["Chaldean Oracles/", "Iamblichus/"],
+      "notes": "Quasi-scriptural status in late Neoplatonism; crucial for Pico's theurgic magic"
+    },
+    {
+      "id": "nicomachus",
+      "name": "Nicomachus of Gerasa",
+      "dates": "c. 100 CE",
+      "period": "Middle Platonism, Pythagorean numerology",
+      "key_works": [
+        {
+          "title": "Introduction to Arithmetic (Arithmetica)",
+          "structure": "2 books on number mysticism",
+          "notes": "Pythagorean numerology; standard medieval arithmetic text"
+        },
+        {
+          "title": "Manual of Harmonics",
+          "notes": "Music and cosmology"
+        }
+      ],
+      "core_concepts": [
+        "Number as cosmic principle",
+        "Harmonic ratios and cosmology",
+        "Even/odd, monad, dyad",
+        "Divine numbers",
+        "Cosmic hierarchy through number"
+      ],
+      "pico_relevance": "Number mysticism, Kabbalah-Pythagorean parallels in Pico's numeric theses",
+      "key_scholars": ["Dillon", "D'Ooge", "Vitucci"],
+      "archive_locations": ["Nicomachus/", "Beierwaltes/"],
+      "notes": "Pico often conflates Nicomachus with Kabbalah on number; check for synthesis theses"
+    },
+    {
+      "id": "pseudo_dionysius",
+      "name": "Pseudo-Dionysius the Areopagite",
+      "dates": "c. 500 CE (pseudo-attribution to 1st century)",
+      "period": "Late Neoplatonism, Christian synthesis",
+      "key_works": [
+        {
+          "title": "Celestial Hierarchy (De Coelesti Hierarchia)",
+          "notes": "Neoplatonic angel/daemon hierarchy Christianized"
+        },
+        {
+          "title": "Divine Names (De Divinis Nominibus)",
+          "notes": "Neoplatonic henology in Christian theological garb"
+        }
+      ],
+      "core_concepts": [
+        "Negative theology (via negativa)",
+        "Angelic hierarchies",
+        "Divine names and procession",
+        "Henads as divine manifestations"
+      ],
+      "pico_relevance": "Medieval transmission of Neoplatonism; Pico's angel/daemon cosmology mediated by Pseudo-Dionysius",
+      "key_scholars": ["Beierwaltes", "Louth", "Copenhaver"],
+      "archive_locations": ["Christian Platonism/"],
+      "notes": "Key filter for Pico's reception of Proclean henology and angelic theses"
+    },
+    {
+      "id": "apuleius",
+      "name": "Apuleius of Madauros",
+      "dates": "c. 125-180 CE",
+      "period": "Middle Platonism, Greco-Roman",
+      "key_works": [
+        {
+          "title": "On the God of Socrates (De Deo Socratis)",
+          "notes": "Daemons and intermediaries in Platonic cosmology"
+        },
+        {
+          "title": "The Golden Ass (Metamorphoses)",
+          "notes": "Magical transformation and Platonic cosmology"
+        }
+      ],
+      "core_concepts": [
+        "Daemon cosmology",
+        "Intermediary spirits",
+        "Magic and Platonic philosophy",
+        "Ascent through philosophical practice"
+      ],
+      "pico_relevance": "Daemon classification, Pico's demonology, magic within Platonic framework",
+      "key_scholars": ["Dillon", "Winkler", "Leigh"],
+      "archive_locations": ["Apuleis/", "Christian Platonism/"],
+      "notes": "Pico uses Apuleius on daemons to authorize Renaissance magic theory"
+    }
+  ],
+  "related_figures": [
+    {
+      "id": "ficino",
+      "name": "Marsilio Ficino",
+      "dates": "1433-1499",
+      "role": "Renaissance Platonist, Pico's contemporary",
+      "key_works": [
+        "Theologia Platonica (Platonic Theology)",
+        "Commentaries on Plato",
+        "Commentaries on Plotinus (*Enneads*)"
+      ],
+      "pico_relevance": "Shared Neoplatonic sources; Pico's Neoplatonism shaped by Ficino's transmission",
+      "archive_locations": ["Christian Platonism/", "e:\\pdf\\renaissance magic\\"]
+    },
+    {
+      "id": "aquinas",
+      "name": "Thomas Aquinas",
+      "role": "Scholastic reception of Neoplatonism",
+      "pico_relevance": "Pico synthesizes Aquinas + Neoplatonism on emanation, substance, being",
+      "archive_locations": ["Beierwaltes/", "Christian Platonism/"]
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-09-25",
+    "version": "1.0",
+    "note": "This index covers major Neoplatonist and related figures relevant to Pico900 commentary. Use this as reference when identifying which philosopher(s) a thesis invokes."
+  }
+}

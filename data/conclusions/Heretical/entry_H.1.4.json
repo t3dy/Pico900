@@ -1,0 +1,22 @@
+{
+  "conclusion_id": "H.1.4",
+  "section": "Heretical conclusions",
+  "latin_incipit": "Christus non accepit naturam humanam, sed hominem accepit",
+  "latin_source": "megabase",
+  "latin_verified": false,
+  "english_translation": {
+    "text": "Christ did not take on human nature, but rather assumed a man",
+    "source": "2025-07-05 Pico della Mirandola Summary.md",
+    "translator": "LLM"
+  },
+  "exegesis": null,
+  "commentary_status": "draft",
+  "scholar_citations": [],
+  "heretical_flag": true,
+  "heretical_notes": null,
+  "tags": ["heretical", "incarnation", "theology", "metaphysics", "christology", "logic"],
+  "status": "sourced",
+  "created_date": "2026-09-25",
+  "updated_date": "2026-09-25",
+  "assigned_to": null
+}

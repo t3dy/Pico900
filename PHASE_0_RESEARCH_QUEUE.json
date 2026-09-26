@@ -1,0 +1,226 @@
+{
+  "phase": 0,
+  "phase_name": "Heretical Essay Research (Learning Ground)",
+  "phase_objective": "Research 13 condemned conclusions from 1486 trial. Output: essay outline + citation map. Use to learn pipeline efficiency before scaling to 900.",
+  "status": "ready_to_start",
+  "total_token_budget": 150000,
+  "phase_start": null,
+  "phase_complete": null,
+  "tickets": [
+    {
+      "task_id": "H1-HERETICAL",
+      "role": "HARVESTER",
+      "section": "Heretical conclusions (13 condemned theses)",
+      "description": "Extract the 13 conclusions condemned by Pope Innocent VIII (1486) from Copenhaver and PicoDB. For each: Latin incipit, English translation, papal charge, Pico's defense, scholarly references.",
+      "sources": [
+        "C:\\Dev\\megabase\\chats_2025\\2025-07-05_Pico della Mirandola Summary.md (focus: Copenhaver's account of Q1-Q13)",
+        "C:\\Dev\\PicoDB\\artifacts\\essays (any heresy-related essays)",
+        "C:\\Dev\\PicoDB\\docs\\MISSING_WRITINGS_ACQUISITION_LOG.md (for transmission risk on condemned conclusions)"
+      ],
+      "target_output": "data/staging/stage_heretical.json",
+      "output_schema": {
+        "conclusions": [
+          {
+            "conclusion_number": "Q1",
+            "theme": "string (e.g., 'Incarnation & Divine Embodiment')",
+            "latin_incipit": "string",
+            "english_translation": "string",
+            "papal_charge": "string (exact charge from commission)",
+            "picos_defense": "string or null (if available from Apology)",
+            "copenhaver_account": "string (Copenhaver's interpretation)",
+            "source_references": ["string"]
+          }
+        ]
+      },
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 35000,
+      "prerequisites": [],
+      "notes": "Be verbatim. Extract exactly the 13 Q1-Q13 from Copenhaver's account. Record methodology: were some conclusions harder to find than others? Did Copenhaver cite all of them?"
+    },
+    {
+      "task_id": "P1-HERETICAL",
+      "role": "PORTER",
+      "section": "Heretical conclusions",
+      "description": "Convert harvested JSON into Pico900 format. Assign IDs (H.1.1 through H.1.13). Validate schema.",
+      "input": "data/staging/stage_heretical.json",
+      "target_output": "data/conclusions/Heretical/ (13 JSON files)",
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 20000,
+      "prerequisites": ["H1-HERETICAL"],
+      "instructions": "For each conclusion in stage_heretical.json: (1) Assign ID: H.1.1, H.1.2, ..., H.1.13. (2) Create JSON entry matching data/schema.json. (3) Set status='sourced', commentary_status='draft'. (4) Copy fields from harvested JSON. (5) Leave empty: exegesis, scholar_citations (SYNTHESIZER will fill). (6) Set heretical_flag=true, but leave heretical_notes null.",
+      "notes": "Validate all 13 produce valid JSON. Check schema compliance."
+    },
+    {
+      "task_id": "S1-HERETICAL",
+      "role": "SYNTHESIZER",
+      "specialty": "heretical_conclusions_research",
+      "section": "Heretical conclusions",
+      "description": "Research each of 13 condemned conclusions. For each: state the charge (papal), cite Pico's defense (if available), synthesize modern debate (Copenhaver, Dougherty, Howlett, Edelheit). Find 3-4 verbatim quotations per conclusion.",
+      "input": "data/conclusions/Heretical/*.json (from P1)",
+      "target_output": "data/conclusions/Heretical/*.json (enhanced with heretical_notes and scholar_citations)",
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 55000,
+      "prerequisites": ["P1-HERETICAL"],
+      "research_scope": {
+        "primary_sources": [
+          "Copenhaver *Pico on Trial* - full account of charges and defenses",
+          "Pico's *Apology* Questions Q1-Q13 (if available in PicoDB)"
+        ],
+        "secondary_sources": [
+          "Dougherty (ed.) *Pico della Mirandola* - essays on Pico's works, heretical context",
+          "Howlett - concordism + heretical conclusions",
+          "Edelheit - scholastic sources for heretical ideas"
+        ],
+        "special_research": [
+          "Liana Saif - Arabic influences on Pico's heresies (esp. Q5 Kabbalah/Magic, if applicable)"
+        ]
+      },
+      "output_format": {
+        "heretical_notes": {
+          "charge": "string (papal commission's specific theological charge)",
+          "defense": "string (Pico's response from Apology, or Copenhaver's account if Apology unavailable)",
+          "modern_debate": {
+            "copenhaver": "string (Copenhaver's interpretation: was charge valid? Was defense credible?)",
+            "dougherty": "string (Dougherty's perspective)",
+            "howlett": "string (Howlett's concordist reading)",
+            "edelheit": "string (Edelheit's scholastic context)"
+          }
+        },
+        "scholar_citations": [
+          {
+            "scholar": "string (author name)",
+            "work": "string (title)",
+            "pages": "string or int",
+            "quotation": "string (exact verbatim)",
+            "confidence": "VERIFIED or CITED",
+            "relevance": "string (how this quotation illuminates the conclusion)"
+          }
+        ]
+      },
+      "methodology_to_record": [
+        "Which sources were most useful for finding charges/defenses?",
+        "Did Copenhaver + Dougherty + Howlett + Edelheit provide sufficient debate, or did you need additional sources?",
+        "Were some conclusions harder to research than others? Why?",
+        "Any surprises in the scholarship (contradictions, gaps, novel interpretations)?",
+        "Did the 'Four Pillars' framework (charge, defense, debate, context) work?"
+      ],
+      "notes": "This is the learning ground for the pipeline. Record all methodology. Token budget is generous (~55k) — use it to find high-quality citations."
+    },
+    {
+      "task_id": "S2-HERETICAL-ESSAY",
+      "role": "SYNTHESIZER",
+      "specialty": "heretical_essay_outline",
+      "section": "Heretical conclusions",
+      "description": "Draft essay outline organizing 13 condemned conclusions by theme. Integrate quotations from scholarship. Create skeleton for final heretical essay.",
+      "input": [
+        "data/conclusions/Heretical/*.json (enhanced from S1)",
+        "S1's methodology notes (what scholars said about each conclusion)",
+        "docs/HERETICAL_RESEARCH_PLAN.md (structure recommendations)"
+      ],
+      "target_output": "docs/HERETICAL_ESSAY_DRAFT_OUTLINE.md",
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 30000,
+      "prerequisites": ["S1-HERETICAL"],
+      "structure_recommendation": "1. Introduction (context: 1486 trial, Pope Innocent VIII, precedents). 2. Incarnation & Divine Embodiment (Q1-Q4). 3. Eucharist & Transubstantiation (Q6, Q9-Q10). 4. Soul/Intellect/Immortality (Q7, Q11). 5. Kabbalah/Magic (Q5). 6. Other Theological (Q8, Q12-Q13). 7. Historiographical Reflection (what does the trial reveal about late medieval theology?).",
+      "instructions": "For each section: (1) State the theme. (2) List the Q numbers. (3) Summarize the charge (cite Copenhaver or papal source). (4) Integrate 1-2 key quotations from scholarship (ensure they're verbatim). (5) Note modern scholarly debate (Copenhaver vs. Howlett vs. Edelheit). (6) Write 2-3 sentences on implications.",
+      "methodology_to_record": [
+        "Did organizing by theme vs. by order of condemnation change your understanding?",
+        "Did the essay argument emerge from sources or did you impose it?",
+        "Which sections feel strongest/weakest?",
+        "Any gaps in the scholarship for specific conclusions?"
+      ],
+      "notes": "Outline should be ready for Ted to review and potentially expand into full essay."
+    },
+    {
+      "task_id": "R1-HERETICAL",
+      "role": "REVIEWER",
+      "section": "Heretical conclusions",
+      "description": "Validate 13 enhanced entries and essay outline against STYLE_GUIDE.md.",
+      "input": [
+        "data/conclusions/Heretical/*.json (enhanced)",
+        "docs/HERETICAL_ESSAY_DRAFT_OUTLINE.md",
+        "docs/STYLE_GUIDE.md (full version)",
+        "data/schema.json"
+      ],
+      "target_output": "data/review_approval_HERETICAL.json",
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 15000,
+      "prerequisites": ["S1-HERETICAL", "S2-HERETICAL-ESSAY"],
+      "validation_checklist": [
+        "Every scholarly claim has a verbatim quotation (no paraphrase)",
+        "Confidence levels marked: [VERIFIED] or [CITED] only",
+        "Heretical conclusions have 'charge, defense, debate' sections filled",
+        "Tags are valid (from schema.json)",
+        "Entry schema matches allowed fields",
+        "No orphan entries (all 13 present)",
+        "Essay outline is coherent, well-sourced, and cites specific Q numbers",
+        "Quotations are exact and accurately attributed"
+      ],
+      "output_format": {
+        "approval_status": "approved or revision_requested",
+        "approved_entries": ["H.1.1", "H.1.2", ...],
+        "revision_requests": [
+          {
+            "entry_id": "string",
+            "issue": "string",
+            "fix": "string"
+          }
+        ],
+        "essay_approval": "approved or revision_requested",
+        "essay_notes": "string"
+      },
+      "notes": "If any entry fails validation, request revision (don't approve partial work)."
+    },
+    {
+      "task_id": "RETROSPECTIVE-PHASE0",
+      "role": "ORCHESTRATOR",
+      "section": "Phase 0 Retrospective",
+      "description": "Analyze Phase 0 results. What worked? What was slow? What should we change for Phase 1 (all 900 conclusions)?",
+      "input": [
+        "All phase tickets (status, tokens spent)",
+        "All agent methodology notes",
+        "S1 and S2 outputs and challenges",
+        "R1 validation results"
+      ],
+      "target_output": "docs/PHASE_0_REPORT.md",
+      "status": "queued",
+      "assigned_to": null,
+      "started_at": null,
+      "completed_at": null,
+      "token_budget": 10000,
+      "prerequisites": ["R1-HERETICAL"],
+      "report_sections": [
+        "Completeness: Did we find all 13 condemned conclusions?",
+        "Citation Accuracy: Did SYNTHESIZER's quotations check out?",
+        "Scholarship Coverage: Was Copenhaver + Dougherty + Howlett + Edelheit sufficient?",
+        "Token Efficiency: Did we stay under 150k? What was expensive?",
+        "Methodology: Did 'charge, defense, debate' framework work?",
+        "Surprises: Contradictions, gaps, novel interpretations in scholarship?",
+        "Recommendations for Phase 1"
+      ],
+      "success_criteria": [
+        "All 13 condemned conclusions identified",
+        "Heretical entries have charge + defense + modern debate",
+        "All citations verified or marked [CITED]",
+        "Essay outline coherent and well-sourced",
+        "Retrospective identifies concrete improvements for Phase 1"
+      ],
+      "notes": "If any success criterion fails, iterate before proceeding to Phase 1. Phase 0 is a proof-of-concept for the pipeline."
+    }
+  ]
+}

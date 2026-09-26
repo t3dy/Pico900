@@ -1,0 +1,22 @@
+# Dependencies
+site/
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+data/archives/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives (generated, gitignored)
+data/staging/

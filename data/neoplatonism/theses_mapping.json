@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "description": "Mapping of Pico's 900 Conclusions to Neoplatonist philosophers and concepts. Status field tracks research progress.",
+  "status_legend": {
+    "unmapped": "Not yet examined for Neoplatonism content",
+    "candidate": "Possibly relevant; needs verification",
+    "primary_sourced": "Has primary Neoplatonist source identified",
+    "scholarship_added": "Secondary scholarship on Pico's use found",
+    "commentary_ready": "Full citation chain complete, ready for commentary"
+  },
+  "theses": [
+    {
+      "conclusion_id": 1,
+      "latin_incip": "[placeholder]",
+      "status": "unmapped",
+      "neoplatonist_philosophers": [],
+      "primary_sources": [],
+      "scholarship": [],
+      "notes": "",
+      "last_checked": null,
+      "researcher": null
+    }
+  ],
+  "summary_statistics": {
+    "total_conclusions": 900,
+    "unmapped": 900,
+    "candidate": 0,
+    "primary_sourced": 0,
+    "scholarship_added": 0,
+    "commentary_ready": 0,
+    "last_updated": "2026-09-25",
+    "notes": "Template initialized; no mappings yet. Use research scripts to populate."
+  },
+  "schema_notes": {
+    "conclusion_id": "1-900 (matches critical edition numbering)",
+    "latin_incip": "Latin opening phrase for quick reference",
+    "status": "one of: unmapped, candidate, primary_sourced, scholarship_added, commentary_ready",
+    "neoplatonist_philosophers": "array of philosopher IDs (plotinus, porphyry, iamblichus, proclus, chaldean_oracles, nicomachus, etc.)",
+    "primary_sources": "array of objects: { philosopher, work, edition, pages, quote_extracted }",
+    "scholarship": "array of objects: { author, work, chapter, pages, quote_extracted, pico_connection_stated }",
+    "notes": "Free-form notes on research status, uncertainties, or connections to other conclusions"
+  }
+}
