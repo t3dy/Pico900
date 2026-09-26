@@ -2,7 +2,7 @@
 
 **Project**: Digital edition of Pico's 900 Conclusions with facing-page Latin/English, scholarship citations, and "Heretical" essay
 
-**Status**: Phase 0 (Heretical Essay Research) **LAUNCHED** 2026-09-25
+**Status**: Phase 0 (Heretical Essay Research) **ACTIVE**; Phase 1-Alpha (Four-Text Editions + Angelology) **READY FOR DISPATCH** 2026-09-25
 
 **Live Site** (when built): https://t3dy.github.io/Pico900  
 **Repository**: https://github.com/t3dy/Pico900
@@ -117,6 +117,60 @@ RETROSPECTIVE (Analyze results, report improvements for Phase 1)
 - ✓ All scholarly citations verified or marked [CITED]
 - ✓ Essay outline coherent and well-sourced
 - ✓ Retrospective identifies concrete pipeline improvements
+
+---
+
+## Phase 1-Alpha: Four-Text Digital Editions + Angelology (NEW 2026-09-25)
+
+**Objective**: Create parallel digital editions for *Oration*, *Commento*, *Heptaplus*, and *On Being and Unity* with angelology-focused commentary. Extract 97 angelology passages across four texts, synthesize cross-text exegeses, build shared scholarship database.
+
+**Why Angelology Now?**
+- Heretical conclusions Q1, Q6, Q8 cluster around divine embodiment—incomprehensible without angelology
+- Four texts are philosophically unified via Pico's angelic synthesis (Pseudo-Dionysius + Aquinas + Kabbalah + Plotinus)
+- 900 Conclusions contain entire sections on celestial magic + Kabbalah (angelic invocations)
+- Parallel execution doesn't block main 900 pipeline
+
+**Infrastructure Created**:
+- **ANGELICRESEARCH.md** (7,000 words): Comprehensive angelology research guide
+  - Four philosophical lineages with texts + scholarly consensus
+  - Theme cross-text mapping table
+  - Specific HARVESTER tasks (12-50 passages per text)
+  - Scholarly debate log (Wirszubski vs. Allen, Howlett vs. Black, etc.)
+  
+- **data/texts/TEXTS_SCHEMA.json**: Entry templates + Phase 1-Alpha task descriptions
+- **data/texts/EDITION_MANIFESTS.json**: Detailed work queues (H2-A–R1-A)
+- **HANDOVER_PHASE_1_ALPHA.md**: Dispatch guide
+
+**Workflow**:
+```
+HARVESTER H2-A, H3-A, H4-A, H5-A (extract angelology from 4 texts, parallel)
+    ↓ [validate JSON structure]
+PORTER P1-A, P2-A, P3-A, P4-A (standardize into conclusion entries, parallel)
+    ↓ [validate schema]
+SYNTHESIZER S1-A, S2-A (write cross-text exegeses + shared scholarship DB, parallel)
+    ↓ [collect findings]
+REVIEWER R1-A (validate against ANGELICRESEARCH.md + STYLE_GUIDE.md)
+    ↓ [approve]
+[APPROVED] → Four digital editions ready for deployment
+```
+
+**Current Status**:
+- ✓ ANGELICRESEARCH.md written
+- ✓ Infrastructure complete (schemas, manifests, handover)
+- ⏳ H2-A–H5-A queued for dispatch
+- ⏳ P1-A–P4-A awaiting HARVESTER output
+- ⏳ S1-A, S2-A awaiting PORTER output
+- ⏳ R1-A awaiting SYNTHESIZER output
+
+**Deliverables**:
+1. `data/texts/[oration|commento|heptaplus|being_unity]/entries/` (12-50 angelology entries per text)
+2. `data/texts/[text]/exegeses/` (cross-text synthesis exegeses)
+3. `data/scholarships/angels/` (shared angelology database: lineage tags + scholar debate log)
+4. Four standalone digital editions (or integrated into Pico900) with facing-page Latin/English + angelology commentary
+
+**Budget**: 80-90k tokens | **Wall-clock**: 8-12 hours (parallel execution) | **Priority**: HIGH
+
+**Synergy with Phase 0**: As Phase 1-A agents work, they provide angelology context for heretical conclusions Q1, Q6, Q8. Phase 0 retrospective will note enrichment.
 
 ---
 
