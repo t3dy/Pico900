@@ -17,7 +17,7 @@
  ],
  "doctrine": "The thesis holds that form comes to be only accidentally, not in its own right, since existence per se belongs to the composite of matter and form and not to form alone (farmer1998:11691; edelheit2022:11742). Edelheit locates Thomas's discussion in his commentary on Aristotle's Metaphysics, book 7, lecture 7, explicating Aristotle's distinction, at Metaphysics Z 1033a24-1033b19, between form or essence, which lacks matter and so is not itself generated, and the composite, which is generated (edelheit2022:11742; edelheit2022:11761).",
  "context": "Farmer's note calls the thesis related to the one preceding it and cross-refers theses 2.29 and 2.43 as bearing on the same question of matter and form (farmer1998:11691).",
- "reception": "Not established by the sources consulted.",
+ "reception": "",
  "historiography": "Edelheit is the only scholar found discussing this thesis in the sources consulted; he ties it directly to Thomas's exposition of Aristotle's Metaphysics Z and quotes the relevant Greek text of Aristotle in support (edelheit2022:11761).",
  "connections": [
   "2.29",
@@ -33,7 +33,9 @@
    "verbatim": true
   }
  ],
- "not_established": [],
+ "not_established": [
+  "No reception, commission, or trial-related discussion of this thesis was found in the sources consulted."
+ ],
  "writer": "WRITER-full-batch3 (agent), 2026-09-26",
  "verifier": null,
  "verified_date": null
