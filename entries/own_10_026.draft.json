@@ -1,0 +1,37 @@
+{
+  "thesis_id": "10>26",
+  "tier": "B",
+  "latin": "Qui perfecte in animam redierit, primae formae suam formam aequa-",
+  "latin_source": "farmer1998:26118",
+  "latin_note": "Farmer's OCR breaks off mid-word at the line's end ('aequa-'). Neither Farmer's own note (farmer1998:26148) nor the single scholarly citation located for this thesis (kabbalah_paradigma:1652) supplies the missing continuation.",
+  "translation": "Whoever has returned perfectly into the soul will make his own form equa-",
+  "translation_note": "The translation stops where the Latin stops; the completing word (likely a form of 'aequare', to equate or liken) is not established by the sources consulted, so it is not supplied here.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26118",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [
+    {
+      "text": "Averroes, on the conjunction of the possible with the agent intellect",
+      "locator": "farmer1998:12940",
+      "pico_relation": "Farmer cross-references thesis 7.3 (from Averroes) as offering comparable phrasing for the union described here"
+    }
+  ],
+  "doctrine": "Farmer's note glosses the 'first form' of the thesis as 'the total intellect', the highest level of reality attained by the mystic before the soul's Sabbath, i.e. union with God, and compares the phrasing to thesis 7.3 (from Averroes) and thesis 20.7 (from Plotinus) (farmer1998:26148).",
+  "context": "The thesis belongs to the Orphic Hymns own-opinion series (farmer1998:25560). Farmer cross-references thesis 5>52, on Socrates's prayer to Pan in the Phaedrus as giving 'the complete opinion of Plato on felicity' (farmer1998:23089), and thesis 20.7, from Plotinus, on the ultimate felicity of man as the conjunction of the particular intellect with the total, first intellect (farmer1998:15105).",
+  "reception": "The single scholarly citation located for this thesis lists it, by locator only, among conclusions illustrating 'the unfolding of knowledge' (Entfaltung der Erkenntnis) across Pico's conclusions, without quoting its Latin text (kabbalah_paradigma:1652).",
+  "historiography": "No scholarly interpretation of this thesis's content, beyond Farmer's own note, is established by the sources consulted; the one located citation is a bare locator list, not a discussion (kabbalah_paradigma:1652).",
+  "connections": [
+    "20.7",
+    "5>52",
+    "7.3"
+  ],
+  "condemned_flag": false,
+  "quotations": [],
+  "not_established": [
+    "The word or words completing 'aequa-' at the end of the Latin: not established by the sources consulted.",
+    "Any scholarly discussion of this thesis's content beyond Farmer's note and its bare citation in the Kabbalistic-paradigm study: not established by the sources consulted."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

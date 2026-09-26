@@ -1,0 +1,40 @@
+{
+  "thesis_id": "10>13",
+  "tier": "B",
+  "latin": "Idem est Typhon apud Orpheum, et Zamael in Cabala.",
+  "latin_source": "farmer1998:25884",
+  "translation": "The Typhon of Orpheus is the same as Zamael in the Cabala.",
+  "translation_note": "'Zamael' follows Farmer's OCR spelling; Wirszubski's quotation of the same conclusion likewise prints 'Zamael' (wirszubski1989:9977).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:25884",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis identifies a figure of Orphic myth, Typhon, with a figure of Kabbalistic angelology, Zamael (farmer1998:25884). Farmer's note glosses Typhon as the hundred-headed monster who rebelled against Zeus, glosses Samael as Satan, and refers the reader to Scholem's discussion of the figure (farmer1998:25919). The thesis belongs to the thirty-one own-opinion conclusions on the Orphic Hymns (farmer1998:25560).",
+  "context": "Pico makes the same kind of move in the immediately preceding thesis, equating Night in Orpheus with Ein-Sof in the Cabala (farmer1998:25892), and the pairing of an Orphic term with a Kabbalistic one recurs in the following thesis as well (farmer1998:25895).",
+  "reception": "Wirszubski quotes the conclusion verbatim, in Latin, in his study of Pico's encounter with Jewish mysticism (wirszubski1989:9977).",
+  "historiography": "The only scholarly discussion in the sources consulted is Wirszubski's verbatim citation of the thesis (wirszubski1989:9977); the surrounding argument in which he places it is not established by the sources consulted.",
+  "connections": [
+    "10>15",
+    "10>16",
+    "11>4",
+    "11>12",
+    "11>13",
+    "11>35",
+    "11>36"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Idem est Typhon apud Orpheum et Zamael36 in Cabala.",
+      "work": "wirszubski1989",
+      "line": 9977,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The argument in which Wirszubski situates his citation of this thesis: not established by the sources consulted (only the verbatim Latin quotation appears in the material examined)."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

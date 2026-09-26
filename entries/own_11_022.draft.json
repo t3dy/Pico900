@@ -1,0 +1,38 @@
+{
+  "thesis_id": "11>22",
+  "tier": "B",
+  "latin": "Per dicta Cabalistarum de rubedine Esau, et dictum illud quod est in Libro Bresit Rhaba, quod Esau fuit rubeus, et Rubeus eum ulciscetur, de quo dicitur: Quare rubeum uestimentum tuum? Habetur expresse quod Christus, de quo nostri Doctores eundem textum exponunt, ille erit qui ultionem faciet de uirtutibus immundis.",
+  "latin_source": "farmer1998:26817",
+  "translation": "Through what the Kabbalists say about the redness of Esau, and that saying in the Book Bereshit Rabbah, that Esau was red and the Red One will avenge him, of whom it is said, 'Why is your garment red?' — it is expressly had that Christ, of whom our Doctors expound this same text, will be the one who takes vengeance on the impure powers.",
+  "translation_note": "'Bresit Rhaba' is Pico's Latin transliteration of the Hebrew title Bereshit Rabbah, kept as a proper title; 'uirtutibus immundis' ('impure powers') follows Farmer's own gloss of the phrase (farmer1998:26891).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26817",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis reads a Kabbalistic tradition about the 'redness of Esau', drawn from Bereshit Rabbah and linked to the scriptural question 'why is your garment red?', as expressly identifying Christ as the avenger of the 'impure powers' (farmer1998:26817). Farmer's note identifies Bereshit Rabbah as the best-known midrashic text, cited frequently by Maimonides, Menahem Recanati, and other medieval sources known to Pico, and links the 'impure powers' to thesis 28.31, on circumcision, and to thesis 11>27, as a further example of Pico's Christian Cabalism (farmer1998:26891).",
+  "context": "The thesis belongs to the Cabalistic own-opinion series (farmer1998:26227), and Farmer cross-references it to thesis 11>27, on the Messiah's advent (farmer1998:26926), and to thesis 28.31, among the historical Hebrew Cabalists' theses, on circumcision freeing from the 'impure powers' (farmer1998:18175).",
+  "reception": "Wirszubski quotes the thesis's Latin text in full, introducing it as 'Conclusio xxii' immediately after quoting the neighboring conclusion on Isaac and the sale of the just man for silver (wirszubski1989:8258; wirszubski1989:8259). The study of Pico's Kabbalistic paradigm cites the thesis, alongside conclusions 11>44 and 11>47, in a discussion of the sefirah Geburah's structural correspondence to original sin (kabbalah_paradigma:2106).",
+  "historiography": "Two works discuss the thesis in the sources consulted: Wirszubski situates it within a sequence of Kabbalistic-Christological readings (wirszubski1989:8258), while the Kabbalistic-paradigm study reads it, together with 11>44 and 11>47, through the sefirah Geburah (kabbalah_paradigma:2106); no direct disagreement between the two is recorded in the material examined.",
+  "connections": [
+    "11>27",
+    "28.31",
+    "11>44",
+    "11>47"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Conclusio xxii: Per dicta Cabalistarum de rubedine Esau, et dictum illud quod est in libro Bresit Rhaba quod Esau fuit rubeus et rubeus eum ulciscetur de quo dicitur Quare rubeum uestimentum tuum, habetur expresse quod Christus de quo nostri Doctores eundem textum exponunt ille erit qui ultionem faciet de",
+      "work": "wirszubski1989",
+      "line": 8259,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Wirszubski's quotation at wirszubski1989:8259 trails off before completing the final clause ('...faciet de [uirtutibus immundis]'); the exact wording of its remainder there is not established by the sources consulted beyond what farmer1998:26817 already gives.",
+    "A third Wirszubski page located by the same search terms (wirszubski1989:9666) was excluded here because it explicitly names a different work, the Conclusiones Magicae, Conclusio xxii, not this Cabalistic conclusion."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

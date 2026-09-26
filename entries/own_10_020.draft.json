@@ -1,0 +1,36 @@
+{
+  "thesis_id": "10>20",
+  "tier": "B",
+  "latin": "Per septennarium hymnorum paternae menti attributorum, Protogoni, Palladis, Saturni, Veneris, Rheae, Legis, Bacchi, potest intelligens et profundus contemplator de saeculi consumatione aliquid coniectare.",
+  "latin_source": "farmer1998:25999",
+  "latin_note": "The 1486 apparatus reads 'Veneris' where 1487 reads 'generis' (farmer1998:26023); the Latin above follows Farmer's printed (1486) reading.",
+  "translation": "By means of the sevenfold set of hymns attributed to the paternal mind — Protogonus, Pallas, Saturn, Venus, Rhea, the Law, Bacchus — an intelligent and profound contemplator can conjecture something about the consummation of the age.",
+  "translation_note": "'saeculi consumatione' is rendered 'the consummation of the age', matching the theme of thesis 7a>38 on the same topic (farmer1998:24257).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:25999",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis correlates seven Orphic hymns, each attributed to a divine name, with a means of conjecturing about the end of the age (farmer1998:25999). Farmer's note states that Pico evidently intended to correlate the properties of each of the seven gods named with one of seven historical ages, ending in an age of mystic frenzy associated with Bacchus, and that there were many methods of numerological prophecy in the Kabbalah that Pico planned to demonstrate (farmer1998:26035).",
+  "context": "The thesis belongs to the Orphic Hymns own-opinion series (farmer1998:25560) and is directly continued by the next thesis, which states that none of the effect of these seven hymns is achieved without the work of the Cabala (farmer1998:26004). Farmer cross-references thesis 7a>38, among the numerical questions, which likewise asks 'when the consummation of the age will be' (farmer1998:24257).",
+  "reception": "Busi and Ebgi quote the thesis's Latin text verbatim in their edition, in sequence with the surrounding Orphic-hymn theses (busi2014:17248).",
+  "historiography": "Busi and Ebgi are the only source discussing this thesis in the material consulted; no scholarly dispute over its interpretation is recorded there (busi2014:17248).",
+  "connections": [
+    "10>21",
+    "7a>38"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Per septennarium hymnorum paternae menti attri­ butorum, Protogoni, Palladis, Sa turni, Veneris, Rheae, Legis, Bacchi, potest intelligens et profundus contemplator de saeculi consumatione aliquid coniectare",
+      "work": "busi2014",
+      "line": 17248,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The identity and order of the seven 'historical ages' Farmer says Pico meant to correlate with the seven gods: not established beyond Farmer's own summary (farmer1998:26035)."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

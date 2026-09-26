@@ -1,0 +1,37 @@
+{
+  "thesis_id": "11>23",
+  "tier": "B",
+  "latin": "Per illud dictum Hieremiae: Lacerauit uerbum suum, secundum expositionem Cabalistarum, habemus intelligere quod deum sanctum et benedictum lacerauit deus pro peccatoribus.",
+  "latin_source": "farmer1998:26904",
+  "translation": "By that saying of Jeremiah, 'He has torn his own word,' according to the Kabbalists' exposition, we are to understand that God tore the Holy and Blessed One, God, for the sake of sinners.",
+  "translation_note": "'Deum sanctum et benedictum' is a standard rabbinic-derived title for God ('the Holy One, blessed be He'), kept capitalized as a title.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26904",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis subjects a verse from Jeremiah, 'he has torn his own word,' to a Kabbalistic exposition yielding the claim that God tore 'the Holy and Blessed One' for the sake of sinners (farmer1998:26904). Farmer's note records that Wirszubski identifies 'the word' here as a standard Kabbalistic symbol of the tenth sefirah, and observes that Christ's identification with the 'Word of God' in John's Gospel is also in play (farmer1998:26939).",
+  "context": "Farmer's note further glosses a second element treated under this thesis's number, keyed to 'man of war' in Exodus 15:3, as standing for one of the three Persons of the Trinity, comparable to the association of the letter shin with Christ at thesis 11>14 (farmer1998:27151). The thesis belongs to the Cabalistic own-opinion series (farmer1998:26227), and Farmer cross-references it to thesis 11>38, on the effects following Christ's death (farmer1998:27222), and to thesis 8>8, on the Magi's threefold garment (farmer1998:24851).",
+  "reception": "Wirszubski quotes the thesis, introducing it as 'Conclusio xxiii' immediately after quoting the preceding conclusion on Esau (wirszubski1989:8265; wirszubski1989:8266).",
+  "historiography": "Wirszubski is the only scholar discussing the thesis in the sources consulted; Farmer's note reports Wirszubski's identification of 'the word' with the tenth sefirah without recording any dissent from it (farmer1998:26939).",
+  "connections": [
+    "11>24",
+    "11>38",
+    "8>8",
+    "11>14"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Conclusio xxiii: Per illud dictum Hieremiae5 Lacerauit uerbum suum, secundum expositio-",
+      "work": "wirszubski1989",
+      "line": 8266,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Wirszubski's fuller argument, which Farmer's note paraphrases as appearing at 'Wirszubski (1989: 163)': known here only through Farmer's paraphrase, since that page of Wirszubski's book is not itself among the material examined (farmer1998:26939)."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

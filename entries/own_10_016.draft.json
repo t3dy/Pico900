@@ -1,0 +1,44 @@
+{
+  "thesis_id": "10>16",
+  "tier": "B",
+  "latin": "Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi uelit illud dictum theologi inducentis opificem mundi noctem consulentem de opificio mundano.",
+  "latin_source": "farmer1998:25895",
+  "translation": "From the preceding conclusion one can expound more correctly than Proclus does what that saying of the theologian means, which represents the craftsman of the world as consulting Night about the making of the world.",
+  "translation_note": "'theologi' continues the reference of the preceding thesis to the Orphic hymnist as 'theologus' (farmer1998:25892).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:25895",
+  "pico_stance": "endorses",
+  "attribution": "Corrects Proclus's exegesis (farmer1998:25895).",
+  "sources": [
+    {
+      "text": "Proclus, commentary on the Timaeus",
+      "locator": "farmer1998:25929",
+      "pico_relation": "Farmer's note states that Proclus, commenting on the Timaeus, places 'night' below the summit of his intelligible trinity, and reads this thesis as Pico's disagreement with that placement"
+    }
+  ],
+  "doctrine": "The thesis claims that the preceding conclusion, identifying Night in Orpheus with Ein-Sof in the Cabala, yields a more correct reading of the Orphic saying about the world's maker consulting Night than Proclus's own reading of it (farmer1998:25895; farmer1998:25892). Farmer's note explains that Proclus, commenting on the Timaeus, places 'night' below the pinnacle of his intelligible trinity, and takes this thesis to register Pico's disagreement with Proclus on that point (farmer1998:25929).",
+  "context": "Busi and Ebgi's edition prints the thesis in a continuous run with the two Orphic-Kabbalistic conclusions flanking it, on Night/Ein-Sof and on Ein-Sof's uniqueness among the numerations (busi2014:24761).",
+  "reception": "Busi and Ebgi cite the conclusion by number and quote its Latin text in their commentary, in sequence with the adjoining theses (busi2014:15082; busi2014:24761).",
+  "historiography": "The only sourced scholarly treatment is Busi and Ebgi's edition, which glosses the thesis's sense by paraphrase without recording any dispute over its interpretation (busi2014:15082).",
+  "connections": [
+    "10>15",
+    "11>4",
+    "11>35",
+    "11>36",
+    "5>9"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Ex praecedenti conclusione potest quis rectius exponere quam exponat Proclus quid sibi velit illud dictum theologi indu­ centis opificem mundi noctem consulentem de opificio mundano.",
+      "work": "busi2014",
+      "line": 24761,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Farmer's identification of the 'theologus' with the Orphic Hymns' putative author is disputed elsewhere in the scholarship: not established by the sources consulted."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

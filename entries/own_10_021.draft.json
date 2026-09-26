@@ -1,0 +1,36 @@
+{
+  "thesis_id": "10>21",
+  "tier": "B",
+  "latin": "Opus praecedentium hymnorum nullum est sine opere Cabale, cuius est proprium practicare omnem quantitatem formalem, continuam et discre-",
+  "latin_source": "farmer1998:26004",
+  "latin_note": "Farmer's OCR breaks off mid-word at the line's end ('discre-'). Wirszubski quotes the same conclusion twice, in full, completing it as 'continuam et discretam' (wirszubski1989:7196; wirszubski1989:10027).",
+  "translation": "None of the effect of the preceding hymns exists without the work of the Cabala, whose special province is to practice every formal quantity, both continuous and discrete.",
+  "translation_note": "The translation follows the completed Latin as quoted by Wirszubski (wirszubski1989:7196), since Farmer's own line breaks off before the final word; see latin_note.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26004 (word-completion per wirszubski1989:7196)",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis states that the effect of the preceding Orphic hymns depends on the work of the Cabala, whose special province is to operate upon every kind of quantity, both continuous and discrete, as Wirszubski's complete quotation of the sentence confirms (wirszubski1989:7196). Wirszubski cites the thesis, calling it 'the twenty-first Orphic thesis', as evidence for 'the proper or specific function of Kabbala' among Pico's Orphic-Kabbalistic conclusions (wirszubski1989:7196).",
+  "context": "The thesis directly continues the preceding one, on the sevenfold hymns and the consummation of the age (farmer1998:25999), and belongs to the Orphic Hymns own-opinion series (farmer1998:25560).",
+  "reception": "Wirszubski quotes the thesis twice, in full Latin, once introducing it and once recalling it as 'already discussed' (wirszubski1989:7196; wirszubski1989:10027).",
+  "historiography": "Wirszubski is the only scholar discussing this thesis in the sources consulted; no dispute over its interpretation is recorded in the material examined.",
+  "connections": [
+    "10>20",
+    "7a>38"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Opus praecedentium hymnorum nullum est sine opere Cabalae, cuius est proprium practicare omnem quantitatem formalem continuam et discretam.",
+      "work": "wirszubski1989",
+      "line": 7196,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Farmer's own edition prints the completed word 'discretam' elsewhere (e.g. in an errata list): not established by the sources consulted; only Wirszubski's quotation supplies it."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

@@ -1,0 +1,39 @@
+{
+  "thesis_id": "10>17",
+  "tier": "B",
+  "latin": "Ex eisdem dictis potest intelligi cur in Symposio a Diotima Porus consilii filius, et Iesus in sacris litteris angelus magni consilii, nominetur.",
+  "latin_source": "farmer1998:25900",
+  "latin_note": "The 1486 apparatus records a variant at the sentence's close: '1486 nominetur:' (farmer1998:25913).",
+  "translation": "From the same sayings one can understand why, in the Symposium, Porus is named by Diotima the son of Counsel, and why Jesus, in the sacred writings, is named the angel of great counsel.",
+  "translation_note": "'consilii filius' and 'angelus magni consilii' are kept close to the Latin word order to preserve the parallel Pico draws between the two epithets.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:25900",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [
+    {
+      "text": "Pseudo-Dionysius the Areopagite, De coelesti hierarchia",
+      "locator": "busi2014:15985",
+      "pico_relation": "Busi and Ebgi cite this work as background to the Christological reading of Jesus as 'angel of great counsel' that the thesis assumes"
+    }
+  ],
+  "doctrine": "The thesis draws a parallel between Diotima's naming of Porus as 'son of Counsel' in Plato's Symposium and the scriptural naming of Jesus as 'angel of great counsel', presenting the latter identification as following 'from the same sayings' as the two preceding Orphic-Kabbalistic theses (farmer1998:25900).",
+  "context": "Busi and Ebgi's commentary situates the thesis within a Christological reading tradition, citing Pseudo-Dionysius the Areopagite's Celestial Hierarchy as background to the identification of Jesus with the 'angel of great counsel' (busi2014:15985).",
+  "reception": "Busi and Ebgi quote the thesis's Latin text in full in their edition and gloss it as continuing the reasoning of the two preceding sources cited in the thesis (busi2014:15985).",
+  "historiography": "Busi and Ebgi are the only scholars discussing this thesis in the sources consulted; no disagreement over its interpretation is recorded in the material examined (busi2014:15985).",
+  "connections": [],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Ex eisdem dictis [cfr. fonti 55, 56] potest in­ telligi cur in Symposio a Diotima Porus consilii filius, et Iesus in sacris litteris angelus magni consilii, nominetur",
+      "work": "busi2014",
+      "line": 15985,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The exact chapter reference Busi and Ebgi give for Pseudo-Dionysius ('IV, 181d') is recorded in the packet but its surrounding discussion is not established by the sources consulted."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

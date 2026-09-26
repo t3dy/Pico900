@@ -1,0 +1,35 @@
+{
+  "thesis_id": "11>24",
+  "tier": "B",
+  "latin": "Per responsionem Cabalistarum ad quaestionem quare in libro numerorum coniuncta est particula mortis Mariae particu/lae uitulae ruffae, et per expositionem eorum super eo passu ubi Moyses, in peccato uituli, dixit: Dele me; et per dicta in libro Zoar super eo textu: Et eius liuore sanati sumus, redarguuntur ineuitabiliter Hebrei dicentes non fuisse conueniens ut mors Christi satisfaceret pro peccato humani generis.",
+  "latin_source": "farmer1998:26909",
+  "latin_note": "The apparatus records three 1486/1487 variants: 'particula vitule ruffe' (1487), 'Dele me. Et' (1486), and 'dicentes.non' (1486) (farmer1998:26933).",
+  "translation": "By the Kabbalists' answer to the question why, in the Book of Numbers, the passage on Miriam's death is joined to the passage on the red heifer, and by their exposition of the passage where Moses, in the sin of the calf, said, 'Blot me out'; and by what is said in the Book of the Zohar on the text 'and by his stripes we are healed' — the Hebrews who say it was not fitting for Christ's death to satisfy for the sin of the human race are inescapably refuted.",
+  "translation_note": "'particula' is rendered 'passage', i.e. a scriptural pericope, following the exegetical sense in which Pico uses the term here.",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26909",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis argues that three pieces of Kabbalistic exegesis — on the juxtaposition of Miriam's death and the red heifer in Numbers, on Moses's plea 'Blot me out' after the sin of the golden calf, and on a Zohar passage citing 'by his stripes we are healed' — together refute Jewish objections to the claim that Christ's death could satisfy for the sin of humankind (farmer1998:26909). Farmer's note keys the passages to Numbers 19:2-10 and 20:1, Exodus 32:32, and Isaiah 53:5, and states that Pico, following the Vulgate, syncretically associates the Old Testament Miriam with the New Testament Mary (farmer1998:26943). Wirszubski's quotation of the thesis likewise inserts these same scriptural references into its text (wirszubski1989:8291).",
+  "context": "Farmer's note observes that whether Pico knew parts of the Zohar directly, or only through Menahem Recanati, as Wirszubski and others have suggested, is unknown, and that Pico evidently planned a straightforward typological reading of the passages named (farmer1998:26943). The thesis belongs to the Cabalistic own-opinion series (farmer1998:26227), and Farmer cross-references it to thesis 11>38, on the effects following Christ's death (farmer1998:27222), and to thesis 8>8, on the Magi's threefold garment (farmer1998:24851).",
+  "reception": "Wirszubski quotes the thesis, introducing it as 'Conclusio xxiv' immediately after quoting the preceding conclusion on Jeremiah's torn word (wirszubski1989:8289; wirszubski1989:8291).",
+  "historiography": "Wirszubski is the only scholar discussing the thesis in the sources consulted. Farmer's note records, without resolving it, the question of whether Pico's knowledge of the Zohar was direct or mediated through Recanati, attributing that question to Wirszubski and unnamed others (farmer1998:26943).",
+  "connections": [
+    "11>23",
+    "11>38",
+    "8>8"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Conclusio xxiv: Per responsionem Cabalistarum ad quaestionem quare in libro Numero- rum coniuncta est particula mortis Mariae particulae uitulae ruffae, et per expositionem eorum super eo passu ubi Moyses in peccato uituli dixit [Exod. 32:32] Dele me, et per dicta in libro Zoar super eotextu [Isa. 53:5] Et",
+      "work": "wirszubski1989",
+      "line": 8291,
+      "verbatim": true
+    }
+  ],
+  "not_established": [],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

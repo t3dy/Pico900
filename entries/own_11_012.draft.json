@@ -1,0 +1,49 @@
+{
+  "thesis_id": "11>12",
+  "tier": "B",
+  "latin": "Non potest operari per puram Cabalam, qui non est rationaliter intellectualis.",
+  "latin_source": "farmer1998:26604",
+  "translation": "One who is not rationally intellectual cannot operate by means of pure Cabala.",
+  "translation_note": "'rationaliter intellectualis' echoes the graded psychological vocabulary of thesis 9>14, which grades a nature's magical power by whether it is 'rational' or 'rationally rational' (farmer1998:25283).",
+  "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch18, from Latin at farmer1998:26604",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion.",
+  "sources": [],
+  "doctrine": "The thesis restricts the practice of 'pure Cabala' to those who are 'rationally intellectual', matching the graded psychology of thesis 9>26, which distinguishes pure, immediate Cabala from magic operating through the mediation of causes (farmer1998:25480), and thesis 9>14, which grades a nature's magical power by whether it is rational or 'rationally rational' (farmer1998:25283). Farmer's note states that 'pure Cabala' is discussed further at his note on 9>26, and that it operates in the intellectual part of the soul while natural magic operates in the rational part, per thesis 9>14 (farmer1998:26679).",
+  "context": "The thesis belongs to the Cabalistic own-opinion series (farmer1998:26227), and is followed immediately by thesis 11>13, which describes the mortal dangers of operating in the Cabala without purification (farmer1998:26608).",
+  "reception": "The study of Pico's Kabbalistic paradigm quotes the thesis's Latin text, pairing it in a note with the 'famous and contested' magical conclusion 9>9 on magic and Cabala certifying Christ's divinity, and with conclusion 11>63 on Aristotle's veiled philosophy, citing Wirszubski's Pico's Encounter at pages 164f as background (kabbalah_paradigma:2175). Wirszubski himself quotes the thesis — calling it 'the twelfth thesis' — in asking what kind of Kabbalistic operation produces the intellectual rapture that begins the soul's union with God (wirszubski1989:8153).",
+  "historiography": "Two works discuss the thesis in the sources consulted: the Kabbalistic-paradigm study treats it as one of a cluster of conclusions, with 9>9 and 11>63, illustrating Pico's linkage of magic, Cabala, and philosophy (kabbalah_paradigma:2175), while Wirszubski reads it specifically as bearing on the nature of the Death of the Kiss and the contemplative ascent to union with God (wirszubski1989:8153). No disagreement between the two readings is recorded in the material examined.",
+  "connections": [
+    "10>14",
+    "11>11",
+    "11>13",
+    "5>5",
+    "8>7",
+    "9>14",
+    "9>16",
+    "9>17",
+    "9>18",
+    "9>26"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Non potest operari per puram Ca- balam, qui non est rationaliter intellectualis.",
+      "work": "kabbalah_paradigma",
+      "line": 2175,
+      "verbatim": true
+    },
+    {
+      "text": "non potest operari per puram Cabalam qui non est rational- iter intellectualis.",
+      "work": "wirszubski1989",
+      "line": 8153,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Wirszubski's reading (bearing on the Death of the Kiss) and the Kabbalistic-paradigm study's grouping (with 9>9 and 11>63) are meant as competing or complementary interpretations: not established by the sources consulted."
+  ],
+  "writer": "WRITER-full-batch18 (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}
