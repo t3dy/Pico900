@@ -1,0 +1,50 @@
+{
+ "thesis_id": "11.2",
+ "tier": "B",
+ "latin": "Intellectus agens nihil aliud est quam deus.",
+ "latin_source": "farmer1998:14058",
+ "translation": "The agent intellect is nothing other than God.",
+ "translation_note": "'Intellectus agens' is the agent (or active) intellect of Aristotelian-Averroist psychology; the thesis simply identifies it with God (farmer1998:14058).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:14058",
+ "pico_stance": "reports",
+ "attribution": "Reports Abumaron (farmer1998:14058).",
+ "sources": [
+  {
+   "text": "Isaac of Narbonne's opposing thesis, that positing an agent intellect is not necessary",
+   "locator": "farmer1998:13969",
+   "pico_relation": "Farmer's note states this thesis is opposed to 10.1"
+  },
+  {
+   "text": "Heptaplus 4.2, where the same question of whether God himself or the intellectual nature illuminates the soul recurs",
+   "locator": "farmer1998:14111",
+   "pico_relation": "Farmer's note (cut off in the material consulted) connects this thesis to that passage of the Heptaplus"
+  }
+ ],
+ "doctrine": "The thesis identifies the agent intellect outright with God (farmer1998:14058). Farmer's note states that it is opposed to thesis 10.1, attributed to Isaac of Narbonne, which holds that positing an agent intellect is not necessary (farmer1998:13969), and that the same underlying issue, of whether God himself or the intellectual nature is the source of the soul's illumination, recurs in Heptaplus 4.2, though the note is cut off in the material consulted before it can be followed further (farmer1998:14111). Cassirer treats the thesis as evidence that Pico 'completed the equating of God and the \"intellectus agens\"', quoting its Latin, and connects it to Pico's notion of intellectual vision, the 'visio intellectualis', which for Cassirer carries for Pico 'an independent theoretical meaning and content' rather than coinciding with mere mystical feeling (cassirer1942:874).",
+ "context": "",
+ "reception": "",
+ "historiography": "Cassirer is the only scholar in the material opened to discuss the thesis' content and significance (cassirer1942:874); Black's footnote merely juxtaposes its Latin with that of thesis 7.4 without further comment (black2006:10046).",
+ "connections": ["10.1", "4.2", "7.4"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Pico also completed the equating of God and the \"intellectus agens\"",
+   "work": "cassirer1942",
+   "line": 874,
+   "verbatim": true
+  },
+  {
+   "text": "an independent theoretical meaning and content",
+   "work": "cassirer1942",
+   "line": 874,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The continuation of Farmer's note connecting this thesis to Heptaplus 4.2 is cut off in the material consulted.",
+  "Any commission or Apologia reception of this thesis is not established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch8 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

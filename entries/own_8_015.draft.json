@@ -1,0 +1,39 @@
+{
+ "thesis_id": "8>15",
+ "tier": "B",
+ "latin": "Quid sit intelligendum per capras apud Zoroastrem intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus.",
+ "latin_source": "farmer1998:25046",
+ "translation": "What is to be understood by 'goats' in Zoroaster, he who has read in the book Bahir will understand: what affinity goats have, and what affinity lambs have, with spirits.",
+ "translation_note": "'libro Bair' is the Sefer ha-Bahir; Farmer's note records that the passages Pico draws on are not in the Bahir proper but in a collection of fragments attached, in one manuscript family, to its end (farmer1998:25087).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25046",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, section 8> (Zoroaster and Chaldeans) (farmer1998:25046).",
+ "sources": [
+  {
+   "text": "Sefer ha-Bahir fragments, in the translation of Flavius Mithridates",
+   "locator": "farmer1998:25087",
+   "pico_relation": "Farmer's note reports Scholem's finding that these fragments, not the Bahir itself, supplied the Kabbalistic content Pico paraphrases here"
+  }
+ ],
+ "doctrine": "The thesis promises that a reader of the Bahir will understand what Zoroaster meant by 'goats,' by learning what affinity goats and lambs bear to spirits (farmer1998:25046). Farmer's note states that Scholem (1954: 167) found that the passages referred to are not in the Bahir itself but in a set of fragments appended, in one family of manuscripts, to the end of that text, and that Flavius Mithridates began translating these fragments on the same line where he ended his version of the Bahir, in Vatican Codex 191, which may have contributed to Pico's citation (farmer1998:25087).",
+ "context": null,
+ "reception": null,
+ "historiography": "Wirszubski quotes the thesis's Latin verbatim, as 'Conclusio xv,' matching Farmer's wording, and states that the direct source of the thesis's Kabbalistic component was identified, though the sentence naming that identification is not given complete in the material consulted (wirszubski1989:9896).",
+ "connections": ["28.1"],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "Quid sit intelligendum per capras apud Zoroastrem, intelliget qui legerit in libro Bair quae sit affinitas capris et quae agnis cum spiritibus.",
+   "work": "wirszubski1989",
+   "line": 9896,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "The identification of the source that Wirszubski states was 'pinpointed by' a named scholar is not given in full in the excerpt consulted (wirszubski1989:9896); Farmer's note names Scholem in this connection (farmer1998:25087), but whether this is the identification Wirszubski means is not established by the sources consulted.",
+  "not established by the sources consulted"
+ ],
+ "writer": "WRITER-full-batch17 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
