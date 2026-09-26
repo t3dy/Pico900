@@ -3,11 +3,11 @@
  "tier": "C",
  "latin": "Demonstratio Aristotelis in .vii. Physicorum, quod omne quod mouetur mouetur ab alio, nihil probat eorum quae uel Thommas, uel Scotus, uel Egidius, quem sequitur Iohanes de Gandauo, uel Gratiadeus, uel Burleus, uel alii quos ego legerim intendunt, sed tantum, quod optime dixit Commentator, a latinis omnibus expositoribus male intellectus, et est quod in quolibet moto motor est alius a mobili uel secundum naturam uel secundum subiectum.",
  "latin_source": "farmer1998:19428",
- "latin_note": "The sheet's line-break hyphenation 'subie-/ctum' is repaired to 'subiectum'.",
+ "latin_note": "The sheet's line-break hyphenation 'subie-/ctum' is repaired to 'subiectum' (farmer1998:19428).",
  "translation": "Aristotle's demonstration in book seven of the Physics — that everything moved is moved by another — proves none of what Thomas, or Scotus, or Giles (whom John of Jandun follows), or Gratiadeus, or Burley, or any of the others I have read intend by it, but only what the Commentator said best, and which all the Latin commentators have misunderstood: namely, that in whatever is moved the mover differs from the thing moved either in nature or in subject.",
- "translation_note": "Sense checked; no further crux.",
+ "translation_note": "Sense checked against farmer1998:19486; no further crux.",
  "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19486; awaiting human check",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "attribution": "Pico's own opinion.",
  "writer": "TRANSLATOR-T05, 2026-09-25"
 }
