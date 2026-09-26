@@ -74,9 +74,9 @@
    "verbatim": true
   },
   {
-   "text": "easier to say than to understand",
+   "text": "easier to say than understand",
    "work": "copenhaver2022",
-   "line": 10024,
+   "line": 6242,
    "verbatim": true
   },
   {
@@ -92,7 +92,8 @@
   "The Latin of the Apology's ninth Question was not consulted; its wording is known here only through Copenhaver's translation (Fornaciari's edition survives in the corpus only in its front matter).",
   "Whether Pico's reading of the final clause in the Apology was his reading in 1486: Farmer treats the ambiguity as intentional (farmer1998:21476-21478), but the intention is not established by the sources consulted.",
   "Collation against the 1486 Rome print.",
-  "A prior draft attributed the tag \"Erroneous\" to Dougherty (2008) at a specific line; on verification this does not appear in the source text consulted (this thesis falls in a range of Dougherty's own numbered verdict table that the consulted text skips over entirely, items 7-10). Removed as unverifiable/likely fabricated; the independently-verified Copenhaver citations are retained."
+  "A prior draft attributed the tag \"Erroneous\" to Dougherty (2008) at a specific line; on verification this does not appear in the source text consulted (this thesis falls in a range of Dougherty's own numbered verdict table that the consulted text skips over entirely, items 7-10). Removed as unverifiable/likely fabricated; the independently-verified Copenhaver citations are retained.",
+  "A prior draft quoted this remark as \"easier to say than to understand\" at copenhaver2022:10024; on verification against this session's uploaded copy of Copenhaver 2022, the phrase is present (as 'easiertosaythanunderstand', an OCR run-together with no 'to' before 'understand') at line 6242, not 10024. Corrected to the wording and line actually found; the line number is per this session's uploaded OCR copy and is pending reconciliation with the project's registered corpus copy (different OCR extraction, different line numbers)."
  ],
  "writer": "WRITER-A3 (agent), 2026-09-25",
  "verifier": null,

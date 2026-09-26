@@ -10,39 +10,29 @@
  "pico_stance": "endorses",
  "attribution": "Pico's own opinion (farmer1998:20990).",
  "sources": [],
- "doctrine": "Farmer records that Pico planned to demonstrate the thesis through the 'way of numbers,' cross-referencing two of the numerical theses, 7a>5 ('Whether he is understanding') and 7a>6 ('How God understands') (farmer1998:21054; farmer1998:23828; farmer1998:23831). In his formal reply to the commission, Pico defended the thesis as conforming to the 'mode of speaking of Dionysius' (Dionysius's negative way), who claimed that it should not be said of God that he is either 'intellect' or the 'intelligible' or similar things (farmer1998:21054).",
- "context": "Farmer cross-references the thesis to two theses among the 'questions to be answered by numbers': 7a>5, asking whether God is understanding (Vtrum sit intelligens), and 7a>6, asking how God understands (Quomodo deus intelligat) (farmer1998:23828; farmer1998:23831).",
- "reception": "The papal commission found the thesis \"false and can be taken to a heretical sense\" (farmer1998:21054); Dougherty's summary of the commission's censures records it more tersely as \"Wrong and can be twisted to a heretical meaning\" (dougherty2008:2245). In the printed Conclusions, before the trial, the thesis stood early among the group later censured: Copenhaver notes that the Q1 thesis on Hell followed, in order, Q12 (this thesis), Q13, Q9, and Q6 (copenhaver2022:1253).",
+ "doctrine": "Farmer cross-references the thesis to two of the numerical theses, 7a>5 ('Whether he has intellect') and 7a>6 ('In what way God understands') (farmer1998:12956; farmer1998:12957); this uploaded copy of Farmer 1998 includes the thesis's own bare Latin and English text but not the interpretive note that would explain the cross-reference or record Pico's formal reply to the commission (see not_established).",
+ "context": "Farmer cross-references the thesis to two theses among the numerical theses: 7a>5, Vtrum sit intelligens ('Whether he has intellect'), and 7a>6, Quomodo deus intelligat ('In what way God understands') (farmer1998:12956; farmer1998:12957).",
+ "reception": "The papal commission's censure of the thesis (its Q12 in the Apology's order) is recorded by Dougherty as \"Wrong and can be twisted to a heretical meaning\" (dougherty2008:730); a rendering of this censure in Farmer's own English was not located in the sources consulted (this uploaded copy of Farmer 1998 lacks the interpretive/trial-history notes apparatus for this thesis; see not_established). Copenhaver lists the Apology's order of the thirteen questions, giving this thesis as Q12, between Q8 (Belief) and Q13 (Soul) (copenhaver2022:436).",
  "historiography": "Beyond quoting the Latin opening of the conclusion, Howlett lists the thesis among the thirteen censured propositions without further discussion (howlett2021:2029). An unidentified German-language study on Pico's Kabbalah cites the thesis alongside 22.12 ('Conclusio secundum Porphyrium') and a thesis on the doctrine of Hermes Trismegistus, without stating an argument connecting them beyond their proximity in Pico's own text (kabbalah_paradigma:1395).",
  "connections": [
   "7a>5",
   "7a>6"
  ],
  "condemned_flag": true,
- "commission_verdict": "\"false and can be taken to a heretical sense\" (farmer1998:21054); Dougherty's paraphrase, \"Wrong and can be twisted to a heretical meaning\" (dougherty2008:2245).",
+ "commission_verdict": "\"Wrong and can be twisted to a heretical meaning\" (dougherty2008:730), Dougherty's translation of the commission's censure of the thesis as Q12; a rendering of this censure in Farmer's own English was not located in the sources consulted (see not_established).",
  "quotations": [
-  {
-   "text": "false and can be taken to a heretical sense",
-   "work": "farmer1998",
-   "line": 21054,
-   "verbatim": true
-  },
   {
    "text": "Wrong and can be twisted to a heretical meaning",
    "work": "dougherty2008",
-   "line": 2245,
-   "verbatim": true
-  },
-  {
-   "text": "mode of speaking of Dionysius",
-   "work": "farmer1998",
-   "line": 21054,
+   "line": 730,
    "verbatim": true
   }
  ],
  "not_established": [
   "Which of the two orderings of the conclusion's Latin (Farmer's text or Edelheit's transcription) reflects Pico's original wording.",
-  "The full content of Pico's numerical demonstration referenced by the cross-references to 7a>5 and 7a>6."
+  "The full content of Pico's numerical demonstration referenced by the cross-references to 7a>5 and 7a>6.",
+  "A prior draft quoted the commission's censure as \"false and can be taken to a heretical sense\", attributed to farmer1998:21054, and separately quoted \"mode of speaking of Dionysius\" (Pico's alleged formal reply to the commission), also at farmer1998:21054. On verification against this session's uploaded copy of Farmer 1998, neither phrase is present anywhere in the file: this uploaded copy gives only the bare Latin and English of thesis 3>49 (near a different line, ~11704), with no interpretive note, trial-history note, or record of Pico's Apology reply for this thesis. Both quotations removed as unverifiable/likely fabricated (the \"heretical sense\" wording is a close paraphrase-with-alteration of the genuine, independently-verified Dougherty verdict-tag for this same thesis, \"Wrong and can be twisted to a heretical meaning\", which is retained). Farmer's own note on this thesis's Q12 censure and Pico's reply, if any, is not established by the sources consulted.",
+  "A prior draft cited farmer1998:23828 and farmer1998:23831 for the cross-references to 7a>5 and 7a>6, and copenhaver2022:1253 for the Apology's ordering of Q1/Q12/Q13/Q9/Q6. On verification, farmer1998:23828/23831 fall beyond the end of this uploaded file (17,719 lines total) and copenhaver2022:1253 discusses an unrelated logical point about thesis Q1; the theses 7a>5/7a>6 were instead located at farmer1998:12956-12957, and the Apology's question order was instead located at copenhaver2022:436. Locators corrected accordingly; these line numbers are per this session's uploaded OCR copies and are pending reconciliation with the project's registered corpus copies (different OCR extraction, different line numbers)."
  ],
  "writer": "WRITER-swarm-batch1 (agent), 2026-09-26",
  "verifier": null,
