@@ -2,30 +2,24 @@
  "thesis_id": "10>6",
  "tier": "B",
  "latin": "Quarumcunque uirtutum naturalium uel diuinarum eadem est proprietatis analogia, idem etiam nomen, idem hymnus, idem opus, seruata proportione. Et qui tentauerit exponere uidebit correspondentiam.",
- "latin_source": "farmer1998:25680",
+ "latin_source": "farmer1998:13641",
  "translation": "Whatever the natural or divine powers may be, their analogy of property is the same, and so too the name, the hymn, and the work belonging to each, proportion being preserved; whoever attempts to expound this will perceive the correspondence.",
  "translation_note": "This rendering is prepared independently from the Latin; Howlett separately quotes Farmer's own published translation of the sentence together with the Latin in her discussion of the thesis (howlett2021:6221).",
- "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:25680",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch17, from Latin at farmer1998:13641",
  "pico_stance": "endorses",
- "attribution": "Pico's own opinion, section 10> (Orphic Hymns) (farmer1998:25680).",
+ "attribution": "Pico's own opinion, section 10> (Orphic Hymns) (farmer1998:13641).",
  "sources": [],
- "doctrine": "The thesis states a principle of universal analogical correspondence linking name, hymn, and operative work for each natural or divine power (farmer1998:25680). Farmer groups this thesis with 10>7 as expressing 'Pico's extreme correlative system' (farmer1998:25762).",
+ "doctrine": "The thesis states a principle of universal analogical correspondence linking name, hymn, and operative work for each natural or divine power, and no interpretive note on this specific thesis, or on its relation to 10>7, was located in the sources consulted (farmer1998:13641; see not_established).",
  "context": null,
  "reception": null,
  "historiography": "Howlett quotes the thesis, giving both Farmer's English and the Latin, and in the same note cites Wirszubski 1989 at page 261, without further detail in the material consulted (howlett2021:6221).",
  "connections": ["10>7", "10>8", "5>6"],
  "condemned_flag": false,
- "quotations": [
-  {
-   "text": "Pico's extreme correlative system",
-   "work": "farmer1998",
-   "line": 25762,
-   "verbatim": true
-  }
- ],
+ "quotations": [],
  "not_established": [
   "The substance of Wirszubski's discussion, cited by Howlett at 1989, p. 261, is not given in the material consulted beyond the page citation (howlett2021:6221).",
-  "not established by the sources consulted"
+  "not established by the sources consulted",
+  "A prior draft quoted Farmer as grouping this thesis with 10>7 under the phrase 'Pico's extreme correlative system', attributed to farmer1998:25762. On verification against this session's uploaded copy of Farmer 1998, that phrase does not appear anywhere in the file (the file's introduction discusses Pico's 'correlative system' and 'correlative thought' at length, e.g. farmer1998:721, farmer1998:2482, but never applies the exact phrase to this thesis or to 10>6-10>7 specifically, and this thesis's own note in this uploaded copy is limited to the bare Latin/English text at farmer1998:13641, with no interpretive note attached). Removed as unverifiable/likely fabricated."
  ],
  "writer": "WRITER-full-batch17 (agent), 2026-09-26",
  "verifier": null,

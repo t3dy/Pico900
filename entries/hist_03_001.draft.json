@@ -2,24 +2,24 @@
  "thesis_id": "3.1",
  "tier": "B",
  "latin": "Ideo haec est falsa: Essentia generat, quia essentia est ultimate abstracta, et generat formaliter praedicatur. u",
- "latin_source": "farmer1998:11974",
- "latin_note": "The transcription at farmer1998:11974 appends an isolated letter 'u' after 'praedicatur.'; whether this belongs to the copy-text is not established by the sources consulted.",
+ "latin_source": "farmer1998:7993",
+ "latin_note": "The transcription at farmer1998:7993 appends an isolated letter 'u' after 'praedicatur.'; whether this belongs to the copy-text is not established by the sources consulted.",
  "translation": "Therefore this is false: 'The essence generates'; because the essence is utterly abstract, and 'generates' is predicated of it [only] formally.",
- "translation_note": "Edelheit's paraphrase gives the same sense: the proposition is false 'since essence is completely abstract, but it is formally predicated as ‘generating’' (edelheit2022:13078).",
- "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:11974",
+ "translation_note": "Edelheit's paraphrase gives the same sense: the proposition is false 'since essence is completely abstract, but it is formally predicated as ‘generating’' (edelheit2022:10626).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch5, from Latin at farmer1998:7993",
  "pico_stance": "reports",
  "attribution": "Reports Francis of Meyronnes; farmer1998:11969 opens the eight-thesis section drawn from his commentary, of which this is the first (farmer1998:11974).",
  "sources": [
   {
    "text": "Francis of Meyronnes, commentary on the Sentences, Book 1, distinction 5, question 1, 'whether the divine essence generates' (Utrum essentia divina generet)",
-   "locator": "edelheit2022:13078",
+   "locator": "edelheit2022:10626",
    "pico_relation": "Edelheit identifies this question in Francis's commentary as the discussion behind the thesis."
   }
  ],
- "doctrine": "The thesis declares false the claim 'the essence generates,' on the ground that the essence is 'ultimately abstract' while 'generates' is predicated of it only formally (farmer1998:11974). Edelheit locates the source discussion in Francis of Meyronnes's commentary on the Sentences, Book 1, distinction 5, question 1, titled 'whether the divine essence generates' (edelheit2022:13078). Farmer's note glosses 'the essence' in this and the following thesis as the abstract divine nature considered apart from the three Persons, and records that Pico meant to set this essence alongside the Kabbalistic Ein-Sof and comparable concepts in other traditions (farmer1998:12005).",
- "context": "Farmer's note ties 3.1-3.2 to his comments on 2.1 (Trinitarian procession, from Thomas) and 11>4 (the Kabbalistic Ein-Sof), which suggests Pico read Francis's logic of the divine essence alongside both the Thomist and Kabbalistic material (farmer1998:12005).",
+ "doctrine": "The thesis declares false the claim 'the essence generates,' on the ground that the essence is 'ultimately abstract' while 'generates' is predicated of it only formally (farmer1998:7993). Edelheit locates the source discussion in Francis of Meyronnes's commentary on the Sentences, Book 1, distinction 5, question 1, titled 'whether the divine essence generates', and no note connecting this thesis to the Kabbalistic Ein-Sof was located in the sources consulted (edelheit2022:10626; see not_established).",
+ "context": "This uploaded copy of Farmer 1998 carries only the bare Latin and English of thesis 3.1 (farmer1998:7993), with no attached interpretive note; whether Farmer elsewhere ties 3.1-3.2 to 2.1 or to the Kabbalistic Ein-Sof of 11>4 is not established by the sources consulted (see not_established).",
  "reception": null,
- "historiography": "Edelheit treats the thesis as the first of a run he attributes to Francis of Meyronnes's commentary on Sentences Book 1, and observes that Pico's opening word 'ideo' ('therefore') implies a continuation from a preceding discussion, 'possibly the previous set of theses, those dedicated to Thomas, and probably the last one, thesis 45' (edelheit2022:13099).",
+ "historiography": "Edelheit treats the thesis as the first of a run he attributes to Francis of Meyronnes's commentary on Sentences Book 1 (edelheit2022:10626).",
  "connections": [
   "11>4",
   "2.1",
@@ -30,20 +30,16 @@
  "condemned_flag": false,
  "quotations": [
   {
-   "text": "In thesis 1 we find that the proposition ‘essence generates’ is false since essence is completely abstract, but it is formally predicated as ‘generating’.",
+   "text": "In thesis 1 we find that the proposition 'essence generates' is false since essence is completely abstract, but it is formally predicated as 'generating'.",
    "work": "edelheit2022",
-   "line": 13078,
-   "verbatim": true
-  },
-  {
-   "text": "But why this thesis opens with the adverb ideo (therefore), suggesting a continuation from a previous discussion, possibly the previous set of theses, those dedicated to Thomas, and probably the last one, thesis 45?",
-   "work": "edelheit2022",
-   "line": 13099,
+   "line": 10626,
    "verbatim": true
   }
  ],
  "not_established": [
-  "Whether the isolated 'u' after 'praedicatur' in the inventory's transcription belongs to Farmer's text is not established by the sources consulted."
+  "Whether the isolated 'u' after 'praedicatur' in the inventory's transcription belongs to Farmer's text is not established by the sources consulted.",
+  "A prior draft quoted Edelheit as observing that the thesis's opening word 'ideo' implies a continuation from a previous discussion, 'possibly the previous set of theses, those dedicated to Thomas, and probably the last one, thesis 45', attributed to edelheit2022:13099. On verification against this session's uploaded copy of Edelheit 2022, no such sentence, nor any discussion of the word 'ideo' in this thesis, appears anywhere in the file (Edelheit's actual discussion of thesis 1, at edelheit2022:10617-10633, covers only the content of Francis of Meyronnes's argument, not the opening adverb). Removed as unverifiable/likely fabricated.",
+  "A prior draft also claimed that 'Farmer's note glosses \"the essence\" in this and the following thesis as the abstract divine nature considered apart from the three Persons, and records that Pico meant to set this essence alongside the Kabbalistic Ein-Sof and comparable concepts in other traditions', and that 'Farmer's note ties 3.1-3.2 to his comments on 2.1... and 11>4 (the Kabbalistic Ein-Sof)', both attributed to farmer1998:12005. On verification, farmer1998:12005 in this session's uploaded copy contains unrelated text (thesis 4>8-4>12, on Christ's descent into Hell and related theology), and this uploaded copy carries no interpretive note at all for thesis 3.1 (only its bare Latin/English at farmer1998:7993). Removed as unverifiable/likely fabricated. Separately, the thesis's own latin_source/translator locators were corrected from a previously cited farmer1998:11974 (beyond this thesis's actual location) to farmer1998:7993, and the Edelheit locator for the Francis of Meyronnes discussion corrected from edelheit2022:13078 to edelheit2022:10626; these line numbers are per this session's uploaded OCR copies and are pending reconciliation with the project's registered corpus copies (different OCR extraction, different line numbers)."
  ],
  "writer": "WRITER-full-batch5 (agent), 2026-09-26",
  "verifier": null,

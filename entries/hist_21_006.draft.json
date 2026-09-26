@@ -2,42 +2,50 @@
  "thesis_id": "21.6",
  "tier": "B",
  "latin": "Quia sicut dixit Abdala, videre somnia est fortitudo imaginationis, intelligere ea est fortitudo intellectus, ideo qui uidet ea ut plurimum non intelligit ea.",
- "latin_source": "farmer1998:15358",
+ "latin_source": "farmer1998:9264",
  "translation": "For, as Abdala said, seeing dreams is a matter of the imagination's strength, and understanding them a matter of the intellect's strength; and so whoever sees them mostly fails to understand them.",
- "translation_note": "'Abdala'/'Abdallah': Farmer's note states that the identity of this 'Abdallah' is uncertain (farmer1998:15378). 'Fortitudo' is rendered 'strength' rather than the later, narrower moral sense of 'fortitude' (farmer1998:15358).",
- "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:15358",
+ "translation_note": "'Abdala'/'Abdallah': Farmer's note states that the identity of this 'Abdallah' is uncertain (farmer1998:9277). 'Fortitudo' is rendered 'strength' rather than the later, narrower moral sense of 'fortitude' (farmer1998:9264).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch8, from Latin at farmer1998:9264",
  "pico_stance": "reports",
- "attribution": "Reports Adeland the Arab, citing 'Abdala' (farmer1998:15358).",
+ "attribution": "Reports Adeland the Arab, citing 'Abdala' (farmer1998:9264).",
  "sources": [
   {
-   "text": "Averroes' thesis on prophecy occurring in dreams through illumination of the agent intellect",
-   "locator": "farmer1998:12864",
-   "pico_relation": "Farmer's note cross-references thesis 7.1 for this cluster of theses on dreams and prophecy"
-  },
-  {
-   "text": "Plato's Timaeus 71d-72c, where the liver is the seat of the irrational soul that receives inspired images during sleep, illness, or divine possession",
-   "locator": "farmer1998:15378",
-   "pico_relation": "Farmer's note gives this as the background for why those who have visions cannot properly interpret them"
+   "text": "Averroes' thesis on prophecy occurring in dreams through illumination of the agent intellect (7.1: 'Possibile est prophetia in somnis per illustrationem intellectus agentis super animam nostram')",
+   "locator": "farmer1998:8313",
+   "pico_relation": "the neighbouring cluster of theses on dreams and prophecy in the same 'Arabs' section"
   }
  ],
- "doctrine": "The thesis holds, citing a saying attributed to 'Abdala', that seeing dreams is a matter of the strength of the imagination while understanding them is a matter of the strength of the intellect, so that whoever sees dreams mostly fails to understand them (farmer1998:15358). Farmer's note groups this thesis with 21.4-21.5 and cross-references thesis 7.1, attributed to Averroes, on the possibility of prophecy in dreams through illumination of the agent intellect (farmer1998:15378; farmer1998:12864). He explains the underlying theory by reference to Plato's Timaeus 71d-72c, where the liver is the seat of the irrational soul, which receives inspired images from the intellect during sleep, illness, or divine possession, and states that those who have such visions are consequently not in the proper mental state to interpret them (farmer1998:15378). Farmer states that the identity of 'Abdallah' is uncertain, and remarks, in a passage cut off in the material consulted, that the opening line of the Oration ('Nothing is more miraculous than man!') is 'similarly...' -- the point of the comparison is not given (farmer1998:15378).",
- "context": "Busi and Ebgi propose identifying 'Abdala' with Abdallah ibn Salam, a Jew of Medina to whom tradition attributes Qur'an 46:10, but state that, as far as is known, no source attributes to this figure any saying resembling the one Pico reports here (busi2014:1241).",
+ "doctrine": "The thesis holds, citing a saying attributed to 'Abdala', that seeing dreams is a matter of the strength of the imagination while understanding them is a matter of the strength of the intellect, so that whoever sees dreams mostly fails to understand them (farmer1998:9264). Farmer states that the identity of 'Abdala'/'Abdallah' is uncertain, and remarks, in a passage cut off at its start in the material consulted, that the famous opening line of the Oration, 'Nothing is more miraculous than man!', 'is similarly ascribed to an unidentified \"Abdallah the Saracen\"' (farmer1998:9277-9280).",
+ "context": "This uploaded copy of Busi and Ebgi discusses, in its introduction, the same 'Abdalla' figure as he appears at the opening of Pico's Oration ('Nothing is more miraculous than man'), independently of this thesis: it records that his identity has never been established and that the passage is so mysterious as to raise the possibility that Pico invented the figure, perhaps with Flavio Mitridate's help — 'Da piu di cinque secoli, il mistero di Abdalla rimane irrisolto' ('For more than five centuries, the mystery of Abdalla remains unsolved') (busi2014:782-783); whether this is the same discussion Busi and Ebgi give of the 'Abdala' cited in this thesis specifically (on dreams, rather than on man's dignity) is not established by the sources consulted (see not_established).",
  "reception": "",
- "historiography": "Busi and Ebgi are the only scholars in the material opened to discuss this thesis (busi2014:1241). They add that, given the fabrications scattered about by a figure they call 'Mitridate', one cannot deny that the exaltation of human capacities attributed here to 'Abdala' resembles, in certain respects, an anthropology otherwise found elsewhere, though the comparison is cut off in the material consulted (busi2014:1241).",
+ "historiography": "Busi and Ebgi's introduction raises the possibility that the Oration's 'Abdalla' is Pico's own invention, and suggests 'lo zampino di Mitridate' ('Mitridate's hand') may be behind it, since Flavio Mitridate, Pico's tutor in Arabic and other languages, supplied Pico with bibliographic leads 'a proposito e a sproposito' ('whether relevant or not') (busi2014:786-788).",
  "connections": ["7.1", "21.4"],
  "condemned_flag": false,
  "quotations": [
   {
-   "text": "Per quanto noto, nessuna fonte attribuisce però a tale personaggio un detto simile a quello riportato qui da Pico.",
+   "text": "Da piu di cinque secoli, il mistero di Abdalla rimane irrisolto.",
    "work": "busi2014",
-   "line": 1241,
+   "line": 782,
+   "verbatim": true
+  },
+  {
+   "text": "Tanto misteriosa è questa prima fonte dell'Orazione, da far venire il dubbio che sia inventata.",
+   "work": "busi2014",
+   "line": 785,
+   "verbatim": true
+  },
+  {
+   "text": "is uncertain. The famous opening quotation in the Oration— \"Nothing is more miraculous than man!\"—is similarly ascribed to an unidentified \"Abdallah the Saracen.\"",
+   "work": "farmer1998",
+   "line": 9277,
    "verbatim": true
   }
  ],
  "not_established": [
-  "Farmer's note on the comparison between this thesis and the opening line of the Oration is cut off in the material consulted; the point of the comparison is not established.",
-  "The full text of Busi and Ebgi's comparison between the anthropology attributed here to 'Abdala' and the anthropology it is said to resemble is cut off in the material consulted.",
-  "The identity of the figure Busi and Ebgi call 'Mitridate' is not further identified in the material consulted."
+  "Farmer's note on the comparison between this thesis and the opening line of the Oration is cut off at its start in the material consulted (farmer1998:9277); what precedes 'is uncertain' -- almost certainly a statement that Abdala's/Abdallah's identity is unknown -- is not established.",
+  "Whether Busi and Ebgi's introduction, discussing the Oration's 'Abdalla' figure at busi2014:782-788, is describing the same 'Abdala' cited in this thesis (on dreams) or treats the two as distinct is not established by the sources consulted; Farmer's own cross-reference (farmer1998:9277-9280) suggests they may be the same invented or unidentified figure, but this is Farmer's inference, not Busi and Ebgi's.",
+  "The identity of 'Abdala'/'Abdallah' -- whether a real medieval Arabic author, an invention of Pico's, or (per Busi and Ebgi's speculation) supplied by Flavio Mitridate -- is not established by the sources consulted.",
+  "A prior draft attributed to Busi and Ebgi (busi2014:1241) the claim that they 'propose identifying \"Abdala\" with Abdallah ibn Salam, a Jew of Medina to whom tradition attributes Qur'an 46:10', and quoted them as saying (in Italian) 'Per quanto noto, nessuna fonte attribuisce pero a tale personaggio un detto simile a quello riportato qui da Pico' ('As far as is known, no source attributes to this figure any saying like the one Pico reports here'). On verification against this session's uploaded copy of Busi and Ebgi, neither the Italian sentence nor any discussion of 'Abdallah ibn Salam' or of Qur'an 46:10 appears anywhere in the file; the book's index does list an entry 'Abdallah ibn Salam, xxviii' alongside 'Abdalla arabo, xxviii-xxxi' and 'Corano: xxviii', suggesting the identification is made somewhere on those introduction pages, but the surrounding discussion actually present in this uploaded copy at that page range (busi2014:770-810) is about the Oration's Abdalla and does not use either the quoted Italian sentence or the ibn-Salam/Qur'an identification. Removed as unverifiable/likely fabricated; replaced with the genuinely-verified discussion of the same figure's uncertain identity, from both Busi/Ebgi and Farmer, that this uploaded corpus does contain."
  ],
  "writer": "WRITER-full-batch8 (agent), 2026-09-26",
  "verifier": null,

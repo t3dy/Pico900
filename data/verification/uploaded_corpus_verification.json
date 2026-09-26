@@ -596,13 +596,18 @@
   "thesis_id": "2.40",
   "quotations_checked": [
    {
-    "work": "farmer1998",
-    "text": "But perhaps, since a difficulty exists in two modes, its cause is not in things but in us. For just ",
-    "status": "NOT_FOUND"
+    "work": "edelheit2022",
+    "text": "Et hoc demonstrant verba Aristotelis in II metaphysicae. Dicit enim ibidem quod difficultas intellig",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "edelheit2022",
     "text": "Thesis 40, just like thesis 20, is included among the theses which were criticized by Bernardo Torni",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "edelheit2022",
+    "text": "difficultas cognoscendi tam substancias materiales quam inmateriales est ex parte intellectus nostri",
     "status": "FOUND_EXACT"
    }
   ]
@@ -673,13 +678,8 @@
   "quotations_checked": [
    {
     "work": "edelheit2022",
-    "text": "In thesis 1 we find that the proposition ‘essence generates’ is false since essence is completely ab",
+    "text": "In thesis 1 we find that the proposition 'essence generates' is false since essence is completely ab",
     "status": "FOUND_EXACT"
-   },
-   {
-    "work": "edelheit2022",
-    "text": "But why this thesis opens with the adverb ideo (therefore), suggesting a continuation from a previou",
-    "status": "NOT_FOUND"
    }
   ]
  },
@@ -2099,8 +2099,18 @@
   "quotations_checked": [
    {
     "work": "busi2014",
-    "text": "Per quanto noto, nessuna fonte attribuisce però a tale personaggio un detto simile a quello riportat",
-    "status": "NOT_FOUND"
+    "text": "Da piu di cinque secoli, il mistero di Abdalla rimane irrisolto.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "busi2014",
+    "text": "Tanto misteriosa è questa prima fonte dell'Orazione, da far venire il dubbio che sia inventata.",
+    "status": "FOUND_EXACT"
+   },
+   {
+    "work": "farmer1998",
+    "text": "is uncertain. The famous opening quotation in the Oration— \"Nothing is more miraculous than man!\"—is",
+    "status": "FOUND_EXACT"
    }
   ]
  },
@@ -3016,13 +3026,13 @@
    },
    {
     "work": "farmer1998",
-    "text": "common symbols of the fourth and fifth sefirot",
-    "status": "NOT_FOUND"
+    "text": "north\" or the \"north wind\" (aquilo) was a regular kabbalistic symbol of the fifth sefirah",
+    "status": "FOUND_EXACT"
    },
    {
-    "work": "edelheit2008",
-    "text": "Empedocles becomes relevant as an interpreter of Job",
-    "status": "NOT_FOUND"
+    "work": "edelheit2022",
+    "text": "the philosopher Empedocles should interpret for us the words of the theologian Job",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "farmer1998",
@@ -3368,21 +3378,15 @@
   "quotations_checked": [
    {
     "work": "farmer1998",
-    "text": "how many Pico recognized is anyone's guess",
-    "status": "NOT_FOUND"
+    "text": "permeates Pico's thought",
+    "status": "FOUND_EXACT"
    }
   ]
  },
  {
   "file": "entries/own_10_006.draft.json",
   "thesis_id": "10>6",
-  "quotations_checked": [
-   {
-    "work": "farmer1998",
-    "text": "Pico's extreme correlative system",
-    "status": "NOT_FOUND"
-   }
-  ]
+  "quotations_checked": []
  },
  {
   "file": "entries/own_10_007.draft.json",
@@ -3791,11 +3795,6 @@
   "file": "entries/own_11_018.draft.json",
   "thesis_id": "11>18",
   "quotations_checked": [
-   {
-    "work": "farmer1998",
-    "text": "it is possible to generate several plausible readings of the thesis",
-    "status": "NOT_FOUND"
-   },
    {
     "work": "akopyan2021",
     "text": "Rogerius Bacon eo usque est evectus, ut scribere non dubitaverit errare Christianos, qui die sabbati",
@@ -5088,25 +5087,9 @@
   "thesis_id": "3>49",
   "quotations_checked": [
    {
-    "work": "farmer1998",
-    "text": "false and can be taken to a heretical sense",
-    "status": "NOT_FOUND"
-   },
-   {
     "work": "dougherty2008",
     "text": "Wrong and can be twisted to a heretical meaning",
     "status": "FOUND_EXACT"
-   },
-   {
-    "work": "farmer1998",
-    "text": "mode of speaking of Dionysius",
-    "status": "FOUND_PARTIAL"
-   },
-   {
-    "work": "unknown",
-    "text": "false and can be taken to a heretical sense",
-    "status": "NOT_FOUND",
-    "field": "commission_verdict"
    },
    {
     "work": "dougherty2008",
@@ -5309,8 +5292,8 @@
    },
    {
     "work": "copenhaver2022",
-    "text": "easier to say than to understand",
-    "status": "NOT_FOUND"
+    "text": "easier to say than understand",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "farmer1998",
@@ -5483,9 +5466,9 @@
     "status": "FOUND_EXACT"
    },
    {
-    "work": "farmer1998",
-    "text": "The commission's hostility towards Pico is reflected in its judgment",
-    "status": "NOT_FOUND"
+    "work": "copenhaver2022",
+    "text": "The record shows that hostility to the prince was their mission from the start",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "copenhaver2022",
@@ -5635,9 +5618,9 @@
     "status": "FOUND_EXACT"
    },
    {
-    "work": "farmer1998",
-    "text": "tyrannical command of the will",
-    "status": "NOT_FOUND"
+    "work": "copenhaver2022",
+    "text": "merely power (potestas) and will's tyrannical command (imperium)",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "copenhaver2022",
@@ -5681,11 +5664,6 @@
   "thesis_id": "4>19",
   "quotations_checked": [
    {
-    "work": "farmer1998",
-    "text": "false, erroneous, and heretical",
-    "status": "NOT_FOUND"
-   },
-   {
     "work": "dougherty2008",
     "text": "Wrong, erroneous, heretical",
     "status": "FOUND_EXACT"
@@ -5706,15 +5684,9 @@
     "status": "FOUND_EXACT"
    },
    {
-    "work": "edelheit2022",
-    "text": "false, erroneous, and heretical",
+    "work": "farmer1998",
+    "text": "Wrong, erroneous, heretical",
     "status": "FOUND_PARTIAL",
-    "field": "commission_verdict"
-   },
-   {
-    "work": "unknown",
-    "text": "error to error",
-    "status": "NOT_FOUND",
     "field": "commission_verdict"
    }
   ]
@@ -5723,11 +5695,6 @@
   "file": "entries/own_4_020.draft.json",
   "thesis_id": "4>20",
   "quotations_checked": [
-   {
-    "work": "farmer1998",
-    "text": "false, erroneous, and heretical",
-    "status": "NOT_FOUND"
-   },
    {
     "work": "dougherty2008",
     "text": "Wrong, erroneous, heretical",
@@ -5747,18 +5714,6 @@
     "work": "edelheit2022",
     "text": "de rigore sermonis rationabiliter est intelligenda de peccato mortali proprie dicto",
     "status": "FOUND_EXACT"
-   },
-   {
-    "work": "edelheit2022",
-    "text": "false, erroneous, and heretical",
-    "status": "FOUND_PARTIAL",
-    "field": "commission_verdict"
-   },
-   {
-    "work": "unknown",
-    "text": "error to error",
-    "status": "NOT_FOUND",
-    "field": "commission_verdict"
    },
    {
     "work": "farmer1998",
@@ -5828,19 +5783,19 @@
     "status": "FOUND_EXACT"
    },
    {
-    "work": "edelheit2008",
+    "work": "edelheit2014",
     "text": "Errare possum haereticus esse non possum",
-    "status": "NOT_FOUND"
+    "status": "FOUND_EXACT"
    },
    {
-    "work": "edelheit2008",
+    "work": "edelheit2014",
     "text": "neque dogmatice neque assertive, sed dubitative semper, et inquisitive",
-    "status": "NOT_FOUND"
+    "status": "FOUND_EXACT"
    },
    {
-    "work": "edelheit2008",
+    "work": "edelheit2014",
     "text": "rationabilius sit credere, ipsum esse salvum, quam credere ipsum esse damnatum",
-    "status": "NOT_FOUND"
+    "status": "FOUND_EXACT"
    },
    {
     "work": "copenhaver2022",
@@ -6804,9 +6759,9 @@
   "thesis_id": "9>1",
   "quotations_checked": [
    {
-    "work": "busi2014",
-    "text": "quia hec omnia reprobavi in prima conclusione mea",
-    "status": "NOT_FOUND"
+    "work": "edelheit2022",
+    "text": "cum sicut dixi in prima conclusione, refellam omnem magiam prohibitam ab Ecclesia illam damnans et d",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "copenhaver2019",
@@ -6817,11 +6772,6 @@
     "work": "busi2014",
     "text": "Piu che una scusa è una confessione",
     "status": "FOUND_EXACT"
-   },
-   {
-    "work": "farmer1998",
-    "text": "Medieval magical treatises regularly began by protesting",
-    "status": "NOT_FOUND"
    }
   ]
  },
@@ -6859,11 +6809,6 @@
     "work": "mandosio2012",
     "text": "the highest point of all philosophy",
     "status": "NO_CORPUS_FILE"
-   },
-   {
-    "work": "farmer1998",
-    "text": "concocted from the oil of scorpions and the tongues of asps",
-    "status": "NOT_FOUND"
    }
   ]
  },
@@ -6873,8 +6818,8 @@
   "quotations_checked": [
    {
     "work": "farmer1998",
-    "text": "our obligation to operate magic in the world",
-    "status": "NOT_FOUND"
+    "text": "these theses seem not only to condone but to require us to work magic in the world",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "mandosio2012",
@@ -6899,8 +6844,8 @@
   "quotations_checked": [
    {
     "work": "busi2014",
-    "text": "le acque sopracelesti sono considerate alla stregua di un balsamo divino, che scende a guisa di abbo",
-    "status": "NOT_FOUND"
+    "text": "Sorta di pioggia luminosa che irriga le terre dell'Intelligenza, simile in tutto a quelle «acque sop",
+    "status": "FOUND_EXACT"
    }
   ]
  },
@@ -7024,8 +6969,8 @@
   "quotations_checked": [
    {
     "work": "farmer1998",
-    "text": "homo magus functions as a cosmic priest",
-    "status": "NOT_FOUND"
+    "text": "the views that Pico advances of the magus as cosmic priest",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "busi2014",
@@ -7053,11 +6998,6 @@
   "file": "entries/own_9_015.draft.json",
   "thesis_id": "9>15",
   "quotations_checked": [
-   {
-    "work": "farmer1998",
-    "text": "it is not possible to know for certain his meaning here",
-    "status": "NOT_FOUND"
-   },
    {
     "work": "wirszubski1989",
     "text": "asserts the superiority of Kabbala over magic",
@@ -7101,9 +7041,9 @@
     "status": "NO_CORPUS_FILE"
    },
    {
-    "work": "farmer1998",
-    "text": "Wirszubski's view [1989: 194] that all three refer to the same durational state is clearly mistaken.",
-    "status": "NOT_FOUND"
+    "work": "wirszubski1989",
+    "text": "I take it that \"orizon aeternitatis temporalis\" in this thesis, \"orizon temporis aeternalis\" in the ",
+    "status": "FOUND_EXACT"
    },
    {
     "work": "wirszubski1989",
