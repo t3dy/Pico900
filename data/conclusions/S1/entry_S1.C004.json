@@ -1,0 +1,55 @@
+{
+  "conclusion_id": "S1.C004",
+  "section": "S1",
+  "order": 4,
+  "latin_incipit": "[T4 — Soul]",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "Soul as third hypostasis; intermediate principle between Intellect and Matter; vehicle of individuation",
+  "key_concepts": [
+    "Psyche",
+    "Soul",
+    "Individuation",
+    "Descent",
+    "Generation"
+  ],
+  "plotinian_parallel": "Enneads 4.8 (On the descent of the soul), 4.3 (Problems of the Soul)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus (soul ascent)",
+    "Pseudo-Dionysius"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 5",
+      "page": null,
+      "quotation": "[ON Q13: soul's union]",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "soul",
+    "psyche",
+    "hypostasis",
+    "descent"
+  ],
+  "status": "standardized",
+  "notes": "Core to Pico's anthropology. Soul's capacity for ascent (via Oration and triplex via) connects to Q13 (condemned). Check for theurgy language (Iamblichan).",
+  "created_from_cluster": false
+}

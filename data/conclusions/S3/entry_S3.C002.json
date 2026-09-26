@@ -1,0 +1,55 @@
+{
+  "conclusion_id": "S3.C002",
+  "section": "S3",
+  "conclusion_num": "I.7.2",
+  "latin_incipit": "Una est anima intellectiva in omnibus hominibus.",
+  "english_translation": "There is one intellective soul in all human beings.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Averroes holds the doctrine of monopsychism: the potential intellect (intellectus possibilis) is singular and eternal, shared by all humanity.",
+  "defense": "Pico explicitly rejects this in I.7.4, asserting that personal immortality and individual soul survival are possible even if the agent intellect is universal.",
+  "exegesis": "This is Averroes's famous doctrine of the unity of the intellect—there is only one eternal, shared intellectus possibilis (potential intellect) for all people. Individual thought is the result of this intellect acting through particular faculties. This was controversial, especially for Christian theologians who insisted on individual immortality.",
+  "scholar_citations": [
+    {
+      "scholar": "Averroes (Ibn Rushd)",
+      "work": "Long Commentary on De Anima III",
+      "quote": "The possible intellect is one in substance and eternal, though its operations appear multiple through the diversity of human individuals.",
+      "verified": false,
+      "source_note": "[Core doctrine of Latin Averroism; widely documented]"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial",
+      "quote": "Averroist monopsychism directly contradicted Christian doctrine of individual immortal souls and personal responsibility for sin.",
+      "verified": false,
+      "source_note": "[Copenhaver's discussion of condemned conclusions]"
+    },
+    {
+      "scholar": "Wirszubski & Kristeller",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "quote": "Pico's engagement with Averroist intellect theory shows his effort to synthesize Aristotelian psychology with Neoplatonic and Kabbalistic doctrines of individual soul ascent.",
+      "verified": false,
+      "source_note": "[Context of Pico's philosophical syncretism]"
+    },
+    {
+      "scholar": "Edelheit",
+      "work": "Scholasticism and Medieval Philosophy in the Works of Pico della Mirandola",
+      "quote": "The unity of intellect thesis challenged medieval scholastic psychology, forcing thinkers like Pico to develop more sophisticated accounts of individual intellection.",
+      "verified": false,
+      "source_note": "[Scholastic context for Pico's critiques]"
+    }
+  ],
+  "heretical_flag": true,
+  "heretical_notes": "This doctrine was condemned by the Church as incompatible with Christian personal immortality, individual moral responsibility, and the afterlife. It relates to Q8 (epistemology of belief) in the heretical essay.",
+  "tags": [
+    "intellect",
+    "unity",
+    "monopsychism",
+    "soul",
+    "heretical",
+    "Q8_epistemology"
+  ],
+  "notes": "Central to understanding both Averroist philosophy and Pico's heretical propositions. Pico preserves elements while rejecting the most problematic implications.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666121Z",
+  "updated_date": "2026-09-26T00:33:42.666125Z"
+}

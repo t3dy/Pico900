@@ -283,12 +283,86 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
+---
+
+## 2026-09-25 — Scope Expansion: Four-Text Digital Editions (T)
+
+**Decision**: Create parallel digital editions for *Oration*, *Commento*, *Heptaplus*, and *On Being and Unity* with facing-page Latin/English + angelology-focused commentary.
+
+**Rationale**:
+- Pico's angelology is the **structural backbone** of all four texts
+- Angelology research is **prerequisite** for understanding heretical conclusions (Q1, Q6, Q8 cluster around divine embodiment via angels)
+- Four texts are **philosophically unified** (Pseudo-Dionysius + Aquinas + Kabbalah + Plotinus synthesis)
+- Facing-page editions provide **interpretive depth** that helps scholars navigate 900 Conclusions with proper context
+- Edition infrastructure is **reusable** for all 900 conclusions later
+
+**Angelology Focus**:
+- Research four lineages: Pseudo-Dionysius, Aquinas, Kabbalah, Plotinus
+- Map angelic correspondence across all texts (theme cross-reference table in ANGELICRESEARCH.md)
+- Heretical conclusions Q1, Q6, Q8 are solved by understanding celestial metaphysics first
+- Agent swarms can work on edges (angel-themed conclusions) while main pipeline continues
+
+**Rules out**:
+- Postponing angelology research to Phase 2 or later
+- Treating four-text editions as "context only" rather than first-class deliverables
+- Angelology as isolated sections in 900 Conclusions
+
+**Implementation**:
+- Create `data/texts/` directory with subdirs: `oration/`, `commento/`, `heptaplus/`, `being_unity/`
+- Each text has: `passages_angelology.json`, `entries/`, `exegeses/`
+- Shared scholarship database: `data/scholarships/angels/` (lineage tags + debate log)
+- ANGELICRESEARCH.md is north star for all angel-related work (HARVESTER, SYNTHESIZER, REVIEWER receive excerpts only)
+
+**Agent Workflow** (Parallel to Phase 0/1):
+1. **HARVESTER**: Extract angelology passages from four texts (parallel execution, 4 agents)
+2. **PORTER**: Standardize + cross-link angelology passages
+3. **SYNTHESIZER**: Write exegeses for angelic concepts across all four texts
+4. **REVIEWER**: Validate against ANGELICRESEARCH.md + STYLE_GUIDE.md
+
+**Phase Sequencing**:
+- **Phase 0** (Heretical Essay Research): Continue as planned, but note angelology will be needed for deep work
+- **Phase 1-Alpha** (Four-Text Editions + Angelology): Parallel to Phase 1 main pipeline
+  - Agents H2-A, H3-A, H4-A extract angelology from Oration, Commento, Heptaplus
+  - Agents P2-A, P3-A, P4-A port angel-themed conclusions
+  - Agents S1-A–S4-A synthesize angelology exegeses across texts
+  - Result: Four high-quality digital editions ready for delivery as standalone sites (or integrated into Pico900)
+- **Phase 1-B**: Main 900 Conclusions pipeline (continues with S1–S9 sections as originally planned)
+
+**Token Budget**:
+- Phase 1-Alpha (Four-Text Editions): ~80k tokens (parallel harvesting + porting + synthesis)
+- Phase 1-B (900 Conclusions): ~100k tokens (now running parallel to 1-Alpha)
+- Total Phase 1: ~180k tokens (vs. 100k sequential) — parallelism costs extra communication, but delivers more value
+
+---
+
+## 2026-09-25 — Angelology as Lens for Heretical Essay (C)
+
+**Decision**: Reframe heretical conclusions research around angelology framework.
+
+**Rationale**:
+- Condemned conclusions Q1, Q6, Q8 are incomprehensible without angelology (divine embodiment, doxastic bondage, etc.)
+- ANGELICRESEARCH.md provides **unified theological framework** for understanding heresy charges
+- Copenhaver's trial analysis becomes clearer when read through angelic metaphysics
+- Synergy: angelology research in four texts informs deeper heretical essay commentary
+
+**Rules out**:
+- Treating angelology as optional supplementary material
+- Heretical essay research isolated from angelology research
+
+**Implementation** (for continuing Phase 0):
+- When S1-HERETICAL writes exegeses for Q1, Q6, Q8, they reference ANGELICRESEARCH.md for angelology context
+- When R1-REVIEWER validates heretical entries, check: does exegesis explain the angelological charge?
+- Phase 0 retrospective will note: "Angelology research in parallel editions deeply enriched heretical essay commentary"
+
+---
+
 ## Next Decision Gates
 
 - **Phase 0 → GitHub**: Commit Phase 0 deliverables + push to GitHub Pages ✓ (DONE)
-- **Phase 1 infrastructure**: Create PHASE_1_ROADMAP.md, ORCHESTRATION.md, TAXONOMY.md, RESEARCH_QUEUE.json ✓ (IN PROGRESS)
-- **Phase 1 launch**: User approval to dispatch H2, H3, H4 for Wave 1 (awaiting)
-- **Mid-Phase 1**: Retrospective checkpoint after S1–S4 complete (optional)
-- **Phase 1 complete**: Evaluate all 900 conclusions against success criteria
+- **Phase 1-Alpha Launch** (NEW): Dispatch H2-A, H3-A, H4-A for four-text angelology extraction (awaiting approval)
+- **Phase 1-B Launch**: Dispatch H2, H3, H4 for main 900 Conclusions pipeline (awaiting approval)
+- **Mid-Phase 1**: Retrospective checkpoint after 1-Alpha + 1-B yield initial results (optional)
+- **Phase 1 complete**: Evaluate 900 Conclusions + four-text editions against success criteria
+- **Four-Text Editions Gate**: Decide deployment (standalone sites vs. integrated into Pico900)
 - **Phase 2 gate**: Approve website UI + deployment plan before building
 

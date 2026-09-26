@@ -1,0 +1,56 @@
+{
+  "conclusion_id": "S1.C012",
+  "section": "S1",
+  "order": 12,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Metaphysical hierarchy — Unity > Being > Good > Intellect > Soul > Body > Virtues",
+  "key_concepts": [
+    "Unity",
+    "Being",
+    "The Good",
+    "Virtue hierarchy",
+    "Divine attributes"
+  ],
+  "plotinian_parallel": "Enneads throughout (esp. 6.7–6.9 on the virtues; 1.2–1.8 on virtue classification)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Macrobius (Neoplatonic cosmology)",
+    "Ficino"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Howlett",
+      "work": "[WORK ON CONCORDISM]",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "hierarchy",
+    "unity",
+    "being",
+    "virtue",
+    "divine_names"
+  ],
+  "status": "standardized",
+  "notes": "T6–T20 likely constitute a coherent metaphysical cluster. Each conclusion probably refines the ontological hierarchy. Pico cites Plotinus, Porphyry, and Ficino heavily. Check Allen's systematic treatment in *Neoplatonism and the Platonic Tradition*.",
+  "created_from_cluster": true
+}

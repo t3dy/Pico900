@@ -1,0 +1,58 @@
+{
+  "conclusion_id": "S1.C045",
+  "section": "S1",
+  "order": 45,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Soul's faculties — Intellect, reason, sensation, imagination, memory; levels of consciousness",
+  "key_concepts": [
+    "Intellective soul",
+    "Discursive reason",
+    "Sensation",
+    "Imagination",
+    "Memory",
+    "Faculties"
+  ],
+  "plotinian_parallel": "Enneads 4.3–4.4 (Soul's powers and descent), 4.6 (Imagination and memory)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Plotinus",
+    "Macrobius"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Howlett",
+      "work": "[WORK ON SOUL]",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "soul_faculties",
+    "intellection",
+    "reason",
+    "sensation",
+    "imagination",
+    "memory"
+  ],
+  "status": "standardized",
+  "notes": "T41–T60 address soul's internal structure and faculties. Pico engages Plotinus's accounts of the soul's various levels and their operations. Critical for understanding human cognition and the ascent of the soul (Oration, triplex via). Cross-check with S3/S4 (Aristotelian intellect).",
+  "created_from_cluster": true
+}

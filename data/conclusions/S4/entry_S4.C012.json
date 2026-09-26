@@ -1,0 +1,43 @@
+﻿{
+    "commentary":  "Avicenna corrects Aristotle\u0027s treatment of modal logic. Offers more nuanced view on conversion of propositions. Pico cites this to show modal reasoning (especially in metaphysics, prophecy, divine knowledge) requires greater subtlety than Aristotelian logic alone allows. Flexibility in modal logic makes room for knowledge of future (astrology, prophecy, esoteric hermeneutics).",
+    "scholar_citations":  [
+                              {
+                                  "verified":  false,
+                                  "quotation":  "This flexibility in modal logic made room for knowledge of the future, necessary for astrology, theurgy, and esoteric hermeneutics.",
+                                  "work":  "The Arabic Influences on Early Modern Occult Philosophy (2015)",
+                                  "scholar":  "Saif, Liana",
+                                  "page":  "TBD"
+                              },
+                              {
+                                  "verified":  false,
+                                  "quotation":  "[TO SOURCE on Avicennian modal logic]",
+                                  "work":  "Syncretism in the West: Pico\u0027s Platform (1998)",
+                                  "scholar":  "Farmer, S. A.",
+                                  "page":  "TBD"
+                              }
+                          ],
+    "latin_incipit":  "Nec particularis affirmativa possibilis convertitur semper in affirmativam possibilem: nec necessaria particularis affirmativa in necessariam: ut credidit Aristoteles.",
+    "incipit_id":  "I.8.12",
+    "charge":  "Aristotle held that particular affirmatives could be converted while preserving necessity or possibility.",
+    "section_id":  "S4",
+    "conclusion_id":  "S4.C012",
+    "section":  "Conclusiones secundum Avicennam",
+    "defense":  "Avicenna demonstrates through modal logic that conversion rules must account for difference between necessity and possibility, enabling reasoning about future contingents and prophetic knowledge.",
+    "status":  "standardized",
+    "commentary_status":  "sourced_quotations",
+    "heretical_flag":  false,
+    "latin_source":  "Farmer critical edition (1998)",
+    "tags":  [
+                 "logic",
+                 "modal-logic",
+                 "necessity-possibility",
+                 "prophecy-epistemology",
+                 "aristotelian-critique"
+             ],
+    "latin_verified":  true,
+    "english_translation":  {
+                                "translator":  "LLM",
+                                "source":  "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+                                "text":  "Neither is a possible particular affirmative always convertible into a possible affirmative, nor is a necessary particular affirmative always convertible into a necessary [affirmative], as Aristotle believed."
+                            }
+}

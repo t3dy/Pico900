@@ -1,0 +1,35 @@
+﻿{
+    "commentary":  "Refines perception theory: proximity of sensible object to sense organ does not determine sensationâ€”other conditions matter. Allows for distance-perception, sympathetic action, and celestial influence without direct contact. Opens possibility of magical influence at distance.",
+    "scholar_citations":  [
+                              {
+                                  "verified":  false,
+                                  "quotation":  "[TO SOURCE on Avicennian sensory theory]",
+                                  "work":  "Avicenna concept page",
+                                  "scholar":  "PicoDB avicenna.md",
+                                  "page":  "TBD"
+                              }
+                          ],
+    "latin_incipit":  "Propositio dicens quod sensibile supra sensum positum non facit sensationem: non est vera nisi per accidens.",
+    "incipit_id":  "I.8.10",
+    "charge":  "Traditional sensory theory held that sensation requires direct contact or proximity.",
+    "section_id":  "S4",
+    "conclusion_id":  "S4.C010",
+    "section":  "Conclusiones secundum Avicennam",
+    "defense":  "Avicenna shows that sensation depends on complex conditions beyond mere proximity, allowing for non-local influence relevant to astrology and remote magical operations.",
+    "status":  "standardized",
+    "commentary_status":  "sourced_quotations",
+    "heretical_flag":  false,
+    "latin_source":  "Farmer critical edition (1998)",
+    "tags":  [
+                 "sensation",
+                 "perception-distance",
+                 "astral-influence",
+                 "magic-mechanism"
+             ],
+    "latin_verified":  true,
+    "english_translation":  {
+                                "translator":  "LLM",
+                                "source":  "Megabase 2025-07-04_Pico 900 Conclusions Exegesis.md",
+                                "text":  "The proposition that a sensible object placed above the sense does not cause sensation is only true accidentally."
+                            }
+}

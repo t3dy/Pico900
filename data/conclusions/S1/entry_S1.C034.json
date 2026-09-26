@@ -1,0 +1,50 @@
+{
+  "conclusion_id": "S1.C034",
+  "section": "S1",
+  "order": 34,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Intellective functions and divine attributes — Knowledge, providence, beauty, necessity",
+  "key_concepts": [
+    "Divine intellection",
+    "Providence",
+    "Beauty",
+    "Necessity",
+    "Contingency",
+    "Knowledge"
+  ],
+  "plotinian_parallel": "Enneads 5.8 (Intelligible beauty), 3.2–3.3 (Providence), 6.8 (On free will and divine knowledge)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus",
+    "Proclus (providence)",
+    "Pseudo-Dionysius (beauty)"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 5",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "divine_intellection",
+    "providence",
+    "knowledge",
+    "beauty",
+    "necessity"
+  ],
+  "status": "standardized",
+  "notes": "T21–T40 constitute the second major cluster. Pico explores how divine intellection, providence, and beauty function in Neoplatonic hierarchy. Likely draws on Plotinus Enneads 3.2, 5.8 and Proclus *Elements of Theology*. Check Copenhaver's Q12 (divine nature) analysis.",
+  "created_from_cluster": true
+}

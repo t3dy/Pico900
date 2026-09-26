@@ -1,0 +1,62 @@
+{
+  "conclusion_id": "S1.C001",
+  "section": "S1",
+  "order": 1,
+  "latin_incipit": "[FROM CRITICAL EDITION: T1 — The One]",
+  "incipit_verified": false,
+  "english_translation": "[TO BE SOURCED FROM MEGABASE or ORIGINAL]",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "Plotinian ontology: The One as first principle; beyond being and intellect",
+  "key_concepts": [
+    "The One",
+    "Henosis",
+    "Transcendence",
+    "Negation",
+    "Henology"
+  ],
+  "plotinian_parallel": "Enneads 5.1.1 (The Three Hypostases), 6.9.3 (On the Good)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Proclus (henads)"
+  ],
+  "charge": "TO BE FILLED",
+  "defense": "TO BE FILLED",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": "[PAGE TO BE VERIFIED]",
+      "quotation": "[TO BE EXTRACTED]",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 5",
+      "page": "[PAGE TO BE VERIFIED]",
+      "quotation": "[TO BE EXTRACTED]",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Howlett",
+      "work": "[WORK TITLE]",
+      "page": "[PAGE]",
+      "quotation": "[TO BE EXTRACTED]",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "ontology",
+    "the_one",
+    "henosis",
+    "transcendence"
+  ],
+  "status": "standardized",
+  "notes": "First conclusion typically addresses the ultimate principle. Pico synthesizes Plotinian henology with Christian monotheism. Check whether Pico invokes Pseudo-Dionysius's 'beyond being' language.",
+  "created_from_cluster": false
+}

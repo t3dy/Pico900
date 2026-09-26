@@ -1,0 +1,220 @@
+{
+  "name": "Four-Text Digital Editions Schema",
+  "version": "1.0",
+  "description": "Schema for Oration, Commento, Heptaplus, On Being and Unity digital editions with angelology focus",
+  "texts": {
+    "oration": {
+      "full_title": "Oratio de dignitate hominis (Oration on the Dignity of Man)",
+      "latin_title": "Oratio de dignitate hominis",
+      "short_id": "O",
+      "year": 1486,
+      "estimated_passages": 12,
+      "angelology_focus": [
+        "Pseudo-Dionysius hierarchy (comparison)",
+        "Human freedom vs. angelic fixity",
+        "Ascent through angelic intellection"
+      ],
+      "primary_scholars": [
+        "Copenhaver (Magic and Dignity)",
+        "Howlett (Concordism)",
+        "Borghesi (Critical Edition)"
+      ],
+      "directory": "data/texts/oration"
+    },
+    "commento": {
+      "full_title": "Commento sopra una canzone d'amore (Commentary on a Love Canzone)",
+      "latin_title": "Commento sopra una canzone d'amore",
+      "short_id": "C",
+      "year": "1486-90",
+      "estimated_passages": 20,
+      "angelology_focus": [
+        "Angels as exemplars of love",
+        "Sefirotic correspondences (Kabbalah)",
+        "Seraphim as goal of ascent",
+        "Angelic intellect as model for human intellection"
+      ],
+      "primary_scholars": [
+        "Allen (Platonism; critical translation)",
+        "Busi (Kabbalah + Commento)",
+        "Edelheit (Scholastic psychology)",
+        "Wirszubski (Angelology in Kabbalah context)"
+      ],
+      "directory": "data/texts/commento"
+    },
+    "heptaplus": {
+      "full_title": "Heptaplus: On the Sevenfold Narration of the Six Days of Creation",
+      "latin_title": "Heptaplus",
+      "short_id": "H",
+      "year": 1489,
+      "estimated_passages": 50,
+      "angelology_focus": [
+        "Layer 1 (Literal): Angels created on Day 1 as light/intellect",
+        "Layer 2 (Allegorical): Angelic hierarchies as cosmic intellect",
+        "Layer 5 (Kabbalistic): Sefirotic angels and their names",
+        "Layer 6 (Astrological): Planetary angels as cosmic governors",
+        "Angelology throughout all layers as unifying principle"
+      ],
+      "primary_scholars": [
+        "Black (The Heptaplus; layer analysis)",
+        "Howlett (Cosmology; Pseudo-Dionysius reconciliation)",
+        "Edelheit (Scholasticism; angelic intelligences)",
+        "Akopyan (Astrology; planetary angels)"
+      ],
+      "directory": "data/texts/heptaplus"
+    },
+    "being_unity": {
+      "full_title": "De Ente et Uno (On Being and Unity)",
+      "latin_title": "De Ente et Uno",
+      "short_id": "U",
+      "year": "1491-92",
+      "estimated_passages": 15,
+      "angelology_focus": [
+        "Angels as degrees of being (metaphysical hierarchy)",
+        "Seraph exemplifying pure unity approaching divinity",
+        "Human intellection via angelic participation",
+        "Demonic as privation (negative principle)"
+      ],
+      "primary_scholars": [
+        "Howlett (Neoplatonism; Plotinus vs. Aristotle)",
+        "Edelheit (Metaphysics; being and essence)",
+        "Allen (Ficino's influence; critique)",
+        "Black (Angelology in metaphysical context)"
+      ],
+      "directory": "data/texts/being_unity"
+    }
+  },
+  "file_structure": {
+    "text_directory": {
+      "passages_angelology.json": "HARVESTER output: extracted angelology passages with context",
+      "passages_angelology_manifest.json": "Work queue: task assignments for PORTER + SYNTHESIZER",
+      "entries": {
+        "description": "Standardized conclusion entries (PORTER output)",
+        "format": "T.section.number.json (e.g., O.1.1.json = Oration section 1 conclusion 1)"
+      },
+      "exegeses": {
+        "description": "Exegesis markdown files (SYNTHESIZER output)",
+        "format": "T.section.number_exegesis.md"
+      },
+      "research_notes.md": "SYNTHESIZER research summary for this text"
+    },
+    "scholarships_shared": {
+      "location": "data/scholarships/angels/",
+      "lineage_pseudodionysius.json": "References to Pseudo-Dionysius across all four texts",
+      "lineage_aquinas.json": "References to Aquinas scholasticism",
+      "lineage_kabbalah.json": "References to Kabbalah + Sefirot correspondence",
+      "lineage_plotinus.json": "References to Plotinian emanation",
+      "scholar_debate_log.json": "Documented disagreements (Wirszubski vs. Allen, etc.)"
+    }
+  },
+  "passage_entry_template": {
+    "passage_id": "string (e.g., 'O.1.2')",
+    "text_id": "string (oration|commento|heptaplus|being_unity)",
+    "section_number": "integer (section within text)",
+    "incipit_latin": "string (opening words in Latin)",
+    "quote_latin": "string (full Latin passage from source)",
+    "quote_english": "string (English translation, with source)",
+    "quote_length_words": "integer",
+    "context": "string (what is Pico arguing in this passage?)",
+    "lineage_tags": [
+      "pseudo-dionysius | aquinas | kabbalah | plotinus | synthesis"
+    ],
+    "cross_references": [
+      "string (e.g., 'Heptaplus Layer 2, Day 1'; 'Commento Book I'; '900 Conclusions I.1.5')"
+    ],
+    "scholarly_citations_available": [
+      "string (scholar names: Howlett, Edelheit, Wirszubski, Black, Allen, Busi, Akopyan)"
+    ],
+    "heretical_adjacent": "boolean (is this passage relevant to heretical conclusions Q1, Q6, Q8?)",
+    "source_file_location": "string (which Markdown file in E:\\pdf\\)",
+    "harvester_notes": "string (optional notes from extraction agent)"
+  },
+  "entry_json_template": {
+    "conclusion_id": "string (T.section.number)",
+    "text": "oration|commento|heptaplus|being_unity",
+    "section": "integer",
+    "passage_number": "integer",
+    "latin_text": "string",
+    "english_translation": "string",
+    "translation_source": "string (megabase | PicoDB | original_translation_2026)",
+    "exegesis": "string (1-2 paragraph explanation)",
+    "exegesis_status": "draft|complete",
+    "lineage": "pseudo-dionysius|aquinas|kabbalah|plotinus|synthesis",
+    "key_concepts": [
+      "string (e.g., 'divine embodiment', 'intellective ascent', 'Sefirotic correspondence')"
+    ],
+    "tags": [
+      "angelology|heretical_adjacent|mystical|magical|astrological|kabbalistic|etc"
+    ],
+    "cross_references": {
+      "same_text": ["passage_ids"],
+      "other_texts": ["passage_ids from other Oration|Commento|Heptaplus|BeingUnity"],
+      "900_conclusions": ["conclusion_ids"]
+    },
+    "scholar_citations": [
+      {
+        "scholar": "string (Last name)",
+        "work": "string (Short title)",
+        "quotation": "string (verbatim quote)",
+        "confidence": "VERIFIED|CITED|INFERRED",
+        "relevance": "string (how this supports understanding)"
+      }
+    ],
+    "status": "unstarted|sourced|draft|complete|reviewed",
+    "porter_notes": "string",
+    "synthesizer_notes": "string"
+  },
+  "phase_1_alpha_tasks": {
+    "H2-A": {
+      "task": "HARVESTER: Oration angelology extraction",
+      "input": "Borghesi critical edition (Markdown)",
+      "output": "data/texts/oration/passages_angelology.json",
+      "estimated_count": 12,
+      "priority": "HIGH"
+    },
+    "H3-A": {
+      "task": "HARVESTER: Commento angelology extraction",
+      "input": "Allen translation + Busi scholarship",
+      "output": "data/texts/commento/passages_angelology.json",
+      "estimated_count": 20,
+      "priority": "HIGH"
+    },
+    "H4-A": {
+      "task": "HARVESTER: Heptaplus angelology extraction",
+      "input": "Borghesi + Papio translation + Black commentary",
+      "output": "data/texts/heptaplus/passages_angelology.json",
+      "estimated_count": 50,
+      "priority": "CRITICAL"
+    },
+    "H5-A": {
+      "task": "HARVESTER: On Being and Unity angelology extraction",
+      "input": "Borghesi critical text",
+      "output": "data/texts/being_unity/passages_angelology.json",
+      "estimated_count": 15,
+      "priority": "HIGH"
+    },
+    "P1-A": {
+      "task": "PORTER: Standardize Oration passages",
+      "input": "data/texts/oration/passages_angelology.json",
+      "output": "data/texts/oration/entries/*.json",
+      "priority": "HIGH"
+    },
+    "P2-A": {
+      "task": "PORTER: Standardize Commento passages",
+      "input": "data/texts/commento/passages_angelology.json",
+      "output": "data/texts/commento/entries/*.json",
+      "priority": "HIGH"
+    },
+    "P3-A": {
+      "task": "PORTER: Standardize Heptaplus passages",
+      "input": "data/texts/heptaplus/passages_angelology.json",
+      "output": "data/texts/heptaplus/entries/*.json",
+      "priority": "CRITICAL"
+    },
+    "P4-A": {
+      "task": "PORTER: Standardize On Being and Unity passages",
+      "input": "data/texts/being_unity/passages_angelology.json",
+      "output": "data/texts/being_unity/entries/*.json",
+      "priority": "HIGH"
+    }
+  }
+}

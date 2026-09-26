@@ -1,0 +1,58 @@
+{
+  "conclusion_id": "S1.C069",
+  "section": "S1",
+  "order": 69,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Celestial hierarchy — Daemons, angels, intelligences, their roles and natures; cosmic ordering",
+  "key_concepts": [
+    "Daemons",
+    "Angels",
+    "Intelligences",
+    "Hierarchy",
+    "Cosmos",
+    "Intermediaries"
+  ],
+  "plotinian_parallel": "Enneads 3.5 (Daemons), 5.5 (Intelligible world and cosmos), Porphyry *On Abstinence* III (daemon theory)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Iamblichus (theurgic daemons)",
+    "Proclus",
+    "Pseudo-Dionysius (hierarchies)"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 2",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": true,
+  "heretical_notes": "Daemon and angel theses likely connected to heretical Q5 (magic/theurgy). Copenhaver analyzes these in context of theurgic innovation and magic trial. Check whether Iamblichan theurgy (ritual invocation of daemons) appears here; if so, mark for heretical essay.",
+  "tags": [
+    "daemons",
+    "angels",
+    "intermediaries",
+    "hierarchy",
+    "theurgy"
+  ],
+  "status": "standardized",
+  "notes": "T61–T80 address celestial beings and intermediary powers. CRITICAL for heretical essay: theurgy, daemon magic, and theurgic innovation are condemned (Q5). Pico draws on Iamblichus *De Mysteriis* and Proclus's henad theory. Daemon theses intersect with Kabbalah (sefirot as intermediaries). Check for 'divine names' language (sign of theurgic engagement).",
+  "created_from_cluster": true
+}

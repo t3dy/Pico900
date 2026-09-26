@@ -1,0 +1,48 @@
+{
+  "conclusion_id": "S3.C005",
+  "section": "S3",
+  "conclusion_num": "I.7.5",
+  "latin_incipit": "Omnis ens abstractum dependet a primo abstracto in tribus generibus causarum: formali, finali et efficiente.",
+  "english_translation": "Every abstract being depends on the first abstract in three kinds of causes: formal, final, and efficient.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Averroes (following Neoplatonic metaphysics via the Liber de Causis) posits a triadic causal dependence of all beings on the First Cause.",
+  "defense": "Pico accepts this as philosophical proof of God's universal causality compatible with Christian theology.",
+  "exegesis": "Pico attributes to Averroes a fully Neoplatonic causal hierarchy—every abstract entity derives its form, purpose, and act of coming-to-be from the First Cause, likely referring to the Intellect or God. It echoes Proclus and the Liber de Causis.",
+  "scholar_citations": [
+    {
+      "scholar": "Liber de Causis",
+      "work": "Propositions 1-5 (on First Cause and Emanation)",
+      "quote": "The First Cause is the source of all being through formal, final, and efficient causality.",
+      "verified": false,
+      "source_note": "[Pseudo-Aristotelian source via Avicenna; core to Pico's metaphysics]"
+    },
+    {
+      "scholar": "Proclus",
+      "work": "Elements of Theology",
+      "quote": "Every effect is produced by its cause through formal, final, and efficient participation.",
+      "verified": false,
+      "source_note": "[Neoplatonic framework adapted by Averroes]"
+    },
+    {
+      "scholar": "Saif",
+      "work": "The Arabic Influences on Early Modern Occult Philosophy",
+      "quote": "Arabic philosophers naturalized astral magic through this triadic causality, legitimizing celestial influence as part of the divine order.",
+      "verified": false,
+      "source_note": "[Saif on magic and metaphysics in Arabic thought]"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "causality",
+    "metaphysics",
+    "first cause",
+    "emanation",
+    "Neoplatonism",
+    "causal hierarchy"
+  ],
+  "notes": "Foundational to Pico's metaphysical system and his justification of astral magic as natural philosophy grounded in divine causation.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666158Z",
+  "updated_date": "2026-09-26T00:33:42.666160Z"
+}

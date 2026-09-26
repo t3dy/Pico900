@@ -1,0 +1,47 @@
+{
+  "conclusion_id": "S3.C010",
+  "section": "S3",
+  "conclusion_num": "I.7.10",
+  "latin_incipit": "Tres modi demonstrationis sunt utiles in se ipsis: primus, secundus et quartus.",
+  "english_translation": "Three modes of demonstration are useful in themselves: the first, second, and fourth.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "[Classification of logical demonstrations: no heretical charge]",
+  "defense": "[Technical logical position]",
+  "exegesis": "These remarks pertain to Aristotelian logic—types of demonstration (direct, reductio, hypothetical), and the limits of logical proof. Pico is exploring the epistemological structure of knowledge and the risk of hidden circularity.",
+  "scholar_citations": [
+    {
+      "scholar": "Aristotle",
+      "work": "Posterior Analytics II.14-26 (on types of demonstration)",
+      "quote": "There are four modes of demonstration: direct proof, proof by division, indirect proof (reductio), and hypothetical proof.",
+      "verified": false,
+      "source_note": "[Classical logic]"
+    },
+    {
+      "scholar": "Averroes",
+      "work": "Commentary on Posterior Analytics",
+      "quote": "Demonstration by negation and proof by contradiction are more certain than affirmative demonstration in some cases.",
+      "verified": false,
+      "source_note": "[Averroist refinement of Aristotelian logic]"
+    },
+    {
+      "scholar": "Farmer",
+      "work": "Syncretism in the West",
+      "quote": "Pico's emphasis on logical precision reflects his effort to systematize diverse philosophical traditions into a coherent framework.",
+      "verified": false,
+      "source_note": "[Farmer on Pico's methodological syncretism]"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "logic",
+    "demonstration",
+    "epistemology",
+    "proof",
+    "methodology"
+  ],
+  "notes": "Technical logical position; important for Pico's understanding of demonstration and proof structure in metaphysics and theology.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666205Z",
+  "updated_date": "2026-09-26T00:33:42.666207Z"
+}

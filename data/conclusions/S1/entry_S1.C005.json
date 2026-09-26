@@ -1,0 +1,46 @@
+{
+  "conclusion_id": "S1.C005",
+  "section": "S1",
+  "order": 5,
+  "latin_incipit": "[T5 — Matter]",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "Matter as lowest principle; receptacle; principle of limitation and multiplicity",
+  "key_concepts": [
+    "Hyle",
+    "Matter",
+    "Receptacle",
+    "Limitation",
+    "Evil as privation"
+  ],
+  "plotinian_parallel": "Enneads 2.4 (On matter and evil), 5.5.11 (Matter as non-being)",
+  "secondary_philosophers": [
+    "Porphyry",
+    "Proclus"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Dillon",
+      "work": "The Middle Platonists",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "matter",
+    "hyle",
+    "evil",
+    "limitation"
+  ],
+  "status": "standardized",
+  "notes": "Pico's treatment of matter connects to questions of body, corporeality, and divine embodiment (Q1, Q4, Q6). Check relationship to creation doctrine.",
+  "created_from_cluster": false
+}

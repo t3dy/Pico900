@@ -1,0 +1,50 @@
+{
+  "conclusion_id": "S7.C015",
+  "section": "S7",
+  "section_name": "Secundum Hebraeos - Kabbalah & Jewish Philosophy",
+  "subsection": "Secundum secretam doctrinam sapientum Hebraeorum Cabalistarum",
+  "type": "historical",
+  "latin_incipit": "Nisi nomen Abraam < DINNIAN>, id est he addita, fuisset, Abraam non",
+  "latin_full": "Nisi nomen Abraam < DINNIAN>, id est he addita, fuisset, Abraam non",
+  "english_translation": "If Abraham's name had not been <DNNIN>, that is, with he added,\n\nAbraham would not have procreated.",
+  "english_full": "If Abraham's name had not been <DNNIN>, that is, with he added,\n\nAbraham would not have procreated.",
+  "translation_source": "Farmer 1998",
+  "charge": "[TO_SOURCE]",
+  "defense": "[TO_SOURCE]",
+  "scholar_citations": [
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    },
+    {
+      "scholar": "Brian P. Copenhaver",
+      "work": "Magic and the Dignity of Man (in: The Italian Renaissance in the Twentieth Century)",
+      "year": 2002,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    },
+    {
+      "scholar": "Gershom Scholem",
+      "work": "Major Trends in Jewish Mysticism",
+      "year": 1941,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    }
+  ],
+  "heretical_flag": false,
+  "is_condemned": false,
+  "tags": [
+    "Kabbalah",
+    "sefirot",
+    "mysticism",
+    "Hebrew",
+    "theurgy"
+  ],
+  "status": "standardized"
+}

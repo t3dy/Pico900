@@ -1,0 +1,69 @@
+{
+  "conclusion_id": "S1.C090",
+  "section": "S1",
+  "order": 90,
+  "latin_incipit": "",
+  "incipit_verified": false,
+  "english_translation": "",
+  "translation_source": null,
+  "translation_translator": null,
+  "philosophical_theme": "CLUSTER: Soul's return and ascent — Contemplation, henosis, mystical union, ecstasy, perfection",
+  "key_concepts": [
+    "Henosis",
+    "Mystical union",
+    "Contemplation",
+    "Ecstasy",
+    "Return",
+    "Apotheosis",
+    "Divinization"
+  ],
+  "plotinian_parallel": "Enneads 6.9 (On the Good and the One), 5.1 (The Three Hypostases and ascent), 1.6 (Beauty and contemplation)",
+  "secondary_philosophers": [
+    "Plotinus",
+    "Porphyry",
+    "Iamblichus",
+    "Pseudo-Dionysius (mystical theology)",
+    "Ficino"
+  ],
+  "charge": "",
+  "defense": "",
+  "scholar_citations": [
+    {
+      "scholar": "Copenhaver",
+      "work": "Pico on Trial, Ch. 5",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Michael J B Allen",
+      "work": "Neoplatonism and the Platonic Tradition",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    },
+    {
+      "scholar": "Wirszubski & Kristeller",
+      "work": "Pico's Encounter with Jewish Mysticism",
+      "page": null,
+      "quotation": "",
+      "verified": false,
+      "confidence_level": "UNVERIFIED"
+    }
+  ],
+  "heretical_flag": true,
+  "heretical_notes": "T81–T95 address the soul's ultimate ascent and union with the One. Q13 (condemned) explicitly addresses the soul's union with God in contemplation. Copenhaver analyzes Q13 as one of the thirteen condemned theses. CRITICAL FOR HERETICAL ESSAY: Pico's syncretic mysticism (henosis + Christian union + Kabbalistic devekuth) appears here. Mark any theses on mystical ecstasy, divinization, or the soul becoming divine as heretical candidates.",
+  "tags": [
+    "henosis",
+    "mystical_union",
+    "contemplation",
+    "ecstasy",
+    "return",
+    "apotheosis"
+  ],
+  "status": "standardized",
+  "notes": "T81–T95 constitute the climactic cluster: Pico's mystical theology. The Oration on the Dignity of Man culminates in the soul's ascent through triplex via (purgation, illumination, union). These conclusions likely articulate that ascent in technical Neoplatonic terms. Q13 (condemned) sits here. Pico synthesizes Plotinian henosis with Christian mysticism (via Pseudo-Dionysius) and Jewish Kabbalah (devekuth). Essential for understanding Pico's entire philosophical project as culminating in mystical anthropology. Copenhaver's Ch. 5 (*Pico on Trial*) analyzes Q13's relation to the broader condemned theses and the mystical context of the 900.",
+  "created_from_cluster": true
+}

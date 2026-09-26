@@ -1,0 +1,50 @@
+{
+  "conclusion_id": "S7.C036",
+  "section": "S7",
+  "section_name": "Secundum Hebraeos - Kabbalah & Jewish Philosophy",
+  "subsection": "Secundum secretam doctrinam sapientum Hebraeorum Cabalistarum",
+  "type": "historical",
+  "latin_incipit": "Peccatum Soddomae_fuit per truncationem ultimae plantae.",
+  "latin_full": "Peccatum Soddomae_fuit per truncationem ultimae plantae.",
+  "english_translation": "[TO_TRANSLATE]",
+  "english_full": "[TO_TRANSLATE]",
+  "translation_source": "TO_SOURCE",
+  "charge": "[TO_SOURCE]",
+  "defense": "[TO_SOURCE]",
+  "scholar_citations": [
+    {
+      "scholar": "Chaim Wirszubski",
+      "work": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "year": 1989,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    },
+    {
+      "scholar": "Brian P. Copenhaver",
+      "work": "Magic and the Dignity of Man (in: The Italian Renaissance in the Twentieth Century)",
+      "year": 2002,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    },
+    {
+      "scholar": "Gershom Scholem",
+      "work": "Major Trends in Jewish Mysticism",
+      "year": 1941,
+      "quotation": "",
+      "status": "[TO_SOURCE]",
+      "verified": false
+    }
+  ],
+  "heretical_flag": false,
+  "is_condemned": false,
+  "tags": [
+    "Kabbalah",
+    "sefirot",
+    "mysticism",
+    "Hebrew",
+    "theurgy"
+  ],
+  "status": "standardized"
+}

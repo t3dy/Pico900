@@ -1,0 +1,55 @@
+{
+  "conclusion_id": "S3.C007",
+  "section": "S3",
+  "conclusion_num": "I.7.7",
+  "latin_incipit": "Deus movet primum coelum non solum ut causa finalis, sed etiam ut verus agens et proprius motor.",
+  "english_translation": "God moves the first heaven not only as final cause, but also as true efficient and proper mover.",
+  "translation_source": "2025-07-04_Pico 900 Conclusions Exegesis.md",
+  "charge": "Pico (citing Averroes) rejects Aristotle's account of the Unmoved Mover as merely a final cause, asserting God's role as efficient cause.",
+  "defense": "This upholds divine agency and active causation, more in keeping with Neoplatonic and Christian theology.",
+  "exegesis": "Against Aristotle's 'unmoved mover' as merely a final cause, Pico (citing Averroes) affirms God is an efficient cause—a real mover of the cosmos. This leans toward a more personalistic theism.",
+  "scholar_citations": [
+    {
+      "scholar": "Aristotle",
+      "work": "Metaphysics XII (Lambda)",
+      "quote": "The Unmoved Mover is a final cause, moving all things by being an object of desire and thought.",
+      "verified": false,
+      "source_note": "[Classical Aristotelian position]"
+    },
+    {
+      "scholar": "Averroes",
+      "work": "Commentary on Metaphysics XII",
+      "quote": "God must be understood as both final and efficient cause of all motion, not merely as an object of desire.",
+      "verified": false,
+      "source_note": "[Averroes's revision of Aristotle toward Neoplatonism]"
+    },
+    {
+      "scholar": "Aquinas",
+      "work": "Summa Theologiae, Prima Pars, Q. 2-3 (proofs of God's existence and causation)",
+      "quote": "God is the ultimate efficient cause of all being and motion in the cosmos.",
+      "verified": false,
+      "source_note": "[Christian synthesis of efficient and final causation]"
+    },
+    {
+      "scholar": "Saif",
+      "work": "The Arabic Influences on Early Modern Occult Philosophy",
+      "quote": "This shift to efficient causation in God allowed Renaissance magicians to conceptualize celestial influence as active transmission of form and virtue.",
+      "verified": false,
+      "source_note": "[Saif on God as efficient cause in magical cosmology]"
+    }
+  ],
+  "heretical_flag": false,
+  "heretical_notes": null,
+  "tags": [
+    "causality",
+    "cosmology",
+    "God",
+    "motion",
+    "efficient cause",
+    "theology"
+  ],
+  "notes": "Critical for Pico's theology of divine action and his justification of astral magic as part of God's active governance of creation.",
+  "status": "standardized",
+  "created_date": "2026-09-26T00:33:42.666177Z",
+  "updated_date": "2026-09-26T00:33:42.666179Z"
+}
