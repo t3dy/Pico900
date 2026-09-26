@@ -1,0 +1,37 @@
+{
+ "thesis_id": "5>32",
+ "tier": "B",
+ "latin": "Per aliam uitam in Epinomide intelligere debemus connexionem partis cum suo toto, et credo idem esse quod apud Cabalistas dicitur saeculum uenturum.",
+ "latin_source": "farmer1998:22752",
+ "latin_note": "The 1486 print has 'soeculum' for 'saeculum' (farmer1998:22780).",
+ "translation": "By 'the other life' in the Epinomis we should understand the connection of a part with its whole, and I believe this is the same as what is called, among the Kabbalists, 'the world to come.'",
+ "translation_note": "'saeculum uenturum' is rendered '[the] world to come'; Farmer identifies the passage correlated as Epinomis 973c (farmer1998:22788).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22752",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Epinomis 973c",
+   "locator": "farmer1998:22788",
+   "pico_relation": "the passage Pico correlates with the Kabbalistic 'world to come'"
+  },
+  {
+   "text": "the Bahir, in Flavius Mithridates' Latin translation(s) made for Pico",
+   "locator": "farmer1998:22788",
+   "pico_relation": "Farmer reports Wirszubski's argument that this is Pico's source for the concept of the 'world to come'"
+  }
+ ],
+ "doctrine": "The thesis correlates the 'other life' mentioned in Plato's Epinomis with the connection of a part to its whole, and states Pico's belief that this is the same as what the Kabbalists call 'the world to come' (farmer1998:22752). Farmer identifies the correlated passage as Epinomis 973c (farmer1998:22788).",
+ "reception": null,
+ "historiography": "Farmer reports that Wirszubski argues Pico took the concept of the 'world to come' from Flavius Mithridates' translation, made for Pico, of the Bahir, or possibly from two other Mithridates translations that quote the Bahir, while noting that the concept was also discussed in other texts known to Pico (farmer1998:22788). The excerpt of Wirszubski's own book available in the material consulted reproduces the Latin of the thesis under the heading 'Conclusio xxxii' without further argument in the passage read (wirszubski1989:9712). An unsigned German-language study of Pico's epistemology and Christian Kabbalah connects the thesis to Pico's Kabbalistic conclusion 28>27 and to the sefirah Yesod as the 'world to come,' citing Wirszubski's discussion in turn (kabbalah_paradigma:1817).",
+ "connections": [
+  "28>27"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The specific pages of Wirszubski's argument (farmer1998:22788 gives '1989: 190-91') have not been independently opened beyond the single excerpted line consulted (wirszubski1989:9712)."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

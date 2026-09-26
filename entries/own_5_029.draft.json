@@ -1,0 +1,23 @@
+{
+ "thesis_id": "5>29",
+ "tier": "B",
+ "latin": "Non est credendum in doctrina Platonis animam quicquam intelligere per inspectionem ad ideas, nisi cum peruenit ad illum statum qui est supremus gradus contemplatiuae perfectionis.",
+ "latin_source": "farmer1998:22660",
+ "translation": "It is not to be believed, on Plato's doctrine, that the soul understands anything by looking to the Ideas, except when it has arrived at that state which is the supreme grade of contemplative perfection.",
+ "translation_note": "An unidentified set of notes on self-knowledge and illumination in Pico's sources quotes the Latin together with an appended corollary denying that everyday cognition uses the light of the Ideas; that corollary's Latin is not present in the inventory record used for this entry's latin field (selfknowledge_notes:1173).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22660",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [],
+ "doctrine": "The thesis denies that, on Plato's doctrine, the soul understands anything by looking to the Ideas except when it has reached the supreme grade of contemplative perfection (farmer1998:22660). Farmer records no separate explanatory note on this thesis in the material consulted.",
+ "reception": null,
+ "historiography": "An unidentified set of notes on self-knowledge and illumination in Pico's sources quotes the Latin of the thesis together with an appended corollary, citing Farmer's edition at page 446 (selfknowledge_notes:1173). An unsigned German-language study of Pico's epistemology and Christian Kabbalah lists the thesis among a set of citations from the Conclusiones without independent discussion of its content (kabbalah_paradigma:1700).",
+ "connections": [],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether the corollary quoted by the notes on self-knowledge and illumination (selfknowledge_notes:1173) belongs to Farmer's numbered thesis 5>29 or stands as a separate item is not established by the sources consulted, since its Latin is absent from the inventory record for 5>29."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

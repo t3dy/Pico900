@@ -1,0 +1,42 @@
+{
+ "thesis_id": "5>21",
+ "tier": "B",
+ "latin": "Cum dicit Plato Amorem natum ex congressu Peniae et Pori in ortis louis, in natalibus Veneris, diis discumbentibus, nihil aliud intelligit quam in angeli mente tunc primum amorem, id est desiderium pulchritudinis, esse natum cum in eo idearum splendor, imperfectius tamen, refulxit.",
+ "latin_source": "farmer1998:22547",
+ "latin_note": "The 1486 print has 'discmnbentibus' for 'discumbentibus' (farmer1998:22572).",
+ "translation": "When Plato says that Love was born from the union of Penia and Poros in the gardens of Jupiter, on the birthday of Venus, while the gods reclined at table, he means nothing other than that Love, that is, the desire for beauty, was then first born in the mind of the angel, when the splendor of the Ideas, however imperfectly, first shone forth in it.",
+ "translation_note": "'refulxit' is Farmer's transcription of 'refulsit'; Farmer's note identifies the passage allegorized as Symposium 203b-c and reports that Pico there attacks Ficino's reading of the same myth (farmer1998:22580).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22547",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Symposium 203b-c (the myth of Penia and Poros)",
+   "locator": "farmer1998:22580",
+   "pico_relation": "the passage Farmer identifies as the one Pico allegorizes"
+  },
+  {
+   "text": "Pico's own Commento sopra una canzona de amore (ed. Garin, Scritti vari, 499, 501ff.)",
+   "locator": "farmer1998:22580",
+   "pico_relation": "Farmer notes Pico there attacks Ficino's reading of the same material"
+  },
+  {
+   "text": "Plotinus, Enneads 3.5",
+   "locator": "farmer1998:22580",
+   "pico_relation": "Farmer compares Plotinus's allegorical reading of the same myth"
+  }
+ ],
+ "doctrine": "The thesis allegorizes Plato's account of Love born from the union of Penia and Poros in the gardens of Jupiter at Venus's birthday feast: Pico reads it as meaning that Love, the desire for beauty, is first born in the mind of the angel when the splendor of the Ideas, however imperfectly, first shines in it (farmer1998:22547). Farmer identifies the allegorized passage as Symposium 203b-c, reports that Pico attacks Ficino's reading of the same material in his own Commento (ed. Garin, Scritti vari, 499, 501ff.), and compares Plotinus's allegorical treatment of the myth in the Enneads (farmer1998:22580).",
+ "reception": null,
+ "historiography": "Howlett quotes the Latin of the thesis in a note connecting it to Menahem Recanati's commentary on Genesis, which she states Pico used, citing Ogren for that connection (howlett2021:7708).",
+ "connections": [
+  "5>22"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "The exact page in Garin's edition of the Commento where Pico criticizes Ficino's reading is given only as a page range by Farmer and has not been independently opened (farmer1998:22580)."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

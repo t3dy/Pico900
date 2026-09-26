@@ -1,0 +1,30 @@
+{
+ "thesis_id": "5>10",
+ "tier": "B",
+ "latin": "Ex precedenti conclusione habetur quae sit uirga Mercurii soporifera.",
+ "latin_source": "farmer1998:22341",
+ "translation": "From the preceding conclusion it is established what the sleep-inducing wand of Mercury is.",
+ "translation_note": "'habetur' is here rendered as the impersonal 'it is established' (habeo, 'to have, to hold'); the thesis is elliptical, presupposing the content of the preceding conclusion 5>9 (farmer1998:22335).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22341",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [],
+ "doctrine": "The thesis is elliptical: it states only that the preceding conclusion yields the identity of Mercury's 'sleep-bringing wand,' without independently restating what that identity is (farmer1998:22341). Farmer groups it with 5>9, 5>11 and 5>12 as a set correlating the soul's several lives and operations with the seven planets, in which the sun and moon stand for the intellect and its lower reflection in reason, and in which, he states, no predictive or horoscopal astrology is at issue (farmer1998:22372).",
+ "context": "An unsigned study of Pico, Louvain, and the crisis of Renaissance astrology (author unconfirmed in the material consulted) places this thesis within the same block, 5>9-12, that Farmer connects to Pico's conclusion on the celestial intellect at 22.4 (txt_medieval_and_early_modern_science_:1446).",
+ "reception": null,
+ "historiography": "Busi and Ebgi print the Latin and an Italian translation of the thesis in their edition and commentary, without independent analysis of its content (busi2014:12983, busi2014:24608).",
+ "connections": [
+  "5>9",
+  "5>11",
+  "5>12",
+  "22.4"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Whether the 'sleep-bringing wand' names the mythological caduceus of Mercury, or is otherwise glossed, is not established by the sources consulted.",
+  "What in the preceding conclusion 5>9 (farmer1998:22335) is supposed to yield the wand's identity is not spelled out in the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

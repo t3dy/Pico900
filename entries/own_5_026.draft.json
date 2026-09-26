@@ -1,0 +1,36 @@
+{
+ "thesis_id": "5>26",
+ "tier": "B",
+ "latin": "Pulchritudo est in deo per causam, in totali intellectu uere essentialiter totaliter, in particulari intellectu uere partialiter essentialiter, in anima rationali uere participaliter, in uisibilibus coeli accidentibus imaginarie essentialiter totaliter, in subcoelestibus qualitatibus uisibilibus imaginarie partialiter essentialiter, in quan/titatibus imaginarie participaliter.",
+ "latin_source": "farmer1998:22644",
+ "translation": "Beauty is in God causally; in the total intellect, truly, essentially, and totally; in a particular intellect, truly, partially, and essentially; in the rational soul, truly and participially; in the visible accidents of the heavens, imaginally, essentially, and totally; in the visible qualities beneath the heavens, imaginally, partially, and essentially; and in quantities, imaginally and participially.",
+ "translation_note": "The adverbial scheme tracks the mode in which one perfection, here beauty, is present at each level of reality, from its causal presence in God to its participial presence in quantities; Farmer's note connects the scheme to Diotima's speech in the Symposium (farmer1998:22680).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22644",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Symposium 210a ff. (Diotima's speech)",
+   "locator": "farmer1998:22680",
+   "pico_relation": "Farmer's note: the thesis systematizes material from this passage"
+  }
+ ],
+ "doctrine": "The thesis distributes beauty across the levels of reality by cause, essence, and participation, combined with a further pair of adverbs, total/partial and true/imaginal: beauty is in God causally; wholly and essentially in the total intellect; partially and essentially in a particular intellect; participially in the rational soul; and, in imaginal mode, wholly and essentially in the visible accidents of the heavens, partially and essentially in sublunar visible qualities, and participially in quantities (farmer1998:22644). Farmer's note states that the thesis systematizes material from Diotima's speech in the Symposium, 210a and following (farmer1998:22680).",
+ "reception": null,
+ "historiography": "An unsigned German-language study of Pico's epistemology and Christian Kabbalah (author unconfirmed in the material consulted) lists the thesis among a set of citations from the Conclusiones without independent discussion of its content (kabbalah_paradigma:1771).",
+ "connections": [
+  "1.6",
+  "24.38",
+  "24.39",
+  "24.40",
+  "24.41",
+  "24.42"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No scholarly analysis of the thesis's hierarchy of modes beyond Farmer's one-line source note is established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

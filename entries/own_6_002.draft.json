@@ -1,0 +1,34 @@
+{
+ "thesis_id": "6>2",
+ "tier": "B",
+ "latin": "Cum dicit Abucaten: Omnis anima nobilis tres habet operationes, diuinam, intellectualem, et animalem, ita est intelligendum, quod primam habeat per imaginem proportionalitatis, secundam per formalitatem participationis, tertiam per proprietatem essentialitatis.",
+ "latin_source": "farmer1998:23437",
+ "latin_note": "The 1486 print punctuates the opening differently: 'operationes.diuinam:' (farmer1998:23469).",
+ "translation": "When Abucaten says: 'Every noble soul has three operations, divine, intellectual, and animal [psychic],' it is to be understood in this way: that it has the first through the image of proportionality, the second through the formality of participation, and the third through the property of essentiality.",
+ "translation_note": "'Abucaten' (elsewhere 'Abucaten Avenan') is Pico's name for the purported author of the Liber de causis; 'animalem' is glossed '[psychic]' since the Latin here does not mean 'pertaining to animals' but the soul's own (Greek psychikos) operation. Farmer's note situates the thesis among Pico's attempts to reconcile the Book of Causes with his own views (farmer1998:23475).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:23437",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of the Book of Causes (section 6>, farmer1998:23348).",
+ "sources": [
+  {
+   "text": "Liber de causis (the 'Book of Causes'), attributed by Pico to 'Abucaten Avenan'",
+   "locator": "farmer1998:23475",
+   "pico_relation": "the text of the thesis, which Pico reconciles with his own views per Farmer's note"
+  }
+ ],
+ "doctrine": "The thesis glosses a saying attributed to 'Abucaten,' the purported author of the Book of Causes: every noble soul has three operations, divine, intellectual, and animal (psychic), and it has the first through the image of proportionality, the second through the formality of participation, and the third through the property of essentiality (farmer1998:23437). Farmer's note states that the thesis, like the following 6>3, is meant to reconcile the Book of Causes with Pico's own views, and compares thesis 3>1 (farmer1998:23475).",
+ "reception": null,
+ "historiography": "An unsigned German-language study of Pico's epistemology and Christian Kabbalah lists the Latin of the thesis alongside a citation of thesis 8>7, without independent discussion of its content (kabbalah_paradigma:1331).",
+ "connections": [
+  "3>1",
+  "3>25",
+  "6>3"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No scholarly analysis of the tripartite scheme (proportionality/participation/essentiality) beyond Farmer's cross-reference to 3>1 is established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

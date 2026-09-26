@@ -1,0 +1,38 @@
+{
+ "thesis_id": "5>49",
+ "tier": "B",
+ "latin": "Ex eo nomine quo dei nominant amorem, patet diligenter aduertenti quod in actu amoris non est foelicitas.",
+ "latin_source": "farmer1998:22994",
+ "translation": "From the name by which the gods name love, it is clear to one who attends carefully that happiness does not consist in the act of love.",
+ "translation_note": "'foelicitas' is Farmer's transcription of 'felicitas' (happiness, beatitude); Busi and Ebgi's apparatus identifies the two sources behind 'the name by which the gods call love' (busi2014:6542).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22994",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Phaedrus 252b",
+   "locator": "busi2014:6542",
+   "pico_relation": "identified in Busi and Ebgi's apparatus as a source for 'the name by which the gods call love'"
+  },
+  {
+   "text": "Pseudo-Dionysius the Areopagite, De divinis nominibus I (589a)",
+   "locator": "busi2014:6542",
+   "pico_relation": "identified in Busi and Ebgi's apparatus as a second source for the same motif"
+  }
+ ],
+ "doctrine": "The thesis holds that from the name by which the gods call love, it is clear to a careful observer that happiness does not consist in the act of love (farmer1998:22994). Farmer's note places it in the series he begins discussing at thesis 2.12, together with 3>48-49, and starts to gloss 'the name which the gods call love' as a reference to the Phaedrus, though the note is truncated at the page citation in the material consulted (farmer1998:23063).",
+ "reception": null,
+ "historiography": "Busi and Ebgi's apparatus identifies the two sources for 'the name by which the gods call love' as Plato, Phaedrus 252b, and Pseudo-Dionysius the Areopagite, De divinis nominibus I (589a) (busi2014:6542), and lists the thesis in their index of citations (busi2014:26620).",
+ "connections": [
+  "3>43",
+  "3>48",
+  "3>49"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No further critical discussion of the thesis's argument, beyond identification of its two sources, is established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

@@ -1,0 +1,39 @@
+{
+ "thesis_id": "5>15",
+ "tier": "B",
+ "latin": "Per extremorum et medii rationem cognoscere possumus conuenienter uniuersi gradus sic in quinque posse diuidi: In super ens, uere ens, non uere ens, non uere non ens, uere non ens.",
+ "latin_source": "farmer1998:22437",
+ "latin_note": "The 1486 print abbreviates the list after the first two terms: 'diuidi.In super ens.uere ens.non uere ens. etc.' (farmer1998:22465).",
+ "translation": "By the reasoning of the extremes and the middle we can fittingly recognize that the grades of the universe can be divided in this way into five: into that which is above being, that which truly is, that which is not truly being, that which is not truly not-being, and that which truly is not.",
+ "translation_note": "The five coinages render Pico's 'super ens' / 'uere ens' / 'non uere ens' / 'non uere non ens' / 'uere non ens'; Howlett cites the Latin of the thesis in a sequence of notes on Pico's De ente et uno (howlett2021:7627).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22437",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Pico's own De ente et uno",
+   "locator": "howlett2021:7627",
+   "pico_relation": "Howlett cites the thesis alongside this treatise's account of being and unity"
+  }
+ ],
+ "doctrine": "The thesis proposes that 'the reasoning of the extremes and the middle' allows the grades of the universe to be divided into five: that which is above being, that which truly is, that which is not truly being, that which is not truly not-being, and that which truly is not (farmer1998:22437). Farmer glosses the method of the extremes and the middle by reference to theses 3>52 and 3>70 and his note to 3>53-54, and states that the five grades run from God, 'that-above-being,' to prime matter, 'truly-not-being' (farmer1998:22475).",
+ "reception": null,
+ "historiography": "Howlett quotes the Latin of the thesis in a sequence of notes connecting Pico's Conclusiones to his treatise On Being and the One, situating the five-grade scheme within that treatise's metaphysics (howlett2021:7627).",
+ "connections": [
+  "3>52",
+  "3>53",
+  "3>54",
+  "3>70",
+  "5>16",
+  "5>17",
+  "8>1",
+  "24.1"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Farmer's own English rendering of the thesis is not reproduced here; the sense given follows the Latin and Farmer's note only (farmer1998:22437, farmer1998:22475)."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

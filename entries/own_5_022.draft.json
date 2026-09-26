@@ -1,0 +1,42 @@
+{
+ "thesis_id": "5>22",
+ "tier": "B",
+ "latin": "Amor de quo in Symposio loquitur Plato, in deo nullo modo esse potest.",
+ "latin_source": "farmer1998:22553",
+ "translation": "In no way can the love of which Plato speaks in the Symposium exist in God.",
+ "translation_note": "Farmer's note reads the thesis as trading on a distinction between acquisitive and non-acquisitive love (eros and agape) (farmer1998:22584).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22553",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Symposium (the distinction of acquisitive and non-acquisitive love)",
+   "locator": "farmer1998:22584",
+   "pico_relation": "the target of the thesis, per Farmer's note"
+  },
+  {
+   "text": "Pico's own Commento (ed. Garin, Scritti vari, 488)",
+   "locator": "farmer1998:22584",
+   "pico_relation": "Farmer cites Pico's parallel argument there against Ficino, that God can desire nothing beyond himself"
+  },
+  {
+   "text": "Plotinus, Enneads 3.5",
+   "locator": "farmer1998:22584",
+   "pico_relation": "Farmer's further comparison"
+  }
+ ],
+ "doctrine": "The thesis denies that the love Plato discusses in the Symposium can exist in God in any way (farmer1998:22553). Farmer reads it as trading on a distinction between acquisitive and non-acquisitive love, eros and agape, and reports that Pico argues the same point against Ficino in his own Commento, that God can desire nothing beyond himself, comparing again Plotinus's Enneads 3.5 (farmer1998:22584).",
+ "reception": null,
+ "historiography": "Busi and Ebgi print the Latin and an Italian translation of the thesis and connect it to Pico's reading of the Symposium myth elsewhere in his commentary on the Commento (busi2014:24377, busi2014:6596). Howlett quotes the Latin together with a passage from the 1986 English translation of Pico's own Commentary, in which Pico states that love is the cause of the production of everything that proceeds from God (howlett2021:7679).",
+ "connections": [
+  "5>20",
+  "5>21"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "Not established by the sources consulted: any discussion of this thesis beyond its connection to the parallel argument in Pico's Commento."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

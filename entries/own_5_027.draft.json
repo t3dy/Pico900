@@ -1,0 +1,35 @@
+{
+ "thesis_id": "5>27",
+ "tier": "B",
+ "latin": "Cum dicit Plato Omne quod fit a causa fieri, referendum est per se ad per se, et per accidens ad per accidens.",
+ "latin_source": "farmer1998:22651",
+ "translation": "When Plato says that everything that comes to be does so from a cause, this must be referred, per se to per se, and per accidens to per accidens.",
+ "translation_note": "Farmer reads this as a 'modal' interpretation of Timaeus 28a (farmer1998:22685).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22651",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [
+  {
+   "text": "Plato, Timaeus 28a",
+   "locator": "farmer1998:22685",
+   "pico_relation": "the passage Farmer identifies as Pico's 'modal' interpretive target"
+  }
+ ],
+ "doctrine": "The thesis states that, on Plato's view that everything that comes to be does so from a cause, the causal relation must be referred per se to per se and per accidens to per accidens (farmer1998:22651). Farmer reads it as a 'modal' interpretation of Timaeus 28a, in which 'what exists per se' names Pico's intellectual nature and 'what exists per accidens' names the lower levels of reality informed by soul and by reason (farmer1998:22685).",
+ "reception": null,
+ "historiography": "The two scholar-mention records retrieved for this thesis are keyword matches on the phrase 'per se et per accidens' in discussions of unrelated material: a Savonarolan controversy over the causation of original sin (edelheit2014:2761) and Antonio Cittadini's construal of being in Aristotle and Plato (edelheit2022:22889). Neither passage is established by the sources consulted as a discussion of this thesis, and no scholarly treatment of thesis 5>27 itself has been found in the material consulted.",
+ "connections": [
+  "24.38",
+  "24.39",
+  "24.40",
+  "24.41",
+  "24.42"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No scholarly discussion of thesis 5>27 itself, as opposed to the unrelated passages retrieved by keyword match, is established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

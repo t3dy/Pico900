@@ -1,0 +1,30 @@
+{
+ "thesis_id": "5>12",
+ "tier": "B",
+ "latin": "Predictis uitis cooperantur Sol et Luna ut causae uniuersales_et per appropriationem: Luna_Mercurio_et Saturno, Sol Veneri et Marti, simul uterque Ioui.",
+ "latin_source": "farmer1998:22349",
+ "latin_note": "The 1486 print punctuates the passage differently: 'appropnationem.Luna:Mercuno:&Saturno.Sol:Venen & Marti.Simul uterque Ioui' (farmer1998:22365).",
+ "translation": "The Sun and Moon cooperate with the aforesaid lives as universal causes, and by appropriation: the Moon with Mercury and Saturn, the Sun with Venus and Mars, and both together with Jupiter.",
+ "translation_note": "'per appropriationem' ('by appropriation') is a scholastic term for attributing a shared effect to one cause by special fittingness; 'praedictis uitis' ('the aforesaid lives') refers back to the planetary 'lives' assigned to the soul in the immediately preceding theses (farmer1998:22335).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:22349",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, in the doctrine of Plato (section 5>, farmer1998:22132).",
+ "sources": [],
+ "doctrine": "The thesis extends 5>9-11 by making the sun and moon 'universal causes' cooperating with the planetary 'lives' already assigned, and pairs each 'by appropriation' with two of the other planets: the moon with Mercury and Saturn, the sun with Venus and Mars, and both together with Jupiter (farmer1998:22349). Farmer reads the sun and moon here as figures for the intellect and its lower reflection in reason, within a set of theses, 5>9-12, that involves no predictive or horoscopal astrology (farmer1998:22372).",
+ "context": "The unsigned study of Pico, Louvain, and the crisis of Renaissance astrology treats this thesis as part of the same block, 5>9-12, that Farmer connects to conclusion 22.4 (txt_medieval_and_early_modern_science_:1446).",
+ "reception": null,
+ "historiography": "Busi and Ebgi print the Latin and an Italian translation of the thesis, and list it in their index of citations, without independent analysis of its astrological scheme (busi2014:12992, busi2014:24614, busi2014:26619).",
+ "connections": [
+  "5>9",
+  "5>10",
+  "5>11",
+  "22.4"
+ ],
+ "condemned_flag": false,
+ "not_established": [
+  "No scholarly discussion of the specific Moon/Sun-planet pairings beyond their restatement is established by the sources consulted."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}

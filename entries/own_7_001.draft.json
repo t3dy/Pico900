@@ -1,0 +1,43 @@
+{
+ "thesis_id": "7>1",
+ "tier": "B",
+ "latin": "Mathematicae non sunt uerae scientiae.",
+ "latin_source": "farmer1998:23613",
+ "translation": "The mathematical sciences are not true sciences.",
+ "translation_note": "A short, unqualified thesis; Farmer groups it with 7>2-5 as a set (farmer1998:23698).",
+ "translator": "original translation, drafted 2026-09-26 by WRITER-full-batch15, from Latin at farmer1998:23613",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion, among the mathematical conclusions (section 7>, farmer1998:23606).",
+ "sources": [
+  {
+   "text": "the fourteenth-century calculatores (Bradwardine, Swineshead, Buridan, Oresme)",
+   "locator": "farmer1998:23698",
+   "pico_relation": "Farmer identifies these as the 'moderns' targeted across theses 7>1-5"
+  }
+ ],
+ "doctrine": "The thesis states, without qualification, that the mathematical sciences are not true sciences (farmer1998:23613). Farmer groups it with 7>2-5 as a set, and identifies the 'moderns' targeted across the set as the fourteenth-century calculatores, Bradwardine, Swineshead, Buridan, and Oresme, who applied mathematics to problems that Aristotelian physics had treated qualitatively (farmer1998:23698).",
+ "context": "Farmer states that the traditional claim that Renaissance Platonism helped promote the mathematical physics of the later Scientific Revolution finds little support in these theses, especially in 7>5 (farmer1998:23698).",
+ "reception": null,
+ "historiography": "Cassirer cites this thesis together with the following two mathematical conclusions as denying that mathematics is a true science, on the ground that 'a supersensible knowledge, which is alone able to disclose the supersensible nature' of things is distinct from mathematical knowledge (cassirer1942:1133).",
+ "connections": [
+  "7>2",
+  "7>3",
+  "7>4",
+  "7>5"
+ ],
+ "condemned_flag": false,
+ "quotations": [
+  {
+   "text": "a supersensible knowledge, which is alone able to disclose the supersensible nature",
+   "work": "cassirer1942",
+   "line": 1133,
+   "verbatim": true
+  }
+ ],
+ "not_established": [
+  "Farmer's fuller argument for why these theses give little support to the Platonism-promoted-mathematical-physics thesis, beyond the one-line summary consulted, is not established here (farmer1998:23698)."
+ ],
+ "writer": "WRITER-full-batch15 (agent), 2026-09-26",
+ "verifier": null,
+ "verified_date": null
+}
