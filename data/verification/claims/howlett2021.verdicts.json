@@ -1,7 +1,7 @@
 {
  "packet": "howlett2021",
  "file": "data\\claims\\angelology\\howlett2021.claims.json",
- "verified_at": "2026-09-26T05:14:07+00:00",
+ "verified_at": "2026-09-27T18:05:50+00:00",
  "claims": [
   {
    "id": "howlett2021:001",
@@ -76,20 +76,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Canzone' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:006",
@@ -104,14 +91,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:007",
@@ -126,26 +106,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Symposium' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:008",
@@ -160,14 +121,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:009",
@@ -386,16 +340,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Platonism' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -464,14 +412,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Academy' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:027",
@@ -606,7 +547,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:036",
@@ -621,7 +569,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:037",
@@ -651,7 +606,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:039",
@@ -683,16 +645,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -724,14 +680,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:043",
@@ -748,16 +697,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides-On' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Being' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -812,27 +755,14 @@
    "quotes": [
     {
      "verdict": "verbatim_modulo_marks",
-     "line_start": 3281,
+     "line_start": 3277,
      "line_end": 3286,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:048",
@@ -1004,14 +934,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Platonism-Aristotelianism' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:059",
@@ -1071,14 +994,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Conclusions' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:063",
@@ -1093,32 +1009,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Barbaro' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Plato' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:064",
@@ -1215,20 +1106,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Dougherty' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Dougherty' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:070",
@@ -1310,14 +1188,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Allen' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:075",
@@ -1392,14 +1263,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Blind' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:080",
@@ -1461,26 +1325,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Maimonidean' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kabbalism' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Maimonides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:084",
@@ -1510,14 +1355,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Hokmah-Active' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:086",
@@ -1592,20 +1430,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Pseudo-Dionysius' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'West' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:091",
@@ -1624,19 +1449,19 @@
      "line_end": 6060,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5279,
+     "line_end": 5280,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Dionysius' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:092",
@@ -1703,14 +1528,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Tree' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:096",
@@ -1784,20 +1602,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Nahmanides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Nahmanides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:100",
@@ -1924,7 +1729,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:108",
@@ -1932,27 +1744,14 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 6337,
+     "line_start": 6336,
      "line_end": 6339,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:109",
@@ -1974,7 +1773,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:110",
@@ -1989,14 +1795,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:111",
@@ -2018,14 +1817,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:112",
@@ -2099,7 +1891,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:116",
@@ -2121,7 +1920,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:117",
@@ -2183,20 +1989,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ein-Sof' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Keter' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:121",
@@ -2218,38 +2011,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "hedge_ungrounded",
-     "severity": "warn",
-     "where": "hedge",
-     "detail": "a hedged/speculative claim needs `hedge_words` that occur in a quote"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ein-Sof' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Keter' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ein-Sof' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Keter' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:122",
@@ -2309,7 +2071,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:126",
@@ -2406,14 +2175,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Sophist' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:132",
@@ -2475,6 +2237,13 @@
      "verdict": "verbatim",
      "line_start": 6668,
      "line_end": 6672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7631,
+     "line_end": 7632,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
@@ -2557,20 +2326,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Keter' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Keter' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:141",
@@ -2682,14 +2438,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:148",
@@ -2771,14 +2520,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Conclusion' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:153",
@@ -2927,14 +2669,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Commentary' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:162",
@@ -2997,14 +2732,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Idel' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:165",
@@ -3034,7 +2762,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "howlett2021:167",
@@ -3176,14 +2911,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino-Pico' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "howlett2021:176",
@@ -3244,15 +2972,911 @@
    ],
    "warrants": [],
    "issues": []
+  },
+  {
+   "id": "howlett2021:180",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8173,
+     "line_end": 8174,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8177,
+     "line_end": 8180,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:181",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8197,
+     "line_end": 8199,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8206,
+     "line_end": 8209,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:182",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8216,
+     "line_end": 8222,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8225,
+     "line_end": 8226,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:183",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8262,
+     "line_end": 8264,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8265,
+     "line_end": 8268,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:184",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8312,
+     "line_end": 8314,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8317,
+     "line_end": 8320,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:185",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8334,
+     "line_end": 8341,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:186",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8344,
+     "line_end": 8347,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:187",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8372,
+     "line_end": 8376,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:188",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8382,
+     "line_end": 8387,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:189",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8392,
+     "line_end": 8395,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:190",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8435,
+     "line_end": 8436,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:191",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8462,
+     "line_end": 8464,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:192",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8514,
+     "line_end": 8519,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:193",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8524,
+     "line_end": 8525,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8552,
+     "line_end": 8555,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8557,
+     "line_end": 8558,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:194",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8570,
+     "line_end": 8574,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:195",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8621,
+     "line_end": 8627,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:196",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8642,
+     "line_end": 8644,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:197",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8681,
+     "line_end": 8686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:198",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8708,
+     "line_end": 8711,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8713,
+     "line_end": 8716,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:199",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8723,
+     "line_end": 8725,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8731,
+     "line_end": 8734,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:200",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8743,
+     "line_end": 8745,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:201",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8746,
+     "line_end": 8749,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8756,
+     "line_end": 8759,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:202",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8767,
+     "line_end": 8772,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:203",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8790,
+     "line_end": 8794,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:204",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8829,
+     "line_end": 8833,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8837,
+     "line_end": 8839,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:205",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8858,
+     "line_end": 8862,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8864,
+     "line_end": 8867,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:206",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8871,
+     "line_end": 8875,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:207",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8876,
+     "line_end": 8877,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8885,
+     "line_end": 8889,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:208",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8891,
+     "line_end": 8894,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8905,
+     "line_end": 8908,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:209",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8914,
+     "line_end": 8917,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8919,
+     "line_end": 8923,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:210",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8924,
+     "line_end": 8929,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:211",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 8937,
+     "line_end": 8939,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8946,
+     "line_end": 8949,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:212",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9609,
+     "line_end": 9612,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:213",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9677,
+     "line_end": 9680,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:214",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9684,
+     "line_end": 9686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:215",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9700,
+     "line_end": 9701,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9705,
+     "line_end": 9709,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:216",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9715,
+     "line_end": 9717,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9721,
+     "line_end": 9724,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:217",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 405,
+     "line_end": 409,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:218",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 413,
+     "line_end": 417,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:219",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 546,
+     "line_end": 548,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 552,
+     "line_end": 556,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:220",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9431,
+     "line_end": 9432,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:221",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9434,
+     "line_end": 9437,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9439,
+     "line_end": 9440,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:222",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9417,
+     "line_end": 9420,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9421,
+     "line_end": 9423,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:223",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6257,
+     "line_end": 6261,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:224",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5709,
+     "line_end": 5711,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5713,
+     "line_end": 5714,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:225",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5906,
+     "line_end": 5908,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:226",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5730,
+     "line_end": 5733,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:227",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9064,
+     "line_end": 9067,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "howlett2021:228",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1816,
+     "line_end": 1817,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1823,
+     "line_end": 1824,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
   }
  ],
  "summary": {
-  "claims": 179,
-  "verified": 179,
+  "claims": 228,
+  "verified": 228,
   "needs_fix": 0,
-  "quotes": 204,
-  "quotes_verbatim": 204,
-  "warnings": 56,
+  "quotes": 278,
+  "quotes_verbatim": 278,
+  "warnings": 12,
   "verified_rate": 1.0
  }
 }

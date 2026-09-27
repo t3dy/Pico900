@@ -23,6 +23,7 @@ second agent samples that (docs/CLAIMS_MODEL.md s6).
 import argparse, glob, io, json, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpuslib as C
+import claims_verify as V
 
 ROOT = C.ROOT
 REF = re.compile(r"\[\[([^\]]+)\]\]")
@@ -80,7 +81,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("file")
     ap.add_argument("--render")
+    ap.add_argument("--allow-unsampled", action="store_true", help="draft mode: do not require a semantic `supported` verdict on cited claims")
     a = ap.parse_args()
+    sem_cache, unsampled = {}, set()
     with io.open(a.file, encoding="utf-8") as fh:
         text = fh.read()
     claims, status = load_claims()
@@ -95,6 +98,13 @@ def main():
                 errors.append(("dangling_ref", "paragraph %d: no claim %s" % (pi, i)))
             elif status[i] != "verified":
                 errors.append(("unverified_ref", "paragraph %d: %s is %s" % (pi, i, status[i])))
+            elif not a.allow_unsampled:
+                pk = i.split(":")[0]
+                if pk not in sem_cache:
+                    sem_cache[pk] = V.semantic_verdicts(pk)
+                j = sem_cache[pk].get(i)
+                if not (j and j.get("hash") == V.chash(claims[i]) and j.get("verdict") == "supported"):
+                    unsampled.add(i)
         if ids:
             refs_map.append({"paragraph": pi, "claims": sorted(set(ids)), "head": par.strip()[:80]})
         # quotations must come from the cited claims' quotations (normalised containment), else be found in their works
@@ -133,6 +143,10 @@ def main():
             else:
                 uncited += 1
                 warns.append("uncited: " + s[:110])
+    if unsampled:
+        errors.append(("unsampled_ref", "%d cited claims lack a current semantic `supported` verdict (about 7-15%% of claims overreach their quotations); "
+                       "run: python scripts/claims_sheet.py --from-commentary %s --missing-only --out data/verification/claims/targeted-NAME.md  and have a verifier judge them: %s"
+                       % (len(unsampled), a.file, ", ".join(sorted(unsampled)[:12]) + (" ..." if len(unsampled) > 12 else ""))))
     if total:
         if uncited / total > 0.15:
             errors.append(("uncited_ratio", "%d of %d sentences (%.0f%%) have neither a citation nor (ed.)" % (uncited, total, 100.0 * uncited / total)))

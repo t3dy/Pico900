@@ -2,106 +2,85 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## allen2017-other:008 (Michael J. B. Allen, assertive)
+## allen2017-other:007 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen says Pico's youthful anthropology is starkly at odds with Savonarola's jeremiads, to whose influence he later succumbed.
+**Restatement:** Allen says Pico, in the Oration, champions a Socratic rather than Neoplatonic view of human independence, at odds with the Timaean subordination of humankind beneath star-gods and spiritual beings.
 
-> Pico della Mirandola’s youthful optimistic anthropology is starkly at odds with the jeremiads of Savonarola, to whose influence he later succumbed
-> (allen2017:750)
-
-
-## allen2017-other:013 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen reports that an older minority view holds Pico a Neoplatonist, while the majority view since Garin's 1937 study is that he was an eclectic committed to the Scholastics and through them to Aristotle and Averroes.
-
-> continuing vitality in the work of such scholars as Anagnine, Cordier, and Kristeller of the older if now minority view that Pico was a Neoplatonist,10 as against what has become, since Garin’s seminal 1937 study, the majority view: namely, that Pico was an eclectic preeminently committed to the Scholastics – notwithstanding his engagement with the Cabala – and by way of them to Aristotle and to Aristotle’s Greek and Arab commentators, especially Averroes.
-> (allen2017:953)
+> In the context of the Platonic tradition, Pico della Mirandola championed a Socratic rather than a Neoplatonic view of human independence, a Socratic autarchy at odds with the Timaean subordination of humankind within a cosmic hierarchy beneath the star-gods and the spiritual beings who serve them
+> (allen2017:727)
 
 
-## allen2017-other:014 (Michael J. B. Allen, assertive)
+## allen2017-other:016 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen states that Pico scholars have failed to understand the subtlety of Ficino's analyses of the Parmenides and Sophist and hence Ficino's role in generating the De ente et uno and the reaction to it.
+**Restatement:** Allen says Ficino, glossing Parmenides, argues that the ideal unities, for all their diversity, are in one something, Mind the second hypostasis, and that Pico in the Commento equates the son of the Good with this Mind, in which the highest father, the One, has established this universal world.
 
-> Pico scholars have failed to understand the subtlety of Ficino analyses of the Parmenides and Sophist and therefore his role in the generation of and reaction to the De ente et uno. See my The second Ficino-Pico controversy: Parmenidean poetry, eristic, and the One
-> (allen2017:1499)
-
-
-## allen2017-other:017 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen cites Pico's Commento as saying that the 'son of God' of the Platonists is to be compared to the first and noblest angel created by God, and not to the Son of the theologians.
-
-> «Secondo e’ Platonici da Dio immediatamente non proviene altra creatura che questa prima mente
-> (allen2017:1597)
-
-> debbesi comparare quello ehe e’ Platonici chiamano figliuolo di Dio al primo e più nobile angelo da Dio creato
-> (allen2017:1601)
+> Ficino renders them as unitates ideales in his commentary on the Parmenides chapter 4 ... he argues that just as the natural forms, for all their diversity, are in one matter, so these ideal unities, for all their diversity, are also in one something and this is Mind, the second hypostasis, which is both uniform and multiform.27 Pico, in the Commento 1.4,5, duly equates the “son” of the Good with this Mind and argues that “the highest father”, namely the One, has established “this universal world” in Mind, the first intellect.
+> (allen2017:1105)
 
 
-## allen2017-other:025 (Michael J. B. Allen, hedged)
+## allen2017-other:046 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen suggests the Oration's vision of man is indebted not only to the Philebus and Sophist but especially to the Timaeus and Phaedrus myths and to the Timaeus and Parmenides on the universal paradigm and the Idea of Man.
+**Restatement:** Allen says Ficino believed the Proclus-inspired writings now attributed to Pseudo-Dionysius of the late fifth century were composed by the Dionysius of Acts 17:34, converted by Paul, and so a thinker of the first century.
 
-> Thus the Oration’s vision of man (whether directly dependent or not on Ficino’s “orthodox” account of man as the “face” of all, as the “bond” and “knot” of the universe) is indebted, I am suggesting, not only to the notions of the limit and the indeterminate in the Philebus and correlatively to the ontology of the Sophist, but more particularly to the great myths of the Timaeus and Phaedrus, and to the notions of the universal paradigm, the intelligible world, and the Idea of Man in the Timaeus and Parmenides
-> (allen2017:1313)
-
-
-## allen2017-other:026 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen says the Timaeus is second only to the Phaedrus in supplying Pico with Platonic material for the 900 Conclusions and is the palimpsest of the Heptaplus.
-
-> Pico’s engagement with the Timaeus was likewise sustained, if confined to the eight years of his meteoric career: it is second only to the Phaedrus in supplying him with Platonic material for his Conclusiones DCCCC and it is the palimpsest of the Heptaplus and occasionally of the Disputationes
-> (allen2017:1060)
+> The history of gnosis after Plato was also subject to revision by Ficino, since he believed that the Proclus-inspired writings nowadays attributed to the Pseudo-Dionysius of the late fifth century had been composed by the Dionysius mentioned in Acts 17:34 as an Athenian converted by St. Paul’s preaching on the Areopagus, in other words by a thinker of the first century.
+> (allen2017:7928)
 
 
-## allen2017-other:031 (Michael J. B. Allen, hedged)
+## allen2017-other:049 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen judges that the most significant difference between Pico and Ficino lies in Pico's dual Neoplatonic and anthropocentric orientation, which fastens attention on the Idea of Man almost exclusively.
+**Restatement:** Allen says Ficino held that only two passages in Plato's Letters were interpretable as Trinitarian, in an elliptical way, since the full Trinitarian revelation came only through Christ.
 
-> The dual orientation, Neo-Platonic and anthropocentric, of Pico’s views necessarily draws attention to the Idea of Man, almost exclusively so. Herein, surely, lies the most significant difference between himself and Ficino.
-> (allen2017:1385)
-
-> Whereas Ficino was unremittingly concerned throughout his life with systematically exploring Neoplatonic metaphysics in its many aspects, including of course the theory of Ideas, Pico’s debts were more specific
-> (allen2017:1388)
+> Marsilio Ficino, the most eminent of the Renaissance Platonists, had to exercise ... all his subtlety to argue that two passages at least in Plato’s Letters, one in the second letter at 312E, the other in the sixth at 323D, were interpretable as Trinitarian in content, and only then in the elliptical and enigmatic manner of a prophet—necessarily so, since the full Trinitarian revelation was bestowed on mankind only by Christ.
+> (allen2017:7741)
 
 
-## allen2017-other:037 (Michael J. B. Allen, assertive)
+## allen2017-other:051 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen notes that Ficino accepts an Idea of Man in his commentary on the Parmenides, while Pico in the Commento 1.6 refers to the Idea of men as being in the hypostasis Mind.
+**Restatement:** Allen reports that Ficino settled on six gentile sages, Zoroaster, Hermes Trismegistus, Orpheus, Aglaophemus, Pythagoras and Plato, omitting Socrates, Timaeus, Parmenides and Empedocles.
 
-> Thus Ficino accepts the Idea of Man as idea hominis, as homo idealis, and as ipsa humanitatis idea in his own In Parmenidem 5, 21 (Opera, pp. 1139 – 40, 1144.2), while Pico too refers to the “Idea of men” as being in the hypostasis Mind in his Commento 1.6.
-> (allen2017:3364)
+> Indeed, the hexad was such an authoritative category for charting the gentile succession of sages that Ficino had to adjust its members, since he had many more sages than slots available for them; but eventually he decided on Zoroaster, Hermes Trismegistus, Orpheus, Aglaophemus, Pythagoras and Plato.
+> (allen2017:7837)
 
-
-## allen2017-other:041 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen suggests that scholars have often stressed Pico's originality by focusing too exclusively on the rhetorical and Hermetic excursus on man in the Oration, and that Kristeller did not do this for Ficino.
-
-> For Kristeller never trumpeted a superficial originality for Ficino as other scholars have often been led to do for Pico as a result of focusing too exclusively on the celebrated rhetorical (and hermetic) excursus on man as the great miracle in the Oration.
-> (allen2017:4338)
+> It omits such important figures as Socrates, Timaeus, Parmenides and Empedocles whose dicta Ficino often quoted as Platonic
+> (allen2017:7841)
 
 
-## allen2017-other:044 (Michael J. B. Allen, assertive)
+## allen2017-other:053 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen cites Ficino's account in which divine light poured into the angel becomes an intellectual light understood intuitively, and when poured into the soul becomes rational light understood also discursively.
+**Restatement:** Allen cites Ficino's Platonic Theology as making Saturn the supreme intellect among the angels, whose rays illuminate souls more than the angels.
 
-> Ficino speculates that this levitation miracle is possible for the following reason. «The first light is in God and it is such that it surpasses the intellect, and thus cannot even be called the intelligible light»30. But this divine light whenever it is poured forth into the angel at once becomes an intellectual light and can be understood intuitively. When it is then poured into the soul it becomes a rational light and can be understood intuitively and also thought about discursively.
-> (allen2017:4828)
+> He identifies Jupiter here with the World-Soul «by whose fatal law this manifest order of the manifest world is disposed», the jovian life being devoted to the life of action and of the senses (as active or perspicacious instruments). But Saturn is «the supreme intellect among the angels» and his rays illuminate souls so that they are more illuminated even than the angels
+> (allen2017:7296)
 
-
-## allen2017-other:055 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen says Christian angelology, especially Scotist, opened the possibility for Ficino of accommodating the ancient star vehicle or body of light to the theology of man's return to the angelic choirs.
-
-> In short, Christian angelology, and especially Scotist angelology, opened up the possibility for Ficino of drawing upon the ancient notions of the star vehicle or body of light and accommodating it to the theology of man’s return to the angelic choirs.
-> (allen2017:7379)
+> Ficino returns to the Statesman’s myth for the last time in the Platonic Theology in 18.9.4
+> (allen2017:7317)
 
 
-## allen2017-other:057 (Michael J. B. Allen, hedged)
+## allen2017-other:056 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen says one might well argue that Ficino's whole Platonic endeavour was heretical, since its goals were to become a sage, a magus and a choiring angel.
+**Restatement:** Allen cites Ficino's Platonic Theology 13.4.12 as saying that a person entirely committed to God's inspiration ceases to be a soul and becomes a son of God, an angel.
 
-> This meditative ideal, a strange blend of Plotinian and Proclan metaphysics and Iamblichan daemonism, has now been completely lost to Christianity and one might well argue that Ficino’s whole Platonic endeavour was heretical. Its goals after all were to become a sage not a saint, a magus not a worshipper, a choiring angel not a sinner praying for forgiveness
-> (allen2017:8164)
+> FICINO, Platonic Theology 13.4.12: «The person who commits himself entirely to God’s inspiration ceases to be a soul and becomes, being reborn from God, a son of God, an angel».
+> (allen2017:7662)
+
+
+## allen2017-other:059 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says that on Ficino's first method of allegorizing the gods, Saturn is the son of the Good and the One, identified with the First Intellect, first to emanate from the One and the dyad of thinking and thought, which Plotinus and later Neoplatonists made the second hypostasis, Mind.
+
+> The first method of arranging or ‘compounding’ the gods is via substances: and here Saturn is the son of the Good and the One and identified therefore with the First Intellect which is pure and full ... As such he is the first to emanate from the One and he is to be identified both with absolute unitary Being and with the dyad of thinking and of thought. Thus for Plotinus and all subsequent ... Neoplatonists in antiquity he became identified with the second metaphysical hypostasis in Plotinus’s system, namely with Mind.
+> (allen2017:9614)
+
+> a position that is open, from Ficino’s viewpoint, to four interconnected methods of Platonic allegorizing
+> (allen2017:9609)
+
+
+## allen2017-other:061 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says Ficino read the god's castration of his father Uranus allegorically as a mythical description of the radical nature of Mind's descent or procession from the One.
+
+> the story of the god’s castration of his father Uranus, which Ficino read allegorically as a mythical description of the radical nature of Mind’s descent from, or procession from, the One.
+> (allen2017:9651)
 
 
 ## allen2017-other:062 (Michael J. B. Allen, assertive)
@@ -115,38 +94,96 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (allen2017:9680)
 
 
-## allen2017-other:063 (Michael J. B. Allen, assertive)
+## allen2017-other:064 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen says Ficino, on Thomist grounds, holds that there are as many species of angels as there are individual angels, and calls the pure separated forms the angels, the pure intellects.
+**Restatement:** Allen says Ficino devoted all of Book XV of the Platonic Theology to refuting Averroes's unity of the intellect, an anathema to him ethically, psychologically and intellectually, and that for Ficino the answer to whether there is one intellect for all men is a resounding No.
 
-> For forms exist that are wholly free of matter, and these incorporeal forms are the angels, the pure intellects themselves, amongst whom we find, Ficino adduces on Thomist grounds, not many angels existing in one angelic species, but rather as many species of angels existing as there are individual angels.
-> (allen2017:9846)
+> The whole of the formidable fifteenth book of Ficino’s eighteen book summa, the Platonic Theology – the longest book by far – is devoted to a thorough refutation of Averroes’s positions
+> (allen2017:9695)
 
-
-## allen2017-other:067 (Michael J. B. Allen, assertive)
-
-**Restatement:** Allen says Ficino revered Plotinus as a virtual Church Father and supposed him acquainted with the apophatic theology of Dionysius the Pseudo-Areopagite, described as Proclus's disciple, which was possible only because Ficino mistakenly took the works for those of Paul's Athenian convert.
-
-> He revered Plotinus, moreover, as one of the first and greatest of the Church Fathers in all but name, supposing him acquainted not only with Johannine and Pauline theology, but, confusingly, with the apophatic theology of Proclus’ great sixth century disciple, Dionysius the Pseudo-Areopagite. This was only possible because Ficino, like the vast majority of his predecessors and contemporaries, mistakenly attributed the works of the latter to St. Paul’s Athenian convert, the first century Areopagite
-> (allen2017:9927)
+> But is there one saturnian intellect, one insenescibilis intellectus with its «dry light», as the Heraclitus maxim denominates it, for all men? For Ficino at least, the most ardent of the anti-Averroist epistemologists and metaphysicians of the fifteenth century, the answer is certainly a resounding No.
+> (allen2017:9984)
 
 
-## allen2017-other:075 (Michael J. B. Allen, assertive)
+## allen2017-other:066 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen says that Pico, in his gloss on Benivieni's fourth stanza in Commento III, argued that Orpheus was unwilling to die for his beloved because his music had made him soft and weak, that he descended to Hades for an imaginary Eurydice, and should instead have sent his intellect to heaven to gaze on the true Eurydice among the intelligible Ideas.
+**Restatement:** Allen says Ficino's whole lifetime endeavour was focused on a Plotinian-Christian metaphysics centred on nous and noes: nous in God, in the angels and in souls.
 
-> The interpretation of Pico is equally unexpected. In his gloss on Benivieni’s fourth stanza in the third book of his Commento,64 he went so far as to argue that Orpheus had been unwilling to die in order to pursue his beloved «because he had been made soft and weak by his own music»
-> (allen2017:10576)
-
-> By way of partial clarification, Pico asserts that the poet had succumbed to his imagination; and this had led him down to Hades to beg for a fantastic or imaginary Eurydice, the insubstantial wraith, the eidolon of his beloved. Instead, he should have cut himself off, Pico argues, from the functioning of his lower faculties, and summoned his intellect to wing its way upwards to heaven in order to gaze upon the authentic Eurydice in the midst of the intelligible Ideas.
-> (allen2017:10582)
+> Most importantly for my thesis here, we should constantly bear in mind that Ficino’s whole lifetime endeavour was focused on elaborating a Plotinian-Christian metaphysics centred upon nous and noes: nous in God, in the angels, and in souls.
+> (allen2017:9935)
 
 
-## allen2017-other:078 (Michael J. B. Allen, hedged)
+## allen2017-other:069 (Michael J. B. Allen, assertive)
 
-**Restatement:** Allen notes that in the Commento Pico never seems to refer to anything of Ficino's except the De amore, and that only intermittently, though Ficino had by the mid 1480s produced a great body of translation, analysis and commentary.
+**Restatement:** Allen reports that Ficino's Philebus commentary describes the Seraphim triad as a single divine intelligence with head, breast and thigh, whose head gazes to the Good, breast to its own beauty and thigh to creating lower things.
 
-> We should bear in mind, incidentally, that in the Commento Pico never seems to refer to anything of Ficino’s except the De amore (and only intermittendy to that), despite the fact that by the mid 1480s the older scholar had already produced a massive body of translation, analysis, and commentary that the young prince could have referred to, whatever his interpretative reservations.
-> (allen2017:10597)
+> More intriguing still is Ficino’s exploration of the interaction of various triads, triads which had become, with Plotinus and even more so with Proclus, the fundamental key to his understanding of Platonic metaphysics and hence to his attempt to accommodate this metaphysics to Christianity. Each triad marks a descent or emanation. First, Ficino says, is the triad of the Seraphim as a single divine intelligence consisting of its head, breast, and thigh – its head gazes up towards the Good, its breast looks towards its own beauty, and its thigh reaches down to providing for and creating lower things.
+> (allen2017:11245)
+
+> In his Philebus Commentary Ficino goes further still
+> (allen2017:11240)
+
+
+## allen2017-other:070 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen reports that Ficino's second triad applies, following Dionysius's De divinis nominibus 4.8, to all the angels, who are declared to have three motions: circular in returning to God, straight in extending power to lower things, and spiral in attending to themselves.
+
+> Second is the triad associated not just with the highest angelic choir but with all the angels which in Dionysius the Areopagite’s De nominibus di-vinis 4.8 are declared to have three motions, circular, straight and spiral: circular in their returning to God, straight in their «offering/extending their power» to lower things, and spiral insofar as they devote attention to themselves.
+> (allen2017:11251)
+
+> First, Ficino says, is the triad of the Seraphim
+> (allen2017:11248)
+
+
+## allen2017-other:071 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen reports that Ficino's third triad makes the ray of the Good triple in any intelligence: Saturn when striving toward the Good, Jupiter when reverting to itself, Prometheus when turning to lower things, with three corresponding powers in the soul.
+
+> Third is the ray of the Good which becomes triple in any intelligence. When it strives towards the Good, this ray is Saturn (though some say the Sky, Coelius); when it reverts to itself, it is Jupiter; and when it turns towards lower things, it is Prometheus. Accordingly, the soul in turn has three powers: one joining it to the higher, another whereby it retains its proper energy, and another joining it to the lower.
+> (allen2017:11260)
+
+> In his Philebus Commentary Ficino goes further still
+> (allen2017:11240)
+
+
+## allen2017-other:072 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says that in the last decade of his life Ficino translated and commented on two works of Dionysius, whom Allen calls a sixth-century Neoplatonist confused by the medieval tradition with the Dionysius converted by Paul and with the patron saint of France.
+
+> In the last decade of his life, Ficino turned to translate and comment on two works of the sixth century Neoplatonist Dionysius, whom the medieval tradition inherited by Ficino and his contemporaries confused both with the Dionysius whom St. Paul had converted on the Areopagus in Athens (as noted in Acts 17:34) and, incidentally, with another Dionysius, the patron saint of France. The Neoplatonist was revered as the greatest of the Greek Church Fathers and was almost invariably known until the late sixteenth century, when doubts began to surface, as Dionysius the Areopagite.
+> (allen2017:9207)
+
+
+## allen2017-other:074 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says Ficino derives from the Second Letter's enigma Plato's core metaphysical system with its apex in the One and emanation into Mind and then Soul, in a subordinationist scheme that is Plotinian rather than strictly Platonic, and later tried to accommodate it to Trinitarian formulae.
+
+> Again, the mystery Ficino discovers here is theological and metaphysical. He takes the famous enigma and from it derives Plato’s core metaphysical system with its apex in the One and its emanation (or pouring forth) into Mind and then into Soul, in a subordinationist scheme that is Plotinian rather than strictly Platonic.25 Interestingly, however, he would return twice more to the enigma in the hope of accommodating its wording to orthodox Trinitarian formulae
+> (allen2017:8559)
+
+> his analysis in this argumentum for the Second Letter is not his final word on the matter
+> (allen2017:8592)
+
+
+## allen2017-other:082 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says the later Neoplatonists read the Parmenides as the repository of Plato's highest mysteries concerning the One, taking its first five positive hypotheses as the five hypostases: the One, mind, soul, Forms in matter, and matter.
+
+> the repository of his highest mysteries concerning the ultimate ground of being and nonbeing, of the One that Plotinus put at the summit of his metaphysical hierarchy. The first part of the dialogue criticizes Plato’s theory of Ideas and discusses the kinds of things that do not have Ideas. The second part sets forth what the later Neoplatonists determined were nine hypotheses: a set of five positive and a subordinate set of four negative hypotheses. The first set they saw as treating the five hypostases (roughly, levels of being or reality) in what for them had become the standard pentad of the Platonic metaphysical system: the One, mind, soul, Forms in matter, and matter (or matter in extension as body).
+> (allen2017:450)
+
+> In the opinion of the Platonists of antiquity, Parmenides was the most important philosopher before Socrates because the dialogue Plato had named after him presented them with their greatest philosophical challenge.
+> (allen2017:443)
+
+
+## allen2017-other:084 (Michael J. B. Allen, assertive)
+
+**Restatement:** Allen says Proclus's Parmenides commentary was translated by William of Moerbeke for a few medieval readers, and that Ficino was the first in the West since antiquity to master Proclus's works.
+
+> Significantly, the most authoritative presentation of this exalted view of Parmenides and his eponymous dialogue, namely the incomplete commentary on it by Proclus, was selected for translation by William of Moerbeke and thus made available to a few medieval readers.
+> (allen2017:472)
+
+> Whether William or other medieval readers really plumbed the depths explored by Proclus is doubtful. In the West at least, Ficino was the first since antiquity who clearly achieved a mastery of Proclus’s complex works.
+> (allen2017:481)
 
 

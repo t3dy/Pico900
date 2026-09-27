@@ -152,6 +152,25 @@ the researcher brief, not to relax the gate. The verifier checks that the words 
 restatement is fair. That gap is why the semantic sample exists and why "verified" on a claim means *quotation
 located and restatement sampled*, not *true*.
 
+**Measured on the first sweep (2026-09-26).** Mechanical gate: about 1,900 claims, every quotation verbatim after the
+tickets were applied. Semantic reading of about 400 claims by seven verifiers who had not written them: 85-93% `supported`,
+7-15% `overreaches`, about 1% `wrong` (the Oration packet, judged in full, was worst). So **a claim that has only passed the
+quote gate is not fit to be cited**. The rules that follow from this:
+
+- **Binding.** A semantic verdict binds to a hash of the claim's restatement, quotations and integer `revision`
+  (`claims_verify.chash`). Any edit to a judged claim, including `bears_on`, `hedge` and `attribution`, must bump `revision`, or
+  the old verdict keeps blocking (an `overreaches` verdict) or vouching (a `supported` one) for wording that no longer exists.
+- **Files.** `<packet>.semantic.json` holds the random 20% sample; `<packet>.semantic.<tag>.json` holds targeted batches. The
+  loader merges them; later files override earlier ones for the same claim.
+- **Fixing.** `scripts/claims_apply_semantic.py` applies a verifier's `suggested_text` mechanically (the rewrite is the
+  verifier's words); field-level problems (`bears_on`, attribution, hedge, locus) go to a FIXER, who bumps `revision`. A claim
+  with an outstanding `overreaches` or `wrong` verdict is `needs_fix`, is never scored, linked or cited.
+- **Citing.** `commentary_check.py` refuses any cited claim without a current `supported` verdict (`unsampled_ref`).
+  `scripts/claims_sheet.py --from-commentary FILE --missing-only` produces the sheet for a targeted batch, so a writer's cited
+  claims (typically 150-300) are verified in full before the commentary passes. Drafts may use `--allow-unsampled`.
+- **Learning.** Recurring failures are written into `docs/briefs/claims_researcher.md` ("Lessons from the first semantic
+  verification") so the next sweep starts with fewer of them.
+
 ## 7. Relevance to Pico's relationships
 
 Every card (a thesis, a claim, a topic, a passage of Pico) gets a relevance score for each **party** in

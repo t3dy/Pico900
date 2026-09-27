@@ -1,7 +1,7 @@
 {
  "packet": "edelheit2022",
  "file": "data\\claims\\angelology\\edelheit2022.claims.json",
- "verified_at": "2026-09-26T05:15:25+00:00",
+ "verified_at": "2026-09-27T18:05:49+00:00",
  "claims": [
   {
    "id": "edelheit2022:001",
@@ -52,14 +52,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Giovanni' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:003",
@@ -111,7 +104,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:006",
@@ -299,16 +299,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Cittadini' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -354,20 +348,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Boethius' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Boethius' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:017",
@@ -508,14 +489,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:025",
@@ -532,16 +506,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Cittadini' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -558,20 +526,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'British' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Swineshead' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:027",
@@ -608,14 +563,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Scotist' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:029",
@@ -720,14 +668,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Himself' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:034",
@@ -744,16 +685,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Cittadini' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -781,10 +716,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Cittadini' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -838,7 +773,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:039",
@@ -899,16 +841,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'According' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Cittadini' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'cittadini' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1105,42 +1041,22 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Giovanni' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:053",
    "status": "verified",
    "quotes": [
     {
-     "verdict": "verbatim_modulo_marks",
-     "line_start": 24142,
+     "verdict": "verbatim",
+     "line_start": 24144,
      "line_end": 24152,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "quote_too_long",
-     "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "127 words; quote what the claim needs"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Pico-Cittadini' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:054",
@@ -1228,20 +1144,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Thomas' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Thomas Aquinas' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:058",
@@ -1322,20 +1225,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "hedge_ungrounded",
-     "severity": "warn",
-     "where": "hedge",
-     "detail": "a hedged/speculative claim needs `hedge_words` that occur in a quote"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Lucifer' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:062",
@@ -1388,20 +1278,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sentences' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Summa' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:064",
@@ -1542,14 +1419,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Quodlibet' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:070",
@@ -1564,14 +1434,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Quodlibet' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:071",
@@ -1593,14 +1456,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Metaphysics' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:072",
@@ -1753,10 +1609,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Apology' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1823,14 +1679,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ghent' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:082",
@@ -1847,14 +1696,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ghent' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:083",
@@ -1974,21 +1816,22 @@
      "line_end": 7955,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7945,
+     "line_end": 7949,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Thomas' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parisian' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2014,7 +1857,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:091",
@@ -2044,14 +1894,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Physics' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:093",
@@ -2066,20 +1909,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Thomas' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Scotists' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:094",
@@ -2103,10 +1933,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2127,10 +1957,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Apology' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2161,14 +1991,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Question' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:097",
@@ -2344,14 +2167,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sentences' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:106",
@@ -2416,20 +2232,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Giles' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Giles' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:108",
@@ -2565,26 +2368,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Robichaud' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Pseudo-Dionysius' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Plotinus' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:114",
@@ -2621,7 +2405,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'innocent-viii' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:116",
@@ -2636,7 +2427,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:117",
@@ -2653,39 +2451,29 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:118",
-   "status": "needs_fix",
+   "status": "verified",
    "quotes": [
     {
-     "verdict": "not_found",
-     "coverage": 0.667,
-     "basis": "approximate: share of the longest fragment found near this location"
+     "verdict": "verbatim",
+     "line_start": 19549,
+     "line_end": 19588,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "quote_not_found",
-     "severity": "error",
-     "where": "quotes[0]",
-     "detail": "the quotation is not found in edelheit2022",
-     "verdict": {
-      "verdict": "not_found",
-      "coverage": 0.667,
-      "best_match": {
-       "line_start": 19549,
-       "line_end": 19556,
-       "excerpt": "It is, perhaps, not entirely superfluous to point out here the fact that the question aiming at explaining the manner in which Christ as a spiritual being had descended into a physical place like hell is the scholastic-theological 42     Ibid., f. a7r: “Nam proposita tali propositione inter disputandum: attributa divina non for- maliter et ex natura rei distinguuntur, ut ponit Scotus et sui sequaces, sed sola ratione; manifestum est quod sensus proprius predicte conclusionis est negare omnem distinc-"
-      },
-      "basis": "approximate: share of the longest fragment found near this location"
-     },
-     "suggested_line": 19549,
-     "suggested_excerpt": "It is, perhaps, not entirely superfluous to point out here the fact that the question aiming at explaining the manner in which Christ as a spiritual being had descended into a physical place like hell is the scholastic-theological 42     Ibid., f. a7r: “Nam proposita tali propositione inter disputandum: attributa divina non for- maliter et ex natura rei distinguuntur, ut ponit Scotus et sui sequaces, sed sola ratione; manifestum est quod sensus proprius predicte conclusionis est negare omnem distinc-"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:119",
@@ -2715,6 +2503,12 @@
      "severity": "warn",
      "where": "text",
      "detail": "'Summa' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2757,10 +2551,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Nominalists' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2777,7 +2571,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:123",
@@ -2816,7 +2617,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:125",
@@ -2848,7 +2656,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:127",
@@ -2898,10 +2713,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Scotus' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2925,14 +2740,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Garsia' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2022:130",
@@ -2956,16 +2764,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "quote_too_long",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "127 words; quote what the claim needs"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Scripture' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2991,7 +2793,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:132",
@@ -3015,23 +2824,23 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'1277' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
   {
    "id": "edelheit2022:133",
-   "status": "needs_fix",
+   "status": "verified",
    "quotes": [
     {
-     "verdict": "altered",
-     "coverage": 0.858,
-     "basis": "approximate: share of the longest fragment found near this location",
+     "verdict": "verbatim_modulo_marks",
      "line_start": 20090,
-     "line_end": 20097
+     "line_end": 20120,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     },
     {
      "verdict": "verbatim",
@@ -3046,41 +2855,627 @@
    ],
    "issues": [
     {
-     "code": "quote_altered",
-     "severity": "error",
-     "where": "quotes[0]",
-     "detail": "the quotation is altered in edelheit2022",
-     "verdict": {
-      "verdict": "altered",
-      "coverage": 0.858,
-      "best_match": {
-       "line_start": 20090,
-       "line_end": 20097,
-       "excerpt": "Exactly at this point the question regarding the universal nature of the 1277 condemnation is presented: Garsia refers to a known view (and joke), men- tioned by Pico in the Apology,81 according to which the Parisian condemna- tion is not universal and thus does not cross the sea (to England) nor the Alps 79     Ibid., f. b4r–v: “Sunt preterea ultime tres opiniones suspecte de errore et heresi pro quanto fuerunt damnate Parisius … Nam articulo cviii dicitur sic: quod substantia anime nullo modo est mobilis secundum locum, nec per se nec per accidens. Et si ponatur alicubi"
-      },
-      "basis": "approximate: share of the longest fragment found near this location",
-      "line_start": 20090,
-      "line_end": 20097
-     },
-     "suggested_line": 20090,
-     "suggested_excerpt": "Exactly at this point the question regarding the universal nature of the 1277 condemnation is presented: Garsia refers to a known view (and joke), men- tioned by Pico in the Apology,81 according to which the Parisian condemna- tion is not universal and thus does not cross the sea (to England) nor the Alps 79     Ibid., f. b4r–v: “Sunt preterea ultime tres opiniones suspecte de errore et heresi pro quanto fuerunt damnate Parisius … Nam articulo cviii dicitur sic: quod substantia anime nullo modo est mobilis secundum locum, nec per se nec per accidens. Et si ponatur alicubi"
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:134",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 21115,
+     "line_end": 21117,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     },
     {
-     "code": "ungrounded_entity",
+     "verdict": "verbatim",
+     "line_start": 21126,
+     "line_end": 21130,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:135",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21202,
+     "line_end": 21206,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:136",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21180,
+     "line_end": 21184,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Pope' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:137",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 21224,
+     "line_end": 21266,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21240,
+     "line_end": 21241,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:138",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 21361,
+     "line_end": 21365,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21370,
+     "line_end": 21372,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 21376,
+     "line_end": 21379,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:139",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 21380,
+     "line_end": 21413,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21415,
+     "line_end": 21420,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:140",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21464,
+     "line_end": 21473,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:141",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21671,
+     "line_end": 21674,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21675,
+     "line_end": 21678,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:142",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22192,
+     "line_end": 22194,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 22175,
+     "line_end": 22178,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22149,
+     "line_end": 22151,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:143",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 22226,
+     "line_end": 22232,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22239,
+     "line_end": 22266,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:144",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20326,
+     "line_end": 20332,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:145",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20800,
+     "line_end": 20804,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 20808,
+     "line_end": 20844,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20821,
+     "line_end": 20822,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'innocent-viii' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:146",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20849,
+     "line_end": 20851,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20902,
+     "line_end": 20909,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20854,
+     "line_end": 20855,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2022:147",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20845,
+     "line_end": 20848,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20866,
+     "line_end": 20868,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:148",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 17087,
+     "line_end": 17090,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17092,
+     "line_end": 17122,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17156,
+     "line_end": 17156,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17077,
+     "line_end": 17077,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17085,
+     "line_end": 17087,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:149",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 17663,
+     "line_end": 17667,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:150",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 17686,
+     "line_end": 17687,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17689,
+     "line_end": 17693,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:151",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 9403,
+     "line_end": 9406,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 9451,
+     "line_end": 9454,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:152",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 10016,
+     "line_end": 10020,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10023,
+     "line_end": 10026,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:153",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 632,
+     "line_end": 636,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:154",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5412,
+     "line_end": 5415,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 5478,
+     "line_end": 5484,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:155",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6787,
+     "line_end": 6791,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:156",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 25356,
+     "line_end": 25361,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:157",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 25400,
+     "line_end": 25406,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 25416,
+     "line_end": 25419,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2022:158",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 25460,
+     "line_end": 25465,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 25467,
+     "line_end": 25470,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   }
  ],
  "summary": {
-  "claims": 133,
-  "verified": 131,
-  "needs_fix": 2,
-  "quotes": 217,
-  "quotes_verbatim": 215,
-  "warnings": 58,
-  "verified_rate": 0.985
+  "claims": 158,
+  "verified": 158,
+  "needs_fix": 0,
+  "quotes": 267,
+  "quotes_verbatim": 267,
+  "warnings": 38,
+  "verified_rate": 1.0
  }
 }

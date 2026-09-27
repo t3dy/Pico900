@@ -1,8 +1,13 @@
 {
  "packet": "howlett2021",
- "researcher": "",
+ "researcher": "R-HOWLETT",
  "created": "",
- "scope": null,
+ "scope": {
+  "work": "howlett2021",
+  "line_start": 1,
+  "line_end": 11552,
+  "focus": "De ente et uno; Pico-Ficino disagreement over Plato, Aristotle, the One and Being; Parmenides; Plotinus, Proclus, Iamblichus, Dionysius as Pico reads them; Latin Dionysius; angels and the angelic intellect; Kabbalah and Aristotle; Ficino letters and exchanges"
+ },
  "claims": [
   {
    "claimant": "Sophia Howlett",
@@ -211,7 +216,7 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "Howlett reads the Commentary on a Canzone as taking a Platonism based more on Plotinus than Ficino's was at that time.",
+   "text": "Howlett reads the commentary on a canzone as taking a Platonism based more on Plotinus than Ficino's was at that time.",
    "quotes": [
     {
      "text": "It highlights Pico’s approach to Platonism, based rather more on Plotinus than Ficino’s at that period, and outlines for the first time his signature combination of Platonism, Aristotelianism, and Kabbalism.",
@@ -258,7 +263,7 @@
     "ref": "whole"
    },
    "theses": [],
-   "text": "Howlett reads the Commentary as Pico's opening move against Ficino, presenting himself as a rival expert on Platonism with a truer understanding drawn from Plotinus.",
+   "text": "Howlett reads the commentary as Pico's opening move against Ficino, presenting himself as a rival expert on Platonism with a truer understanding drawn from Plotinus.",
    "quotes": [
     {
      "text": "As a strike against Ficino, Pico was setting himself up as a new, rival expert on Platonism to the father of the Platonic revival. He is suggesting he has an alternative, ‘truer’ understanding of Platonism (based on Plotinus).",
@@ -304,7 +309,7 @@
     "ref": "Pico on Ficino's Symposium"
    },
    "theses": [],
-   "text": "In the Commentary Pico names Ficino and says he has made errors throughout his treatise on the Symposium.",
+   "text": "Pico's commentary names 'our Marsilio' and says he made mistakes in every part of his treatise on the Banquet.",
    "quotes": [
     {
      "text": "You can imagine, reader, how many mistakes our Marsilio makes in the first part of The Banquet; on this one score alone he completely confuses and invalidates what he says about love. But in addition to this, he has made mistakes on every subject in every part of his treatise",
@@ -350,7 +355,7 @@
     "ref": "love and beauty"
    },
    "theses": [],
-   "text": "Howlett states that Pico's main disagreement with Ficino in the Commentary concerns Ficino's view of physical love and beauty.",
+   "text": "Howlett states that Pico's main disagreement with Ficino in the commentary concerns Ficino's view of physical love and beauty.",
    "quotes": [
     {
      "text": "Pico’s primary disagreement with Ficino in this text is with Fici-no’s view of physical love and beauty.",
@@ -958,7 +963,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett contrasts Ficino's reconciliation of faith and reason via Platonism with Pico's more ambitious attempt to keep parts of scholasticism, Plato and other ancient wisdom in one concordance.",
+   "text": "Howlett says Pico attempted something more ambitious, maintaining parts of scholasticism as well as Plato and other ancient wisdom in one grand concordance between philosophy and Christianity.",
    "quotes": [
     {
      "text": "Pico attempted something rather more ambitious, maintaining parts of scholasticism as well as Plato and other forms of ancient wisdom to build a grand concordance between philosophy and Christianity.",
@@ -971,7 +976,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
     "Plato"
    ],
    "warrants": [],
@@ -1127,7 +1131,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says the Academy reading makes Pico essentially a Platonist and Pico's deviations from Ficino very confusing, while works on Pico alone tend to sideline Ficino almost completely.",
+   "text": "Howlett says the reading of Ficino and Pico as members of one group makes Pico essentially a Platonist and Pico's deviations from Ficino very confusing, while works on Pico alone tend to sideline Ficino almost completely.",
    "quotes": [
     {
      "text": "This reading of Ficino and Pico portrays Pico as essentially a Platonist52 making Pico’s deviations from Ficino or outright contradic-tions very confusing.",
@@ -1403,7 +1407,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett describes Pico and Ficino as in a decade-long argument, expressed as a series of debates on the position of Beauty and finally on the influence of the stars, while Ficino remained close to Pico.",
+   "text": "Howlett writes that up until 1493 it is as if Pico and Ficino are in a decade-long argument, expressed as a series of debates on the position of Beauty and finally on the influence of the stars, though Ficino remained always close to Pico.",
    "quotes": [
     {
      "text": "Up until 1493 it is as if Ficino and Pico are in a decade-long argument, expressed as a series of debates or ruptures whether on the position of Beauty in the universe or, right at the end, the influence of the stars on our lives. But Ficino was always close to Pico",
@@ -1773,7 +1777,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett argues Ficino wrote his Parmenides commentary between 1492 and 1494, while Pico was still alive, in a sequence taking on Pico's arguments section by section to refute him.",
+   "text": "Howlett argues that a commentary produced between 1492 and 1494, while Pico was still living, follows a sequence that takes on Pico's arguments section by section to refute him.",
    "quotes": [
     {
      "text": "Between 1492 and 1494, while Pico was still living, he produced the commentary. It follows a sequence that specifically takes on Pico’s arguments section by section to refute him.",
@@ -1869,7 +1873,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett argues that De ente was already partly an attack on Ficino, who had written on Being and the One even before his Parmenides commentary and consistently held the orthodox Platonic view placing the two separately.",
+   "text": "Howlett argues that De ente was already partly an attack on Ficino, who had written on Being and the One even before his commentary and consistently held the orthodox Platonic view placing the two separately.",
    "quotes": [
     {
      "text": "Ficino is providing a contemporaneous direct reply and counter to Pico. But On Being was already partly an attack on Ficino. Even before his commentary, Ficino had written about Being and the One and was consistently of the ‘orthodox’ Platonic view placing the two separately.",
@@ -1914,7 +1918,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett notes that the Parmenides-On Being controversy has often been discussed and that Salas has taken apart some inconsistencies in Pico's argumentation.",
+   "text": "Howlett notes that this controversy has often been discussed and that Salas has taken apart some inconsistencies in Pico's argumentation.",
    "quotes": [
     {
      "text": "This particular conflict has been discussed often, for instance by Van Haelen (2009), Allen (1995, for example), and Salas (2014) who has taken apart some of the inconsistencies in Pico’s argumentation.",
@@ -2047,7 +2051,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says Ficino's mission is now clear through renovatio, aiming at a new Golden World through a Platonized Christianity, but that no such mission has been defined for Pico.",
+   "text": "Howlett says the question of mission has become clearer for Ficino in the past twenty years of scholarship through the concept of renovatio, using a Platonized Christianity to aim at a new Golden World through the return to God, but that such a mission has not been so defined in Pico's case.",
    "quotes": [
     {
      "text": "Rather there is the question of mission. This question of mission has become clearer in the case of Ficino in the past 20 years of scholarship through the concept of renovatio: using a Platonized Christianity he aims at the formation of a new Golden World through the return to God (marrying reason once again with faith). But in Pico’s case, such a mission has not been so defined.",
@@ -2095,9 +2099,9 @@
    "text": "Howlett argues both Ficino and Pico use Aristotle, Ficino drawing on Aquinas and the peripatetics for analogia entis, act and potency and his theory of Being, so that there is an effort at concord between Aristotle and Plato in Ficino too.",
    "quotes": [
     {
-     "text": "He also never denies the importance of Aristotle, using both the philosopher and his later commentators, especially Aquinas, in his work, for instance the Aristotelian-Thomistic tradition of analogia entis, the Aristotelian example of act and potency, and most importantly often using the peripatetics in his theory of Being. There is an effort at concord here between Aristotle and Plato",
+     "text": "First, both Ficino and Pico use Aristotle. ... He also never denies the importance of Aristotle, using both the philosopher and his later commentators, especially Aquinas, in his work, for instance the Aristotelian-Thomistic tradition of analogia entis, the Aristotelian example of act and potency, and most importantly often using the peripatetics in his theory of Being. There is an effort at concord here between Aristotle and Plato",
      "work": "howlett2021",
-     "line": 3281,
+     "line": 3277,
      "page": 69,
      "page_basis": "printed running head at l. 3255"
     }
@@ -2282,7 +2286,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says Plotinus' emphasis on the One, easily equated with God, allowed Neoplatonism to develop into an elaborate theological structure culminating in Proclus' Platonic Theology.",
+   "text": "Howlett says Plotinus' emphasis on the One, easily equated with God, allowed Neoplatonism to develop into an increasingly elaborate theological philosophy, and that it is unsurprising that Proclus' key work was the Platonic Theology, from which Ficino took the title of his own summa.",
    "quotes": [
     {
      "text": "Plotinus’ emphasis on the One, easily equitable with God, allowed Neoplatonism to develop into such a structure. Platonism became that most sacred of philosophies. It is unsurprising then that Proclus’ summa or key work was the Platonic Theology, from which Ficino took the title for his own summa.",
@@ -2352,19 +2356,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico's claimed return to the original Plato",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:052"
+   "id": "howlett2021:052",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -2605,7 +2603,7 @@
     "ref": "astrology"
    },
    "theses": [],
-   "text": "Howlett notes that Pico's Disputations indirectly attacks Ficino's astrological magic in the third book of De vita, and that this dispute is unconnected to the Platonism-Aristotelianism question.",
+   "text": "Howlett notes that Pico's Disputations indirectly attacks Ficino's astrological magic in the third book of De vita, and that this dispute is unconnected to questions of Platonism against Aristotelianism.",
    "quotes": [
     {
      "text": "Disputations, Pico’s unfinished polemic against astrology, indirectly attacks Ficino’s comments on astrological magic in his third book of De vita libri tres, De vita coelitus comparanda (1489).",
@@ -2808,7 +2806,7 @@
     "ref": "1>1"
    },
    "theses": [],
-   "text": "Howlett notes that concord in the Conclusions first appears as a linguistic matter and quotes Pico's thesis that Aristotle and Plato agree in meaning and substance in every natural or divine question, though in their words they seem to disagree.",
+   "text": "Howlett notes that concord first appears as a linguistic matter and quotes Pico's thesis that Aristotle and Plato agree in meaning and substance in every natural or divine question, though in their words they seem to disagree.",
    "quotes": [
     {
      "text": "As Pico says ‘There is no natural or divine question in which Aristotle and Plato do not agree in meaning and substance, although in their words they seem to disagree.’119",
@@ -2828,19 +2826,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico's concord thesis that De ente applies to the One and Being",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:062"
+   "id": "howlett2021:062",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -2854,7 +2846,7 @@
     "ref": "words and things"
    },
    "theses": [],
-   "text": "Howlett cites Pico's letter to Barbaro as saying that in the words Plato and Aristotle are most opposed but in the substance most concordant.",
+   "text": "Howlett cites Pico as finding, on examining the two, that in the words nothing is more opposed and in the substance nothing is more concordant.",
    "quotes": [
     {
      "text": "For in examining the two, he finds that ‘if you examine the words (verba), nothing is more opposed; if you examine the substance (res), nothing is more concordant.’",
@@ -2866,9 +2858,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -3089,19 +3079,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Bessarion as a precedent for concordism",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:068"
+   "id": "howlett2021:068",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -3113,7 +3097,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett quotes Dougherty that Pico did not hold that all philosophers defended the same position in different words, and that he privileged the claims of Christianity.",
+   "text": "Howlett quotes a note that Pico did not hold that all philosophers defended the same position in different words, and that he privileged the claims of Christianity.",
    "quotes": [
     {
      "text": "Pico ‘did not espouse the view that all philosophers were defending the same position using different terms and expressions; Pico privileges the claims of Christianity and sought external confirmations of them.’",
@@ -3126,7 +3110,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Dougherty",
     "Pico"
    ],
    "warrants": [],
@@ -3347,7 +3330,7 @@
     "ref": "reply to invitation"
    },
    "theses": [],
-   "text": "Howlett reports from Allen that in reply to Ficino's invitation to live in Florence Pico addressed Ficino as father of the Platonic family and master of his learning.",
+   "text": "Howlett reports in a note that in reply to Ficino's invitation to live in Florence Pico addressed Ficino as father of the Platonic family and master of his learning.",
    "quotes": [
     {
      "text": "Replying to Ficino’s invitation to live in Florence, Pico addresses Ficino as ‘father of the Platonic family,’ his life’s ‘solace,’ his mind’s ‘delight,’ conduct’s ‘guide’ and learning’s ‘master’ (disciplinae magister).",
@@ -3418,19 +3401,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Pico's Neoplatonic framework",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:075"
+   "id": "howlett2021:075",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -3579,7 +3556,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett reports that Isaac the Blind's circle emphasized the hidden God with the new term Ein-Sof, beyond the Tree of Life and above divine thought, as cause of Thought beyond being or thought.",
+   "text": "Howlett reports that Isaac's circle emphasized the hidden God with the new term Ein-Sof, beyond the Tree of Life and above divine thought, as cause of Thought beyond being or thought.",
    "quotes": [
     {
      "text": "For instance, Isaac emphasized the hidden God with the new term Ein-Sof beyond the Tree of Life, as beyond contemplation and above the divine thought expressed in the Tree. This is ‘the cause of Thought,’75 beyond being or thought.",
@@ -3769,7 +3746,7 @@
     "ref": "11>63"
    },
    "theses": [],
-   "text": "Howlett notes Pico's adoption of Maimonidean, most Aristotelian, elements of Kabbalism and reports a passage of Pico comparing Aristotle's concealing of divine philosophy with Maimonides' concealing of the mysteries of the Cabala.",
+   "text": "Howlett reports a passage of Pico comparing Aristotle's concealing of the more divine philosophy with the way Rabbi Moses the Egyptian's Guide for the Perplexed enfolds the mysteries of the Cabala.",
    "quotes": [
     {
      "text": "Just as Aristotle disguised and concealed the more divine philosophy, which the ancient philosophers veiled under tales and fables, under the mask of philosophical speculation and in the brevity of words, so Rabbi Moses the Egyptian, in the book the Latins call the Guide for the Perplexed, while in the superficial shell of words appears to move with the philosophers, in hidden insights of a profound sense enfolds the mysteries of the Cabala.",
@@ -3790,19 +3767,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Pico's view that Aristotle conceals divine philosophy, relevant to reading him with Plato",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:083"
+   "id": "howlett2021:083",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -3853,7 +3824,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says the Hokmah-Active Intellect connection made by Maimonides and taken up by Abulafia is present in Pico.",
+   "text": "Howlett says the connection between Hokmah and the Active Intellect, made by Maimonides and taken up by Abulafia, is present.",
    "quotes": [
     {
      "text": "The connection between Hokmah and the Active Intellect made from Maimonides and taken up by Abulafia is present.",
@@ -3961,19 +3932,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Parmenides' intelligible sphere identified with the Metatron",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:087"
+   "id": "howlett2021:087",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -4056,7 +4021,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says Pseudo-Dionysius wrote in the fifth and early sixth century, became influential in the Latin West in the twelfth century and influenced Aquinas and Eckhart, and became even more popular through Traversari's 1436 translation.",
+   "text": "Howlett says the author of the corpus areopagaticum wrote in the fifth and early sixth century, became influential in Latin Europe in the twelfth century and influenced Aquinas and Eckhart, and became even more popular through Traversari's 1436 translation.",
    "quotes": [
     {
      "text": "Pseudo-Dionyisus was writing in the fifth and early sixth century with a body of works (corpus areopagaticum) attributed to him, such as the Divine Names, Mystical Theology, and Celestial Hierarchy. In Latin Europe, he became influential in the twelfth century and influenced Aquinas as well as medieval mystics such as Meister Eckhart. In the fourteenth century he became even more popular though Ambrogio Traversari’s 1436 translation.",
@@ -4121,6 +4086,13 @@
      "line": 6060,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "The highly influential, Dionysius the Areopagite (Pseudo-Dionysius) is probably the closest Christian forebear to Pico’s mysticism",
+     "work": "howlett2021",
+     "line": 5279,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4162,7 +4134,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett states that Pseudo-Dionysius thought of henosis as seeing God (epopteia), that medieval Christian mysticism moved toward unio mystica, and that this moves beyond the Aristotelian Active Intellect and Being itself to Platonic henosis.",
+   "text": "Howlett states that Pseudo-Dionysius thought of henosis, the final stage, as seeing God (epopteia), and that in the ascent she describes we have moved beyond the Aristotelian Active Intellect, beyond Being itself, to Platonic henosis.",
    "quotes": [
     {
      "text": "Pseudo-Dionysius thought of henosis, the final stage, as ‘seeing’ God: so, the highest point is actually epopteia, or gazing, contemplating, perceiving, or learning",
@@ -4311,7 +4283,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett notes that in the Kabbalistic Tree those attributes nearest the point of origin are most like the divine, which in Platonism is the world of Ideas and in Ficino's Christian Platonism the Angelic Mind.",
+   "text": "Howlett notes that in the Kabbalistic tree of attributes those attributes nearest the point of origin are most like the divine, which in Platonism is the world of Ideas and in Ficino's Christian Platonism the Angelic Mind.",
    "quotes": [
     {
      "text": "Just as in Platonism, those attributes closer to the point of origin (in Platonism the world of Ideas, in Ficino’s Christian Platonism, ‘the Angelic Mind’) are most like the divine itself.",
@@ -4425,19 +4397,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Proclus's henads as the background Ficino simplifies",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:097"
+   "id": "howlett2021:097",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -4488,7 +4454,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says Maimonides' Jewish Aristotelianism eventually impacted Kabbalism but only later, and that Nahmanides' school left only a small place for Maimonides.",
+   "text": "Howlett says Maimonides' Jewish Aristotelianism eventually impacted Kabbalism but only later, and that the school in question left only a small place for Maimonides.",
    "quotes": [
     {
      "text": "Maimonides’ Jewish Aristotelianism did eventually impact Kabbalism, but only later.",
@@ -4508,8 +4474,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Maimonides",
-    "Nahmanides"
+    "Maimonides"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4888,9 +4853,9 @@
    "text": "Howlett describes Ficino's first level as the angelic mind or intellectual, supracelestial world, combining the Christian sphere of the angels with the Plotinian intellect.",
    "quotes": [
     {
-     "text": "We emanate from the One or God. The first level is the angelic mind or intellectual or supracelestial world, combining the Christian sphere of the angels with the Plotinian intellect.",
+     "text": "Ficino’s version is in the main Christian Plotinian but takes from other Platonic variants. We emanate from the One or God. The first level is the angelic mind or intellectual or supracelestial world, combining the Christian sphere of the angels with the Plotinian intellect.",
      "work": "howlett2021",
-     "line": 6337,
+     "line": 6336,
      "page": 136,
      "page_basis": "printed running head at l. 6319"
     }
@@ -4921,7 +4886,7 @@
   },
   {
    "claimant": "Sophia Howlett",
-   "attribution": "scholar_report",
+   "attribution": "scholar_claim",
    "claim_type": "doctrinal_content",
    "topics": [
     "three-worlds",
@@ -4933,7 +4898,7 @@
     "ref": "1965b p. 78"
    },
    "theses": [],
-   "text": "Howlett states that Pico uses the basic Ficinian structure while emphasizing Proclus and the sacred geometry of the universe, and quotes Pico's Heptaplus on God presiding over nine orders of angels in the first world.",
+   "text": "Howlett states that Pico uses the basic Ficinian structure while emphasizing Proclus and the sacred geometry of the universe (her own statement); she then quotes Pico's Heptaplus, which reports God presiding over nine orders of angels in the first world.",
    "quotes": [
     {
      "text": "Pico uses this basic Ficinian structure while inevitably emphasizing Proclus more and consequently the sacred geometry of the universe.",
@@ -4973,7 +4938,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:109"
+   "id": "howlett2021:109",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -4999,9 +4965,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -5045,9 +5009,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -5450,7 +5412,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett says the Ein-Sof and Keter are one God that can be spoken of in two ways, apophatic and the way a philosopher must explain what God is before mystical ascent.",
+   "text": "Howlett says there is one God who can be talked about in two different ways, apophatically or, as a philosopher must before mystical ascent, by explaining what God is.",
    "quotes": [
     {
      "text": "We are dealing with one God that can only be talked about or understood in two different ways, depending on whether we are using apophatic theology or trying to explain (as a philosopher such as Pico must before ascending to mystical experience) what God is",
@@ -5489,7 +5451,7 @@
     "ref": "1965b p. 107"
    },
    "theses": [],
-   "text": "Howlett says it is hard to know to which God Pico refers, taking a Heptaplus passage on God as being itself derived from nothing as possibly bearing on Ein-Sof, the creator, Keter's oneness, and Keter's derivation from the Ein-Sof.",
+   "text": "Howlett says it is hard to know which God Pico refers to, taking a Heptaplus passage on God as being itself and derived from nothing as an example.",
    "quotes": [
     {
      "text": "So inevitably it is hard to know to which ‘God,’ Pico is referring. Another example from Heptaplus: ‘God alone, who is derived from nothing and from whom all things are derived, is a wholly simple and individual essence.",
@@ -5507,11 +5469,9 @@
     }
    ],
    "hedge": "hedged",
-   "hedge_words": "can refer to",
+   "hedge_words": "it is hard to know",
    "entities": [
-    "Heptaplus",
-    "Ein-Sof",
-    "Keter"
+    "Heptaplus"
    ],
    "warrants": [],
    "assumptions": [],
@@ -5743,19 +5703,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "the Platonic position (Ficino's) that De ente opposes",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:126"
+   "id": "howlett2021:126",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -5833,19 +5787,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico's dismissal of the Parmenides against the Platonists",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "howlett2021:128"
+   "id": "howlett2021:128",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -5880,19 +5828,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Howlett's evaluation of Pico's move against the Platonists",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "A critical judgement on the Parmenides move."
    },
-   "id": "howlett2021:129"
+   "id": "howlett2021:129",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -5965,9 +5907,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Sophist"
-   ],
+   "entities": [],
    "warrants": [
     {
      "id": "w1",
@@ -6038,19 +5978,13 @@
     }
    ],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "internal tension in De ente that Ficino could exploit",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Finds a self-contradiction inside De ente resolved by the Ein-Sof/Keter reading."
    },
-   "id": "howlett2021:132"
+   "id": "howlett2021:132",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -6151,6 +6085,13 @@
      "line": 6668,
      "page": 143,
      "page_basis": "printed running head at l. 6633"
+    },
+    {
+     "text": "Lohr (1988, 583) argues that Pico is attacking Ficino through Aquinas’ distinction between these different types of being.",
+     "work": "howlett2021",
+     "line": 7631,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -6164,7 +6105,7 @@
     {
      "id": "w1",
      "kind": "scholar_evidence",
-     "text": "Note 40 cites Lohr on the Thomist origin of the distinction.",
+     "text": "Note 40 reports that Lohr (1988) argues Pico is attacking Ficino through this Thomist distinction between types of being.",
      "quote": {
       "text": "Lohr (1988, 583) argues that Pico is attacking Ficino through Aquinas’ distinction between these different types of being.",
       "work": "howlett2021",
@@ -6179,15 +6120,16 @@
     {
      "party": "ficino",
      "kind": "quarrel",
-     "note": "distinction used against Ficino",
-     "quote_index": 0
+     "note": "Howlett reports Lohr's argument that Pico deploys the formal/causal being distinction (Aquinas's) specifically to attack Ficino.",
+     "quote_index": 1
     }
    ],
    "judged": {
     "frame_shift": 2,
     "justification": "Identifies the formal/causal being distinction as the mechanism of De ente's reconciliation."
    },
-   "id": "howlett2021:135"
+   "id": "howlett2021:135",
+   "revision": 2
   },
   {
    "claimant": "Sophia Howlett",
@@ -6387,7 +6329,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett argues that Pico's God as Ein-Sof is so far above us that only apophatic theology applies, whereas the revealed divine within the void from Keter downward belongs to kataphatic theology and can be described layer by layer.",
+   "text": "Howlett argues that Pico's God as Ein-Sof is so far above us that only apophatic theology can apply, whereas the revealed divine within the void, carrying the kinetic energy of God, the emanated universe or Tree of Life, is part of kataphatic theology.",
    "quotes": [
     {
      "text": "Pico’s God/One/First Cause as Ein-Sof is so far above us, and beyond, that only apophatic or negative theology can apply. But the revealed divine within the void carrying the kinetic energy of God—the divine lightning flash of the emanated universe, the Tree of Life—this is part of kataphatic or positive theology.",
@@ -6400,8 +6342,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Ein-Sof",
-    "Keter"
+    "Ein-Sof"
    ],
    "warrants": [],
    "assumptions": [],
@@ -6587,19 +6528,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "teaching",
-     "note": "being placed in the angelic mind as in Ficino, but as formal being",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Gives a three-place scheme of being that maps onto De ente's argument."
    },
-   "id": "howlett2021:144"
+   "id": "howlett2021:144",
+   "revision": 1
   },
   {
    "claimant": "Sophia Howlett",
@@ -6714,7 +6649,7 @@
     "ref": "1986 p. 90"
    },
    "theses": [],
-   "text": "Howlett reports Pico's Commentary saying that love is not in God as Marsilio believes, since that would be an imperfection, but is the love of creatures for Him, and cites Allen on how strange this is.",
+   "text": "Howlett reports Pico's commentary saying that love is not in God as Marsilio believes, since that would be an imperfection, but is the love of creatures for Him, and cites Allen on how strange this is.",
    "quotes": [
     {
      "text": "Therefore love is the cause of the production of everything which proceeds from God, understanding by love what Plato and our Poet understand, not love which might be in Him, as Marsilio believes, because then there would be imperfection in Him, but the love of his creatures for Him",
@@ -6955,7 +6890,7 @@
     "ref": "5>21"
    },
    "theses": [],
-   "text": "Howlett quotes Pico's Conclusion that when Plato says Love was born from the union of Poverty and Plenty on the birthday of Venus, he means that the first love, the desire of beauty, was born in the angelic mind when the splendour of ideas began to shine.",
+   "text": "Howlett quotes Pico's conclusion that when Plato says Love was born from the union of Poverty and Plenty on the birthday of Venus, he means that the first love, the desire of beauty, was born in the angelic mind when the splendour of ideas began to shine.",
    "quotes": [
     {
      "text": "When Plato says that Love was born from the union of Poverty and Plenty in the garden of Jove, on the birthday of Venus while the gods feasted, he means only this, that then the first love, that is, the desire of beauty, was born in the angelic mind when in it the splendor of ideas, though imperfectly, began to shine.’83",
@@ -7355,7 +7290,7 @@
     "ref": "1986 pp. 12, 43"
    },
    "theses": [],
-   "text": "Howlett quotes Pico's Commentary that ideas are the exemplary forms of natures and that things in the first level have causal being in the divinity and formal being in the angelic nature.",
+   "text": "Howlett quotes Pico's commentary that ideas are the exemplary forms of natures and that things in the first level have causal being in the divinity and formal being in the angelic nature.",
    "quotes": [
     {
      "text": "nothing but the exemplary Forms of the natures of things, and every intellect is full of them’ from the intellect of the angelic mind to the intellect of each individual soul.100 This is true of angels too: all things in the first level ‘have their causal being in the divinity as their original source and proceeding from Him immediately into the angelic nature have their second kind of being, formal.’101",
@@ -7503,7 +7438,7 @@
     "ref": "Metatron / intellectual man"
    },
    "theses": [],
-   "text": "Howlett argues that the Metatron can also be the ascended Enoch, the apotheosis of the seeker, implying that the mystic becomes a son by actualized intellect, a double intellectual sonship, and that Idel finds this transformative understanding of intellectual activity also in Pico's Oration where the intellectual man can be an angel and son of God.",
+   "text": "Howlett argues that the Metatron can also be the ascended Enoch, the apotheosis of the seeker, implying that the mystic becomes a son by actualized intellect, a double intellectual sonship, and that the note finds this transformative understanding of intellectual activity also in Pico's Oration where the intellectual man can be an angel and son of God.",
    "quotes": [
     {
      "text": "So, the Metatron can also be the ascended Enoch: thereby connecting God with the mystic, the seeker after God. The Metatron is the apotheosis of the seeker",
@@ -7701,7 +7636,7 @@
     "ref": "1965b pp. 150-51"
    },
    "theses": [],
-   "text": "Howlett quotes Pico's Heptaplus that true and perfect felicity is union with the beginning, that angels can be raised to it but cannot ascend to it, and that man can be drawn but not go, so that we depend on God's grace.",
+   "text": "Howlett quotes Pico's Heptaplus that true and perfect felicity carries us back to union with the beginning, that the angels can be raised to it but cannot ascend to it, and that man cannot go to that level but can be drawn.",
    "quotes": [
     {
      "text": "The true and perfect felicity, however, carries us back to the contemplation of the face of God, which is the whole of the good, as He himself said, and leads us to perfect union with the beginning from which we sprang. The angels can be raised to this, but they cannot ascend to it…. To this level man cannot go, but can be drawn",
@@ -8011,7 +7946,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Howlett describes the Ficino-Pico relationship as perplexing, inspiring and often antagonistic, Ficino portraying a deep friendship at least in retrospect and Pico seeing Ficino as his philosophical archnemesis.",
+   "text": "Howlett describes the relationship between Ficino and Pico as perplexing, inspiring and often antagonistic, Ficino portraying a deep friendship at least in retrospect and Pico seeing Ficino as his philosophical archnemesis.",
    "quotes": [
     {
      "text": "The relationship between Ficino and Pico was perplexing, inspiring for both and often antagonistic in ways that are difficult to understand from their correspondence and work. Ficino, a relentless optimist, tends to portray a deep",
@@ -8255,10 +8190,2320 @@
     "justification": ""
    },
    "id": "howlett2021:179"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "enoch-metatron",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "1965b, human nature"
+   },
+   "theses": [],
+   "text": "Howlett says that, following Pico's threefold division of the soul, the highest part, intelligence, is shared with the angels, and that the intellect is illuminated by a greater, even divine, intellect which she glosses as the divine active intellect, the spirit of the lord or the Kabbalistic Metatron.",
+   "quotes": [
+    {
+     "text": "and above the intelligence which ‘we share no less with the angels….’60",
+     "work": "howlett2021",
+     "line": 8173,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The intellect is illuminated (in the Aristotelian sense) by a ‘greater, even divine, intellect… whether it be God (as some would have it) or a mind more nearly related to man’s…’ which we might call divine active intellect, the spirit of the lord or the Kabbalistic Metatron.62",
+     "work": "howlett2021",
+     "line": 8177,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "which we might call",
+   "entities": [
+    "Metatron",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Identifies the illuminating intellect as the Metatron."
+   },
+   "id": "howlett2021:180"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances",
+    "agent-intellect"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says the intelligence is connected to the angelic mind of the universe, quoting Pico that intellects are eyes and that the power of the soul in which we are like the angels is called sight by all the Platonists.",
+   "quotes": [
+    {
+     "text": "The intelligence is connected to the angelic mind of the universe: ‘Intellects are eyes’ for ‘What the eye is among corporeal things, the mind is in the spiritual realm.’",
+     "work": "howlett2021",
+     "line": 8197,
+     "page": 179,
+     "page_basis": "printed running head at l. 8193"
+    },
+    {
+     "text": "The other is that power of the soul in which… it was said that we are like the angels. This power is called sight by all the Platonists, and corporeal vision is nothing but a copy of it.…",
+     "work": "howlett2021",
+     "line": 8206,
+     "page": 179,
+     "page_basis": "printed running head at l. 8193"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Platonists",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:181"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett argues that Pico seems to suggest our intelligence is active, functioning in the Aristotelian manner, while also arguing that God's grace impels us, suggesting it is partly passive and needs a universal active intellect, and offers a third way in which the particular mind's upper level becomes an active intellect opened to the divine one.",
+   "quotes": [
+    {
+     "text": "Pico seems to suggest that our intelligence is active: we can see God and can choose to ascend toward the divine. If it is active, then it functions in the original Aristotelian manner. It abstracts from the particular to the universal, moving itself upward. However, he also argues that we are impelled to ascend through the motile power of God’s grace suggesting that our intelligence is at least partially passive",
+     "work": "howlett2021",
+     "line": 8216,
+     "page": 179,
+     "page_basis": "printed running head at l. 8193"
+    },
+    {
+     "text": "We could also argue a third way. The upper level of the particular mind could become (mobilized as) an active intellect",
+     "work": "howlett2021",
+     "line": 8225,
+     "page": 179,
+     "page_basis": "printed running head at l. 8193"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Pico seems to suggest",
+   "entities": [
+    "Aristotelian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether Pico's intellect is active, passive, or activated by the divine active intellect.",
+     "basis_quote": {
+      "text": "We could also argue a third way.",
+      "work": "howlett2021",
+      "line": 8225
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:182"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett argues that if Pico's intellect is the Aristotelian active intellect it has a far stronger role than Ficino's, which tends to reflect the divine somewhat passively, and that epistemological concerns become more central in Pico as he amalgamates Aristotelianism with other traditions.",
+   "quotes": [
+    {
+     "text": "If the intellect is the Aristotelian active intellect, then Pico’s intellect, once activated, has a far stronger role than Ficino’s which tends to reflect somewhat passively the divine.",
+     "work": "howlett2021",
+     "line": 8262,
+     "page": 180,
+     "page_basis": "printed running head at l. 8236"
+    },
+    {
+     "text": "Epistemological concerns—what we can know, and how we can know it—become far more central in Pico’s philosophy in his effort to amalgamate Aristotelianism with other traditions.",
+     "work": "howlett2021",
+     "line": 8265,
+     "page": 180,
+     "page_basis": "printed running head at l. 8236"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "If the intellect is the Aristotelian active intellect",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "active versus reflective intellect",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Puts an epistemological difference between Pico and Ficino."
+   },
+   "id": "howlett2021:183"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "ficino-dispute",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Ficino insists on the immortality of the soul, that Aristotle was ambiguous, and that Alexander of Aphrodisias, reading De anima III, held the active intellect to be outside the individual soul, while Averroes removed all that could be considered immortal in our souls.",
+   "quotes": [
+    {
+     "text": "Ficino insists on the immortality of the soul in Theologia platonica de immortalitate animorum, following Plato, who uses the argument of affinity in the Phaedo",
+     "work": "howlett2021",
+     "line": 8312,
+     "page": 181,
+     "page_basis": "printed running head at l. 8281"
+    },
+    {
+     "text": "Alexander of Aphrodisias refers to the third book of Aristotle’s De anima80 arguing that the active intellect is outside the individual soul, leaving the soul as mortal. Averroes removes all that could be considered immortal or incorruptible within our souls.",
+     "work": "howlett2021",
+     "line": 8317,
+     "page": 181,
+     "page_basis": "printed running head at l. 8281"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Alexander of Aphrodisias",
+    "Averroes",
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Ficino's Platonic Theology on immortality",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:184"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "aquinas-dionysius",
+    "agent-intellect"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett cites a note that Ficino's defence of the soul's immortality is a conscious reaction against later medieval thought, a fight in the name of Plato and Augustine against Aristotle or his commentators, and says Pico is left needing to bridge Averroism with immortality, an argument left unmade.",
+   "quotes": [
+    {
+     "text": "Ficino’s defense of the immortality of the soul, following the Byzantine philosopher, George Gemistus Pletho, is ‘a conscious reaction against later medieval thought, a reaction that would quite properly claim to be a fight in the name of Plato (and of Augustine) against Aristotle or, at least, against his commentators.’84 In his consistent attempt to try and bridge the Aristotelian and Platonic traditions, Pico is left potentially needing to bridge Averroism with the immortality of the soul, but this argument was left unmade.85",
+     "work": "howlett2021",
+     "line": 8334,
+     "page": 182,
+     "page_basis": "printed running head at l. 8324"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pletho",
+    "Averroism",
+    "Aristotle",
+    "Plato",
+    "Augustine"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Note 84 cites Kristeller (1964a, 46); note 85 cites Farmer (1998, 20).",
+     "quote": null
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Ficino's anti-Aristotelian stance on the soul",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:185"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 27"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's commentary on which parts of the soul various ancient thinkers held immortal: Proclus and Porphyry the rational part only, Xenocrates and Speusippus also the sensitive, Numenius and Plotinus every soul.",
+   "quotes": [
+    {
+     "text": "Proclus and Porphyry will have it that only the rational part is immortal and all the others are corruptible. Xenocrates and Speusippus make the sensitive part immortal also. Numenius and Plotinus, adding even the vegetative part, conclude every soul to be immortal.’86",
+     "work": "howlett2021",
+     "line": 8344,
+     "page": 182,
+     "page_basis": "printed running head at l. 8324"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Proclus",
+    "Porphyry",
+    "Xenocrates",
+    "Speusippus",
+    "Numenius",
+    "Plotinus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:186"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "oration-orders",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "section 15-16"
+   },
+   "theses": [],
+   "text": "Howlett says Pico's Oration sends the ascending soul to the court of the cherubim, seraphim and thrones, the angelic mind, and quotes that the seraph burns with love, the cherub shines with intelligence, and the throne stands in judgement.",
+   "quotes": [
+    {
+     "text": "This is the court of the cherubim, seraphim and thrones, the sphere of the angels, the angelic mind, and reminiscent of Jewish palace literature. He tells us that ‘The seraph burns with the fire of love; the cherub shines with the splendor of intelligence; the throne stands in the steadfastness of judgement.’89",
+     "work": "howlett2021",
+     "line": 8372,
+     "page": 183,
+     "page_basis": "printed running head at l. 8369"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "cherubim",
+    "seraphim",
+    "thrones"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Identifies the Oration's three orders with the angelic mind."
+   },
+   "id": "howlett2021:187"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "angel-location",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "1965b p. 151"
+   },
+   "theses": [],
+   "text": "Howlett states that henosis requires God's grace, the illumination of the Active Intellect activating our will, and that only we and the angels, of all created beings, can be drawn in this manner.",
+   "quotes": [
+    {
+     "text": "Henosis is achieved by God’s grace (the Aristotelian ‘illumination’ of the Active Intellect) activating our will in a final revelation of understanding in Binah which bonds us to the divine presence. Grace is required here for we ‘cannot go, but can be drawn.’93 Of all beings that have been created in God’s universe, we and the angels alone can be drawn in this manner.",
+     "work": "howlett2021",
+     "line": 8382,
+     "page": 183,
+     "page_basis": "printed running head at l. 8369"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Binah",
+    "Active Intellect",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:188"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says the God who is felicity is the Plotinian One but also the best of what can be thought of, meaning Keter rather than the Ein-Sof.",
+   "quotes": [
+    {
+     "text": "This is God as Plotinian One, but also as the ‘best’ of what can ‘be thought of’ meaning Keter, rather than beyond what can be thought or the Ein-Sof, or indeed the part of Keter that participates in the Ein-Sof.",
+     "work": "howlett2021",
+     "line": 8392,
+     "page": 183,
+     "page_basis": "printed running head at l. 8369"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plotinian One",
+    "Keter",
+    "Ein-Sof"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:189"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett states that the two ascents, through love and mystical ascent, come together in Kabbalism and Christian thought, especially Pseudo-Dionysius.",
+   "quotes": [
+    {
+     "text": "The two ascents come together in Kabbalism and Christian thought, especially that of Pseudo-Dionysius.",
+     "work": "howlett2021",
+     "line": 8435,
+     "page": 184,
+     "page_basis": "printed running head at l. 8413"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Kabbalism"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:190"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 27"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's commentary that love arouses a memory of the intellectual part and leads the purged soul to be most happily transmuted into angelic form.",
+   "quotes": [
+    {
+     "text": "where purged, as it were, by the fire of love, as we shall show in the following work, it is most happily transmuted into angelic form.’107",
+     "work": "howlett2021",
+     "line": 8462,
+     "page": 185,
+     "page_basis": "printed running head at l. 8454"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angelic form"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:191"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "one-beyond-being",
+    "death-of-the-kiss"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 57"
+   },
+   "theses": [],
+   "text": "Howlett says the resting-place at the end of the ascent is not a unio mystica, in the sense of union with the One itself, and supports this by quoting Pico's commentary that the soul ends its journey at the sixth step, is not allowed to move on to the seventh, and rests at the side of the First Father.",
+   "quotes": [
+    {
+     "text": "The resting-place is not a unio mystica, in the sense of union with the One itself: ‘Reaching this, the sixth step in the sequence, the soul ends its journey, and it is not allowed to move on to the seventh, the sabbath, as it were, of heavenly love. Here it should rest happily in its goal, at the side of the First Father, the fountain of beauty.’115",
+     "work": "howlett2021",
+     "line": 8514,
+     "page": 186,
+     "page_basis": "printed running head at l. 8498"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "First Father"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:192",
+   "revision": 1
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett states that Ficino's and Pico's ladders are not the same: Pico moves immediately away from earthly love, replaces Ficino's Platonic reminder of innate beauty with an Aristotelian abstraction while keeping a Platonic Idea at the end, and changes the poem so that we cannot ascend as far as God.",
+   "quotes": [
+    {
+     "text": "Ficino and Pico’s ladder are not the same. First Pico moves immediately from any suggestion of earthly love as a final or even temporary end.",
+     "work": "howlett2021",
+     "line": 8524,
+     "page": 186,
+     "page_basis": "printed running head at l. 8498"
+    },
+    {
+     "text": "Secondly, Pico changes Ficino’s (Platonic) approach that corporeal beauty reminds us of the embedded concept of real Beauty in our souls, for that more Aristotelian ‘abstraction’ while maintaining a Platonic Idea at the end of the ascent.123",
+     "work": "howlett2021",
+     "line": 8552,
+     "page": 187,
+     "page_basis": "printed running head at l. 8542"
+    },
+    {
+     "text": "Finally, and most importantly, Pico changes the poem so that we cannot achieve ascension as far as God.124",
+     "work": "howlett2021",
+     "line": 8557,
+     "page": 187,
+     "page_basis": "printed running head at l. 8542"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "two ladders",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Lists three concrete differences between Ficino's and Pico's ladders."
+   },
+   "id": "howlett2021:193"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 42"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's commentary that desire is sensitive, rational or intellectual, that is bestial, human or angelic, an intellectual and angelic will.",
+   "quotes": [
+    {
+     "text": "Every time that the thing desired is incorporeal and non-sensible the desire must be either an intellectual and angelic will or a rational choice raised and elevated to the sublimity of intellect.’ Love, as desire, can be ‘sensitive, rational, or intellectual,’ that is ‘bestial, human, or angelic.’",
+     "work": "howlett2021",
+     "line": 8570,
+     "page": 187,
+     "page_basis": "printed running head at l. 8542"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angelic"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:194"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Ficino argues that heavenly beauty descending into a human body imprints itself, somewhat equivalent to Pico's grace, though Pico says our souls form our bodies when we descend.",
+   "quotes": [
+    {
+     "text": "Ficino is more direct, arguing that heavenly beauty descending into a human body imprints itself on the body thereby making it beautiful: a direct reminder of heavenly beauty for the careful observer. Ficino’s imprint is somewhat equivalent to Pico’s ‘grace,’ though Pico does state that our souls ‘form’ our bodies when we descend into the world of nature,131 just that this is not a perfect process.",
+     "work": "howlett2021",
+     "line": 8621,
+     "page": 188,
+     "page_basis": "printed running head at l. 8587"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "somewhat equivalent",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Ficino's imprint doctrine compared with Pico's grace",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:195"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances",
+    "death-of-the-kiss"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 pp. 45-46"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's commentary that the soul which follows heavenly love is completely united with the Intellect and from a man becomes an angel.",
+   "quotes": [
+    {
+     "text": "The soul that follows heavenly love is ‘completely united with the Intellect and from a man he becomes an angel, wholly inflamed by this angelic love",
+     "work": "howlett2021",
+     "line": 8643,
+     "page": 189,
+     "page_basis": "printed running head at l. 8631"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "angel"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:196"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "enoch-metatron",
+    "commento-angelic-mind",
+    "death-of-the-kiss"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 51"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's commentary that love makes men equal to angels, and says this was Enoch's fate, an intellectual rapture, transformed from man to angel.",
+   "quotes": [
+    {
+     "text": "This is the inestimable gift of love which makes men equal to angels, an admirable faculty which through death gives one life.’139 This is true for all of us if we pass fully to the intellect away from the corporeal and so we are ‘transformed from man to angel.’ This was Enoch’s fate: ‘an intellectual rapture’140",
+     "work": "howlett2021",
+     "line": 8681,
+     "page": 190,
+     "page_basis": "printed running head at l. 8676"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Enoch",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:197"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "heptaplus-structure",
+    "oration-orders",
+    "heptaplus-angelic-world"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "seventh exposition"
+   },
+   "theses": [],
+   "text": "Howlett says that in the Heptaplus Christ opened a seventh or sabbatical exposition, and that our first aim is to become cherubim and our final apparent aim to be seraphim next to God.",
+   "quotes": [
+    {
+     "text": "To be clearer, Christ opened an extra interpretative approach to the texts handed down from Moses, called in Heptaplus the seventh or ‘sabbatical exposition.’ This interpretation returns us to God.",
+     "work": "howlett2021",
+     "line": 8708,
+     "page": 190,
+     "page_basis": "printed running head at l. 8676"
+    },
+    {
+     "text": "Our first aim is to become cherubim,144 allowing us to move up toward the Godhead, the sphere of love, and potentially down again to the life of action.145 Our final apparent aim is to be seraphim, next to God.",
+     "work": "howlett2021",
+     "line": 8713,
+     "page": 190,
+     "page_basis": "printed running head at l. 8676"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "final apparent aim",
+   "entities": [
+    "Heptaplus",
+    "cherubim",
+    "seraphim"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:198"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "oration-orders",
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "cherubim, seraphim, thrones"
+   },
+   "theses": [],
+   "text": "Howlett says Pico's henosis is similar to Ficino's with more emphasis on Plotinus, that in the body the soul reaches the edge of the celestial world and probably no further, and that Pico could be playing with triads, cherubim representing the celestial world and seraphim the angelic mind.",
+   "quotes": [
+    {
+     "text": "Pico’s approach to henosis is similar to Ficino’s, with more emphasis on Plotinus, 146 and in addition to Platonism, Kabbalism, more Christian mysticism and Aristotelianism.",
+     "work": "howlett2021",
+     "line": 8723,
+     "page": 191,
+     "page_basis": "printed running head at l. 8720"
+    },
+    {
+     "text": "But Pico could also be ‘playing’ with triads again: in the triad of cherubim, seraphim and thrones, cherubim could be representing the celestial world, as opposed to seraphim that represent the angelic mind).",
+     "work": "howlett2021",
+     "line": 8731,
+     "page": 191,
+     "page_basis": "printed running head at l. 8720"
+    }
+   ],
+   "hedge": "speculative",
+   "hedge_words": "could be representing",
+   "entities": [
+    "Ficino",
+    "Plotinus",
+    "cherubim",
+    "seraphim",
+    "thrones"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether cherubim represent the celestial world and seraphim the angelic mind in Pico's triad.",
+     "basis_quote": {
+      "text": "cherubim could be representing the celestial world, as opposed to seraphim that represent the angelic mind",
+      "work": "howlett2021",
+      "line": 8732
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Pico's henosis compared with Ficino's",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:199"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Pico follows the threefold path of Pseudo-Dionysius from purification to contemplation to illumination.",
+   "quotes": [
+    {
+     "text": "But it also involves theology, and religious practice as Pico follows the threefold path of Pseudo-Dionysius: from purification, to contemplation, to illumination.",
+     "work": "howlett2021",
+     "line": 8743,
+     "page": 191,
+     "page_basis": "printed running head at l. 8720"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "textual",
+     "text": "Later (l. 8791) Howlett lists the Dionysian triplex via as cleansing, illumination, perfection; the two orderings differ.",
+     "basis_quote": {
+      "text": "cleansing, then illumination (through contemplation) and afterward perfection",
+      "work": "howlett2021",
+      "line": 8791
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:200"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Ficino's focus is on return after a temporary sight of the angelic mind and renovatio, whereas Pico's focus is on the movement up.",
+   "quotes": [
+    {
+     "text": "Ficino’s focus is on return after temporary sight of the angelic mind. He portrays the journey as a ride on the chariot of the soul up through the heavens to the edge of the celestial sphere (the boundary with the angelic mind) where we can see the world of forms.",
+     "work": "howlett2021",
+     "line": 8746,
+     "page": 191,
+     "page_basis": "printed running head at l. 8720"
+    },
+    {
+     "text": "Pico may think of ascent as Jacob’s Ladder with angels going up and down, but his focus is on the movement up. Return or the practical outcomes of our experience are not his focus.",
+     "work": "howlett2021",
+     "line": 8756,
+     "page": 191,
+     "page_basis": "printed running head at l. 8720"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "may think of",
+   "entities": [
+    "Ficino",
+    "Jacob’s Ladder"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "difference of purpose: return versus ascent",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Grounds the disagreement of purpose in the treatment of the ascent."
+   },
+   "id": "howlett2021:201"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being",
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "whole"
+   },
+   "theses": [],
+   "text": "Howlett says Pico brings together philosophy, theology and religious experience as necessary for ascent, much as in Pseudo-Dionysius, Iamblichus and Proclus, and quotes Copenhaver that the Oration is a mystic's manifesto for ascent to self-annihilating union with God.",
+   "quotes": [
+    {
+     "text": "He emphasizes asceticism, poeticizes the mystical experience, and brings together philosophy, theology and religious experience (reason and faith) as necessary components of ascent, much as found in Pseudo-Dionysius, Iamblichus and Proclus. Indeed, Copenhaver asserts that the Oration is ‘a mystic’s manifesto for ascent, by way of magic and Kabbalah, to self-annihilating union with God.’152",
+     "work": "howlett2021",
+     "line": 8767,
+     "page": 192,
+     "page_basis": "printed running head at l. 8765"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Iamblichus",
+    "Proclus",
+    "Copenhaver"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Note 152 cites Copenhaver.",
+     "quote": null
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:202"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Pseudo-Dionysius' three-stage path from the Celestial Hierarchy is purgatio, illuminatio and unitio or perfectio, and Iamblichus' curriculum is moral philosophy, dialectics, natural philosophy and theology, both matching steps in Pico's three pillars.",
+   "quotes": [
+    {
+     "text": "For example Pseudo-Dionysius’ three stage path (triplex via) from Celestial Hierarchy: cleansing, then illumination (through contemplation) and afterward perfection (purgatio, illuminatio, and unitio [or perfectio]).160 Or Iamblichus’ curriculum of moral philosophy, dialectics, natural philosophy and theology.161",
+     "work": "howlett2021",
+     "line": 8790,
+     "page": 192,
+     "page_basis": "printed running head at l. 8765"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius",
+    "Celestial Hierarchy",
+    "Iamblichus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Correlates Pico's three-stage ascent with Dionysian and Iamblichean sequences."
+   },
+   "id": "howlett2021:203"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "angel-location",
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 39"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's Commentary that the descent of what is higher is not a real movement downward but its drawing us to itself, a compulsion to ascend, and concludes that this suggests no return once the soul has left the body for the angelic mind.",
+   "quotes": [
+    {
+     "text": "But angelic descent is complicated. In the Commentary, Pico tells us that we should not understand it as a genuine movement downward because what is higher cannot place itself lower, ‘but rather that by its own power it draws us to itself. Its descent into us is a compulsion upon us to ascend to it",
+     "work": "howlett2021",
+     "line": 8829,
+     "page": 193,
+     "page_basis": "printed running head at l. 8809"
+    },
+    {
+     "text": "First this concept of ‘descent’ suggests there is no return once the soul has left the body for residence in the angelic mind.",
+     "work": "howlett2021",
+     "line": 8837,
+     "page": 193,
+     "page_basis": "printed running head at l. 8809"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "suggests",
+   "entities": [
+    "angelic"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:204"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "enoch-metatron",
+    "oration-orders",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "Binah / shekinah"
+   },
+   "theses": [],
+   "text": "Howlett says that in the Oration Pico appears at times to agree that the divine presence couples with Binah, so that we do not ascend to the Active Intellect or Hokmah but are infused when we reach understanding, and that the mystic literally becomes the Agent Intellect, henosis as noesis.",
+   "quotes": [
+    {
+     "text": "In the Oration, Pico appears at times to agree, as the divine presence or shekinah couples with Binah. We do not ascend to the Active Intellect or Hokmah but are infused with the divine presence when we reach understanding (Binah).174",
+     "work": "howlett2021",
+     "line": 8859,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    },
+    {
+     "text": "the mystic ‘literally becomes the Agent Intellect. The dissolution of his merely human self in the bottomless pool of the Godhead is the reward awaiting the mystic at the top of the ladder.’175 This is henosis as noesis.",
+     "work": "howlett2021",
+     "line": 8864,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "appears at times to agree",
+   "entities": [
+    "Binah",
+    "Hokmah",
+    "Active Intellect",
+    "Agent Intellect"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads the Oration's ascent as noesis with the Agent Intellect."
+   },
+   "id": "howlett2021:205"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "one-beyond-being",
+    "agent-intellect"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett reports Idel's argument that both Pico and Alemanno believe the soul can cleave to the Ein-Sof, and says she sees no evidence of this in Pico, whose language suggests the soul cleaves to Keter.",
+   "quotes": [
+    {
+     "text": "Indeed, Idel also argues that both Pico and Alemanno believe that the soul can ‘cleave’ to the Ein-Sof.176 I see no evidence of this in Pico. However confusingly interconnected Keter and the Ein-Sof may be, Pico’s language suggests that the soul ‘cleaves’ to Keter when he speaks of ascending to the First Father.",
+     "work": "howlett2021",
+     "line": 8871,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Idel",
+    "Alemanno",
+    "Ein-Sof",
+    "Keter",
+    "First Father"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Whether the soul cleaves to the Ein-Sof (Idel) or to Keter (Howlett).",
+     "basis_quote": {
+      "text": "I see no evidence of this in Pico.",
+      "work": "howlett2021",
+      "line": 8873
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Sets Howlett against Idel on the goal of the soul's ascent."
+   },
+   "id": "howlett2021:206"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "enoch-metatron",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett states that the obvious candidate for the Active Intellect among the sefirot is Hokmah, and that if the Active Intellect is our end point it is a form of noesis, with a more permanent noesis or even a form of henosis possible for those who die.",
+   "quotes": [
+    {
+     "text": "Which sefira is the Active Intellect is also clear. The obvious candidate is Hokmah as Divine Wisdom.",
+     "work": "howlett2021",
+     "line": 8876,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    },
+    {
+     "text": "But if the Active Intellect is our end point, this is not unio mystica with the hidden God, nor even with its highest point in the universe, Keter. It is a form of noesis with even a temporary sight of the Active Intellect possible if we stay in the body.",
+     "work": "howlett2021",
+     "line": 8885,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Hokmah",
+    "Active Intellect",
+    "Keter"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:207"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "kabbalistic-sources",
+    "commento-angelic-mind"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 53"
+   },
+   "theses": [],
+   "text": "Howlett states that Pico uses the Kabbalistic mors osculi or binsica for the ineffable union of the soul with God and its emancipation from materiality in the commentary and the Conclusions, and that in the commentary binsica, death from a kiss, is said to occur when the soul unites itself in intellectual rapture to things separate from it.",
+   "quotes": [
+    {
+     "text": "Pico uses the Kabbalistic trope of the ‘kiss of death’ (mors osculi, mittat neshikah in Hebrew, binsica in Pico’s Italian) for the moment of assimilation: the ‘ineffable union of the soul with God and its emancipation from materiality,’178 in both his Commentary and the Conclusions.",
+     "work": "howlett2021",
+     "line": 8891,
+     "page": 194,
+     "page_basis": "printed running head at l. 8854"
+    },
+    {
+     "text": "You will read nothing more in their books except that binsica, death from a kiss, occurs when the soul so unites itself in intellectual rapture to things separate from it that, uplifted from the body, it abandons it completely.’181",
+     "work": "howlett2021",
+     "line": 8905,
+     "page": 195,
+     "page_basis": "printed running head at l. 8899"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "binsica",
+    "Commentary",
+    "Conclusions"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:208"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Maimonides may have been Pico's source for the kiss of death in the Conclusions, though the Commentary adds Abraham, Isaac and Jacob, perhaps a triad of sefirot, and that the intellectual ecstasy of the kiss suggests noesis and not henosis.",
+   "quotes": [
+    {
+     "text": "Maimonides may have been Pico’s source in Conclusions, but in the Commentary he includes Abraham, Isaac and Jacob as founders of the tradition, which could simply represent a triad of sefirot.",
+     "work": "howlett2021",
+     "line": 8914,
+     "page": 195,
+     "page_basis": "printed running head at l. 8899"
+    },
+    {
+     "text": "This intellectual ecstasy echoes the Platonic furori, the inspirations or different types of madness found in Plato and Ficino, such as in Plato’s Symposium, the subject of Pico’s Commentary,183 it allows suggests noesis and not henosis.",
+     "work": "howlett2021",
+     "line": 8919,
+     "page": 195,
+     "page_basis": "printed running head at l. 8899"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "may have been",
+   "entities": [
+    "Maimonides",
+    "Ficino",
+    "Symposium"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Platonic furori in Plato and Ficino",
+     "quote_index": "1"
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:209"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "death-of-the-kiss",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "1986 p. 61"
+   },
+   "theses": [],
+   "text": "Howlett says that in the Commentary Pico agrees with Ficino on the kiss in which souls join, but that Pico's kiss is never given to another person and looks only to noesis or henosis without full union.",
+   "quotes": [
+    {
+     "text": "In the Commentary Pico agrees with Ficino that when two people kiss ‘Each transfers its own soul into the other with kisses; it is not so much that they exchange souls, as that they are so perfectly joined together that each of them can be called two souls, and both can be called a single soul.’184 But Pico’s kiss is never supposed to be given to another person.",
+     "work": "howlett2021",
+     "line": 8924,
+     "page": 195,
+     "page_basis": "printed running head at l. 8899"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "the kiss as shared doctrine, applied differently",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:210"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett argues that unlike Ficino, Pico does not discuss returning to the world with the blueprint from the glimpse of the divine, whereas in Ficino the returner is a divine magician able to change the world.",
+   "quotes": [
+    {
+     "text": "Unlike Ficino, Pico does not discuss returning to the world with the blueprint obtained from the glimpse of the divine, to change the world through the manipulation of the Tree.186",
+     "work": "howlett2021",
+     "line": 8937,
+     "page": 195,
+     "page_basis": "printed running head at l. 8899"
+    },
+    {
+     "text": "In Ficino, the returner is the ‘active’ ‘woke’ individual: a divine magician, able to change the world literally through knowledge of the relationship between the world of forms, the celestial sphere, and the natural world.",
+     "work": "howlett2021",
+     "line": 8946,
+     "page": 196,
+     "page_basis": "printed running head at l. 8943"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "return versus ascent, the disagreement of purpose",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Restates the mission difference in terms of the returner."
+   },
+   "id": "howlett2021:211"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says there is remarkable consistency between the commentary and Pico's methodology and views in De ente.",
+   "quotes": [
+    {
+     "text": "Obviously, views change, and arguments develop, but there is remarkable consistency between much of his earliest manuscript, the Commentary, and his methodology and views in On Being and the One.",
+     "work": "howlett2021",
+     "line": 9609,
+     "page": 210,
+     "page_basis": "printed running head at l. 9605"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Commentary",
+    "On Being and the One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Argues continuity between the Commentary and De ente."
+   },
+   "id": "howlett2021:212"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Pico's answer to the faith and reason divide differs greatly from Ficino's, who understands Christianity as coherent with Platonic philosophy and so makes Platonism central.",
+   "quotes": [
+    {
+     "text": "It differs greatly from Ficino’s, for example, who uses many of the same sources but who understands Christianity as coherent with Platonic philosophy (with a little encouragement), and thereby implicitly makes Platonism, a philosophy however mystical, central.",
+     "work": "howlett2021",
+     "line": 9677,
+     "page": 211,
+     "page_basis": "printed running head at l. 9650"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Christianity",
+    "Platonic philosophy"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "difference in how faith and reason are reconciled",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Summarises the Ficino/Pico difference as centrality of Platonism."
+   },
+   "id": "howlett2021:213"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says that within Platonism Pico favors Plotinus and even more the baroque gnostic structures of Proclus, but owes most to Ficino.",
+   "quotes": [
+    {
+     "text": "Within Platonism, he particularly favors Plotinus, and even more, the baroque gnostic structures of Proclus, but owes most to Ficino.",
+     "work": "howlett2021",
+     "line": 9684,
+     "page": 211,
+     "page_basis": "printed running head at l. 9650"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plotinus",
+    "Proclus",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Pico's chief Platonic debt is to Ficino",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:214"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "de-ente",
+    "kabbalistic-sources",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "de-ente",
+    "ref": "Parmenides"
+   },
+   "theses": [],
+   "text": "Howlett says Kabbalism can be the hermeneutics for understanding Plato and Aristotle, and that Pico aims to show each tradition consistent with the other, even in strange cases such as his use of the Parmenides in De ente.",
+   "quotes": [
+    {
+     "text": "Kabbalism is therefore often at the center, and even can be the hermeneutics for understanding Plato and Aristotle.",
+     "work": "howlett2021",
+     "line": 9700,
+     "page": 212,
+     "page_basis": "printed running head at l. 9694"
+    },
+    {
+     "text": "He takes seriously his role as the prince of ‘concord’: aiming to show compatibility or basic agreement through his argumentation (not amalgamating, but showing how each tradition is consistent with the other), even in the strangest of cases (his use of Plato’s Parmenides, for example, in On Being and the One).",
+     "work": "howlett2021",
+     "line": 9705,
+     "page": 212,
+     "page_basis": "printed running head at l. 9694"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plato",
+    "Aristotle",
+    "Parmenides",
+    "On Being and the One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Frames concord as showing consistency, not amalgamation."
+   },
+   "id": "howlett2021:215",
+   "revision": 1
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett asks how to reconcile the hidden God of apophatic theology and Kabbalism with the unmoved mover and the Plotinian One, and finds it tempting to distinguish the Ein-Sof from the active presence of God in Keter.",
+   "quotes": [
+    {
+     "text": "How do we bring together the ‘hidden God’ of apophatic theology and Kabbalism with the ‘unmoved mover/First Cause’ and the Plotinian One?",
+     "work": "howlett2021",
+     "line": 9715,
+     "page": 212,
+     "page_basis": "printed running head at l. 9694"
+    },
+    {
+     "text": "It is tempting within the structure of Kabbalism to consider two versions of God: the Ein-Sof above and beyond in the darkness of unknowing, and the active, dynamic presence of God within our universe (the One of potentiality) as figured in Keter.",
+     "work": "howlett2021",
+     "line": 9721,
+     "page": 212,
+     "page_basis": "printed running head at l. 9694"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "It is tempting",
+   "entities": [
+    "Ein-Sof",
+    "Keter",
+    "Plotinian One"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "How a hidden God, the unmoved mover and the Plotinian One are to be brought together.",
+     "basis_quote": {
+      "text": "How do we bring together the ‘hidden God’ of apophatic theology and Kabbalism",
+      "work": "howlett2021",
+      "line": 9715
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:216"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "one-beyond-being",
+    "de-ente"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett states as one of her re-evaluations that Pico's concord succeeds when it builds on similarities and shared histories but reveals significant difference, so that creation is complicated by emanation and the God of negative theology cannot be the pleroma.",
+   "quotes": [
+    {
+     "text": "Thirdly, his attempt at concordance between these three pillars is successful when it builds on similarities/shared histories but inevitably reveals significant difference, so that creation is complicated by the comparison with emanation and the God of negative theology cannot be the pleroma.",
+     "work": "howlett2021",
+     "line": 405,
+     "page": 3,
+     "page_basis": "printed running head at l. 392"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "pleroma"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "A programmatic statement of Howlett's thesis about limits of concord."
+   },
+   "id": "howlett2021:217"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett states that Pico's henosis is a cleaving not with a wholly transcendent One but with its active attributes within our universe, beginning with those of mind and understanding, and that it can be a noetic process in which our minds touch the Aristotelian active intellect.",
+   "quotes": [
+    {
+     "text": "This union is a ‘cleaving’ not with a wholly transcendent One, but with its active attribute/s within our universe, starting with those attributes associated with mind and understanding. In Pico, henosis can also be a noetic process, where our minds touch the mind of the Aristotelian active intellect.",
+     "work": "howlett2021",
+     "line": 412,
+     "page": 3,
+     "page_basis": "printed running head at l. 392"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Aristotelian active intellect"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Redefines the end of Pico's ascent as noetic contact with the Active Intellect."
+   },
+   "id": "howlett2021:218"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett describes Ficino as very much part of the collective desire for change and on a mission to renew the world, while Pico's journey was of the self, an ascetic personal journey of the soul with no second step of return and reform.",
+   "quotes": [
+    {
+     "text": "Ficino, is very much part of the collective desire for change. He was on a mission to renew the world",
+     "work": "howlett2021",
+     "line": 546,
+     "page": 6,
+     "page_basis": "printed running head at l. 526"
+    },
+    {
+     "text": "Pico is part of this desire for change too, but for him, this was a journey of the self: an ascetic, personal journey of the individual soul developing its relationship to God. He provided a blueprint for the journey upward, but with no second step of return and reform.",
+     "work": "howlett2021",
+     "line": 553,
+     "page": 6,
+     "page_basis": "printed running head at l. 526"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "mission of renovatio versus solitary ascent",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:219"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "dionysius-transmission",
+    "oration-orders"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "section 70"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's Oration in a note: with Dyonisio as interpreter, souls are first purged, then illuminated, and finally perfected.",
+   "quotes": [
+    {
+     "text": "Respondebit utique, Dyonisio interprete, purgari illos, tum illuminari, postremo perfici.",
+     "work": "howlett2021",
+     "line": 9431,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dyonisio"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "textual",
+     "text": "Resolves the order queried elsewhere in this packet: the Oration's Dionysian sequence is purge, illuminate, perfect.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Fixes the order of the Dionysian triplex via cited by Pico."
+   },
+   "id": "howlett2021:220"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "Father's darkness"
+   },
+   "theses": [],
+   "text": "Howlett cites Copenhaver that Pico's ascent has moral philosophy for purification, dialectics for clarification, natural philosophy for information, theology for meditation, and religious practice leading to divinization, described in the Oration as being apart in the Father's darkness, a phrase borrowed from Pseudo-Dionysius.",
+   "quotes": [
+    {
+     "text": "Copenhaver (2019, 360) describes Pico using moral philosophy for purification, ascending through to dialectics for clarification, natural philosophy for information and then onwards to theology for meditation",
+     "work": "howlett2021",
+     "line": 9434,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "‘divinization’ described in the Oration as being ‘absolutely apart in the Father’s darkness’ to borrow from Pseudo-Dionysius.",
+     "work": "howlett2021",
+     "line": 9439,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Copenhaver",
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:221"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysius-transmission",
+    "oration-orders"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett reports Papio's suggestion that Pseudo-Dionysius has taken aspects of the Greek Eleusinian mysteries, linking the four frenzies to the three stages, and that three archangels represent the stages.",
+   "quotes": [
+    {
+     "text": "Papio suggests (Borghesi and Riva 2012, 90) that Pseudo-Dionysius has taken aspects of the Greek Eleusinian mysteries linking the four frenzies to the three stages, and the three Delphic precepts",
+     "work": "howlett2021",
+     "line": 9417,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Papio also points to three of the archangels to represent each stage (Raphael, Gabriel and Michael; God heals, God is strong and Who is like God?).",
+     "work": "howlett2021",
+     "line": 9421,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "suggests",
+   "entities": [
+    "Papio",
+    "Pseudo-Dionysius",
+    "Raphael",
+    "Gabriel",
+    "Michael"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:222"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "enoch-metatron",
+    "oration-orders",
+    "one-beyond-being"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "11>10"
+   },
+   "theses": [],
+   "text": "Howlett quotes Pico's conclusion that the Metatron of the Cabalists is without doubt what Orpheus called Pallas, Zoroaster the paternal mind, Hermes the son of God, Pythagoras wisdom and Parmenides the intelligible sphere.",
+   "quotes": [
+    {
+     "text": "That which among the Cabalists is called < Metatron > is without doubt that which is called Pallas by Orpheus, the paternal mind by Zoroaster, the son of God by Hermes, wisdom by Pythagoras, the intelligible sphere by Parmenides.’",
+     "work": "howlett2021",
+     "line": 6257,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Metatron",
+    "Orpheus",
+    "Pallas",
+    "Zoroaster",
+    "Hermes",
+    "Pythagoras",
+    "Parmenides"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Note cites Wirszubski (1989) for the Kabbalistic conclusions.",
+     "quote": null
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Shows Pico himself reading Parmenides' intelligible sphere as the Metatron, relevant to his De ente treatment of the dialogue."
+   },
+   "id": "howlett2021:223"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "ficino-dispute",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett cites Ogren for a note attributed to Ficino, from late 1479 or early 1480, stating that all Kabaliste hold the world created and souls created together at the start, and which dates the world by a Hebrew reckoning.",
+   "quotes": [
+    {
+     "text": "Ogren (2009b, 1 n1) citing Ficino (from late 1479/early 1480): ‘Omnes Kabaliste mundum creatum ponunt et motum cessaturum, sed animas ab initio simul create",
+     "work": "howlett2021",
+     "line": 5709,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "‘Ficino’ uses uniquely Hebrew dating: ‘the world has lasted for 5240 years.’",
+     "work": "howlett2021",
+     "line": 5713,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ogren",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "source",
+     "note": "Ficino's own Kabbalistic notes before Pico's",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Shows Ficino knew Kabbalistic doctrine before Pico."
+   },
+   "id": "howlett2021:224"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "ficino-dispute",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett cites Busi that a letter from Ficino to Domenico Benivieni concerns a debate in 1485 at Pico's house between Mondego, Flavius and a Jewish physician.",
+   "quotes": [
+    {
+     "text": "Busi (2006b, 175–76) cites a letter from Ficino to Domenico Benivieni regarding a debate in 1485 at Pico’s house between Mondego, Flavius and an ‘Avraham’ or Avraam, a Jewish physician",
+     "work": "howlett2021",
+     "line": 5906,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Domenico Benivieni",
+    "Flavius",
+    "Mondego"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "correspondence",
+     "note": "Ficino writes about a debate in Pico's house",
+     "quote_index": 0
+    },
+    {
+     "party": "mithridates",
+     "kind": "other",
+     "note": "Flavius in the 1485 debate",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:225"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "enoch-metatron",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett cites Scholem that two traditions were combined to create the greater and lesser Metatron: the angel Yahoel, a lesser YHWH, and the Enochian tradition of Enoch as scribe.",
+   "quotes": [
+    {
+     "text": "Scholem (1987, 214) argues that two different traditions were combined to create this greater and lesser Metatron: the angel Yahoel, a lesser YHWH, and an Enochian tradition of Enoch becoming a scribe recording people’s actions.",
+     "work": "howlett2021",
+     "line": 5730,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Scholem",
+    "Yahoel",
+    "Enoch"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:226"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "dionysius-transmission"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett cites a note that Garin, though treating Pico's occultism persuasively, sold Kabbalah short, preferring to foreground Pseudo-Dionysius and Hermeticism.",
+   "quotes": [
+    {
+     "text": "‘Although Garin dealt with the larger compass of Pico’s occultism more persuasively than anyone before him, he sold Kabbalah short….’ (109–110) preferring to foreground Pseudo-Dionysius and Hermeticism (127).",
+     "work": "howlett2021",
+     "line": 9064,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin",
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "authority",
+     "text": "Note attributes the view to Copenhaver (2019).",
+     "quote": null
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:227"
+  },
+  {
+   "claimant": "Sophia Howlett",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Howlett says Pico focused on Plotinus and several later Platonists but was always mindful of the positions of his former teacher Ficino, whom she calls his most important scholarly friend and rival.",
+   "quotes": [
+    {
+     "text": "Pico focused on Plotinus and several later Platonists but was always mindful of the positions of his former teacher, Marsilio Ficino.",
+     "work": "howlett2021",
+     "line": 1816,
+     "page": 36,
+     "page_basis": "printed running head at l. 1801"
+    },
+    {
+     "text": "including his intellectual point and counterpoint with Ficino, his most important scholarly friend and rival.",
+     "work": "howlett2021",
+     "line": 1823,
+     "page": 36,
+     "page_basis": "printed running head at l. 1801"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Plotinus",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Ficino as friend and rival",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "howlett2021:228"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
+ "not_mined": [
+  "Ch. 1 Introduction (l. 306-689): read l. 392-425 and 540-570 (four re-evaluations; Ficino renovatio contrast); the rest is a summary of later chapters",
+  "Ch. 2 Life and Works (l. 690-1825): mined only Ficino/Pico passages (l. 784-790, 826-831, 884-919, 1160-1173, 1320-1330, 1500-1825); education, Rome trial, Pico's death, Savonarola, Barbaro/Lorenzo letters, Apology, Oration, Conclusions overviews and the Disputations debate were skipped except where they name Ficino or De ente",
+  "Ch. 2 endnotes (l. 1826-2543): read only notes 25, 26, 72-73, 146-150; the rest not read",
+  "Ch. 3 Humanism section (l. 3418-3516) and Poliziano/Barbaro/Vernia/Nifo biography (l. 2907-2945): skipped as off-topic; Del Medigo section (l. 2945-3000) mined only for Averroes/unity of intellect and being/essence/unity conversations",
+  "Ch. 3 endnotes 1-136 (l. 3749-4272): read for notes bearing on Ficino, Aquinas, Bessarion, Farmer, Lohr; astrology and humanism notes skipped",
+  "Ch. 4 (l. 4275-6278): mined Ein-Sof/Being/One, apophatic theology, Maimonides and Aristotle, Metatron/Enoch, Dionysius passage (l. 5279-5337), Pico's Kabbalistic sources; skipped Tree of Life geometry (l. 4480-4560, 4945-5030 part), history of Kabbalism narrative (l. 4696-4850, 4945-5030 except Ein-Sof/Isaac), Flavius Mithridates biography (l. 5100-5170), conversion-of-the-Jews passage (l. 5344-5395), gematria and numerology (l. 5457-5501)",
+  "Ch. 4 endnotes (l. 5630-6278): read notes cited in claims only (13-16, 29, 41, 75, 89-90, 126, 171-174, 196, 230)",
+  "Ch. 5 (l. 6279-7546): read in full and mined; skipped the sublunary-world and astrology passages (l. 7356-7470) apart from noting the Disputations framing; Ch. 5 endnotes (l. 7547-8000) read for notes 1-43, 71-83, 99-111, 120",
+  "Ch. 6 (l. 7845-9564): mined immortality of soul, intellect and active intellect, ladder, angelic desire, Dionysian threefold path, binsica, Ficino return vs Pico ascent; skipped microcosm/seeds/self-fashioning (l. 7868-8160 except Ficino asides), magic and Oration dignity passages (l. 8950-8983), Ch. 6 endnotes (l. 9002-9564) except notes 12-16, 151-162",
+  "Ch. 7 Conclusion (l. 9565-9773): mined the Ficino, Parmenides and God-twofold passages; personal 'glitz' and Renaissance liminality passages skipped",
+  "Bibliography (l. 9777-10800) and Index (l. 10800-11552): not mined except that the index was used to locate Parmenides, Dionysius and Traversari (index: Parmenides pp. 66, 71, 134, 142, 212; Dionysius and Traversari p. 114)"
+ ],
+ "proposed_topics": [
+  {
+   "id": "formal-causal-being",
+   "label": "Pico's distinction of formal, causal and participatory being; Lohr's reading of it as an attack on Ficino through Aquinas"
+  },
+  {
+   "id": "ein-sof-keter",
+   "label": "The Ein-Sof/Keter reading of Pico's twofold God and of the One in De ente (Howlett's proposal)"
+  }
+ ],
  "proposed_parties": [],
- "notes": ""
+ "notes": "BOOK MAP (howlett2021, 11552 lines; running heads give printed page numbers as '<n> S. HOWLETT' or '<n> CHAPTER TITLE'; pages in claims are taken from the head that opens the printed page and cited in page_basis; chapter opening pages carry only a footer number so their page is left null). Ch1 Introduction l. 306-689 (pp. 1-9). Ch2 Life and Works l. 690-1825 with notes l. 1826-2543 (pp. 11-51). Ch3 Intellectual Foundations l. 2544-3748, notes l. 3749-4272 (pp. 53-89; Aristotelianism p. 58 l. 2784, Platonism/Ficino p. 63 l. 3004, Humanism p. 72 l. 3418, Syncretism p. 74 l. 3517, Prisca Theologia p. 77 l. 3639). Ch4 The Third Pillar: Kabbalism l. 4275-5629, notes l. 5630-6278 (pp. 91-133; Pico and Kabbalism p. 109 l. 5076; Dionysius pp. 113-114 l. 5278-5337). Ch5 Pico's Universe l. 6279-7546, notes l. 7547-8000 (pp. 135-169; Question of God p. 139 l. 6474; God's Love p. 146 l. 6800; Angelic Mind p. 149 l. 6917; Active Intellect p. 153 l. 7088; Populating the Angelic Mind p. 155 l. 7203; Celestial and Natural Worlds p. 157 l. 7293). Ch6 The Way Home l. 7845-9001, notes l. 9002-9564 (pp. 171-207). Ch7 Conclusion l. 9565-9773 (pp. 209-213). Bibliography l. 9777-10800; Index l. 10800-11552.\n\nAUDIT ITEMS VERIFIED: (a) Traversari 1436 is at l. 5306-5307 (p. 114), not 5300-5310 only: the sentence reads 'In the fourteenth century he became even more popular though Ambrogio Traversari's 1436 translation'. The century is Howlett's slip (1436 is fifteenth century); claim 090 carries this as a chronological open question. She also says Dionysius became influential in Latin Europe in the twelfth century and influenced Aquinas and Eckhart (l. 5304-5305), with no further Latin transmission (Hilduin, Eriugena) given. (b) De ente: summary at l. 3115-3143 (pp. 65-66; she dates the circulation 1491 there but 1490 at l. 1540-1541 and l. 3126-3127 call it Pico's 'last completed manuscript'), full argument at l. 6591-6686 (pp. 142-144), footnotes 34-38 cite De ente (1965c, 34, 39, 42-45), 19-20 cite 1965c 49-50. (c) 6590-6600 is on printed p. 142 (not 66): the p. 66 passage is l. 3114-3143.\n\nCRUXES AND SURPRISES. 1. Howlett's own reading of De ente: two-aspect God (Ein-Sof = the One above being; Keter = the 'coordinated unity' containing being) reconciles Pico's first argument (being and the one are equals) with his second (God is above being and is the one above being) (l. 6502-6686). She treats this as her proposal (hedged: 'which I posit', 'More persuasively, this maybe'). It is not attributed to any earlier scholar in the text. 2. She says De ente is 'already partly an attack on Ficino' and that Ficino's Parmenides commentary (written 1492-94, printed 1496) answers Pico section by section, citing Van Haelen 2009 (note 64) only by name (claim 040 has an authority warrant with no quotation). Do not upgrade to a fact about Ficino's text without checking Van Haelen. 3. Ficino's letters contain nothing about De ente (note 60, l. 3971-3972). 4. Lohr 1988, 583 (note 40, l. 7631) is the only source she gives for the idea that Pico attacks Ficino through Aquinas' distinction of types of being; it is a scholar_report, not her own claim, though she uses the distinction (claim 136). 5. Aquinas: Schmitt (note 20) says Aquinas is Aristotelian in form, Platonic in metaphysics; Howlett says Aquinas influenced Ficino (l. 2729-2732, 3282-3285) and led the Aristotelian cohort in the Conclusions (l. 3711-3716). 6. Angels: she says Pico 'changes Pseudo-Dionysius' hierarchy of angels from nine to ten, the number of the sefirot' citing only Conclusions 28>2 (l. 5335-5337, note 174 l. 6063); other packets (Wirszubski, Black, Copenhaver) may say Pico keeps the Dionysian and Hebrew orders distinct; do not resolve. Her first world of nine orders, thrones/cherubim/seraphim in the angelic mind, principalities/archangels/angels in the celestial (l. 7247-7255), and her cherubim/seraphim guess (l. 8731-8734) are hedged. 7. Dionysian threefold path: l. 8743-8745 gives 'purification, contemplation, illumination' while l. 8791 and the Latin in note 160 (l. 9431: purgari, illuminari, perfici) give purge, illuminate, perfect; claim 220 records the Latin order. 8. Idel (note 176) holds the soul cleaves to the Ein-Sof; Howlett explicitly disagrees ('I see no evidence of this in Pico', l. 8873): both views recorded (claim 206), not resolved. 9. Craven (note 50, l. 7642) says the Heptaplus worlds are created, not emanated; Howlett says both. 10. Howlett dates the Ficino-Pico letters gap 1493-94 (l. 3084) and says Pico is involved in over a fifth of Ficino's correspondence 1484-88 citing Copenhaver 2011; the count is not checked here.\n\nOCR TROUBLE. Running heads and '## Page N' markers are spliced into sentences at page breaks (e.g. l. 3115-3124, 6584-6591, 6631-6636); quotations that cross a break use '...' at the splice. Footnote numerals are run into the text (e.g. 'agree on this.12'); they are kept in quotations as printed, since the gate reads digits. Chapter endnotes are at chapter end, so no footnote text is spliced into a sentence, but note quotations sometimes carry OCR errors (e.g. 'Pseudo-Dionyisus' at l. 5301, 'essential' for essentia at l. 3915, 'Eguyptians' at l. 3698, 'equitable' for equatable at l. 3320). Latin/Hebrew glosses are garbled in places (< Hebrew for Metatron > at l. 6261). Page numbers: the printed head (e.g. '66 S. HOWLETT' at l. 3120) opens the page; claims at chapter openings and in endnote pages carry no page.\n\nSTATUS. 228 claims, all verified by the gate; claims_verify warnings 0. Restatements were cleaned so that no name or year appears in text that no quotation contains. Not sampled by a semantic VERIFIER."
 }

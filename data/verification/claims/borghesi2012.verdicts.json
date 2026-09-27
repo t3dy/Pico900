@@ -1,7 +1,7 @@
 {
  "packet": "borghesi2012",
  "file": "data\\claims\\angelology\\borghesi2012.claims.json",
- "verified_at": "2026-09-26T05:14:04+00:00",
+ "verified_at": "2026-09-27T18:05:47+00:00",
  "claims": [
   {
    "id": "borghesi2012:001",
@@ -644,7 +644,7 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 1548,
+     "line_start": 1547,
      "line_end": 1550,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -652,7 +652,7 @@
     {
      "verdict": "verbatim",
      "line_start": 1551,
-     "line_end": 1553,
+     "line_end": 1554,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
@@ -782,6 +782,20 @@
    "status": "verified",
    "quotes": [
     {
+     "verdict": "verbatim",
+     "line_start": 2362,
+     "line_end": 2363,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2440,
+     "line_end": 2440,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
      "verdict": "verbatim_modulo_marks",
      "line_start": 2443,
      "line_end": 2446,
@@ -907,7 +921,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Cabalistic' occurs in the restatement but in none of the quotations"
+    }
+   ]
   },
   {
    "id": "borghesi2012:039",
@@ -1181,6 +1202,13 @@
     },
     {
      "verdict": "verbatim",
+     "line_start": 564,
+     "line_end": 567,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
      "line_start": 567,
      "line_end": 570,
      "occurrences": 1,
@@ -1199,6 +1227,12 @@
      "code": "scholar_from_edition",
      "severity": "warn",
      "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[2]",
      "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
     }
    ]
@@ -1356,12 +1390,6 @@
      "code": "scholar_from_edition",
      "severity": "warn",
      "where": "quotes[0]",
-     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "scholar_from_edition",
-     "severity": "warn",
-     "where": "open_question q1",
      "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
     }
    ]
@@ -1894,6 +1922,13 @@
     {
      "verdict": "verbatim",
      "line_start": 1249,
+     "line_end": 1249,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1249,
      "line_end": 1250,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -1906,6 +1941,18 @@
      "severity": "warn",
      "where": "quotes[0]",
      "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (borghesi2012): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Noting' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -2714,9 +2761,9 @@
   "claims": 109,
   "verified": 109,
   "needs_fix": 0,
-  "quotes": 174,
-  "quotes_verbatim": 174,
-  "warnings": 91,
+  "quotes": 178,
+  "quotes_verbatim": 178,
+  "warnings": 94,
   "verified_rate": 1.0
  }
 }

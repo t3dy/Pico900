@@ -1,7 +1,7 @@
 {
  "packet": "copenhaver2019-angels",
  "file": "data\\claims\\angelology\\copenhaver2019-angels.claims.json",
- "verified_at": "2026-09-26T05:14:04+00:00",
+ "verified_at": "2026-09-27T18:05:47+00:00",
  "claims": [
   {
    "id": "copenhaver2019-angels:001",
@@ -1027,7 +1027,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "copenhaver2019-angels:057",
@@ -1183,7 +1190,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "copenhaver2019-angels:066",
@@ -1198,7 +1212,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "copenhaver2019-angels:067",
@@ -1728,15 +1749,112 @@
    ],
    "warrants": [],
    "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:097",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23806,
+     "line_end": 23812,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:098",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21191,
+     "line_end": 21192,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:099",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21291,
+     "line_end": 21293,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:100",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20798,
+     "line_end": 20800,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21594,
+     "line_end": 21595,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:101",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20860,
+     "line_end": 20862,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "copenhaver2019-angels:102",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 17586,
+     "line_end": 17588,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
   }
  ],
  "summary": {
-  "claims": 96,
-  "verified": 96,
+  "claims": 102,
+  "verified": 102,
   "needs_fix": 0,
-  "quotes": 136,
-  "quotes_verbatim": 136,
-  "warnings": 0,
+  "quotes": 143,
+  "quotes_verbatim": 143,
+  "warnings": 3,
   "verified_rate": 1.0
  }
 }

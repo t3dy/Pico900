@@ -1,7 +1,7 @@
 {
  "packet": "wallis1965-heptaplus",
  "file": "data\\claims\\angelology\\wallis1965-heptaplus.claims.json",
- "verified_at": "2026-09-26T05:14:07+00:00",
+ "verified_at": "2026-09-27T18:05:50+00:00",
  "claims": [
   {
    "id": "wallis1965-heptaplus:001",
@@ -38,7 +38,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'lorenzo-de-medici' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wallis1965-heptaplus:003",
@@ -2614,15 +2621,490 @@
    ],
    "warrants": [],
    "issues": []
+  },
+  {
+   "id": "wallis1965-heptaplus:135",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1106,
+     "line_end": 1107,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:136",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3768,
+     "line_end": 3769,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3770,
+     "line_end": 3772,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    },
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[1]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:137",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3653,
+     "line_end": 3654,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:138",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3738,
+     "line_end": 3740,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:139",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3947,
+     "line_end": 3947,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:140",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4109,
+     "line_end": 4110,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:141",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4351,
+     "line_end": 4352,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:142",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4651,
+     "line_end": 4652,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:143",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4693,
+     "line_end": 4694,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:144",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5142,
+     "line_end": 5142,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:145",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5266,
+     "line_end": 5266,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:146",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5430,
+     "line_end": 5430,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:147",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5265,
+     "line_end": 5265,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:148",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5487,
+     "line_end": 5487,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:149",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4981,
+     "line_end": 4983,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:150",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5684,
+     "line_end": 5685,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:151",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5688,
+     "line_end": 5690,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:152",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5773,
+     "line_end": 5773,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:153",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6022,
+     "line_end": 6022,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:154",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 7202,
+     "line_end": 7202,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
+  },
+  {
+   "id": "wallis1965-heptaplus:155",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 7159,
+     "line_end": 7159,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "scholar_from_edition",
+     "severity": "warn",
+     "where": "quotes[0]",
+     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
+    }
+   ]
   }
  ],
  "summary": {
-  "claims": 134,
-  "verified": 134,
+  "claims": 155,
+  "verified": 155,
   "needs_fix": 0,
-  "quotes": 220,
-  "quotes_verbatim": 220,
-  "warnings": 0,
+  "quotes": 242,
+  "quotes_verbatim": 242,
+  "warnings": 23,
   "verified_rate": 1.0
  }
 }

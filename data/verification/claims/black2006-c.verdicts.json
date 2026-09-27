@@ -1,7 +1,7 @@
 {
  "packet": "black2006-c",
  "file": "data\\claims\\angelology\\black2006-c.claims.json",
- "verified_at": "2026-09-26T05:14:04+00:00",
+ "verified_at": "2026-09-27T18:05:47+00:00",
  "claims": [
   {
    "id": "black2006-c:001",
@@ -583,7 +583,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:030",
@@ -605,7 +612,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:031",
@@ -782,7 +796,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:040",
@@ -914,7 +935,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:046",
@@ -2195,7 +2223,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:109",
@@ -2268,7 +2303,20 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'innocent-viii' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:112",
@@ -2290,7 +2338,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "black2006-c:113",
@@ -2424,7 +2479,7 @@
   "needs_fix": 0,
   "quotes": 210,
   "quotes_verbatim": 210,
-  "warnings": 0,
+  "warnings": 8,
   "verified_rate": 1.0
  }
 }

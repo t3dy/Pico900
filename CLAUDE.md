@@ -20,9 +20,15 @@ Run `python scripts/integrity_gate.py --verify-quotes` for the live picture of t
 `data/inventory/theses.json` holds all 900 theses from Farmer with line locators (validated against Farmer's own
 running count); `data/ontology/` holds every scholarly mention of every thesis, harvested deterministically from 78
 works, with statistics (`MENTION_STATS.md`: 421 theses cited by at least one scholar, 63 by three or more); and
-`research-packets/` holds one packet per thesis, the WRITER's sole input. New entries go to `entries/` in the
+`research-packets/` holds one packet per thesis, the WRITER's sole input (local only — see rule 10 below; regenerate
+with `scripts/harvest_mentions.py` + `scripts/build_dossiers.py` if missing). New entries go to `entries/` in the
 Farmer-keyed format of `docs/ENTRY_FORMAT.md` and pass `scripts/entry_gate.py`. Session notes:
 `RESEARCHNOTES_2026-09-25.md`.
+
+**As of 2026-09-27, `entries/` covers 856 of 900 theses** (833 pass `scripts/entry_gate.py`), with 18 verified
+(second-agent-checked and promoted to `entries/<slug>.json`) — all thirteen condemned theses have full commentary,
+ten of them verified. Missing: Proclus 24.16-24.55 and nine tier-A commentaries; see `HANDOVER.md` "2026-09-27" for
+the exact list and the next steps. `main` is pushed to GitHub as of this date (rule 10: without the corpus text).
 
 ## Working mode (Ted's standing instruction; `PROMPTS.md`)
 
@@ -112,6 +118,17 @@ Older status, handover and phase files are in `docs/archive/`. They are history,
 9. **A gate that a script can pass without opening a source is not a gate.** When you write a check, test it on a
    deliberately wrong input and show it fails. (Shell warning: heredocs in this environment halve backslashes, so a
    regex `\b` becomes a backspace and fails silently; write scripts with the Write tool, not shell heredocs.)
+10. **Never commit copyrighted material.** Ted, 2026-09-27, in chat: "don't commit anything copyrighted to the github
+    just our digital edition and project and website etc we've been building." `github.com/t3dy/Pico900` is PUBLIC.
+    Never `git add` full-text book conversions (`data/corpus/markdown|text|neoplatonism|picodb/`), a generated Latin
+    dump derived from them (`data/texts/conclusiones_900_latin.*`), copied external reference pages (`docs/resources/`),
+    or the harvester's dossiers that embed hundreds of verbatim scholar excerpts (`research-packets/`,
+    `data/ontology/mentions/`) — all are `.gitignore`d; regenerate locally, never restore them to git. A commit that
+    slipped 73 MB of this into `main`'s history was found and removed with `git rebase --onto`, not a revert — a
+    revert leaves the blobs in history (D-25, D-28/D-41, D-29/D-42). If you ever find a commit like that again, do
+    the same: rebase it out before anyone pushes, don't just add a `.gitignore` entry going forward. A short,
+    individually attributed quotation inside `entries/*.json` or `data/claims/*.claims.json` is fine (ordinary
+    scholarly citation); a directory whose job is to cache hundreds of large excerpts is not.
 
 ## Files known to contain unverified or invented material; do not cite or imitate
 
@@ -141,7 +158,8 @@ scripts/harvest_mentions.py       data/ontology/mentions/**, stats.json, MENTION
 scripts/build_dossiers.py         research-packets/*.md, INDEX.md, translation-sheets/, data/ontology/theses.json
 scripts/entry_gate.py             gate for entries/*.draft.json (docs/ENTRY_FORMAT.md rules 1-6)
 research-packets/            one research packet per thesis (WRITER input); translation-sheets/ for TRANSLATORs
-entries/                     Farmer-keyed entries: <slug>.draft.json (WRITER) -> <slug>.json (after VERIFIER)
+                             .gitignore'd (rule 10): local only, embeds scholar excerpts; regenerate, don't restore
+entries/                     Farmer-keyed entries: <slug>.draft.json (WRITER) -> <slug>.json (after VERIFIER); pushed
 docs/ENTRY_FORMAT.md  docs/DATA_ONTOLOGY.md  docs/RESEARCH_PROTOCOL.md  docs/exemplars/
 
 PROMPTS.md                   every prompt Ted has typed, verbatim (scripts/harvest_prompts.py); source of truth for intent

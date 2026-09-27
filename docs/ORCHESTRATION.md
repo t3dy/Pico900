@@ -168,7 +168,7 @@ gate output in `--note`.
 | WRITER (from claims) | composes commentary and essays only from verified claims; `[[id]]` citations; `commentary_check.py` gate | its one output file | `commentary_writer.md` |
 
 **Gates for the claims layer** (quote the output): C1 `python scripts/claims_verify.py` prints `TOTAL needs_fix: 0`;
-C2 semantic sample: no `overreaches`/`wrong` outstanding, and any edited claim re-sampled; C3 `python scripts/claims_score.py`
+C2 semantic reading: no `overreaches`/`wrong` outstanding, edited claims re-judged (bump `revision`), and every claim a writer cites has a current `supported` verdict (measured overreach rate 7-15%, so a random sample is not enough for cited claims: use `claims_sheet.py --from-commentary`); C3 `python scripts/claims_score.py`
 prints links rejected 0; C4 `python scripts/commentary_check.py FILE` exits 0; C5 for anything rendered: the page loaded and read.
 
 **Swarm recipe: the claims sweep (used 2026-09-26 for angelology and the Ficino dispute; 14 researchers, ~1,400 claims).**

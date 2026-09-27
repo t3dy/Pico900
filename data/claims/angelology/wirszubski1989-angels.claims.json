@@ -1,8 +1,12 @@
 {
  "packet": "wirszubski1989-angels",
- "researcher": "",
- "created": "",
- "scope": null,
+ "researcher": "R-WIRSZUBSKI",
+ "created": "2026-09-26",
+ "scope": {
+  "work": "wirszubski1989",
+  "line_start": 1,
+  "line_end": 14778
+ },
  "claims": [
   {
    "claimant": "Chaim Wirszubski",
@@ -17,7 +21,7 @@
     "ref": "Conclusiones Cabalisticae secundum secretam doctrinam, Conclusio II"
    },
    "theses": [],
-   "text": "Wirszubski identifies the likeliest direct source of Conclusio II (nine angelic hierarchies, with the form Aralim) as Abraham Axelrad's Corona Nominis Boni, found in Cod. Vat. Ebr. 190, on the ground of the unusual number nine and the unusual form Aralim.",
+   "text": "Wirszubski identifies the likeliest direct source of thesis II (nine angelic hierarchies, with the form Aralim) as Abraham Axelrad's Corona Nominis Boni, found in Cod. Vat. Ebr. 190, on the ground of the unusual number nine and the unusual form Aralim.",
    "quotes": [
     {
      "text": "The unusual number of angelic hierarchies, nine instead of ten, and the unusual form Aralim, for 'Er'elim, ... help to identify the likeliest direct source of this thesis, namely Abraham Axelrad's Corona Nominis Boni, Cod. Vat. Ebr. 190, fol. 177r",
@@ -31,8 +35,7 @@
    "hedge_words": "likeliest direct source",
    "entities": [
     "Abraham Axelrad",
-    "Corona Nominis Boni",
-    "Conclusio II"
+    "Corona Nominis Boni"
    ],
    "warrants": [
     {
@@ -72,7 +75,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski argues that the tenth grade in Axelrad's list cannot denote an angelic hierarchy, so the inference from that text is nine hierarchies, whereas ten is the usual number in Jewish sources.",
+   "text": "Wirszubski argues that the tenth grade in the Latin list cannot denote an angelic hierarchy, so the inference from that text is nine hierarchies, whereas ten is the usual number in Jewish sources.",
    "quotes": [
     {
      "text": "What matters is that the tenth grade cannot possibly be taken to denote an angelic hierarchy. Hence the obvious inference from this text is that there are nine hierarchies of angels, whereas the usual number in Jewish sources is ten.",
@@ -113,7 +116,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski adds that Axelrad's source accounts for Pico's notion that there are nine angelic hierarchies according to the secret doctrine of the Hebrew Cabalists, just as Dionysius Areopagita has nine celestial hierarchies.",
+   "text": "Wirszubski adds that that same source accounts for Pico's notion that there are nine angelic hierarchies according to the secret doctrine of the Hebrew Cabalists, just as Dionysius Areopagita has nine celestial hierarchies.",
    "quotes": [
     {
      "text": "the Corona Nominis Boni is the likeliest direct source of Pico's thesis, the different order of the names notwithstanding, because it accounts for Pico's notion that there are nine angelic hierarchies secundum secretam doctrinam sapientum Hebraeorum Cabalistarum (just as there are nine celestial hierarchies in Dionysius Areopagita).",
@@ -160,7 +163,7 @@
     "ref": "Conclusio I (Kabbalistic set)"
    },
    "theses": [],
-   "text": "For Conclusio I (Michael as the superior priest who sacrifices the souls of rational animals), Wirszubski suggests inspiration from two texts: the Expositio Decem Numerationum, and Recanati's commentary, where Michael is the High Priest above because his power is from the sefirah Charity.",
+   "text": "For thesis I (Michael as the superior priest who sacrifices the souls of rational animals), Wirszubski suggests inspiration from two texts: an anonymous exposition of the ten numerations, and Recanati's commentary, where Michael is the High Priest above because his power is from the sefirah Charity.",
    "quotes": [
     {
      "text": "For want of a single source, I suggest that this thesis was inspired by two different texts and that it combines two distinct elements: (a) the likeness between the archangel Michael as celestial priest and the priest on earth; (b) the sacrificial offering of human souls by the archangel Michael.",
@@ -305,7 +308,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski notes that many Kabbalists conceived the three triads of sefirot as representing the three stages of being, Intellect, Soul and Nature, citing Azriel's Quaestiones super Decem Numerationibus as the locus classicus.",
+   "text": "Wirszubski notes that many Kabbalists conceived the three triads of sefirot as representing the three stages of being, Intellect, Soul and Nature, citing Azriel's Quaestiones super Decern Numerationibus as the locus classicus.",
    "quotes": [
     {
      "text": "It is, furthermore, noteworthy that many Kabbalists conceived of these three triads of sefirot as representing or embracing the three stages of being, namely Intellect, Soul, and Nature. The locus classicus is Azriel's Quaestiones super Decern Numerationibus, Cod. Vat. Ebr. 190, fol. 168v",
@@ -437,7 +440,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski infers that the sefirot are somehow involved in Pico's conception of practical Kabbala, a conclusion he admits is at variance with the common way of the Kabbalists and with Pico's own neat division into sefirot and names.",
+   "text": "Wirszubski infers that the sefirot are somehow involved in Pico's conception of practical Kabbala, a conclusion he admits is at variance with the communis via cabbalistarum and with Pico's own neat division into sefirot and names.",
    "quotes": [
     {
      "text": "If my interpretation of quantitas formalis continua et discreta is conceded, it follows that the ten sefirot are somehow involved in Pico's conception of practical Kabbala. I am aware that this conclusion is at variance with what for want of a better designation might be called the communis via cabbalistarum. It also is, or seems to be, at variance with the neat division of all Kabbala \"in scientiam sephiroth et semoth tanquam in practicam et speculativam.\"",
@@ -522,7 +525,7 @@
     "ref": "Quaestio Quinta, de virtutibus rerum superiorum"
    },
    "theses": [],
-   "text": "Wirszubski identifies the Apology's unnamed science 'de virtutibus rerum superiorum quae sunt supra lunam' with the doctrine of the ten sefirot, on the ground that the forty-eighth Kabbalistic thesis outlines the correspondence between the ten sefirot and the ten spheres.",
+   "text": "Wirszubski identifies the unnamed science 'de virtutibus rerum superiorum quae sunt supra lunam' with the doctrine of the ten sefirot, on the ground that the forty-eighth Kabbalistic thesis outlines the correspondence between the ten sefirot and the ten spheres.",
    "quotes": [
     {
      "text": "The second, unnamed science can be identified. In the forty-eighth Kabbalistic thesis secundum opinionem propriam, Pico outlined the complete correspondence between the ten sefirot and the ten spheres.",
@@ -541,9 +544,7 @@
    ],
    "hedge": "hedged",
    "hedge_words": "Hence I conclude",
-   "entities": [
-    "Apology"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -610,7 +611,7 @@
     "ref": "the seventy books of Ezra"
    },
    "theses": [],
-   "text": "Wirszubski quotes Pico's text in which the Kabbalist books are said to contain a doctrine of the orders of the angels of the same kind as is read in Paul and Dionysius; he does not endorse it, but uses it to show how Pico presented Kabbala as confirming Christianity.",
+   "text": "Wirszubski quotes Pico's text in which the books he acquired are said to contain a doctrine of the orders of the angels of the same kind as is read in Paul and Dionysius; he does not endorse it, but uses it to show how Pico presented these books as confirming the Christian religion.",
    "quotes": [
     {
      "text": "Hos ego libros, non mediocri impensa mihi cum comparassem, summa diligentia, indefessis laboribus cum perlegissem, uidi in illis (testis est Deus) religionem non tarn Mosaicam, quam Christianam, ibi trinitatis mysterium, ibi uerbi incarnatio, ibi Messiae diuinitas, ibi de peccato originali, de illius per Christum expiatione, de coelesti Hierusalem, de casu daemonum, de ordinibus angelorum, de purgatoriis, de inferorum poenis eadem legi quae apud Paulum et Dionysium,apud Hieronymum et Augustinum quotidie legimus.",
@@ -810,9 +811,9 @@
    "text": "Wirszubski says the allegorical interpretation of the Death of the Kiss is the link between Plato's Symposium and the Song of Solomon, the divine Solomon and the divine Plato thereby seeing eye to eye, on the assumptions Pico's Commento makes.",
    "quotes": [
     {
-     "text": "The passage I have just quoted might warm the heart of a Platonist who believed that the Song of Solomon was divinely inspired. For if it is assumed that the Death of the Kiss is the separation of the soul from the body in a state of intellectual rapture, and that this is what Solomon states in the verse \"Let him kiss me with the kisses of his mouth,\" and, furthermore, that the whole intention of the Song of Solomon is presented in this very verse, then the cumulative effect of those assumptions is that the divine Solomon and the divine Plato see eye to eye. Needless to say, the Death of the Kiss or, to be more precise, the allegorical interpretation of the Death of the Kiss is the link between Plato's Symposium and the Song of Solomon.",
+     "text": "For if it is assumed that the Death of the Kiss is the separation of the soul from the body in a state of intellectual rapture, and that this is what Solomon states in the verse \"Let him kiss me with the kisses of his mouth,\" and, further- more, that the whole intention of the Song of Solomon is presented in this very verse, then the cumulative effect of those assumptions is that the divine Solomon and the divine Plato see eye to eye. Needless to say, the Death of the Kiss or, to be more precise, the allegorical interpretation of the Death of the Kiss is the link between Plato's Symposium and the Song of Solomon.",
      "work": "wirszubski1989",
-     "line": 7842,
+     "line": 7843,
      "page": 154,
      "page_basis": "bracket [154] at l. 7878 closes the printed page (brackets stand at the foot of the page)"
     }
@@ -1026,6 +1027,13 @@
      "line": 8004,
      "page": 157,
      "page_basis": "bracket [157] at l. 8040 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "What Gersonides states in a somewhat roundabout way in medieval Hebrew reads in the literal Latin translation of Flavius Mithridates as follows:",
+     "work": "wirszubski1989",
+     "line": 8020,
+     "page": 169,
+     "page_basis": "bracket [169] at l. 8040 closes the printed page (brackets stand at the foot of the page)"
     }
    ],
    "hedge": "assertive",
@@ -1112,7 +1120,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says that Mithridates's Latin of Gersonides's commentary interpolates the word Cabalistarum into the Talmudic dictum on the deaths of Moses, Aaron and Miriam, and that the translations Pico read therefore account for his notion that the Death of the Kiss was a Kabbalist allegory, whether or not the lost translation of Recanati was interpolated too.",
+   "text": "Wirszubski says that Mithridates's Latin of Gersonides's commentary interpolates the word Cabalistarum into the dictum that Moyse, Aarone and Maria died by a kiss, and that the translations Pico read therefore account for his notion that the Death of the Kiss was a Kabbalist allegory, whether or not the lost translation of Recanati was interpolated too.",
    "quotes": [
     {
      "text": "\"De osculis oris sui,\" scilicet quod coniungeretur cum eo secundum posse, osculum enim significat coniunctionem et applicationem, et hoc est dictum cabalistarum de Moyse Aarone et Maria quod mortui sunt per osculum id est quod quando mortui sunt coniuncti erant cum ipso deo.",
@@ -1135,7 +1143,6 @@
     "Mithridates",
     "Recanati",
     "Gersonides",
-    "Moses",
     "Aaron"
    ],
    "warrants": [],
@@ -1327,7 +1334,7 @@
     "ref": "Conclusiones secundum Zoroastrem, Conclusio xiii (per puerum ... intellectus)"
    },
    "theses": [],
-   "text": "Wirszubski judges it likely that the link between puer and intellectus in Pico's thirteenth Zoroastrian thesis is the angel Metatron, who is called na'ar (puer) and is sometimes identified with the Active Intellect, and that Pico met Metatron in his Kabbalistic books, without saying Metatron is a specifically Kabbalistic figure.",
+   "text": "Wirszubski judges it likely that the link between puer and intellectus in Pico's thirteenth thesis on the sayings of Zoroaster is the angel Metatron, who is called na'ar (puer) and is sometimes identified with the Active Intellect, and that Pico met Metatron in his Kabbalistic books, without saying Metatron is a specifically Kabbalistic figure.",
    "quotes": [
     {
      "text": "I do not know in what context puer was used by the interpreters of Zoroaster's sayings. Nevertheless, the chances are that the connecting link between puer and intellectus is the angel Metatron, who is called na'ar (puer) and is sometimes identified with the Active Intellect. I am not suggesting that Metatron is a specifically Kabbalistic figure. But it seems to me the likeliest hypothesis that Pico encountered Metatron in his Kabbalistic books.",
@@ -1512,19 +1519,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "the Commento passage distinguishes the Platonists' son of God from the Christian Son, a point at which Pico's Christian commitment separates from the Platonic syncretism Kristeller associates with Ficino",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "the Commento's own statement that the Platonic 'son of God' is the first and noblest created angel is the ground for supplying an angel in the tenth thesis"
    },
-   "id": "wirszubski1989-angels:032"
+   "id": "wirszubski1989-angels:032",
+   "revision": 1
   },
   {
    "claimant": "Chaim Wirszubski",
@@ -1542,9 +1543,9 @@
    "text": "Wirszubski asks whether Jewish angelology has an angel that could be called son of God, wisdom, mind and intelligible sphere, answers that there is one, whose best-known name is Metatron, and observes that Metatron is mentioned twice in Pico's writings at about the time of the Conclusiones.",
    "quotes": [
     {
-     "text": "If the Hebrew word hokmah appeared in the text of the editio princeps we would have to put up with Pico's inconsistency. But what appears in the editio princeps is only a blank space, and I can see no reason to import inconsistency into Pico, just because Francesco Giorgio thought he knew what Pico meant. In his Commento, Pico states as clearly as one can wish that what the Platonists call the son of God ought to be compared with the first and most noble angel created by God. Is there in Jewish angelology an angel whom it might be possible to call son of God, wisdom, mind, and intelligible sphere? There is one. His best-known name is Metatron. He is mentioned twice in Pico's writings, roughly about the same time as when the Conclusiones were written.",
+     "text": "But what appears in the editio princeps is only a blank space, and I can see no reason to import inconsistency into Pico, just because Francesco Giorgio thought he knew what Pico meant. ... Is there in Jewish angelology an angel whom it might be possible to call son of God, wisdom, mind, and intelligible sphere? There is one. His best-known name is Metatron. He is mentioned twice in Pico's writings, roughly about the same time as when the Conclusiones were written.",
      "work": "wirszubski1989",
-     "line": 10198,
+     "line": 10199,
      "page": 199,
      "page_basis": "bracket [199] at l. 10224 closes the printed page (brackets stand at the foot of the page); the Index entry 'on Metatron 193 199-200' (l. 14039) agrees"
     }
@@ -1553,8 +1554,7 @@
    "hedge_words": "",
    "entities": [
     "Metatron",
-    "Francesco Giorgio",
-    "Commento"
+    "Francesco Giorgio"
    ],
    "warrants": [
     {
@@ -1585,7 +1585,7 @@
     "ref": "Book III, on the death of man transformed into an angel (p. 554 ed. Garin)"
    },
    "theses": [],
-   "text": "Wirszubski points to the Commento, where Pico says that the Kabbalist sages say Enoch is transformed into Metatron, the angel of divinity, as one instance of Pico's mention of Metatron.",
+   "text": "Wirszubski points to the Commento, where Pico says that the cabbalist sages say Enoch is transformed into Matatron, the angel of divinity, as one instance of Pico's mention of Metatron.",
    "quotes": [
     {
      "text": "angelo trasformato; ne altrimenti el detto si debbe intendere de sapienti cabbalisti quando ... Enoch in Matatron, angelo della divinita, ... alcuno altro uomo in angelo dicono trasformarsi.",
@@ -1593,6 +1593,13 @@
      "line": 10231,
      "page": 200,
      "page_basis": "bracket [200] at l. 10276 closes the printed page (brackets stand at the foot of the page); the Index entry 'on Metatron 193 199-200' (l. 14039) agrees"
+    },
+    {
+     "text": "There is one. His best-known name is Metatron. He is mentioned twice in Pico's writings, roughly about the same time as when the Conclusiones were written. One instance is the Commento, p. 554 ed. Garin",
+     "work": "wirszubski1989",
+     "line": 10205,
+     "page": 199,
+     "page_basis": "bracket [199] at l. 10224 closes the printed page (brackets stand at the foot of the page)"
     }
    ],
    "hedge": "assertive",
@@ -1785,19 +1792,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "the reading places Pico's tenth Kabbalistic thesis in the syncretism of Orpheus, Zoroaster, Hermes, Pythagoras and Parmenides that Renaissance Platonists knew as the Ancient Theology, with Metatron as the point where Pico separates Christianity from it",
-     "quote_index": 1
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 3,
     "justification": "replaces Hokmah by Metatron in the thesis and reads Metatron as the marker of a boundary between Christianity and Platonic Ancient Theology"
    },
-   "id": "wirszubski1989-angels:037"
+   "id": "wirszubski1989-angels:037",
+   "revision": 1
   },
   {
    "claimant": "Chaim Wirszubski",
@@ -1831,19 +1832,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Wirszubski contrasts the Renaissance Platonists' view of the Ancient Theology with Pico's more guarded view of the relation of Platonism and Christianity",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "marks a Pico-specific reserve toward Platonism on the Son of God"
    },
-   "id": "wirszubski1989-angels:038"
+   "id": "wirszubski1989-angels:038",
+   "revision": 1
   },
   {
    "claimant": "Chaim Wirszubski",
@@ -1930,7 +1925,7 @@
     "ref": "Conclusiones secundum Mercurium, Conclusio x (decem ultores; mala coordinatio denaria)"
    },
    "theses": [],
-   "text": "Wirszubski explains mala coordinatio denaria in the Hermetic tenth thesis as the evil or unholy counterpart of the hierarchy of the ten sefirot, and says it would be risky to draw from this thesis, which is not secundum opinionem propriam, conclusions about Pico's view of evil.",
+   "text": "Wirszubski explains mala coordinatio denaria in the tenth thesis of its series as the evil or unholy counterpart of the hierarchy of the ten sefirot, and says it would be risky to draw from this thesis, which is not secundum opinionem propriam, conclusions about Pico's view of evil.",
    "quotes": [
     {
      "text": "Mala coordinatio denaria is the evil or unholy counterpart of the hierarchy of the ten sefirot. The notion of the \"other side\" (or sinister hierarchy) in Jewish Kabbala (including the Zohar) as a rule presupposes the metaphysical reality of evil. Since the notion of mala coordinatio denaria appears in a thesis which is not secundum opinionem propriam, it would be risky to draw from it conclusions about Pico's view of evil.",
@@ -1968,7 +1963,7 @@
     "ref": "Conclusiones Cabalisticae secundum opinionem propriam, Conclusio lxvi"
    },
    "theses": [],
-   "text": "Wirszubski says Pico's sixty-sixth Kabbalistic thesis maps the parts of the human soul onto the ten sefirot, and that the ten avengers 'within us' of the Hermetic thesis are its counterpart.",
+   "text": "Wirszubski says Pico's sixty-sixth Kabbalistic thesis maps the parts of the human soul onto the ten sefirot, and that the ten avengers 'within us' of the preceding thesis are its counterpart.",
    "quotes": [
     {
      "text": "The ten avengers are \"within us\" (\"decern intra unumquemque sunt ultores\" states the previous thesis). Consequently, the correspondence",
@@ -2061,7 +2056,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says the Liber Redemptionis contains the doctrine of the Active Intellect as the prince of the divine presence, whose name is like that of his master, together with the human intellect's adherence and union with the Active Intellect, and that this Kabbalism combines Maimonides's philosophical premises with a letter-combinatory method.",
+   "text": "Wirszubski says the Liber Redemptionis contains the doctrine of the Active Intellect as the prince of the divine presence, whose name is like that of his master, together with the human intellect's adherence and union with the Active Intellect, and that this Kabbalism combines the rationalistic philosophy of the Guide of the Perplexed with a letter-combinatory method.",
    "quotes": [
     {
      "text": "What is peculiarly characteristic of the Kabbalism of the Liber Redemptionis is that it combines premises and opinions derived from the rationalistic philosophy of the Guide of the Perplexed with a contemplative method based on the combination of letters expounded in the Sefer Yesirah. The Liber Redemptionis, not unlike the known commentaries of Abulafia, contains the doctrine of the Active Intellect as \"the prince of the divine presence\" (sar ha-panim) whose name is like the name of his master, with all that is involved in that identification and with all that it implies with regard to the actualization of the human intellect, its adherence to the active intellect, and its union with the latter",
@@ -2107,7 +2102,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski argues that the Liber Redemptionis was written in 1273 (the year 5033 from creation) and, given its identical structure with Abulafia's known commentaries on the Guide, is likeliest by Abulafia himself, despite the name Zerakhia in a Leipzig manuscript.",
+   "text": "Wirszubski argues that the Liber Redemptionis was written in 1273 (the year 5033 from creation) and, given its identical structure with Abulafia's known commentaries, is likeliest by Abulafia himself, despite the name Zerakhia in a Leipzig manuscript.",
    "quotes": [
     {
      "text": "I am saying this because it is quite certain on internal evidence that the Liber Redemptionis was written in the year 5033 from the creation of the world, that is, A.D. 1273. Hence it stands to reason that the Liber Redemptionis is too early to be reasonably attributed to anyone but Abulafia himself.",
@@ -2162,7 +2157,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski notes that Abulafia's De Secretis Legis states a world-year corresponding to A.D. 1280, in a text Mithridates translated for Pico.",
+   "text": "Wirszubski notes that Abulafia's De Secretis Legis states a world-year corresponding to A.D. 1280.",
    "quotes": [
     {
      "text": "In the De Secretis Legis (fol. 458v), in the course of his discussion on the question whether the world was created or preexistent, Abulafia states, among other things, that \"numerus annorum annorum eius [mundi] apud nos hodie sunt quinque milia et quadraginta anni [A.D. 1280].\"",
@@ -2198,7 +2193,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says Abulafia was born in 1240, and reads the Liber Redemptionis as consistent with what is known of his life and work.",
+   "text": "Wirszubski says Abulafia was born in 1240, and says the conclusion that he wrote the book in question squares with everything known of his life and work.",
    "quotes": [
     {
      "text": "This conclusion squares with everything we know about Abulafia's life and work. He was born in the year 1240.",
@@ -2238,7 +2233,7 @@
     "ref": "Kabbalistic set; the Agent Intellect as archangel and prefect of the hisim hierarchy"
    },
    "theses": [],
-   "text": "Wirszubski quotes a passage of the Latin De Secretis Legis preface in which the Kabbalistic demonstrations are received from the mouth of the archangel set over the hierarchy of angels called hisim, who is called the Agent Intellect or Mattatron, and states that some words in it were added: none of the italicized words is warranted by the Hebrew, so the doctrine of the coincidence of opposites was superimposed on Abulafia by interpolation.",
+   "text": "Wirszubski quotes a passage of the Latin preface in which the Kabbalistic demonstrations are received from the mouth of the archangel set over the hierarchy of angels called hisim, who is called intellectus agens or Mattatron, and states that some words in it were added: none of the italicized words is warranted by the Hebrew, so the doctrine of the coincidence of opposites was superimposed on Abulafia by interpolation.",
    "quotes": [
     {
      "text": "Et demonstrationes cabaliste ab ore archangeli praefecti super hierarchia angelorum qui dicuntur hisim, qui dicitur intellectus agens, sive Mattatron, reeepte, quod quiequid ascendit ad manus nostras conclusive ex modo procedendi praedicto est illa res que inducit nos ad discernendum verum a falso",
@@ -2304,7 +2299,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says the phrase 'quodlibet est in quolibet' in Mithridates's Latin translation of Abulafia's De Secretis Legis argues the translator's acquaintance, not necessarily first hand, with Nicholas of Cusa's De Docta Ignorantia, whose fifth chapter is titled 'Quodlibet in Quolibet' and begins with Anaxagoras.",
+   "text": "Wirszubski says the phrase 'quodlibet est in quolibet' in a Latin translation argues the translator's acquaintance, not necessarily first hand, with Nicolaus Cusanus' De Docta Ignorantia, whose fifth chapter is titled 'Quodlibet in Quolibet' and begins with Anaxagoras.",
    "quotes": [
     {
      "text": "\"Quodlibet est in quolibet\" in the Latin translation of Abulafia's De Secretis Legis argues the translator's acquaintance — not necessarily first hand — with the De Docta Ignorantia of Nicolaus Cusanus.",
@@ -2325,8 +2320,7 @@
    "hedge_words": "not necessarily first hand",
    "entities": [
     "Nicolaus Cusanus",
-    "De Docta Ignorantia",
-    "Anaxagoras"
+    "De Docta Ignorantia"
    ],
    "warrants": [],
    "assumptions": [],
@@ -2359,7 +2353,7 @@
     "ref": "Enoch transformed into Metatron"
    },
    "theses": [],
-   "text": "Wirszubski prints, from Abulafia's De Secretis Legis in Latin, a sixth secret on the angel and the intellect which identifies Mattatron, prince of the face, with the separate intellect that brings our intellect from potency to act, says his proper name is the same as his master's (Shaddai), and reports that the sages call him Enoch, saying Enoch is Mattatron.",
+   "text": "Wirszubski prints a Latin passage, a sixth secret on the angel and the intellect, which identifies Mattatron, prince of the face, with the separate intellect that brings our intellect from potency to act, says his proper name is the same as his master's, and reports that the sages call him Henoch, saying Henoch is Mattatron.",
    "quotes": [
     {
      "text": "Et propter hoc oportet ut notificem tibi quod ilia res que educit intellectum nostrum de potentia ad actum est intellectus separatus ab omni materia",
@@ -2386,7 +2380,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Abulafia",
     "Mattatron",
     "Henoch",
     "Ionethes Chaldeus"
@@ -2441,7 +2434,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says that the closing part of the Metatron passage in Abulafia's De Secretis Legis (from 'Antequam autem dicam' on) is improbably by Abulafia, that the purpose of this interpolation is not self-evident, and that the interpolator cannot be assumed to be Mithridates, though he might be.",
+   "text": "Wirszubski says that the closing part of the passage in the Latin text (from 'Antequam autem dicam' on) is improbably by the author, that the purpose of this interpolation is not self-evident, and that the interpolator cannot be assumed to be Mithridates, though he might be.",
    "quotes": [
     {
      "text": "While it is improbable that Abulafia wrote the concluding part of the quotation (from \"Antequam autem dicam\" on), the purpose of this interpolation is by no means self-evident.",
@@ -2507,7 +2500,7 @@
     "ref": "Conclusio x (opinionem propriam): Dei filius"
    },
    "theses": [],
-   "text": "Wirszubski prints from the Liber Combinationum the statement that the Hebrew word ben, son, is the secret of the Agent Intellect, who is called son as the principle of the edifice, and reports that a marginal mark, a perpendicular line surmounted by two dots, stands against the last sentences of the second quotation and beside the whole of the first quotation.",
+   "text": "Wirszubski prints from an anonymous Latin work the statement that the Hebrew word ben, son, is the secret of the Intellectus Agens, who is called son as the principle of the edifice, and reports that a marginal mark, a perpendicular line surmounted by two dots, stands against the last sentences of the second quotation and beside the whole of the first quotation.",
    "quotes": [
     {
      "text": "notificavimus autem tibi quod 13 id est filius est secrete Intellectus Agens qui dicitur filius cum sit principium edificij.",
@@ -2524,10 +2517,9 @@
      "page_basis": "bracket [234] at l. 11817 closes the printed page (brackets stand at the foot of the page)"
     }
    ],
-   "hedge": "hedged",
-   "hedge_words": "Quite likely",
+   "hedge": "assertive",
+   "hedge_words": "",
    "entities": [
-    "Liber Combinationum",
     "Intellectus Agens"
    ],
    "warrants": [
@@ -2612,9 +2604,9 @@
    "text": "Wirszubski says Pico's fourth Kabbalistic thesis, that Ensoph is not to be counted among the sefirot but is their abstract and uncommunicated unity, aligns Pico with the Geronese school of Kabbala and in particular with Rabbi Azriel of Gerona, on his reading of the evidence.",
    "quotes": [
     {
-     "text": "It always helps to understand Pico's encounter with Kabbala, if the lineage of his theses can be traced. This is so, not because Pico was a slavish follower of his sources, but because Jewish Kabbala is not a uniform body of doctrine. The doctrine of the ten sefirot is no exception: it is presented in quite different forms in the books Pico read in the translations of Mithridates. Hence, the more genuinely Kabbalistic a thesis happens to be, the more likely it is that Pico was taking sides, perhaps unaware, in the quarrels of Jewish Kabbalists among themselves. In the fourth thesis his alignment, unless I misjudge the evidence, is with the Geronese school of Kabbala, and in particular with Rabbi Azriel of Gerona.",
+     "text": "Hence, the more genuinely Kabbalistic a thesis happens to be, the more likely it is that Pico was taking sides, perhaps unaware, in the quarrels of Jewish Kabbalists among themselves. In the fourth thesis his alignment, unless I misjudge the evidence, is with the Geronese school of Kabbala, and in particular with Rabbi Azriel of Gerona.",
      "work": "wirszubski1989",
-     "line": 11836,
+     "line": 11841,
      "page": 235,
      "page_basis": "bracket [235] at l. 11864 closes the printed page (brackets stand at the foot of the page)"
     },
@@ -2661,7 +2653,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says the negative part of Pico's fourth thesis, that Ensoph is not counted with the sefirot, is accounted for by Axelrad's Corona Nominis Boni and Nahmanides's commentary on the Sefer Yesirah, both of which give the reason for the Book of Creation's 'ten and not eleven', while the positive part, that Ensoph is the unity of the ten sefirot, harks back to Azriel of Gerona, who put the relation in terms of the One and the Many.",
+   "text": "Wirszubski says the texts he quotes from Axelrad and from another commentary account for the negative part of Pico's fourth thesis, that 'Eyn-Sof is not to be counted with the sefirot, while the positive part, that it is the unity of the ten sefirot, harks back to Azriel of Gerona, who put the relation in terms of the One and the Many.",
    "quotes": [
     {
      "text": "That treatise, as I have argued in Chapter 3, is in all likelihood the direct source of Pico's second thesis secundum secretam doctrinam sapientum Hebraeorum Cabalistarum. This being so, it is a matter of some interest for the present purpose that Abraham Axelrad bears witness to the existence of the doctrine according to which 'Eyn-Sof was superadded to the ten sefirot",
@@ -2777,8 +2769,7 @@
    "hedge_words": "it does not seem to me likely",
    "entities": [
     "Azriel",
-    "Abulafia",
-    "Nicolaus Cusanus"
+    "Abulafia"
    ],
    "warrants": [],
    "assumptions": [],
@@ -2811,21 +2802,14 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says that in Pico's thesis Ensoph is feminine, and that the only other pre-Pico instance of the feminine use he recalls is in the Latin translation of Axelrad's Corona Nominis Boni.",
+   "text": "Wirszubski says that in Pico's thesis 'Eyn-Sof is feminine, and that the only other pre-Pico instance of the feminine use he recalls is in the Latin translation of Axelrad's Corona Nominis Boni.",
    "quotes": [
     {
-     "text": "The artificial noun 'Eyn-Sof, created by the Kabbalists themselves, is masculine in Hebrew. In Pico's thesis it is feminine. Unless my memory plays me false, the only other instance of 'Eyn-Sof used as a feminine noun, before Pico's thesis, appears in the Latin translation of Abraham Axel-",
+     "text": "The artificial noun 'Eyn-Sof, created by the Kabbalists themselves, is masculine in Hebrew. In Pico's thesis it is feminine. Unless my memory plays me false, the only other instance of 'Eyn-Sof used as a feminine noun, before Pico's thesis, appears in the Latin translation of Abraham Axel- [...] rad's Corona Nominis Boni.",
      "work": "wirszubski1989",
      "line": 11854,
      "page": 235,
      "page_basis": "bracket [235] at l. 11864 closes the printed page (brackets stand at the foot of the page)"
-    },
-    {
-     "text": "rad's Corona Nominis Boni.",
-     "work": "wirszubski1989",
-     "line": 11871,
-     "page": 236,
-     "page_basis": "bracket [236] at l. 11921 closes the printed page (brackets stand at the foot of the page)"
     }
    ],
    "hedge": "hedged",
@@ -2948,7 +2932,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski argues that Patrizi misread Ficino's letter to Germain de Ganay: Ficino's 'enarrationes in eloquia sacra' meant commentaries on the Scriptures, not on the Chaldean Oracles, so the tradition that Ficino said he found Pico's Chaldean books or commentary in Pico's papers rests on a misconception.",
+   "text": "Wirszubski argues that Patrizi misread Ficino's letter to Germain de Ganay: Ficino's 'enarrationes in eloquia sacra' meant commentaries on the Scriptures, not on the Oracles, so the tradition that Ficino said he found Pico's commentary on the Oracles among his papers rests on a misconception.",
    "quotes": [
     {
      "text": "Ficino did touch upon Pico's posthumous papers in his letter to Germain de Ganay, but what he says is remarkably different from what Patrizi reports him as saying",
@@ -3053,7 +3037,7 @@
     "ref": "second proem (tabernacle) and end (man as microcosm)"
    },
    "theses": [],
-   "text": "Wirszubski observes that the analogical likeness of the tabernacle, man and the world occurs in Abulafia's Liber Redemptionis, that Pico's familiar markings appear in the margin there, and that it is nevertheless unlikely Pico's elaborate discussion descends from Abulafia's succinct statement.",
+   "text": "Wirszubski observes that the analogical likeness of the tabernacle, man and the world occurs in a work of Abulafia in Cod. Chigi, that Pico's familiar markings appear in the margin there, and that it is nevertheless unlikely Pico's elaborate discussion descends from that succinct statement.",
    "quotes": [
     {
      "text": "It will have been noticed that there are two analogical likenesses of the three worlds in the ... at the beginning it is the Tabernacle, whereas at the end it is Man. The analogical likeness of the Tabernacle, Man, and the World occurs in Abraham Abulafia's Liber ... Cod. Chigi, fol. 285bis r",
@@ -3073,9 +3057,7 @@
    "hedge": "hedged",
    "hedge_words": "There is every likelihood",
    "entities": [
-    "Abraham Abulafia",
-    "Liber Redemptionis",
-    "Heptaplus"
+    "Abraham Abulafia"
    ],
    "warrants": [],
    "assumptions": [],
@@ -3108,7 +3090,7 @@
     "ref": "second proem: the tabernacle in three parts"
    },
    "theses": [],
-   "text": "Wirszubski says the detail in which Pico works out the analogies of tabernacle, man and world is reminiscent of Bahya ben Asher's commentary on the Pentateuch and of Isaac of Acre's Me'irat 'Eynayim, and that Bahya and Isaac of Acre had a common source in Baruch Togarmi, the teacher of Abulafia.",
+   "text": "Wirszubski says the detail in which Pico works out the analogies of tabernacle, man and world is reminiscent of two Kabbalistic books, by Bahya ben Asher and by Isaac of Acre, and that Bahya and Isaac of Acre had a common source in Baruch Togarmi, the teacher of Abulafia.",
    "quotes": [
     {
      "text": "But the detailed form in which the analogical images or likenesses of the Tabernacle, Man, and the World are worked out by Pico is strongly reminiscent of the similar treatment of the same theme in two Kabbalistic books",
@@ -3131,8 +3113,7 @@
     "Bahya ben Asher",
     "Isaac of Acre",
     "Baruch Togarmi",
-    "Abraham Abulafia",
-    "Me'irat 'Eynayim"
+    "Abraham Abulafia"
    ],
    "warrants": [
     {
@@ -3297,7 +3278,7 @@
     "ref": "second proem: Anaxagoras attribution"
    },
    "theses": [],
-   "text": "Wirszubski quotes the second proem's sentence in which Pico attributes the 'all in all' opinion to Anaxagoras (Quam Anaxagorae credo fuisse opinionem), later developed by Pythagoreans and Platonists, and himself traces the doctrine there to Proclus.",
+   "text": "Wirszubski quotes the second proem's sentence in which Pico attributes the 'all in all' opinion to Anaxagoras (Quam Anaxagorae credo fuisse opinionem), explicated afterward by the Pythagoricis et Piatonicis, and himself traces the doctrine there to Proclus.",
    "quotes": [
     {
      "text": "sed quoniam quicquid in omnibus simul est mundis, id et in singulis continetur, neque est aliquis unus ex eis in quo non omnia sint quae sunt in singulis [my italics]. Quam Anaxagorae credo fuisse opinionem, si recte eum sensisse putamus, explicatam deinde a Pythagoricis et Piatonicis.",
@@ -3333,19 +3314,13 @@
     }
    ],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "the Anaxagoras attribution sits in the same proem as the Platonic and Proclean material, but Wirszubski does not tie it to Ficino",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "records what Wirszubski does and does not say on the Anaxagoras attribution in the three-worlds proem"
    },
-   "id": "wirszubski1989-angels:066"
+   "id": "wirszubski1989-angels:066",
+   "revision": 1
   },
   {
    "claimant": "Chaim Wirszubski",
@@ -3360,7 +3335,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Wirszubski concludes that two motifs stand side by side in Pico's doctrine of the three worlds: the analogical, ultimately from Baruch Togarmi, and the monadological, from Proclus, so that Jewish mysticism and Neoplatonic theology dwell peacefully side by side in the proem of the Heptaplus.",
+   "text": "Wirszubski concludes that two motifs stand side by side in Pico's doctrine of the three worlds: the analogical, ultimately from Baruch Togairmi, and the monadological, from Proclus, so that Jewish mysticism and Neoplatonic theology dwell peacefully side by side in the proem of the Heptaplus.",
    "quotes": [
     {
      "text": "The preceding discussion and collocation of texts show that two motifs appear side by side in Pico's doctrine of the three worlds: the analogical motif and the monadological motif. The former is ultimately descended from Baruch Togairmi; the latter is descended from Proclus. A salient feature of Pico's Christian Kabbala can thus be seen ut in votiva tabula: Jewish mysticism and Neoplatonic theology dwell peacefully side by side in the proem of Pico's Heptaplus.",
@@ -3474,7 +3449,7 @@
     "ref": "proem (ed. Garin pp. 178-180): the Hebrew authors Pico will not cite"
    },
    "theses": [],
-   "text": "Wirszubski identifies the Hebrew authors named in the Heptaplus: Simeon antiquus writing in Chaldean as Rabbi Simeon ben Yohay, the reputed author of the Zohar; Neonias as Nehunya ben Ha-Qana, reputed author of the Bahir; the two Moses as Maimonides and Nahmanides; and Manaem as Menahem Recanati.",
+   "text": "Wirszubski identifies the Hebrew authors named in the Heptaplus: Simeon antiquus writing in Chaldean as Rabbi Simeon ben Yohay, the reputed author of the Zohar; Neonias as Nehunya ben Ha-Qana, reputed author of the Bahir; the two Moses as Moses ben Maimon and Moses ben Nahman; and Manaem as Menahem Recanati.",
    "quotes": [
     {
      "text": "\"Simeon antiquus who wrote in Chaldean\" (that is, Aramaic) is obviously Rabbi Simeon ben Yohay, the reputed author of the Zohar. Neonias is Rabbi Nehunya ben Ha-Qana, the reputed author of the Bahir. Sadias is of course Saadya Gaon.",
@@ -3528,7 +3503,7 @@
     "ref": "the angelic world as fire and water (ed. Garin pp. 188-190)"
    },
    "theses": [],
-   "text": "Wirszubski says the Heptaplus affords the best commentary on the philosophic part of Conclusio lxvii, and cites the passage in which Pico sets the seraphic fire of the region beyond the world, the fire of the sun in heaven and elemental fire in a threefold gradation, with the cherubic minds above the heaven as waters.",
+   "text": "Wirszubski says the Heptaplus affords the best commentary on the philosophic part of thesis lxvii, and cites the passage in which Pico sets the seraphic fire of the region beyond the world, the fire of the sun in heaven and elemental fire in a threefold gradation, with the cherubic minds above the heaven as waters.",
    "quotes": [
     {
      "text": "It is in fact the Heptaplus that affords the best commentary on the philosophic part of the thesis.",
@@ -3763,7 +3738,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says the direct sources of Pico's first set of Kabbalistic theses that can be shown are seven books: Recanati's Commentary on the Pentateuch, Gikatilla's Portae Iustitiae, the Comentum Sepher Iesire, the Expositio Decem Numerationum, the Bahir, the Liber Combinationum and Axelrad's Corona Nominis Boni.",
+   "text": "Wirszubski says the direct sources of Pico's first set of Kabbalistic theses that can be shown are seven books: Recanati's Commentary on the Pentateuch, Gicatilla's Portae Iustitiae, the Comentum Sepher Iesire, the Expositio Decern Numerationum, the Bahir, the Liber Combinationum and Axelrad's Corona Nominis Boni.",
    "quotes": [
     {
      "text": "The demonstrable sources of Pico's first set of theses are seven books: Menahem Recanati's Commentary on the Pentateuch Joseph Gicatilla's Portae Iustitiae (Cod. Chigi) Comentum Sepher Iesire (Vat. 191) Expositio Decern Numerationum (Vat. 191) The Book Bahir (Vat. 191) Liber Combinationum (Vat. 190) Abraham Axelrad's Corona Nominis Boni (Vat. 190)",
@@ -4284,7 +4259,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says the extant anonymous Latin translation of Recanati's commentary on Genesis used by Egidio da Viterbo cannot be the work of Flavius Mithridates, since its vocabulary and syntax rule that out, against Kieszkowski's confident assertion without proof, and that the manuscript Gaffarel saw was a different, lost translation.",
+   "text": "Wirszubski says the extant anonymous Latin translation of Recanati's commentary on Genesis used by Egidio da Viterbo cannot be the work of Flavius Mithridates, since its vocabulary and syntax rule that out, against a recent assertion made with confidence but without proof.",
    "quotes": [
     {
      "text": "An anonymous Latin translation of Recanati's commentary on Genesis which was used by Egidio da Viterbo is extant in manuscript form in the Bibliotheque Nationale, fonds latin 598. It has recently been asserted, with confidence but without proof, that this translation is the work of Flavius Mithridates. However, the vocabulary and syntax of the translation used by Viterbo rule out the possibility that the anonymous translator was Flavius Mithridates.",
@@ -4306,8 +4281,7 @@
    "entities": [
     "Egidio da Viterbo",
     "Flavius Mithridates",
-    "Recanati",
-    "Kieszkowski"
+    "Recanati"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4442,7 +4416,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says that Eucharius Silber left blank spaces in the editio princeps for want of Greek and Hebrew type, and holds that the manuscripts at Vienna and Erlangen are descended from the printed text and not, as Kieszkowski assumed, its parents.",
+   "text": "Wirszubski says that Eucharius Silber left blank spaces in the editio princeps for want of Greek and Hebrew type, and holds that the Vindobonensis and the Erlangensis are descended from the printed text and not, as an editor supposed, its parents.",
    "quotes": [
     {
      "text": "Anybody can see that Eucharius Silber left blank spaces in the editio princeps for want of Greek and Hebrew type.",
@@ -4470,7 +4444,6 @@
    "hedge_words": "",
    "entities": [
     "Eucharius Silber",
-    "Kieszkowski",
     "Vindobonensis",
     "Erlangensis"
    ],
@@ -4549,7 +4522,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says Reuchlin's quotation of Nahmanides in De Arte Cabalistica conflates a paraphrase with a word-for-word quotation of Pico's thirty-third thesis, which itself quotes Recanati verbatim, so that Recanati and not Nahmanides is Pico's direct source in that case.",
+   "text": "Wirszubski says Reuchlin's quotation of Nahmanides conflates a paraphrase with a word-for-word quotation of Pico's thirty-third thesis, which itself quotes Recanati verbatim, so that Recanati and not Nahmanides is Pico's direct source in that case.",
    "quotes": [
     {
      "text": "Reuchlin's quotation from Nahmanides is a remarkable conflation. What begins as a paraphrase of Nahmanides shades into a literal quotation of Pico: the part of the text italicized above is a word-for-word quotation of Pico's thirty-third thesis secundum secretam doctrinam sapientum Hebraeorum Cabalistarum. That thesis, however, as we have seen in Chapter 3, is itself a word-for-word quotation from Recanati, fol. 48ra. Hence it is as certain as can be that, in this particular case, Recanati and not Nahmanides is Pico's direct source.",
@@ -4564,8 +4537,7 @@
    "entities": [
     "Reuchlin",
     "Nahmanides",
-    "Recanati",
-    "De Arte Cabalistica"
+    "Recanati"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4587,7 +4559,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski argues that there is no conclusive evidence that Pico read Nahmanides before completing his theses: the earliest explicit reference is in the Heptaplus, written about two years after the Conclusiones, after his return from France in 1488, and Nahmanides is not among the Jewish commentators listed in the Apology's passage on the four modes of interpretation.",
+   "text": "Wirszubski argues that there is no conclusive evidence that Pico read Nahmanides before completing his theses: the earliest explicit reference is in the Heptaplus, written about two years after the Conclusiones, after his return from France in 1488.",
    "quotes": [
     {
      "text": "The evidence quoted so far is not in itself decisive. Chronology helps to highlight the essential fact: there is no conclusive evidence that Pico read Nahmanides before he completed his theses. The earliest explicit reference to Nahmanides is in the Heptaplus: \"Moses Gerundinensis, theologus primae celebritatis apud Hebraeos.\" It is in fact in the Heptaplus that a quotation from the preface to Nahmanides' commentary can be identified. The Heptaplus was written after Pico's return from France in 1488, that is, about two years after the Conclusiones.",
@@ -4601,8 +4573,7 @@
    "hedge_words": "no conclusive evidence",
    "entities": [
     "Nahmanides",
-    "Heptaplus",
-    "Apology"
+    "Heptaplus"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4624,7 +4595,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says Abulafia is never explicitly mentioned by Pico but that Pico certainly read Cod. Vat. Ebr. 190, which includes the De Secretis Legis, before completing his theses, so that the most probable hypothesis is that Abulafia, not Nahmanides, inspired Pico's view of Kabbala as the divinely revealed science explaining the mysteries of the Law.",
+   "text": "Wirszubski says Abulafia is never explicitly mentioned by Pico but that Pico certainly read Cod. Vat. Ebr. 190, which includes the De Secretis Legis, before completing his theses, so that the most probable hypothesis is that Abulafia inspired Pico's view of Kabbala as the divinely revealed science explaining the mysteries of the Law.",
    "quotes": [
     {
      "text": "Abulafia, it is true, is never explicitly mentioned by Pico. But few things in the history of Pico's encounter with Kabbala are as certain as the fact that he read Cod. Vat. Ebr. 190, which includes Abulafia's De Secretis Legis, before he completed his theses. Hence it is to my mind the most probable hypothesis that Pico's view of Kabbala as the divinely revealed science that explains the mysteries of the Law was inspired by Abulafia.",
@@ -4668,7 +4639,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Wirszubski says Pico read Nahmanides's commentary on the Sefer Yesirah, in Latin, before 10 November 1486, since the rabbinic dictum quoted in Pico's letter appears in that commentary only.",
+   "text": "Wirszubski says Pico read Rabbi Moses ben Nahman's commentary on the Sefer Yesirah, in Latin, by the date of the letter he quotes, since the rabbinic dictum quoted in Pico's letter appears in that commentary only.",
    "quotes": [
     {
      "text": "What Pico read is quite clearly not the Book of Creation itself but commentaries on that book, and what he quotes is a famous rabbinic dictum which appears in one of them, and in one only, namely the commentary on the Sefer Yesirah by Rabbi Moses ben Nahman of Gerona, known also as Moses Gerundinensis.",
@@ -4676,6 +4647,13 @@
      "line": 3265,
      "page": 58,
      "page_basis": "bracket [58] at l. 3310 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "In a letter ad ignotum amicum, dated 10 November 1486 from La Fratta, Pico writes:",
+     "work": "wirszubski1989",
+     "line": 3241,
+     "page": 69,
+     "page_basis": "bracket [69] at l. 3258 closes the printed page (brackets stand at the foot of the page)"
     }
    ],
    "hedge": "assertive",
@@ -4702,10 +4680,2028 @@
     "justification": "shows Pico did read one work of Nahmanides in 1486, a commentary on the Book of Creation, distinct from the biblical commentary"
    },
    "id": "wirszubski1989-angels:094"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "second proem: the three worlds"
+   },
+   "theses": [],
+   "text": "Kristeller reports that Wirszubski proves, what had merely been surmised, that the doctrine of the three worlds, angelic, celestial and elementary, in the Heptaplus is of Kabbalistic origin, though it presupposed both the Platonist distinction between the intelligible and the visible and the Aristotelian distinction between celestial and sublunar.",
+   "quotes": [
+    {
+     "text": "Wirszubski proves (what had been merely surmised in the past) that the doctrine of the three worlds, angelic, celestial, and elementary, as advanced in the Heptaplus, is of Kabbalistic origin, although it evidently presupposed both the Platonist distinction between the intelligible and visible and the Aristotelian distinction between the celestial and sublunar.",
+     "work": "wirszubski1989",
+     "line": 309,
+     "page": 11,
+     "page_basis": "the introduction is by Paul Oskar Kristeller; the Roman-numeral bracket [xi] at l. 350 closes the page (printed page xi)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Wirszubski",
+    "Heptaplus",
+    "Kabbalistic"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "interpretive",
+     "text": "Wirszubski's own Appendix 17 assigns only the analogical motif of the three worlds to a Kabbalistic source and the monadological motif to Proclus, which is narrower than Kristeller's summary of the doctrine as of Kabbalistic origin.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "Kristeller summarises Wirszubski as establishing the Kabbalistic origin of the three worlds doctrine; the summary is broader than Appendix 17"
+   },
+   "id": "wirszubski1989-angels:095"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Kristeller says Pico's role was especially important because he used Kabbala to confirm Christian theology and added Kabbalism, and Aristotelianism, to the universal syncretism envisaged by Ficino, associating it with Platonism, Hermeticism and magic.",
+   "quotes": [
+    {
+     "text": "Pico's role was especially important because he used the Jewish Kabbala for the confirmation of Christian theology and because he added Kabbalism (as well as Aristotelianism) to the universal syncretism envisaged by Marsilio Ficino and thus associated it with the currents of Platonism, Hermeticism, and magic studied by Frances Yates, D.P. Walker, and their followers.",
+     "work": "wirszubski1989",
+     "line": 248,
+     "page": 9,
+     "page_basis": "the introduction is by Paul Oskar Kristeller; the Roman-numeral bracket [ix] at l. 256 closes the page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Marsilio Ficino",
+    "Frances Yates",
+    "D.P. Walker",
+    "Kabbalism"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Kristeller places Pico's Kabbalism and Aristotelianism as additions to the syncretism Ficino envisaged",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "frames Pico's relation to Ficino as adding to Ficino's syncretism, not opposing it"
+   },
+   "id": "wirszubski1989-angels:096"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Kristeller reports that Wirszubski shows it was Pico rather than his Hebrew sources who linked Kabbalistic teachings with the Chaldean Oracles, Orphic hymns, Proclus, Cusanus and Ramon Lull, so that Pico added another dimension to the Platonic syncretism founded by Ficino.",
+   "quotes": [
+    {
+     "text": "We learn that even Maimonides was interpreted as a Kabbalist by some of his commentators, and that it was Pico rather than his Hebrew sources who linked the Kabbalistic teachings with the Chaldean Oracles, with the Orphic hymns, with Proclus and Cusanus, and even with Ramon Lull.",
+     "work": "wirszubski1989",
+     "line": 314,
+     "page": 11,
+     "page_basis": "Kristeller's introduction; bracket [xi] at l. 350"
+    },
+    {
+     "text": "We also come to understand how Pico, with his study and praise of the Kabbala, added another important dimension to the Platonic syncretism founded by Ficino and based on ancient Platonism and also on the so- called Ancient Theology that went under the names of Pythagoras, Orpheus, Zoroaster, and Hermes Trismegistus.",
+     "work": "wirszubski1989",
+     "line": 322,
+     "page": 11,
+     "page_basis": "Kristeller's introduction; bracket [xi] at l. 350"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Maimonides",
+    "Chaldean Oracles",
+    "Proclus",
+    "Cusanus",
+    "Ramon Lull",
+    "Ficino",
+    "Pythagoras",
+    "Orpheus",
+    "Zoroaster",
+    "Hermes Trismegistus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico adds a Kabbalistic dimension to Ficino's Platonic syncretism and Ancient Theology",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "places Proclus and Cusanus among what Pico, not his Hebrew sources, linked to Kabbala"
+   },
+   "id": "wirszubski1989-angels:097"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_report",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Kristeller states that Pico's main Kabbalistic sources were Abulafia and Menahem of Recanati.",
+   "quotes": [
+    {
+     "text": "Some of the chapters and appendices deal with specific and significant doctrines and historical connections. We learn that Pico's main Kabbalistic sources were Abulafia and Menahem of Recanati, how magic was involved in the mysticism of the Kabbalists, and how Pico understood some basic doctrines that also played a prominent role in later Christian Kabbalism, such as the 'Eyn-Sof and the ten sefirot.",
+     "work": "wirszubski1989",
+     "line": 294,
+     "page": 10,
+     "page_basis": "Kristeller's introduction; bracket [x] at l. 301 closes the page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Abulafia",
+    "Menahem of Recanati",
+    "Eyn-Sof"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wirszubski1989-angels:098"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Book III, chap. xi, stanza 9"
+   },
+   "theses": [],
+   "text": "Wirszubski says Pico became interested in Kabbala before he knew Hebrew, and that Pico states in his Commento that he set out to study Hebrew and Chaldean solely for the sake of Kabbala.",
+   "quotes": [
+    {
+     "text": "The beginning of Giovanni Pico della Mirandola's interest in Kabbala is still a matter of conjecture, or largely so: we still do not know for certain when, where, how, or through whom he made his first acquaintance with Kabbala. One fact, however, that can be stated with certainty has only too often been submerged by the posthumous fame of Pico's Hebrew erudition: contrary to what has often been assumed or implied, Pico became interested in Kabbala before he knew Hebrew. He states in his Commento, and there is no reason to doubt or disbelieve his statement insofar as Hebrew is concerned, that he set out to study Hebrew and Chaldean solely for the sake of Kabbala.",
+     "work": "wirszubski1989",
+     "line": 367,
+     "page": 3,
+     "page_basis": "bracket [3] at l. 403 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Commento",
+    "Chaldean"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "When, where, how, and through whom Pico first met Kabbala is not known.",
+     "basis_quote": {
+      "text": "we still do not know for certain when, where, how, or through whom he made his first acquaintance with Kabbala",
+      "work": "wirszubski1989",
+      "line": 367
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "reverses the assumption that Pico's Hebrew learning preceded his Kabbalism"
+   },
+   "id": "wirszubski1989-angels:099"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski reports that on 8 September 1486 Ficino wrote to Pico asking for the return of his Latin Koran, and that Pico's undated reply from La Fratta, not earlier than the middle of October 1486, says he had devoted a month to Hebrew and then given himself entirely to other languages.",
+   "quotes": [
+    {
+     "text": "We happen to be fairly well informed about the early stage of Pico's study of Hebrew. On 8 September 1486, Marsilio Ficino wrote to Pico requesting the return of his Latin Koran. Pico's undated reply, written from La Fratta, is extant:",
+     "work": "wirszubski1989",
+     "line": 379,
+     "page": 3,
+     "page_basis": "bracket [3] at l. 403 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Hence his undated reply \"ex Fratta\" to Ficino's letter of September is not likely to be earlier than the middle of October, 1486.",
+     "work": "wirszubski1989",
+     "line": 419,
+     "page": 4,
+     "page_basis": "bracket [4] at l. 455 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "postquam enim Hebraicae linguae, perpetuum mensem, dies noctesque inuigilaui, ad Arabicae Studium et Chaldaicae totus me [...] contuli",
+     "work": "wirszubski1989",
+     "line": 384,
+     "page": 3,
+     "page_basis": "bracket [3] at l. 403 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "is not likely to be earlier than the middle of October",
+   "entities": [
+    "Marsilio Ficino",
+    "La Fratta",
+    "Latin Koran"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "correspondence",
+     "note": "Ficino's letter of 8 September 1486 and Pico's reply from La Fratta",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "dates the Ficino-Pico exchange about the Koran and the state of Pico's Hebrew"
+   },
+   "id": "wirszubski1989-angels:100"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski argues that by mid-October 1486 Pico could write moderately good Hebrew prose but could not have read an untranslated Kabbalistic book unaided, and that it is quite unlikely that he read any significant quantity of Kabbalistic texts in the original before he wrote his theses, so the range of his acquaintance with Kabbala in 1486 was not determined by his Hebrew.",
+   "quotes": [
+    {
+     "text": "Granted its date, two things emerge from this valuable piece of evidence, both of which are important for the study of Pico's encounter with Kabbala. First, by the middle of October, that is to say two or three weeks before the completion of his Conclusiones early in November, Pico could write an exercise in Hebrew prose composition moderately well. But to read a Kabbalistic book in the original his mastery of Hebrew would have had to be of an entirely different order which would take years to acquire.",
+     "work": "wirszubski1989",
+     "line": 422,
+     "page": 4,
+     "page_basis": "bracket [4] at l. 455 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "ity that Pico read some bits of Kabbala in Hebrew cannot and need not be denied, it is quite unlikely that he read any significant quantity of Kabbalistic texts in the original language before he wrote his Kabbalistic theses. In other words, the range of Pico's acquaintance with Kabbala in 1486 was not determined by his knowledge of Hebrew.",
+     "work": "wirszubski1989",
+     "line": 462,
+     "page": 5,
+     "page_basis": "bracket [5] at l. 504 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "makes the Latin translations, not Hebrew, the channel of Pico's Kabbalistic reading in 1486"
+   },
+   "id": "wirszubski1989-angels:101"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says Pico learned from Mithridates's translations infinitely more than he could have learned from the Hebrew originals unaided, though the translations kept reminding him that he needed Hebrew to understand what he read.",
+   "quotes": [
+    {
+     "text": "The answer is by no means self-evident, because, as we shall see later, Pico learned a great deal from the translations of Mithridates, infinitely more than he might or could have learned from the Hebrew originals, had he attempted to read them without translations. At the same time, it is not a reflection on the quality of the translations of Mithridates to say that they kept reminding Pico he needed Hebrew in order to understand the Kabbala he was reading in translation.",
+     "work": "wirszubski1989",
+     "line": 522,
+     "page": 6,
+     "page_basis": "bracket [6] at l. 554 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Mithridates",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "teaching",
+     "note": "what Pico learned from Mithridates's translations",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "states the extent of Pico's dependence on the translator"
+   },
+   "id": "wirszubski1989-angels:102"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski illustrates what cannot be seen in Latin translation with the isopsephic equivalence of intellectus agens and Israel in Hebrew, both summing to 541.",
+   "quotes": [
+    {
+     "text": "He was quite right. No one, unless he knew Hebrew, would suspect, on reading in Latin \"et quemadmodum tradidit illam in manu intellectus agentis sic tradidit illam in manu Israel,\" that Intellectus Agens and Israel were isopsephic equivalents, as in fact they are in Hebrew",
+     "work": "wirszubski1989",
+     "line": 612,
+     "page": 8,
+     "page_basis": "bracket [8] at l. 660 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "are in each case 541.",
+     "work": "wirszubski1989",
+     "line": 618,
+     "page": 8,
+     "page_basis": "bracket [8] at l. 660 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Intellectus Agens",
+    "Israel"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "shows Agent Intellect identified with Israel by gematria in a passage Pico read in translation"
+   },
+   "id": "wirszubski1989-angels:103"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski argues that almost all the manuscripts of Mithridates's translations that Pico demonstrably used date themselves between 10 May 1486, the day of Pico's abduction of Margherita from Arezzo, and Pico's completion of his theses early in November 1486, through allusions inserted in parentheses, and amount to about 3,000 pages in folio.",
+   "quotes": [
+    {
+     "text": "Here it will suffice to point out one fact. Almost all the manuscripts of the translations of Mithridates that Pico demonstrably used for his theses were demonstrably written between May and November 1486. None of the manuscripts is dated, but they all date themselves by their frequent references and allusions, inserted in the text in parentheses, to Pico's love affair with Margherita, the wife of Giuliano Mariotto de* Medici of Arezzo. That affair became common knowledge and common gossip on 10 May 1486",
+     "work": "wirszubski1989",
+     "line": 480,
+     "page": 5,
+     "page_basis": "bracket [5] at l. 504 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Since all the manuscripts used by Pico — and they amount to [...] approximately 3,000 pages in folio — were consequently written between that date and the completion of Pico's theses early in November",
+     "work": "wirszubski1989",
+     "line": 491,
+     "page": 5,
+     "page_basis": "bracket [5] at l. 504 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Margherita",
+    "Giuliano Mariotto",
+    "Arezzo",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "teaching",
+     "note": "Mithridates's translations date themselves by parentheses about Pico's affair",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "dates the Kabbalistic translations Pico used to a six-month window"
+   },
+   "id": "wirszubski1989-angels:104"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says it is the likeliest conclusion that Pico began to study Hebrew in the summer of 1486, the summer when the Kabbalistic translations made for him by Mithridates flowed in great profusion.",
+   "quotes": [
+    {
+     "text": "In view of these circumstances it is the likeliest conclusion that Pico set to study Hebrew in the summer of 1486. That same summer is the time when the Kabbalistic translations made for Pico by Mithridates flowed in great profusion.",
+     "work": "wirszubski1989",
+     "line": 476,
+     "page": 5,
+     "page_basis": "bracket [5] at l. 504 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "it is the likeliest conclusion",
+   "entities": [
+    "Pico",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wirszubski1989-angels:105"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says Mithridates translated a small Kabbalistic library of some forty books, about 5,500 pages in folio in all, of which the four extant manuscripts preserve nearly 3,500, and that nobody can establish whether it was a chance collection or a selection and by whom.",
+   "quotes": [
+    {
+     "text": "Mithridates performed a remarkable feat of translation: he translated a small Kabbalistic library. The extant autographs of his translations in the Vatican Library — Codices Vaticani Ebraici 189-191, and Codex Chigi A. VI. 190 — do not represent the entire body of Kabbala translated into Latin by Mithridates. Three of the four manuscripts show substantial losses, and a whole large manuscript which was seen and described by Gaffarel has not been recovered since. The extant four manuscripts in their present state of preservation amount to nearly 3,500 pages in folio.",
+     "work": "wirszubski1989",
+     "line": 748,
+     "page": 11,
+     "page_basis": "bracket [11] at l. 789 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "It is not known, nor can it be established for want of conclusive evidence, whether Mithridates translated a chance collection of Kabbalistic books, or books selected for translation, and, if the latter, by whom the selection was made. At any rate, this impressive body of Kabbalistic literature in Latin translation comprises some forty books",
+     "work": "wirszubski1989",
+     "line": 760,
+     "page": 11,
+     "page_basis": "bracket [11] at l. 789 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Mithridates",
+    "Gaffarel",
+    "Codices Vaticani Ebraici 189-191",
+    "Codex Chigi"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "Whether Mithridates translated a chance collection or a selection, and who selected it, cannot be established for want of conclusive evidence.",
+     "basis_quote": {
+      "text": "It is not known, nor can it be established for want of conclusive evidence, whether Mithridates translated a chance collection of Kabbalistic books, or books selected for translation",
+      "work": "wirszubski1989",
+      "line": 760
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "the extent of the translations Mithridates made for Pico",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "gives the size and provenance of the corpus Pico read"
+   },
+   "id": "wirszubski1989-angels:106"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says it is no longer a matter of opinion that Cod. Vat. Ebr. 189 and 190 are translations made for Pico by Flavius Mithridates, since their subscriptions state it, whereas the subscriptions of Cod. Vat. Ebr. 191 name Mithridates as translator but never mention Pico as recipient.",
+   "quotes": [
+    {
+     "text": "Since the recovery, some years ago, of the missing end of Cod. Vat. Ebr. 189 and the missing end of Cod. Vat. Ebr. 190, it is no longer a matter of opinion or inference that these two manuscripts are translations made for Pico della Mirandola by Flavius Mithridates: this is plainly stated in their subscriptions.",
+     "work": "wirszubski1989",
+     "line": 812,
+     "page": 12,
+     "page_basis": "bracket [12] at l. 838 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Another noteworthy difference is that the subscriptions invariably state that Mithridates is the translator, but none of them mentions Pico as the recipient of the translations.",
+     "work": "wirszubski1989",
+     "line": 820,
+     "page": 12,
+     "page_basis": "bracket [12] at l. 838 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico della Mirandola",
+    "Flavius Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "teaching",
+     "note": "subscriptions record translations made for Pico by Mithridates",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "grounds the Mithridates-for-Pico attribution in subscriptions"
+   },
+   "id": "wirszubski1989-angels:107"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski argues from Mithridates's own notes that Cod. Vat. Ebr. 189, with the twelve books De Anima ascribed to Eleazar of Worms, was written when Pico was already in Rome and after the consequences of the publication of the Conclusiones, so that Pico could not have read it before completing his theses.",
+   "quotes": [
+    {
+     "text": "A remarkable case in point is Cod. Vat. Ebr. 189. Owing mainly to the fact that Gaffarel described a direct descendant of this manuscript in the seventeenth century, the works of Eleazar of Worms rank high in most discussions of Pico's Kabbalistic sources. But some notes of Mithridates reveal an unsuspected fact: when Mithridates was translating the extant twelve books De Anima for Pico, the latter was already in Rome.",
+     "work": "wirszubski1989",
+     "line": 1008,
+     "page": 16,
+     "page_basis": "bracket [16] at l. 1040 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Thus while some details remain obscure, it is at any rate plain enough that the note presupposes the consequences of the publication of Pico's Conclusiones. It follows that the manuscript cannot be anterior to 1487.",
+     "work": "wirszubski1989",
+     "line": 1100,
+     "page": 18,
+     "page_basis": "bracket [18] at l. 1126 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "That Pico read this manuscript, or part of it, need not be denied: he quotes Eleazar of Worms once in his Disputationes adversus Astrologiam. But he could not possibly have read it before he completed his Conclusiones early in November 1486: no one can read a manuscript which has not yet been written.",
+     "work": "wirszubski1989",
+     "line": 1104,
+     "page": 18,
+     "page_basis": "bracket [18] at l. 1126 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Eleazar of Worms",
+    "Cod. Vat. Ebr. 189",
+    "Gaffarel",
+    "Mithridates",
+    "Rome"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Mithridates's notes place Pico in Rome while he translated the De Anima books",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "removes the Eleazar of Worms corpus from the sources of the Conclusiones"
+   },
+   "id": "wirszubski1989-angels:108"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski argues that Gaffarel's hypothesis that Pico had the books translated for Sixtus IV translated again by the same translator has no foundation, since none of the extant manuscripts, written for Pico after 10 May 1486, would qualify as any of the three books translated before Sixtus IV's death in 1484.",
+   "quotes": [
+    {
+     "text": "Proving by textual criticism that the manuscripts are autographs is a roundabout method, but it has its advantages and compensations. What the internal evidence of the text here reveals is not only that the extant four manuscripts are written in the translator's own hand, but also that they were written while the translator was actually translating the Hebrew originals into Latin. And since they were all demonstrably written for Pico after 10 May 1486, it follows that none of them would qualify for identification with any of the three Kabbalistic books said to have been translated into Latin before the death of Sixtus IV in 1484",
+     "work": "wirszubski1989",
+     "line": 946,
+     "page": 15,
+     "page_basis": "bracket [15] at l. 988 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "It is, however, not too difficult to see that Gaffarel's hypothesis, being the child of wishful thinking, has no foundation.",
+     "work": "wirszubski1989",
+     "line": 957,
+     "page": 15,
+     "page_basis": "bracket [15] at l. 988 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gaffarel",
+    "Sixtus IV"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "patronage",
+     "note": "Mithridates had translated Kabbalistic books for Sixtus IV before 1484 according to a report Wirszubski does not accept for the extant manuscripts",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "separates the translations made for Pico from any earlier translations for Sixtus IV"
+   },
+   "id": "wirszubski1989-angels:109"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski reports that Mithridates's notes identify 'Malfecta' as Giovanni Battista Cibo, Cardinal of Melfi and Mithridates's former patron, who as Innocent VIII succeeded Sixtus IV.",
+   "quotes": [
+    {
+     "text": "Mithridates observed on fol. 173v: \"asinos omnes (appellatione quorum intelligitur Malfecta cum cardinalibus suis).\" \"Malfecta\" is of course Giovanni Battista Cibo, Cardinalis Melfitensis, the former patron of Mithridates, who, as Innocent VIII, succeeded Sixtus IV.",
+     "work": "wirszubski1989",
+     "line": 1065,
+     "page": 17,
+     "page_basis": "bracket [17] at l. 1094 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Giovanni Battista Cibo",
+    "Innocent VIII",
+    "Sixtus IV",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "innocent-viii",
+     "kind": "other",
+     "note": "Mithridates's parentheses insult Malfecta, i.e. Cibo, Innocent VIII, his former patron",
+     "quote_index": 0
+    },
+    {
+     "party": "mithridates",
+     "kind": "patronage",
+     "note": "Cibo, as Cardinal of Melfi, was Mithridates's former patron",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "shows the translator's relation to the pope before the trial"
+   },
+   "id": "wirszubski1989-angels:110"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says Pico did not make his first acquaintance with Kabbala through untranslated texts, that there was little Kabbala in Latin translation before Mithridates's translations of 1486, and that what little was known in translation would scarcely fill a quire of the manuscripts made for Pico.",
+   "quotes": [
+    {
+     "text": "Granted that Pico's study of Kabbala was not an extension of previous Hebrew studies but that, on the contrary, his study of Hebrew was from the outset subsidiary to Kabbala, it follows that Pico did not make his first acquaintance with Kabbala through untranslated Kabbalistic texts, unless they were texts translated to him viva voce. Nor is it likely, on the other hand, that Pico read much Kabbala in translation before the translations made for him by Flavius Mithridates began to flow in 1486.",
+     "work": "wirszubski1989",
+     "line": 703,
+     "page": 10,
+     "page_basis": "bracket [10] at l. 739 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Bits and pieces of both truly and ostensibly Kabbalistic texts in Latin translations were certainly in circulation, enough apparently to make Pico wish to know more, but hardly enough to satisfy his desire: what little is known for certain of truly Kabbalistic texts",
+     "work": "wirszubski1989",
+     "line": 715,
+     "page": 10,
+     "page_basis": "bracket [10] at l. 739 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Nor is it likely",
+   "entities": [
+    "Flavius Mithridates",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "places the beginning of Pico's Kabbalistic reading in the translations Mithridates made"
+   },
+   "id": "wirszubski1989-angels:111"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "angel-location",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusiones Cabalisticae secundum secretam doctrinam, Conclusio XXVIII (angelos mundanos)"
+   },
+   "theses": [],
+   "text": "Wirszubski says that in the thesis that the winged creatures of the fifth day are mundane angels who appear to men the expression 'mundane angels' proves that Pico's direct source was Recanati, quoting the Zohar, whose own text has 'supernal' where Recanati's quotation has 'world'.",
+   "quotes": [
+    {
+     "text": "While the ultimate source of this thesis is certainly the Zohar, the very expression \"mundane angels\" proves that Pico's direct source in this instance was Recanati, fols. llvb-12ra:",
+     "work": "wirszubski1989",
+     "line": 2436,
+     "page": 42,
+     "page_basis": "bracket [42] at l. 2453 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The reading in Recanati's quotation of the Zohar is HO^V, \"world,\" whereas the text of the Zohar itself has J'xVy, \"supernal,\" i.e., messengers from above.",
+     "work": "wirszubski1989",
+     "line": 2449,
+     "page": 42,
+     "page_basis": "bracket [42] at l. 2453 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Recanati",
+    "Zohar"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Wirszubski translates Recanati's quotation of Zohar I, fol. 34r: the birds are messengers to the world who appear to men in actual human shape, and there are others not visible except by the spirit",
+     "quote": {
+      "text": "these are the messengers to the world who appear to men in actual human shape",
+      "work": "wirszubski1989",
+      "line": 2440
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Recanati reached Pico in Mithridates's lost translation",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "pins an angelological thesis of the Kabbalistic set (angels who appear to men, and those who do not) to Recanati's Zohar quotation, not to the Zohar itself"
+   },
+   "id": "wirszubski1989-angels:112"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "angel-location",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusio XXX (angelus habens sex alas)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the ultimate source of the thesis that no angel having six wings is ever transformed is undoubtedly the Zohar, but that there is no need to look beyond Recanati, who quotes it, for the immediate source.",
+   "quotes": [
+    {
+     "text": "Though the ultimate source of this thesis is undoubtedly the Zohar, part I, fol. 34v, there is no need to look for its immediate source beyond Recanati, fol. 12va, where the Zohar is quoted:",
+     "work": "wirszubski1989",
+     "line": 2525,
+     "page": 44,
+     "page_basis": "bracket [44] at l. 2566 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Zohar",
+    "Recanati"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Wirszubski translates the quoted passage: they all have six wings and never change, and fly and glide through the world observing the doings of men and reporting them above",
+     "quote": {
+      "text": "they all have six wings and never change",
+      "work": "wirszubski1989",
+      "line": 2529
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Recanati reached Pico in Mithridates's lost translation",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "identifies the source of the six-winged angel thesis"
+   },
+   "id": "wirszubski1989-angels:113"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "angel-location",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusio XLVI (militia coelestis humiliatur)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the source of the thesis (a king of the earth is not punished on earth unless the host of heaven is first humbled) is a commonplace of the Midrash, quite likely reached through Recanati, with Gicatilla's Portae Iustitiae as an alternative source in which the nation's archangel must fall first.",
+   "quotes": [
+    {
+     "text": "What this thesis states is not, strictly speaking, a specifically Kabbalistic view, but a commonplace of the Midrash, which is sometimes quoted or alluded to in Kabbalistic books. Quite likely, Pico's direct source is Recanati, fol. 89ra-b:",
+     "work": "wirszubski1989",
+     "line": 2942,
+     "page": 51,
+     "page_basis": "bracket [51] at l. 2968 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "An alternative source is Gicatilla, Portae Iustitiae, Cod. Chigi, fol. 74v:",
+     "work": "wirszubski1989",
+     "line": 2953,
+     "page": 51,
+     "page_basis": "bracket [51] at l. 2968 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Quite likely",
+   "entities": [
+    "Recanati",
+    "Gicatilla",
+    "Portae Iustitiae",
+    "Midrash"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Wirszubski quotes Gikatilla's Latin: God does not humble a people unless he first humbles its archangel in heaven",
+     "quote": {
+      "text": "non humiliat earn nisi prius humiliaret Archangelum eius in celo",
+      "work": "wirszubski1989",
+      "line": 2955
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Gikatilla's Latin is Mithridates's translation, Cod. Chigi",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "ties the thesis on the heavenly host to the doctrine of a nation's archangel"
+   },
+   "id": "wirszubski1989-angels:114"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "angel-location",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusiones Cabalisticae secundum secretam doctrinam (the passage on Michael and Gabriel, bohu and tohu)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the Bahir passage in which the archangel Michael on God's right hand of water and hail and the archangel Gabriel on his left of fire make peace between them lies behind another thesis of the first set, and that Pico could have read it in three of his manuscripts.",
+   "quotes": [
+    {
+     "text": "could read it in three of his manuscripts: in the Chisianus which once contained the whole of De Proportione Divinitatis (Ma'areket ha-'Elohut), fol. 194v ed. Mantua, 1558; fol. 258red. Ferrara, 1558; in Cod. Vat. Ebr. 191, which includes the Bahir (§9 ed. Scholem); and in the lost translation of Recanati, who quoted this passage of the Bahir",
+     "work": "wirszubski1989",
+     "line": 2344,
+     "page": 41,
+     "page_basis": "bracket [41] at l. 2393 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Docet quod Michael archangelus dextre dei sancti et benedicti Aque et Grandinis, et Gabriel archangelus sinistre eius et ignis, posuit pacem inter eos, Arbiter est.",
+     "work": "wirszubski1989",
+     "line": 2357,
+     "page": 41,
+     "page_basis": "bracket [41] at l. 2393 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Michael",
+    "Gabriel",
+    "Bahir",
+    "Recanati"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "the Bahir in Cod. Vat. Ebr. 191 is Mithridates's translation",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wirszubski1989-angels:115"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says that the order of the theses of the first set often reflects the order of Recanati's book, three blocks of theses following their sources in Recanati exactly, and that the placement of Conclusio XXIX between two theses about angels reflects Recanati's arrangement even though its phrasing is from the Bahir.",
+   "quotes": [
+    {
+     "text": "the subject matter of individual theses but also in their arrangement. I have added page references to Recanati in my list above so that anyone can see for himself that the haphazard order of Pico's theses quite often reflects the meanderings of his principal source. In particular three blocks of theses, namely viii-xi, xxxi-xl, xlii-xlvii, in which the individual theses follow each other in exactly the same order as their respective sources follow each other in Recanati.",
+     "work": "wirszubski1989",
+     "line": 3167,
+     "page": 56,
+     "page_basis": "bracket [56] at l. 3208 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Conclusio xxix, which was inspired by the Bahir, is a case in point. It treats of the proper application of the name MSPS and is located between two theses both of which treat of angels.",
+     "work": "wirszubski1989",
+     "line": 3177,
+     "page": 56,
+     "page_basis": "bracket [56] at l. 3208 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Recanati",
+    "Bahir",
+    "Conclusio xxix"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "explains the arrangement of the first set of theses by Recanati's order"
+   },
+   "id": "wirszubski1989-angels:116"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says the symbolic language of the ten sefirot is sometimes transformed in Mithridates's translations almost beyond recognition, names of divine manifestations or properties being replaced by symbolic numbers, as in the Ma'areket ha-'Elohut, and that the Kabbala of the sefirot is thereby given a twist toward magic.",
+   "quotes": [
+    {
+     "text": "The symbolical language of Kabbala, and in particular the symbolism of the ten sefirot, is sometimes transformed in the translations of Mithridates almost beyond recognition: names denoting divine manifestations or properties are replaced with what look like symbolical numbers.",
+     "work": "wirszubski1989",
+     "line": 4041,
+     "page": 77,
+     "page_basis": "bracket [77] at l. 4077 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The substitution of numbers for the names of the ten sefirot in the Latin translation of the Ma'areket ha-'Elohut is noteworthy in particular because in that same translation the Kabbala of the sefirot is given a twist toward magic.",
+     "work": "wirszubski1989",
+     "line": 4193,
+     "page": 80,
+     "page_basis": "bracket [80] at l. 4229 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Mithridates",
+    "Ma'areket ha-'Elohut"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "the translator recasts sefirot names as numbers and gives them a magical turn",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "shows that the sefirot reached Pico in a translation that had turned them into numbers, which bears on how he could speak of sefirot as numerationes and forms"
+   },
+   "id": "wirszubski1989-angels:117"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusiones Magicae secundum opinionem propriam, Conclusio 25 (numeri sunt proprii operi cabalae)"
+   },
+   "theses": [],
+   "text": "Wirszubski says that, unless he is mistaken, Pico's notion that numbers are proper to the work of Kabbala is for the most part out of tune with the Hebrew originals of his sources but in keeping with their Latin translations, which shift emphasis from language symbolism to number symbolism.",
+   "quotes": [
+    {
+     "text": "We ought to reckon with the possibility that the shift of emphasis from linguistic symbolism to numerical symbolism which makes itself felt throughout the translations of Mithridates is reflected in Pico's theses.",
+     "work": "wirszubski1989",
+     "line": 4349,
+     "page": 83,
+     "page_basis": "bracket [83] at l. 4368 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Unless I am mistaken, Pico's notion that \"numeri sunt proprii operi cabalae\" is for the most part out of tune with the Hebrew originals of his Kabbalistic sources, but quite in keeping with their Latin translations.",
+     "work": "wirszubski1989",
+     "line": 4357,
+     "page": 83,
+     "page_basis": "bracket [83] at l. 4368 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Unless I am mistaken",
+   "entities": [
+    "Mithridates",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "a doctrine of Pico's traced to the translator's number symbolism",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "derives a thesis of Pico's from the translations, not the Hebrew originals"
+   },
+   "id": "wirszubski1989-angels:118"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says Mithridates preached his Sermo de Passione Domini before the pope and cardinals on Good Friday 1481, some five years before the Kabbalistic translations, adducing what he presented as secret Jewish evidence for Christ's Passion, and that interpolations linking Kabbala with Christian dogma occur in his translations.",
+   "quotes": [
+    {
+     "text": "Some five years before he produced his Kabbalistic translations for Pico, Flavius Mithridates preached his Sermo de Passione Domini before the pope and cardinals in the Vatican. In that sermon Mithridates adduced what he presented as secret Jewish evidences from a pre-Christian \"old Talmud\" confirming the mysteries of Christ's Passion.",
+     "work": "wirszubski1989",
+     "line": 5497,
+     "page": 106,
+     "page_basis": "bracket [106] at l. 5532 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "it is hardly surprising that interpolations and notes designed to link Kabbala with Christian dogma occur in his Kabbalistic translations.",
+     "work": "wirszubski1989",
+     "line": 5502,
+     "page": 106,
+     "page_basis": "bracket [106] at l. 5532 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The sermon was preached on Good Friday 1481",
+     "work": "wirszubski1989",
+     "line": 5528,
+     "page": 106,
+     "page_basis": "bracket [106] at l. 5532 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Flavius Mithridates",
+    "Sermo de Passione Domini"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "patronage",
+     "note": "Mithridates preached before the pope and cardinals in 1481",
+     "quote_index": 0
+    },
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Christianizing interpolations in his translations",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "locates Mithridates as a prior Christian reader of Kabbala for confirmation of Christ"
+   },
+   "id": "wirszubski1989-angels:119"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "dionysian-hebrew-orders"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusiones Cabalisticae secundum opinionem propriam, Conclusio xx ('az) and Conclusio xlvii of the first set (Amen)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the Latin translation adds a Trinitarian clause that the Hebrew lacks, connecting the three superior sefirot with the Trinity, and that in the case of the word 'az the effect can be seen in Pico's twentieth Kabbalistic thesis.",
+   "quotes": [
+    {
+     "text": "The italicized clause has no equivalent in the printed text of the Hebrew original. Its purpose is quite obvious: to make the Trinitarian interpretation an integral part of the text, which, in its original form, is not at all concerned with the unity of the three superior sefirot, but with the eternity of God.",
+     "work": "wirszubski1989",
+     "line": 5521,
+     "page": 106,
+     "page_basis": "bracket [106] at l. 5532 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The words \"trinitatem ... unitam in unitate essencie\", which connect the symbolical interpretation of the Hebrew word 'az with the Catholic dogma of the Trinity, have no counterpart in the manuscripts of the Hebrew original. The effect of this interpolation can be seen in Pico's twentieth Kabbalistic thesis secundum opinionem propriam",
+     "work": "wirszubski1989",
+     "line": 5550,
+     "page": 107,
+     "page_basis": "bracket [107] at l. 5586 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "'az",
+    "Trinity"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Trinitarian interpolations in the translator's Latin reach Pico's theses",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "shows that a Trinitarian reading of the three highest sefirot in Pico's thesis comes through Mithridates's interpolation, not the Hebrew"
+   },
+   "id": "wirszubski1989-angels:120"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says a Latin glossary passage was tampered with so as to link 'homo id est tiphereth' with Jesus Christ, to whom all power was given, a link the translator himself supplies by quoting Matthew 28:18 in the margin.",
+   "quotes": [
+    {
+     "text": "Quite plainly, the text as it stands in the Latin translation was tampered with. I do not think I might have divined the purpose of this interpolation had not Mithridates himself afforded a valuable clue, quoting Matthew 28:18 in the margin of fol. 250r: \"Data est mihi omnis potesta<s> XPC.\" We can now see that the interpolation meant to link \"homo id est tiphereth\" with Jesus Christ, to whom all power was given.",
+     "work": "wirszubski1989",
+     "line": 5598,
+     "page": 108,
+     "page_basis": "bracket [108] at l. 5638 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Matthew 28:18",
+    "Jesus Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "the interpolation is signalled by the translator's own marginal note",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "shows how Tiferet as 'homo' is tied to Christ in the Latin text"
+   },
+   "id": "wirszubski1989-angels:121"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says that Mithridates, on his own showing, interpolated a Christianizing interpretation at Genesis 1:26, but that it does not follow that all the Christianizing interpolations are his, since authorship of each must be established independently and at the present state of research cannot be.",
+   "quotes": [
+    {
+     "text": "The controversy between Jews and Christians concerning the plural forms of the noun elohim and the verb na'aseh in Genesis 1:26 can be traced from the Midrash to Ramon Marti, Alfonso de Valladolid (Abner of Burgos), and Ramon Lull. We can see in this particular instance that Mithridates, on his own showing, interpolated a Christianizing interpretation. But it does not by any means follow that all the interpolations I have discussed in this chapter are in fact Mithridates': the authorship of interpolations cannot be satisfactorily established by inferences from one interpolation to another.",
+     "work": "wirszubski1989",
+     "line": 5708,
+     "page": 110,
+     "page_basis": "bracket [110] at l. 5738 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "in order to make sure whether Mithridates is in fact the author of all the Christianizing interpolations that occur in his translation, to establish the authorship of each single interpolation independently. At the present state of research this cannot be done",
+     "work": "wirszubski1989",
+     "line": 5720,
+     "page": 110,
+     "page_basis": "bracket [110] at l. 5738 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "At the present state of research this cannot be done",
+   "entities": [
+    "Mithridates",
+    "Ramon Marti",
+    "Alfonso de Valladolid",
+    "Ramon Lull"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The extent and authorship of Christianizing interpolation in the texts Pico read cannot be established, given incomplete preservation of the translations.",
+     "basis_quote": {
+      "text": "Nor is it possible, in view of the incomplete preservation of the translations, to establish the extent of Christianizing interpolation in the texts that Pico read.",
+      "work": "wirszubski1989",
+      "line": 5726
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "authorship of Christianizing interpolations is undetermined except where Mithridates admits it",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "limits what can be attributed to the translator"
+   },
+   "id": "wirszubski1989-angels:122"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "death-of-the-kiss",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Book III, chap. viii, Stanza 4 (binsica)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the similarity between Pico's symbolism of the kiss and two Zohar passages on the kiss of spirit is striking and, unless he is mistaken, the only instance of similarity between Pico and an identifiable Zohar passage not quoted in Recanati or another source Pico used, but that the balance of probabilities does not favour Pico's direct acquaintance with the Zohar.",
+   "quotes": [
+    {
+     "text": "The similarity between Pico and the Zohar is striking. Unless I am mistaken this is the only instance so far of similarity between Pico and an identifiable passage in the Zohar which is not quoted in Recanati (or in any other source which Pico used). But the balance of probabilities at the present stage of research does not encourage the hypothesis of Pico's direct acquaintance with the Zohar. Hence the uneasy conclusion that, even if it makes sense to assume that the Zohar looms behind Pico's symbolism of the kiss, it does not follow that the Zohar as such is Pico's direct source.",
+     "work": "wirszubski1989",
+     "line": 12747,
+     "page": 253,
+     "page_basis": "bracket [253] at l. 12761 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Unless I am mistaken",
+   "entities": [
+    "Zohar",
+    "Recanati"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Wirszubski translates Zohar II, fol. 124v: kissing expresses the cleaving of spirit to spirit, and he who dies by the kiss of God is united with another Spirit",
+     "quote": {
+      "text": "kissing expresses the cleaving of spirit to spirit",
+      "work": "wirszubski1989",
+      "line": 12706
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "Wirszubski leaves open how the Zohar's kiss symbolism reached Pico if not directly.",
+     "basis_quote": {
+      "text": "the balance of probabilities at the present stage of research does not encourage the hypothesis of Pico's direct acquaintance with the Zohar",
+      "work": "wirszubski1989",
+      "line": 12752
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "gives the strongest Zohar parallel to Pico and declines to infer that Pico read the Zohar"
+   },
+   "id": "wirszubski1989-angels:123"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "900-conclusions",
+    "ref": "Conclusiones Cabalisticae secundum opinionem propriam, Conclusio iii (theologia inferior)"
+   },
+   "theses": [],
+   "text": "Wirszubski suggests, tentatively, that Pico's theologia inferior may have been conceived after pseudo-Dionysius's cataphatic theology of divine names, the superior way being the apophatic, so that the third Kabbalistic thesis would mean that practical Kabbala practises the formative principles and divine attributes.",
+   "quotes": [
+    {
+     "text": "If it is true, as I have suggested, that Pico conceived of theologia inferior in contradistinction to the ineffabilis de supersubstantiali deitate theologia, it makes sense, considering that the latter is reminiscent of pseudo- Dionysius, to reckon with the possibility that Pico conceived of the Lower Theology after the manner of the Cataphatic Theology of pseudo- Dionysius Areopagita.",
+     "work": "wirszubski1989",
+     "line": 12771,
+     "page": 254,
+     "page_basis": "bracket [254] at l. 12804 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Seen against this background, the third Kabbalistic thesis might be tentatively interpreted as follows: practical Kabbala, conceived of as scientia semot, the science of sacred names, \"practices\" all formative principles (metaphysica formalis) and divine attributes (theologia inferior).",
+     "work": "wirszubski1989",
+     "line": 12782,
+     "page": 254,
+     "page_basis": "bracket [254] at l. 12804 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "speculative",
+   "hedge_words": "might be tentatively interpreted",
+   "entities": [
+    "pseudo-Dionysius Areopagita"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "a tentative Dionysian reading of a term in the third thesis"
+   },
+   "id": "wirszubski1989-angels:124"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says that next to Flavius Mithridates the person who matters most for Pico's encounter with Kabbala is Johanan Alemanno, identified in a letter as Pico's teacher, and that it remains unknown what Johanan taught Pico and when their association began, though it is usually dated to 1488 in Florence.",
+   "quotes": [
+    {
+     "text": "The person who next to Flavius Mithridates matters most for the study of Pico's encounter with Kabbala is Johanan Alemanno.",
+     "work": "wirszubski1989",
+     "line": 12857,
+     "page": 256,
+     "page_basis": "bracket [256] at l. 12895 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "While it cannot be doubted that Giovanni Pico's teacher Iochanas is Johanan Alemanno, it remains unknown what it was that Johanan taught Pico. Nor is it known for certain where and when the association between them began. It is usually assumed that it began in 1488, when Pico and Johanan met in Florence.",
+     "work": "wirszubski1989",
+     "line": 12866,
+     "page": 256,
+     "page_basis": "bracket [256] at l. 12895 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Johanan Alemanno",
+    "Flavius Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "What Alemanno taught Pico and when their association began is unknown.",
+     "basis_quote": {
+      "text": "it remains unknown what it was that Johanan taught Pico",
+      "work": "wirszubski1989",
+      "line": 12867
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "teaching",
+     "note": "Alemanno as second Jewish teacher of Pico after Mithridates",
+     "quote_index": 0
+    },
+    {
+     "party": "gianfrancesco-pico",
+     "kind": "reception",
+     "note": "Gianfrancesco Pico's letter names Iochanas as his uncle's master",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "names a Jewish teacher of Pico besides Mithridates"
+   },
+   "id": "wirszubski1989-angels:125"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "commento",
+    "ref": "Book III, on Solomon's Song (p. 535 ed. Garin): Johanan e Manaen ebrei"
+   },
+   "theses": [],
+   "text": "Wirszubski holds that the balance of probabilities favours Garin's identification of 'Johanan et Manaen ebrei' in the Commento with Johanan Alemanno and Menahem Recanati, so that Pico already knew Alemanno when he wrote the Commento, dated by consensus in 1486, and that Alemanno may have been Pico's teacher in cabalisticis at the most decisive period, a possibility he calls fascinating.",
+   "quotes": [
+    {
+     "text": "It is altogether unlikely that \"Johanan\" is a Rabbinic sage of old: what Pico quotes in his name is a famous dictum the author of which is Rabbi Akiba. \"Manaem\" is mentioned also in the Heptaplus, where he figures among the iuniores. This being so, the balance of probabilities is definitely in favor of Garin's interpretation that \"Johanan et Manaen ebrei\" are Johanan Alemanno and Menahem Recanati. If this is conceded, it follows that Pico already knew Johanan Alemanno when he wrote his Commento.",
+     "work": "wirszubski1989",
+     "line": 12908,
+     "page": 257,
+     "page_basis": "bracket [257] at l. 12937 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "Although the chronology of Pico's writings is not always as certain as one might wish, the Commento is dated by the consensus of learned opinion in 1486, after Pico's return from Paris. Hence the possibility that Johanan Alemanno was Pico's teacher in cabalisticis at the most decisive period of Pico's encounter with Kabbala.",
+     "work": "wirszubski1989",
+     "line": 12915,
+     "page": 257,
+     "page_basis": "bracket [257] at l. 12937 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Hence the possibility",
+   "entities": [
+    "Johanan Alemanno",
+    "Menahem Recanati",
+    "Garin",
+    "Commento"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "chronological",
+     "text": "The Commento's date (1486) rests on the consensus of learned opinion; Wirszubski says the chronology of Pico's writings is not always as certain as one might wish.",
+     "basis_quote": {
+      "text": "the chronology of Pico's writings is not always as certain as one might wish",
+      "work": "wirszubski1989",
+      "line": 12915
+     }
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "pushes Pico's acquaintance with Alemanno back to 1486, before the usual date of 1488"
+   },
+   "id": "wirszubski1989-angels:126"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "apology",
+    "ref": "the fourfold interpretation of Scripture among Christians and Jews (Opera p. 178)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the Hebrew terms of the fourfold interpretation of Scripture in Pico's Apology, sechel for tropological and cabala for anagogical, are unlikely to derive from any source but Bahya ben Asher, yet Pico's own marginal note in Levi ben Gershom's Latin commentary on the Song shows the terminology could travel without Bahya's text, so that Isaac of Acre is as good a source for the three worlds as Bahya.",
+   "quotes": [
+    {
+     "text": "As far as I can see, it is undeniably true that the Hebrew terms of the fourfold interpretation of Scripture which Pico uses in his Apology are unlikely to be derived from any identifiable source except Bahya. At the same time, it is equally true that in order to know all there is to be known about the terminology of Bahya's fourfold method of interpretation it is not necessary to read more than his relatively short preface.",
+     "work": "wirszubski1989",
+     "line": 13167,
+     "page": 262,
+     "page_basis": "bracket [262] at l. 13182 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "As far as I am aware, Cardinal Mercati's identification of the annotator's hand has never been challenged. Granted, then, that the identification is true, we can see Bahya's terminology of the fourfold interpretation of Scripture written, transliterated, and translated in Pico's hand in the margin of Levi ben Gershom's commentary on the Song of Solomon.",
+     "work": "wirszubski1989",
+     "line": 13202,
+     "page": 263,
+     "page_basis": "bracket [263] at l. 13222 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "After all, Isaac of Acre is as good a source for Pico's doctrine of the three worlds as Bahya ben Asher. Without the supporting evidence of the Apology, there is nothing to choose between them.",
+     "work": "wirszubski1989",
+     "line": 13207,
+     "page": 263,
+     "page_basis": "bracket [263] at l. 13222 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "the evidence of the Apology is perhaps not as decisive as it seems at first sight",
+     "work": "wirszubski1989",
+     "line": 13208,
+     "page": 275,
+     "page_basis": "bracket [263] at l. 13222 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "the evidence of the Apology is perhaps not as decisive as it seems",
+   "entities": [
+    "Bahya ben Asher",
+    "Isaac of Acre",
+    "Levi ben Gershom",
+    "Cardinal Mercati",
+    "Apology"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "the annotated Gersonides manuscript is Mithridates's translation for Pico",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "shows the Bahya terminology is not proof that Bahya was Pico's source for the three worlds either"
+   },
+   "id": "wirszubski1989-angels:127"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "apology",
+    "ref": "the condemned magical thesis on magic and Kabbala (Quaestio Quinta)"
+   },
+   "theses": [],
+   "text": "Wirszubski says the Oration was meant as the opening address of the public debate on the nine hundred theses, that it was not delivered, and that Pico was summoned before an ecclesiastical commission appointed by Innocent VIII, which condemned thirteen theses, none of them a Kabbalistic thesis, though Kabbala is involved in the condemned magical thesis that no science certifies Christ's divinity better than magic and Kabbala.",
+   "quotes": [
+    {
+     "text": "What is at present known as the Oratio de Hominis Dignitate was meant to be Pico's opening address of the public debate of his nine hundred theses. And the discussion of Kabbala in the oration was evidently intended to introduce his Kabbalistic confirmation of Christianity to the Christian audience.",
+     "work": "wirszubski1989",
+     "line": 6197,
+     "page": 122,
+     "page_basis": "bracket [122] at l. 6234 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "This is how Kabbala would have been presented to the Christian world, had Pico delivered his opening address. But, as we all know, the address was not delivered. The Church intervened, the debate never took place, and Pico was summoned before an ecclesiastical commission appointed by Innocent VIII to examine the theses. Thirteen of the nine hundred",
+     "work": "wirszubski1989",
+     "line": 6222,
+     "page": 122,
+     "page_basis": "bracket [122] at l. 6234 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "theses were condemned by the examiners. None of the Conclusiones Cabalisticae was condemned. But Kabbala is involved in one of the thirteen condemned theses, namely the magical thesis which states that \"nulla est scientia quae nos magis certificet de divinitate Christi quam magia et cabala.\"",
+     "work": "wirszubski1989",
+     "line": 6241,
+     "page": 123,
+     "page_basis": "bracket [123] at l. 6287 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Innocent VIII",
+    "Oratio de Hominis Dignitate",
+    "Conclusiones Cabalisticae"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "the commission condemned thirteen theses, none Kabbalistic, including a magical thesis involving Kabbala",
+     "quote_index": 1
+    },
+    {
+     "party": "innocent-viii",
+     "kind": "trial",
+     "note": "Innocent VIII appointed the commission",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "fixes which theses were condemned in relation to the Kabbalistic set"
+   },
+   "id": "wirszubski1989-angels:128"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "apology",
+    "ref": "Quaestio Quinta de magia naturali et cabala Hebraeorum"
+   },
+   "theses": [],
+   "text": "Wirszubski says Pico's defence of the condemned thesis rests entirely on a distinction between revealed and nonrevealed science, and that his line of defense requires distinguishing the Kabbala which is the foundation of his Conclusiones Cabalisticae from the Kabbala involved in the condemned magical thesis.",
+   "quotes": [
+    {
+     "text": "Pico was trained as a philosopher in Padua and Paris, the celebrated strongholds of Aristotelianism. Faced with a difficulty, he promptly produced the good old scholastic talisman distinguo. His declaratio and subsequent defense of the condemned thesis rest entirely on the distinction between revealed and nonrevealed science.",
+     "work": "wirszubski1989",
+     "line": 6262,
+     "page": 123,
+     "page_basis": "bracket [123] at l. 6287 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The whole drift of the \"Quaestio Quinta\" shows quite clearly that Pico's line of defense requires the distinction between the Kabbala which is the foundation of his Conclusiones Cabalisticae and the Kabbala which is involved in the condemned magical thesis.",
+     "work": "wirszubski1989",
+     "line": 6372,
+     "page": 125,
+     "page_basis": "bracket [125] at l. 6397 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Quaestio Quinta"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Pico's defence against the commission's condemnation of the magical thesis",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "reads the Apology's Kabbala distinction as a line of defence"
+   },
+   "id": "wirszubski1989-angels:129"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski argues that behind Pico's picture of Kabbala as the divinely revealed explanation of the mysteries of the Law there is an intervening Kabbalistic source between the Talmud and Maimonides, on the one hand, and Pico, on the other, that Abulafia is the obvious and only choice, and that De Secretis Legis is the only book Pico is known to have read before the Apology that couples these ideas with divine names and combination of letters.",
+   "quotes": [
+    {
+     "text": "What makes me think of an intervening Kabbalistic source between the Talmud and Maimonides, on the one hand, and Pico, on the other, is the unerring judgment that singled out the \"mysteries of the Law\" as the heart of Kabbala. And if there is indeed such an intervening source, Abraham Abulafia, the principal exponent of prophetic Kabbala, is the obvious and only choice.",
+     "work": "wirszubski1989",
+     "line": 6480,
+     "page": 127,
+     "page_basis": "bracket [127] at l. 6499 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "The idea that the true interpretation of the Law is descended from Mount Sinai can be picked up anywhere in Hebrew literature; and the idea that Kabbala is the interpretation of the mysteries of the Law can be found in a variety of Kabbalistic books. In Abulafia's De Secretis Legis (and in no other book which Pico is known to have read before he wrote his Apology) those two ideas are coupled in the same context with two other ideas of capital importance for the interpretation of Pico's theses, namely that the mysteries of the Law are concealed in divine names, and that one can unravel the mysteries through combinations of letters.",
+     "work": "wirszubski1989",
+     "line": 6593,
+     "page": 129,
+     "page_basis": "bracket [129] at l. 6608 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "What makes me think of an intervening Kabbalistic source",
+   "entities": [
+    "Abraham Abulafia",
+    "De Secretis Legis",
+    "Maimonides",
+    "Apology"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "Abulafia's De Secretis Legis in Mithridates's translation, Cod. Vat. Ebr. 190",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 2,
+    "justification": "names Abulafia, in Mithridates's Latin, as the source of Pico's conception of Kabbala as the mysteries of the Law"
+   },
+   "id": "wirszubski1989-angels:130"
+  },
+  {
+   "claimant": "Chaim Wirszubski",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Wirszubski says that in the Latin quotation of Moses ben Nahman's preface in Abulafia's preface the statement that there are four names is an unnecessary and improper addition by Mithridates, since neither Moses ben Nahman nor Abulafia says four names and the obvious division is into three, and that italics there mark interpolations.",
+   "quotes": [
+    {
+     "text": "Throughout this passage italics indicate interpolations.",
+     "work": "wirszubski1989",
+     "line": 6546,
+     "page": 128,
+     "page_basis": "bracket [128] at l. 6554 closes the printed page (brackets stand at the foot of the page)"
+    },
+    {
+     "text": "This ought to be an unnecessary and improper addition by Mithridates. Neither Moses ben Nahman nor Abulafia says that there are four names, and the obvious division is into three",
+     "work": "wirszubski1989",
+     "line": 6549,
+     "page": 128,
+     "page_basis": "bracket [128] at l. 6554 closes the printed page (brackets stand at the foot of the page)"
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "This ought to be",
+   "entities": [
+    "Moses ben Nahman",
+    "Abulafia",
+    "Mithridates"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "textual",
+     "text": "Which words in the Latin quotation of Nahmanides, including the phrase about angels of the holy celestial order, are the italicized interpolations is not visible in this OCR.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "mithridates",
+     "kind": "source",
+     "note": "an interpolation in the Latin of Abulafia's quotation from Nahmanides, attributed to Mithridates",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "marks the Latin Nahmanides quotation Pico could have read as containing translator's additions"
+   },
+   "id": "wirszubski1989-angels:131"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Conclusiones I-XLVII of the first set, lines 1560-2330 and 2640-2925, 3010-3160: read for the angel and hierarchy theses (I, II, XXVIII, XXX, XLVI and the Bahir passage on Michael and Gabriel, l. 2352-2360) only; the other theses (sefirot symbolism, circumcision, the tree, letters) not extracted because they do not bear on angelology or the One.",
+  "Chapter 7 lines 4530-5180 (Abulafia's commentaries on Maimonides in detail, Zerakhia authorship) mined only for the Active Intellect, Metatron and dating.",
+  "Chapter 10 'Mock Mysteries' (5879-6140; Mithridates's parentheses equating himself and Pico with divine names): seen only in grep hits, not extracted; no angelology.",
+  "Chapter 14 (8180-8440, 8500-8740) and Chapter 15 (8638-8740, 8830-9130, 9260-9413): Christian confirmation theses and letter-combinatory readings; only the passages on the Trinity/names (8452-8485), the Heptaplus (8742-8830, 9167-9200) were read and mined.",
+  "Appendices 1, 5-12, 20, 22 (10317-10345, 10911-11620, 12808-12846, 12941-13137): grep for angel, hierarch, Metatron, Dionys, Ficino gave no relevant hit, so not read closely; Appendix 22 (ars combinandi and ars Raymundi) not mined.",
+  "Indexes (13224-14778): used only to check printed pages (Metatron 193, 199-200; Appendix 13 pp. 231-233); not extracted.",
+  "Foreword by Rotenstreich (80-156) and the bibliographical note: no claims."
+ ],
+ "proposed_topics": [
+  {
+   "id": "mithridates-translations",
+   "label": "Mithridates's Latin translations of Kabbalistic texts for Pico (May-November 1486): interpolations, Christianizing additions, numbers for names, the lost Recanati"
+  },
+  {
+   "id": "kabbalah-sefirot",
+   "label": "The sefirot as divine emanations, attributes and forms; their configurations (triads, three stages of being); Eyn-Sof and the One"
+  },
+  {
+   "id": "trial-1487",
+   "label": "The 1487 condemnation: thirteen theses, the Apology's defence, the magical thesis on magic and Kabbala"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "johanan-alemanno",
+   "name": "Johanan Alemanno"
+  },
+  {
+   "id": "reuchlin",
+   "name": "Johannes Reuchlin"
+  },
+  {
+   "id": "egidio-da-viterbo",
+   "name": "Egidio da Viterbo"
+  }
+ ],
+ "notes": "BOOK MAP (line ranges of wirszubski1989): front matter 15-350 (Foreword 80-156, Contents 160-215, Kristeller Introduction 219-350). PART ONE 352-3630: Ch.1 Place of Hebrew 360-694; Ch.2 Extant manuscripts and chronology 696-1126; Ch.3 Sources of the first set of theses 1130-3022 (Conclusio I at 1246, Conclusio II nine hierarchies at 1301-1350, Concl. III 1355, ... XLVII 2975); Ch.4 Range and progress 3024-3630. PART TWO 3632-6140: Ch.5 Kabbalist translator 3640-4032; Ch.6 Language and number symbolism 4034-4370; Ch.7 Maimonides, Kabbalist in philosophical guise 4372-5179; Ch.8 Quodlibet in quolibet 5181-5488; Ch.9 Christianizing interpretations 5490-5877; Ch.10 Mock mysteries 5879-6140. PART THREE 6142-10276: Ch.11 Mysteries of the Law 6142-6768; Ch.12 Mysticism and magic 6771-7780; Ch.13 Mors osculi 7782-8178; Ch.14 Old and new in Pico's Kabbalistic confirmation 8180-8636; Ch.15 Cabala docet nos legere in libro legis 8638-9411; Ch.16 New relationships and orientations 9413-10276 (Zoroastrian theses vi-xv at 9760-9905, Metatron at 9847-9853 and 10198-10251). APPENDICES 10280-13223: 1 bibliographical 10317; 2 Recanatensis 10351; 3 Text of the Conclusiones 10599; 4 Nahmanides or Abulafia 10783; 5 Speculum lucens 10911; 6 Et ha-samayim 10950; 7 Nomen Iesu 10993; 8 Sapientia magna Salomonis 11043; 9 Beresit 11088; 10 Magical strains 11165; 11 Kawwanah 11374; 12 Prayer as self-immolation 11573; 13 Metatron, Intellectus, Filius 11625; 14 Eyn-Sof and the sefirot 11821; 15 Varieties of Christian Kabbala 12033; 16 Eloquia sacra 12129; 17 The doctrine of the three worlds 12332; 18 Symbolism of the kiss 12693; 19 Theologia inferior 12765; 20 Decem indumenta 12808; 21 Johanan Alemanno 12850; 22 Ars combinandi and ars Raymundi 12941; 23 Fourfold interpretation 13138. Indexes 13224-14778.\n\nPAGE BASIS (checked; the auditor's inference of bracket+1 is NOT borne out): in this OCR the printed page number in square brackets stands at the FOOT of its page. Evidence: Contents puts Ch.3 on p.19 and [19] (l.1174) follows the chapter's opening text; Ch.16 begins p.185 and [185] (l.9455) follows its first page; the Index entry 'on Metatron 193 199-200' (l.14039) agrees with Metatron at l.9847-9853 (before [193] at l.9886) and l.10198-10251 (before [199] at l.10224 and [200] at l.10276). So the printed page of a line is the first bracket that FOLLOWS it. Every quote's page_basis says which bracket it used. Kristeller's Introduction uses roman brackets [ix] (l.256), [x] (l.301), [xi] (l.350); those quotes carry page numbers 9, 10, 11 with a page_basis naming the roman bracket.\n\nCLAIMANT NOTE: claims 095-098 are from Kristeller's Introduction (pp. ix-xi) summarising Wirszubski; they are recorded as attribution scholar_report with claimant Chaim Wirszubski (author of the file, as the gate requires) and the text names Kristeller as reporter. The four 'Kristeller' ungrounded_entity warnings are deliberate.\n\nTHESIS NUMBERS: the book cites the theses of the Conclusiones by Roman numerals within each series (e.g. Conclusio II of the Kabbalistic set secundum secretam doctrinam sapientum Hebraeorum Cabalistarum; Conclusio x of the set secundum opinionem propriam), not Farmer's numbers, so `theses` is empty and the locus is in pico_locus.ref.\n\nCRUXES: (1) Nine Hebrew hierarchies (Conclusio II): Wirszubski derives the number nine and the form Aralim from Axelrad's Corona Nominis Boni, Cod. Vat. Ebr. 190, fol. 177r, whose tenth grade is 'fundamentum [read secretum] denarii', not a hierarchy; he notes the parallel to Dionysius's nine but does not say Pico chose nine because of Dionysius (claims 001-003). The auditor's earlier report (nine Hebrew hierarchies from Axelrad, ll. 1296-1312) is VERIFIED. (2) Metatron: the tenth Kabbalistic thesis secundum opinionem propriam has a blank in the editio princeps (printer lacked Hebrew type, App. 3); Giorgio read Hokmah; Wirszubski proposes Metatron, on the strength of Commento I.iiii (Platonic 'son of God' = first created angel), Commento III (Enoch into Matatron), the Oration (Enoch into the angel of divinity, name blank or corrupt in the printed editions, present in Cod. Pal. 885 fol. 145r), and Abulafia's equation of Metatron with the Active Intellect and 'son'. Textual crux at the Oration's Enoch passage: Garin prints asterisks, the princeps a blank, the Opera Omnia a Hebrew phrase Wirszubski thinks may be 'angelus divinitatis'. (3) The Latin of Abulafia's De Secretis Legis (Cod. Vat. Ebr. 190, fols. 377r-378v, and the preface fols. 341r-342r) makes the Active Intellect 'prefectus super hierarchia angelorum qui dicuntur hisim' and identifies him with Mattatron/Henoch; Wirszubski says the closing part is improbably Abulafia's and the interpolator cannot be assumed to be Mithridates. The OCR does NOT preserve the italics that mark interpolations, so which words are interpolated cannot be read from this file; recorded as an open question. (4) Unlinked observation for the LINKER: 'hisim' is the first of the ten grades in Axelrad's list (l.1318: 'hisim, id est humani') and the hierarchy of which Metatron is prefect in the Abulafia Latin (ll. 5251-5253, 11686-11688), and Pico's Conclusio II ends with 'Isim'; Wirszubski does not connect them. (5) Kristeller says Wirszubski proves the three worlds of the Heptaplus are of Kabbalistic origin (l.309); Wirszubski's Appendix 17 is narrower: only the analogical motif (tabernacle, man, world) is Kabbalistic (Bahya, Isaac of Acre, Baruch Togarmi), the monadological motif (all in all, with the Anaxagoras attribution) is Proclus, Elements prop. 103 (ll. 12644-12678). Recorded as separate claims, not resolved. (6) Death of the Kiss: the deaths of the six righteous and the ecstasy come from Recanati (via Mithridates's lost translation), the Song-of-Solomon element from Gersonides's commentary translated by Mithridates and annotated by Pico; the kiss as Symposium-Song link is Pico's (Commento III.viii st.4); the Platonic two-deaths distinction is Pico's addition, not in his Kabbalistic sources; a Zohar parallel exists but the Zohar is not shown to have been read (App. 18). (7) Zohar: untranslated by 1486; Wirszubski's test is derivation from Zohar quotations in Recanati; one Zohar parallel (the kiss) has no such source; conclusion 'uneasy', no direct acquaintance inferred. (8) Nahmanides or Abulafia: Pico read Nahmanides's commentary on the Sefer Yesirah (Cod. Vat. Ebr. 191) before 10 Nov 1486 but there is no conclusive evidence he read the biblical commentary before completing the theses; the earliest explicit reference is in the Heptaplus (1488); Abulafia's De Secretis Legis is the likeliest source of the 'mysteries of the Law' conception (App. 4, Ch. 11). (9) Dates: Mithridates's translations May-November 1486 (Margherita affair 10 May 1486); Conclusiones completed early November 1486, printed 7 December 1486; Vat. Ebr. 189 (Eleazar of Worms) postdates the theses and is excluded; Isaac Luria was born after Pico's death (l.12084); the Zohar untranslated; Abulafia b. 1240, Liber Redemptionis 1273, De Secretis Legis c. 1280; the anonymous Paris Recanati (BN lat. 598, used by Egidio da Viterbo) is not Mithridates's translation. (10) Sefirot vs angels: Wirszubski says 'intelligible and angelic forms are, in terms of Kabbala, the sefirot' (l.7145) and the sefirot are divine emanations/manifestations (l.7451); 'triplex merchiava' is a triadic configuration of sefirot (l.7050-7053); the ten sefirot correspond to the ten spheres (thesis 48). The nine hierarchies of Conclusio II are a list of angelic classes distinct from the sefirot in Axelrad.\n\nOCR TROUBLE: Hebrew and Greek are garbled (e.g. Greek omicron in 'o Enoch', l.10232; 'Heptapius', 'Redemptions' for Redemptionis, 'quern' for quem, 'Decern' for Decem, 'Togairmi'); footnote numerals and page furniture are spliced into sentences at page breaks (marked in quotes with [...] or split into separate quotes); italics (interpolation markers) lost; 'Gicatilla' is the book's spelling of Gikatilla."
 }

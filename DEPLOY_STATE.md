@@ -1,8 +1,13 @@
 # Deployment State: Pico900
 
-**Status: NOT LIVE.** `https://t3dy.github.io/Pico900/` returned GitHub's "There isn't a GitHub Pages
-site here" (404) when checked on 2026-09-25. Nothing has been published. Any earlier document that says
-"deployed", "ready to deploy" or "live" is wrong; see `audit/A4_site_and_governance.md` Part B.
+**Status: LIVE as a work-in-progress skeleton (checked 2026-09-26).** On 2026-09-25 the URL returned 404 and nothing was
+published; since then the `gh-pages` branch (built `site/` only: home, sections, condemned, scholarship, about, 900 thesis
+pages, `.nojekyll`) has been pushed and https://t3dy.github.io/Pico900/ answers 200 on `/`, `css/style.css`, `condemned/`,
+`sections/`, `sections/hist_1.html`, `scholarship/`, `about/`. The home page carries the notice "Work in progress: 0 verified
+entries, 900 drafts", which is the truth and must stay until entries are promoted. `/theses/` has no index page (404); thesis pages
+are reached from sections. Not yet checked: the Pages source setting, the content of individual thesis pages, and the
+`predeploy_check.py` result for the deployed build. Earlier claims that the site was "deployed" before 2026-09-26 were wrong
+(`audit/A4_site_and_governance.md` Part B). The deploy branch is `gh-pages`; `main` holds sources.
 
 | | |
 |---|---|

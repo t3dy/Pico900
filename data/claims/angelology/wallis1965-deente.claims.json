@@ -1,8 +1,13 @@
 {
  "packet": "wallis1965-deente",
- "researcher": "",
+ "researcher": "R-DEENTE",
  "created": "",
- "scope": null,
+ "scope": {
+  "work": "wallis1965",
+  "line_start": 2426,
+  "line_end": 3461,
+  "also": "Miller's Introduction section V (ll. 567-913), Biographical Note (ll. 1036-1040), Note on the Text (ll. 1097-1110), and the translator's footnotes to De ente et uno"
+ },
  "claims": [
   {
    "_k": "proem-occasion",
@@ -51,19 +56,14 @@
      "kind": "other",
      "note": "Lorenzo is the Platonists' advocate in the discussion that occasions the treatise.",
      "quote_index": 0
-    },
-    {
-     "party": "poliziano",
-     "kind": "correspondence",
-     "note": "The treatise is addressed to Poliziano, who reported the discussion.",
-     "quote_index": 0
     }
    ],
    "judged": {
     "frame_shift": 1,
     "justification": "Fixes the occasion: a Medici-circle dispute on Plato against Aristotle, not an attack on a named Platonist."
    },
-   "id": "wallis1965-deente:001"
+   "id": "wallis1965-deente:001",
+   "revision": 1
   },
   {
    "_k": "proem-concord",
@@ -125,7 +125,7 @@
     "ref": "De ente et uno proem"
    },
    "theses": [],
-   "text": "The author says that what he said at the discussion largely confirmed what Poliziano had answered to Lorenzo rather than adding anything new.",
+   "text": "The author says that what he said at the discussion largely confirmed what the dedicatee had answered to Lorenzo rather than adding anything new.",
    "quotes": [
     {
      "text": "I said what came to my mind at that time, confirming what you answered to Lorenzo in the discussion rather than bringing in anything new.",
@@ -151,19 +151,13 @@
     }
    ],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "poliziano",
-     "kind": "friendship",
-     "note": "Pico credits Poliziano's own answer to Lorenzo as the basis of what he said.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-deente:003"
+   "id": "wallis1965-deente:003",
+   "revision": 1
   },
   {
    "_k": "proem-compendium",
@@ -197,19 +191,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "poliziano",
-     "kind": "correspondence",
-     "note": "The treatise exists because Poliziano entreated Pico to write it down.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "wallis1965-deente:004"
+   "id": "wallis1965-deente:004",
+   "revision": 1
   },
   {
    "_k": "proem-friend",
@@ -268,7 +256,7 @@
     "ref": "De ente et uno proem"
    },
    "theses": [],
-   "text": "The author announces that he will use words not yet legally given to Latin, because the newness of the subject makes such expression almost necessary, and that no elegant style should be expected.",
+   "text": "The author asks to be allowed to use some words not yet perhaps legally given to Latin, since the newness of the subject makes such expression almost necessary, and says the reader should not look for the allurement of a more elegant style.",
    "quotes": [
     {
      "text": "May I also be allowed, through you who vindicate a more elegant language, to use some words which are not yet perhaps legally given to Latin.",
@@ -527,7 +515,7 @@
     "ref": "De ente et uno ch. 2"
    },
    "theses": [],
-   "text": "The author holds that nothing in the Parmenides is positively asserted and that the dialogue is a dialectical exercise, not a doctrinal work.",
+   "text": "The author holds that nothing in the dialogue is positively asserted and that the dialogue is a dialectical exercise, not a doctrinal work.",
    "quotes": [
     {
      "text": "Nothing in the whole dialogue is positively asserted. If anything is asserted, still nothing is clearly found by which we may ascribe this sort of teaching to Plato. That book is certainly not to be included among his doctrinal works, since it is nothing but a dialectical exercise.",
@@ -540,7 +528,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Parmenides",
     "Plato"
    ],
    "warrants": [
@@ -628,7 +615,7 @@
     "ref": "De ente et uno ch. 2"
    },
    "theses": [],
-   "text": "The author cites Parmenides's advice to the young Socrates to exercise himself in the faculty that many call trifling or garrulousness, and states that all admit this to be dialectic.",
+   "text": "The author cites the advice given in the dialogue to exercise oneself in the faculty that many call trifling or garrulousness, and states that all admit this to be dialectic.",
    "quotes": [
     {
      "text": "Consider, and while you are young, exercise yourself very diligently in that faculty which appears useless to many people, for which reason they call it trifling or garrulousness. Otherwise, truth may escape you.",
@@ -648,8 +635,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Parmenides",
-    "Socrates"
+    "Parmenides"
    ],
    "warrants": [],
    "assumptions": [],
@@ -676,7 +662,7 @@
     "ref": "De ente et uno ch. 2"
    },
    "theses": [],
-   "text": "The author argues from Zeno's remark that the matter Parmenides was about to treat could not be the divine orders or first principle of all things, since it was unseemly for an old man in a crowd but suitable for the young; it was dialectic.",
+   "text": "The author argues from Zeno's remark that, if Parmenides' subject were divine orders and the first principle of all things, it would be a most suitable subject for an old man and one he need not be ashamed of.",
    "quotes": [
     {
      "text": "These words of Zeno entirely confirm what we have said. If we may believe Zeno, that of which Parmenides is to treat is such that it may not be examined by an old man openly in an assembly of many people. And if it is a question of divine orders, of the first principle of all things, as these Platonists wish to interpret it, what subject is more suitable to an old man or of what would he be less ashamed?",
@@ -901,7 +887,7 @@
     "ref": "De ente et uno ch. 2"
    },
    "theses": [],
-   "text": "From the Sophist the author concludes that not-one and nothing are the same, that one and something are equals, and that Plato held it certain that the one was being.",
+   "text": "The author concludes that not-one and nothing are the same, that one and something are equals, and that Plato held it certain that the one was being.",
    "quotes": [
     {
      "text": "So much for Plato. Consequently, according to him, not-one and nothing are equals, indeed, they are the same. One and something are equals.",
@@ -1133,7 +1119,7 @@
     "ref": "De ente et uno ch. 3"
    },
    "theses": [],
-   "text": "The author says that Dionysius, whom opponents make a patron of their opinion, will not deny that God said to Moses 'I am who am', which he glosses as 'I am being'.",
+   "text": "The author says that Dionysius, whom opponents make a patron of their opinion, will not deny that God said to Moses 'I am who am' in Greek.",
    "quotes": [
     {
      "text": "But also Dionysius the Areopagite, whom those who dispute against us make into a patron of their opinion, will not deny that God truly said to Moses \"I am who am,\" which we read thus in Greek",
@@ -1181,7 +1167,7 @@
     "ref": "De ente et uno ch. 3"
    },
    "theses": [],
-   "text": "Using the Platonists' own rule that nothing is opposed to being as multitude to unity, the author argues they must say either that God is nothing or that God is being.",
+   "text": "By the rule that nothing or not-being is opposed to being as multitude is opposed to unity, the author argues that God must be called either nothing or being.",
    "quotes": [
     {
      "text": "Rather, whenever they say that nothing or not-being is opposed to being as multitude is opposed to unity, they will concede necessarily that that which is not being is nothing or not-being, as that",
@@ -1310,7 +1296,7 @@
     "ref": "De ente et uno ch. 4"
    },
    "theses": [],
-   "text": "Concrete names signify what is such by the gift of another, abstract names what is such from itself, so that what is called abstract cannot be named from the concrete.",
+   "text": "Concrete names signify what is such by the gift of another, and abstract names what is such from itself.",
    "quotes": [
     {
      "text": "Some nouns are concrete, others abstract. Hot, shining, white, man, are concrete. Heat, light, whiteness, humanity, are abstract. Their meaning and difference is that what is called abstract signifies that which is such from itself and not from another. The concrete, on the other hand, signifies that which is such not from itself, but by the gift of another.",
@@ -1684,7 +1670,7 @@
     "ref": "De ente et uno ch. 4"
    },
    "theses": [],
-   "text": "The author holds that Aristotle in Metaphysics XII gave the names good and one to God, deciding on a separated good as leader of the army of beings and proving the unity of God.",
+   "text": "The author holds that Aristotle in First Philosophy, Book XII gave the names good and one to God, deciding on a separated good as leader of the army of beings and proving the unity of God.",
    "quotes": [
     {
      "text": "We can also show that Aristotle gave especially these names, good and one, to God. In First Philosophy, Book XII, after Aristotle has examined all being and separated minds, he asks finally (as turning after all things to the investigation of the properties of God alone) whether, in addition to the good which is in the universe of beings as in an army, there is any separated good, as in a leader of this army, and he decides that there is such a good, which good is God. Aristotle then proves in the same chapter the unity of God.",
@@ -2173,7 +2159,7 @@
     "ref": "De ente et uno ch. 5"
    },
    "theses": [],
-   "text": "Taking from life, wisdom and justice the condition of particularity leaves being itself, being absolutely, universal by the universality of perfection and not of predication.",
+   "text": "If the condition of particularity is taken from life, wisdom and justice, what remains is being itself, being absolutely, universal by the universality of perfection and not of predication.",
    "quotes": [
     {
      "text": "Life is a kind of being, and wisdom in turn is a kind of being, and justice likewise; yet if you should take away the condition of",
@@ -2463,7 +2449,7 @@
     "ref": "De ente et uno ch. 5"
    },
    "theses": [],
-   "text": "Pico quotes Dionysius as denying of God truth, kingdom, wisdom, one, unity, deity, goodness and spirit, and any affirmation or negation of him.",
+   "text": "A text quoted by the author denies of God truth, kingdom, wisdom, one, unity, deity, goodness and spirit, and any affirmation or negation of him.",
    "quotes": [
     {
      "text": "He is not truth, nor kingdom, nor wisdom, nor one, nor unity, nor deity, nor goodness, nor spirit, so far as we can know him",
@@ -2482,9 +2468,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Dionysius"
-   ],
+   "entities": [],
    "warrants": [
     {
      "id": "w1",
@@ -2813,7 +2797,7 @@
     "ref": "De ente et uno ch. 5"
    },
    "theses": [],
-   "text": "Addressing Poliziano, the author says that in this life we can love God more than we can speak of or know him, that loving profits more and labours less, and yet we prefer to seek him through knowledge.",
+   "text": "In a personal address the author says that in this life we can love God more than we can speak of or know him, that loving profits more and labours less, and yet we prefer to seek him through knowledge.",
    "quotes": [
     {
      "text": "But see, my Angelo, what madness seizes us. While we are in the body we can love God more than we can speak of him or know him. In loving we profit more, we labor less, we obey him more. Yet we prefer to be always seeking him through knowledge and never finding what we seek, rather than to possess by loving that which would be found in vain without loving.",
@@ -3057,7 +3041,7 @@
     "ref": "De ente et uno ch. 5"
    },
    "theses": [],
-   "text": "God is not only that than which no greater can be conceived, as Anselm said, but infinitely greater than everything thinkable, as the Hebrew text of David says: Silence is praise to you.",
+   "text": "God is not only that than which no greater can be conceived, as Anselm said, but infinitely greater than everything thinkable, and cites David according to the Hebrew text.",
    "quotes": [
     {
      "text": "It can be concluded from this that God is not only that than which no greater can be conceived, as Anselm said, but he is that which is infinitely greater than every thing that can be thought, as David the prophet truly says according to the Hebrew text:",
@@ -3340,7 +3324,7 @@
     "ref": "De ente et uno ch. 7"
    },
    "theses": [],
-   "text": "Multitude is opposed to the one as its privation or contrary, not as not-being is opposed to being as its contradictory, and Aristotle examines this in the Metaphysics.",
+   "text": "Multitude is opposed to the one as its privation or contrary, not as not-being is opposed to being as its contradictory, and Aristotle examines this in First Philosophy.",
    "quotes": [
     {
      "text": "They are greatly in error on this third argument. Multitude is not opposed to the one in the same way as not-being is opposed to being. Not-being is opposed to being as its contradictory,",
@@ -3630,7 +3614,7 @@
     "ref": "De ente et uno ch. 8"
    },
    "theses": [],
-   "text": "In created things being comes first, because the effect is from the cause in all that it is; the one follows being, truth is third, and goodness follows.",
+   "text": "In created things being is conceived first, because the effect would not otherwise be from the cause according to all that it is; the one follows being, and truth is third.",
    "quotes": [
     {
      "text": "There is this order. First, each thing is conceived under the concept of being, because the agent produces each thing before the thing is something in itself, otherwise the effect would not be from the cause according to all that it is. Consequently, there is nothing after God that we do not understand as being from another, finite being, participated being. One follows being. Truth is third, because after something is in itself, it must be seen whether it be like the exemplar according to which it was formed.",
@@ -4186,7 +4170,7 @@
     "ref": "De ente et uno ch. 9"
    },
    "theses": [],
-   "text": "Following the Philebus, the good has three conditions, perfect, sufficient and desirable, and God is thereby the fullest being, individual unity, most solid truth and most blessed good.",
+   "text": "The good has three conditions, perfect, sufficient and desirable, and God is thereby the fullest being, individual unity, most solid truth and most blessed good.",
    "quotes": [
     {
      "text": "There are three conditions of good, as Plato writes in the Philebus",
@@ -4668,7 +4652,7 @@
     "ref": "De ente et uno ch. 10"
    },
    "theses": [],
-   "text": "Since one, true and good follow being by perpetual connection, when we are not these three we absolutely are not, even if we appear to be, and although we may seem to live we would be ever dying rather than living.",
+   "text": "One, true and good follow being by perpetual connection, so when we are not these three we absolutely are not, even if we appear to be, and although we may seem to live we would be ever dying rather than living.",
    "quotes": [
     {
      "text": "When through truth we do not fall short of the exemplar, it follows that we who strive for the exemplar will finally be joined to it through goodness. If these three, one, true, and good, follow being by perpetual connection, it follows that when we are not these three, we absolutely are not, even though we may appear to be; and although we may be thought to live, yet we would be ever dying rather than living.",
@@ -5164,7 +5148,7 @@
     "ref": "De ente et uno"
    },
    "theses": [],
-   "text": "Miller says Ficino, the first Renaissance thinker to know all of Plato's writings, continued to read Plato within the Neoplatonic tradition, and that though Pico's interpretation differs in some respects from Ficino's, both follow the medieval tradition of the concord of Plato and Aristotle.",
+   "text": "Miller says Ficino, the first Renaissance thinker to know all of Plato's writings, continued to read Plato within the Neoplatonic tradition, and that though Pico's interpretation differs in some respects from Ficino's, both follow the medieval tradition of the concord of the two Greek philosophers.",
    "quotes": [
     {
      "text": "Marsilio Ficino, the first Renaissance thinker to know all of the original writings of Plato, continued to interpret Plato within the framework of the Neoplatonic tradition, pagan and Christian, which Platonism had acquired during the previous thousand years",
@@ -5233,7 +5217,7 @@
     "ref": "De ente et uno ch. 4"
    },
    "theses": [],
-   "text": "Miller says Pico uses the metaphysics of Aquinas, who first based metaphysics on the real distinction between what participates existence and the act of existing itself.",
+   "text": "Miller says that in the passage on being in the second sense Pico is utilizing the metaphysics of Aquinas, the first Christian philosopher to base his metaphysics on the real distinction between that which participates existence and the act of existing itself.",
    "quotes": [
     {
      "text": "Being in the second sense means that which does not lack existence (esse). That which is (ens) means whatever participates existence. Pico is here utilizing the metaphysics of St. Thomas Aquinas, who was the first Christian philosopher to base his metaphysics on the real distinction between that which participates existence (ens), and the act of existing itself (ipsum esse).",
@@ -5849,7 +5833,7 @@
     "ref": "De ente et uno"
    },
    "theses": [],
-   "text": "The volume's Biographical Note states that On Being and the One was written in 1491 at Fiesole.",
+   "text": "The volume's short biography states that On Being and the One was written in 1491 at Fiesole.",
    "quotes": [
     {
      "text": "Lorenzo dei Medici provided Pico with a villa at Fiesole, where he spent the few remaining years of his life in retirement,",
@@ -6101,16 +6085,9 @@
    "text": "The translator's note cites Plato's Sophist 237d and 238a-c for the passages Pico quotes on the one and not-being.",
    "quotes": [
     {
-     "text": "Plato, Sophist 237d.",
+     "text": "Plato, Sophist 237d. ... Plato, Sophist 238a-c.",
      "work": "wallis1965",
      "line": 2624,
-     "page": null,
-     "page_basis": null
-    },
-    {
-     "text": "Plato, Sophist 238a-c.",
-     "work": "wallis1965",
-     "line": 2625,
      "page": null,
      "page_basis": null
     }
@@ -6145,7 +6122,7 @@
     "ref": "De ente et uno"
    },
    "theses": [],
-   "text": "The translator's note identifies the account of Parmenides as Simplicius, In Physicorum, and the reference to being as Pseudo-Dionysius, De divinis nominibus I.6.",
+   "text": "The translator's note identifies the Simplicius reference as In Physicorum and the reference on God as being as Pseudo-Dionysius, De divinis nominibus I.6.",
    "quotes": [
     {
      "text": "Simplicius. In Physicorum, ed. Diehls. I. 147.",
@@ -6383,7 +6360,7 @@
     "ref": "De ente et uno"
    },
    "theses": [],
-   "text": "The translator's note identifies the quotation of Dionysius as De mystica theologia V and the sources on the Egyptians as Plutarch, De Iside et Osiride, and Varro, De lingua Latina.",
+   "text": "The translator's note identifies the quotation of Dionysius as De mystica theologia V and cites Plutarch and Varro (De lingua Latina) for the views on God's nature discussed there.",
    "quotes": [
     {
      "text": "Pseudo-Dionysius. De mystica theologia V (Migne. P. G., III. 898-1046).",
@@ -6488,7 +6465,7 @@
     "ref": "De ente et uno ch. 5"
    },
    "theses": [],
-   "text": "The translator's note states that the reference for the Psalm verse Pico quotes in the Hebrew text ('Silence is praise to you') is uncertain and that Pico interprets the Hebrew text.",
+   "text": "The translator's note states that the reference for the Psalm verse Pico quotes according to the Hebrew text is uncertain and that Pico interprets the Hebrew text.",
    "quotes": [
     {
      "text": "Psalms, reference uncertain. Pico interprets the Hebrew text.",
@@ -6534,7 +6511,7 @@
     "ref": "De ente et uno"
    },
    "theses": [],
-   "text": "The translator's note cites Plato, Timaeus 49a, 51a and 52d for what Pico says of prime matter, and does not identify the Jamblichus reference.",
+   "text": "The translator's note cites Plato, Timaeus 49a, 51a and 52d for what Pico says of prime matter, and gives no note for the reference to the Platonist called divine.",
    "quotes": [
     {
      "text": "Plato, Timaeus 49a; 51a; 52d.",
@@ -6661,8 +6638,31 @@
    "id": "wallis1965-deente:138"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Salviati's publisher's dedication (ll. 3463-3493): belongs to the Heptaplus (1489 edition), owned by the Heptaplus researcher.",
+  "Introduction sections I-IV and VI (ll. 200-566, 915-991) on the Oration, Ficino's anthropology and the general Renaissance frame: not on De ente; a few Ficino-related sentences in section VI (ll. 941-943) were taken.",
+  "Oration ll. 2021-2050 (Pico's announcement that he proposed the concord of Plato and Aristotle): Oration researcher's range.",
+  "Footnotes that are pure biblical references (1 Cor 15, Romans 7, Psalms 17/83/54, Genesis 1, I John, Colossians) and OCR-garbled classical references not readable (Aristotle Metaphysics XI.3 numerals, VIII.6/VII.6, Philebus 20c-d): skipped as not evidentially useful or illegible."
+ ],
+ "proposed_topics": [
+  {
+   "id": "de-ente-convertibility",
+   "label": "Convertibility of being, one, true and good in De ente et uno"
+  },
+  {
+   "id": "ens-esse",
+   "label": "Ens/esse and the sense in which God is above being (Thomist route)"
+  },
+  {
+   "id": "negative-theology-steps",
+   "label": "Four steps to the divine darkness (De ente ch. 5)"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "domenico-benivieni",
+   "name": "Domenico Benivieni (present at the discussion; distinct from Girolamo, party benivieni)"
+  }
+ ],
+ "notes": "CHAPTER MAP (claims by first-quote line): proem ll. 2430-2469 (7); ch.1 ll. 2470-2491 (4: Aristotle's convertibility; three Platonist arguments: God one not being, prime matter, opposites); ch.2 ll. 2492-2614 (Parmenides as dialectical exercise, Zeno, conditional first hypothesis, Sophist; concession); ch.3 ll. 2615-2688 (first sense of being; Parmenides=God; Dionysius and I am who am; equals); ch.4 ll. 2689-2810 (second sense: ens/esse; God above being; Dionysius on one; Aristotle categories and Thomas; some Platonists; Metaphysics XII); ch.5 ll. 2811-3097 (answer to first argument; four steps; Dionysius De mystica theologia; angels; Peripatetics; Parisian theologians; address to Angelo; Anselm); ch.6 ll. 3099-3142 (prime matter; Jamblichus); ch.7 ll. 3144-3175 (multitude vs one; genus argument); ch.8 ll. 3177-3339 (four transcendentals; Avicenna; order in creatures; Olympiodorus; evil; division); ch.9 ll. 3341-3392 (four in God; tetractys; reversed order); ch.10 ll. 3394-3461 (ethics). Editorial: Miller's Introduction (21 claims), notes (about 17).\nANGELS: grep confirms angels occur in only two passages of chapters 5-10, both in ch.5 (l. 2854 'divine minds, which the theologians call angels', an example of imperfect knowledge; l. 2873 'life of the angels is not perfect', dependent on divine light). No angelic orders, hierarchies or Hebrew names appear; 'separated minds' at l. 2799 is Aristotle's Metaphysics XII. Do not read angelology into other chapters.\nFICINO: Pico's text never names Ficino, Plotinus or Proclus. Evidence for the dispute comes only from the editors: Miller's Introduction (l. 687) reports Ficino's reply in In Parmenidem II 1164 ('against the opinion of all the Platonists'), and note 5 (l. 2539) says Pico used Ficino's Latin Parmenides. Pico's targets are 'the Academy', 'the Platonists', 'the Academics', 'some Platonists' (ch.4), 'persons wishing to interpret the Parmenides in another sense' (ch.2) and 'some of the Peripatetics' (ch.5); the text names only Jamblichus (ch.6) and Olympiodorus (ch.8) among Platonists. POLIZIANO: dedicatee; addressed 'my Angelo' at ch.5 l. 3040; note 1 (l. 2457) calls him intimate friend of Ficino and Pico. The proem says Pico only confirmed Poliziano's answer to Lorenzo.\nCRUXES: (1) date: Biographical Note 1491 vs Introduction 1492 (Ficino's In Parmenidem begun the same year). (2) Miller says Pico 'follows the Neoplatonic interpretation' (l. 599) yet the treatise denies an absolute one above being; and Miller (l. 814) says the concord holds only by transformation. (3) ch.9: order of the four names for God as cause is reversed (one, good, true, being) against ch.8 (being, one, true, good) and against ch.9's own start with plenitude of existence; Pico says the points 'are still full of many and great questions'. (4) The Psalm verse 'Silence is praise to you' has no identified reference (note 30). (5) Jamblichus passage on prime matter as duality has no identifying note. (6) The Concord of Plato and Aristotle, where 'fifth decade' attacks Peripatetics who make God body or soul of the heavens, is not extant in this source.\nOCR: footnote blocks and page headers are spliced into sentences at each page break (e.g. ll. 2457-2463, 2498-2503, 2538-2544, 2581-2587, 2623-2629, 2664-2670, 2784-2791, 2826-2832, 2867-2872, 2948-2954, 2988-2995, 3032-3036, 3073-3077, 3112-3118, 3192-3198, 3236-3240, 3276-3281, 3320-3323, 3360-3365, 3439-3446); quotations there are given as separate quotes cut at the splice. Footnote numerals run into words ('Timaeus?l', 'Sophist.\"9'); Greek is garbled (l. 2660); 'Godl' at l. 2996 is 'God!'. Quotations avoid these tokens. Attribution note: Miller's Introduction and translator's notes are quoted from wallis1965 as scholar_claim/scholar_report; the gate warns scholar_from_edition (60ish), which is expected for editorial matter. The claim ids run 001-099 primary text, 100-138 editorial."
 }

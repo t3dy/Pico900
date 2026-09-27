@@ -910,7 +910,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Allen argues that Ficino, versed in negative theology, must have been amazed not at the notion that God does not understand as we or the angels do but at its role in the Plotinus passage.",
+   "text": "Allen argues that Ficino, versed in negative theology, if amazed at all as Pico claimed, must have been amazed not at the notion that God does not understand as we or the angels do, but at its role in the Plotinus passage.",
    "quotes": [
     {
      "text": "This is demonstrably polemical. Ficino was well grounded in the intricacies of negative theology, the theology that denies the possibility of talking about God except in equivocal terms",
@@ -949,7 +949,8 @@
     "frame_shift": 1,
     "justification": "Reads the Commento's opening barb as unfair to Ficino's negative theology."
    },
-   "id": "allen2017-venus:021"
+   "id": "allen2017-venus:021",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -1020,19 +1021,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Contrast with Plotinus (and the Ficinian Plotinian frame) on the second hypostasis.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "allen2017-venus:023"
+   "id": "allen2017-venus:023",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -1506,19 +1501,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Pico and Ficino share the Cratylus-derived triad.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "allen2017-venus:034"
+   "id": "allen2017-venus:034",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -2443,19 +2432,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Allen finds Pico and Ficino treating the same Orphic chaos and Mind conundrum.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "Shows convergence, not only quarrel, between Pico and Ficino on angelic Mind."
    },
-   "id": "allen2017-venus:056"
+   "id": "allen2017-venus:056",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -2609,19 +2592,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Allen treats the succession-myth reading as shared by Pico and Ficino.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "allen2017-venus:060"
+   "id": "allen2017-venus:060",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -3446,7 +3423,7 @@
     "ref": "second proem"
    },
    "theses": [],
-   "text": "Allen reports Pico saying the worlds, bound by the chains of concord, exchange natures and names with mutual liberality, so that Nature is an allegory full of hidden alliances and affinities.",
+   "text": "Allen reports Pico saying that the worlds, bound by the chains of concord, exchange natures and names with mutual liberality, and infers from this that Nature is an allegory full of 'hidden alliances and affinities' open to an enlightened interpreter.",
    "quotes": [
     {
      "text": "Moreover, \"bound by the chains of concord,\" writes Pico, \"all these worlds exchange natures as well as names with mutual liberality.\" Thus Nature herself is an allegory full of \"hidden alliances and affinities\" that enable an enlightened interpreter to work by way of the correspondences between the worlds.",
@@ -4469,19 +4446,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Ficino too treated the Poros/Penia lemmata, at De amore 6.7, on Allen's note.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "allen2017-venus:105"
+   "id": "allen2017-venus:105",
+   "revision": 1
   },
   {
    "claimant": "Michael J. B. Allen",
@@ -4495,7 +4466,7 @@
     "ref": "2.13, 2.21"
    },
    "theses": [],
-   "text": "Allen cites in his endnotes Commento 2.13 (501-3, translation 107-8) for the birth of love from plenty and need, 2.21 for the son of counsel, and 2.16 for the birthday of the goddess.",
+   "text": "Allen's endnotes cite Commento 2.13 (501 [107]), noting that Pico himself refers to 1.9, and Commento 2.21 (513 [117]) on Porus the son of counsel, with a see-reference to Wind, Pagan Mysteries.",
    "quotes": [
     {
      "text": "51 Commento 2.13 (501 [107]). And Pico himself refers us to 1.9. 52 Commento 2.21 (513 [117]), on Porus the son of counsel. See Wind, Pagan Mysteries, 276-81.",

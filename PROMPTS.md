@@ -32,7 +32,7 @@ been built yet, build it rather than reporting the gap.
 ## Standing requirements (editor's distillation; the prompts below are the authority)
 
 Status vocabulary: `not started`, `specified` (a design exists), `partial`, `built` (exists and was run; say what
-was verified). Updated: see the last line of this section.
+was verified). Updated 2026-09-26 (window-3bc261ff), from the ticket board and the gate outputs cited there.
 
 | id | requirement | prompts | status | where |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ was verified). Updated: see the last line of this section.
 | R4 | A method of reading the scholars (Markdown and audiobookmaker text versions) that yields mention statistics per thesis, dossiers of historiographical importance, connections to people in Pico's life, dynamic hyperlinks, rich metadata, a data ontology; artifacts such as RESEARCHNOTES and DATAONTOLOGY; system files and orchestrator kept current | P20260926035544, P20260926035711 | built | `docs/DATA_ONTOLOGY.md`, `docs/RESEARCH_PROTOCOL.md`, `data/inventory/`, `data/ontology/`, `research-packets/` |
 | R5 | Deconstruct the scholarly resources into claims, warrants, open questions and historiographical importance scores on various metrics; a system that corrects itself as it goes | P20260926041129 | built | `docs/CLAIMS_MODEL.md`, `scripts/claims_*.py` (1,665 claims verified) |
 | R6 | All 900 theses with stubs, translations and commentary; Neoplatonic and Arabic philosophers first; a Neoplatonism research module | P20260926020557, P20260926002336, P20260926000155 | partial | `data/inventory/theses.json` (900 inventory done), `entries/` (20 pass gate, 98 in remediation; T-ENT-01/02) |
-| R7 | Digital editions with commentary of the *Oration*, *Commento*, *Heptaplus* and *De ente et uno*, as context for the scholastic theses; an ANGELICRESEARCH finding aid (Aquinas, Pseudo-Dionysius, Kabbalah, Proclus); a commentary on the angelic material using Allen and Black | P20260926003059, P20260926040957 | partial | `docs/angelology/`, `data/claims/angelology/` (14 packets verified; commentary/finding aid in backlog T-ANG-01/02) |
+| R7 | Digital editions with commentary of the *Oration*, *Commento*, *Heptaplus* and *De ente et uno*, as context for the scholastic theses; an ANGELICRESEARCH finding aid (Aquinas, Pseudo-Dionysius, Kabbalah, Proclus); a commentary on the angelic material using Allen and Black | P20260926003059, P20260926040957 | partial | `docs/angelology/`, `data/claims/angelology/` (15 packets, 1,986 claims verified; `scripts/build_finding_aid.py` builds the replacement for ANGELICRESEARCH; commentary T-ANG-01 not yet written) |
 | R8 | A Sources tab of index-card blurbs (30-100 words) sortable by tradition; a People tab; merge PicoDB's scholars, figures, sources and documents; a comprehensive research companion | P20260926004626, P20260926005522, P20260926005558, P20260926005916 | specified | `docs/SITE_DESIGN.md`, `pico900_picodb_integration_plan.md`, `data/sources.json` (ticket T-SITE-05 ready) |
-| R9 | Card frames that show a great deal of information while browsing theses and other pages: buttons, colour coding, click boxes, sorting, search; relationally browsable | P20260926041446, P20260926041502, P20260926041418 | specified | `docs/SITE_DESIGN.md`, `scripts/build_cards.py` (ticket T-SITE-01/02) |
-| R10 | Full-stack version: login, personal collections of cards for research and writing projects; best-practice relational browsing over rich metadata (historical and cultural contexts, philosophical turns, relationships); a relevance score on Pico's relationships for every thesis | P20260926041711 | specified | `docs/SITE_DESIGN.md` (Workbench), `docs/INTELLECTUAL_NETWORK_DESIGN.md` (tickets T-SITE-07/08, T-REL-02) |
-| R11 | An essay on the Ficino-Pico dispute over the Neoplatonic metaphysics of the One, leading the reader through pages: a tour through *De ente et uno* and Aquinas's encounter with Dionysius as the background to Pico's moves against Ficino | P20260926041806 | partial | Claims verified in `wallis1965-deente`, `howlett2021`, `edelheit2022`; essay queued (ticket T-FIC-01) |
+| R9 | Card frames that show a great deal of information while browsing theses and other pages: buttons, colour coding, click boxes, sorting, search; relationally browsable | P20260926041446, P20260926041502, P20260926041418 | partial | `docs/SITE_DESIGN.md`, `scripts/build_cards.py`, `src/css/cards.css`, `src/js/cards.js` (T-SITE-01/02 in review: prototype built and driven in a browser 2026-09-26; keyboard, greyscale, screen reader and main-nav link unverified) |
+| R10 | Full-stack version: login, personal collections of cards for research and writing projects; best-practice relational browsing over rich metadata (historical and cultural contexts, philosophical turns, relationships); a relevance score on Pico's relationships for every thesis | P20260926041711 | partial | `docs/SITE_DESIGN.md` (Workbench), `docs/INTELLECTUAL_NETWORK_DESIGN.md` (tickets T-SITE-07/08, T-REL-02); relevance per party computed from verified claims by `scripts/claims_score.py` (`relevance.json`; Ficino: 285 claims), collect/export prototype in the card explorer; accounts and thesis-level relevance for all 900 not started |
+| R11 | An essay on the Ficino-Pico dispute over the Neoplatonic metaphysics of the One, leading the reader through pages: a tour through *De ente et uno* and Aquinas's encounter with Dionysius as the background to Pico's moves against Ficino | P20260926041806 | partial | Claims verified in `wallis1965-deente`, `howlett2021`, `edelheit2022`; essay queued (ticket T-FIC-01); linkers running; strands with no corpus text: Aquinas and Dionysius themselves |
 | R12 | This file is the source of truth for intent, and the system files know it | P20260926041326 | built | `scripts/harvest_prompts.py`, `CLAUDE.md`, `docs/ORCHESTRATION.md`, `HANDOVER.md` |
 
 
@@ -58,7 +58,7 @@ None yet.
 
 <!-- BEGIN GENERATED PROMPTS (scripts/harvest_prompts.py rewrites everything to END) -->
 
-Generated 2026-09-26 05:12 UTC from 32 prompts. Timestamps are UTC. IDs are stable (timestamp of typing).
+Generated 2026-09-27 17:37 UTC from 35 prompts. Timestamps are UTC. IDs are stable (timestamp of typing).
 
 ### P20260926000155  (2026-09-26 00:01, session 65e5ebb0)
 
@@ -912,5 +912,17 @@ Generated 2026-09-26 05:12 UTC from 32 prompts. Timestamps are UTC. IDs are stab
 > [3]: https://plato.stanford.edu/entries/gianfrancesco-pico/?utm_source=chatgpt.com "Giovanni Francesco [Gianfrancesco] Pico della Mirandola (Stanford Encyclopedia of Philosophy)"
 > [4]: https://www.treccani.it/enciclopedia/pico-della-mirandola-filosofia-cabala-e-il-progetto-della-concordia-universalis_%28Storia-della-civilt%C3%A0-europea-a-cura-di-Umberto-Eco%29/?utm_source=chatgpt.com "Pico della Mirandola: filosofia, cabala e il progetto della concordia universalis - Enciclopedia - Treccani"
 > </pasted_content id="e894">
+
+### P20260926071246  (2026-09-26 07:12, session 8857d983)
+
+> we have done some work that is deployed to the github to catch up on before continuing
+
+### P20260926071254  (2026-09-26 07:12, session 3bc261ff)
+
+> we have done some work that is deployed to the github to catch up on before continuing
+
+### P20260927172351  (2026-09-27 17:23, session 3bc261ff)
+
+> Try again
 
 <!-- END GENERATED PROMPTS -->

@@ -1,8 +1,12 @@
 {
  "packet": "edelheit2008",
- "researcher": "",
+ "researcher": "R-EDELHEIT-2",
  "created": "",
- "scope": null,
+ "scope": {
+  "work": "edelheit2008",
+  "line_start": 1,
+  "line_end": 23850
+ },
  "claims": [
   {
    "claimant": "Amos Edelheit",
@@ -133,7 +137,6 @@
    "hedge_words": "",
    "entities": [
     "Ficino",
-    "Pico",
     "Platonism",
     "Academy"
    ],
@@ -223,6 +226,13 @@
      "line": 1231,
      "page": 20,
      "page_basis": "running head '20 introduction' at l. 1203 opens this page"
+    },
+    {
+     "text": "platonic elements. Pico, at the time he wrote his Apology, emphasized",
+     "work": "edelheit2008",
+     "line": 1253,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -463,6 +473,13 @@
      "line": 648,
      "page": 8,
      "page_basis": "running head '8 introduction' at l. 606 opens this page"
+    },
+    {
+     "text": "15 See, e.g., Schmitt’s description in his ‘Perrenial Philosophy…’ p. 513: “Not content",
+     "work": "edelheit2008",
+     "line": 646,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -508,6 +525,13 @@
      "line": 2133,
      "page": 39,
      "page_basis": "running head 'introduction 39' at l. 2125 opens this page"
+    },
+    {
+     "text": "Ficino and Pico, which created—each in his own way—a new kind of",
+     "work": "edelheit2008",
+     "line": 2140,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -553,7 +577,7 @@
    "text": "Edelheit holds that Ficino and Pico share a sense of crisis, reject scholastic approaches to religion, and draw on newly discovered pagan philosophies, but that their attempts at a new theology part ways and give very different results.",
    "quotes": [
     {
-     "text": "They both share a sense of crisis, and both feel that there ... is a need for a new, and purer, kind of Christianity. They both reject the scholastic approaches to the nature of religion. They are both influenced by newly discovered philosophies originating in pagan antiquity, and make use of them in attempting to constitute a purer theology.",
+     "text": "They both share a sense of crisis, and both feel that there [...] is a need for a new, and purer, kind of Christianity. They both reject the scholastic approaches to the nature of religion. They are both influenced by newly discovered philosophies originating in pagan antiquity, and make use of them in attempting to constitute a purer theology.",
      "work": "edelheit2008",
      "line": 2254,
      "page": 41,
@@ -565,13 +589,26 @@
      "line": 2272,
      "page": 42,
      "page_basis": "running head '42 introduction' at l. 2265 opens this page"
+    },
+    {
+     "text": "sized enough the diﬀerences between Ficino and Pico, who were re-",
+     "work": "edelheit2008",
+     "line": 2247,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "sized enough the diﬀerences between Ficino and Pico, who were re-",
+     "work": "edelheit2008",
+     "line": 2247,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Ficino",
-    "Pico"
+    "Ficino"
    ],
    "warrants": [],
    "assumptions": [],
@@ -604,7 +641,7 @@
    "text": "Edelheit says Ficino's Platonic Theology contains hidden echoes of Aquinas's Summa contra Gentiles, the only scholastic text that contemporary sources expressly say Ficino studied, and takes the lack of express references as evidence of Ficino's attitude.",
    "quotes": [
     {
-     "text": "Some ... hidden references to Thomas Aquinas’ Summa contra Gentiles (the only scholastic text which we are expressly told in contemporary sources was studied by Ficino) in the Platonic Theology is, if anything, evidence of this position. Otherwise, why have these echoes without express references?",
+     "text": "Some [...] hidden references to Thomas Aquinas’ Summa contra Gentiles (the only scholastic text which we are expressly told in contemporary sources was studied by Ficino) in the Platonic Theology is, if anything, evidence of this position. Otherwise, why have these echoes without express references?",
      "work": "edelheit2008",
      "line": 2314,
      "page": 43,
@@ -663,11 +700,18 @@
      "page_basis": "running head 'introduction 13' at l. 847 opens this page"
     },
     {
-     "text": "I shall ... present a different interpretation of this work and its importance in chapter three of this book.",
+     "text": "I shall [...] present a different interpretation of this work and its importance in chapter three of this book.",
      "work": "edelheit2008",
      "line": 903,
      "page": 14,
      "page_basis": "running head '14 introduction' at l. 901 opens this page"
+    },
+    {
+     "text": "all his studies on Ficino. His account of On the Christian Religion is symp-",
+     "work": "edelheit2008",
+     "line": 857,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -898,10 +942,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Pico",
-    "Apologia"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -1200,6 +1241,20 @@
      "line": 2641,
      "page": 50,
      "page_basis": "running head '50 chapter one' at l. 2608 opens this page"
+    },
+    {
+     "text": "2 Eugenio Garin, La cultura ﬁlosoﬁca… pp. 224–225, mentioned Caroli’s “occhio",
+     "work": "edelheit2008",
+     "line": 2630,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "2 Eugenio Garin, La cultura ﬁlosoﬁca… pp. 224–225, mentioned Caroli’s “occhio",
+     "work": "edelheit2008",
+     "line": 2630,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1306,6 +1361,27 @@
      "line": 7888,
      "page": 152,
      "page_basis": "running head '152 chapter two' at l. 7878 opens this page"
+    },
+    {
+     "text": "moral, allegorical, and anagogical or spiritual. Ficino’s historical level",
+     "work": "edelheit2008",
+     "line": 7880,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Christ was guided by the Holy Spirit, which, during the rites of baptism,",
+     "work": "edelheit2008",
+     "line": 7894,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "moral, allegorical, and anagogical or spiritual. Ficino’s historical level",
+     "work": "edelheit2008",
+     "line": 7880,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1357,6 +1433,13 @@
      "line": 8595,
      "page": 165,
      "page_basis": "running head 'humanist theology in practice 165' at l. 8549 opens this page"
+    },
+    {
+     "text": "faith as surpassing both. Since Paul’s ascent is a matter of faith, we can",
+     "work": "edelheit2008",
+     "line": 8558,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "hedged",
@@ -1402,6 +1485,13 @@
      "line": 8465,
      "page": 163,
      "page_basis": "running head 'humanist theology in practice 163' at l. 8449 opens this page"
+    },
+    {
+     "text": "and images.122 In the sermon, which concerns the suﬀerings of Paul,",
+     "work": "edelheit2008",
+     "line": 8461,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1447,7 +1537,7 @@
      "page_basis": "running head 'humanist theology in practice 149' at l. 7723 opens this page"
     },
     {
-     "text": "This is our human soul, which through its senses is temporal, and through its intellect is eternal. Here we are no longer in the ... realm of Aristotelian physics but rather in a Neoplatonic framework with Christian influences.",
+     "text": "This is our human soul, which through its senses is temporal, and through its intellect is eternal. Here we are no longer in the [...] realm of Aristotelian physics but rather in a Neoplatonic framework with Christian influences.",
      "work": "edelheit2008",
      "line": 7748,
      "page": 149,
@@ -1495,6 +1585,20 @@
      "line": 10618,
      "page": 206,
      "page_basis": "running head '206 chapter three' at l. 10593 opens this page"
+    },
+    {
+     "text": "tion and dissemination of which was to form the centre of Ficino’s",
+     "work": "edelheit2008",
+     "line": 10617,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "tion and dissemination of which was to form the centre of Ficino’s",
+     "work": "edelheit2008",
+     "line": 10617,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1539,6 +1643,20 @@
      "line": 13166,
      "page": 256,
      "page_basis": "running head '256 chapter three' at l. 13161 opens this page"
+    },
+    {
+     "text": "This is an opportune moment to discuss Ficino’s model for philoso-",
+     "work": "edelheit2008",
+     "line": 13165,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This is an opportune moment to discuss Ficino’s model for philoso-",
+     "work": "edelheit2008",
+     "line": 13165,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1631,6 +1749,20 @@
      "line": 12046,
      "page": 234,
      "page_basis": "running head '234 chapter three' at l. 12041 opens this page"
+    },
+    {
+     "text": "centre of Ficino’s humanist theology: the ancient theologians are in har-",
+     "work": "edelheit2008",
+     "line": 12046,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "centre of Ficino’s humanist theology: the ancient theologians are in har-",
+     "work": "edelheit2008",
+     "line": 12046,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1731,7 +1863,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Edelheit says Basil and Augustine confirm only that the Platonists used the mysteries of John the Evangelist, so that Ficino, who names Basil and Augustine, is placing this idea in his own cultural programme after centuries in which the Greek Neoplatonists had hardly been known in the Latin West.",
+   "text": "Edelheit says Basil and Augustine confirm only that the Platonists used the mysteries of John the Evangelist, so that Ficino, who names Basil and Augustine, is placing this idea in his own cultural programme after centuries in which the Greek authors had hardly been known in the Latin West.",
    "quotes": [
     {
      "text": "But Basil and Augustine confirm only that the Platonists—a very general and vague name—used the mysteries of John the Evangelist. Ficino places this idea in his own cultural programme, and he is doing so after hundreds of years in which these Greek authors and this philosophical tradition had hardly been known in the Latin West",
@@ -1785,6 +1917,20 @@
      "line": 12074,
      "page": 234,
      "page_basis": "running head '234 chapter three' at l. 12041 opens this page"
+    },
+    {
+     "text": "remarks of Allen, who emphasizes the place of Plotinus in Ficino’s new theology, in",
+     "work": "edelheit2008",
+     "line": 12073,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "remarks of Allen, who emphasizes the place of Plotinus in Ficino’s new theology, in",
+     "work": "edelheit2008",
+     "line": 12073,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1832,12 +1978,25 @@
      "line": 13191,
      "page": 256,
      "page_basis": "running head '256 chapter three' at l. 13161 opens this page"
+    },
+    {
+     "text": "talitate animorum inscribendum esse censui.” See also Ficino’s letter to Pico regarding",
+     "work": "edelheit2008",
+     "line": 13189,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "talitate animorum inscribendum esse censui.” See also Ficino’s letter to Pico regarding",
+     "work": "edelheit2008",
+     "line": 13189,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
     "Ficino",
     "Plato"
    ],
@@ -1882,6 +2041,55 @@
      "line": 10675,
      "page": 207,
      "page_basis": "running head 'marsilio ficino and the conditioreligionis 207' at l. 10642 opens this page"
+    },
+    {
+     "text": "the reaction of a Dominican friar, Vincenzo Bandello da Castelnuovo, introduced and",
+     "work": "edelheit2008",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "partly published by Paul Oskar Kristeller in his ‘A Thomist Critique of Marsilio Ficino’s",
+     "work": "edelheit2008",
+     "line": 10673,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the reaction of a Dominican friar, Vincenzo Bandello da Castelnuovo, introduced and",
+     "work": "edelheit2008",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the reaction of a Dominican friar, Vincenzo Bandello da Castelnuovo, introduced and",
+     "work": "edelheit2008",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the reaction of a Dominican friar, Vincenzo Bandello da Castelnuovo, introduced and",
+     "work": "edelheit2008",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "partly published by Paul Oskar Kristeller in his ‘A Thomist Critique of Marsilio Ficino’s",
+     "work": "edelheit2008",
+     "line": 10673,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "the reaction of a Dominican friar, Vincenzo Bandello da Castelnuovo, introduced and",
+     "work": "edelheit2008",
+     "line": 10672,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -1973,7 +2181,7 @@
    "text": "Edelheit says that in Ficino's humanist theology the pagan ancient theology replaces Aristotelianism and gives Christianity historical and philosophical profundity, without validating it.",
    "quotes": [
     {
-     "text": "The pagan ancient theology replaces here Aris- ... totelianism, and for Ficino, it also gives historical and philosophical profundity to Christianity. Such a profundity does not constitute a validation of Christianity.",
+     "text": "The pagan ancient theology replaces here Aris- [...] totelianism, and for Ficino, it also gives historical and philosophical profundity to Christianity. Such a profundity does not constitute a validation of Christianity.",
      "work": "edelheit2008",
      "line": 13303,
      "page": 258,
@@ -2023,6 +2231,13 @@
      "line": 14000,
      "page": 272,
      "page_basis": "running head '272 chapter three' at l. 13986 opens this page"
+    },
+    {
+     "text": "This, I argue, is a clear response to the spiritual crisis in which Ficino",
+     "work": "edelheit2008",
+     "line": 13988,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2068,7 +2283,7 @@
      "page_basis": "running head 'marsilio ficino and the conditioreligionis 273' at l. 14031 opens this page"
     },
     {
-     "text": "It is therefore not surprising that when Savonarola became powerful, Ficino was one of his supporters. After all, here it seemed that the ideal of the ... priest-king, which Ficino ennounced twenty years earlier in De Christiana religione was about to be put into practice.",
+     "text": "It is therefore not surprising that when Savonarola became powerful, Ficino was one of his supporters. After all, here it seemed that the ideal of the [...] priest-king, which Ficino ennounced twenty years earlier in De Christiana religione was about to be put into practice.",
      "work": "edelheit2008",
      "line": 14063,
      "page": 273,
@@ -2210,6 +2425,13 @@
      "line": 14216,
      "page": 276,
      "page_basis": "running head '276 chapter three' at l. 14183 opens this page"
+    },
+    {
+     "text": "the two authors. De Christiana religione is a positive work, directed at the",
+     "work": "edelheit2008",
+     "line": 14211,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2257,6 +2479,13 @@
      "line": 14236,
      "page": 277,
      "page_basis": "running head 'marsilio ficino and the conditioreligionis 277' at l. 14228 opens this page"
+    },
+    {
+     "text": "already present in Ficino, but often only by hint and implication, will",
+     "work": "edelheit2008",
+     "line": 14234,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2594,6 +2823,20 @@
      "line": 14417,
      "page": 282,
      "page_basis": "running head '282 chapter four' at l. 14390 opens this page"
+    },
+    {
+     "text": "someone who was not a friar and a professional theologian like Caroli,",
+     "work": "edelheit2008",
+     "line": 14416,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "or an ordained priest like Ficino. Pico was a layman, and yet it was he",
+     "work": "edelheit2008",
+     "line": 14417,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -2649,19 +2892,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "The labels 'platonicus' and 'aristotelicus' applied to Pico, and a proposed 'scepticus'",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "edelheit2008:056"
+   "id": "edelheit2008:056",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -2678,6 +2915,27 @@
      "text": "This distinction, I argue, is the key to an understanding of the humanist theology that Pico developed.",
      "work": "edelheit2008",
      "line": 14445,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "1. The Creed, which includes the articles of faith, the statements",
+     "work": "edelheit2008",
+     "line": 14427,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "3. The diﬀerent opinions of the Church Fathers and Doctors.",
+     "work": "edelheit2008",
+     "line": 14443,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "3. The diﬀerent opinions of the Church Fathers and Doctors.",
+     "work": "edelheit2008",
+     "line": 14443,
      "page": null,
      "page_basis": null
     }
@@ -2775,14 +3033,25 @@
      "line": 14585,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "God via Scotus see M.W.F. Stone, ‘Making Sense of Thomas Aquinas in the Sixteenth",
+     "work": "edelheit2008",
+     "line": 14577,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "God via Scotus see M.W.F. Stone, ‘Making Sense of Thomas Aquinas in the Sixteenth",
+     "work": "edelheit2008",
+     "line": 14577,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Thomae",
-    "Scoto"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -2810,7 +3079,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Edelheit reports the papal denunciation of the theses: theologians and legal experts reported that many conclusions were heretical or smacked of heresy, scandalous, restored the errors of the pagan philosophers, or favoured Jewish faithlessness or disciplines hostile to the faith under the guise of natural philosophy.",
+   "text": "Edelheit reports the papal denunciation of the theses: theologians and legal experts reported that many conclusions were heretical or smacked of heresy, scandalous, restored the errors of the pagan philosophers, or favoured the faithlessness of the Jews or disciplines hostile to the faith under the guise of natural philosophy.",
    "quotes": [
     {
      "text": "conclusions—both those according to the opinion of the same prince and those according to the opinion of others—are heretical or smack of heresy; others are scandalous and offend the feelings of the believers; many of the conclusions restore the errors of the pagan philosophers that long ago were abolished and have become obsolete; and others favor the faithlessness of the Jews",
@@ -2928,7 +3197,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
     "Plato",
     "Aristotle",
     "Plotinus",
@@ -2972,6 +3240,20 @@
      "line": 14501,
      "page": 284,
      "page_basis": "running head '284 chapter four' at l. 14484 opens this page"
+    },
+    {
+     "text": "is the new letter which was only recently published in Alison Brown, ‘New light on the",
+     "work": "edelheit2008",
+     "line": 14499,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "is the new letter which was only recently published in Alison Brown, ‘New light on the",
+     "work": "edelheit2008",
+     "line": 14499,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3009,7 +3291,7 @@
    "text": "Edelheit says Pico is often represented as the humanist with the best scholastic training, but that the Apologia, in which he fully expressed his scholastic competence, has been discussed less than his other works and lacks a detailed analysis.",
    "quotes": [
     {
-     "text": "Pico is often represented in the secondary literature ... as the humanist who had the best scholastic education or training",
+     "text": "Pico is often represented in the secondary literature [...] as the humanist who had the best scholastic education or training",
      "work": "edelheit2008",
      "line": 14302,
      "page": 280,
@@ -3335,6 +3617,13 @@
      "line": 15009,
      "page": 294,
      "page_basis": "running head '294 chapter four' at l. 15003 opens this page"
+    },
+    {
+     "text": "solo il Monissart e il Garsia, oltre agli altri commissari; il che è già indice di fratture,",
+     "work": "edelheit2008",
+     "line": 14999,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3378,6 +3667,13 @@
      "text": "Lorenzo de’ Medici non era un teologo, ma col suo intuito capiva bene che i teologi vicini al papa non dovessero essere degli studiosi seri.",
      "work": "edelheit2008",
      "line": 15078,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "bishop.30 But Di Napoli is interested only in proving Pico’s good faith",
+     "work": "edelheit2008",
+     "line": 15059,
      "page": null,
      "page_basis": null
     }
@@ -3443,19 +3739,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "The contemporary impression of Pico's move to Platonism, which Edelheit qualifies",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Qualifies the reading of Pico as a convert from Aristotle to Plato by tying his non-commitment to his method."
    },
-   "id": "edelheit2008:073"
+   "id": "edelheit2008:073",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -3493,19 +3783,14 @@
      "kind": "correspondence",
      "note": "Barbaro's characterisation of Pico as formerly Aristotelian and now Platonic, cited by Edelheit",
      "quote_index": 0
-    },
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Barbaro sees Pico's turn to Plato",
-     "quote_index": 0
     }
    ],
    "judged": {
     "frame_shift": 1,
     "justification": "Contemporary testimony to Pico's perceived shift from Aristotle to Plato."
    },
-   "id": "edelheit2008:074"
+   "id": "edelheit2008:074",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -3517,7 +3802,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Edelheit cites Di Napoli's claim that Pico was consciously proud to be the first to bring Plato and the Platonists into a public disputation, resting only on Pico's own words that the doctrine of the Platonists was brought by him into public disputation for the first time in many centuries, as far as he knew, and remarks that Di Napoli finds this unimportant for Pico.",
+   "text": "Edelheit cites Di Napoli's claim that Pico was consciously proud to be the first to bring Plato and the Platonists into a public disputation, resting only on Pico's own words that the doctrine of the Platonists was brought by him into public disputation for the first time in many centuries, as far as he knew; Edelheit notes Di Napoli offers no other evidence and does not treat the point as important.",
    "quotes": [
     {
      "text": "tutte le dispute degli Studi e degli Ordini religiosi ignoravano Platone; e Pico era consapevolmente orgoglioso di essere il primo a portare Platone e i platonici in una pubblica disputa.",
@@ -3545,19 +3830,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Pico's own claim to be first to bring the Platonists into public disputation",
-     "quote_index": 1
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "edelheit2008:075"
+   "id": "edelheit2008:075",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -3585,7 +3864,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
     "hell"
    ],
    "warrants": [],
@@ -3822,6 +4100,13 @@
      "line": 15554,
      "page": 304,
      "page_basis": "running head '304 chapter four' at l. 15522 opens this page"
+    },
+    {
+     "text": "nical discussion concerning the Parisian articles. His second conclusion",
+     "work": "edelheit2008",
+     "line": 15532,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3875,6 +4160,13 @@
      "line": 15579,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "nical discussion concerning the Parisian articles. His second conclusion",
+     "work": "edelheit2008",
+     "line": 15532,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -3914,7 +4206,7 @@
     "ref": "first condemned conclusion, Christ's descent into hell"
    },
    "theses": [],
-   "text": "Edelheit says Pico argues that Aquinas did not hold the same opinion on how separated things exist in a place in different texts, holding a view close to Pico's in the first book on the Sentences and one closer to the Scotists in the third part of the Summa, and that Pico thereby shows all such opinions to be only probable.",
+   "text": "Edelheit says Pico argues that Aquinas did not hold the same opinion on how separated things exist in a place in different texts, holding a view close to Pico's in the first book on the Sentences and, on Pico's reading, one closer to the other view in the third part of the Summa, and that Pico thereby shows all such opinions to be only probable.",
    "quotes": [
     {
      "text": "Pico argues that Thomas did not hold the same opinion on this question in different texts, but instead held opposite opinions in different places.",
@@ -3936,14 +4228,27 @@
      "line": 15789,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "into hell per eﬀectum, in other texts Aquinas says things that might",
+     "work": "edelheit2008",
+     "line": 15741,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Collection to the Sentence Commentary and the Summa: Parisian Scholastic Theology,",
+     "work": "edelheit2008",
+     "line": 15725,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
     "Thomas",
-    "Pico",
-    "Scotists"
+    "Pico"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4003,8 +4308,7 @@
    "hedge_words": "",
    "entities": [
     "Thomas",
-    "Scotus",
-    "Pico"
+    "Scotus"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4165,7 +4469,7 @@
    "text": "Edelheit says that in De ente et uno (1491) Pico prefers the skeptical to the Neoplatonic interpretation of Plato's Parmenides and describes the dialogue as nothing other than a dialectical exercise.",
    "quotes": [
     {
-     "text": "In De ente et uno (1491) he prefers the skeptical to the Neopla- tonic interpretation of Plato’s Parmenides and describes the dialogue ... as nothing other than a dialectica quaedam exercitatio.",
+     "text": "In De ente et uno (1491) he prefers the skeptical to the Neopla- tonic interpretation of Plato’s Parmenides and describes the dialogue [...] as nothing other than a dialectica quaedam exercitatio.",
      "work": "edelheit2008",
      "line": 17735,
      "page": 346,
@@ -4176,7 +4480,6 @@
    "hedge_words": "",
    "entities": [
     "De ente et uno",
-    "Pico",
     "Plato",
     "Parmenides"
    ],
@@ -4184,19 +4487,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico's skeptical reading of the Parmenides set against the Neoplatonic reading, i.e. Ficino's side",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Reads De ente et uno's treatment of the Parmenides as a skeptical-Academic move, not a Platonist thesis."
    },
-   "id": "edelheit2008:088"
+   "id": "edelheit2008:088",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -4430,6 +4727,13 @@
      "line": 18087,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "dialectic alone; but, whereas Pico maintains that Parmenides continued in the debate",
+     "work": "edelheit2008",
+     "line": 18075,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4478,6 +4782,13 @@
      "line": 18055,
      "page": 352,
      "page_basis": "running head '352 chapter four' at l. 18028 opens this page"
+    },
+    {
+     "text": "of Ficino’s interpretation of the Parmenides he concludes on p. 455 that “Ficino emerges",
+     "work": "edelheit2008",
+     "line": 18055,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4647,6 +4958,13 @@
      "line": 18073,
      "page": 352,
      "page_basis": "running head '352 chapter four' at l. 18028 opens this page"
+    },
+    {
+     "text": "was going to deal with the highest matters of theology” (pp. 441–442). Allen’s evidence,",
+     "work": "edelheit2008",
+     "line": 18077,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4747,6 +5065,34 @@
      "line": 17731,
      "page": 346,
      "page_basis": "running head '346 chapter four' at l. 17718 opens this page"
+    },
+    {
+     "text": "[such as] Averroes and Alexander, and of so many others, [dogmas]",
+     "work": "edelheit2008",
+     "line": 17686,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "[such as] Averroes and Alexander, and of so many others, [dogmas]",
+     "work": "edelheit2008",
+     "line": 17686,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "[such as] Averroes and Alexander, and of so many others, [dogmas]",
+     "work": "edelheit2008",
+     "line": 17686,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "[such as] Averroes and Alexander, and of so many others, [dogmas]",
+     "work": "edelheit2008",
+     "line": 17686,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4802,8 +5148,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
-    "Dionysii"
+    "Pico"
    ],
    "warrants": [],
    "assumptions": [],
@@ -4867,19 +5212,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Pico's late statement of philosophy as search, against dogmatic Platonism",
-     "quote_index": 1
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "Shows Pico in 1490 making philosophy a search and revelation the possession of truth."
    },
-   "id": "edelheit2008:101"
+   "id": "edelheit2008:101",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -4928,19 +5267,14 @@
      "kind": "correspondence",
      "note": "Pico's letter to Barbaro announcing his move from Aristotle to the Academia",
      "quote_index": 0
-    },
-    {
-     "party": "ficino",
-     "kind": "other",
-     "note": "Pico's own account of his shift toward Plato, without naming Ficino",
-     "quote_index": 0
     }
    ],
    "judged": {
     "frame_shift": 2,
     "justification": "Pico's own statement that his turn to Plato was exploratory, not conversion, qualifying the Aristotle-to-Plato narrative."
    },
-   "id": "edelheit2008:102"
+   "id": "edelheit2008:102",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -4952,7 +5286,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Edelheit says Pico's statement about Plato and Aristotle agreeing in things and differing in words is not the position of the skeptical Academy, which regarded Plato as a skeptic and Aristotle as a dogmatic, but suggests Pico may have recalled Cicero's phrasing of a controversy between Stoics and Peripatetics and saw some connection in his thought.",
+   "text": "Edelheit says Pico's statement about Plato and Aristotle agreeing in things and differing in words is not the position of the skeptical Academy, which regarded Plato as a skeptic and Aristotle as a dogmatic, but suggests Pico may have recalled Cicero's phrasing of a controversy in Cicero and saw some connection in his thought.",
    "quotes": [
     {
      "text": "This in itself is not the position of the skeptical Academy, which regarded Plato as a skeptic and Aristotle as a dogmatic.",
@@ -4962,9 +5296,23 @@
      "page_basis": null
     },
     {
-     "text": "It appears that Pico remembered the phraseology of this passage, although it is doubtful whether he saw in it an Academic skeptical position. But the very ... fact that this sentence follows immediately after his statement about the Academy suggests that some connection existed in his thought.",
+     "text": "It appears that Pico remembered the phraseology of this passage, although it is doubtful whether he saw in it an Academic skeptical position. But the very [...] fact that this sentence follows immediately after his statement about the Academy suggests that some connection existed in his thought.",
      "work": "edelheit2008",
      "line": 18204,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "to mind a later controversy, recorded by the Academic Cicero, in which",
+     "work": "edelheit2008",
+     "line": 18199,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "to mind a later controversy, recorded by the Academic Cicero, in which",
+     "work": "edelheit2008",
+     "line": 18199,
      "page": null,
      "page_basis": null
     }
@@ -5068,6 +5416,20 @@
      "line": 17952,
      "page": 350,
      "page_basis": "running head '350 chapter four' at l. 17924 opens this page"
+    },
+    {
+     "text": "were interested in it.” But still Schmitt states on p. 48 that the lack of commentaries",
+     "work": "edelheit2008",
+     "line": 17914,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "were interested in it.” But still Schmitt states on p. 48 that the lack of commentaries",
+     "work": "edelheit2008",
+     "line": 17914,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -5163,7 +5525,7 @@
    "text": "Edelheit says Pico argues in De ente et uno that the Parmenides contains no dogmas about the superiority of the One over being and that the whole dialogue is an exercise in dialectic, and that Pico suggests, from a reading of the dialogue's sequence, an interpretation of his own.",
    "quotes": [
     {
-     "text": "With regard ... to the Parmenides he argues that the dialogue does not contain dogmas regarding the superiority of ... but rather, as mentioned above, that the entire dialogue should be regarded as exercise in dialectic.",
+     "text": "With regard [...] to the Parmenides he argues that the dialogue does not contain dogmas regarding the superiority of [...] but rather, as mentioned above, that the entire dialogue should be regarded as exercise in dialectic.",
      "work": "edelheit2008",
      "line": 17977,
      "page": null,
@@ -5180,26 +5542,19 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Pico",
     "Parmenides"
    ],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico denies that the Parmenides teaches the One above being",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "Sets out the exegetical argument at issue with Ficino's Neoplatonic reading."
    },
-   "id": "edelheit2008:107"
+   "id": "edelheit2008:107",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -5217,7 +5572,7 @@
    "text": "Edelheit says Pico, in the Parmenides argument, disregards the doctrines of Speusippus and Xenocrates and adopts an interpretation explicitly based on the skeptical Academy's view of Plato's dialogues, and that a clear echo of Cicero's Academicus Primus leaves little room for doubt.",
    "quotes": [
     {
-     "text": "On this issue, he disregards the doctrines of Speusippus and Xenocrates, whom he calls Academici, and adopts an interpretation of Plato’s Parmenides which is explicitly based on the skeptical Academy’s ... view of the nature of Plato’s dialogues. The clear echo of a central sentence of Cicero’s Academicus Primus on this issue leaves little room for doubt.",
+     "text": "On this issue, he disregards the doctrines of Speusippus and Xenocrates, whom he calls Academici, and adopts an interpretation of Plato’s Parmenides which is explicitly based on the skeptical Academy’s [...] view of the nature of Plato’s dialogues. The clear echo of a central sentence of Cicero’s Academicus Primus on this issue leaves little room for doubt.",
      "work": "edelheit2008",
      "line": 18033,
      "page": 352,
@@ -5231,8 +5586,7 @@
     "Xenocrates",
     "Academici",
     "Cicero",
-    "Academicus Primus",
-    "Pico"
+    "Academicus Primus"
    ],
    "warrants": [
     {
@@ -5244,23 +5598,1359 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "Pico's reading of the Parmenides derived from Cicero's Academic Plato",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Traces Pico's Parmenides reading to Cicero's skeptical Academy rather than Neoplatonic sources."
    },
-   "id": "edelheit2008:108"
+   "id": "edelheit2008:108",
+   "revision": 1
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "oration-orders",
+    "de-ente"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "on concord and peace"
+   },
+   "theses": [],
+   "text": "Edelheit notes that Pico's opening speech for the planned Roman assembly contrasts discord with peace, which is related to God, so that Empedocles becomes relevant as an interpreter of Job, and that Pico stresses concord, citing Augustine's Contra Academicos to show the concord of Plato and Aristotle.",
+   "quotes": [
+    {
+     "text": "Discordia and dissidia are contrasted to pax, which is related to God (qui facit pacem in excelsis), and thus, Empedocles becomes relevant as an interpreter of Job",
+     "work": "edelheit2008",
+     "line": 16245,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico continues to emphasize the importance of concord in his speech: he cites, among others, Augustine’s Contra Academicos III, 19 to show the concord between Plato and Aristotle and relates this argument to later mediaeval philosophers",
+     "work": "edelheit2008",
+     "line": 16289,
+     "page": 318,
+     "page_basis": "running head '318 chapter four' at l. 16257 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Empedocles",
+    "Job",
+    "Augustine",
+    "Plato",
+    "Aristotle"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:109"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "concord of Plato and Aristotle"
+   },
+   "theses": [],
+   "text": "Edelheit reports that Pico's speech says the concord of Plato and Aristotle was believed by many but proved by none, that Boethius and Simplicius promised but did not deliver it, and that Pico adds many places where he asserts that the views of Scoti and Thomae, and of Averrois and Avicennae, agree.",
+   "quotes": [
+    {
+     "text": "Proposuimus primo Platonis Aristotelisque concordiam a multis antehac creditam, a nemine satis probatam. Boethius, apud Latinos, id se facturum pollicitus, non invenitur fecisse umquam quod semper facere voluit. Simplicius, apud Graecos idem professus, utinam id tam praestaret quam pollicetur.",
+     "work": "edelheit2008",
+     "line": 16292,
+     "page": 318,
+     "page_basis": "running head '318 chapter four' at l. 16257 opens this page"
+    },
+    {
+     "text": "Addidimus autem et plures locos in quibus Scoti et Thomae, plures in quibus Averrois et Avicennae sententias, quae discordes existimantur, concordes esse nos asseveramus.",
+     "work": "edelheit2008",
+     "line": 16300,
+     "page": 318,
+     "page_basis": "running head '318 chapter four' at l. 16257 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Boethius",
+    "Simplicius",
+    "Scoti",
+    "Thomae",
+    "Averrois",
+    "Avicennae"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Pico's own programme of concord, the background of De ente et uno."
+   },
+   "id": "edelheit2008:110"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "de-ente"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says the technical use of concordia as a criterion in Pico's theological method is related to the ancient notion of philosophic concord, which is common to both Ficino and Pico as well as to other Renaissance thinkers.",
+   "quotes": [
+    {
+     "text": "The more technical use of concordia as a criterion in Pico’s theological method is also related, as we have just seen, to the ancient notion of philosophic concord, common to both Ficino and Pico as well as to other Renaissance thinkers.",
+     "work": "edelheit2008",
+     "line": 16302,
+     "page": 318,
+     "page_basis": "running head '318 chapter four' at l. 16257 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Shared notion of philosophic concord",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:111"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "conclusion on magia naturalis and cabala"
+   },
+   "theses": [],
+   "text": "Edelheit says Pico explains that when he calls magia and cabala sciences he means natural knowledge that rests on nothing revealed, not revealed theology, and that they can help human knowledge of Christ's divinity without comprehending it.",
+   "quotes": [
+    {
+     "text": "Pico explains that when he uses the term scientia—knowledge—to describe magia and cabala, he means knowledge that does not at any stage rest on revelation, but only on scientia humanitus inventa—knowledge discovered by human beings. He says that both magia and cabala are part of natural knowledge, not part of revealed theology.",
+     "work": "edelheit2008",
+     "line": 16882,
+     "page": 330,
+     "page_basis": "running head '330 chapter four' at l. 16880 opens this page"
+    },
+    {
+     "text": "Those sciences are completely part of human knowledge, and yet can help us understand Christ’s divinity.",
+     "work": "edelheit2008",
+     "line": 16901,
+     "page": 330,
+     "page_basis": "running head '330 chapter four' at l. 16880 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Christ"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Pico's account of the condemned thesis on magic and Cabala",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:112"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "on the Cabala"
+   },
+   "theses": [],
+   "text": "Edelheit says Pico is very proud to be the first person to introduce Cabala to Latin readers and argues that in the books of Cabala many or nearly all things is consonant with the Christian faith.",
+   "quotes": [
+    {
+     "text": "Pico is very proud to be the first person to introduce this science to Latin readers.",
+     "work": "edelheit2008",
+     "line": 16940,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "in these texts there are many things which are consona fidei nostrae. This is again enough for Pico: to show that cabala is in accordance with the Christian faith.",
+     "work": "edelheit2008",
+     "line": 16936,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Latin"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:113"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says that Pico's frequent use of the terms probabile and possibile in every chapter of the Apologia combines scholastic terminology about what is only possible with the Academic terminology of what is only probable, delaying final judgment.",
+   "quotes": [
+    {
+     "text": "Pico’s frequent use of the terms probabile and possibile in every chapter of the Apologia is remarkable.",
+     "work": "edelheit2008",
+     "line": 16942,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico is using here both the known scholastic terminology of the theoretical theological disputes (discussing what is only possible), and the less-known Academic terminology (emphasizing the realm of what is only probable and thus delaying the final judgment regarding the truth).",
+     "work": "edelheit2008",
+     "line": 16985,
+     "page": 332,
+     "page_basis": "running head '332 chapter four' at l. 16983 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Apologia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:114"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit reports Cerretani's account that Marsilio Ficino, Girolamo Benivieni and Ihoanni de la Mirandola, described as very learned were among those who attended Savonarola's sermons on Genesis and listened with admiration to him affirm that he was sent by God.",
+   "quotes": [
+    {
+     "text": "Alle quali prediche chonchorsse molto popolo et molti valentissimi huomini, tra’quali era messere Marsilio Ficino messere Uliveri Arduini messere Malatesta da Rimino et Girolamo di ser Paolo Benivieni philosophi et theologi prestantissimi, el conte Ihoanni de la Mirandola doctissimo de’ suo tempi",
+     "work": "edelheit2008",
+     "line": 19041,
+     "page": 373,
+     "page_basis": "running head 'the savonarola affair 373' at l. 19014 opens this page"
+    },
+    {
+     "text": "These sermons inﬂuenced also the humanists; see Cerretani, Storia… p. 193: “Alle quali",
+     "work": "edelheit2008",
+     "line": 19041,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "many defects. For the textual history of Savonarola’s sermons on the book of Genesis",
+     "work": "edelheit2008",
+     "line": 19039,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Marsilio Ficino",
+    "Benivieni",
+    "Mirandola"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "reception",
+     "note": "Ficino, Benivieni and Pico listening to Savonarola, per the chronicler Cerretani quoted by Edelheit",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino hearing Savonarola",
+     "quote_index": 0
+    },
+    {
+     "party": "benivieni",
+     "kind": "friendship",
+     "note": "Girolamo Benivieni among the same hearers",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:115"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says that Savonarola's dictum that an old woman knows more of the faith than Plato is well known, but that Savonarola rejects Plato in the context of Christian faith while elsewhere using Plato's authority against astrology, and that he later criticised the Platonists in two later sermons, the first of February 25, 1497.",
+   "quotes": [
+    {
+     "text": "It is easy to find anti-humanist rhetoric in Savonarola’s sermons, and his dictum that any old lady knows more about faith than Plato is well-known. But Savonarola rejects Plato in the context of the Christian faith and from the point of view of someone who knows and has read Platonic dialogues.",
+     "work": "edelheit2008",
+     "line": 19807,
+     "page": 389,
+     "page_basis": "running head 'the savonarola affair 389' at l. 19796 opens this page"
+    },
+    {
+     "text": "And indeed, Savonarola specifically criticized the Platonists in two later sermons, delivered on February 25, 1497",
+     "work": "edelheit2008",
+     "line": 19872,
+     "page": 390,
+     "page_basis": "running head '390 chapter five' at l. 19845 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Savonarola",
+    "Plato",
+    "Platonists"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Savonarola's stance toward Plato, Ficino's authority",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:116"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit suggests that because Plato and the Neoplatonists were popular among Florentine humanists, and Ficino was both a Platonist and an astrologer, that intellectual context could have threatened the popularity and authority of the preaching prophet Savonarola.",
+   "quotes": [
+    {
+     "text": "Such an intellectual context, which included two models, the philosopher and the astrologer, could have been a threat to the popularity and authority of the preaching prophet—Savonarola’s own model.",
+     "work": "edelheit2008",
+     "line": 19854,
+     "page": 390,
+     "page_basis": "running head '390 chapter five' at l. 19845 opens this page"
+    },
+    {
+     "text": "and the inﬂuential ﬁgure of Marsilio Ficino who was both a Platonist",
+     "work": "edelheit2008",
+     "line": 19853,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "and the inﬂuential ﬁgure of Marsilio Ficino who was both a Platonist",
+     "work": "edelheit2008",
+     "line": 19853,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "to reject astrology.108 Plato and the Neoplatonic philosophers were very",
+     "work": "edelheit2008",
+     "line": 19848,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "could have been",
+   "entities": [
+    "Savonarola",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "quarrel",
+     "note": "Possible rivalry between the philosopher-astrologer model and the preaching prophet",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Ficino as Platonist and astrologer in relation to Savonarola",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:117"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says that there is no such contrast between Savonarola and Ficino as Allen describes, since Savonarola, though not a Platonist, used Plato's authority for his own purposes and so played a part in humanist theology.",
+   "quotes": [
+    {
+     "text": "there is no such contrast between Savonarola and Ficino as described by Allen",
+     "work": "edelheit2008",
+     "line": 20053,
+     "page": 394,
+     "page_basis": "running head '394 chapter five' at l. 20049 opens this page"
+    },
+    {
+     "text": "He was certainly not a Platonist, but he could use the authority of Plato for his own purposes. By doing so, he did play a part in humanist theology, and thus, cannot be contrasted to Ficino.",
+     "work": "edelheit2008",
+     "line": 20109,
+     "page": 395,
+     "page_basis": "running head 'the savonarola affair 395' at l. 20101 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Savonarola",
+    "Ficino",
+    "Allen",
+    "Plato"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "quarrel",
+     "note": "Edelheit denies Allen's sharp contrast between Ficino and Savonarola",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Revises the picture of Ficino as opposed to Savonarola."
+   },
+   "id": "edelheit2008:118",
+   "revision": 1
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit reports Allen's account that Ficino's pagan perspective raised the ire of Savonarola, who demanded its repudiation, and that Pico, still in his twenties, was swept away by the Dominican's zeal while the older, more circumspect Ficino remained committed to a very different vision of Christianity than Savonarola's fideism.",
+   "quotes": [
+    {
+     "text": "No wonder that such a “pagan” perspective [Ficino’s] raised the ire of Savonarola who demanded its repudiation. While Pico, however, was swept away by the Dominican’s zeal while still in his twenties, the older Ficino, who was in some respects the more circumspect and cautious of the two thinkers, remained nevertheless steadfatly committed to a very different vision of Christianity than Savonarola’s unaccommodating fideism.",
+     "work": "edelheit2008",
+     "line": 18885,
+     "page": 370,
+     "page_basis": "running head '370 chapter five' at l. 18860 opens this page"
+    },
+    {
+     "text": "middle) regarding their diﬀerent vision of Christianity is also emphasized by Allen",
+     "work": "edelheit2008",
+     "line": 18884,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Savonarola",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "quarrel",
+     "note": "Allen: Savonarola demanded Ficino's repudiation of a pagan perspective",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Allen's contrast of Ficino with Savonarola",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:119"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit asks why Ficino wrote his 1498 Apologia against Savonarola, in which he confesses that a hypocrite from Ferrara deceived so many gifted Florentines for almost five years, if Ficino was always contrasted to Savonarola as Allen argues, and prefers Weinstein's reading of Ficino's attack as that of a disillusioned believer.",
+   "quotes": [
+    {
+     "text": "why, if Ficino was indeed always so contrasted to Savonarola, as Allen argues, did he write this apology, where we find, on p. 76, the confession: “… quod hypocrita Ferrariensis unus tot Florentinos viros alioquin ingeniosos eruditosque integro ferme lustri cursu deceperit”",
+     "work": "edelheit2008",
+     "line": 18896,
+     "page": 370,
+     "page_basis": "running head '370 chapter five' at l. 18860 opens this page"
+    },
+    {
+     "text": "Weinstein’s observation regarding the relations between Ficino and Savonarola seems to me much more in line with the historical evidences; see, Weinstein, Savonarola… p. 186: “Yet the vehemence of Ficino’s attack is that of a disillusioned believer rather than the dispassionate analysis of a skeptical bystander like Machiavelli.”",
+     "work": "edelheit2008",
+     "line": 18900,
+     "page": 370,
+     "page_basis": "running head '370 chapter five' at l. 18860 opens this page"
+    },
+    {
+     "text": "Ficino and Pico) on the one hand, and Ficino’s own Apologia of 1498, the Apologia contra",
+     "work": "edelheit2008",
+     "line": 18894,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Savonarola",
+    "Allen",
+    "Weinstein"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "quarrel",
+     "note": "Ficino's 1498 Apologia against Savonarola",
+     "quote_index": 0
+    },
+    {
+     "party": "savonarola",
+     "kind": "quarrel",
+     "note": "Ficino's disillusioned attack, per Weinstein",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:120"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says that Ficino's letter of December 12, 1494 to Giovanni Cavalcanti treats Savonarola positively as divinely elected, showing prophecies as part of the relation between the human and the divine, and takes Savonarola as a realization of Ficino's own vision of revelation.",
+   "quotes": [
+    {
+     "text": "we find in Ficino’s earlier account of Savonarola, in a letter to Giovanni Cavalcanti dated December 12, 1494, discussing the importance of divine providence, prophets and prophecies, a very [...] positive attitude to the preacher; oracles and prophecies seem to be part of the essential relation between the human and the divine, and thus Savonarola is regarded as a man who was divinely elected for this mission.",
+     "work": "edelheit2008",
+     "line": 20122,
+     "page": 395,
+     "page_basis": "running head 'the savonarola affair 395' at l. 20101 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Savonarola",
+    "Giovanni Cavalcanti"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "friendship",
+     "note": "Ficino's positive letter on Savonarola in 1494",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "correspondence",
+     "note": "Ficino's letter to Cavalcanti",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:121"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Gianfrancesco Pico relates Savonarola to the skeptical tradition, and that Edelheit would not go as far as Granada in saying Savonarola's skeptical apologetic aimed to destroy Ficino's apologetic and its foundation.",
+   "quotes": [
+    {
+     "text": "Savonarola had yet another relation to pagan antiquity: he was related, mostly by Gianfrancesco Pico, to the skeptical tradition.",
+     "work": "edelheit2008",
+     "line": 20165,
+     "page": 396,
+     "page_basis": "running head '396 chapter five' at l. 20151 opens this page"
+    },
+    {
+     "text": "But I would not go as far as Granada, ‘Apologétique…’ p. 31: “L’apologétique sceptique de Savonarola prétendait donc détruire l’apologétique ficinienne et son fondement.”",
+     "work": "edelheit2008",
+     "line": 20301,
+     "page": 398,
+     "page_basis": "running head '398 chapter five' at l. 20256 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Gianfrancesco Pico",
+    "Savonarola",
+    "Granada",
+    "Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "gianfrancesco-pico",
+     "kind": "other",
+     "note": "Gianfrancesco Pico's biography of Savonarola as the source for his skeptical interest",
+     "quote_index": 0
+    },
+    {
+     "party": "savonarola",
+     "kind": "quarrel",
+     "note": "Granada's claim of a Savonarolan attack on Ficino's apologetic",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:122"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit cites Crinito's description of a philosophical dispute between Pico and Savonarola in the Marciana academy of San Marco on the relation between ancient pagan theology and Christianity, and a manuscript of Sextus with annotations by Poliziano, Pico and probably Ficino that passed to San Marco.",
+   "quotes": [
+    {
+     "text": "We have, of course, the beautiful literary description by Pietro Crinito in his De honesta disciplina, ed. Carlo Angeleri (Roma 1955), pp. 104–105, of a philosophical dispute, on the relation between ancient pagan theology and Christianity between Pico and Savonarola, held in the Marciana academia in San Marco.",
+     "work": "edelheit2008",
+     "line": 20274,
+     "page": 398,
+     "page_basis": "running head '398 chapter five' at l. 20256 opens this page"
+    },
+    {
+     "text": "autograph annotations, cross-reference marks and corrections in the handwriting of some of the most prominent figures in Lorenzo’s circle: Angelo Poliziano, Giovanni Pico della Mirandola and, probably, Marsilio Ficino.",
+     "work": "edelheit2008",
+     "line": 20268,
+     "page": 398,
+     "page_basis": "running head '398 chapter five' at l. 20256 opens this page"
+    },
+    {
+     "text": "and, probably, Marsilio Ficino.” This manuscript included Sextus’ Outlines of Pyrrhon-",
+     "work": "edelheit2008",
+     "line": 20271,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "probably",
+   "entities": [
+    "Pietro Crinito",
+    "Pico",
+    "Savonarola",
+    "Angelo Poliziano",
+    "Marsilio Ficino"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "teaching",
+     "note": "A disputation between Pico and Savonarola at San Marco on pagan theology and Christianity, as described by Crinito",
+     "quote_index": 0
+    },
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "Poliziano among the annotators of the same Sextus manuscript",
+     "quote_index": 1
+    },
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Ficino probably an annotator",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Records a witness to a face-to-face debate between Pico and Savonarola on the ancient theology."
+   },
+   "id": "edelheit2008:123"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit reports Garin's observation that the themes of the dignity of man and peace among doctrines are dominant in a programme of spiritual reconstruction, which explains Pico's decided approach to Savonarola though his horizon is wider and his speculative problems deeper.",
+   "quotes": [
+    {
+     "text": "I due temi, della dignità dell’uomo e della pace fra le dottrine, sono dominanti entro un programma di ricostruzione spirituale degli uomini. E questo spiega il suo avvicinamento così deciso al Savonarola, anche se il suo orizzonte è più vasto, e i suoi problemi speculativi più profondi.",
+     "work": "edelheit2008",
+     "line": 20292,
+     "page": 398,
+     "page_basis": "running head '398 chapter five' at l. 20256 opens this page"
+    },
+    {
+     "text": "simi.” Garin’s observation in his ‘Le interpretazioni…’ p. 30 is also important in this",
+     "work": "edelheit2008",
+     "line": 20291,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "simi.” Garin’s observation in his ‘Le interpretazioni…’ p. 30 is also important in this",
+     "work": "edelheit2008",
+     "line": 20291,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin",
+    "Savonarola"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "friendship",
+     "note": "Pico's approach to Savonarola, per Garin",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:124"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Savonarola was related to Pico, Nesi and the Benivieni brothers, his most critical opponent was Caroli, and it is impossible to measure his impact on the humanists but also impossible to argue there was none.",
+   "quotes": [
+    {
+     "text": "Savonarola was related to Pico, Nesi, and the Benivieni brothers for instance, and his most critical opponent was the Dominican Caroli. It is impossible to measure his impact on the humanists, but it is also impossible to argue that there was no influence at all.",
+     "work": "edelheit2008",
+     "line": 20319,
+     "page": 399,
+     "page_basis": "running head 'the savonarola affair 399' at l. 20311 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Savonarola",
+    "Pico",
+    "Nesi",
+    "Caroli"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "friendship",
+     "note": "Pico among Savonarola's Florentine associates",
+     "quote_index": 0
+    },
+    {
+     "party": "benivieni",
+     "kind": "friendship",
+     "note": "The Benivieni brothers among them",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:125"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "separate-substances",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Savonarola's Compendium presents angels as mediators between God and men, enlightening the prophet's imagination, and that this mixture of Christian and Neoplatonic notions reconciles the need for mediators between the human and divine, and between the one and the many in Neoplatonic doctrine, through angels.",
+   "quotes": [
+    {
+     "text": "Savonarola presents the angels as mediators between God and men; but then, the angels become angelic spirits which enlighten and carry the imagination of the prophet towards different apparitions, but they also appeal inwardly to the prophets.",
+     "work": "edelheit2008",
+     "line": 21677,
+     "page": 426,
+     "page_basis": "running head '426 chapter five' at l. 21661 opens this page"
+    },
+    {
+     "text": "The need for mediators between the human and the divine (and between the one and the many in Neoplatonic doctrine) is reconciled through the angels or the angelic spirits",
+     "work": "edelheit2008",
+     "line": 21716,
+     "page": 427,
+     "page_basis": "running head 'the savonarola affair 427' at l. 21712 opens this page"
+    },
+    {
+     "text": "curia Savonarola composed, on July 26, 1495, his Compendium revela-",
+     "work": "edelheit2008",
+     "line": 21643,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "curia Savonarola composed, on July 26, 1495, his Compendium revela-",
+     "work": "edelheit2008",
+     "line": 21643,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Savonarola",
+    "Compendium",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Savonarola's angelology in the prophetic mode",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Reads Savonarola's angels as answering the Neoplatonic problem of the one and the many."
+   },
+   "id": "edelheit2008:126"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "dionysian-hebrew-orders",
+    "separate-substances"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Savonarola compares the duties of the preacher to those of the angels, citing the three hierarchical operations of the angelic hierarchies to purge, illuminate and perfect.",
+   "quotes": [
+    {
+     "text": "But the preacher has a greater responsibility; his duties seem partly similar to the duties of the angels.",
+     "work": "edelheit2008",
+     "line": 22399,
+     "page": 440,
+     "page_basis": "running head '440 chapter five' at l. 22382 opens this page"
+    },
+    {
+     "text": "Tre sono le operazioni che si domandano ierarchiche, le quali fanno le ierarchie delli angeli: la prima è purgare, la seconda illuminare, la terzia perficere.",
+     "work": "edelheit2008",
+     "line": 22423,
+     "page": 440,
+     "page_basis": "running head '440 chapter five' at l. 22382 opens this page"
+    },
+    {
+     "text": "is part of Savonarola’s eﬀort to place the preacher in a higher position.",
+     "work": "edelheit2008",
+     "line": 22401,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "is part of Savonarola’s eﬀort to place the preacher in a higher position.",
+     "work": "edelheit2008",
+     "line": 22401,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Savonarola",
+    "angels"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Savonarola's use of the Dionysian triad of purging, illuminating, perfecting for the preacher",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:127"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Pico's Apologia, like Savonarola's approach, examines the theological tradition and Church decisions from a historical perspective, and that a humanist theology sharpened the boundary between the human and the divine to save religion from probability.",
+   "quotes": [
+    {
+     "text": "This is exactly what Pico presents in his Apologia, discussed in chapter four, regarding the scholastic theology. This theological tension was exposed by a humanist theology which aspired to sharpen the boundary between the human and the divine in order to save religion from probability",
+     "work": "edelheit2008",
+     "line": 21617,
+     "page": 425,
+     "page_basis": "running head 'the savonarola affair 425' at l. 21614 opens this page"
+    },
+    {
+     "text": "ity of the theological tradition and Church decisions from a historical",
+     "work": "edelheit2008",
+     "line": 21616,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "243 De Maio, Savonarola… pp. 17, 25, 28–29, 73; Verde and Giaconi, ‘Apologeticum…’",
+     "work": "edelheit2008",
+     "line": 21609,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico",
+    "Apologia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Pico and Savonarola as parts of one crisis of authority",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:128"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit concludes that Neoplatonic metaphysics was central to Ficino's theological perspective as Academic skepticism was to Pico's, and that the pagan Greek corpus was considered by some Florentine writers more relevant to theology than scholastic Aristotelian philosophy.",
+   "quotes": [
+    {
+     "text": "This pagan Greek corpus, almost entirely unknown to scholastic theology, was considered by some Florentine writers to be more relevant to theological discussions than scholastic Aristotelian philosophy.",
+     "work": "edelheit2008",
+     "line": 23632,
+     "page": 464,
+     "page_basis": "running head '464 conclusion' at l. 23614 opens this page"
+    },
+    {
+     "text": "Thus, Neoplatonic metaphysics was central to Ficino’s theological perspective as was Academic skepticism to Pico’s.",
+     "work": "edelheit2008",
+     "line": 23642,
+     "page": 464,
+     "page_basis": "running head '464 conclusion' at l. 23614 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Edelheit's summary contrast: Neoplatonic metaphysics for Ficino, Academic skepticism for Pico",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Concise statement of the contrast on which Edelheit's whole account of the two turns."
+   },
+   "id": "edelheit2008:129"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says that in Ficino's De Christiana religione the pre-Christian ancient theology and the post-Christian Neoplatonic philosophy play the role of praeambula fidei, just as Aristotelian philosophy had in scholastic theology.",
+   "quotes": [
+    {
+     "text": "In Ficino’s De Christiana religione, the pre-Christian ancient theology, together with the post-Christian philosophy of Neoplatonism, play the role of praeambula fidei, just as Aristotelian philosophy had done in scholastic theology.",
+     "work": "edelheit2008",
+     "line": 23757,
+     "page": 467,
+     "page_basis": "running head 'conclusion 467' at l. 23752 opens this page"
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ficino",
+    "De Christiana religione",
+    "Aristotelian"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Neoplatonism as Ficino's preamble to faith, replacing Aristotle",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:130"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit quotes Vasoli that Nesi, tied to a devout interpretation of Ficinian Platonism, adhered enthusiastically to Savonarola's preaching, with continuity between the two experiences and a fusion of the Platonic golden age with the prophecy of renovation.",
+   "quotes": [
+    {
+     "text": "Che un uomo come il Nesi, cosi legato ad un’interpretazione religiosa e ‘devota’ del platonismo ficiniano, potesse poi aderire, il piu vivo entusiasmo, alla predicazione savonaroliana e, quindi, cosa facilmente comprensibile.",
+     "work": "edelheit2008",
+     "line": 23806,
+     "page": 468,
+     "page_basis": "running head '468 conclusion' at l. 23796 opens this page"
+    },
+    {
+     "text": "4 Vasoli, ‘Giovanni Nesi…’ p. 116.",
+     "work": "edelheit2008",
+     "line": 23822,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "4 Vasoli, ‘Giovanni Nesi…’ p. 116.",
+     "work": "edelheit2008",
+     "line": 23822,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Nesi",
+    "Vasoli"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "reception",
+     "note": "Ficino's follower Nesi turns to Savonarola, per Vasoli",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Nesi's Ficinian Platonism",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2008:131"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Front matter and acknowledgements (lines 1-273); bibliography (from l. 23824) and index.",
+  "Introduction (274-2076): read in full, but only the parts on Ficino/Pico differences, Savonarola and method were mined; the historiographical survey of Baron, Cassirer, Kristeller, Garin (about ll. 347-1600) and the discussion of O'Malley and Camporeale (1600-1880) were read and mined only where they name Ficino or Pico.",
+  "Chapter One, Giovanni Caroli (about ll. 2566-5838): skipped as wholly on Caroli's Liber dierum lucensium and Dominican reform. Only the footnote on Caroli's critique of Pico's Theses (ll. 2630-2642) and the Ficino-teacher notes (2887-2905, 4660-4703) were read.",
+  "Chapter Two, humanist sermons (5839-10044): mostly skipped. Read only the Ficino Praedicationes passages on angels, Dionysius and the nature of the soul (7700-7960, 8120-8260, 8420-8720) and the Nesi/Rinuccini neighbourhood only by search.",
+  "Chapter Three, Ficino's De Christiana religione (10045-14245): read 10330-10790 (the prisca theologia and replacement of Aristotle), 11930-12130 (Hierotheus, Dionysius, angels), 13150-13470 (the letter to Pico, Peripatetics, the Prenninger letter) and 13773-14245 (Ficino's solution, Savonarola, comparison with Pico). Not read closely: the sections on the Incarnation, the Apostles, the Turks and the decline (10790-11930, 12130-13150, 13470-13773).",
+  "Chapter Four, Pico's Apologia (14246-18329): read closely 14246-16130 (chronology, concordia, the first condemned thesis on the location of separated substances, Parisian articles 218/204) and 16236-16320, 16840-16990 (magic and Cabala, Pico's priority), 17380-17760 (Origen, will, the cognition thesis) and 17726-18330 (De ente et uno, Parmenides, Academici, letters to Aldus, Barbaro, Lorenzo). Not mined: 15250-15330, 15880-16130 in detail on other theses, 16320-16840 (Thomist parallels, probability), 16990-17380 (Eucharist, other theses), and the closing excursus on probability in Pico (18573-18790), which was read only by search.",
+  "Chapter Five, the Savonarola affair (18330-23610): read targeted passages only, ll. 18790-18960, 19030-19060, 19340-19400, 19795-20370, 21600-21780, 22240-22440. Not read: the historiography, the political sermons, the ritual and republican material (the rest of the chapter).",
+  "Conclusions (23612-23822): read in full and mined."
+ ],
+ "proposed_topics": [
+  {
+   "id": "savonarola-humanists",
+   "label": "Savonarola and the Florentine humanists: Ficino, Pico, Benivieni, Nesi; the Allen-Edelheit disagreement on Ficino and Savonarola"
+  },
+  {
+   "id": "concordia-criterion",
+   "label": "Pico's concordia as an epistemic criterion (Apologia) versus the concord of Plato and Aristotle (Oration, De ente et uno)"
+  },
+  {
+   "id": "academic-skepticism",
+   "label": "Academic skepticism in Pico (Cicero's Academica, Augustine's Contra Academicos), including the Parmenides reading in De ente et uno"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "caroli",
+   "name": "Giovanni Caroli"
+  },
+  {
+   "id": "nesi",
+   "name": "Giovanni Nesi"
+  },
+  {
+   "id": "pedro-garcia",
+   "name": "Pedro Garcia (Garsia), commission member and author of the Determinationes magistrales"
+  },
+  {
+   "id": "andrea-corneo",
+   "name": "Andrea Corneo"
+  },
+  {
+   "id": "aldus-manutius",
+   "name": "Aldus Manutius"
+  },
+  {
+   "id": "john-cordier",
+   "name": "Jean Cordier, commission member who supported Pico"
+  }
+ ],
+ "notes": "BOOK MAP (edelheit2008, 25,512 lines, Brill 2008; printed pages from running heads): front matter 1-273; Introduction 274-2076 (pp. 1-48); Ch. 1 Caroli about 2566-5838 (pp. 49-122); Ch. 2 Humanist Theology in Practice 5839-10044 (pp. 123-204); Ch. 3 Ficino and the Conditio Religionis 10045-14245 (pp. 205-277); Ch. 4 Pico and his Theological Method 14246-18329 (pp. 279-368), with section 2 (the Apologia) about 14595-17860 and section 3 (attitude to philosophy) about 17887-18790; Ch. 5 The Savonarola Affair 18817-23610 (pp. 369-462); Conclusion about 23612-23822 (pp. 463-468); Bibliography from 23824. IMPORTANT: this book is on the Apologia and De Christiana religione, not on De ente et uno; the De ente material is concentrated in ll. 17733-18100 (Pico prefers the skeptical to the Neoplatonic reading of the Parmenides; Academia = Speusippus and Xenocrates; the note on Allen's 'Second Ficino-Pico Controversy', 18049-18079) and 17930-17944, 18186-18206 (Barbaro letter, concord of Plato and Aristotle). CRUXES: (1) Edelheit against Allen: Allen contrasts Ficino with Savonarola and says Pico was swept away by Savonarola (fn. at 18880-18904; 20054); Edelheit finds no such contrast and cites Ficino's 1494 letter to Cavalcanti and 1498 Apologia against Savonarola. (2) Edelheit against Allen on De ente et uno: Allen calls Ficino the more original; Edelheit says Allen ignores similarity and Pico's Ciceronian source and notes Pico never names Ficino (18049-18079). (3) Edelheit reads Pico as not a Platonist like Ficino and the 900 theses as opinions under examination (2508-2511), against the 'Aristotle then Plato' picture, which he calls 'alleged' (15116). (4) Ficino's letter to Pico about persuading others to Plato against Epicurus and Averroes (fn. 13189-13195) is cited without a date. (5) Location of angels: Pico's defence of the first thesis in the Apologia (15339-15850) claims Thomas and Scotus do not differ on how angels are in a place; Pico refuses to decide which explanation is truer. OCR TROUBLE: footnotes and '## Page' running heads are spliced mid-sentence throughout; quotations that cross them carry [...] where the footnote or running head intervenes. Hyphenated splits across a page (e.g. Aris- / totelianism, ll. 13303-13309) needed a split inside the word. Greek is garbled (the One as 'τ= <ν'). Printed page numbers are given only where a running head opens the page (e.g. 'chapter four 281'); they are from the running head of the page on which a quotation begins. Some claims report Edelheit reporting others (Allen, Schmitt, Di Napoli, Granada, Garin, Vasoli, Kristeller): those are marked scholar_report. Edelheit's footnotes quote primary texts of Ficino, Pico, Savonarola in Latin and Italian; where a claim rests on such a quotation it is attributed scholar_report, not primary_text."
 }

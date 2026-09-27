@@ -1,7 +1,7 @@
 {
  "packet": "wallis1965-deente",
  "file": "data\\claims\\angelology\\wallis1965-deente.claims.json",
- "verified_at": "2026-09-26T05:14:07+00:00",
+ "verified_at": "2026-09-27T18:05:50+00:00",
  "claims": [
   {
    "id": "wallis1965-deente:001",
@@ -31,7 +31,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'poliziano' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wallis1965-deente:003",
@@ -46,14 +53,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Poliziano' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:004",
@@ -83,7 +83,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'poliziano' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wallis1965-deente:006",
@@ -202,20 +209,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Parmenides' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:013",
@@ -252,20 +246,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Socrates' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Socrates' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:015",
@@ -376,20 +357,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'From' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sophist' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:021",
@@ -507,20 +475,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Using' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Platonists' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:027",
@@ -713,14 +668,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Metaphysics' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:038",
@@ -920,14 +868,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Taking' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:049",
@@ -1052,20 +993,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Dionysius' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Dionysius' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:055",
@@ -1191,20 +1119,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Addressing' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Poliziano' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:062",
@@ -1233,7 +1148,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'poliziano' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wallis1965-deente:063",
@@ -1307,14 +1229,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Silence' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:067",
@@ -1418,14 +1333,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Metaphysics' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:073",
@@ -1785,14 +1693,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Following' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:090",
@@ -2012,14 +1913,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Since' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wallis1965-deente:100",
@@ -2276,12 +2170,6 @@
      "severity": "warn",
      "where": "quotes[2]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Aristotle' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -2655,18 +2543,6 @@
      "severity": "warn",
      "where": "quotes[1]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Biographical' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Note' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -2791,13 +2667,6 @@
     {
      "verdict": "verbatim",
      "line_start": 2624,
-     "line_end": 2624,
-     "occurrences": 1,
-     "basis": "letters and digits only; punctuation ignored"
-    },
-    {
-     "verdict": "verbatim",
-     "line_start": 2625,
      "line_end": 2625,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -2806,27 +2675,9 @@
    "warrants": [],
    "issues": [
     {
-     "code": "quote_too_short",
-     "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "3 words is too little to test"
-    },
-    {
      "code": "scholar_from_edition",
      "severity": "warn",
      "where": "quotes[0]",
-     "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "quote_too_short",
-     "severity": "warn",
-     "where": "quotes[1]",
-     "detail": "3 words is too little to test"
-    },
-    {
-     "code": "scholar_from_edition",
-     "severity": "warn",
-     "where": "quotes[1]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
     }
    ]
@@ -2863,12 +2714,6 @@
      "severity": "warn",
      "where": "quotes[1]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -3031,18 +2876,6 @@
      "severity": "warn",
      "where": "quotes[1]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Egyptians' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Iside' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -3113,12 +2946,6 @@
      "severity": "warn",
      "where": "quotes[0]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Silence' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -3141,12 +2968,6 @@
      "severity": "warn",
      "where": "quotes[0]",
      "detail": "scholar claim quoted from an edition of Pico (wallis1965): allowed only for the editors' or translators' NOTES, never Pico's own text; the semantic verifier checks the quotation is in the notes"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Jamblichus' occurs in the restatement but in none of the quotations"
     }
    ]
   },
@@ -3212,9 +3033,9 @@
   "claims": 138,
   "verified": 138,
   "needs_fix": 0,
-  "quotes": 216,
-  "quotes_verbatim": 216,
-  "warnings": 89,
+  "quotes": 215,
+  "quotes_verbatim": 215,
+  "warnings": 62,
   "verified_rate": 1.0
  }
 }

@@ -2600,7 +2600,7 @@
    "relations_local": [],
    "bears_on": [
     {
-     "party": "elijah-delmedigo",
+     "party": "delmedigo",
      "kind": "other",
      "note": "Delmedigo's work postdates the Heptaplus; Black uses it only as a parallel.",
      "quote_index": 0
@@ -3428,7 +3428,7 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "source",
+     "kind": "other",
      "note": "Ficino's translation of Iamblichus is offered as a textual parallel for a list in the first proem.",
      "quote_index": 0
     }
@@ -3437,7 +3437,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "black2006-b:073"
+   "id": "black2006-b:073",
+   "revision": 1
   },
   {
    "claimant": "Crofton Black",
@@ -6986,7 +6987,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black holds that the sixteenth-century Reformers' attack on the non-literal senses, culminating in Zwingli's claim that Moses wrote so that even idiots could understand, was essentially polemical and misrepresented the pre-Reformation tradition, which did not envisage different audiences for different senses.",
+   "text": "Black holds that the Reformers' attack on the non-literal senses, of which Zwingli's reading of Genesis 1 is an example, was essentially polemical, and that the central pre-Reformation exegetes did not, as a rule, envisage different audiences for different senses.",
    "quotes": [
     {
      "text": "The non-literal senses were to become, in the sixteenth century, the object of attack by Reformers, and part of the rhetoric of this attack was that they distracted attention unnecessarily, and indeed dangerously, away from the literal sense.114 But this reading of the fourfold model was essentially polemical.",

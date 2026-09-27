@@ -52,20 +52,50 @@ def chash(c):
     """Identity of what a semantic reader judged: the restatement plus its quotations."""
     import hashlib
     body = c.get("text", "") + "|" + "|".join(q.get("text", "") for q in c.get("quotes", []) if isinstance(q, dict))
+    if c.get("revision"):
+        body += "|rev%s" % c["revision"]   # bump `revision` whenever any field of a judged claim is edited (bears_on, hedge, ...)
     return hashlib.sha1(body.encode("utf-8")).hexdigest()[:10]
 
 
 def semantic_verdicts(packet):
     """data/verification/claims/<packet>.semantic.json, written by the second (semantic) verifier:
     {"packet": ..., "verifier": ..., "judged": [{"id", "hash", "verdict": supported|overreaches|wrong, "reason", "suggested_text"}]}"""
-    p = os.path.join(VERDICTS, packet + ".semantic.json")
-    if not os.path.exists(p):
-        return {}
-    return {j["id"]: j for j in load(p).get("judged", [])}
+    out = {}
+    # <packet>.semantic.json (the random sample) and <packet>.semantic.<tag>.json (targeted verification of cited
+    # claims). Files are applied oldest-mtime-first so the most RECENTLY WRITTEN verdict wins for a given claim id,
+    # regardless of filename (a plain ".semantic.json" sorts after ".semantic.confirm.json" alphabetically, which
+    # would silently resurrect a stale overreach verdict the confirm file was meant to supersede -- caught 2026-09-27
+    # when a fixed, re-judged claim kept failing commentary_check.py because the old sample file's verdict still won).
+    files = sorted(glob.glob(os.path.join(VERDICTS, packet + ".semantic*.json")), key=lambda p: os.path.getmtime(p))
+    for p in files:
+        for j in load(p).get("judged", []):
+            out[j["id"]] = j
+    return out
 
 
 def gn(s):
     return C.norm(s, digits=True)
+
+
+PARTY_TOKENS = None
+
+
+def party_tokens(party):
+    """Name tokens by which a party would be recognised in a quotation (from data/claims/parties.json)."""
+    global PARTY_TOKENS
+    if PARTY_TOKENS is None:
+        PARTY_TOKENS = {}
+        pp = os.path.join(ROOT, "data", "claims", "parties.json")
+        skip = {"papal", "pope", "the", "1487", "della", "medici"}
+        for q in load(pp)["parties"]:
+            toks = [gn(t) for t in q["name"].replace("'", " ").split()]
+            PARTY_TOKENS[q["id"]] = [t for t in toks if len(t) >= 5 and t not in skip] or toks
+            PARTY_TOKENS[q["id"]] += [gn(x) for x in q.get("aliases", [])]
+    return PARTY_TOKENS.get(party, [gn(party)])
+
+
+def party_grounded(party, ground):
+    return any(t and t in ground for t in party_tokens(party))
 
 
 def grounded(n, ground):
@@ -193,6 +223,10 @@ def check_claim(c, packet, fix, strict):
         if not grounded(n, ground):
             issues.append({"code": "ungrounded_entity", "severity": "error" if strict else "warn", "where": "text",
                            "detail": "%r occurs in the restatement but in none of the quotations" % tok})
+    for b in c.get("bears_on") or []:
+        if b.get("party") and not party_grounded(b["party"], ground):
+            issues.append({"code": "bears_on_ungrounded", "severity": "warn", "where": "bears_on",
+                           "detail": "party %r is named in no quotation of this claim: the relationship tag is an inference, not evidence" % b["party"]})
     for e in c.get("entities") or []:
         if not grounded(gn(e.split()[-1]), ground) and gn(e) not in ground:
             issues.append({"code": "ungrounded_entity", "severity": "error" if strict else "warn", "where": "entities",

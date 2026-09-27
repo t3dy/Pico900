@@ -21,7 +21,9 @@ from collections import defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpuslib as C
+import claims_verify as V
 
+UNGROUNDED = 0.4   # weight of a relationship tag whose party is named in no quotation of the claim (an inference)
 RELATIONS = {"supports", "contradicts", "qualifies", "depends_on", "same_claim", "cites"}
 
 
@@ -160,7 +162,9 @@ def main():
         for b in c.get("bears_on") or []:
             if b["party"] not in parties:
                 unknown_parties.add(b["party"])
-            w = KW.get(b["kind"], 0.4) * comp[cid]["importance"] / 100.0
+            ground = V.gn(" ".join(q["text"] for q in c["quotes"]))
+            gr = V.party_grounded(b["party"], ground)
+            w = KW.get(b["kind"], 0.4) * comp[cid]["importance"] / 100.0 * (1.0 if gr else UNGROUNDED)
             cards = [("claim", cid)]
             cards += [("topic", t) for t in c.get("topics") or []]
             cards += [("thesis", t) for t in c.get("theses") or []]
@@ -169,7 +173,7 @@ def main():
             for ctype, key in cards:
                 r = raw[b["party"]][ctype][key]
                 r["sum"] += w
-                r["evidence"].append({"claim": cid, "kind": b["kind"], "note": b["note"]})
+                r["evidence"].append({"claim": cid, "kind": b["kind"], "note": b["note"], "grounded": gr})
     relevance = {}
     for party, bytype in raw.items():
         relevance[party] = {}

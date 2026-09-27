@@ -4312,7 +4312,7 @@
     "ref": "Fifth Exposition, ch. 5"
    },
    "theses": [],
-   "text": "Pico says that his friend Marsilio Ficino will soon give Plotinus to be read in Latin with ample comments, and cites Plotinus for the view that all life arises from a divine origin.",
+   "text": "Pico says he will not discuss whether all life arises from a divine origin, as Plotinus asserted, and remarks that his friend Marsilio Ficino will soon give Plotinus to be read in Latin with ample comments.",
    "quotes": [
     {
      "text": "or whether all life arises rather from a divine origin, as asserted by Plotinus",
@@ -4345,19 +4345,14 @@
      "kind": "friendship",
      "note": "Pico names Ficino 'our friend' and looks forward to his Latin Plotinus with commentary.",
      "quote_index": 1
-    },
-    {
-     "party": "ficino",
-     "kind": "source",
-     "note": "Pico cites Plotinus for a divine origin of life and awaits Ficino's translation.",
-     "quote_index": 0
     }
    ],
    "judged": {
     "frame_shift": 1,
     "justification": "Pico calls Ficino his friend and anticipates his Latin Plotinus in the Heptaplus."
    },
-   "id": "wallis1965-heptaplus:099"
+   "id": "wallis1965-heptaplus:099",
+   "revision": 1
   },
   {
    "claimant": "Pico",
@@ -4693,7 +4688,7 @@
     "ref": "Sixth Exposition, proem"
    },
    "theses": [],
-   "text": "Pico says that the unity seen in creatures is of three modes: each thing one to itself, one creature united to another, and the whole universe one with its Maker, and that each is derived from that One which is at once first one and three and one.",
+   "text": "Pico says the unity seen in creatures is of three modes (each thing one to itself, one creature united to another, the whole universe one with its Maker) and that this threefold unity is present in each thing through its own simple unity derived from that One which is both first one and three and one, the Father, Son and Holy Spirit.",
    "quotes": [
     {
      "text": "the fact that the unity which we see in creatures is of three different modes. First, there is that unity in things whereby each is one to itself, remains the same as itself, and is in harmony with itself. Secondly, there is that through which one creature is united to another and through which all parts of the world are ultimately one world. The third and most important of all is that whereby the whole universe is one with its Maker, as an army is with its leader.",
@@ -5052,19 +5047,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "The pairing of One and Good as names of God is relevant to the later dispute over the priority of the One and Being, but the passage names no opponent.",
-     "quote_index": 1
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 2,
     "justification": "Ties One to beginning and Good to end, and attributes the pair to the Pythagoreans, in the work's closing account of felicity."
    },
-   "id": "wallis1965-heptaplus:116"
+   "id": "wallis1965-heptaplus:116",
+   "revision": 1
   },
   {
    "claimant": "Pico",
@@ -5867,6 +5856,848 @@
     "justification": ""
    },
    "id": "wallis1965-heptaplus:134"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "method",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "Note on the Text (front matter)"
+   },
+   "theses": [],
+   "text": "The translators say they are heavily indebted to the Garin edition for identifications of quotations and references to other works, which is the basis of the notes to the Heptaplus.",
+   "quotes": [
+    {
+     "text": "The translators are heavily indebted to the Garin edition for identifications of quotations and references to other works.",
+     "work": "wallis1965",
+     "line": 1106,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:135"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 24 to the first proem (Eleazar, Aba, Neonias, Isaac)"
+   },
+   "theses": [],
+   "text": "The translators' note says it is not certain which Eleazar Pico meant, and that Garin suggests Nechunjah ben ha-Qanah and Isaac the Blind for two of the names Pico lists.",
+   "quotes": [
+    {
+     "text": "There are numerous early Jewish writers of the name Eleazar; it is not certain to which Pico referred.",
+     "work": "wallis1965",
+     "line": 3768,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Garin suggests Nechunjah ben ha-Qanah late-1st-century mystical expounder of the Torah. Garin also suggests Isaac the Blind.",
+     "work": "wallis1965",
+     "line": 3770,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Eleazar",
+    "Garin"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The note leaves the identity of Eleazar open, and Garin's identifications are suggestions.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:136"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 15 to the first proem (Dionysius on secret doctrine)"
+   },
+   "theses": [],
+   "text": "The translators' note refers Pico's statement about Dionysius and the custom of not writing down the more secret doctrines to the Caelestis hierarchia, chapter II.",
+   "quotes": [
+    {
+     "text": "Pseudo-Dionysius, Caelestis hierarchia II (Migne, Patrologia Graeca, III, 133 If.).",
+     "work": "wallis1965",
+     "line": 3653,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Dionysius",
+    "Caelestis hierarchia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:137"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 23 to the first proem (Ionethes, Anchelos, Simeon)"
+   },
+   "theses": [],
+   "text": "The translators' note identifies Simeon, named by Pico among authors of works in another language, as the reputed author of the Zohar.",
+   "quotes": [
+    {
+     "text": "Simeon ben Yohai. reputed 2nd-century author of the most important of all Cabalistic works. the Zohar, a mystical commentary on the Pentateuch.",
+     "work": "wallis1965",
+     "line": 3738,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "reputed",
+   "entities": [
+    "Simeon",
+    "Zohar"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:138"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "three-worlds"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 2 to the second proem (Anaxagoras and containment)"
+   },
+   "theses": [],
+   "text": "The translators' note gives Simplicius, Physica 27.2 as the reference for the doctrine of mutual containment in this passage.",
+   "quotes": [
+    {
+     "text": "Simplicius, Physica 27. 2.",
+     "work": "wallis1965",
+     "line": 3947,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Simplicius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:139"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 8 to the second proem (Isaac the Persian, Samuel Ophinides)"
+   },
+   "theses": [],
+   "text": "The translators' note says Isaac the Persian is unidentifiable and identifies Samuel Ophinides as Samuel ben Hophni.",
+   "quotes": [
+    {
+     "text": "Isaac the Persian. unidentifiable. Samuel Ophinides is Samuel ben Hophni.",
+     "work": "wallis1965",
+     "line": 4109,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Isaac the Persian",
+    "Samuel ben Hophni"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:140"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 5 to First Exposition ch. 2 (tou and bou)"
+   },
+   "theses": [],
+   "text": "The translators' note cross-refers the passage on the Hebrew terms tou and bou, with Plato's Timaeus, to the Zohar I, 16a.",
+   "quotes": [
+    {
+     "text": "Plato, Timaeus 52b. Cf. Zohar, I, 16a",
+     "work": "wallis1965",
+     "line": 4351,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Zohar",
+    "Timaeus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:141"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "separate-substances",
+    "aquinas-dionysius",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 1 to Second Exposition proem (Dionysius and St. Thomas)"
+   },
+   "theses": [],
+   "text": "The translators' note refers Pico's appeal on the fewest concepts of the highest angelic minds to the Caelestis hierarchia VII and to Aquinas, Summa theologica I, q. 89, a. 1.",
+   "quotes": [
+    {
+     "text": "Pseudo-Dionysius, Caelestis hierarchia VII; Aquinas, Summa theologica, I, q. 89, a. 1.",
+     "work": "wallis1965",
+     "line": 4651,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caelestis hierarchia",
+    "Aquinas",
+    "Summa theologica"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Gives the editors' source references for the Dionysius and Thomas authority on angelic knowledge."
+   },
+   "id": "wallis1965-heptaplus:142"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 3 to Second Exposition ch. 1 (Isaac the philosopher)"
+   },
+   "theses": [],
+   "text": "The translators' note identifies Isaac the philosopher as Isaac ben Solomon Israeli, a Jewish physician and philosopher of Egypt and Tunisia.",
+   "quotes": [
+    {
+     "text": "Isaac ben Solomon Israeli, 9th-century Jewish physician and philosopher in Egypt and Tunisia.",
+     "work": "wallis1965",
+     "line": 4693,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Isaac ben Solomon Israeli"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:143"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 2 to Third Exposition proem (Hierotheus)"
+   },
+   "theses": [],
+   "text": "The translators' note calls the figure Pico names beside Dionysius a fictitious mystic referred to as historical by the Pseudo-Dionysius.",
+   "quotes": [
+    {
+     "text": "Fictitious mystic referred to as historical by the Pseudo-Dionysius.",
+     "work": "wallis1965",
+     "line": 5142,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pseudo-Dionysius"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "States that the mystic whom Pico says Dionysius followed is a fiction of the Dionysian corpus."
+   },
+   "id": "wallis1965-heptaplus:144"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 6 to Third Exposition ch. 3 (three hierarchies)"
+   },
+   "theses": [],
+   "text": "The translators' note refers Pico's account of the three hierarchies and the highest hierarchy's contemplation to the Caelestis hierarchia VII and following.",
+   "quotes": [
+    {
+     "text": "Pseudo-Dionysius, Caelestis hierarchia VII ff.",
+     "work": "wallis1965",
+     "line": 5266,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caelestis hierarchia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:145"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 19 to Third Exposition ch. 5 (purification, illumination, perfection)"
+   },
+   "theses": [],
+   "text": "The translators' note refers Pico's three angelic activities of purification, illumination and perfection to the Caelestis hierarchia XI.",
+   "quotes": [
+    {
+     "text": "Pseudo-Dionysius. Caelestis hierarchia XI.",
+     "work": "wallis1965",
+     "line": 5430,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caelestis hierarchia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:146"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 5 to Third Exposition ch. 2 (Averroes on angelic knowledge)"
+   },
+   "theses": [],
+   "text": "The translators' note gives Averroes, De animae beatitudine as the reference for Pico's statement that truth is grasped far better by angels than by men.",
+   "quotes": [
+    {
+     "text": "Averroes, De animae beatitudine (ed. Giunta [1573], IX, 153ab).",
+     "work": "wallis1965",
+     "line": 5265,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Averroes"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:147"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysius-transmission"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 23 to Third Exposition ch. 7 (Christ and the angels)"
+   },
+   "theses": [],
+   "text": "The translators' note refers Pico's statement that one who is man enlightens and perfects the angels, if we believe Dionysius, to the Caelestis hierarchia IV.",
+   "quotes": [
+    {
+     "text": "Pseudo-Dionysius, Caelestis hierarchia IV.",
+     "work": "wallis1965",
+     "line": 5487,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caelestis hierarchia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:148"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "angel-location",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 13 to Second Exposition ch. 6 (the hostile man)"
+   },
+   "theses": [],
+   "text": "The translators' note says that the Douay version gives 'enemy' where Pico has 'hostile man', the Latin being inimicus homo, which gives more point to Pico's comment on the evil demon.",
+   "quotes": [
+    {
+     "text": "The Douay version gives \"enemy\" rather than \"hostile man,\" but the Latin is inimicus homo, which gives more point to Pico's comment.",
+     "work": "wallis1965",
+     "line": 4981,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Douay"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Editors flag that Pico's phrase for the evil demon rests on the Latin inimicus homo."
+   },
+   "id": "wallis1965-heptaplus:149"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 8 to Fourth Exposition ch. 2 (Alfarabi)"
+   },
+   "theses": [],
+   "text": "The translators' note identifies Alfarabi as the Arabic philosopher abu-Nasr al-Farabi of Baghdad and Aleppo.",
+   "quotes": [
+    {
+     "text": "Mohammed ibn Mohammed ibn Tarkhan abu-Nasr al-Farabi, c. 870- 950, Arabic philosopher of Baghdad and Aleppo.",
+     "work": "wallis1965",
+     "line": 5684,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "al-Farabi"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:150"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "agent-intellect"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 9 to Fourth Exposition ch. 2 (Abubacher)"
+   },
+   "theses": [],
+   "text": "The translators' note identifies a philosopher named in the passage as Abu-Bakr ibn Tufail, a Moorish physician and philosopher, and points to Ibn Baja.",
+   "quotes": [
+    {
+     "text": "Abu-Bakr Mohammed ibn 'Abd-al-Malik ibn Tufail, d. 1186, Moorish physician and philosopher. Cf. here Ibn Baja, Epistola Expeditionis",
+     "work": "wallis1965",
+     "line": 5688,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Ibn Tufail",
+    "Ibn Baja"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:151"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "other"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 12 to Fourth Exposition ch. 5 (Chaldean saying)"
+   },
+   "theses": [],
+   "text": "The translators' note says Pico indicates no source for a quotation about the beasts of the earth and gives it only in Latin.",
+   "quotes": [
+    {
+     "text": "Pico indicates no source for this quotation and gives it only in Latin.",
+     "work": "wallis1965",
+     "line": 5773,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The note says the source of the Chaldean saying is not given by Pico.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:152"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "heptaplus-angelic-world",
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 3 to Fifth Exposition ch. 1 (the Saracens' saying about angels)"
+   },
+   "theses": [],
+   "text": "The translators' note says Pico gives no indication of a particular source for a saying that the angels were led out of darkness into light.",
+   "quotes": [
+    {
+     "text": "Pico gives no indication of a particular source for this.",
+     "work": "wallis1965",
+     "line": 6022,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [
+    {
+     "id": "q1",
+     "kind": "evidence_gap",
+     "text": "The note says no source is given for the saying attributed to the Saracens.",
+     "basis_quote": null
+    }
+   ],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:153"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 19 to Seventh Exposition ch. 4 (Elijah's oracle)"
+   },
+   "theses": [],
+   "text": "The translators' note cites Aboda Zara 9a, Sanhedrin 97a and Zohar I, 25a for the oracle that Pico quotes.",
+   "quotes": [
+    {
+     "text": "Aboda Zara, ga. Cf. Sanhedrin, 97a; Zohar, I, 25a.",
+     "work": "wallis1965",
+     "line": 7202,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Sanhedrin",
+    "Zohar"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:154"
+  },
+  {
+   "claimant": "the translators",
+   "attribution": "scholar_claim",
+   "claim_type": "textual_crux",
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "pico_locus": {
+    "text": "heptaplus",
+    "ref": "translators' note 18 to Seventh Exposition ch. 4 (the years to Abraham)"
+   },
+   "theses": [],
+   "text": "The translators' note says Pico's figures for the years in the first count actually add up to 1848, which agrees with the total in the next paragraph.",
+   "quotes": [
+    {
+     "text": "Pico's figures here actually add up to 1848.",
+     "work": "wallis1965",
+     "line": 7159,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Pico"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "wallis1965-heptaplus:155"
   }
  ],
  "not_mined": [
@@ -5879,7 +6710,7 @@
   "Seventh Exposition ch. 3, 4, 5, 6, 7 (l. 6990-7560): the Jewish and gentile waters, the six millennia argument, Elijah's oracle, Talmud arithmetic, the fish, birds and beasts allegory, the firmament as law, baptism. Only claims on method, Hebrew sources, angels and demons were taken.",
   "The Hebrew letter list of Beresit in the final exposition (l. 7642-7662) is OCR-garbled and was not quoted; the translations of its twelve words were quoted (l. 7665-7673).",
   "Back-cover publisher blurb (l. 7740-7752) and copyright material are not Heptaplus text and were left out. It is publisher copy, not a scholar's claim.",
-  "Translators' footnotes: only those with editorial substance were read for the packet; the gate does not admit them (see notes)."
+  "Translators' notes on Biblical references, biographical dates, Numenius, Melito, Theodorus, the stone of Hercules and the Douay verse numbers were not taken: no bearing on angels, worlds or method."
  ],
  "proposed_topics": [
   {
@@ -5896,5 +6727,5 @@
   }
  ],
  "proposed_parties": [],
- "notes": "PACKET COVERS the Heptaplus only (Carmichael's translation, work wallis1965, l. 3497 first proem to l. 7739). All claims are primary_text (Pico speaking through the translation). GATE LIMIT: claims_verify.py lists wallis1965 in PRIMARY_WORKS, so a scholar_claim quoting the translators' footnotes fails as scholar_from_primary. The translators' notes are therefore NOT in the claims array. Editorial notes (translators, identified as such in the Note on the Text, which says the translators are indebted to Garin for identifications) with quotations located at the given lines: l.3738 (first proem): The translators' note identifies Simeon, named by Pico among the authors in the Chaldean language, as the reputed author of the Zohar. [quote: Simeon ben Yohai. reputed 2nd-century author of the most important of all Cabalistic works. the Zohar, a mystical commentary on the Pentateuch.] | l.3768 (first proem, n. 24): The translators' note says it is not certain which Eleazar Pico meant, and reports that Garin suggests Nechunjah ben ha-Qanah for Neonias and Isaac the Blind for Isaac. [quote: There are numerous early Jewish writers of the name Eleazar; it is not certain to which Pico referred.] | l.4109 (second proem, n. 8): The translators' note says Isaac the Persian is unidentifiable and identifies Samuel Ophinides as Samuel ben Hophni. [quote: Isaac the Persian. unidentifiable. Samuel Ophinides is Samuel ben Hophni.] | l.4351 (First Exposition ch. 2, n. 5): The translators' note cross-refers the passage on Tou and Bou to the Zohar I, 16a. [quote: Cf. Zohar, I, 16a] | l.5142 (Third Exposition proem, n. 2): The translators' note calls Hierotheus a fictitious mystic referred to as historical by the Pseudo-Dionysius. [quote: Fictitious mystic referred to as historical by the Pseudo-Dionysius.] | l.5773 (Fourth Exposition ch. 5, n. 12): The translators' note says Pico indicates no source for the Chaldean quotation about the beasts of the earth and gives it only in Latin. [quote: Pico indicates no source for this quotation and gives it only in Latin.] | l.6022 (Fifth Exposition ch. 1, n. 3): The translators' note says Pico gives no indication of a particular source for the Saracens' saying about the angels led out of darkness into light. [quote: Pico gives no indication of a particular source for this.] | l.7202 (Seventh Exposition ch. 4, n. 19): The translators' note cites Aboda Zara 9a, Sanhedrin 97a and Zohar I, 25a for the oracle of Elijah. [quote: Aboda Zara, ga. Cf. Sanhedrin, 97a; Zohar, I, 25a.] | l.7159 (Seventh Exposition ch. 4, n. 18): The translators' note says Pico's figures for the years from Adam to Abraham actually add up to 1848, agreeing with a later total. [quote: Pico's figures here actually add up to 1848.]. Suggested fix for the orchestrator: give translators' notes and Miller's introduction their own registry key (e.g. wallis1965_notes) that is not in PRIMARY_WORKS. CRUXES: (1) The first four expositions are announced in the second proem in the order angelic, celestial, sublunary, human, but the work gives elemental first, celestial second, angelic third (contents at l. 133-138; proem l. 4038-4045). (2) The second proem calls man 'a fourth world'; Fifth Exposition ch. 6 says man is 'not so much a fourth world' as their bond; the first-phrase exposition speaks again of 'the four worlds'. (3) 'Heaven' and 'earth' change referent from exposition to exposition (act/potency, being/essence, angels/men) as the second proem announces. (4) Third Exposition ch. 3 counts the contemplative hierarchy first, ch. 5 calls it the third. Only the third hierarchy's orders (principalities, archangels, angels) are named there; seraphim appear in ch. 6 as Isaiah's winged Seraphim, cherubim in the second proem and thrones only in Second Exposition ch. 1 (Isaac reading Ezekiel's sapphire throne as the tenth sphere). No scheme of seven interpretive layers appears; the seven are the seven expositions, each in seven chapters with the seventh turned to Christ. VERIFIED against the earlier audit: the Third Exposition is l. 5069-5488; Pico says he could expound Moses by both the Hebrew and the Dionysian teaching (l. 5085-5088), postpones the Hebrew (l. 5088-5099), treads in the footsteps of Dionysius 'or rather Paul and Hierotheus' (l. 5111-5112), and treats angels by number and unity 'after the Pythagorean custom' (l. 5132). The Kabbalistic exposition of the first phrase starts at l. 7568 as the audit said. OCR: footnote numerals run into the text and break many quotations across page marks; quotes were split or cut to avoid them (e.g. 'SyrianS' at l. 4765 is quoted as printed). Ficino: Pico calls him 'our friend Marsilio Ficino' and looks forward to his Latin Plotinus (l. 6127). Poliziano: a constant visitor at Fiesole (l. 3822-3825)."
+ "notes": "PACKET COVERS the Heptaplus only (Carmichael's translation, work wallis1965, l. 3497 first proem to l. 7739). All claims are primary_text (Pico speaking through the translation). TRANSLATORS' NOTES: after the coordinator relaxed scholar_from_edition to a warning, 21 translators' notes are in the packet as scholar_claim claims (claimant 'the translators', per the Note on the Text, l. 1106-1107, which says the translators identified references from Garin; the front matter does not name who wrote which note). Each claim's pico_locus.ref names the note (e.g. 'translators' note 2 to Third Exposition proem'). They cover Dionysian source references (Caelestis hierarchia II, IV, VII, XI; Aquinas ST I q.89 a.1), Hierotheus as fictitious, Averroes De animae beatitudine, Simplicius Physica 27.2 for containment, Zohar cross-references (I 16a, I 25a), identifications of Isaac, Simeon, Samuel ben Hophni, Alfarabi, Ibn Tufail, and notes that Pico gives no source for two sayings. Expect claimant_mismatch and scholar_from_edition warnings. Footnotes are self-contained, so no OCR splice needed [...] marks. CRUXES: (1) The first four expositions are announced in the second proem in the order angelic, celestial, sublunary, human, but the work gives elemental first, celestial second, angelic third (contents at l. 133-138; proem l. 4038-4045). (2) The second proem calls man 'a fourth world'; Fifth Exposition ch. 6 says man is 'not so much a fourth world' as their bond; the first-phrase exposition speaks again of 'the four worlds'. (3) 'Heaven' and 'earth' change referent from exposition to exposition (act/potency, being/essence, angels/men) as the second proem announces. (4) Third Exposition ch. 3 counts the contemplative hierarchy first, ch. 5 calls it the third. Only the third hierarchy's orders (principalities, archangels, angels) are named there; seraphim appear in ch. 6 as Isaiah's winged Seraphim, cherubim in the second proem and thrones only in Second Exposition ch. 1 (Isaac reading Ezekiel's sapphire throne as the tenth sphere). No scheme of seven interpretive layers appears; the seven are the seven expositions, each in seven chapters with the seventh turned to Christ. VERIFIED against the earlier audit: the Third Exposition is l. 5069-5488; Pico says he could expound Moses by both the Hebrew and the Dionysian teaching (l. 5085-5088), postpones the Hebrew (l. 5088-5099), treads in the footsteps of Dionysius 'or rather Paul and Hierotheus' (l. 5111-5112), and treats angels by number and unity 'after the Pythagorean custom' (l. 5132). The Kabbalistic exposition of the first phrase starts at l. 7568 as the audit said. OCR: footnote numerals run into the text and break many quotations across page marks; quotes were split or cut to avoid them (e.g. 'SyrianS' at l. 4765 is quoted as printed). Ficino: Pico calls him 'our friend Marsilio Ficino' and looks forward to his Latin Plotinus (l. 6127). Poliziano: a constant visitor at Fiesole (l. 3822-3825)."
 }

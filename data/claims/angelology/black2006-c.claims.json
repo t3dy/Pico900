@@ -167,7 +167,7 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "friendship",
+     "kind": "other",
      "note": "Ficino's public description of Pico as a fellow Platonist in the 1492 preface, and Black's reading of it as recruitment.",
      "quote_index": 0
     }
@@ -176,7 +176,8 @@
     "frame_shift": 1,
     "justification": "Presents Ficino's 1492 praise as an attempt at enlistment, not a neutral report of agreement."
    },
-   "id": "black2006-c:004"
+   "id": "black2006-c:004",
+   "revision": 1
   },
   {
    "claimant": "Crofton Black",
@@ -246,7 +247,7 @@
     "ref": "proem to seventh exposition"
    },
    "theses": [],
-   "text": "Black argues that Pico's own stance on intellect was more nuanced than the preceding remark by Ficino suggests: in the Heptaplus at least he tried to keep the idea of intellectual ascent without committing himself to any one camp.",
+   "text": "Black argues that Pico's own position was more nuanced than Ficino's remark suggests: in the Heptaplus, at least, he made a concerted effort to keep the idea of intellectual ascent without committing himself exclusively to any one camp.",
    "quotes": [
     {
      "text": "Pico’s own position regarding these matters, however, was more nuanced than this remark might suggest, and represented (in the Heptaplus, at least) a concerted effort to maintain the idea of intellec- tual ascent without committing himself exclusively to any one camp",
@@ -713,7 +714,7 @@
     "ref": "stages 5 and 6"
    },
    "theses": [],
-   "text": "Black holds that the sixth stage of the Commento's ascent is conjunction of the soul's particular intellect with the first mind, which lies next to God, the sun.",
+   "text": "Black holds that the soul's rise from contemplation of itself to conjunction with the first mind (stages 5 and 6) corresponds, in the poem, to the light 'suspended near that sun', the sun representing God.",
    "quotes": [
     {
      "text": "the soul has to rise from contemplation of itself to conjunction with the ﬁrst mind (stages 5 and 6)",
@@ -4834,7 +4835,7 @@
     "ref": "seven expositions"
    },
    "theses": [],
-   "text": "Black concludes that Moses passed through forty-nine of the fifty gates of understanding in his ascent on Sinai, acquiring knowledge of all created entities, and that the Heptaplus guides the reader to how that knowledge was concealed in Genesis and reflects the gates in content and structure.",
+   "text": "Black summarises the doctrine that Moses passed through forty-nine of the fifty gates of understanding on Sinai, that is, acquired knowledge of all created entities, and proposes that the Heptaplus is a guide to how that knowledge was concealed in Genesis, reflecting the gates in content and structure.",
    "quotes": [
     {
      "text": "Moses passed through forty-nine of these in his intellectual ascent on Mount Sinai: that is to say, he acquired knowledge of all created entities. The Heptaplus, I have proposed, is a guide to how the",
@@ -5155,7 +5156,7 @@
    "relations_local": [],
    "bears_on": [
     {
-     "party": "elijah-delmedigo",
+     "party": "delmedigo",
      "kind": "teaching",
      "note": "Delmedigo, an Averroist, wrote two works on the intellect for Pico.",
      "quote_index": 1
@@ -5243,7 +5244,7 @@
    "relations_local": [],
    "bears_on": [
     {
-     "party": "johanan-alemanno",
+     "party": "alemanno",
      "kind": "teaching",
      "note": "Alemanno's curriculum is Pico's most proximate example of the hierarchy of disciplines.",
      "quote_index": 0

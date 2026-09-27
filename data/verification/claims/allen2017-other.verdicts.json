@@ -1,7 +1,7 @@
 {
  "packet": "allen2017-other",
  "file": "data\\claims\\angelology\\allen2017-other.claims.json",
- "verified_at": "2026-09-26T05:14:03+00:00",
+ "verified_at": "2026-09-27T18:05:46+00:00",
  "claims": [
   {
    "id": "allen2017-other:001",
@@ -739,7 +739,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "allen2017-other:046",
@@ -1051,7 +1058,7 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 9846,
+     "line_start": 9844,
      "line_end": 9850,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -1301,7 +1308,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "allen2017-other:076",
@@ -1488,7 +1502,7 @@
   "needs_fix": 0,
   "quotes": 114,
   "quotes_verbatim": 114,
-  "warnings": 0,
+  "warnings": 2,
   "verified_rate": 1.0
  }
 }

@@ -32,7 +32,7 @@
   {
    "id": "T-CLAIMS-01",
    "title": "Claims layer: corpuslib, corpus_tool, claims_verify, claims_pack, claims_score, commentary_check, CLAIMS_MODEL.md",
-   "status": "doing",
+   "status": "review",
    "prompts": [
     "P20260926041129"
    ],
@@ -58,13 +58,18 @@
      "2026-09-26T04:32:13+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-09-26T07:25:34+00:00",
+     "review",
+     "claims_verify.py prints TOTAL needs_fix 0 on 14 packets; gates tested on planted defects (altered/fabricated quote, wrong line, invented name, unsampled claim, dangling id, uncited sentences all caught). Unverified: claims_score weights are a design choice, not calibrated."
     ]
    ]
   },
   {
    "id": "T-CLAIMS-02",
    "title": "Angelology and Ficino claims sweep: 15 packets from Allen, Black, Oration, Heptaplus, De ente, Howlett, Edelheit, Dougherty, Copenhaver, Wirszubski",
-   "status": "doing",
+   "status": "done",
    "prompts": [
     "P20260926003059",
     "P20260926040957",
@@ -87,13 +92,18 @@
      "2026-09-26T04:32:13+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-09-26T07:25:54+00:00",
+     "done",
+     "claims_verify.py: 15 packets, 1,986 claims, all quotations verbatim (2,900+ quotes), TOTAL needs_fix 1 (wallis1965-heptaplus:099, a semantic overreach awaiting a field fix). Unverified: restatement fairness beyond the sampled ~400 claims; coverage limits per packet are in each meta.json not_mined."
     ]
    ]
   },
   {
    "id": "T-CLAIMS-03",
    "title": "Semantic verification: a second agent reads each packet sample sheet; overreaching claims are ticketed and fixed",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041129"
    ],
@@ -107,19 +117,29 @@
     "claims"
    ],
    "gate": "no claim in a sample marked overreaches or wrong",
-   "owner": "",
+   "owner": "window-3bc261ff (SV agents)",
    "history": [
     [
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-26T07:25:54+00:00",
+     "doing",
+     ""
+    ],
+    [
+     "2026-09-27T17:37:15+00:00",
+     "done",
+     "8 semantic verifiers (SV-1..8) plus targeted Ficino batches (SV-F1/2/3) judged ~750 claims total across 15 packets. Overreach rate 7-27% by packet before fixes; all flagged overreaches now fixed (mechanical suggested_text rewrites where offered, bears_on field corrections/clears otherwise -- ~90 bears_on tags removed or corrected across the sweep, mostly generic-school-read-as-Ficino slips). claims_verify.py: TOTAL needs_fix 0. Unverified: claims outside the 20% random samples and outside the Ficino-targeted batch (i.e. non-Ficino bears_on tags for other parties, and topics not yet spot-sampled) have not been read by a second verifier."
     ]
    ]
   },
   {
    "id": "T-CLAIMS-04",
    "title": "LINKER: cross-packet links (supports, contradicts, qualifies, depends_on, same_claim) with stated basis",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041129"
    ],
@@ -139,13 +159,18 @@
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-27T17:32:21+00:00",
+     "done",
+     "4 link files (links-a/b/c1/c2): 244 links total (127+29+150+38 minus overlaps... see per-file counts), 25 disputes recorded. claims_score.py: links ok 307+, rejected 22 (all pre-existing wallis1965-deente relations_local free-text ids, tracked T-CLAIMS-06, none from the 4 link files). Unverified: link 'basis' text quality beyond spot-checks on 3 flagged items (all confirmed supported or fixed)."
     ]
    ]
   },
   {
    "id": "T-CLAIMS-05",
    "title": "Score: importance, tiers, relevance, open questions, graph (claims_score.py)",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041129",
     "P20260926041711"
@@ -169,13 +194,18 @@
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-27T17:32:27+00:00",
+     "done",
+     "claims_score.py: 1886 verified claims scored, 0 excluded, links ok 307+ (25 disputes surfaced), relevance computed per party (14 parties with evidence, e.g. ficino 334 claims/20 topics/96 loci, trial-commission 96/15/35). Weights in data/claims/scoring.json are a design choice (D-29), not calibrated."
     ]
    ]
   },
   {
    "id": "T-ANG-01",
    "title": "Commentary on the angelic material in Oration, Commento, Heptaplus from Allen and Black (claims only; commentary_check clean)",
-   "status": "backlog",
+   "status": "review",
    "prompts": [
     "P20260926040957",
     "P20260926003059"
@@ -183,27 +213,40 @@
    "owns": [
     "docs/angelology/COMMENTARY.md"
    ],
-   "deps": [
-    "T-CLAIMS-05"
-   ],
+   "deps": [],
    "labels": [
     "writing",
     "angelology"
    ],
    "gate": "commentary_check.py exit 0; semantic verifier sample clean",
-   "owner": "",
+   "owner": "window-3bc261ff",
    "history": [
     [
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-27T00:00:00Z",
+     "backlog",
+     "deps relaxed: Oration/Commento(Allen)/Heptaplus(Allen+Black) claims already have semantic supported verdicts (SV-1..SV-4,SV-7); Ficino-dispute linking (T-CLAIMS-04/05) does not touch this scope. Decision recorded DECISIONS.md D-38."
+    ],
+    [
+     "2026-09-27T17:27:02+00:00",
+     "doing",
+     "Dependency relaxed (D-38): scope is Oration/Commento(via Allen)/Heptaplus using Allen+Black, all already semantically sampled; not blocked on Ficino-dispute linking"
+    ],
+    [
+     "2026-09-27T17:37:15+00:00",
+     "review",
+     "docs/angelology/COMMENTARY.md: ~4230 words, 4 sections (Oration orders/ascent, Commento angelic Mind via Allen, Heptaplus angelic world via Black+primary text, Allen/Black convergence+open questions). commentary_check.py (final, no --allow-unsampled): 99 sentences, 81 cited, 6 (ed.), 12 uncited, 88 claim refs, exit 0. Gaps honestly marked 'not established by the sources consulted' (demonology, angelic-cognition/composition, sefirot-heptaplus, hebrew-informants -- no supported claims on those topics yet). NOT verified: read by a human editor for scholarly quality/flow beyond the mechanical gate."
     ]
    ]
   },
   {
    "id": "T-ANG-02",
    "title": "ANGELICRESEARCH finding aid rebuilt from verified claims (replaces quarantined docs/ANGELICRESEARCH.md)",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926003059"
    ],
@@ -225,13 +268,18 @@
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-27T17:32:27+00:00",
+     "done",
+     "docs/ANGELICRESEARCH.md regenerated by scripts/build_finding_aid.py from 1886 verified claims (up from earlier snapshot); replaces the quarantined hand-written version, archived at docs/archive/v1-angelology/ANGELICRESEARCH_quarantined.md. Regenerate after any claims/links/scores change; do not hand-edit."
     ]
    ]
   },
   {
    "id": "T-FIC-01",
    "title": "Essay: the Ficino-Pico dispute over the One; a tour through De ente et uno and Aquinas encountering Dionysius",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041806"
    ],
@@ -252,6 +300,16 @@
      "2026-09-26T04:32:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-27T17:52:06+00:00",
+     "review",
+     "docs/essays/ficino_pico_dispute.md: ~4760 words, 6 stops (Dionysius/Aquinas background via scholars only, Ficino's position, De ente chapter tour from primary text, Howlett-vs-Edelheit targeting dispute represented as live disagreement, Cittadini, open questions). commentary_check.py --allow-unsampled: 121 sentences, 78 cited, 30 (ed.), 13 uncited, 83 claim refs, exit 0. WITHOUT --allow-unsampled: 29 cited claims lack a current supported verdict (unjudged, not overreach) -- SV-9 dispatched on the targeted sheet (data/verification/claims/targeted-ficino_pico_dispute.md). Not yet gate-clean; will move to done once SV-9 reports and fixes applied."
+    ],
+    [
+     "2026-09-27T18:05:59+00:00",
+     "done",
+     "docs/essays/ficino_pico_dispute.md: ~5018 words, 6 stops. commentary_check.py FINAL (no --allow-unsampled): 121 sentences, 78 cited, 30 (ed. =24.8%, under 25% threshold), 13 uncited (10.7%, under 15%), 83 claim refs, exit 0. All 29 targeted-batch claims judged (SV-9: 22 supported, 7 overreach-then-fixed; SV-10 confirmed all 7 fixes supported). Represents the Howlett-vs-Edelheit targeting dispute and the 1491/1492 date clash as live disagreements, both sides cited."
     ]
    ]
   },
@@ -335,7 +393,7 @@
   {
    "id": "T-SITE-01",
    "title": "build_cards.py: cards, facets, search index, card pages from claims, scores, relevance (prototype: angelology and Ficino topics)",
-   "status": "backlog",
+   "status": "review",
    "prompts": [
     "P20260926041446",
     "P20260926041502",
@@ -358,13 +416,18 @@
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-26T07:30:30+00:00",
+     "review",
+     "python scripts/build_cards.py builds 1,853 cards; served at /Pico900/cards/ and driven in the browser: search+relevance sort via URL, facet counts equal independent counts from cards.json (330 de-ente, 44 cittadini), drawer tabs load evidence, Esc closes, collection persists across reload, 375px width has no horizontal scroll. NOT verified: keyboard tab order, greyscale legibility, screen reader, deployment; not linked from main nav (build_site_v2.py is another window's file); relation strips empty until links exist."
     ]
    ]
   },
   {
    "id": "T-SITE-02",
    "title": "Card frames, colour and control CSS/JS: sort, facets, search, expand, collect (localStorage)",
-   "status": "backlog",
+   "status": "review",
    "prompts": [
     "P20260926041446",
     "P20260926041502"
@@ -380,12 +443,17 @@
     "site"
    ],
    "gate": "",
-   "owner": "",
+   "owner": "window-3bc261ff",
    "history": [
     [
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-26T07:30:30+00:00",
+     "review",
+     "src/css/cards.css + src/js/cards.js: sort, facets, search, expand, collect (localStorage), export Markdown/JSON, colour-by, list/grid. Same verification and gaps as T-SITE-01."
     ]
    ]
   },
@@ -622,12 +690,17 @@
     "writing"
    ],
    "gate": "",
-   "owner": "window-8857d983 (7 writer agents)",
+   "owner": "window-8857d983 (6 writer agents, relaunched 2026-09-26)",
    "history": [
     [
      "2026-09-26T04:38:13+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-09-26T07:18:50+00:00",
+     "doing",
+     "20 tier-A drafts done and gate-clean (9 condemned); 45 remaining relaunched"
     ]
    ]
   },
@@ -704,6 +777,33 @@
     [
      "2026-09-26T04:38:13+00:00",
      "done",
+     "created"
+    ]
+   ]
+  },
+  {
+   "id": "T-CLAIMS-06",
+   "title": "Fix wallis1965-deente relations_local: 22 claims use free-text anchor ids (e.g. c4-god-above-being) instead of real claim ids; claims_score.py rejects 18 as dangling",
+   "status": "backlog",
+   "prompts": [
+    "P20260926041129"
+   ],
+   "owns": [
+    "data/claims/angelology/wallis1965-deente.claims.json"
+   ],
+   "deps": [
+    "T-CLAIMS-04"
+   ],
+   "labels": [
+    "claims",
+    "cleanup"
+   ],
+   "gate": "",
+   "owner": "",
+   "history": [
+    [
+     "2026-09-27T17:25:16+00:00",
+     "backlog",
      "created"
     ]
    ]

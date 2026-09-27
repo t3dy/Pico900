@@ -258,7 +258,7 @@
    ],
    "pico_locus": {
     "text": "oration",
-    "ref": "Oration section 26"
+    "ref": "Oration sections 24 and 26"
    },
    "theses": [],
    "text": "Pico says the highest spirits, which the editors translate as Intelligences, are from the beginning or soon after what they will be for all eternity, whereas man may become what he wills.",
@@ -299,7 +299,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "borghesi2012:006"
+   "id": "borghesi2012:006",
+   "revision": 1
   },
   {
    "claimant": "Pico",
@@ -356,7 +357,7 @@
     "ref": "Oration section 30"
    },
    "theses": [],
-   "text": "Pico says that a man dissatisfied with the lot of every creature who gathers himself into the centre of his unity becomes one spirit with God and is set above all things, going beyond the angelic state of section 29.",
+   "text": "Pico says that a man who, dissatisfied with the lot assigned to any other creature, gathers himself into the centre of his own unity becomes a single spirit with God in the solitary darkness of the Father and, having been placed above all things, will become superior to all things.",
    "quotes": [
     {
      "text": "gathers himself into the centre of his own unity, thus becoming a single spirit with God in the solitary darkness of the Father, he, who had been placed above all things, will become superior to all things",
@@ -1036,7 +1037,7 @@
     "ref": "Oration section 67-70"
    },
    "theses": [],
-   "text": "Pico proposes to ask the apostle Paul, caught up to the third heaven, what the cherubic hosts do, and says Paul will answer in the words of Dionysius that they are cleansed, then illuminated, and afterward perfected.",
+   "text": "Pico proposes to ask the apostle Paul, raised up to the third heaven, about the activities of the cherubic hosts, and says Paul will answer, according to the interpretation of Dionysius, that they are cleansed, then illuminated, and afterward perfected.",
    "quotes": [
     {
      "text": "Let us inquire of the apostle Paul, the chosen vessel, regarding the activities of the cherubic hosts whom he saw when raised up to the third heaven",
@@ -1217,20 +1218,20 @@
    ],
    "pico_locus": {
     "text": "oration",
-    "ref": "Oration section 80-81"
+    "ref": "Oration sections 80-81"
    },
    "theses": [],
-   "text": "Pico says the sensual part of the soul must be washed in moral philosophy lest we be kept from the ladder, and that to be companions of the angels who run up and down Jacob's ladder we must also be prepared to move from step to step without leaving its course.",
+   "text": "Pico says that the hands and feet, the entire sensual part of the body in which resides the attraction that drags the soul back, must be washed in moral philosophy lest we be held back from the ladder, and that to be companions of the angels who hasten up and down Jacob's ladder we must also be prepared to be promoted from step to step and to wheel away nowhere from the course of the ladder.",
    "quotes": [
     {
-     "text": "Let us wash them in moral philosophy as in a flowing river lest we be held back from the ladder as wicked and unclean",
+     "text": "These hands, these feet, are the entire sensual part of the body in which resides the attraction that drags the soul back ... Let us wash them in moral philosophy as in a flowing river lest we be held back from the ladder as wicked and unclean",
      "work": "borghesi2012",
-     "line": 1549,
+     "line": 1547,
      "page": null,
      "page_basis": null
     },
     {
-     "text": "if we wish to be companions of the angels who hasten up and down Jacob's ladder unless we are first well prepared and instructed to be promoted from step to step",
+     "text": "if we wish to be companions of the angels who hasten up and down Jacob's ladder unless we are first well prepared and instructed to be promoted from step to step, to wheel away nowhere from the course of the ladder",
      "work": "borghesi2012",
      "line": 1551,
      "page": null,
@@ -1251,7 +1252,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "borghesi2012:027"
+   "id": "borghesi2012:027",
+   "revision": 1
   },
   {
    "claimant": "Pico",
@@ -1491,11 +1493,25 @@
    ],
    "pico_locus": {
     "text": "oration",
-    "ref": "Oration section 113"
+    "ref": "Oration sections 112-113"
    },
    "theses": [],
-   "text": "Pico says that, raised to the heights of philosophy and roused by ineffable love, we shall be borne outside ourselves like ardent seraphim, filled with the godhead, no longer ourselves but He who made us.",
+   "text": "Pico says that, raised to the most eminent heights of Theology and roused by ineffable love, we shall be borne outside ourselves like ardent seraphim, filled with the godhead, no longer ourselves but He Himself Who made us.",
    "quotes": [
+    {
+     "text": "most sacred Theology shall draw close to us, animating us with a twofold frenzy",
+     "work": "borghesi2012",
+     "line": 2362,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "For, raised to her most eminent heights",
+     "work": "borghesi2012",
+     "line": 2440,
+     "page": null,
+     "page_basis": null
+    },
     {
      "text": "roused by ineffable love as if by a frenzy, and borne outside ourselves like ardent seraphim, filled with the godhead, we shall no longer be ourselves, but He Himself Who made us",
      "work": "borghesi2012",
@@ -1523,7 +1539,8 @@
     "frame_shift": 1,
     "justification": "Ties the seraphic state to the frenzy of love and to loss of the self in God."
    },
-   "id": "borghesi2012:033"
+   "id": "borghesi2012:033",
+   "revision": 1
   },
   {
    "claimant": "Pico",
@@ -1708,7 +1725,7 @@
     "ref": "Oration section 250"
    },
    "theses": [],
-   "text": "Pico says that Esdras proclaimed of the seventy books that the fountain of wisdom is the exact metaphysics of the intelligible and angelic forms.",
+   "text": "Pico says the Cabalistic books, as Esdras rightly proclaimed, contain a vein of understanding and a font of wisdom that is the exact metaphysics of the intelligible and angelic forms.",
    "quotes": [
     {
      "text": "These tomes, as Esdras rightly proclaimed, clearly and from the outset, contain a vein of understanding",
@@ -2178,6 +2195,13 @@
      "page_basis": null
     },
     {
+     "text": "the life of a plant insofar as it indulges the body by fattening it up; the life of the beast insofar as it flatters the senses; the life of a man insofar as it calls upon reason to handle human affairs; the life of the heroes insofar as it investigates things in nature",
+     "work": "borghesi2012",
+     "line": 564,
+     "page": null,
+     "page_basis": null
+    },
+    {
      "text": "the life of the demons insofar as it contemplates mathematics; the life of the angels insofar as it inquires into the mysteries divine; and the life of God insofar as it does all things for God's sake",
      "work": "borghesi2012",
      "line": 568,
@@ -2195,8 +2219,8 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "source",
-     "note": "The editors put Ficino's ladder of lives, angels among them, beside Pico's scale of seeds.",
+     "kind": "other",
+     "note": "The editors give Ficino's Theologia Platonica 14.3 as a parallel (cf.).",
      "quote_index": 0
     }
    ],
@@ -2204,7 +2228,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "borghesi2012:049"
+   "id": "borghesi2012:049",
+   "revision": 1
   },
   {
    "claimant": "Borghesi, Papio and Riva",
@@ -2450,8 +2475,8 @@
      "page_basis": null
     }
    ],
-   "hedge": "hedged",
-   "hedge_words": "possibly one of two drafts",
+   "hedge": "assertive",
+   "hedge_words": "",
    "entities": [
     "Bausi",
     "Wirszubski",
@@ -2459,18 +2484,7 @@
    ],
    "warrants": [],
    "assumptions": [],
-   "open_questions": [
-    {
-     "id": "q1",
-     "kind": "textual",
-     "text": "Whether the characters of the earlier draft are what Pico intended for the printed text is left open by the note's hedge on the draft.",
-     "basis_quote": {
-      "text": "possibly one of two drafts Pico prepared in fall 1486",
-      "work": "borghesi2012",
-      "line": 786
-     }
-    }
-   ],
+   "open_questions": [],
    "relations_local": [
     {
      "to": "borghesi2012:054",
@@ -2483,7 +2497,8 @@
     "frame_shift": 2,
     "justification": "Makes 'Metatron' a scholarly restoration from a manuscript, so the Enoch-Metatron reading of section 35 depends on the reading of a draft."
    },
-   "id": "borghesi2012:055"
+   "id": "borghesi2012:055",
+   "revision": 1
   },
   {
    "claimant": "Borghesi, Papio and Riva",
@@ -2581,7 +2596,7 @@
     "ref": "Oration section 35 (editors' note)"
    },
    "theses": [],
-   "text": "The editors say it is generally held that the name Metatron has three possible etymologies: Greek Methathronius, one from a Hebrew word for watch, and one from metator, guide.",
+   "text": "The editors say it is generally held that the name Metatron has three possible etymologies: the Greek Methathronius, one derived from mat-ara (keeper of the watch), and one derived from metator (guide).",
    "quotes": [
     {
      "text": "It is generally held that there are three possible etymological interpretations of the word Metatron: in addition to the Greek “Methathronius,” meaning he who is next to the throne of God, one derived from mat- ara (“keeper of the watch”), and one derived from metator (“guide”)",
@@ -2673,7 +2688,7 @@
     "ref": "Oration section 35 (editors' note)"
    },
    "theses": [],
-   "text": "The editors quote Scholem's view that the tradition associating Metatron with Enoch is absent from the Talmud and the chief Midrashim because of the Talmudists' reluctance to regard Enoch favourably.",
+   "text": "The editors quote Scholem's view that the tradition associating Metatron with Enoch, absent from the Talmud and the most important Midrashim, is evidently connected with the Talmudists' reluctance to regard Enoch in a favourable light.",
    "quotes": [
     {
      "text": "the fact that this second tradition associating Metatron with Enoch is “absent from the Talmud or the most important Midrashim, is evidently connected with the reluctance",
@@ -2803,7 +2818,7 @@
     "ref": "Oration section 39-40 (editors' note)"
    },
    "theses": [],
-   "text": "The editors name Seneca, Aristotle and Dante as possible sources for the paragraph on the philosopher and the pure contemplator.",
+   "text": "The editors give Seneca and Aristotle, echoed by Dante's Convivio, as possible sources for the paragraph on the philosopher and the pure contemplator.",
    "quotes": [
     {
      "text": "For this paragraph, possible sources are Seneca, Epistles 41.4–5, and Aristotle, Nicomachean Ethics 7.1 (1145a), echoed by Dante's Convivio 3.7.6",
@@ -2882,7 +2897,7 @@
     "ref": "Oration section 48 (editors' note)"
    },
    "theses": [],
-   "text": "The editors reject a previous translation of caelestia contemnamus as 'let us struggle toward the heavenly' and render it as spurn the celestial, keeping the classical sense of contemnare.",
+   "text": "The editors reject Wallis, Miller and Carmichael's translation of caelestia contemnamus as 'let us struggle toward the heavenly', keeping the classical meaning of contemnare and translating caelestia as 'celestial' rather than 'heavenly'.",
    "quotes": [
     {
      "text": "Wallis, Miller, and Carmichael mistakenly translate “caelestia contemnamus” as “let us struggle toward the heavenly.” I prefer to be consistent with the letter of the text, sticking to the classical meaning of the verb contemnare",
@@ -3285,7 +3300,7 @@
   },
   {
    "claimant": "Borghesi, Papio and Riva",
-   "attribution": "scholar_report",
+   "attribution": "scholar_claim",
    "claim_type": "source_identification",
    "topics": [
     "oration-orders"
@@ -3295,10 +3310,17 @@
     "ref": "Oration section 60 (editors' note)"
    },
    "theses": [],
-   "text": "The editors report Bausi's note that most commentators cite Job 38:7 for the waters above the heavens that praise God, but Ps. 148:4 is a more likely source.",
+   "text": "Noting, with Bausi, that most commentators direct the reader to Job 38:7, the editors say a more likely source is actually Ps. 148:4.",
    "quotes": [
     {
-     "text": "As Bausi rightly notes, most commentators direct the reader to Job 38:7, but a more likely source is actually Ps. 148:4",
+     "text": "As Bausi rightly notes, most commentators direct the reader to Job 38:7",
+     "work": "borghesi2012",
+     "line": 1249,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "a more likely source is actually Ps. 148:4",
      "work": "borghesi2012",
      "line": 1249,
      "page": null,
@@ -3319,7 +3341,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "borghesi2012:075"
+   "id": "borghesi2012:075",
+   "revision": 1
   },
   {
    "claimant": "Borghesi, Papio and Riva",
@@ -3836,7 +3859,7 @@
     "ref": "Oration section 74 (editors' note)"
    },
    "theses": [],
-   "text": "The editors list Genesis 28:12-13, the Commento, Philo and Iamblichus as sources for the ladder.",
+   "text": "The editors cite Genesis 28:12-13, the Commento, Philo and Iamblichus in the note on the ladder.",
    "quotes": [
     {
      "text": "Genesis 28:12–13; Commento (notes to sixth stanza); Philo, De somniis 1.2ff.; Iamblichus, Protrepticus 1 (41.11–24 in Iamblichus 1989)",
@@ -4246,8 +4269,8 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "source",
-     "note": "The note sets the seraphic frenzy beside Ficino's De divino furore.",
+     "kind": "other",
+     "note": "The note gives Ficino's De divino furore as a parallel (cf.) for the ardent seraphim.",
      "quote_index": 0
     }
    ],
@@ -4255,7 +4278,8 @@
     "frame_shift": 0,
     "justification": ""
    },
-   "id": "borghesi2012:099"
+   "id": "borghesi2012:099",
+   "revision": 1
   },
   {
    "claimant": "Borghesi, Papio and Riva",
@@ -4269,7 +4293,7 @@
     "ref": "Oration section 140 (editors' note)"
    },
    "theses": [],
-   "text": "The editors give Gregory the Great's XL Homiliarum in Evangelia as a possible source of this angelological passage, in which Raphael is called the medicine of God.",
+   "text": "The editors give Gregory the Great's XL Homiliarum in Evangelia 34.9, where Raphael is called the medicine of God, as a possible source of this angelological conclusion.",
    "quotes": [
     {
      "text": "For a possible source of this angelological conclusion, see Gregory the Great, XL Homiliarum in Evangelia libri duo 34.9 (PL 76.1251a): “Raphael vero dicitur medicina Dei”",

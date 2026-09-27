@@ -1,7 +1,7 @@
 {
  "packet": "allen2017-venus",
  "file": "data\\claims\\angelology\\allen2017-venus.claims.json",
- "verified_at": "2026-09-26T05:14:03+00:00",
+ "verified_at": "2026-09-27T18:05:46+00:00",
  "claims": [
   {
    "id": "allen2017-venus:001",
@@ -464,7 +464,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "allen2017-venus:030",
@@ -1549,7 +1556,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "allen2017-venus:100",
@@ -1826,7 +1840,7 @@
   "needs_fix": 0,
   "quotes": 128,
   "quotes_verbatim": 128,
-  "warnings": 0,
+  "warnings": 2,
   "verified_rate": 1.0
  }
 }

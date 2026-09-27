@@ -1,7 +1,7 @@
 {
  "packet": "edelheit2008",
  "file": "data\\claims\\angelology\\edelheit2008.claims.json",
- "verified_at": "2026-09-26T05:14:05+00:00",
+ "verified_at": "2026-09-27T18:05:48+00:00",
  "claims": [
   {
    "id": "edelheit2008:001",
@@ -60,14 +60,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:004",
@@ -101,17 +94,17 @@
      "line_end": 1235,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1253,
+     "line_end": 1253,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Apology' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:006",
@@ -190,17 +183,17 @@
      "line_end": 651,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 646,
+     "line_end": 646,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Schmitt' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:011",
@@ -212,17 +205,17 @@
      "line_end": 2136,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2140,
+     "line_end": 2140,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:012",
@@ -241,29 +234,24 @@
      "line_end": 2272,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2247,
+     "line_end": 2247,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2247,
+     "line_end": 2247,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:013",
@@ -297,17 +285,17 @@
      "line_end": 904,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 857,
+     "line_end": 857,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Religion' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:015",
@@ -382,20 +370,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Apologia' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:020",
@@ -455,7 +430,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:024",
@@ -504,23 +486,24 @@
      "line_end": 2642,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2630,
+     "line_end": 2630,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2630,
+     "line_end": 2630,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Garin' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Garin' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:027",
@@ -547,29 +530,31 @@
      "line_end": 7890,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7880,
+     "line_end": 7880,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7894,
+     "line_end": 7894,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 7880,
+     "line_end": 7880,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:029",
@@ -588,17 +573,17 @@
      "line_end": 8596,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8558,
+     "line_end": 8558,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Paul' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:030",
@@ -610,17 +595,17 @@
      "line_end": 8469,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8461,
+     "line_end": 8461,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Paul' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:031",
@@ -654,23 +639,24 @@
      "line_end": 10620,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10617,
+     "line_end": 10617,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10617,
+     "line_end": 10617,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:033",
@@ -682,23 +668,24 @@
      "line_end": 13170,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13165,
+     "line_end": 13165,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13165,
+     "line_end": 13165,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:034",
@@ -725,23 +712,24 @@
      "line_end": 12052,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12046,
+     "line_end": 12046,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12046,
+     "line_end": 12046,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:036",
@@ -778,14 +766,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Neoplatonists' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:038",
@@ -797,23 +778,24 @@
      "line_end": 12082,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12073,
+     "line_end": 12073,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12073,
+     "line_end": 12073,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Allen' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Allen' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:039",
@@ -825,29 +807,24 @@
      "line_end": 13195,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13189,
+     "line_end": 13189,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13189,
+     "line_end": 13189,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Ficino' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:040",
@@ -859,53 +836,59 @@
      "line_end": 10679,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10672,
+     "line_end": 10672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10673,
+     "line_end": 10673,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10672,
+     "line_end": 10672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10672,
+     "line_end": 10672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10672,
+     "line_end": 10672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10673,
+     "line_end": 10673,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10672,
+     "line_end": 10672,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Dominican' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Vincenzo' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Bandello' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Castelnuovo' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kristeller' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Bandello' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Kristeller' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:041",
@@ -954,17 +937,17 @@
      "line_end": 14004,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13988,
+     "line_end": 13988,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:044",
@@ -1028,17 +1011,17 @@
      "line_end": 14221,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14211,
+     "line_end": 14211,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Christiana' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:048",
@@ -1050,17 +1033,17 @@
      "line_end": 14244,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14234,
+     "line_end": 14234,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:049",
@@ -1176,23 +1159,24 @@
      "line_end": 14418,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14416,
+     "line_end": 14416,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14417,
+     "line_end": 14417,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Caroli' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ficino' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:056",
@@ -1219,27 +1203,36 @@
      "line_end": 14446,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14427,
+     "line_end": 14427,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14443,
+     "line_end": 14443,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14443,
+     "line_end": 14443,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Creed' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Fathers' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Doctors' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1263,7 +1256,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:059",
@@ -1275,33 +1275,29 @@
      "line_end": 14587,
      "occurrences": 2,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14577,
+     "line_end": 14577,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14577,
+     "line_end": 14577,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Thomas' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Scotus' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Thomae' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Scoto' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1320,10 +1316,16 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Jewish' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'innocent-viii' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1347,7 +1349,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'innocent-viii' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:062",
@@ -1364,10 +1373,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1381,21 +1390,29 @@
      "line_end": 14503,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14499,
+     "line_end": 14499,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14499,
+     "line_end": 14499,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Alison' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Brown' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1493,7 +1510,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:069",
@@ -1537,7 +1561,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:071",
@@ -1556,15 +1587,22 @@
      "line_end": 15012,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 14999,
+     "line_end": 14999,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Garsia' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1578,17 +1616,17 @@
      "line_end": 15079,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 15059,
+     "line_end": 15059,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Napoli' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:073",
@@ -1664,10 +1702,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1721,7 +1759,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:080",
@@ -1743,7 +1788,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:081",
@@ -1762,15 +1814,22 @@
      "line_end": 15555,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 15532,
+     "line_end": 15532,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Parisian' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1791,15 +1850,22 @@
      "line_end": 15581,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 15532,
+     "line_end": 15532,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Parisian' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1827,39 +1893,29 @@
      "line_end": 15790,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 15741,
+     "line_end": 15741,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 15725,
+     "line_end": 15725,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Aquinas' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sentences' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Scotists' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Summa' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Scotists' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1892,10 +1948,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1934,7 +1990,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:087",
@@ -1964,14 +2027,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:089",
@@ -2001,7 +2057,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2008:091",
@@ -2050,17 +2113,17 @@
      "line_end": 18095,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18075,
+     "line_end": 18075,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:094",
@@ -2079,17 +2142,17 @@
      "line_end": 18057,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18055,
+     "line_end": 18055,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Parmenides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:095",
@@ -2138,17 +2201,17 @@
      "line_end": 18077,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18077,
+     "line_end": 18077,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Allen' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:098",
@@ -2182,33 +2245,43 @@
      "line_end": 17733,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17686,
+     "line_end": 17686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17686,
+     "line_end": 17686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17686,
+     "line_end": 17686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17686,
+     "line_end": 17686,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Averroes' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Alexander' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Averroes' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Alexander' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2227,10 +2300,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Dionysii' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2302,35 +2375,24 @@
      "line_end": 18230,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18199,
+     "line_end": 18199,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18199,
+     "line_end": 18199,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Cicero' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Stoics' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Peripatetics' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Cicero' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:104",
@@ -2364,23 +2426,24 @@
      "line_end": 17954,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17914,
+     "line_end": 17914,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 17914,
+     "line_end": 17914,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Schmitt' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Schmitt' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:106",
@@ -2431,14 +2494,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "edelheit2008:108",
@@ -2453,23 +2509,598 @@
     }
    ],
    "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:109",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16245,
+     "line_end": 16247,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 16289,
+     "line_end": 16292,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:110",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16292,
+     "line_end": 16296,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 16300,
+     "line_end": 16302,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:111",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16302,
+     "line_end": 16304,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:112",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16882,
+     "line_end": 16886,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 16901,
+     "line_end": 16902,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Pico' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "edelheit2008:113",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16940,
+     "line_end": 16941,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 16936,
+     "line_end": 16938,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:114",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 16942,
+     "line_end": 16943,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 16985,
+     "line_end": 16989,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:115",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 19041,
+     "line_end": 19045,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19041,
+     "line_end": 19041,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19039,
+     "line_end": 19039,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:116",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 19807,
+     "line_end": 19811,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19872,
+     "line_end": 19873,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:117",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 19854,
+     "line_end": 19857,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19853,
+     "line_end": 19853,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19853,
+     "line_end": 19853,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 19848,
+     "line_end": 19848,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:118",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20053,
+     "line_end": 20054,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20109,
+     "line_end": 20112,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:119",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 18885,
+     "line_end": 18890,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18884,
+     "line_end": 18884,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:120",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 18896,
+     "line_end": 18899,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18900,
+     "line_end": 18904,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 18894,
+     "line_end": 18894,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:121",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20122,
+     "line_end": 20156,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:122",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20165,
+     "line_end": 20166,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20301,
+     "line_end": 20303,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:123",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20274,
+     "line_end": 20278,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20268,
+     "line_end": 20271,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20271,
+     "line_end": 20271,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:124",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20292,
+     "line_end": 20295,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20291,
+     "line_end": 20291,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 20291,
+     "line_end": 20291,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:125",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 20319,
+     "line_end": 20322,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:126",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21677,
+     "line_end": 21681,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21716,
+     "line_end": 21719,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21643,
+     "line_end": 21643,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21643,
+     "line_end": 21643,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:127",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 22399,
+     "line_end": 22400,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22423,
+     "line_end": 22424,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22401,
+     "line_end": 22401,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 22401,
+     "line_end": 22401,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:128",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 21617,
+     "line_end": 21621,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21616,
+     "line_end": 21616,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 21609,
+     "line_end": 21609,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:129",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23632,
+     "line_end": 23634,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23642,
+     "line_end": 23644,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:130",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23757,
+     "line_end": 23760,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "edelheit2008:131",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 23806,
+     "line_end": 23809,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23822,
+     "line_end": 23822,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 23822,
+     "line_end": 23822,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'savonarola' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'ficino' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   }
  ],
  "summary": {
-  "claims": 108,
-  "verified": 108,
+  "claims": 131,
+  "verified": 131,
   "needs_fix": 0,
-  "quotes": 153,
-  "quotes_verbatim": 153,
-  "warnings": 80,
+  "quotes": 266,
+  "quotes_verbatim": 266,
+  "warnings": 26,
   "verified_rate": 1.0
  }
 }

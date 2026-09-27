@@ -437,7 +437,7 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "quarrel",
+     "kind": "other",
      "note": "Ficino's partisan Platonism sets the contrast with Pico's concord project.",
      "quote_index": 0
     }
@@ -446,7 +446,8 @@
     "frame_shift": 1,
     "justification": "Sets Ficino as partisan against Pico's less partisan stance."
    },
-   "id": "black2006-a:010"
+   "id": "black2006-a:010",
+   "revision": 1
   },
   {
    "claimant": "Crofton Black",
@@ -1173,7 +1174,7 @@
     {
      "party": "gianfrancesco-pico",
      "kind": "reception",
-     "note": "The nephew's Vita shapes the received biography and downplays kabbalah.",
+     "note": "The nephew's Vita, per Black, downplays Pico's kabbalah and the Roman affair.",
      "quote_index": 0
     }
    ],
@@ -1181,7 +1182,8 @@
     "frame_shift": 1,
     "justification": "Warns that the earliest biography is an apologetic source on kabbalah."
    },
-   "id": "black2006-a:025"
+   "id": "black2006-a:025",
+   "revision": 1
   },
   {
    "claimant": "Crofton Black",
@@ -5360,7 +5362,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black argues that for the indirectly transmitted Greek names Pico's only access must have been through the Genesis catena, and that Pico's mentioning an author does not imply that the author's works were directly available to him.",
+   "text": "Black argues that Pico's only access to Didymus's lost Genesis commentary must have been through the Genesis catena, and that Pico's mention of an author, as with Didymus, does not imply that the author's works were directly available to him.",
    "quotes": [
     {
      "text": "Pico's only access to this material must therefore have been through the catena, several manuscripts of which were to be found in the Vatican.",
@@ -5593,7 +5595,7 @@
     "ref": "first proem"
    },
    "theses": [],
-   "text": "Black argues that Pico's 'Simeon' the Chaldean is Simeon bar Yohai but that what lies behind the reference is the Zohar, attributed to him.",
+   "text": "Black thinks it likely that Pico's 'Simeon' the Chaldean is Simeon bar Yohai, but says that what in fact lies behind the reference is the Zohar, attributed to him.",
    "quotes": [
     {
      "text": "Given that 'Simeon', too, is a 'Chaldean', it is likely that Pico was referring to the Palestinian Simeon bar Yo .hai",

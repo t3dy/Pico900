@@ -2,31 +2,6 @@
 
 For each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.
 
-## borghesi2012:003 (Pico, assertive)
-
-**Restatement:** Pico says the condition that man received in the universal order is one to be envied by the beasts, by the stars and by the intelligences dwelling beyond this world.
-
-> a condition to be envied not only by beasts but even by the stars and the intelligences dwelling beyond this world
-> (borghesi2012:227)
-
-> non brutis modo, sed astris, sed ultramundanis mentibus invidiosam
-> (borghesi2012:193)
-
-
-## borghesi2012:005 (Pico, assertive)
-
-**Restatement:** Pico says that when man was to be made every place in the world was already filled and had been assigned to the highest, the middle and the lowest orders.
-
-> nor was there among the seats of the world any place for this contemplator of the universe
-> (borghesi2012:308)
-
-> Every place was by then filled; all things had already been assigned to the highest, the middle, and the lowest orders
-> (borghesi2012:310)
-
-> Iam plena omnia; omnia summis, mediis infimisque ordinibus fuerant distributa
-> (borghesi2012:284)
-
-
 ## borghesi2012:006 (Pico, assertive)
 
 **Restatement:** Pico says the highest spirits, which the editors translate as Intelligences, are from the beginning or soon after what they will be for all eternity, whereas man may become what he wills.
@@ -41,87 +16,71 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (borghesi2012:453)
 
 
-## borghesi2012:007 (Pico, assertive)
+## borghesi2012:008 (Pico, assertive)
 
-**Restatement:** Pico says that a man who cultivates his intellectual seeds will be an angel and a son of God, just as cultivating the rational seeds makes him a heavenly being.
+**Restatement:** Pico says that a man who, dissatisfied with the lot assigned to any other creature, gathers himself into the centre of his own unity becomes a single spirit with God in the solitary darkness of the Father and, having been placed above all things, will become superior to all things.
 
-> If he cultivates his rational seeds, he will become a heavenly being. If he cultivates his intellectual seeds, he will be an angel and a son of God
-> (borghesi2012:537)
+> gathers himself into the centre of his own unity, thus becoming a single spirit with God in the solitary darkness of the Father, he, who had been placed above all things, will become superior to all things
+> (borghesi2012:540)
 
-> si rationalia, caeleste evadet animal; si intellectualia, angelus erit et Dei filius
-> (borghesi2012:514)
-
-
-## borghesi2012:009 (Pico, assertive)
-
-**Restatement:** Pico says the most secret Hebrew theology transforms Enoch into an angel of divinity, named in Hebrew, and at other times reshapes other men into other spirits.
-
-> even the most secret Hebrew theology at one time transforms holy Enoch into an angel of divinity
-> (borghesi2012:757)
-
-> whom they call [ מטטרון ] Metatron
-> (borghesi2012:758)
-
-> and at other times it reshapes other men into other spirits
-> (borghesi2012:759)
+> et si, nulla creaturarum sorte contentus, in unitatis centrum suae se receperit, unus cum Deo spiritus factus, in solitaria Patris caligine
+> (borghesi2012:516)
 
 
-## borghesi2012:010 (Pico, assertive)
+## borghesi2012:023 (Pico, assertive)
 
-**Restatement:** Pico says that what makes an angel is spiritual intelligence, not separation from the body.
+**Restatement:** Pico proposes to ask the apostle Paul, raised up to the third heaven, about the activities of the cherubic hosts, and says Paul will answer, according to the interpretation of Dionysius, that they are cleansed, then illuminated, and afterward perfected.
 
-> not the circular body that makes the heavens, but straightforward reason; not the separation from the body that makes an angel, but its spiritual intelligence
-> (borghesi2012:890)
+> Let us inquire of the apostle Paul, the chosen vessel, regarding the activities of the cherubic hosts whom he saw when raised up to the third heaven
+> (borghesi2012:1320)
 
-> nec caelum orbiculatum corpus, sed recta ratio; nec sequestratio corporis, sed spiritalis intelligentia angelum facit
-> (borghesi2012:866)
-
-
-## borghesi2012:025 (Pico, assertive)
-
-**Restatement:** Pico says the patriarch Jacob teaches through a figure that a ladder of many rungs stretches from the lowest earth to the highest heavens, with God at its height and the contemplative angels moving up and down it in turns.
-
-> let us also consult Jacob the patriarch
-> (borghesi2012:1396)
-
-> there is a ladder that stretches from the lowest earth to the highest Heavens and that is marked by a series of many rungs. God is at its height, and the contemplative angels move up and down it in turns
-> (borghesi2012:1400)
-
-> esse scalas ab imo solo ad caeli summa protensas, multorum graduum serie distinctas, fastigio Dominum insidere, contemplatores angelos per eas vicibus alternantes ascendere et descendere
-> (borghesi2012:1371)
+> He will certainly answer, according to the interpretation of Dionysius, that they are cleansed, then illuminated, and afterward are perfected
+> (borghesi2012:1323)
 
 
-## borghesi2012:028 (Pico, assertive)
+## borghesi2012:027 (Pico, assertive)
 
-**Restatement:** Pico says that inspired by the cherubic spirit and philosophizing through the grades of nature, we descend and ascend in turn until we rest in the bosom of the Father, who is at the top of the ladder, and are made perfect in theological bliss.
+**Restatement:** Pico says that the hands and feet, the entire sensual part of the body in which resides the attraction that drags the soul back, must be washed in moral philosophy lest we be held back from the ladder, and that to be companions of the angels who hasten up and down Jacob's ladder we must also be prepared to be promoted from step to step and to wheel away nowhere from the course of the ladder.
 
-> Once we, inspired by the cherubic spirit, have reached this point through the art of speaking or of reasoning
-> (borghesi2012:1616)
+> These hands, these feet, are the entire sensual part of the body in which resides the attraction that drags the soul back ... Let us wash them in moral philosophy as in a flowing river lest we be held back from the ladder as wicked and unclean
+> (borghesi2012:1547)
 
-> until at last, resting in the bosom of the Father Who is at the top of the ladder, we shall be made perfect in theological bliss
-> (borghesi2012:1621)
-
-> iam Cherubico spiritu animati, per scalarum idest naturae gradus philosophantes
-> (borghesi2012:1586)
+> if we wish to be companions of the angels who hasten up and down Jacob's ladder unless we are first well prepared and instructed to be promoted from step to step, to wheel away nowhere from the course of the ladder
+> (borghesi2012:1551)
 
 
-## borghesi2012:042 (Borghesi, Papio and Riva, assertive)
+## borghesi2012:033 (Pico, assertive)
 
-**Restatement:** The editors note an order of angels, stars, lower creatures in section 6 and say it is repeated in reverse order in section 11.
+**Restatement:** Pico says that, raised to the most eminent heights of Theology and roused by ineffable love, we shall be borne outside ourselves like ardent seraphim, filled with the godhead, no longer ourselves but He Himself Who made us.
 
-> Note the order angels, stars, lower creatures, repeated in reverse order in §11
-> (borghesi2012:251)
+> most sacred Theology shall draw close to us, animating us with a twofold frenzy
+> (borghesi2012:2362)
+
+> For, raised to her most eminent heights
+> (borghesi2012:2440)
+
+> roused by ineffable love as if by a frenzy, and borne outside ourselves like ardent seraphim, filled with the godhead, we shall no longer be ourselves, but He Himself Who made us
+> (borghesi2012:2443)
+
+> quasi Saraphini ardentes extra nos positi, numine pleni
+> (borghesi2012:2413)
 
 
-## borghesi2012:050 (Borghesi, Papio and Riva, hedged)
+## borghesi2012:038 (Pico, assertive)
 
-**Restatement:** The editors report that Bori and Bausi suggest Gregory of Nyssa's Life of Moses among several plausible sources for the passage.
+**Restatement:** Pico says the Cabalistic books, as Esdras rightly proclaimed, contain a vein of understanding and a font of wisdom that is the exact metaphysics of the intelligible and angelic forms.
 
-> Among several plausible sources for this passage, both Bori (2000, 43) and Bausi (Pico 2003, 13) suggest Gregory of Nyssa (1978, Life of Moses 2.162–65)
-> (borghesi2012:575)
+> These tomes, as Esdras rightly proclaimed, clearly and from the outset, contain a vein of understanding
+> (borghesi2012:6095)
+
+> a font of wisdom that is the exact metaphysics of the intelligible and angelic forms
+> (borghesi2012:6097)
+
+> sapientiae fontem, idest de intelligibilibus angelicisque formis exactam metaphysicam
+> (borghesi2012:6063)
 
 
-## borghesi2012:055 (Borghesi, Papio and Riva, hedged)
+## borghesi2012:055 (Borghesi, Papio and Riva, assertive)
 
 **Restatement:** The editors report that Bausi, following Wirszubski, restores the characters found in an earlier version of the Oration in a Florence manuscript and reads them as Metatron.
 
@@ -129,89 +88,65 @@ For each claim: does `text` say no more than the quotations support? Answer supp
 > (borghesi2012:785)
 
 
-## borghesi2012:061 (Borghesi, Papio and Riva, hedged)
+## borghesi2012:058 (Borghesi, Papio and Riva, assertive)
 
-**Restatement:** The editors say it is perhaps not surprising that the identification discussed in the note holds a prominent place in Pico's Christian Cabala.
+**Restatement:** The editors say it is generally held that the name Metatron has three possible etymologies: the Greek Methathronius, one derived from mat-ara (keeper of the watch), and one derived from metator (guide).
 
-> It is perhaps not surprising that the identification occupies a prominent place in Pico's Christian Cabala
-> (borghesi2012:833)
-
-
-## borghesi2012:062 (Borghesi, Papio and Riva, assertive)
-
-**Restatement:** The editors report that Bausi takes the passage to show that Pico does not hold metempsychosis and agrees with Ficino on a moral and allegorical reading of the transformations.
-
-> According to Bausi (Pico 2003, 17n37), this passage shows that Pico does not adhere to the doctrine of metempsychosis (or transmigration of the soul) and agrees with Ficino (Theol. Pl. 17.4) on a moral and allegorical interpretation of the transformations of which Empedocles and other ancient authors speak
-> (borghesi2012:908)
+> It is generally held that there are three possible etymological interpretations of the word Metatron: in addition to the Greek “Methathronius,” meaning he who is next to the throne of God, one derived from mat- ara (“keeper of the watch”), and one derived from metator (“guide”)
+> (borghesi2012:796)
 
 
-## borghesi2012:067 (Borghesi, Papio and Riva, assertive)
+## borghesi2012:060 (Borghesi, Papio and Riva, hedged)
 
-**Restatement:** The editors note that the word dignity appears for the first time in the Oration at the passage on emulating the dignity and glory of the seraphim, cherubim and thrones.
+**Restatement:** The editors quote Scholem's view that the tradition associating Metatron with Enoch, absent from the Talmud and the most important Midrashim, is evidently connected with the Talmudists' reluctance to regard Enoch in a favourable light.
 
-> This is the first time the word “dignity” appears in the text of the Oration
-> (borghesi2012:1085)
+> the fact that this second tradition associating Metatron with Enoch is “absent from the Talmud or the most important Midrashim, is evidently connected with the reluctance
+> (borghesi2012:806)
 
-
-## borghesi2012:068 (Borghesi, Papio and Riva, assertive)
-
-**Restatement:** The editors say that Pico represents here the three divisions of the highest order of angels according to the scheme of Pseudo-Dionysius, which Thomas and Gregory confirm.
-
-> In accordance with the scheme set out by Pseudo-Dionysius (see §70 of the Oration) and confirmed by St. Thomas (Summa Theologiae 1.108, art. 6) and St. Gregory (In evang. II hom. 34), Pico represents here the three divisions of the highest order of angels: the seraphim, the cherubim, and the thrones
-> (borghesi2012:1167)
+> of the Talmudists to regard Enoch in a favourable light” (Scholem, 1971–72, 1444–45)
+> (borghesi2012:832)
 
 
-## borghesi2012:074 (Borghesi, Papio and Riva, assertive)
+## borghesi2012:063 (Borghesi, Papio and Riva, hedged)
 
-**Restatement:** The editors observe that the gloss of Ephrem, to which Pico's Heptaplus appeals for the sense brooded, says the thing that hovered over the waters was a normal wind and not the Spirit of the Lord.
+**Restatement:** The editors give Seneca and Aristotle, echoed by Dante's Convivio, as possible sources for the paragraph on the philosopher and the pure contemplator.
 
-> Interestingly, the gloss of St. Ephrem in question (Com. on Genesis 1.7) explicitly states that it was a normal wind and not the Spirit of the Lord
-> (borghesi2012:1238)
+> For this paragraph, possible sources are Seneca, Epistles 41.4–5, and Aristotle, Nicomachean Ethics 7.1 (1145a), echoed by Dante's Convivio 3.7.6
+> (borghesi2012:978)
 
-> as Hebrew wisdom has it and as Ephraim the Syrian translates it, 'brooded,' the Spirit of the Lord
-> (borghesi2012:1235)
+
+## borghesi2012:065 (Borghesi, Papio and Riva, assertive)
+
+**Restatement:** The editors reject Wallis, Miller and Carmichael's translation of caelestia contemnamus as 'let us struggle toward the heavenly', keeping the classical meaning of contemnare and translating caelestia as 'celestial' rather than 'heavenly'.
+
+> Wallis, Miller, and Carmichael mistakenly translate “caelestia contemnamus” as “let us struggle toward the heavenly.” I prefer to be consistent with the letter of the text, sticking to the classical meaning of the verb contemnare
+> (borghesi2012:1075)
 
 
 ## borghesi2012:075 (Borghesi, Papio and Riva, hedged)
 
-**Restatement:** The editors report Bausi's note that most commentators cite Job 38:7 for the waters above the heavens that praise God, but Ps. 148:4 is a more likely source.
+**Restatement:** Noting, with Bausi, that most commentators direct the reader to Job 38:7, the editors say a more likely source is actually Ps. 148:4.
 
-> As Bausi rightly notes, most commentators direct the reader to Job 38:7, but a more likely source is actually Ps. 148:4
+> As Bausi rightly notes, most commentators direct the reader to Job 38:7
+> (borghesi2012:1249)
+
+> a more likely source is actually Ps. 148:4
 > (borghesi2012:1249)
 
 
-## borghesi2012:082 (Borghesi, Papio and Riva, assertive)
+## borghesi2012:089 (Borghesi, Papio and Riva, assertive)
 
-**Restatement:** The editors say the mystic three-stage path was often articulated as purgatio, illuminatio, unitio or perfectio.
+**Restatement:** The editors cite Genesis 28:12-13, the Commento, Philo and Iamblichus in the note on the ladder.
 
-> The mystic three-stage path, or triplex via, was often articulated as purgatio-illuminatio-unitio (or perfectio )
-> (borghesi2012:1347)
-
-
-## borghesi2012:094 (Borghesi, Papio and Riva, assertive)
-
-**Restatement:** The editors cite Pseudo-Dionysius, Celestial Hierarchy 209a-b, and Conclusiones 2.5.3 for the middle order interpreting the precepts of the supreme order for the lower.
-
-> Pseudo-Dionysius, Celestial Hierarchy 209a–b. Cf. Conclusiones 2.5.3
-> (borghesi2012:1658)
+> Genesis 28:12–13; Commento (notes to sixth stanza); Philo, De somniis 1.2ff.; Iamblichus, Protrepticus 1 (41.11–24 in Iamblichus 1989)
+> (borghesi2012:1433)
 
 
-## borghesi2012:096 (Borghesi, Papio and Riva, assertive)
+## borghesi2012:100 (Borghesi, Papio and Riva, hedged)
 
-**Restatement:** The editors say the image of heavenly nectar goes back to Plato's account of the angelic charioteer who refreshes his horses with ambrosia and nectar.
+**Restatement:** The editors give Gregory the Great's XL Homiliarum in Evangelia 34.9, where Raphael is called the medicine of God, as a possible source of this angelological conclusion.
 
-> The image of heavenly nectar in this context goes back to Plato's discussion of the angelic charioteer who, after guiding the soul to heaven, refreshes his horses with ambrosia and nectar (Phaedrus 243e–257a)
-> (borghesi2012:2030)
-
-
-## borghesi2012:106 (Borghesi, Papio and Riva, assertive)
-
-**Restatement:** The editors say the archangel Uriel appears to Esdras in a vision and that Esdras writes down the angelic revelations in seventy books.
-
-> the archangel Uriel appears in a vision to Esdras, who transcribes the angelic revelations in seventy books
-> (borghesi2012:6027)
-
-> the seventh and final vision that Esdras has under visitation of the angel Uriel explicitly states that Esdras composed seventy books of esoteric revelations
-> (borghesi2012:6112)
+> For a possible source of this angelological conclusion, see Gregory the Great, XL Homiliarum in Evangelia libri duo 34.9 (PL 76.1251a): “Raphael vero dicitur medicina Dei”
+> (borghesi2012:2958)
 
 

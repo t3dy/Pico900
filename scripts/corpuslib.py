@@ -207,7 +207,16 @@ def page_of(work, line):
                 printed = int(m.group(1))
         if pdf and printed:
             break
-    return {"pdf_page": pdf, "printed_bracket": printed}
+    after = None
+    for i in range(min(line, len(L)), min(len(L), line + 400)):
+        m = re.match(r"^\[(\d{1,4})\]$", L[i].strip())
+        if m:
+            after = int(m.group(1))
+            break
+    # The convention is per work: in Wirszubski (1989) a bracket [N] closes page N, so the printed page of a line is the
+    # NEXT bracket (`bracket_after`); the 2026-09-25 audit guessed "bracket + 1" and was wrong. Verify against the
+    # contents and the index before writing a page number, and state the basis in the claim's `page_basis`.
+    return {"pdf_page": pdf, "bracket_before": printed, "bracket_after": after, "printed_bracket": printed}
 
 
 if __name__ == "__main__":

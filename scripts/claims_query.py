@@ -14,6 +14,8 @@ scores.json when it exists. Output is plain text so an agent can read it without
 """
 import argparse, glob, io, json, os, re, sys
 from collections import Counter
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import claims_verify as V
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -44,6 +46,7 @@ def main():
     ap.add_argument("--min-importance", type=float, default=0)
     ap.add_argument("--full", action="store_true"); ap.add_argument("--topics", action="store_true"); ap.add_argument("--stats", action="store_true")
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--supported", action="store_true", help="only claims a second reader judged `supported` at their current wording (citable)")
     a = ap.parse_args()
     cl = verified_claims(a.domain)
     sc = {}
@@ -63,6 +66,16 @@ def main():
             print("%5d  claimant %s" % (n, k))
         return 0
     rx = re.compile(a.text, re.I) if a.text else None
+    semc = {}
+
+    def sem_status(c):
+        pk = c["_packet"]
+        if pk not in semc:
+            semc[pk] = V.semantic_verdicts(pk)
+        j = semc[pk].get(c["id"])
+        if j and j.get("hash") == V.chash(c):
+            return j["verdict"]
+        return "unjudged"
     rows = []
     for cid, c in cl.items():
         if a.id and cid != a.id: continue
@@ -75,11 +88,12 @@ def main():
         if rx and not (rx.search(c["text"]) or any(rx.search(q["text"]) for q in c["quotes"])): continue
         imp = sc.get(cid, {}).get("importance", 0)
         if imp < a.min_importance: continue
+        if a.supported and sem_status(c) != "supported": continue
         rows.append((imp, cid, c))
     rows.sort(key=lambda r: (-r[0], r[1]))
     for imp, cid, c in rows[: a.limit or None]:
         pl = c.get("pico_locus") or {}
-        print("%s | %s | %s | %s%s" % (cid, c["claimant"], c["hedge"], c["text"], ("  [imp %.0f]" % imp) if imp else ""))
+        print("%s | %s | %s | %s%s  [%s]" % (cid, c["claimant"], c["hedge"], c["text"], ("  imp %.0f" % imp) if imp else "", sem_status(c)))
         if a.full:
             print("    locus: %s %s | topics: %s | type: %s | attribution: %s" % (pl.get("text"), pl.get("ref"), ",".join(c.get("topics", [])), c["claim_type"], c["attribution"]))
             for q in c["quotes"]:

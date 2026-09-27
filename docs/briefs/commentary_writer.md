@@ -48,6 +48,23 @@ order of the argument, not the order of the sources), where they disagree, what 
 Pico's words are quoted or cited as primary; the tradition's are attributed by name; yours (interpretive, connective) end
 in `(ed.)` and must stay under a quarter of the sentences. Every other sentence ends in a `[[claim]]`.
 
+## Which claims you may cite (measured: 7-15% of claims overreach their quotations)
+
+A claim is citable only when a second reader judged it `supported` at its current wording. Every claim printed by
+`claims_query.py` ends with its status: `[supported]`, `[unjudged]`, `[overreaches]`/`[wrong]` (blocked, not shown).
+
+1. **Prefer `[supported]` claims**: `python scripts/claims_query.py --topic TOPIC --supported --full` lists only those.
+   For most topics they are enough for a first draft.
+2. If you need a claim that is `[unjudged]`, cite it, but expect it to go through a targeted verification batch (cost: a
+   reader's time). Do not pad with unjudged claims.
+3. Draft with `--allow-unsampled`:  `python scripts/commentary_check.py YOUR_FILE.md --allow-unsampled`.
+4. When the draft is done, `python scripts/claims_sheet.py --from-commentary YOUR_FILE.md --missing-only --out
+   data/verification/claims/targeted-YOURNAME.md` lists the cited claims still to be judged; the orchestrator has a verifier judge
+   them. Any claim that comes back `overreaches` is rewritten by the verifier's `suggested_text` or dropped; if a claim you relied
+   on is dropped, revise the sentence (do not keep citing a blocked claim). Then the final gate runs **without**
+   `--allow-unsampled`.
+5. Quote in the words of a claim's quotation, never from memory of the book.
+
 ## The gate
 
 ```

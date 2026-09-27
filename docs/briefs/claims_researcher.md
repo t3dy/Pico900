@@ -68,6 +68,38 @@ the text as it stands (drop footnote numerals if you like); do not "correct" a w
 Aim for coverage and precision, not a target count: a dense 40 pages can give 60 good claims, a thin 40 pages ten.
 Prefer the claims that a commentary on Pico's angelology, or on his dispute with Ficino over the One, would need.
 
+## Lessons from the first semantic verification (2026-09-26): what a second reader kept finding
+
+Across seven verifiers and about 400 judged claims, 85-93% were `supported`, 7-15% `overreach`, and about 1% were `wrong`
+(the Oration packet, judged in full, was worst at 15%). The failures repeat; avoid them:
+
+1. **Hedges and conditionals must survive in `text`, not only in `hedge`.** "Black says it is likely that ..." stays "likely";
+   "if the thesis contained nothing new" stays a conditional; "I have proposed" stays a proposal. "Surely" is emphasis, not a hedge.
+2. **Quote through the end of the clause your restatement uses.** Many quotations stopped at a page break one sentence short of
+   the word the restatement then used (a name, "empyrean", "Hierotheus"). If the subject is a pronoun, include the sentence that
+   names it.
+3. **Two-layer reports.** When Ficino reports the Averroists, or Black translates Dionysius, or Edelheit reports Garsia, the
+   restatement names who holds the view. Do not restate the reported view as the reporter's, or the reporter's translation as the
+   author's words.
+4. **Do not upgrade a parallel to a source.** "Cf.", "See", "echoed by", "evidently connected" are parallels, not sources, causes or
+   influence. `bears_on` kind `source` only where the text says the person or work was a source; otherwise `other`.
+5. **`bears_on` needs a quotation that names the party.** `quote_index` must point to a quotation that contains them; a note that
+   Pico inherited, used or answered something needs a quotation saying so. De ente never names Ficino: anything about Ficino there
+   comes from Miller's report or a scholar's inference, and says so.
+6. **Pico's disclaimers stay disclaimers.** "Let no one expect from us ..." is not a positive assertion of the thing disclaimed.
+7. **Do not give Pico's gloss to the authority he cites**, or pad an endnote pointer with neighbouring notes.
+8. **`frame_shift` 2 or 3 is rare.** Plain exposition of a text, however important, is 0 or 1. Do not justify a 2 by cross-text links.
+9. **Check `pico_locus.ref` against the section you quoted** (Oration section numbers are in the edition).
+10a. **`bears_on` needs its own check, separate from the main text.** A claim's restatement can be fully supported while its
+    `bears_on` still overreaches: verify that the named party actually appears in the specific quote its `quote_index` points to,
+    not just that the claim in general is about the right topic. A tag naming a shared tradition ("the Ancient Theology of the
+    Gentiles") is not a tag naming a specific person unless that person is named too.
+10b. **An unquoted clause tacked onto an otherwise well-quoted claim is still an overreach**, even when most of the sentence is
+    fine — a fact from a different, unquoted sentence, or from a source note that was never quoted at all, must be cut or given
+    its own quotation.
+10. **Editing a claim after a verifier judged it:** increase its integer `revision` by 1 (add `"revision": 1` if absent); the
+    verdict is bound to the claim's content plus `revision`, and only a bump makes the verifier look again.
+
 ## Report back (under 200 words)
 
 Packet path, claims written, verified/needs_fix from the last `claims_pack.py`, what you did not mine and why, and any

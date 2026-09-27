@@ -313,7 +313,7 @@
     "ref": "Adam speech [Sudduth essay]"
    },
    "theses": [],
-   "text": "In a note the essay reports the Florentine Neoplatonists, Ficino among them, as placing the human soul in the middle of the chain of being, capable of descending or ascending by free will.",
+   "text": "In a note the essay reports that Neoplatonists such as Ficino placed the human soul in the middle of the Great Chain of Being, between angel and body.",
    "quotes": [
     {
      "text": "The idea had been emphasized in the metaphysics of the Platonist Academy at Florence where Pico spent time studying. Neoplatonists such as Marsilio Ficino placed the “human soul” in the middle of the Great Chain of Being: Body → Quality → Soul → Angel → God.",
@@ -446,7 +446,7 @@
    "bears_on": [
     {
      "party": "ficino",
-     "kind": "source",
+     "kind": "other",
      "note": "the essay's note points to Ficino's De amore alongside Plotinus as source for the angelic part of the soul",
      "quote_index": null
     }
@@ -455,7 +455,8 @@
     "frame_shift": 1,
     "justification": "Locates the angelic element inside the human soul rather than only above it."
    },
-   "id": "dougherty2008:009"
+   "id": "dougherty2008:009",
+   "revision": 1
   },
   {
    "claimant": "Carl N. Still",
@@ -2944,7 +2945,7 @@
     "ref": "Parmenides, Sophist, Philebus [Borghesi essay]"
    },
    "theses": [],
-   "text": "The essay argues that the thesis of De ente et uno was not new, but Pico's reevaluation of the Parmenides, Sophist and Philebus and of Simplicius's commentaries was, as was his project to read Plato through Aristotle and medieval theologians as well as Plotinus and Proclus, which remained unpublished.",
+   "text": "Borghesi argues that, if the thesis of De ente et uno contained nothing new, Pico's reevaluation of the Parmenides, Sophist and Philebus and of Simplicius's commentaries on Aristotle was certainly new, and that his project to read Plato through Aristotle and medieval theologians as well as Plotinus and Proclus also remained unpublished.",
    "quotes": [
     {
      "text": "The question confronted in De ente et uno was not a new one for Pico, who had discussed it already with Elia del Medigo, among others. If the actual thesis of De ente et uno contained nothing new, certainly new was his reevaluation of the Parmenides, Sophist, and Philebus and Simplicius’s commentaries on Aristotle. His sophisticated project to read Plato not only through Plotinus and Proclus but also through Aristotle and medieval theologians also remained unpublished.",
@@ -2969,19 +2970,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "the reevaluation of the Parmenides and Sophist and reading Plato via Aristotle stands against the Plotinus-and-Proclus reading of Ficino's school",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "Locates what was new in De ente et uno in the treatment of Plato's dialogues and Simplicius, not in the thesis."
    },
-   "id": "dougherty2008:061"
+   "id": "dougherty2008:061",
+   "revision": 1
   },
   {
    "claimant": "Francesco Borghesi",

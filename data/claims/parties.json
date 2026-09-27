@@ -1,94 +1,21 @@
 {
-  "_note": "Pico's relationship parties: the people and bodies against whom the relevance of any card (thesis, passage, claim) can be scored. Slugs are the ids used in claim.bears_on[].party and in relevance scores. Seeded with names only; the KIND and content of each relationship must be established by verified claims, never asserted here. RESEARCHERS propose additions in their packet's `proposed_parties`; the orchestrator merges them (one writer per file).",
+  "_note": "Pico's relationship parties: the people and bodies against whom the relevance of any card (thesis, passage, claim) can be scored. Slugs are the ids used in claim.bears_on[].party and in relevance scores. `aliases` lists other name forms researchers used before canonicalization (2026-09-27 cleanup: johanan-alemanno merged into alemanno, elia-del-medigo/elijah-delmedigo merged into delmedigo, barbaro-correspondent merged into barbaro, all 0-2 uses at merge time; see DECISIONS.md). Names only; the KIND and content of each relationship must be established by verified claims, never asserted here. RESEARCHERS propose additions in their packet's `proposed_parties`; the orchestrator merges (`scripts/claims_merge_vocab.py`), checking for an existing alias before adding a new id.",
   "parties": [
-    {
-      "id": "ficino",
-      "name": "Marsilio Ficino"
-    },
-    {
-      "id": "poliziano",
-      "name": "Angelo Poliziano"
-    },
-    {
-      "id": "savonarola",
-      "name": "Girolamo Savonarola"
-    },
-    {
-      "id": "lorenzo-de-medici",
-      "name": "Lorenzo de' Medici"
-    },
-    {
-      "id": "barbaro",
-      "name": "Ermolao Barbaro"
-    },
-    {
-      "id": "benivieni",
-      "name": "Girolamo Benivieni"
-    },
-    {
-      "id": "cittadini",
-      "name": "Cittadini"
-    },
-    {
-      "id": "innocent-viii",
-      "name": "Pope Innocent VIII"
-    },
-    {
-      "id": "trial-commission",
-      "name": "The papal commission of 1487"
-    },
-    {
-      "id": "mithridates",
-      "name": "Flavius Mithridates"
-    },
-    {
-      "id": "gianfrancesco-pico",
-      "name": "Gianfrancesco Pico"
-    },
-    {
-      "id": "alemanno",
-      "name": "Yohanan Alemanno",
-      "proposed": true
-    },
-    {
-      "id": "andrea-corneo",
-      "name": "Andrea Corneo",
-      "proposed": true
-    },
-    {
-      "id": "barbaro-correspondent",
-      "name": "Ermolao Barbaro (already in parties as barbaro)",
-      "proposed": true
-    },
-    {
-      "id": "delmedigo",
-      "name": "Elijah Delmedigo",
-      "proposed": true
-    },
-    {
-      "id": "elia-del-medigo",
-      "name": "Elia del Medigo",
-      "proposed": true
-    },
-    {
-      "id": "elijah-delmedigo",
-      "name": "Elijah Delmedigo",
-      "proposed": true
-    },
-    {
-      "id": "johanan-alemanno",
-      "name": "Yohanan Alemanno",
-      "proposed": true
-    },
-    {
-      "id": "lanfredini",
-      "name": "Giovanni Lanfredini",
-      "proposed": true
-    },
-    {
-      "id": "roberto-salviati",
-      "name": "Roberto Salviati",
-      "proposed": true
-    }
+    {"id": "ficino", "name": "Marsilio Ficino"},
+    {"id": "poliziano", "name": "Angelo Poliziano"},
+    {"id": "savonarola", "name": "Girolamo Savonarola"},
+    {"id": "lorenzo-de-medici", "name": "Lorenzo de' Medici"},
+    {"id": "barbaro", "name": "Ermolao Barbaro"},
+    {"id": "benivieni", "name": "Girolamo Benivieni"},
+    {"id": "cittadini", "name": "Antonio Cittadini"},
+    {"id": "innocent-viii", "name": "Pope Innocent VIII"},
+    {"id": "trial-commission", "name": "The papal commission of 1487"},
+    {"id": "mithridates", "name": "Flavius Mithridates"},
+    {"id": "gianfrancesco-pico", "name": "Gianfrancesco Pico"},
+    {"id": "alemanno", "name": "Yohanan Alemanno", "aliases": ["Johanan Alemanno"]},
+    {"id": "delmedigo", "name": "Elia del Medigo", "aliases": ["Elijah Delmedigo", "Elijah of Candia"]},
+    {"id": "andrea-corneo", "name": "Andrea Corneo", "proposed": true},
+    {"id": "lanfredini", "name": "Giovanni Lanfredini", "proposed": true},
+    {"id": "roberto-salviati", "name": "Roberto Salviati", "proposed": true}
   ]
 }

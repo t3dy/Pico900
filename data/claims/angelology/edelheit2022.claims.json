@@ -1,8 +1,13 @@
 {
  "packet": "edelheit2022",
- "researcher": "",
- "created": "",
- "scope": null,
+ "researcher": "R-EDELHEIT-1",
+ "created": "2026-09-26",
+ "scope": {
+  "work": "edelheit2022",
+  "line_start": 1,
+  "line_end": 26874,
+  "note": "Selective by design: angelology (place, time, illumination, individuation), separate substances and intellect, Aquinas and Dionysius, De ente et uno and Cittadini, Ficino and Pico, and the contemporary attacks (Garsia, Caroli; Torni only where it touches). Not a sweep of the whole book."
+ },
  "claims": [
   {
    "claimant": "Amos Edelheit",
@@ -75,7 +80,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Gianfrancesco Pico, in his Vita of his uncle, mentions Cittadini as the only critic named there, calls him an excellent philosopher, and answered the fourth objection after Giovanni's death; Edelheit gives lost interest or untimely death as the probable reasons Giovanni did not answer it.",
+   "text": "Gianfrancesco Pico, in his Vita of his uncle, mentions Cittadini as the only critic named there, calls him an excellent philosopher, and answered the fourth objection after his uncle's death; Edelheit gives lost interest or untimely death as the probable reasons his uncle did not answer it.",
    "quotes": [
     {
      "text": "We possess an interesting account of Cittadini’s reaction to Pico’s De ente et uno in the Vita of his uncle by Pico’s nephew and biographer, Gianfrancesco Pico",
@@ -298,7 +303,7 @@
     "ref": "chapter 2"
    },
    "theses": [],
-   "text": "Pico reads the Parmenides as a dialectical or logical exercise, not a dogmatic dialogue stating Plato's doctrine of the one and being, and so denies that the Academics can draw the priority of the one from it.",
+   "text": "Edelheit says Pico reads the Parmenides as nothing but an exercise in dialectic or logic, whereas the 'Academics' regard it as a dogmatic dialogue containing Plato's doctrine of the one and being.",
    "quotes": [
     {
      "text": "while they regard the Parmenides as a dogmatic dialogue, that is, a text which contains Plato’s doctrine concerning the one and being, Pico presents a more literal interpretation of the dialogue, taking seriously what is actually said in the dialogue and paying attention to the significance and implications of some of the conclusions presented and discussed there. According to Pico, this entire dialogue is nothing but an exercise in dialectic or logic.",
@@ -328,19 +333,13 @@
    "assumptions": [],
    "open_questions": [],
    "relations_local": [],
-   "bears_on": [
-    {
-     "party": "ficino",
-     "kind": "quarrel",
-     "note": "The Parmenides reading contradicts the Platonist priority of the one over being.",
-     "quote_index": 0
-    }
-   ],
+   "bears_on": [],
    "judged": {
     "frame_shift": 1,
     "justification": "Anti-dogmatic reading of the Parmenides removes the textual support for the priority of the one."
    },
-   "id": "edelheit2022:006"
+   "id": "edelheit2022:006",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -696,7 +695,7 @@
     "ref": "chapters 3-4"
    },
    "theses": [],
-   "text": "Cittadini argues that no divine attribute, including the one and being, fully reflects God, so that to say God is one but not being is senseless.",
+   "text": "The critic argues that no divine attribute, including the one and being, fully reflects God, so that to say God is one but not being is senseless.",
    "quotes": [
     {
      "text": "Different attributes ascribed to God, including the one and being, cannot fully reflect the divine reality which is both beyond all of them, and yet includes all of them, since, with regard to God, there is no distinction between ‘being’ and ‘that which subsists’ or ‘substance’ (quod subsistit). Thus, God is unity, beatitude and deity, but not ‘one’, ‘blessed’ or even ‘God’. In this regard arguing that God is ‘one’ but not ‘being’ is senseless.",
@@ -708,9 +707,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Cittadini"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -797,7 +794,7 @@
     "ref": "chapter 9"
    },
    "theses": [],
-   "text": "Cittadini contends that what is divided stands to the one in contradiction, not negation, and that good and evil are contraries according to Aristotle in the Categories and Boethius, against Pico.",
+   "text": "Cittadini contends that what is divided stands to the one in contradiction, not negation, and that good and evil are contraries according to Aristotle in the Categories and a late-antique commentator, against Pico.",
    "quotes": [
     {
      "text": "Cittadini rejects what he regards as Pico’s claim that that which is divided (divisum) is the negation of the one, on the basis of the argument that a thing is destroyed once it is dismembered and divided. But the proper relation between that which is divided and the one is not negation but rather contradiction.",
@@ -818,8 +815,7 @@
    "hedge_words": "",
    "entities": [
     "Cittadini",
-    "Categories",
-    "Boethius"
+    "Categories"
    ],
    "warrants": [],
    "assumptions": [],
@@ -1209,7 +1205,7 @@
     "ref": "Secundae obiectiones"
    },
    "theses": [],
-   "text": "Cittadini objects that Pico misuses Thomas: Thomas's division of being into substance and accident concerns created being only, not uncreated being, so Thomas cannot show that Aristotle denied that God is properly being.",
+   "text": "Cittadini objects that Pico misuses Thomas: Thomas's division of being into substance and accident concerns created being only, not uncreated being, so Thomas cannot show that the philosopher denied that God is properly being.",
    "quotes": [
     {
      "text": "Cittadini criticizes the manner in which Pico uses Thomas to support his view that God is not truly and properly ‘being’. While Thomas argued that God is not properly substance, since He is not under (substat) any accident, nor is God’s essence different from God, the truth of the matter is that Thomas’s line of argumentation goes against Pico, since his distinction between substantial and accidental being refers only to created being (ens creatum), not to uncreated being (ens increatum), which is God.",
@@ -1257,7 +1253,7 @@
     "ref": "Secundae obiectiones"
    },
    "theses": [],
-   "text": "Cittadini says he affirmed by his own will, not from necessity, that God per se is placed in a category on the authority of Boethius and Augustine, because Thomas's authority alone does not suffice to show that Aristotle or the Aristotelians denied it.",
+   "text": "The critic says he affirmed by his own will, not from necessity, that God per se is placed in a category on the authority of Boethius and Augustine, because Thomas's authority alone does not suffice to show that Aristotle or the Aristotelians denied it.",
    "quotes": [
     {
      "text": "to the best of his understanding, he managed to prove – by using the view of both Boethius and Augustine – that God per se should be placed in a category, recognizing that in this case the authority of Thomas alone will not be sufficient for demonstrating that Aristotle or the Aristotelians thought that God per se should not be placed in a category.",
@@ -1270,7 +1266,6 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Cittadini",
     "Boethius",
     "Augustine",
     "Thomas",
@@ -1307,7 +1302,7 @@
     "ref": "open inclusiveness towards all schools"
    },
    "theses": [],
-   "text": "Cittadini declares his regular reading of the British logicians of Swineshead's kind and admires their subtlety though not always their truth, which for Edelheit shows the limits of Pico's openness and his poor acquaintance with the Mertonians.",
+   "text": "Cittadini declares his regular reading of the logicians he names and admires their subtlety though not always their truth, which for Edelheit shows the limits of Pico's openness and his poor acquaintance with the Mertonians.",
    "quotes": [
     {
      "text": "These words of Cittadini clearly reflect the limits of Pico’s famous openness and inclusiveness. As we have already seen (n. 38), in the case of some representatives of the modern schools, mainly the ‘English’ and among them the Mertonians, Pico is not all that open and inclusive, or rather he is not very familiar with their views, and at times quite critical and exclusive.",
@@ -1400,7 +1395,7 @@
     "ref": "chapter 9; Secundae obiectiones"
    },
    "theses": [],
-   "text": "Cittadini, following Boethius against Albert and Thomas, holds good and evil to be contraries in the way of pairs like healthy and sick, and this grounds a substantial reality of evil, which is part of a wider Scotist and modern-school critique of Thomas on evil.",
+   "text": "Cittadini, following Boethius against Albert and Thomas, holds good and evil to be contraries in the way of pairs like healthy and sick, and this grounds a substantial reality of evil, which is part of a wider critique by followers of John Duns Scotus and of the modern schools of Thomas on evil.",
    "quotes": [
     {
      "text": "Once again one notices how independent Cittadini is in his thought and method, reflecting how doing philosophy through authoritative texts can be executed in a sophisticated manner: first, identifying a contradiction or at least a problem in two Aristotelian texts; second, choosing to follow Boethius and to reject Albert and Thomas; and third, providing a rationale for this choice and for his philosophical conviction.",
@@ -1683,7 +1678,7 @@
     "ref": "Responsio secundarum obiectionum"
    },
    "theses": [],
-   "text": "Pico maintains that if God as idea is called being it does not follow that God held absolutely in Himself takes the name being; God is beyond being as a mark of eminence, and the Platonists call God beyond being, not non-being.",
+   "text": "Pico maintains that if God as idea is called being it does not follow that God considered absolutely takes the name being; God is beyond being as a mark of eminence, and the Platonists call God beyond being, not non-being.",
    "quotes": [
     {
      "text": "God, in fact, is beyond any essence and condition related to created things and is greater than the name ‘being’. And the fact that God is not called being is not a sign of any deficiency in Him but rather a sign of His eminence. In any case, claims Pico, the Platonists describe God as beyond being rather than as not being.",
@@ -1733,7 +1728,7 @@
     "ref": "Responsio secundarum obiectionum"
    },
    "theses": [],
-   "text": "Pico rejects Cittadini's classing of Themistius as a Platonist, since all ancient authors call him a Peripatetic, and holds that even if he were a Platonist Platonists distinguish God as God from God as idea.",
+   "text": "Pico rejects the critic's classing of Themistius as a Platonist, since all ancient authors call him a Peripatetic, and holds that even if he were a Platonist Platonists distinguish God as God from God as idea.",
    "quotes": [
     {
      "text": "Pico, as is to be expected, challenges this classification: according to all the ancient authors Themistius was a Peripatetic thinker, not a Platonist, and if asked, he himself would have admitted that he is a follower of Aristotle, not Plato. Even if Themistius were a Platonist it still would not have changed anything since, Pico contends, for the Platonists discussed very differently the concepts of ‘God as God’ on the one hand and ‘God as the idea’ on the other.",
@@ -1746,8 +1741,7 @@
    "hedge": "assertive",
    "hedge_words": "",
    "entities": [
-    "Themistius",
-    "Cittadini"
+    "Themistius"
    ],
    "warrants": [],
    "assumptions": [],
@@ -1800,9 +1794,7 @@
    ],
    "hedge": "assertive",
    "hedge_words": "",
-   "entities": [
-    "Cittadini"
-   ],
+   "entities": [],
    "warrants": [
     {
      "id": "w1",
@@ -2085,7 +2077,7 @@
     "ref": "Responsio secundarum obiectionum"
    },
    "theses": [],
-   "text": "According to Bacchelli, Poliziano's presence at the Ferrara debate is evident from a remark in Pico's second response, where Poliziano is said to have answered Cittadini's question what God is by saying he did not know, following Simonides.",
+   "text": "Bacchelli finds that Poliziano's presence at the Ferrara debate is evident from a remark in Pico's second response, where Poliziano is said to have answered the critic's question what God is by saying he did not know, following Simonides.",
    "quotes": [
     {
      "text": "As Bacchelli points out the presence of Poliziano at the debate in Ferrara is evident thanks to a remark found in Pico’s second response",
@@ -2663,7 +2655,7 @@
     "ref": "correspondence of 1495-1496"
    },
    "theses": [],
-   "text": "Cittadini and Gianfrancesco Pico corresponded with mutual respect and cordial relations; Gianfrancesco says that Cittadini and Giovanni Pico were bound before the disputation as compatres by a spiritual bond.",
+   "text": "Cittadini and Gianfrancesco Pico corresponded with mutual respect and cordial relations; Gianfrancesco says that Cittadini and Pico were bound before the disputation as compatres by a spiritual bond.",
    "quotes": [
     {
      "text": "This chapter cannot be completed without a short account of the correspondence between Cittadini and Gianfrancesco Pico, in the light of the latter’s response to the fourth objections. The two letters show mutual respect and cordial relations.",
@@ -2723,12 +2715,12 @@
     "ref": "Defensio de uno et ente"
    },
    "theses": [],
-   "text": "Gianfrancesco's response draws on a wider range of mainly scholastic authorities than the Pico-Cittadini debate, naming Scotus, Giles of Rome, Capreolus, Baconthorpe, Gregory of Rimini, Burley, Holcot, Albert and Anselm, and refutes the scholastic Cittadini with authors of his own school.",
+   "text": "Gianfrancesco's response draws on a wider range of mainly scholastic authorities than the debate between Pico and Cittadini, naming Scotus, Giles of Rome, Capreolus, Baconthorpe, Gregory of Rimini, Burley, Holcot, Albert and Anselm, and refutes the scholastic Cittadini with authors of his own school.",
    "quotes": [
     {
-     "text": "In his response Gianfrancesco emphasizes the fact that he added to the debate many issues, using distinguished authorities, in support of Pico’s arguments and in order to protect his reputation. And indeed we do find in Gianfrancesco’s account a wider range of authorities, mainly scholastic, than the rather limited range found in the debate between Pico and Cittadini. The method here is clear: refuting the arguments of the scholastic Cittadini by using arguments of authors who belong to the same philosophical ‘school’. Beyond Thomas we find here references to Scotus and also to Giles of Rome – who seems rather central to Gianfrancesco’s line of argumentation, to John Capreolus, John Baconthorpe, Gregory of Rimini, Walter Burley, Gratiadeus Esculanus, Robert Holcot, Albert the Great and Anselm of Canterbury.",
+     "text": "And indeed we do find in Gianfrancesco’s account a wider range of authorities, mainly scholastic, than the rather limited range found in the debate between Pico and Cittadini. The method here is clear: refuting the arguments of the scholastic Cittadini by using arguments of authors who belong to the same philosophical ‘school’. Beyond Thomas we find here references to Scotus and also to Giles of Rome – who seems rather central to Gianfrancesco’s line of argumentation, to John Capreolus, John Baconthorpe, Gregory of Rimini, Walter Burley, Gratiadeus Esculanus, Robert Holcot, Albert the Great and Anselm of Canterbury.",
      "work": "edelheit2022",
-     "line": 24142,
+     "line": 24144,
      "page": null,
      "page_basis": null
     }
@@ -2938,7 +2930,7 @@
     "ref": "the debate as a whole"
    },
    "theses": [],
-   "text": "Edelheit concludes that the real contrariety of good and evil demands a substantial concept of evil and a rejection of the essence-existence distinction, which Cittadini follows beyond Thomas in line with Scotists and modern schools, while Pico follows a Neoplatonic path on which evil is only accidental.",
+   "text": "Edelheit concludes that the real contrariety of good and evil demands a substantial concept of evil and a rejection of the essence-existence distinction, which Cittadini follows beyond his authorities in line with Scotists and modern schools, while Pico follows a Neoplatonic path on which evil is only accidental.",
    "quotes": [
     {
      "text": "Let us draw some conclusions. We have seen that determining the nature of the relation between good and evil as a real contrary relation or not is a fundamental point in the debate between Pico and Cittadini; this point has far-reaching consequences for both moral philosophers and theologians. A contrary relation demands a substantial concept of evil, to be fully contrasted with goodness, and also a rejection of the distinction between existence and essence. This line of argumentation is followed by Cittadini who is going here beyond his authorities",
@@ -2959,7 +2951,6 @@
    "hedge_words": "",
    "entities": [
     "Cittadini",
-    "Thomas Aquinas",
     "Scotists"
    ],
    "warrants": [],
@@ -3160,11 +3151,10 @@
      "page_basis": null
     }
    ],
-   "hedge": "hedged",
-   "hedge_words": "we might just have a more blessed angel",
+   "hedge": "assertive",
+   "hedge_words": "",
    "entities": [
-    "Thomas",
-    "Lucifer"
+    "Thomas"
    ],
    "warrants": [],
    "assumptions": [],
@@ -3253,7 +3243,7 @@
    "theses": [
     "19"
    ],
-   "text": "Pico's thesis that sin in the will requires defect in reason is, Edelheit shows, the opposite of Thomas's answer in the Sentences commentary, where it appears only as an argument Thomas refutes; Pico had to seek a positive account in the Summa, and may have preferred Thomas's later conclusion.",
+   "text": "Pico's thesis that sin in the will requires defect in reason is, Edelheit shows, the opposite of Thomas's answer in an early commentary, where it appears only as an argument Thomas refutes; Pico had to seek a positive account in a later work, and may have preferred Thomas's later conclusion.",
    "quotes": [
     {
      "text": "So where is Pico’s thesis? It is found in argument 4 which – as we have just seen – is refuted by Thomas.",
@@ -3416,7 +3406,7 @@
    "theses": [
     "22"
    ],
-   "text": "Pico's thesis 22 on God seen through an intelligible species is treated by Thomas in the Sentences commentary (4, d. 49, q. 2, a. 1), where the philosophers' ultimate happiness is understanding substances separated from matter and Thomas sides with the theologians that the intellect can see the divine essence.",
+   "text": "Edelheit says Pico's thesis 22 is discussed in Thomas's commentary on the Sentences (4, d. 49, q. 2, a. 1), though Thomas asks the broader question whether the human intellect can attain to seeing God through essence; siding with the theologians against the philosophers, Thomas holds that it can.",
    "quotes": [
     {
      "text": "Thesis 22 examines an epistemological issue concerning the perception of God. It states that God is not seen through an outward and visible appearance and through the sense of sight (per species), but rather He is connected to the intellect through His essence as an intelligible species.",
@@ -3560,7 +3550,7 @@
    "theses": [
     "23"
    ],
-   "text": "Pico's thesis 23 that 'one' adds to 'being' only the privation of division anticipates De ente et uno; Edelheit finds its source in Thomas's Quodlibet 10, q. 1, a. 1, where 'one' adds only a negation of division and is indivisible being.",
+   "text": "Pico's thesis 23 that 'one' adds to 'being' only the privation of division anticipates De ente et uno; Edelheit finds its source in a Thomist quodlibetal question (10, q. 1, a. 1), where 'one' adds only a negation of division and is indivisible being.",
    "quotes": [
     {
      "text": "Thesis 23 takes us directly to the conceptual tension between ‘one’ (unum) and ‘being’ (ens), which Pico was going to address in his De ente et uno (1490–1491), a work which stands at the centre of Chapter 16 together with its critical reception by Antonio Cittadini. It states that the only thing that ‘one’ adds to ‘being’ is the privation of division.",
@@ -3613,7 +3603,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Thomas in Quodlibet 10 rejects Avicenna's view that 'one' adds a genus of measure to 'being', on the ground that it would fall into infinite regress.",
+   "text": "Thomas in a quodlibetal question rejects Avicenna's view that 'one' adds a genus of measure to 'being', on the ground that it would fall into infinite regress.",
    "quotes": [
     {
      "text": "Thomas rejects Avicenna’s view according to which ‘one’ adds some genus of measure to ‘being’ since, if this were the case, then ‘one’ is predicated on a thing which is then added as ‘one’ to ‘being’, and so we are falling into an infinite regress.",
@@ -3655,7 +3645,7 @@
    "theses": [
     "30"
    ],
-   "text": "Pico's thesis 30, that being immediately implies ten concepts united not as of one thing but as referring to one thing, corresponds to Thomas's account in his Metaphysics commentary of being contracted to the categories by modes of predication, though the wording (conceptus interuniti) is Pico's own.",
+   "text": "Pico's thesis 30, that being immediately implies ten concepts united not as of one thing but as referring to one thing, corresponds to Thomas's account in his commentary on the Aristotelian treatise on being of being contracted to the categories by modes of predication, though the wording (conceptus interuniti) is Pico's own.",
    "quotes": [
     {
      "text": "Thesis 30 takes us back to ‘being’ and related concepts discussed in regard to thesis 23, as well as to the relation between ‘being’ and the categories.",
@@ -3705,7 +3695,7 @@
    "theses": [
     "31"
    ],
-   "text": "Pico's thesis 31, that essence and existence are really distinct in any created being, is drawn from Thomas's De ente et essentia, where God's essence is identical with His existence while in created intellectual substances existence differs from essence and is limited by the receiving nature.",
+   "text": "Edelheit says Pico's thesis 31, that essence and existence in any created being are in fact distinguished, concerns a distinction discussed in Thomas's De ente et essentia, where in God essence and existence are identical while in created intellectual substances existence differs from essence and is limited by the receiving nature.",
    "quotes": [
     {
      "text": "Thesis 31 brings us to the well-known distinction between essence and existence. It states that essence and existence in any created being are in fact distinguished. This distinction is discussed in Thomas’s De ente et essentia.",
@@ -3802,7 +3792,7 @@
    "theses": [
     "40"
    ],
-   "text": "Pico's thesis 40, that difficulty in understanding may arise partly from the intellect and partly from the object, is related by Edelheit to Thomas's Summa contra gentiles 3, 45, where separated substances cannot be understood by our intellect in this life, though Pico frames it as a general epistemological question without restricting it to separated substances.",
+   "text": "Edelheit relates Pico's thesis 40, that difficulty in understanding may arise partly from the intellect and partly from the object, to Thomas's Summa contra gentiles 3, 45, where separated substances cannot be understood by our intellect in this life; Pico seems to treat it as a more general epistemological question, without committing to separated substances only.",
    "quotes": [
     {
      "text": "Thesis 40, just like thesis 20, is included among the theses which were criticized by Bernardo Torni and we shall discuss it again and with further detail in Chapter 12. It refers to a famous Aristotelian question and states that a difficulty in understanding can originate partly in the intellect itself and partly in the intelligible object.",
@@ -3835,7 +3825,8 @@
     "frame_shift": 1,
     "justification": "Shows that Thomas's separated-substances doctrine is narrowed in Pico's thesis into a general epistemological point."
    },
-   "id": "edelheit2022:074"
+   "id": "edelheit2022:074",
+   "revision": 1
   },
   {
    "claimant": "Amos Edelheit",
@@ -3998,7 +3989,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Pico's own opinion in the Apology's first question is that only Christ's soul descended into hell, which leads to the status of separate souls, immaterial substances or angels in relation to place, with presence identified with operation.",
+   "text": "Pico's own opinion in the first question of the defence is that only Christ's soul descended into hell, which leads to the status of separate souls, immaterial substances or angels in relation to place, with presence identified with operation.",
    "quotes": [
     {
      "text": "Pico’s own opinion is that only Christ’s soul descended into hell. That immediately brings us to a discussion of the status of separate souls (or else immaterial substances or angels) and their connection to a physical or material place. This connection is explained by means of identifying ‘presence’ with ‘operation’. And so, the reason given for the presence of such separate souls in a place is their operation in that place.",
@@ -4162,7 +4153,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Henry of Ghent was among the theologians who advised Tempier in 1277 on the 219 condemned propositions, and is thus the authority for clarifying proposition 204, the subtext of both Henry's and Pico's discussion of angels in place.",
+   "text": "Henry was among the theologians who advised Tempier in 1277 on the 219 condemned propositions, and is thus the authority for clarifying proposition 204, the subtext of both Henry's and Pico's discussion of angels in place.",
    "quotes": [
     {
      "text": "Henry’s authority is most important for Pico, since, as Pico himself mentions in the passage quoted in the last note, Henry was among the theologians who advised Étienne Tempier in 1277 regarding the 219 condemned propositions, and so, he is indeed ‘the authority’ for clarifying proposition 204 (and in fact the context of this quotation is clarifying this proposition).",
@@ -4219,7 +4210,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Henry of Ghent candidly admits he does not know how angels are related to a place and prefers to hear others; Pico follows Henry accurately up to this point but seems to push him toward Pico's own position, while Henry stays cautious and uncommitted.",
+   "text": "Henry candidly admits he does not know how angels are related to a place and prefers to hear others; Pico follows Henry accurately up to this point but seems to push him toward Pico's own position, while Henry stays cautious and uncommitted.",
    "quotes": [
     {
      "text": "With regard to the question how, then, angels are related to a place, Henry candidly admits that he does not know, and that he prefers to hear others on this issue. Pico follows Henry quite accurately up to this point, but here he seems to push Henry a bit towards his own position, while Henry is still very cautious and uncommitted as to determining the right explanation.",
@@ -4562,6 +4553,13 @@
      "line": 7952,
      "page": null,
      "page_basis": null
+    },
+    {
+     "text": "Also Thomas – according to Pico in this case (and a bit differently from what we have seen previously – see n. 51 and context) followed this view which is common among the theologians, and is now commonly held by the Parisian masters who tend to agree with the Scotists and the Nominalists",
+     "work": "edelheit2022",
+     "line": 7945,
+     "page": null,
+     "page_basis": null
     }
    ],
    "hedge": "assertive",
@@ -4707,7 +4705,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Pico cites Albert on the Physics, where Albert rejects the view, drawn from John of Damascus, that intelligences and souls are in a place definitively, since the intelligence through its own nature is neither in a place nor in any difference of place.",
+   "text": "Pico cites Albert on the natural-philosophy treatise, where Albert rejects the view, drawn from John of Damascus, that intelligences and souls are in a place definitively, since the intelligence through its own nature is neither in a place nor in any difference of place.",
    "quotes": [
     {
      "text": "At this point Pico cites Albert who rejects this view and in the course of his argumentation refers to certain philosophers who use John of Damascus’s account of a double meaning of ‘being in a place’. The first, when something is in a place in a confined manner (circumscriptive), where its beginning, middle and end is assigned to a place. The second, when something is in a place in a definitive manner (definitive), where its essence is specifically (finite) enclosed in one place so that it has nothing outside this place; in this fashion these philosophers say that indivisible things are in a place and similarly intelligences and souls. But Albert rejects this last explanation",
@@ -4747,7 +4745,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Edelheit shows that Pico, in defence, cites other scholastic authorities against Thomas and the Scotists, and that a papal commission condemned 13 of his theses which he defends against a charge of heresy.",
+   "text": "Edelheit says a papal commission condemned 13 of Pico's theses, which Pico defends against a charge of heresy.",
    "quotes": [
     {
      "text": "But mentioning theology is most relevant to Pico’s self-defense against the accusations of heresy and condemnation of 13 of his theses by a papal commission.",
@@ -4793,7 +4791,7 @@
     "ref": "question 1, Christ's descent into hell (Farmer/Wirszubski Apology, pp. 34-98)"
    },
    "theses": [],
-   "text": "Pico invokes Durandus, who held it probable and defensible with the article of faith that Christ was in hell effectively and not presently, arguing that condemning the thesis would make Durandus a heretic.",
+   "text": "Pico invokes Durandus, who held it probable and defensible with the article of faith that the descent into hell was effective and not presently, arguing that condemning the thesis would make Durandus a heretic.",
    "quotes": [
     {
      "text": "in fact an opinion which a very capable theologian, the Dominican Durandus of Saint-Pourçain (c.1275–1334), held as probable and defensible together with the truth of the relevant article of faith.",
@@ -4847,7 +4845,7 @@
     "ref": "question 1, on the authority of the saints"
    },
    "theses": [],
-   "text": "Edelheit reads Pico's Apology as showing that the scholastic tradition is, for Pico, at least equal to the patristic and monastic traditions, citing Ockham's disagreement with Pseudo-Dionysius on hierarchical acts as one instance of moderns departing from the saints.",
+   "text": "Edelheit reads Pico's defence as showing that the scholastic tradition is, for Pico, at least equal to the patristic and monastic traditions, citing Ockham's disagreement with Pseudo-Dionysius on hierarchical acts as one instance of moderns departing from the saints.",
    "quotes": [
     {
      "text": "Moreover, Pico argues that also modern doctors (‘moderns’ here in the broad sense of doctors who lived closer to Pico’s times and not in the technical sense of the fourteenth-century schools) disagree with the statements of saints and so, for instance, Robert Holcot claimed that Anselm was deceived in many issues because he was ignorant in logic; Ockham disagreed with Pseudo-Dionysius the Areopagite regarding hierarchical acts; and Scotus almost destroyed the entire argumentation in Anselm’s Cur deus homo. This means that according to Pico the scholastic tradition is at least of equal validity to the monastic and patristic traditions, and in some cases, as the examples above suggest, even superior to it.",
@@ -4907,7 +4905,7 @@
     "ref": "question 1"
    },
    "theses": [],
-   "text": "Vernia in his first Question rehearsed Scotus on angels and local movement and thought it unfair to mix the principles of theology and natural philosophy by discussing angels in natural movement; Edelheit notes that angelic movement and place will become an important issue in Pico's Apology.",
+   "text": "Vernia in his first quaestio rehearsed Scotus on angels and local movement and thought it unfair to mix the principles of theology and natural philosophy by discussing angels in natural movement; Edelheit notes that angelic movement and place will become an important issue in Pico's Apology.",
    "quotes": [
     {
      "text": "Thus, ‘being’ cannot be regarded as material since there are many self-moving entities like angels which are not bodies. This allows Vernia to bring Scotus into the discussion by rehearsing his account of angels and local movement in his commentary on the Sentences",
@@ -5331,7 +5329,7 @@
     "ref": "secundum Aegidium Romanum, thesis 5 (angels not created in grace)"
    },
    "theses": [],
-   "text": "Pico's thesis that angels were not created in grace is derived from Giles's Sentences commentary (2, d. 4, q. 1), where angels can be called blessed in innocence before sin, created with a natural pure love, but not in grace.",
+   "text": "Pico's thesis that angels were not created in grace is derived from an early commentary by Giles (2, d. 4, q. 1), where angels can be called blessed in innocence before sin, created with a natural pure love, but not in grace.",
    "quotes": [
     {
      "text": "The next three theses take us to angelology. In thesis 5 we find that angels were not created in grace.",
@@ -5441,7 +5439,7 @@
     "ref": "secundum Aegidium Romanum, thesis 6"
    },
    "theses": [],
-   "text": "Edelheit suggests Pico's thesis 6, that an angel is obstinate and impenitent because divine special impulses were taken from it, might be Pico's own conclusion drawn from thesis 5, an instance of concatenatio between theses; the phrase divini impetus speciales is unique to Pico, though the idea is in Giles.",
+   "text": "Edelheit suggests Pico's thesis 6, that an angel is obstinate and impenitent because divine special impulses were taken from it, might be Pico's own conclusion drawn from thesis 5, an instance of concatenatio between theses; the phrase divini impetus speciales is unique to Pico, though the idea is in the scholastic source.",
    "quotes": [
     {
      "text": "Thesis 6 is directly connected to the previous thesis through the adverb ‘therefore’ (ideo). We find there that an angel is obstinate and impenitent since divine and special powers were taken from it.",
@@ -5474,9 +5472,7 @@
    ],
    "hedge": "hedged",
    "hedge_words": "This thesis might just represent Pico’s own conclusion",
-   "entities": [
-    "Giles"
-   ],
+   "entities": [],
    "warrants": [],
    "assumptions": [],
    "open_questions": [],
@@ -5770,7 +5766,7 @@
    ],
    "pico_locus": null,
    "theses": [],
-   "text": "Edelheit reports Vanhaelen's view that Ficino integrated the scholastic method of abstraction into a Neoplatonic framework, and Robichaud's that Proclus bridged scholasticism and Renaissance Platonism in Ficino's study of Pseudo-Dionysius and Plotinus.",
+   "text": "Edelheit reports Vanhaelen's view that Ficino integrated the scholastic method of abstraction into a Neoplatonic framework as a preliminary exercise to the apprehension of the Platonic mysteries.",
    "quotes": [
     {
      "text": "Maude Vanhaelen, ‘The Pico-Ficino Controversy: New Evidence in Ficino’s Commentary on Plato’s Parmenides’, in Rinascimento 49 (2009), pp. 301–339; see, e.g., p. 326: “What is striking here is that Ficino also characterises these appellations as ‘abstractiones abstractorum’, thus using a scholastic terminology to describe the ancient doctrine refuted by Proclus”; pp. 326–327: “In other words, Ficino integrates, as in the case of Aristotle, the scholastic method of abstraction within a Neoplatonic framework, as a preliminary exercise to the apprehension of the Platonic mysteries.”",
@@ -5871,7 +5867,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia's proem names first 'the vanities and superstitions of magicians and Kabbalists' as what Pico's Apology revives, together with wrongly explained matters of the orthodox faith and philosophical doctrines given a sense contrary to Scripture; Edelheit notes a sense of urgency in the circumstances of the commission.",
+   "text": "Garsia's proem names first 'the vanities and superstitions of magicians and Kabbalists' as stirred up in Pico's Apology, together with wrongly explained matters of orthodox faith and philosophical doctrines given a sense contrary to Scripture; Edelheit finds a sense of urgency in Garsia's text, probably due to the circumstances of his commission by the Pope.",
    "quotes": [
     {
      "text": "There is a sense of urgency in Garsia’s text, probably due to the circumstances under which he was commissioned by the Pope to write it",
@@ -6037,7 +6033,7 @@
    "text": "Edelheit says the question how Christ as a spiritual being descended into a physical place is the scholastic-theological formulation of what became a standard theme of early-modern and modern philosophy, the psycho-physical problem.",
    "quotes": [
     {
-     "text": "It is, perhaps, not entirely superfluous to point out here the fact that the question aiming at explaining the manner in which Christ as a spiritual being had descended into a physical place like hell is the scholastic-theological formulation of what has become a standard theme among early-modern philosophers, and then a part of the modern philosophical discourse: the psycho-physical problem.",
+     "text": "It is, perhaps, not entirely superfluous to point out here the fact that the question aiming at explaining the manner in which Christ as a spiritual being had descended into a physical place like hell is the scholastic-theological [...] formulation of what has become a standard theme among early-modern philosophers, and then a part of the modern philosophical discourse: the psycho-physical problem.",
      "work": "edelheit2022",
      "line": 19549,
      "page": null,
@@ -6072,7 +6068,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia reads Thomas (Summa theologiae 3, q. 52) as assuming that an angel is in a place through operation, as a separated soul, yet as answering definitively that Christ's soul truly descended in the real presence of His substance and not only through His effect; Edelheit notes that Garsia's explanation cannot be found in Thomas.",
+   "text": "Edelheit says Garsia reads Thomas (Summa theologiae 3, q. 52) as assuming that an angel is in a place through operation, as a separated soul, yet as answering definitively that Christ's soul truly descended in the real presence of His substance and not only through His effect; Edelheit notes that Garsia's explanation cannot be found in Thomas.",
    "quotes": [
     {
      "text": "It is important for Garsia, first of all, to clarify that Thomas here does not deal with the problem of being in a place as such, and with the different philosophical implications of this problem. Thomas in this case is working under the assumption that an angel is in a place through his operation just as a separated soul. But without any contradiction, the Angelic Doctor, according to Garsia, is giving here a definitive answer to this question: Christ’s soul truly descended into hell and He was there in the real presence of His substance and not only through His effect.",
@@ -6178,7 +6174,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia treats Pico's effort to blur the 'common way' with the views of Scotus and the Nominalists as ridiculous, identifies the common way with Thomas, and cites Giles, Henry, Godfrey, Scotus and Auriol as calling Thomas the 'common doctor'.",
+   "text": "Garsia treats Pico's effort to blur the 'common way' with the views of Scotus and the nominalists as ridiculous, identifies the common way with Thomas, and cites Giles, Henry, Godfrey, Scotus and Auriol as calling Thomas the 'common doctor'.",
    "quotes": [
     {
      "text": "Garsia seems to have a problem with Pico’s understanding of what he calls ‘the common way’, i.e., the view which is followed by most doctors.",
@@ -6495,7 +6491,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia separates the philosophers, bound to Aristotelian astronomy and metaphysics to hold intelligences immovable and unlocated, from theologians who probably hold that angels and separate souls are located and move locally in their own substance.",
+   "text": "Edelheit says Garsia separates the philosophers, who as followers of Aristotelian astronomy and metaphysics must hold the intelligences immovable and unlocated, from some theologians who hold, as a probable opinion (probabiliter), that angels and separate souls are located and move locally in themselves and in their proper substance.",
    "quotes": [
     {
      "text": "Garsia now proceeds to draw a sharp distinction between the philosophical and the theological view concerning the movement and attachment to place of angels and separate souls. While the philosophers are obliged to follow Aristotelian’s astronomy and metaphysics, and thus to regard the intelligences (whose essence is devoid of any matter) as completely unmovable and without attachment to a place (immobiles et illocabiles), there are some theologians who, in a probable manner (probabiliter), think that angels and separate souls are attached to a place and are moved locally, in themselves and in their proper substance",
@@ -6546,7 +6542,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia sorts the theological views of angelic place into five: the Scotists and Nominalists (definitive presence through the angel's own nature), Scotus (limitation of power rather than essence), the Thomists (operation), an effect-only view, and the fifth view, which he says Pico follows.",
+   "text": "Garsia sorts the theological views of angelic place into five: the Scotists and Nominalists (definitive presence through the angel's own nature), the school's founder (limitation of power rather than essence), the Thomists (operation), an effect-only view, and the fifth view, which he says Pico follows.",
    "quotes": [
     {
      "text": "The first view is, according to Garsia, that of the Scotists and Nominalists, who claim – as we have already seen – that an angel can be in a place not in a restrained manner, i.e., that its nature is somehow restrained by a place, but rather definitely, i.e., that its nature is distinct from that of a place.",
@@ -6619,7 +6615,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "On the fifth view attributed to Pico, Garsia's account says the real presence of the angel in a place precedes its operation, the angel being present in any body it can move, though when it moves a body it is specially where that body moves; Edelheit relates this priority of presence to Durandus's account.",
+   "text": "On the fifth view attributed to Pico, the account says the real presence of the angel in a place precedes its operation, the angel being present in any body it can move, though when it moves a body it is specially where that body moves; Edelheit relates this priority of presence to Durandus's account.",
    "quotes": [
     {
      "text": "It is, however, different from the previous view in that it holds that the angel is present in any body which it can move, and it is present there whether the body is moving or not, but when it is moving, it is said to be specially where that body is moving according to certain appropriation, since at that place the power or ability of the angel specially manifests itself. Thus, according to this view, the real presence of the angel in a place precedes its operation in a place.",
@@ -6665,10 +6661,10 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia judges the philosophers' view heretical by Thomas, the second view more probable and more in accord with Scripture and the saints, the third suspect of error and heresy, and the fourth and fifth most suspect as favouring the philosophers' error, above all the fifth, which makes angels present everywhere.",
+   "text": "Garsia judges the philosophers' view heretical by Thomas, the second view more probable and more in accord with scripture and the saints, the third suspect of error and heresy, and the fourth and fifth most suspect as favouring the philosophers' error, above all the fifth, which makes angels present everywhere.",
    "quotes": [
     {
-     "text": "While the opinion of the philosophers (n. 68) is simply and truly heretical according to Thomas – states Garsia – he carefully examines the other four theological views regarding movement and being in a place of angels and separate souls. He admits that the second view (n. 68) – regarding the angel in itself and its essence as the reason for its local movement and ability to be in a place – this view is indeed more probable and more in agreement with biblical authorities and the words of the saints. On the contrary, the third view (n. 70) is suspicious of being erroneous and heretical since the angel’s operation cannot be material, and thus cannot be regarded as the principle attaching the angel to a place.",
+     "text": "While the opinion of the philosophers (n. 68) is simply and truly heretical according to Thomas – states Garsia – he carefully examines the other four theological views regarding movement and being in a place of angels and separate souls. He admits that the second view (n. 68) ... this view is indeed more probable and more in agreement with biblical authorities and the words of the saints. On the contrary, the third view (n. 70) is suspicious of being erroneous and heretical since the angel’s operation cannot be material, and thus cannot be regarded as the principle attaching the angel to a place.",
      "work": "edelheit2022",
      "line": 20022,
      "page": null,
@@ -6785,7 +6781,7 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Edelheit remarks on a tension in Garsia's position: he identifies the common way with Thomas, yet the views his 1277 criterion leaves acceptable are those of Scotus and the Nominalists, so that the Thomistic third view is condemned.",
+   "text": "Edelheit remarks on a tension in Garsia's position: he identifies the common way with Thomas, yet the views his criterion leaves acceptable are those of Scotus and the Nominalists, so that the Thomistic third view is condemned.",
    "quotes": [
     {
      "text": "One could then ask about the third view, which was ascribed to the Thomistic school (Thomistarum schola): how come that as we have seen (n. 55), Garsia contrasted the ‘common-way’ view to the views of Scotus and the Nominalists on that occasion, while associating the common way with Thomas (n. 43), while here, so it seems, the more acceptable views, and thus perhaps more common, are precisely those views of Scotus and his followers and those of the Nominalists?",
@@ -6851,10 +6847,10 @@
     "ref": "question 1 (Christ's descent into hell), as attacked in Garsia's Determinationes magistrales"
    },
    "theses": [],
-   "text": "Garsia rejects the joke Pico repeats in the Apology that the 1277 articles do not cross the sea or the Alps, replying with Scotus that once declared heretical they involve the Pope's authority, so Thomas can no longer be the common doctor on every matter.",
+   "text": "Garsia rejects the joke Pico repeats in the Apology that the 1277 articles do not cross the sea or the Alps, replying with Scotus that once declared heretical they involve the pope's authority, so Thomas can no longer be the common doctor on every matter.",
    "quotes": [
     {
-     "text": "Exactly at this point the question regarding the universal nature of the 1277 condemnation is presented: Garsia refers to a known view (and joke), mentioned by Pico in the Apology, according to which the Parisian condemnation is not universal and thus does not cross the sea (to England) nor the Alps (to Italy), and here Garsia presents the response of Scotus – with which he strongly agrees – on this matter.",
+     "text": "Exactly at this point the question regarding the universal nature of the 1277 condemnation is presented: Garsia refers to a known view (and joke), mentioned by Pico in the Apology, according to which the Parisian condemnation is not universal and thus does not cross the sea (to England) nor the Alps [...] (to Italy), and here Garsia presents the response of Scotus – with which he strongly agrees – on this matter.",
      "work": "edelheit2022",
      "line": 20090,
      "page": null,
@@ -6904,10 +6900,1440 @@
     "justification": "Shows the trial-era argument over the binding force of the 1277 articles on Italian theology."
    },
    "id": "edelheit2022:133"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Caroli, a leading Dominican theologian in Florence and opponent of Savonarola in the 1490s, wrote in 1498 a treatise against some of Pico's theses; Edelheit says Caroli's criticism clarifies Pico's intentions and their reception by contemporary theologians.",
+   "quotes": [
+    {
+     "text": "He was involved in the Observant Reform movement, and during the 1490s led the opposition to the influential preacher from San Marco Girolamo Savonarola.",
+     "work": "edelheit2022",
+     "line": 21115,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "What was the problem, according to Caroli, with Pico and his ambitious project? In his late account against Pico’s 900 Theses written in 1498 and entitled Super quibusdem conclusionibus Iohannis Pici Mirandule principis the Dominican presented his criticism, from a theological point of view, of some of Pico’s theses.",
+     "work": "edelheit2022",
+     "line": 21126,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli",
+    "Girolamo Savonarola"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Caroli, Savonarola's opponent, wrote against Pico as part of that campaign.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:134"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Edelheit, citing Conti, reports that Caroli's starting point, like Garsia's, is the Apology and not directly the 900 Theses, and that the text against Pico was part of his campaign against Savonarola and several followers including Domenico Benivieni and Giovanni Nesi.",
+   "quotes": [
+    {
+     "text": "Conti’s introduction contains important observations such as that Caroli’s starting point for his criticism of Pico, just like Pedro Garsia, is the Apology rather than directly the 900 Theses (p. 9); that this text against Pico was part of the campaign against Savonarola and several of his followers led by Caroli during which he also wrote against Domenico Benivieni and Giovanni Nesi (pp. 11–15)",
+     "work": "edelheit2022",
+     "line": 21202,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Conti",
+    "Savonarola",
+    "Domenico Benivieni",
+    "Giovanni Nesi",
+    "Garsia"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Caroli's treatise against Pico belongs to his campaign against Savonarola's circle.",
+     "quote_index": 0
+    },
+    {
+     "party": "benivieni",
+     "kind": "other",
+     "note": "Caroli also wrote against a Benivieni (Domenico) in the same campaign.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:135"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Caroli criticizes Pico for using too much philosophy and speculation in theology, obscuring the superiority of the articles of faith; he says Pico talks like a magpie.",
+   "quotes": [
+    {
+     "text": "Pico, according to Caroli, by using too much philosophy and theoretical speculations in his theological accounts, is obliterating the superiority of dogma and the contents of the articles of faith, which are more important as divine revelations than the debate and the interpretation, which are only manifestations of the human intellect.",
+     "work": "edelheit2022",
+     "line": 21180,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Edelheit's footnote quotes Caroli: 'Picus ut pica locutus est, non ut assertor fidei catholice, ut esse debuerat.'",
+     "quote": {
+      "text": "Ergo in hac parte Picus ut pica locutus est, non ut assertor fidei catholice, ut esse debuerat.",
+      "work": "edelheit2022",
+      "line": 21192
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Caroli takes the commission's line that Pico's speculation harms the faith.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:136"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "kabbalistic-sources",
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "The critic lists as the theses he attacks those on Christ's descent into hell, on the adoration of the cross and images, three on the Eucharist, on magic and Kabbalah certifying Christ's divinity, and on free will and belief; Edelheit identifies several as theses condemned by the papal commission.",
+   "quotes": [
+    {
+     "text": "The Dominican is reacting against the following conclusions of Pico: the conclusion concerning Christ’s descent into hell; the conclusion according to which neither Christ’s cross nor any image should be admired with divine admiration; three conclusions concerning different aspects of the Eucharist; the [...] conclusion according to which there is no better science which would certify for us the divinity of Christ except magic and Kabbalah; and the conclusion according to which man cannot, out of his free will, believe or not believe in an article of faith.",
+     "work": "edelheit2022",
+     "line": 21224,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This conclusion (the first thesis condemned by the papal commission) can be found in Pico’s 900 Theses",
+     "work": "edelheit2022",
+     "line": 21240,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Caroli's targets coincide with the theses the papal commission condemned.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:137"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "angel-location",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Edelheit says Caroli argues that the article should be held simply and not doubted, stressing Christ's will to descend and not the manner, and that Pico's account is too complicated because it focuses on the modus descensus; Pico's relating of locality to operation and not substance seems to Edelheit very far from Caroli's idea of simplicity.",
+   "quotes": [
+    {
+     "text": "Thus, the Dominican strongly supports ‘simply holding (this article) and by no means doubting it’ (simpliciter tenendum et nullatenus dubitandum). What is crucial in this article according to Caroli is that Christ wanted simply to descend into hell, not the examination of the way He descended.",
+     "work": "edelheit2022",
+     "line": 21361,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico’s account is, from the very beginning, much too complicated and not at all simple, mainly because it is focused on the way of descending (modus descensus) which has no authoritative determination.",
+     "work": "edelheit2022",
+     "line": 21370,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Pico is aiming, for instance, at relating Christ’s locality (locabilitas) in hell to His operation (operatio) and not to His substance (substantia), in what seems very far from Caroli’s idea of simplicity.",
+     "work": "edelheit2022",
+     "line": 21376,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Caroli's rejection of the 'effect only' formula in Pico's condemned thesis.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:138"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "angel-location",
+    "separate-substances",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Caroli argues that Christ's descent, like His ascent, was in real presence, and that Christ, though moving as spiritual substances do (through effect), is never a cause separated from its effect, so He cannot simply be treated as a separated soul or incorporeal substance.",
+   "quotes": [
+    {
+     "text": "Caroli presents a very elegant and effective argument against Pico’s conclusion: just as Christ’s ascent to heaven should be regarded as His real presence [...] there, so is His descent into hell. Thus, Christ’s movement and presence in a physical place should be regarded as real events and this means that, according to Caroli, Christ cannot simply be regarded as a separated soul or a spiritual being or an incorporeal substance.",
+     "work": "edelheit2022",
+     "line": 21380,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Caroli accepts that Christ’s movement towards a physical place should be regarded as the movement of spiritual substances, i.e., not through movement but rather through effect. Yet this does not mean that Christ is not in hell in a real presence, since He was always a cause and an effect together and should never be regarded as a cause separated from its effect.",
+     "work": "edelheit2022",
+     "line": 21415,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli",
+    "Christ"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Edelheit's footnote quotes Caroli: 'in causarum enim combinatione efficiens et forma coincidunt. Itaque simul astitit et illuminavit.'",
+     "quote": {
+      "text": "nihilominus proper hoc non removetur quin esset vel fuerit in inferno per realem presentiam, quia tunc fuit simul causa cum effectu",
+      "work": "edelheit2022",
+      "line": 21442
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Adds a Dominican rejoinder that even granting spirits move by effect does not remove Christ's real presence."
+   },
+   "id": "edelheit2022:139"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Edelheit cautions that Caroli's opposition to Pico must not be reduced to fear, since Caroli's campaign against Savonarola and his followers, among them Pico, makes the relations between these figures in the 1490s complicated.",
+   "quotes": [
+    {
+     "text": "Interestingly, Caroli here supports strongly simplicity in matters of faith while criticizing Pico for being over-sophisticated and too philosophical. This position, which is only infrequently defended by Dominicans, brings Caroli in this case close enough to the anti-philosophical position of his great rival inside the Order of Preachers and in Florence: Girolamo Savonarola. And taking into account the fact that Caroli’s criticism of Pico was part of his overall campaign against Savonarola and his followers, among them Pico, we ought to realize just how complicated the relations between these prominent figures were during the 1490s and how we must avoid simplistic generalizations in characterizing their relationship.",
+     "work": "edelheit2022",
+     "line": 21464,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli",
+    "Girolamo Savonarola"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Pico is placed among Savonarola's followers by Caroli's campaign, while Caroli shares Savonarola's anti-philosophical simplicity.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Warns against a simple Savonarola-Pico alliance or opposition; Caroli sounds like Savonarola in his simplicity."
+   },
+   "id": "edelheit2022:140"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "questions 1 and 5, as attacked in Caroli's Super quibusdam conclusionibus"
+   },
+   "theses": [],
+   "text": "Caroli's closing appeal on the cross calls on Pico to abandon his cavillations and dialectical, sophistic or philosophical subtleties, and hopes he now perceives the truth after leaving this mortality; Edelheit reads the terms as placing Pico among the modern way and the Mertonians, and Caroli as repeating the papal commission's charge.",
+   "quotes": [
+    {
+     "text": "It is very interesting how Caroli depicts Pico here. By using the terms cavillationes and subtilitates (twice no less!) the Dominican friar is placing Pico at the heart of the ‘modern way’, and even worse, among the followers of the Oxford Mertonians, who were famous for their subtle questions",
+     "work": "edelheit2022",
+     "line": 21671,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Caroli accepts and repeats the accusation made against Pico by the papal commission according to which Pico’s thesis (and indeed Pico himself) stands contrary to the Catholic faith (‘scandalous’ is the technical term used by the commission in this case)",
+     "work": "edelheit2022",
+     "line": 21675,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli",
+    "Mertonians"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Caroli repeats the commission's charge that Pico's thesis is scandalous.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:141"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 5, magic and Kabbalah and the divinity of Christ"
+   },
+   "theses": [],
+   "text": "Caroli rejects Pico's explanation that the science of magic and Kabbalah in his thesis is human natural science and not revealed theology, saying only divinely revealed science can certify Christ's divinity and human wisdom is folly before God.",
+   "quotes": [
+    {
+     "text": "Caroli rejects Pico’s explanation. According to him wisdom is found in God only and, following the biblical theme of stultitia cruxis (I Cor 1, 18), human wisdom is complete folly in the eyes of God.",
+     "work": "edelheit2022",
+     "line": 22192,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "After all, Caroli contends, following what is said in Pico’s thesis, the word ‘magic’ (magia) means wisdom and wise men, not necromancers (nicromantes). Only science which is ‘revealed in a divine fashion’ (revelata divinitus) can certify that, claims Caroli.",
+     "work": "edelheit2022",
+     "line": 22174,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The next and fourth conclusion by Pico which was critically discussed by Caroli brings us to magic and Kabbalah and the role these two ‘sciences’ play in certifying for us the divinity of Christ.",
+     "work": "edelheit2022",
+     "line": 22149,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Edelheit's footnote quotes Pico's Apology on the sense of his thesis: magic is part of natural science, and the part of the Kabbalah that is science and not revealed theology.",
+     "quote": {
+      "text": "Hanc conclusionem ego declarando dixi quod inter scientias quae ita sunt scientiae, quod neque ex modo procedendi, neque ex suis principiis, neque ex suis conclusionibus innituntur revelatis",
+      "work": "edelheit2022",
+      "line": 22204
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Caroli's answer to the fifth condemned thesis on magic and Kabbalah.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:142"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 5, Kabbalah and the Sinai tradition (Apology pp. 176-178)"
+   },
+   "theses": [],
+   "text": "Caroli attacks the Kabbalah's claimed ancient oral origin from God to Moses, allowing only natural revelation or revelation in figure, and argues that Ambrose, Jerome and other early Christian authors, who should have known it, never mention it.",
+   "quotes": [
+    {
+     "text": "Focusing on the Kabbalah, Caroli cites Pico, who refers to Jewish sources and authorities, attributing the origin of the Kabbalah to God, who revealed this mystical knowledge orally to Moses on Mount Sinai together with the written Law. Caroli strongly rejects this idea and is willing to attribute the origin of the Kabbalah to natural revelation only, or revelation in figuram, referring to events and individuals before Christ which, in one way or another, prepared the ground for the true and only divine revelation of Christ.",
+     "work": "edelheit2022",
+     "line": 22226,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Caroli’s theological animadversions motivate him to posit a historical criticism of the ancient origins of the Kabbalah. He points out that Ambrose, Jerome and other early Christian authors should have been familiar with the Kabbalah if this science was, as Pico claims, so important for confirming the [...] divinity of Christ",
+     "work": "edelheit2022",
+     "line": 22239,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Caroli",
+    "Moses",
+    "Ambrose",
+    "Jerome"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "An echo of the commission's case against the magic and Kabbalah thesis.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "A 1498 historical objection to the antiquity of the Kabbalah from the silence of the Fathers."
+   },
+   "id": "edelheit2022:143"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "doctrinal_content",
+   "topics": [
+    "separate-substances",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 4, whether a non-rational nature can be assumed by God"
+   },
+   "theses": [],
+   "text": "Garsia cites Thomas that if the purpose of the Assumption is liberation from sin only human nature can be assumed congruently, since sin is absent in irrational nature and incurable in angelic nature but curable in human nature.",
+   "quotes": [
+    {
+     "text": "Garsia then proceeds to present different arguments, criticizing the views of Thomas and Henry in support of connecting God to rational nature. Thus, for instance, he refers to Thomas who argued that if we regard the purpose of the Assumption as liberation from sin, then only human nature (that is, rational nature) can be congruent with this Assumption, since there can be no sin in irrational nature, and in angelic nature sin is incurable, while in human nature sin is curable.",
+     "work": "edelheit2022",
+     "line": 20326,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garsia",
+    "Thomas",
+    "Henry"
+   ],
+   "warrants": [
+    {
+     "id": "w1",
+     "kind": "scholar_evidence",
+     "text": "Edelheit's footnote quotes Garsia: 'in angelica vero erat peccatum sed irremediabile; in homine vero erat remediabile'.",
+     "quote": {
+      "text": "Si vero finis assumptionis ponatur liberatio a peccato sic etiam sola humana natura congrue assumi potuit, quia in irrationali creatura peccatum non erat; in angelica vero erat peccatum sed irremediabile",
+      "work": "edelheit2022",
+      "line": 20347
+     }
+    }
+   ],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:144"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 5, magic and Kabbalah"
+   },
+   "theses": [],
+   "text": "Garsia devotes 71 pages to magic and Kabbalah against 16 in Pico's Apology, denies Pico's assumption that magic is part of natural philosophy, following William of Auvergne, and rejects the divine authority and antiquity of the Kabbalah, noting the Talmud's hostility to Christianity and that Pico's argument partly rests on the apocryphal 3 Esdras.",
+   "quotes": [
+    {
+     "text": "Garsia rejects Pico’s assumption that magic is part of natural philosophy, following another bishop, William of Auvergne, in his arguments from the lack of evidence for the existence of ‘occult and wonderful powers’ (virtutes occultae et mirificae) in animal and plant nature, which he regards as the theoretical foundation of magic.",
+     "work": "edelheit2022",
+     "line": 20800,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "While rejecting the divine authority of the Kabbalah and its role in anticipating Christian dogmas assigned to it by Pico, Garsia also emphasizes that the Talmud is very hostile towards Christianity and thus, there is much less harmony and agreement between Judaism and Christianity than Pico would like to admit, not to mention the fact that Pico’s argument concerning the authority and antiquity of the Kabbalah is partly based on 3 Esdras which is [...] apocryphal, and that there is no written evidence of it before the time of Ezra.",
+     "work": "edelheit2022",
+     "line": 20808,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This means 71 pages! In comparison, Pico’s defense of this thesis in the Apology, in the 1557 Basel edition of his Opera omnia, found on pp. 166–181, is only 16 pages.",
+     "work": "edelheit2022",
+     "line": 20821,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garsia",
+    "William of Auvergne",
+    "Talmud",
+    "Ezra"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Garsia's long rebuttal of the magic and Kabbalah thesis.",
+     "quote_index": 0
+    },
+    {
+     "party": "innocent-viii",
+     "kind": "trial",
+     "note": "The rebuttal was commissioned by the Pope.",
+     "quote_index": 2
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Gives the scale and grounds of the commission member's case on Kabbalah, including the dating argument."
+   },
+   "id": "edelheit2022:145"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 5, magic and Kabbalah"
+   },
+   "theses": [],
+   "text": "Garsia insists on the distinction between the divine and revealed and the natural and acquired: magic and Kabbalah cannot certify Christ's divinity more than theology, and Pico's thesis, implying they can replace faith, is false and heretical; Edelheit sees in the theme antecedents of the Savonarola dispute over true and false prophecy in 1490s Florence.",
+   "quotes": [
+    {
+     "text": "In his final remarks on magic and Kabbalah Garsia aims at restoring the basic distinction between that which is divine and revealed on the one hand and that which is natural and acquired on the other hand.",
+     "work": "edelheit2022",
+     "line": 20849,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "This is an important issue which goes far beyond the limits of a theoretical debate concerning the orthodoxy of certain theses. Thus, for instance, the question regarding true and false prophets and the status of post-biblical prophecies as a whole, an issue which obviously poses a challenge to the distinction between that which is natural and human on the one hand and that which is divine on the other, is just about to torment the public life of Florence in the 1490s, with the increasing influence of Savonarola and his claim of having a direct connection with God.",
+     "work": "edelheit2022",
+     "line": 20903,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "magic and Kabbalah do not belong to theology and cannot certify Christ’s divinity more than theology",
+     "work": "edelheit2022",
+     "line": 20853,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garsia",
+    "Savonarola",
+    "Florence"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Garsia's natural-versus-divine distinction is said to prefigure the 1490s dispute over Savonarola's prophecy.",
+     "quote_index": 1
+    },
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Garsia's final verdict on the magic and Kabbalah thesis.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Links the 1489 case against Pico to the later Savonarola prophecy dispute."
+   },
+   "id": "edelheit2022:146"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "question 5, Apology p. 176"
+   },
+   "theses": [],
+   "text": "Edelheit notes Garsia was relatively informed on Judaism and Kabbalah with rather traditional sources (Jerome, Augustine, Josephus, Nicholas of Lyra), and that Pico's accusation of the commission's ignorance of the Kabbalah is probably exaggerated and rhetorical.",
+   "quotes": [
+    {
+     "text": "Garsia seems relatively informed in matters concerning Judaism and Kabbalah (as much as can be expected of someone with his background and interests). His explicit sources are rather traditional: Jerome, Augustine, Josephus’ Antiquities of the Jews, and of course, Nicholas of Lyra.",
+     "work": "edelheit2022",
+     "line": 20845,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "In this regard, Pico’s accusations against the members of the papal commission and their complete ignorance concerning the nature of the Kabbalah are probably exaggerated and mainly rhetorical",
+     "work": "edelheit2022",
+     "line": 20866,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "probably exaggerated and mainly rhetorical",
+   "entities": [
+    "Garsia",
+    "Nicholas of Lyra",
+    "Josephus"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Edelheit finds Pico's charge of the commission's ignorance of Kabbalah probably rhetorical.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:147"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "reception-critics",
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Torni, a Florentine philosopher-doctor and Mertonist, took part in the 1489 debate on the origin of evil at Lorenzo de' Medici's palace, where Pico, Ficino and Poliziano were also present.",
+   "quotes": [
+    {
+     "text": "We find him among the participants in the theological debate between the Franciscan Giorgio Benigno Salviati and the Dominican Nicolaus de Mirabilibus on the origin of evil which took place in Florence in 1489.",
+     "work": "edelheit2022",
+     "line": 17087,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Another participant in that debate, which started at Santa Reparata and continued a week later at Lorenzo de’ Medici’s palace, together [...] with other Renaissance scholastics and humanists, was Giovanni Pico della Mirandola.",
+     "work": "edelheit2022",
+     "line": 17092,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Domino Marsilio Ficino; Domino Angelo Poliziano",
+     "work": "edelheit2022",
+     "line": 17150,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Bernardo Torni, who was born in Florence in 1452",
+     "work": "edelheit2022",
+     "line": 17077,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "representing and following, in the Florentine academic and intellectual circles, the greatest ‘enemies’ of humanist style and standards: the Oxford Mertonists.",
+     "work": "edelheit2022",
+     "line": 17085,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Torni",
+    "Lorenzo de’ Medici",
+    "Marsilio Ficino",
+    "Angelo Poliziano"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "friendship",
+     "note": "Ficino attended the 1489 disputation at Lorenzo's palace where Pico was present.",
+     "quote_index": 2
+    },
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "Poliziano attended the same debate.",
+     "quote_index": 2
+    },
+    {
+     "party": "lorenzo-de-medici",
+     "kind": "patronage",
+     "note": "The debate took place at Lorenzo's palace.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:148"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Thomam, thesis 20 (same body in different places)"
+   },
+   "theses": [
+    "20"
+   ],
+   "text": "Edelheit says Torni presents what is called the Merton theorem of uniform acceleration to show that two bodies can be in one place, and since no contradiction is found, that God could move a stone from place a to place b while at the same time it is in place b.",
+   "quotes": [
+    {
+     "text": "What we have here is in fact a formulation of what is called ‘the Merton theorem of uniform acceleration’. Torni presents this theorem in order to show yet again that two bodies can (and in fact must) be in one place. Since no contradiction can be found in this thesis it is in God’s power to move a stone from place a. to place b. while at the same time the stone a. is in place b.",
+     "work": "edelheit2022",
+     "line": 17663,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Torni",
+    "Merton"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:149"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "separate-substances",
+    "aquinas-dionysius"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Thomam, thesis 40"
+   },
+   "theses": [
+    "40"
+   ],
+   "text": "Edelheit could not find Pico's thesis with difficultas intelligendi in Thomas, thinks Pico probably used another source ascribing it to Thomas, and notes Thomas's rejection in Summa contra gentiles 3, 45 of understanding separated substances in this life.",
+   "quotes": [
+    {
+     "text": "This thesis seems parallel to a thesis where we have limpiditas instead of difficultas; see Thomas’s Scriptum super quatuor libros Sententiarum 3, dist. 14, q. 1, a. 2",
+     "work": "edelheit2022",
+     "line": 17686,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "I could not find this thesis with difficultas in Thomas. Pico probably used here another source which ascribed to Thomas the idea about difficultas intelligendi. In his discussion of the question whether we can have in some manner during our present life an understanding of separated substances, found in the Summa contra gentiles 3, 45, n. 5, Thomas rejects the possibility of such an understanding during this life",
+     "work": "edelheit2022",
+     "line": 17689,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "Pico probably used here another source",
+   "entities": [
+    "Thomas"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Qualifies the Thomist attribution of a thesis on the difficulty of understanding separated substances."
+   },
+   "id": "edelheit2022:150"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Albertum Magnum, separate soul and species"
+   },
+   "theses": [],
+   "text": "On Albert, Edelheit finds that Pico's thesis on the separate soul understanding through species created with it by an external immaterial substance corresponds in part to Albert's teaching that the rational soul is produced by an external agent, resembles the separate substance that produced it and has its intellect separated from the body; the second part of the thesis he could not find in Albert.",
+   "quotes": [
+    {
+     "text": "For this reason, Albert contends, the soul contains similarity with the separate substance which produced it, and mostly by the virtue of its own power the soul is separated and in no way connected to, or is shadowed by, the matter of the body.",
+     "work": "edelheit2022",
+     "line": 9403,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The similarity between the soul and the separate substance which created it is emphasized by Albert (n. 43), and this is reflected in the first part of Pico’s thesis. I could not find the second part of this thesis in Albert",
+     "work": "edelheit2022",
+     "line": 9451,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Albert"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:151"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "source_identification",
+   "topics": [
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "secundum Albertum Magnum, thesis on first philosophy"
+   },
+   "theses": [],
+   "text": "In Albert's commentary on the natural-philosophy treatise, 'being' and 'substance' precede 'body' and 'magnitude' in the natural order and are found before them in the intelligences and separate substances, and dealing with them belongs to first philosophy; Edelheit says this is the substance of Pico's thesis.",
+   "quotes": [
+    {
+     "text": "Nevertheless, these principles are not entirely separated since they do conceive in their reasons an intellectual subject which is magnitude, and magnitude precedes the body as a body in the natural order. And just as ‘body’ precedes ‘natural body’ according to the same natural order, so ‘being’ and ‘substance’ precede ‘body’ and ‘magnitude’ according to nature",
+     "work": "edelheit2022",
+     "line": 10016,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "Thus, ‘being’ and ‘substance’ according to their existence are really found before ‘body’ and ‘magnitude’ in the intelligences and in separate substances. At this point Albert stresses that it is the task of the first philosopher and of first philosophy to deal with these issues.",
+     "work": "edelheit2022",
+     "line": 10023,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Albert"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:152"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_report",
+   "claim_type": "method",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit reports that Garin refuted the assumptions that Pico was from an early stage a disciple and follower of Ficino, or that he became a Thomist after an encounter with Savonarola in Ferrara.",
+   "quotes": [
+    {
+     "text": "With regard to Pico’s scholastic formation one should probably start with Eugenio Garin. By refuting the baseless assumptions that Pico was from a very early stage in his career a disciple and a follower of Ficino, or that he became a Thomist after a doubtful encounter with Savonarola in Ferrara, Garin was able to suggest other sources of influence",
+     "work": "edelheit2022",
+     "line": 632,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garin",
+    "Ficino",
+    "Savonarola"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "teaching",
+     "note": "Garin's refutation of the view that Pico was Ficino's disciple from early on.",
+     "quote_index": 0
+    },
+    {
+     "party": "savonarola",
+     "kind": "other",
+     "note": "Garin's refutation that Pico became a Thomist after meeting Savonarola.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Frames the historiographical starting point: Pico as neither Ficino's disciple nor a Savonarolan convert."
+   },
+   "id": "edelheit2022:153"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "pico_locus": {
+    "text": "oration",
+    "ref": "historical approach to philosophy; letter to Barbaro"
+   },
+   "theses": [],
+   "text": "Edelheit says Poliziano's model of philosophy was exclusive, differing from both Ficino's and Pico's inclusive models, and that Pico's model of the historian of philosophy differs from those of Poliziano, Barbaro and even Ficino.",
+   "quotes": [
+    {
+     "text": "Poliziano’s model was an exclusive one (different from both Ficino’s and Pico’s inclusive models), giving precedence to the ancient Greek and Roman sources over other cultures, and, in effect, dismissing any other sources.",
+     "work": "edelheit2022",
+     "line": 5412,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "We witness here what is probably the birth of the historical approach to philosophy in the early modern era, where different historical models were developed by scholars and thinkers such as Poliziano, Barbaro, Ficino and Pico, in response to what we might call the systematic approach of contemporary scholastic philosophers. Pico’s model – very different from that of Poliziano, Barbaro or even Ficino – was a historian or an interpreter of philosophy and texts in general",
+     "work": "edelheit2022",
+     "line": 5478,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Poliziano",
+    "Ficino",
+    "Barbaro"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "ficino",
+     "kind": "other",
+     "note": "Pico's historical model is said to differ even from Ficino's.",
+     "quote_index": 1
+    },
+    {
+     "party": "poliziano",
+     "kind": "other",
+     "note": "Poliziano's model is exclusive, unlike Ficino's and Pico's.",
+     "quote_index": 0
+    },
+    {
+     "party": "barbaro",
+     "kind": "correspondence",
+     "note": "Barbaro's model of the historian of philosophy is compared with Pico's.",
+     "quote_index": 1
+    }
+   ],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Separates Pico's and Ficino's inclusive approaches as two different models."
+   },
+   "id": "edelheit2022:154"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "ficino-dispute"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit thinks the parodies of Pythagoras in Poliziano's Lamia reflect Poliziano's exclusive approach and not a direct critique of his friends Ficino and Pico, who held two different inclusive approaches.",
+   "quotes": [
+    {
+     "text": "I think that the parodical descriptions of Pythagoras we find in Poliziano’s Lamia, pp. 200–204, reflect his exclusive and rather critical approach to philosophical traditions and sources, rather than a direct critique of his friends Ficino and Pico, who held two different inclusive approaches to philosophical traditions.",
+     "work": "edelheit2022",
+     "line": 6787,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "hedged",
+   "hedge_words": "I think that",
+   "entities": [
+    "Poliziano",
+    "Ficino",
+    "Pythagoras"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "poliziano",
+     "kind": "friendship",
+     "note": "Poliziano's Lamia is read as not aimed directly at Ficino and Pico.",
+     "quote_index": 0
+    },
+    {
+     "party": "ficino",
+     "kind": "friendship",
+     "note": "Ficino and Pico are called Poliziano's friends holding different inclusive approaches.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:155"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "historical_event",
+   "topics": [
+    "separate-substances",
+    "agent-intellect"
+   ],
+   "pico_locus": null,
+   "theses": [],
+   "text": "Edelheit says Delmedigo's relation with Pico, begun at Padua, shaped Pico's basic understanding of Averroes and helped develop a critical approach to Averroes's Latin commentators.",
+   "quotes": [
+    {
+     "text": "In the case of Delmedigo, however, Padua provided the platform for the starting point of a very significant relation which lasted several years and deeply influenced Pico’s attitude towards Averroës in two ways: it determined his basic understanding of the Arab philosopher and commentator on the one hand, and it contributed to the development of a critical approach to his Latin commentators on the other hand.",
+     "work": "edelheit2022",
+     "line": 25356,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Delmedigo",
+    "Averroës"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "Names Delmedigo as the formative influence on Pico's reading of Averroes on intellect and separate substances."
+   },
+   "id": "edelheit2022:156"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "interpretive_position",
+   "topics": [
+    "aquinas-dionysius",
+    "separate-substances"
+   ],
+   "pico_locus": {
+    "text": "conclusiones",
+    "ref": "the 115 scholastic theses"
+   },
+   "theses": [],
+   "text": "In his closing chapter Edelheit sums up that Pico's reading of the Latin scholastics is thorough, competent and creative, that he uses his own terminology for Thomas and takes the Sentences commentary as the source for Thomas's views, and that this engagement is a component of his claim to originality.",
+   "quotes": [
+    {
+     "text": "Albert, for instance, is regarded by Pico as a natural philosopher and as a commentator of Aristotelian physics, while Thomas’s early commentary on Peter Lombard’s Sentences is regarded by Pico as an important source for the views of Thomas rather than works like the Summa theologiae which come to represent the grand synthesis of ‘Thomism’. However, in many cases, Pico introduces his own terminology, aiming at explaining Thomas’s position on different issues.",
+     "work": "edelheit2022",
+     "line": 25400,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "The chapter provides compelling evidence that Pico’s reading and cognisance of the Latin scholastic tradition is thorough, competent, and creative. His engagement with these sources is a fundamental component in his claim to originality as a philosopher.",
+     "work": "edelheit2022",
+     "line": 25416,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Albert",
+    "Thomas",
+    "Peter Lombard"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [],
+   "judged": {
+    "frame_shift": 1,
+    "justification": "The book's verdict on Pico's use of Thomas."
+   },
+   "id": "edelheit2022:157"
+  },
+  {
+   "claimant": "Amos Edelheit",
+   "attribution": "scholar_claim",
+   "claim_type": "reception",
+   "topics": [
+    "reception-critics",
+    "angel-location"
+   ],
+   "pico_locus": {
+    "text": "apologia",
+    "ref": "the 'common way'"
+   },
+   "theses": [],
+   "text": "Edelheit sums up that Garsia criticizes what he regards as Pico's Nominalist views, which he associates with Scotus and his followers, and that the dispute over the 'common way' shows disagreement about its definition, Garsia's understanding being flexible and issue-dependent.",
+   "quotes": [
+    {
+     "text": "Moving to theology, Chapters 14 and 15 contained discussions of the attacks of Pedro Garsia and Giovanni Caroli on Pico’s Apology, on some theses and on his approach to theology in general. Garsia criticizes what he regards as Pico’s Nominalist views, which he associates also with Scotus and his followers. One interesting point in the debate regards the term ‘common way’: especially since there was real disagreement as to how it should be defined.",
+     "work": "edelheit2022",
+     "line": 25460,
+     "page": null,
+     "page_basis": null
+    },
+    {
+     "text": "It is interesting, for instance, to find in Garsia a rather flexible understanding of the ‘common way’ which is determined according to the issue under examination and is not too dogmatic or schematic.",
+     "work": "edelheit2022",
+     "line": 25467,
+     "page": null,
+     "page_basis": null
+    }
+   ],
+   "hedge": "assertive",
+   "hedge_words": "",
+   "entities": [
+    "Garsia",
+    "Scotus",
+    "Caroli"
+   ],
+   "warrants": [],
+   "assumptions": [],
+   "open_questions": [],
+   "relations_local": [],
+   "bears_on": [
+    {
+     "party": "trial-commission",
+     "kind": "trial",
+     "note": "Edelheit's summary of Garsia's line against Pico.",
+     "quote_index": 0
+    }
+   ],
+   "judged": {
+    "frame_shift": 0,
+    "justification": ""
+   },
+   "id": "edelheit2022:158"
   }
  ],
- "not_mined": [],
- "proposed_topics": [],
- "proposed_parties": [],
- "notes": ""
+ "not_mined": [
+  "Front matter, acknowledgements, Introduction (l. 216-524): read whole, no claims extracted (programmatic).",
+  "Ch. 1 Status Quaestionis (533-1100): only l. 626-645 (Garin on Ficino/Savonarola).",
+  "Ch. 2 Padua (1101-3139): only Vernia on angels and local movement (1590-1700) and Delmedigo on separated substances (2330-2530, read but not extracted: it reports Delmedigo's Averroist views, not Pico's); Trombetta, Vernia's other questions and the rest of Delmedigo unread.",
+  "Ch. 3 Paris (3140-5019): read l. 4100-4140, 4370-4520 (Hennon, Versor on being and unity and on separate substances); nothing extracted; Laillier's conclusions, Hennon and the other masters not mined.",
+  "Ch. 4 Historical approach (5020-7048): read only the Oration passage on cherubic life and purification (6290-6480), l. 5405-5490 (Poliziano's and Pico's models) and 6782-6800; Barbaro correspondence, dialectics, Valla and the rest not mined.",
+  "Ch. 5 Apology (7049-8851): mined 7320-7760 and 7820-8130 (Christ's descent, angelic place, Henry, Albert, Thomas, Durandus, authority of the saints); 7760-7820 (fourth question) and 8130-8851 (images, Eucharist, Kabbalah, free will, etc.) not read.",
+  "Ch. 6 Albert (8852-10176): only two passages on separate substances (9385-9470, 10005-10035).",
+  "Ch. 7 Aquinas (10177-13063): mined theses 17-23, 30-32, 40, 44 and the closing summary. Skipped: theses 1-16 (Trinity, grace, predestination, sacraments, Christ's judgment), 24-29, 33-39, 41-43, 45 (accidents, matter, individuation, virtues, phantasms, universals) as outside angels, the One, Dionysius or Pico's quarrels. Thesis 26 (principle of individuation) is worth a second reader for angelic individuation.",
+  "Ch. 8 Mayronnes (13064-13696): unread (no angel or One hits in a keyword search).",
+  "Ch. 9 Scotus (13697-15230): only the angelic intellection passages (14330-14380, 14930-15010); the other 20 theses unread.",
+  "Ch. 10 Henry (15231-15915): only theses 5-7 (15470-15680); the rest unread.",
+  "Ch. 11 Giles (15916-17071): theses 5-7, 11, and the closing pages; theses 1-4, 8-10 skipped.",
+  "Ch. 12 Torni (17072-18128): read the opening and 17660-17730 only.",
+  "Ch. 13 Galgani on sound (18129-18957): not read (no relevant hits).",
+  "Ch. 14 Garsia (18958-21069): read 18958-19130, 19530-20170, 20320-20355, 20690-20960. Unread: 19130-19530, 20170-20320, 20355-20690, 20960-21069 (Origen, the other condemned theses, the Eucharist, free will, images and the closing).",
+  "Ch. 15 Caroli (21070-22539): read 21070-21560, 21590-21700, 22140-22330; unread 21700-22140 (Eucharist theses) and 22330-22540 (free will and belief).",
+  "Ch. 16 Cittadini (22540-24400): read in full.",
+  "Ch. 17 Pomponazzi (24401-25257): not read beyond keyword hits (angels and demons in Pomponazzi's naturalism, Dionysius on evil at l. 25209-25227); astrology and Pomponazzi's reply to Pico are outside the brief.",
+  "Conclusion (25258-25562): read l. 25258-25470; the rest (Galgani, Cittadini, Pomponazzi summaries) not extracted beyond chapter claims.",
+  "Bibliography (25563-26374) and Index (26375-26874): not mined."
+ ],
+ "proposed_topics": [
+  {
+   "id": "angel-illumination",
+   "label": "Angelic illumination between superior and inferior angels; Pseudo-Dionysius's hierarchy; Giles on strengthening the intellect (Conclusiones according to Giles, thesis 7)"
+  },
+  {
+   "id": "angel-individuation",
+   "label": "Individuation of angels: two angels of one species; Thomas, Sentences 2 d. 3; Pini's note on the 1277 difficulty"
+  },
+  {
+   "id": "papal-commission-1487",
+   "label": "The Apology's answers to the commission and the replies of Garsia and Caroli; Christ's descent into hell as the occasion of Pico's angelic place theory"
+  },
+  {
+   "id": "evil-and-privation",
+   "label": "Good and evil as contraries or privation in the Cittadini debate; Dionysius on evil (Gianfrancesco)"
+  }
+ ],
+ "proposed_parties": [
+  {
+   "id": "garsia",
+   "name": "Pedro Garsia"
+  },
+  {
+   "id": "caroli",
+   "name": "Giovanni Caroli"
+  },
+  {
+   "id": "torni",
+   "name": "Bernardo Torni"
+  }
+ ],
+ "notes": "BOOK MAP (line ranges in the corpus file edelheit2022): Introduction 216-524; Part 1: ch.1 533-1100, ch.2 1101-3139, ch.3 3140-5019; Part 2: ch.4 5020-7048, ch.5 Apology 7049-8851, ch.6 Albert 8852-10176, ch.7 Thomas Aquinas 10177-13063, ch.8 Mayronnes 13064-13696, ch.9 Scotus 13697-15230, ch.10 Henry of Ghent 15231-15915, ch.11 Giles of Rome 15916-17071; Part 3: ch.12 Torni 17072-18128, ch.13 Galgani 18129-18957, ch.14 Garsia 18958-21069, ch.15 Caroli 21070-22539, ch.16 Cittadini 22540-24400, ch.17 Pomponazzi 24401-25257; Conclusion 25258-25562; Bibliography 25563-26374; Index 26375-end. PAGES: printed page = PDF page minus 11, verified against running heads (## Page 14 = 'Introduction 3'; ## Page 60 = p. 49; ## Page 488 = p. 477; ## Page 525 = p. 514). Running heads appear on every page but claims use line numbers, page fields left null. OCR: footnote blocks and page-break headers are spliced into sentences; where a quotation spans a splice the packet marks it with '...' or '[...]'. Pico's Latin quoted by Edelheit in footnotes is cited as scholar_evidence warrants (the words are Pico's, quoted by Edelheit); no warrant of kind primary_text is used because the corpus editions of Pico are separate works. Warrants of that kind are therefore weighted 0.7 not 1.0 by the scoring; that is deliberate. CRUXES: (1) Edelheit reads De ente et uno as an implicit criticism of Ficino (l. 22638) but says so in one sentence and adds the Allen and Monfasani references without arguing it (22722-22726); Ficino's side of the dispute is not in this book (see Vanhaelen via Edelheit, 17045). (2) Pico's own reading of Thomas on angelic place: Pico says Thomas is inconsistent (Sentences 1 for, Sentences 4 and Summa III against), Garsia says Thomas's answer is real presence; Edelheit judges Garsia's explanation not in Thomas (19701-19704). (3) Cittadini charges an inconsistency between the treatise (existence is not other than essence in God, so not being) and the responses (God is not essence): claim edelheit2022:045 flagged as open question. (4) Edelheit at 24351-24355 says Pseudo-Dionysius and Augustine developed a substantial concept of evil, while Gianfrancesco cites Dionysius for evil as nothing without a subject (24310); the two passages sit uneasily; flagged as an open question; a verifier should check the 24351 claim against Dionysius rather than trusting it. (5) Edelheit's claim at 6333-6336 that the Cherubim purify, illuminate and perfect after Dionysius is taken from the Oration's own wording; check against Bausi's edition. (6) Farmer thesis numbers: Edelheit numbers theses per master (thesis 18 of the 45 'according to Thomas'), not by Farmer id; claims carry those book numbers in `theses` as strings and the master in pico_locus.ref; a linker must map them to Farmer's numbering. Scripts: my quote-splicing edits were made with a patch helper; the orchestrator also inserted [...] in claims 118 and 133. Scratch files in the session scratchpad edel22/ (b1-b13 batch scripts, mk.py, patch.py, clean.py); mk.py and sh.py sit in the shared scratchpad root too, and mk.py there may have overwritten another agent's file of the same name."
 }

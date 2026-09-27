@@ -1,7 +1,7 @@
 {
  "packet": "wirszubski1989-angels",
  "file": "data\\claims\\angelology\\wirszubski1989-angels.claims.json",
- "verified_at": "2026-09-26T05:14:07+00:00",
+ "verified_at": "2026-09-27T18:05:50+00:00",
  "claims": [
   {
    "id": "wirszubski1989-angels:001",
@@ -20,16 +20,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Conclusio' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Conclusio II' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -46,14 +40,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Axelrad' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:003",
@@ -68,14 +55,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Axelrad' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:004",
@@ -97,32 +77,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Conclusio' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Expositio' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Decem' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Numerationum' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:005",
@@ -137,7 +92,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:006",
@@ -174,14 +136,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Decem' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:008",
@@ -240,14 +195,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kabbalists' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:011",
@@ -291,20 +239,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Apology' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Apology' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:013",
@@ -341,20 +276,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kabbalist' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kabbala' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:015",
@@ -422,21 +344,14 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 7842,
+     "line_start": 7843,
      "line_end": 7852,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "quote_too_long",
-     "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "139 words; quote what the claim needs"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:020",
@@ -451,7 +366,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'benivieni' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:021",
@@ -468,7 +390,20 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'benivieni' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:022",
@@ -502,17 +437,17 @@
      "line_end": 8012,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 8020,
+     "line_end": 8022,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Mithridates' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:024",
@@ -556,32 +491,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Talmudic' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Moses' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Miriam' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Moses' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:026",
@@ -669,14 +579,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Zoroastrian' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:030",
@@ -745,21 +648,14 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 10198,
+     "line_start": 10199,
      "line_end": 10208,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "quote_too_long",
-     "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "137 words; quote what the claim needs"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:034",
@@ -771,25 +667,19 @@
      "line_end": 10233,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 10206,
+     "line_end": 10209,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kabbalist' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Metatron' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:035",
@@ -916,14 +806,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Hermetic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:041",
@@ -952,14 +835,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Hermetic' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:042",
@@ -998,10 +874,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Maimonides' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1025,14 +901,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Guide' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:045",
@@ -1047,14 +916,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Mithridates' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:046",
@@ -1069,20 +931,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Liber' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Redemptionis' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:047",
@@ -1113,22 +962,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Secretis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Legis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Agent' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1154,16 +991,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Mithridates' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Nicholas' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1198,34 +1029,10 @@
    ],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Abulafia' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Secretis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Legis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Shaddai' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Abulafia' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1249,26 +1056,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Metatron' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Secretis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Legis' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:051",
@@ -1294,34 +1082,10 @@
    ],
    "issues": [
     {
-     "code": "hedge_ungrounded",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "hedge",
-     "detail": "a hedged/speculative claim needs `hedge_words` that occur in a quote"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Liber' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Combinationum' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Agent' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Liber Combinationum' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1346,7 +1110,7 @@
    "quotes": [
     {
      "verdict": "verbatim",
-     "line_start": 11836,
+     "line_start": 11841,
      "line_end": 11845,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
@@ -1362,10 +1126,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "quote_too_long",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "quotes[0]",
-     "detail": "124 words; quote what the claim needs"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1391,56 +1155,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ensoph' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Corona' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Nominis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Boni' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Nahmanides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Sefer' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Yesirah' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Creation' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:055",
@@ -1477,14 +1192,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Nicolaus Cusanus' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:057",
@@ -1493,33 +1201,13 @@
     {
      "verdict": "verbatim_modulo_marks",
      "line_start": 11854,
-     "line_end": 11857,
-     "occurrences": 1,
-     "basis": "letters and digits only; punctuation ignored"
-    },
-    {
-     "verdict": "verbatim",
-     "line_start": 11871,
      "line_end": 11871,
-     "occurrences": 4,
+     "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "quote_ambiguous",
-     "severity": "warn",
-     "where": "quotes[1]",
-     "detail": "short phrase occurs 4 times; the locator disambiguates"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Ensoph' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:058",
@@ -1585,14 +1273,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Chaldean' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:061",
@@ -1633,22 +1314,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Redemptionis' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Liber Redemptionis' is in no quotation of this claim"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Heptaplus' is in no quotation of this claim"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -1674,32 +1343,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Pentateuch' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "\"Me'irat\" occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Eynayim' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity \"Me'irat 'Eynayim\" is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:064",
@@ -1767,14 +1411,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Pythagoreans' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:067",
@@ -1789,14 +1426,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Togarmi' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:068",
@@ -1849,20 +1479,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Maimonides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Nahmanides' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:070",
@@ -1886,14 +1503,7 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Conclusio' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:071",
@@ -1945,7 +1555,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:074",
@@ -1984,16 +1601,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Gikatilla' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Decem' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2010,7 +1621,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:077",
@@ -2106,7 +1724,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:082",
@@ -2143,7 +1768,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "wirszubski1989-angels:084",
@@ -2202,26 +1834,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kieszkowski' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Gaffarel' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Kieszkowski' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:087",
@@ -2301,26 +1914,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Vienna' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Kieszkowski' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Kieszkowski' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:090",
@@ -2357,14 +1951,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Arte' occurs in the restatement but in none of the quotations"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:092",
@@ -2379,26 +1966,7 @@
     }
    ],
    "warrants": [],
-   "issues": [
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Jewish' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'Apology' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "entities",
-     "detail": "entity 'Apology' is in no quotation of this claim"
-    }
-   ]
+   "issues": []
   },
   {
    "id": "wirszubski1989-angels:093",
@@ -2415,10 +1983,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Nahmanides' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2432,6 +2000,35 @@
      "line_end": 3269,
      "occurrences": 1,
      "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3241,
+     "line_end": 3242,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:095",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 309,
+     "line_end": 314,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
     }
    ],
    "warrants": [],
@@ -2440,30 +2037,888 @@
      "code": "ungrounded_entity",
      "severity": "warn",
      "where": "text",
-     "detail": "'Nahmanides' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'November' occurs in the restatement but in none of the quotations"
-    },
-    {
-     "code": "ungrounded_entity",
-     "severity": "warn",
-     "where": "text",
-     "detail": "'1486' occurs in the restatement but in none of the quotations"
+     "detail": "'Kristeller' occurs in the restatement but in none of the quotations"
     }
    ]
+  },
+  {
+   "id": "wirszubski1989-angels:096",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 248,
+     "line_end": 253,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Kristeller' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:097",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 314,
+     "line_end": 318,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 321,
+     "line_end": 326,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Kristeller' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:098",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 294,
+     "line_end": 299,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "ungrounded_entity",
+     "severity": "warn",
+     "where": "text",
+     "detail": "'Kristeller' occurs in the restatement but in none of the quotations"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:099",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 367,
+     "line_end": 376,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:100",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 379,
+     "line_end": 382,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 419,
+     "line_end": 421,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 386,
+     "line_end": 387,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:101",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 422,
+     "line_end": 428,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 462,
+     "line_end": 466,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:102",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 522,
+     "line_end": 528,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:103",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 613,
+     "line_end": 617,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 619,
+     "line_end": 620,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:104",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 481,
+     "line_end": 488,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 491,
+     "line_end": 512,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:105",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 475,
+     "line_end": 479,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:106",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 748,
+     "line_end": 755,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 759,
+     "line_end": 764,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:107",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 812,
+     "line_end": 816,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 822,
+     "line_end": 824,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:108",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 1008,
+     "line_end": 1013,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 1100,
+     "line_end": 1103,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1104,
+     "line_end": 1108,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:109",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 946,
+     "line_end": 954,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 957,
+     "line_end": 958,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:110",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 1065,
+     "line_end": 1068,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:111",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 703,
+     "line_end": 709,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 715,
+     "line_end": 718,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:112",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2436,
+     "line_end": 2438,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2449,
+     "line_end": 2450,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim_modulo_marks"
+   ],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:113",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2525,
+     "line_end": 2527,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:114",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2942,
+     "line_end": 2945,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2953,
+     "line_end": 2953,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:115",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 2344,
+     "line_end": 2348,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 2357,
+     "line_end": 2359,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:116",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 3167,
+     "line_end": 3173,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 3177,
+     "line_end": 3179,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:117",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4041,
+     "line_end": 4044,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 4193,
+     "line_end": 4196,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:118",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 4349,
+     "line_end": 4351,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 4357,
+     "line_end": 4359,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:119",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 5497,
+     "line_end": 5501,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5504,
+     "line_end": 5506,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5528,
+     "line_end": 5528,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:120",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5521,
+     "line_end": 5525,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5550,
+     "line_end": 5554,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:121",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5598,
+     "line_end": 5604,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:122",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 5708,
+     "line_end": 5716,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 5720,
+     "line_end": 5723,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:123",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12747,
+     "line_end": 12755,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [
+    "verbatim"
+   ],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:124",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12771,
+     "line_end": 12776,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12782,
+     "line_end": 12786,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:125",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12857,
+     "line_end": 12858,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 12866,
+     "line_end": 12870,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'gianfrancesco-pico' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:126",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 12908,
+     "line_end": 12914,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 12915,
+     "line_end": 12919,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:127",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 13167,
+     "line_end": 13172,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13202,
+     "line_end": 13206,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 13211,
+     "line_end": 13213,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 13209,
+     "line_end": 13210,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:128",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6197,
+     "line_end": 6201,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim_modulo_marks",
+     "line_start": 6222,
+     "line_end": 6226,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6241,
+     "line_end": 6245,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
+  },
+  {
+   "id": "wirszubski1989-angels:129",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6262,
+     "line_end": 6266,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6374,
+     "line_end": 6378,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:130",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6484,
+     "line_end": 6489,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6593,
+     "line_end": 6601,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'mithridates' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
+  },
+  {
+   "id": "wirszubski1989-angels:131",
+   "status": "verified",
+   "quotes": [
+    {
+     "verdict": "verbatim",
+     "line_start": 6546,
+     "line_end": 6546,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    },
+    {
+     "verdict": "verbatim",
+     "line_start": 6549,
+     "line_end": 6551,
+     "occurrences": 1,
+     "basis": "letters and digits only; punctuation ignored"
+    }
+   ],
+   "warrants": [],
+   "issues": []
   }
  ],
  "summary": {
-  "claims": 94,
-  "verified": 94,
+  "claims": 131,
+  "verified": 131,
   "needs_fix": 0,
-  "quotes": 156,
-  "quotes_verbatim": 156,
-  "warnings": 90,
+  "quotes": 228,
+  "quotes_verbatim": 228,
+  "warnings": 33,
   "verified_rate": 1.0
  }
 }
