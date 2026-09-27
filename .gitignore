@@ -20,3 +20,17 @@ Thumbs.db
 
 # Archives (generated, gitignored)
 data/staging/
+
+# Copyrighted material and research working files (D-25, D-28, D-29): full-text scholarly
+# conversions, generated Latin dumps, copied external reference docs, and harvested dossiers
+# that embed hundreds of verbatim scholar excerpts. Keep local only; regenerate with
+# scripts/build_corpus_registry.py, scripts/harvest_mentions.py, scripts/build_dossiers.py.
+# See HANDOVER.md s5 for what this means for a cloud session without the local corpus.
+data/corpus/markdown/
+data/corpus/text/
+data/corpus/neoplatonism/
+data/corpus/picodb/
+data/texts/conclusiones_900_latin.*
+docs/resources/
+research-packets/
+data/ontology/mentions/
