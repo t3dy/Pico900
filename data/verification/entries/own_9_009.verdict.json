@@ -1,0 +1,392 @@
+{
+ "thesis_id": "9>9",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_9_009.draft.json` printed 'PASS 9>9 own_9_009.draft.json' / '1/1 drafts pass the entry gate'; 54 locators; note 'translation/Farmer similarity 0.45'",
+ "quotations": [
+  {
+   "text": "rest entirely on the distinction between revealed and nonrevealed science",
+   "work": "wirszubski1989",
+   "line": 6265,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "de virtute sermonis falsa, erronea, superstitiosa et heretica",
+   "work": "wirszubski1989",
+   "line": 6246,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "false, erroneous, superstitious, and heretical",
+   "work": "farmer1998",
+   "line": 7025,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "now the most discussed of Pico's 900 propositions",
+   "work": "copenhaver2022",
+   "line": 913,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "understanding nothing at all about Kabbalah, not even the word",
+   "work": "copenhaver2019",
+   "line": 16711,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "fuisse perfidum quendam hominem et diabolicum, qui dictus est Cabala",
+   "work": "edelheit2008",
+   "line": 16961,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "non haeretice, non superstitiose, sed scientifice",
+   "work": "wirszubski1989",
+   "line": 6316,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "true and tolerable",
+   "work": "farmer1998",
+   "line": 7081,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "cherishing the deceits of the Jews",
+   "work": "farmer1998",
+   "line": 1331,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "disguising themselves as natural philosophy",
+   "work": "farmer1998",
+   "line": 1350,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "takes refuge in magic",
+   "work": "cassirer1942",
+   "line": 450,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Clever and correct but evasive",
+   "work": "copenhaver2019",
+   "line": 16706,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "seems less outrageous in context",
+   "work": "copenhaver2019",
+   "line": 17621,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Wrong, erroneous, superstitious, heretical",
+   "work": "dougherty2008",
+   "line": 2218,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:25208-25209), after the Rome print of 7 Decemb",
+   "locator": "farmer1998:25208-25209; farmer1998:28040-28042",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Farmer's text has a point after 'Christi', which the citations of the thesis by ",
+   "locator": "wirszubski1989:6244; edelheit2022:21285",
+   "verdict": "SUPPORTED",
+   "note": "Wirszubski prints no point (6244); Edelheit prints a comma, 'Christi, quam' (21285-21286). Neither reproduces Farmer's point."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The Apology passage printed by Wirszubski introduces the thesis as 'Quarta concl",
+   "locator": "wirszubski1989:6252; copenhaver2022:846",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'scientia' is a body of knowledge in the scholastic sense; in the Apology Pico r",
+   "locator": "wirszubski1989:6253-6260",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'certificet' is rendered 'makes certain'; Pico's gloss limits the certainty to w",
+   "locator": "wirszubski1989:6256-6257",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the ninth of the twenty-six magical conclusions according to",
+   "locator": "black2006:6718-6720; farmer1998:25208",
+   "verdict": "LINE OFF",
+   "note": "'the ninth of the Conclusiones magicae numero xxvi secundum opinionem propriam' is at black2006:6716-6717; the cited range starts at 6718. Relocate to 6716-6720."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis ranks bodies of knowledge by the certainty they give about one propos",
+   "locator": "farmer1998:25208-25209",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "It closes a run of three theses: 9>7 denies that Christ's works could have been ",
+   "locator": "farmer1998:25200-25205",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In his declaratio before the commission and in the Apology, Pico limited the com",
+   "locator": "wirszubski1989:6252-6260",
+   "verdict": "SUPPORTED",
+   "note": "The Apology's 'Hanc conclusionem ego declarando dixi' (wirszubski1989:6253-6254) and Wirszubski's 'His declaratio and subsequent defense' (6264-6265)."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The certainty meant is reached not a priori but a posteriori, from effects: to k",
+   "locator": "wirszubski1989:6294-6313",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Kabbalah here has two senses, which Pico separated in the same Question: the rev",
+   "locator": "wirszubski1989:6320-6334, 6349-6359",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis therefore subordinates magic and Kabbalah to Scripture, since Pico he",
+   "locator": "wirszubski1989:6268-6273; farmer1998:7054-7059",
+   "verdict": "OVERREACH",
+   "note": "The premise is supported: Pico in the Apology says the fact and manner of the miracles are known 'non nisi ex testimonio scripturae' (wirszubski1989:6270-6273; Farmer's paraphrase 7054-7057). But 'The thesis therefore subordinates magic and Kabbalah to Scripture' attributes to the 1486 thesis what the sources state of the Apology's defence (the entry's own historiography 8 says the bare wording 'ranked magic above theology'). Framing clause removed."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Wirszubski observes that the declaratio and the defence 'rest entirely on the di",
+   "locator": "wirszubski1989:6264-6266",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The thesis stands fifth among the thirteen in the order of the Apology, which is",
+   "locator": "copenhaver2022:840-850",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Innocent VIII created the commission in February 1487 and twelve of its sixteen ",
+   "locator": "copenhaver2022:514-515, 543-546",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver judges Q5, 'now the most discussed of Pico's 900 propositions', to ha",
+   "locator": "copenhaver2022:912-918",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "In the Apology Pico mocked the prelates for understanding nothing of Kabbalah, '",
+   "locator": "copenhaver2019:16710-16711; edelheit2008:16954-16962",
+   "verdict": "SUPPORTED",
+   "note": "Copenhaver's paraphrase (copenhaver2019:16710-16711) and Pico's Latin anecdote (edelheit2008:16960-16962)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver sets the thesis against a climate in which Innocent VIII had endorsed",
+   "locator": "copenhaver2019:16719-16722",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer adds that the magical theses, despite all disclaimers, were open to suspi",
+   "locator": "farmer1998:1353-1359",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "To defend Q5 Pico needed a long exposition of scriptural numerology, and he prom",
+   "locator": "copenhaver2022:2290-2294",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission declared the thesis, unanimously, 'de virtute sermonis falsa, err",
+   "locator": "wirszubski1989:6244-6246",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer renders the verdict 'false, erroneous, superstitious, and heretical' and ",
+   "locator": "farmer1998:7024-7026",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Wirszubski finds the reason in the wording: the thesis seems to set magic and Ka",
+   "locator": "wirszubski1989:6246-6248",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "None of the Kabbalistic conclusions was itself condemned (wirszubski1989:6241-62",
+   "locator": "wirszubski1989:6241-6242",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer reports that the commission reluctantly admitted the second of the two th",
+   "locator": "farmer1998:7077-7084",
+   "verdict": "SUPPORTED",
+   "note": "'The second of these' = 9>8 (farmer1998:7079-7084)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico's answer in the Apology ends by claiming that he had said magic and Kabbala",
+   "locator": "wirszubski1989:6314-6318",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Giovanni Caroli answered the thesis in his treatise on Pico's conclusions (edelh",
+   "locator": "edelheit2022:21284-21288",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The bull of 4 August 1487, not published until four months later, condemned the ",
+   "locator": "farmer1998:1326-1331, 1350-1352",
+   "verdict": "SUPPORTED",
+   "note": "4 August 1487, published four months later (farmer1998:1326-1327); agrees with condemned_thirteen.json ('published in December; condemned the whole work')."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Cassirer took the thesis as the hardest case for any unity in Pico's thought, as",
+   "locator": "cassirer1942:440-453",
+   "verdict": "SUPPORTED",
+   "note": "cassirer1942:440-453 ('the most difficult problem ... takes refuge in magic')."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer faults Yates for writing that Pico's meaning is nowhere fully explained, ",
+   "locator": "farmer1998:7031-7034",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer reads that explanation as Pico's original plan, not a retreat, because 9>",
+   "locator": "farmer1998:7077-7080",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver is less generous: the Apology's recasting of the thesis as a disjunct",
+   "locator": "copenhaver2019:16697-16706, 16723-16725",
+   "verdict": "SUPPORTED",
+   "note": "'Clever and correct but evasive' is framed by Copenhaver as the fair response of a logically trained audience (copenhaver2019:16706-16708); 'reckless' qualifies Pico's behaviour in that climate, including the thesis (16723-16725)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Elsewhere he finds it 'less outrageous in context', since 9>6-9>8 make Christ th",
+   "locator": "copenhaver2019:17618-17642",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit places Pico's opening distinction between humanly invented sciences and",
+   "locator": "edelheit2022:7198-7205",
+   "verdict": "SUPPORTED",
+   "note": "'a very standard scholastic distinction' runs on to edelheit2022:7206."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Black treats the defence of this thesis as the place where Pico's definition of ",
+   "locator": "black2006:6716-6723",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows how far its bare wording outran its sense: read alone it ranked",
+   "locator": "farmer1998:7054-7059; wirszubski1989:6268-6276",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference; premises located."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "'de virtute sermonis falsa, erronea, superstitiosa et heretica', declared unanim",
+   "locator": "wirszubski1989:6245-6246; farmer1998:7025-7026; dougherty2008:2183, 2218",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:25208-25209 matches (Farmer's point after 'Christi' declared in latin_note 2). Sense agrees with Farmer's English at 25246-25247 (sense only). 'certificet' as 'make us certain' keeps the epistemic sense; 'magis ... quam' kept as 'does more than'. No qualifier lost; the Apology's restriction (humanly discovered sciences) is rightly kept out of the translation and put in translation_note 2."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "attribution",
+   "type": "relocate",
+   "old": "Pico's own opinion: the ninth of the twenty-six magical conclusions according to his own opinion, and the fifth of the condemned conclusions (black2006:6718-6720; farmer1998:25208).",
+   "new": "Pico's own opinion: the ninth of the twenty-six magical conclusions according to his own opinion, and the fifth of the condemned conclusions (black2006:6716-6720; farmer1998:25208)."
+  },
+  {
+   "field": "doctrine",
+   "type": "remove",
+   "old": "The thesis therefore subordinates magic and Kabbalah to Scripture, since Pico held that the fact and manner of Christ's miracles are known only from Scripture's testimony (wirszubski1989:6268-6273; farmer1998:7054-7059).",
+   "new": "Pico held that the fact and manner of Christ's miracles are known only from Scripture's testimony (wirszubski1989:6268-6273; farmer1998:7054-7059)."
+  }
+ ],
+ "dates_numbers": "Rome print 7 December 1486 (farmer1998:28040-28042): correct. February 1487; 16 and 12; 2 March (copenhaver2022:514-515, 543-546): correct. Bull 4 August 1487, published four months later (farmer1998:1326-1327): correct. Innocent VIII's endorsement 1484, printed with the Malleus 1486 (copenhaver2019:16720-16722): correct. Cumulative 780 (farmer1998:25247): not used. 'twenty-six' magical conclusions (black2006:6717): correct. Wirszubski's verdict source pp. 130-131 (6279): correct.",
+ "voices": "Kept apart. Pico's Latin (Farmer; Apology via Wirszubski and Edelheit 2008) located; scholars (Farmer, Wirszubski, Copenhaver 2019/2022, Edelheit, Black, Cassirer, Blum, Yates via Farmer, Caroli) named with locators; historiography 8 marked as the editor's inference. doctrine 6 put an editorial reading in the thesis's mouth (corrected).",
+ "for_human_adjudication": [
+  "Historian: why the Apology passage printed by Wirszubski calls this the 'Quarta conclusio' damned (wirszubski1989:6252) while it is Q5 in the Apology's order (copenhaver2022:846) and 'the fifth' in Black and Edelheit; recorded in not_established.",
+  "Historian: identity of Copenhaver's Q11 (9>8 or 9>7), bearing on reception 5 ('true and tolerable', farmer1998:7080-7084); condemned_thirteen.json marks it unconfirmed."
+ ],
+ "promoted": true,
+ "summary": {
+  "claims_checked": 37,
+  "claim_verdicts": {
+   "SUPPORTED": 35,
+   "LINE OFF": 1,
+   "OVERREACH": 1
+  },
+  "quotations_checked": 14,
+  "quotation_verdicts": {
+   "verbatim": 14
+  }
+ },
+ "promoted_gate": "PASS"
+}

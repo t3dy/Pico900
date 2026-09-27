@@ -1,0 +1,13 @@
+{
+  "thesis_id": "28.15",
+  "tier": "B",
+  "latin": "Nisi nomen Abraam <Hebrew>, id est he addita, fuisset, Abraam non generasset.",
+  "latin_source": "farmer1998:17847",
+  "latin_note": "OCR turned Pico's Hebrew spelling of Abraham's name into the glyph run '< DINNIAN>' in the translation sheet (Farmer's own apparatus renders the same word as '<DNNIN>', farmer1998:17899); replaced here with '<Hebrew>'.",
+  "translation": "Had the name Abraham not been <the word in Hebrew>, that is, with a he added, Abraham would not have begotten.",
+  "translation_note": "The Hebrew word behind the glyph run is Abraham's name with the letter he added, per Gen. 17:5 as Farmer's note explains; sense checked against farmer1998:17899.",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T04b; sense checked against farmer1998:17899; awaiting human check",
+  "pico_stance": "reports",
+  "attribution": "reported according to the secret doctrine of the Hebrew Cabalist wise men (section 28 of the historical theses)",
+  "writer": "TRANSLATOR-T04b, 2026-09-26"
+}

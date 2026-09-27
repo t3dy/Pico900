@@ -1,0 +1,34 @@
+{
+  "thesis_id": "11>28",
+  "tier": "A",
+  "latin": "Per dictionem <Hebrew>, quae bis ponitur in illo textu, in principio creauit deus Caelum et Terram, ego credo significari a Moyse creationem naturae intellectualis et naturae animalis, quae naturali ordine praecessit creationem caeli et terrae.",
+  "latin_source": "farmer1998:27006",
+  "latin_note": "Where the print has a Hebrew word, Farmer's OCR gives the run '« IN2' (farmer1998:27006); Farmer's English prints the word as et (farmer1998:27064) and Wirszubski as 'et (wirszubski1989:8962). Two OCR defects are repaired, 'significan' to 'significari' and 'intellectualiset' to 'intellectualis et', as Wirszubski prints them (farmer1998:27007; wirszubski1989:8963).",
+  "translation": "The particle <'et>, set twice in the verse 'In the beginning God created heaven and earth', is in my belief Moses' sign for the creation of intellectual nature and of animal nature, which by the order of nature went before the creation of heaven and earth.",
+  "translation_note": "'natura animalis' is the nature of soul (anima), not of beasts; Farmer renders it 'animate' (farmer1998:27066). 'praecessit' is singular after a double subject, taken here as governing both natures. 'naturali ordine' is rendered literally; whether it implies priority in time is left open.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer's Latin, sense checked against farmer1998:27064; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion, stated in the first person ('ego credo'): Cabalistic conclusions confirming the Christian religion, section 11> (farmer1998:26227).",
+  "sources": [
+    {"text": "Abraham Abulafia, De Secretis Legis (Sitrei Torah) in the Latin of Flavius Mithridates, Vatican Hebrew manuscript 190, fol. 343r: Moses divided all that is into sensible and intelligible, and added the letters aleph, tau and he to 'heavens' and 'earth' in Gen. 1:1 to indicate a mystery", "locator": "wirszubski1989:10957", "pico_relation": "possible source; Wirszubski says he would be hard put to prove the link"}
+  ],
+  "doctrine": "Pico reads the Hebrew particle 'et, which stands twice in Gen. 1:1, before 'heaven' and before 'earth', as Moses' sign for two creations prior to the visible world, of the intellectual nature and of the animal nature, the nature of soul (farmer1998:27006; wirszubski1989:8960). Wirszubski explains that the particle is present only because of the definite article, 'et ha-samayim w-'et ha-ares, and that it drew the attention of Talmudists and Kabbalists alike (wirszubski1989:8967). Farmer calls 'et simply a definite article in Hebrew, infers that Pico planned to use pure word and letter symbolism, and judges the thesis pertinent to Pico's correlative cosmology (farmer1998:27042). The priority the thesis claims is 'in the order of nature'; the editor notes that the text does not say that intellect and soul were made earlier in time (farmer1998:27008). The next thesis, 11>29, applies the Cabalists' 'green line' that circles the universe to a conclusion drawn from Porphyry (farmer1998:27012). Farmer identifies that line with Binah, the third of the ten sefirot, the emanated powers of God that Pico's Latin sources call numerationes (farmer1998:27045; wirszubski1989:7451).",
+  "context": "Wirszubski suggests, while granting that he would be hard put to prove it, that the thesis harks back to Abulafia in the Latin translation of Flavius Mithridates, Vatican Hebrew manuscript 190, folio 343r, which he prints as Appendix 6 (wirszubski1989:8969; wirszubski1989:8988). In that passage of the De Secretis Legis Moses divides all that is into the sensible and the intelligible, calls the intelligibles elohim, and gives the sensibles the two names heaven and earth (wirszubski1989:10964; wirszubski1989:10970). The passage adds that Moses joined to both words the letters aleph, tau and he, 'eth assamaim veeth aares', to indicate a mystery that other languages cannot express (wirszubski1989:10974). The German study of Pico's epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) cites the thesis with Wirszubski and names the same passage of the De Secretis Legis as its source (kabbalah_paradigma:1511). Wirszubski takes the thesis as the first of nine that he examines to learn how Pico meant the Law to be read (wirszubski1989:8954).",
+  "reception": "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). Copenhaver lists it among five emphatic first-person statements about Kabbalah in the second group of theses, numbered T2K1, 2, 28, 48 and 68 in his notation (copenhaver2019:17047). He argues that such statements undermined Pico's plea that the Conclusions be read with academic neutrality (copenhaver2019:17044; copenhaver2019:17049).",
+  "historiography": "Wirszubski reads the thesis as a Kabbalistic reading that starts from a particle with no lexical meaning, part of his case that Pico knew mysteries could lie beneath the letters of the Law as well as beneath its sense (wirszubski1989:8861; wirszubski1989:8967). Farmer treats it as letter symbolism in the service of Pico's correlative cosmology (farmer1998:27042). The German study places it within a correspondence between the world soul and the Shechinah, the tenth sefirah, both of which close creation and begin its return to its divine origin (kabbalah_paradigma:1481; kabbalah_paradigma:1511). The editor notes that if Wirszubski's source is right, Pico turned Abulafia's division of being into intelligible and sensible into a claim about the order of creation, and that he signed it with the 'ego credo' Copenhaver singles out, so that the reading is offered as his own finding rather than as received Cabala (wirszubski1989:10964; copenhaver2019:17047).",
+  "connections": ["11>29", "11>30", "11>31", "11>1", "11>2", "11>48", "28.7", "22.12"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "It is possible, though I should be hard put to prove it, that the thesis harks back to Abulafia", "work": "wirszubski1989", "line": 8969, "verbatim": true},
+    {"text": "drew the attention of Talmudists and Kabbalists alike", "work": "wirszubski1989", "line": 8968, "verbatim": true}
+  ],
+  "not_established": [
+    "Whether Pico drew the thesis from the Abulafia passage; Wirszubski calls the link possible but unproven (wirszubski1989:8969).",
+    "Which of the two occurrences of 'et Pico assigned to which nature, and why intellect and soul rather than another pair.",
+    "Whether 'naturali ordine' implies priority in time as well as in rank."
+  ],
+  "writer": "WRITER-B4b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

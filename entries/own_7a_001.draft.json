@@ -1,0 +1,13 @@
+{
+ "thesis_id": "7a>1",
+ "tier": "C",
+ "latin": "Vtrum sit deus.",
+ "latin_source": "farmer1998:23816",
+ "latin_note": "Copy-text OCR gives 'sıt' (dotless i) for 'sit'; corrected as an obvious OCR artifact.",
+ "translation": "Whether there is a God.",
+ "translation_note": "Sense checked against Farmer's English at farmer1998:23866. This three-word question admits little variation; no accurate alternative wording was found.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T08b; sense checked against farmer1998:23866; awaiting human check",
+ "pico_stance": "unstated",
+ "attribution": "Pico's own list of questions to be answered through numbers (section 7a>)",
+ "writer": "TRANSLATOR-T08b, 2026-09-26"
+}

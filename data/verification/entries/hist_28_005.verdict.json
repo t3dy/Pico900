@@ -1,0 +1,312 @@
+{
+ "thesis_id": "28.5",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/hist_28_005.draft.json: 'PASS 28.5 hist_28_005.draft.json / 1/1 drafts pass the entry gate'; 44 locators; translation/Farmer similarity 0.61)",
+ "quotations": [
+  {
+   "text": "The direct source is Recanati, fol. 23vb, quoting the Zohar, part I, fol. 36r",
+   "work": "wirszubski1989",
+   "line": 1465,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "because everything is created by mediation",
+   "work": "wirszubski1989",
+   "line": 1472,
+   "verdict": "verbatim (1472-1473)"
+  },
+  {
+   "text": "demonstrably the direct source of some twenty-five theses",
+   "work": "wirszubski1989",
+   "line": 3121,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "fairly compatible with Pico’s “Cabbalistic” thesis 28.5",
+   "work": "dougherty2008",
+   "line": 2452,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Baum von Gut und Böse in der neunten Sefirah Jesod",
+   "work": "kabbalah_paradigma",
+   "line": 1476,
+   "verdict": "verbatim (German)"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:17547-17548",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The 1486 print reads 'soeculum'",
+   "locator": "farmer1998:17557",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's apparatus: '28.5. 1486 soeculum'."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Wirszubski prints the thesis without commas",
+   "locator": "wirszubski1989:1462-1463",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'cum arbore' is taken as instrumental",
+   "locator": "wirszubski1989:1467",
+   "verdict": "SUPPORTED",
+   "note": "'With this tree God created the world'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'saeculum' is rendered 'world'",
+   "locator": "farmer1998:27137-27138",
+   "verdict": "SUPPORTED",
+   "note": "11>36: 'quod deus induit se decem uestimentis quando creauit saeculum'."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "The Hebrew Cabalist wise men: fifth of the forty-seven",
+   "locator": "farmer1998:17476-17479; farmer1998:17547",
+   "verdict": "SUPPORTED",
+   "note": "Section heading (Farmer's English): 'Forty-seven Cabalistic conclusions according to the secret doctrine of the Hebrew Cabalist wisemen'."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Menahem Recanati, Commentary on the Torah, fol. 23vb",
+   "locator": "wirszubski1989:1465",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Zohar, part I, fol. 35v-36r, on the tree 'in which death dwells'",
+   "locator": "wirszubski1989:1446",
+   "verdict": "OVERREACH",
+   "note": "Wirszubski gives 'Sefer ha-Zohar [part I, fol. 35v]' for this passage (1446-1447); fol. 36r belongs to the 28.5 passage (1465). Folio range should be 35v."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Wirszubski identifies the direct source",
+   "locator": "wirszubski1989:1465",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In that passage the serpent tells the woman",
+   "locator": "wirszubski1989:1467-1470",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Recanati adds, in Wirszubski's translation",
+   "locator": "wirszubski1989:1470-1473",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis reports the proposition that Recanati approves",
+   "locator": "farmer1998:17547-17548; wirszubski1989:1467-1474",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference; accurate comparison."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer reads the tree as the sefirot",
+   "locator": "farmer1998:17608-17609",
+   "verdict": "SUPPORTED",
+   "note": "The gloss 'emanated states of God's nature' is in Farmer's note on 28.3 (17608-17609); the note on 28.5 (17623) reads 'The sefirot again as the \"tree of paradise.\"'"
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "which the Kabbalah also figures as the 'tree of paradise'",
+   "locator": "farmer1998:17618-17619; farmer1998:17623",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "On his gloss the thesis means",
+   "locator": "farmer1998:17623-17624",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The preceding thesis supplies the other face",
+   "locator": "farmer1998:17544; farmer1998:17617-17620",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Its Zoharic source, as Recanati quotes it",
+   "locator": "wirszubski1989:1446-1453",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Read together, 28.4 and 28.5",
+   "locator": "wirszubski1989:1449-1453; wirszubski1989:1471-1473",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer states that every thesis of this section",
+   "locator": "farmer1998:17435-17436",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Wirszubski judged Recanati",
+   "locator": "wirszubski1989:3119-3123",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer accepts that Pico drew on Recanati",
+   "locator": "farmer1998:17484-17486",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "He rejects Wirszubski's claim",
+   "locator": "farmer1998:17441-17451",
+   "verdict": "SUPPORTED",
+   "note": "'Wirszubski's claim about Pico's dependence on Mithridates' translations is seriously flawed' ... Gaffarel's descriptions show the translation 'was not completed until many months after Pico's theses went to press'."
+  },
+  {
+   "field": "context",
+   "sentence_start": "In the second Cabalistic set, speaking for himself",
+   "locator": "farmer1998:27129-27138",
+   "verdict": "SUPPORTED",
+   "note": "11>35-36 (OCR '11235', '11236')."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer cross-refers 28.5 to those theses",
+   "locator": "farmer1998:17624-17626",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Wirszubski identifies the ten garments",
+   "locator": "wirszubski1989:11969-11972",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Paul Richard Blum, in the essay",
+   "locator": "dougherty2008:115-116; dougherty2008:2446-2451",
+   "verdict": "SUPPORTED",
+   "note": "Table of contents: '3. Pico, Theology, and the Church ... Paul Richard Blum'. Blum: 'A few years later, Pico would participate in a disputation organized by Lorenzo de' Medici ...'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He reports that Poliziano there maintained",
+   "locator": "dougherty2008:2450-2453",
+   "verdict": "SUPPORTED",
+   "note": "Blum's 'the thesis is fairly compatible' refers to the debated proposition; the entry's 'that proposition' is a fair reading."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "His footnote rests on Farmer's note",
+   "locator": "dougherty2008:2472-2474",
+   "verdict": "SUPPORTED",
+   "note": "n. 30."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum calls 28.5 Pico's thesis",
+   "locator": "dougherty2008:2452; farmer1998:17476-17479",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial observation. Blum's wording is 'Pico's \"Cabbalistic\" thesis 28.5', with the scare quotes; a human may judge whether the observation is fair to Blum."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Wirszubski's contribution is the identification",
+   "locator": "wirszubski1989:1465; wirszubski1989:3142-3145",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer gives the thesis a systematic reading",
+   "locator": "farmer1998:17623-17624",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The German study of Pico as the model for Ricci",
+   "locator": "kabbalah_paradigma:19-36; kabbalah_paradigma:1499-1501",
+   "verdict": "SUPPORTED",
+   "note": "'Als Paradigma für Ricci ...'; n. 88 pairs 23.2 ('Opifex sensibilis mundi septimus est hierarchiae intellectualis') with 28.5."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "It reads the tree of good and evil as the ninth sefirah",
+   "locator": "kabbalah_paradigma:1472-1476",
+   "verdict": "SUPPORTED",
+   "note": "'der inhärente und zugleich demiurgenhafte Intellekt, den Pico als >siebte Intelligenz< und als Baum von Gut und Böse in der neunten Sefirah Jesod erkennt'."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The two readings disagree",
+   "locator": "farmer1998:17623; kabbalah_paradigma:1476",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The Zohar passage behind 28.4",
+   "locator": "wirszubski1989:1447-1451",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows Pico taking over a Zoharic claim",
+   "locator": "wirszubski1989:1471-1473; wirszubski1989:11969-11972",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Whether Pico read Recanati in Hebrew",
+   "locator": "farmer1998:17488-17496",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against farmer1998:17547-17548 and the sense of Farmer's English at 17601-17602. 'cum arbore' as instrumental is justified by the source; 'scientiae boni et mali' as 'knowing good and evil' is acceptable; relative clause kept. Presented throughout as a reported doctrine of the Cabalists (pico_stance 'reports'); the voices of Pico, the scholars and the editor are kept apart; every scholar named carries a locator."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "One folio number narrowed. Human to adjudicate: the author of kabbalah_paradigma is not identified (the entry says so correctly); and whether the editorial observation on Blum's 'Pico's \"Cabbalistic\" thesis' is fair, given Blum's scare quotes.",
+ "corrections": [
+  {
+   "field": "sources",
+   "replace": "Zohar, part I, fol. 35v-36r",
+   "with": "Zohar, part I, fol. 35v"
+  }
+ ]
+}

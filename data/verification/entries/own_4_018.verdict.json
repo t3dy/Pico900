@@ -1,0 +1,373 @@
+{
+ "thesis_id": "4>18",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_018.draft.json` printed 'PASS 4>18 own_4_018.draft.json' / '1/1 drafts pass the entry gate'; 57 locators; note 'translation/Farmer similarity 0.10'",
+ "quotations": [
+  {
+   "text": "erroneous and savoring of heresy",
+   "work": "farmer1998",
+   "line": 21896,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "in error and suggestive of heresy",
+   "work": "copenhaver2022",
+   "line": 11516,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "along with its corollary",
+   "work": "copenhaver2022",
+   "line": 11515,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Erroneous and smacks of heresy",
+   "work": "dougherty2008",
+   "line": 2211,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "tyrannical command of the will",
+   "work": "farmer1998",
+   "line": 21894,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "almost the whole University held this view",
+   "work": "copenhaver2022",
+   "line": 10729,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "never seemed right or acceptable to me",
+   "work": "copenhaver2022",
+   "line": 10863,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "not only Catholic but absolutely correct",
+   "work": "copenhaver2022",
+   "line": 11516,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "sine rationis persuasione aut motivo",
+   "work": "edelheit2008",
+   "line": 17647,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "denying that people have this freedom that Aquinas had confirmed",
+   "work": "copenhaver2022",
+   "line": 12270,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "expedient, not principled",
+   "work": "copenhaver2022",
+   "line": 12232,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "philosopher of will",
+   "work": "farmer1998",
+   "line": 5972,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998, thesis farmer1998:21862-21866, corollary farmer1998:21869",
+   "locator": "farmer1998:21862-21866; farmer1998:21869-21870",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The underscores in the OCR ('praecise_quia', 'uerum_quando') are scanning artefa",
+   "locator": "edelheit2022:21290-21295",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit's transcription (edelheit2022:21290-21295) cites 'Pico, 900 Theses, p. 430', i.e. Farmer's edition."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The corollary is included because the censure concerned it (dougherty2008:2208-2",
+   "locator": "dougherty2008:2208-2211; copenhaver2022:11515-11516",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "In the Apology Pico omitted the preamble ('Dico probabiliter ... et est') and re",
+   "locator": "copenhaver2022:10135-10148",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'praecise' is rendered 'exactly and only', following Copenhaver's analysis of th",
+   "locator": "copenhaver2022:10769-10777",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The preamble is taken with 'in oppositum' governing the theologians' common mann",
+   "locator": "farmer1998:21910-21912; copenhaver2022:10139-10140; farmer1998:21862-21863",
+   "verdict": "SUPPORTED",
+   "note": "Accurately reports Farmer's sense (21910-21912) and Copenhaver's rendering (10139-10140); the judgement against Copenhaver is marked as editorial. For a Latinist to adjudicate."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'assero' and 'probabile': Pico asserts only that the dictum is probable, not the",
+   "locator": "farmer1998:21862-21864",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion, among the theological conclusions 'rather opposed to the com",
+   "locator": "farmer1998:21490-21494, 21862",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis turns on the difference between assent and assertion: to assent is to",
+   "locator": "copenhaver2022:5735-5740, 5753-5755; farmer1998:21862-21864",
+   "verdict": "OVERREACH",
+   "note": "The definitions are supported (copenhaver2022:5738-5740 via Alston and Cohen; 5753-5755), and 'assero ... probabile' is at farmer1998:21863-21864. But the framing 'The thesis turns on the difference between assent and assertion' is unmarked editorial inference: Copenhaver draws the distinction for Q4 (4>13) and says only that Pico defers 'deeper epistemic questions involving assent' to Q8 (5712-5715). Framing clause removed."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Copenhaver notes that Pico's defence of Q4 passes over the epistemic questions o",
+   "locator": "copenhaver2022:5712-5715",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Aquinas had defined faith as an act of the intellect assenting to divine truth f",
+   "locator": "copenhaver2022:5735-5737",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Against that background the thesis makes a two-part claim: as no one holds an op",
+   "locator": "farmer1998:21864-21866; copenhaver2022:10763-10777",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The corollary applies this to faith and denies what Copenhaver calls doxastic vo",
+   "locator": "farmer1998:21869-21870; copenhaver2022:1413-1416",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Before the commission Pico said that although every act of belief is 'in our pow",
+   "locator": "farmer1998:21892-21895",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's quotation reads 'is said to be truly in our power' (21892-21893); the entry's shortening does not change the sense."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In the Apology he cited Aristotle's De anima through Averroes for the first part",
+   "locator": "copenhaver2022:11521-11529",
+   "verdict": "SUPPORTED",
+   "note": "The Apology names 'Aristotle in his second book On the Soul, in the text of comment 153' (copenhaver2022:11524); 'through Averroes' is the editor's identification of the commentary, reasonable but not stated at the locator."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Augustinian principle as Pico gives it is that no one can believe from mere ",
+   "locator": "edelheit2008:17644-17647",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer calls the thesis intellectualist: it held that not even dogmas could be a",
+   "locator": "farmer1998:5974-5977",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico recalled that when he was in Paris 'almost the whole University held this v",
+   "locator": "copenhaver2022:10728-10731",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Of the six medieval theologians named in Q8, only Albert the Great was not famou",
+   "locator": "copenhaver2022:10719-10722",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico modelled Q8 on Robert Holcot, who held without qualification that the act o",
+   "locator": "copenhaver2022:10860-10864, 11328-11329",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "He argued that Holcot had never been condemned for it, so that his own narrower ",
+   "locator": "copenhaver2022:11360-11365",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The commission included the Thomist Bishop Pedro Garcia, who later devoted thirt",
+   "locator": "copenhaver2022:10678-10681, 1449-1451",
+   "verdict": "SUPPORTED",
+   "note": "Garcia a Thomist (copenhaver2022:549); thirty-one pages for Pico's five (1449-1451)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission found the thesis 'erroneous and savoring of heresy' (farmer1998:2",
+   "locator": "farmer1998:21895-21896",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico reported that the judges condemned the proposition 'along with its corollar",
+   "locator": "copenhaver2022:11515-11516",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum's translation of the record lists the corollary alone as the censured item,",
+   "locator": "dougherty2008:2208-2211",
+   "verdict": "SUPPORTED",
+   "note": "Blum's list: dougherty2008:2208-2211; Blum identified as the chapter's author at 2043."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Garcia's own analysis separated the two: the main conclusion might be acceptable",
+   "locator": "copenhaver2022:10813-10819",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Garcia, citing Aquinas, argued that believing as one wishes is in the will's fre",
+   "locator": "copenhaver2022:10678-10713",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum notes that Garcia met Pico's argument by adding a third element, the infuse",
+   "locator": "dougherty2008:2354-2363",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico called the main conclusion 'not only Catholic but absolutely",
+   "locator": "copenhaver2022:11516-11517",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer judges that the Apology moderated Pico's views somewhat, though his final",
+   "locator": "farmer1998:21896-21898",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer uses the thesis against the Burckhardtian image of Pico as the archetypal",
+   "locator": "farmer1998:5970-5977",
+   "verdict": "LINE OFF",
+   "note": "'Burckhardtian' is at farmer1998:5967 (in the scholarly thesis Farmer criticises, 5965-5969), outside the cited range 5970-5977. Relocate to 5965-5977."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver agrees that the Apology argued there was no human will to believe, 'd",
+   "locator": "copenhaver2022:12247-12252, 12266-12271",
+   "verdict": "SUPPORTED",
+   "note": "copenhaver2022:12247-12252, 12266-12271."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He adds that Pico's alliances with Holcot and others were 'expedient, not princi",
+   "locator": "copenhaver2022:12232-12234",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Blum reads Garcia's appeal to infused faith as pushing the debate toward the Ref",
+   "locator": "dougherty2008:2361-2366",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis that Farmer sets against the image of Pico as a philosopher of will i",
+   "locator": "farmer1998:5970-5977; copenhaver2022:12266-12271",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference; premises located."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "'erroneous and savoring of heresy' (farmer1998:21895-21896); Pico's report in th",
+   "locator": "farmer1998:21895-21896; copenhaver2022:11515-11516; dougherty2008:2183, 2208-2211",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21862-21866 and corollary at 21869-21870 match. Sense agrees with Farmer's English at 21910-21916 (sense only) in construing the preamble: Pico would assert firmly were the theologians' common way of speaking not opposed. 'praecise' as 'exactly and only' follows copenhaver2022:10776-10777 and is declared. 'quando placet' / 'quando sibi placet' both 'when he likes': no loss. Qualifiers 'probabiliter', 'in se', 'praecise' all kept. Copenhaver's rendering of the preamble ('I would assert the opposite firmly', 10139) differs from Farmer's and the entry's; see adjudication."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "type": "remove",
+   "old": "The thesis turns on the difference between assent and assertion: to assent is to accept a proposition, while to assert is to put it forward as one's own claim, and Pico here asserts only that his dictum is probable (copenhaver2022:5735-5740, 5753-5755; farmer1998:21862-21864).",
+   "new": "To assent is to accept a proposition, while to assert is to put it forward as one's own claim, and Pico here asserts only that his dictum is probable (copenhaver2022:5735-5740, 5753-5755; farmer1998:21862-21864)."
+  },
+  {
+   "field": "historiography",
+   "type": "relocate",
+   "old": "Farmer uses the thesis against the Burckhardtian image of Pico as the archetypal 'philosopher of will', a reading he traces to misreadings of the first pages of the Oration (farmer1998:5970-5977).",
+   "new": "Farmer uses the thesis against the Burckhardtian image of Pico as the archetypal 'philosopher of will', a reading he traces to misreadings of the first pages of the Oration (farmer1998:5965-5977)."
+  }
+ ],
+ "dates_numbers": "Garcia 1489 and 'thirty-one pages' vs 'five' (copenhaver2022:1449-1451): correct. d'Ailly d. 1420 (10730-10731): not used in prose. Commission p. 129, Dorez-Thuasne p. 124 (farmer1998:21895): consistent. 'six medieval theologians' (10719-10721): correct. 'nineteen words' (10771): not used.",
+ "voices": "Kept apart. Pico's words: Latin thesis and corollary, the notarial record via Farmer, the Apology via Copenhaver and Edelheit (2008). Scholars (Farmer, Copenhaver, Blum, Edelheit, Garcia) named with locators. historiography 5 and translation_note 2 are marked as editorial; doctrine 1's framing was unmarked (corrected).",
+ "for_human_adjudication": [
+  "Latinist: the preamble 'nisi esset communis modus dicendi theologorum in oppositum, firmiter assererem'. The entry and Farmer read 'in oppositum' with the theologians' manner of speaking (Pico would assert his dictum firmly); Copenhaver renders 'I would assert the opposite firmly except that theologians generally say it that way' (copenhaver2022:10139-10140). The entry's translation_note 2 sides with Farmer.",
+  "Historian: whether the commission censured 4>18 with its corollary (Pico's report, copenhaver2022:11515-11516; Farmer 21895-21896) or the corollary alone (Blum's list, dougherty2008:2208-2211). The entry records both without deciding; Dorez and Thuasne p. 129 is not in the corpus."
+ ],
+ "promoted": true,
+ "summary": {
+  "claims_checked": 36,
+  "claim_verdicts": {
+   "SUPPORTED": 34,
+   "OVERREACH": 1,
+   "LINE OFF": 1
+  },
+  "quotations_checked": 12,
+  "quotation_verdicts": {
+   "verbatim": 12
+  }
+ },
+ "promoted_gate": "PASS"
+}

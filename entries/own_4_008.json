@@ -1,0 +1,112 @@
+{
+  "thesis_id": "4>8",
+  "tier": "A",
+  "latin": "Christus non ueraciter et quantum ad realem presentiam descendit ad inferos ut ponit Thommas et communis uia, sed solum quo ad effectum.",
+  "latin_source": "farmer1998:21657-21658",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:21657-21658), with Farmer's u for v; to be collated against the Rome print of 7 December 1486 (farmer1998:28040-28041). Farmer judges the punctuation of the editio princeps ambiguous, as in 4>1, and reports that Pico changed the punctuation of his theses to suit his defence (farmer1998:21690-21691; farmer1998:10115-10117). The Apology as printed in the Opera, quoted by Edelheit, punctuates 'Christus, non veraciter et quantum ad realem praesentiam, descendit ad inferos: ut ponit Thomas [...] et communis via, sed solum, quo ad effectum' (edelheit2008:15190-15192). Pico's restatement later in the Apology places 'ut ponit Thomas et communis via' before 'descendit ad inferos' (edelheit2022:7968-7970; copenhaver2022:1991-1993). Garsia's quotation of the thesis reads 'secundum realem presentiam' for 'quantum ad realem presentiam' (edelheit2022:19559-19560).",
+  "translation": "Christ did not go down to the underworld truly and as regards real presence, as Thomas and the common way hold, but only as regards effect.",
+  "translation_note": "'Ad inferos' ('to those below') is rendered 'to the underworld'; Copenhaver translates 'to Hell' and gives the Creed's own wording as 'descendit ad inferna' (copenhaver2022:1328). 'Veraciter' and 'quantum ad realem presentiam' qualify the manner of the descent, not its fact: in the Apology Pico construed the negation as falling on a coupled extreme (copulatus extremus), so that the thesis denies only that Christ descended truly and by real presence in the manner Thomas describes (copenhaver2022:1995-2007). 'Communis via' is kept as 'the common way', the name for a shared school position; Pico identified it in the Apology as the way of Scotus, Bonaventure, all the Scotists and almost all the nominalists, now commonly held at Paris (edelheit2022:7971-7975; copenhaver2022:1629-1631).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-A1), checked against the sense of Farmer's English at farmer1998:21714; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: section 4> of the theses, headed 'Conclusiones in theologia numero XXXI secundum opinionem propriam, a communi modo dicendi theologorum satis diversam' (farmer1998:21432-21435). The thesis names Thomas and the common way as the position it rejects (farmer1998:21657-21658).",
+  "sources": [
+    {
+      "text": "Thomas Aquinas, Sentences 3, d. 22, q. 2 (Farmer's 'Cf.')",
+      "locator": "farmer1998:21691-21692",
+      "pico_relation": "the Thomist position the thesis rejects"
+    },
+    {
+      "text": "Thomas Aquinas, Summa theologiae 3.52.2, on Christ's essential and effective presence in the parts of hell",
+      "locator": "copenhaver2022:1293-1316",
+      "pico_relation": "the account whose manner of presence the thesis denies"
+    },
+    {
+      "text": "Durand of Saint-Pourcain, commentary on Sentences 3.22.3, quoted at length in the Apology",
+      "locator": "copenhaver2022:1475-1483",
+      "pico_relation": "quoted and praised, then disowned ('which I do not hold')"
+    },
+    {
+      "text": "Guido Terrena, Summa on heresies",
+      "locator": "copenhaver2022:1144-1146",
+      "pico_relation": "several paragraphs of the Apology's Q1 taken verbatim; named once"
+    },
+    {
+      "text": "Godfrey of Fontaines, quodlibetal question on the Paris articles of 1277",
+      "locator": "copenhaver2022:1828-1835",
+      "pico_relation": "used to discredit the 1277 articles cited against Pico"
+    },
+    {
+      "text": "Henry of Ghent, Quodlibet 2.9, on the location of angels",
+      "locator": "copenhaver2022:1957",
+      "pico_relation": "cited in the Apology's metaphysical section"
+    },
+    {
+      "text": "William of Ockham, Dialogus",
+      "locator": "copenhaver2022:2082-2085",
+      "pico_relation": "invoked at the end of Q1 for the priority of the speaker's intention over common usage"
+    }
+  ],
+  "doctrine": "The thesis concerns the descensus ad inferos, the clause of the Apostles' Creed stating that Christ descended into hell, placed by the tradition in the triduum, the three days between his death and his resurrection (copenhaver2022:1264-1266; copenhaver2022:1160-1162). Since Christ's body lay in the tomb, only his soul went down, and a soul parted from its body was classed with angels as a separated substance, a spirit without bodily dimension (copenhaver2022:1318-1320; copenhaver2022:1881-1884). Aquinas held that Christ was in hell both essentially and by effect: essentially in the region where the just Fathers were held, by effect in every region (copenhaver2022:1294-1316). Pico's thesis denies that the descent was true and by real presence in the way Thomas and the common way describe, and grants it only as to effect (farmer1998:21657-21658). Farmer reports from the notarial record that Pico's first oral answer was that a separated substance admits no local motion, so that Christ's soul could be in hell only by working effects there (farmer1998:21692-21695). In the Apology Pico restated the position through the scholastic analysis of place: a separated substance is truly present to a place definitively (by delimitation), as a body is present commensuratively (by sharing a measure), and in this he agreed with the Scotists (edelheit2022:7879-7882; copenhaver2022:1940-1943). He parted from them over the ground (ratio) of that presence: for the Scotists it was the limitation of the spirit's own essence, for Pico the operation passing outward from it, as a body's ground of location is its quantity and not its substance (edelheit2022:7882-7887; edelheit2022:7921-7922). Farmer describes this as a change of tactic, in which Pico no longer denied a real presence but made Christ's operation its cause (farmer1998:21698-21701). Pico also argued that the article of faith binds a Christian to believe that Christ descended, not to believe explicitly any particular manner of descent (edelheit2008:15179-15182; copenhaver2022:1332-1337).",
+  "context": "Nine of the thirteen censured theses came from this section of Pico's own theological opinions, which Farmer describes as suspect because a layman of twenty-three had composed it (farmer1998:21461-21464). Innocent VIII created the commission in February 1487, and twelve of its sixteen members attended the first meeting on 2 March under Bishop Jean Monissart (copenhaver2022:514-515; copenhaver2022:545-547). In the Apology, whose order Copenhaver calls nearly the commission's order of inquiry, the descent stands first; in the printed Conclusions it had stood fifth among the censured propositions (copenhaver2022:841-846; copenhaver2022:1252-1253). Copenhaver explains the judges' choice of hell as their opening charge by the case of Reginald Pecock, bishop of Chichester, whose rejection of the descent clause as unapostolic was central to his disgrace after proceedings begun in 1457 (copenhaver2022:1181-1192; copenhaver2022:1236-1238). He judges the doctrine secondary as dogma, noting that Guido Terrena's Summa placed its denial among the heresies without names (copenhaver2022:1137-1140; copenhaver2022:1163-1166). The Paris articles of 1277 on the location of separated substances were used against Pico, who answered with Godfrey of Fontaines that the articles needed correction and contradicted one another (copenhaver2022:1795-1797; copenhaver2022:1830-1834). He added the English saying that the articles did not cross the sea, and said that they did not cross the Alps either (edelheit2022:20109-20113; dougherty2008:2309-2313).",
+  "reception": "On 5 March 1487 the commission ruled unanimously that the thesis, strictly speaking and by the force of its words, was false, erroneous, heretical and contrary to the truth of Scripture, whatever explanation Pico had given (copenhaver2022:1272-1281; farmer1998:21696-21697). Copenhaver notes that this verdict of heresy was harsher than the 'erroneous' pronounced on Q6 (copenhaver2022:8641-8643). Pico spent twenty-two pages of small type on this question and divided it into four parts: his meaning, why the thesis was not heretical by the force of its words, why he could defend it from heresy, and why the judges' decision was rash (copenhaver2022:1373-1375; copenhaver2022:1535-1543). The last part widened into the limits of the Church's power to compel belief (copenhaver2022:1393-1398). He conceded that this thesis gave the prosecution its best ammunition, and turned the judges' criterion of strict verbal force against them with the logic of the coupled extreme (copenhaver2022:1566-1567; copenhaver2022:1970-1973; copenhaver2022:1995-2007). Farmer finds here Pico's most violent attacks on the Thomists and the Dominican order (farmer1998:21701-21702; farmer1998:3039-3042). The commissioner Pedro Garsia answered in his Determinationes magistrales of 1489 that the thesis denied Christ a true local motion and a real presence where the souls of the just were held (copenhaver2022:548-550; edelheit2022:20143; edelheit2022:19541-19547). The Dominican Giovanni Caroli, in a treatise edited by Daniele Conti, required that the article be held simply, without inquiry into the manner of descent (edelheit2022:21197; edelheit2022:21240-21245; edelheit2022:21361-21372).",
+  "historiography": "Copenhaver reads Q1 as scholastic through and through: all its authority is scholastic, patristic or biblical, and some two dozen medieval masters and schools are named in it (copenhaver2022:1736-1743). He explains Pico's turn from Christ's soul to angels by caution and by the far larger literature on angels (copenhaver2022:1875-1893), and he calls Pico's alliance with Durand, quoted at length and then disowned, expedient rather than principled (copenhaver2022:12232-12236). Farmer stresses the retreat from the thesis in the Apology and warns that the Apology and the notarial record must be read with more caution than earlier analyses showed (farmer1998:21698-21701; farmer1998:21466-21471). Edelheit (2008) takes this question as the first place where Pico separates revealed truth from theological opinion, defending the thesis as far more probable (probabilior) than its opposite (edelheit2008:15170-15174; edelheit2008:15183-15185). Blum and Edelheit (2022) both report Pico's statement that he presented the thesis as probable only out of respect for Paris (dougherty2008:2338-2342; edelheit2022:7947-7952). Edelheit (2022) observes that Garsia tied the common way to Thomas when answering Q1, yet by using the 1277 articles as his criterion made the Scotist and nominalist views the acceptable ones (edelheit2022:20083-20089; edelheit2022:20124-20129). The editor infers that Q1 is where Pico first turned a charge about a doctrine into a dispute about the judges' own criterion, the strict force of words, a move he repeated at the close of Q4 (copenhaver2022:1970-1973; copenhaver2022:6894-6898).",
+  "connections": [
+    "4>9",
+    "1>17",
+    "4>1",
+    "4>13",
+    "4>14",
+    "4>18"
+  ],
+  "condemned_flag": true,
+  "commission_verdict": "\"false, erroneous, heretical and contrary to the truth of sacred scripture\", secundum rigorem sermonis and ex vi verborum, recorded 5 March 1487 (copenhaver2022:1276-1281); Farmer's rendering of the same record at farmer1998:21696-21697.",
+  "quotations": [
+    {
+      "text": "false, erroneous, heretical and contrary to the truth of sacred scripture",
+      "work": "copenhaver2022",
+      "line": 1277,
+      "verbatim": true
+    },
+    {
+      "text": "no one should understand me to say that Christ’s soul did not descend into Hell",
+      "work": "copenhaver2022",
+      "line": 1271,
+      "verbatim": true
+    },
+    {
+      "text": "not a movement in place going on in Christ’s soul but an effect that his soul has on those who need to be saved",
+      "work": "copenhaver2022",
+      "line": 1482,
+      "verbatim": true
+    },
+    {
+      "text": "so it was befitting for Christ’s soul to have been in Hell",
+      "work": "copenhaver2022",
+      "line": 1944,
+      "verbatim": true
+    },
+    {
+      "text": "tamen ratio ei essendi in loco non est sua substantia, sed operatio eius ab ea transiens ad extra",
+      "work": "edelheit2022",
+      "line": 7921,
+      "verbatim": true
+    },
+    {
+      "text": "est negare a Christo verum motum localem descendendi ad inferos",
+      "work": "edelheit2022",
+      "line": 19560,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The notarial record (Dorez and Thuasne 1897) is not in the corpus; Pico's oral answer and the verdict are reported here only through Farmer (farmer1998:21692-21697) and Copenhaver (copenhaver2022:1272-1281).",
+    "Which marks of punctuation in the 1486 print Farmer judges intentionally ambiguous is not established by the sources consulted (farmer1998:21690-21691).",
+    "Aquinas's Sentences 3, d. 22, q. 2 and Summa theologiae 3.52.2 were not opened; Thomas's position is reported through Copenhaver and Farmer.",
+    "Whether the thesis as printed in 1486 (as distinct from the Apology's defence of it) drew on Durand or Guido Terrena is not established by the sources consulted.",
+    "Garsia's Determinationes magistrales and Caroli's treatise were not opened; both are known here only through Edelheit (2022).",
+    "The Latin of the Apology's Q1 is available in the corpus only in excerpts quoted by Edelheit; Fornaciari's edition survives in the corpus as front matter and contents only (fornaciari2010:1033)."
+  ],
+  "writer": "WRITER-A1 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V1",
+  "verified_date": "2026-09-26"
+}

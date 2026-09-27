@@ -1,0 +1,248 @@
+{
+ "thesis_id": "9>4",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/own_9_004.draft.json: 'PASS 9>4 own_9_004.draft.json / 1/1 drafts pass the entry gate'; 31 locators; translation/Farmer similarity 0.54)",
+ "quotations": [
+  {
+   "text": "our obligation to operate magic in the world",
+   "work": "farmer1998",
+   "line": 25179,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the highest point of all philosophy",
+   "work": "mandosio2012",
+   "line": 567,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Dato quocunque obiecto practicabili, nobilior est operatio",
+   "work": "farmer1998",
+   "line": 20976,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:25125-25126; farmer1998:28040-28042",
+   "verdict": "SUPPORTED",
+   "note": "OCR 'conclusione_et' at 25125 confirmed."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The numeral '.xlvii.' is the reading of the print",
+   "locator": "farmer1998:25175-25176",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Mandosio prints 'paradoxica'",
+   "locator": "mandosio2012:564-565",
+   "verdict": "SUPPORTED",
+   "note": "'conclusione paradoxica dogmatizante .xlvii. [sic]'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'conclusio paradoxa dogmatizans' refers to the section",
+   "locator": "farmer1998:23418-23419",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'ex ista conclusione' is 9>3",
+   "locator": "farmer1998:25175",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The numeral is kept as printed; Copenhaver's translation silently gives 'number 46'",
+   "locator": "copenhaver2019:20288-20289",
+   "verdict": "SUPPORTED",
+   "note": "T2M4: 'From this conclusion and number 46 of the unusual theses on new doctrine'."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the fourth magical conclusion",
+   "locator": "farmer1998:25125-25126",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Thesis 3>46",
+   "locator": "farmer1998:20976",
+   "verdict": "SUPPORTED",
+   "note": "Latin verbatim at 20976-20977."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis is a syllogism stated in one sentence",
+   "locator": "farmer1998:25122-25126; farmer1998:20976-20977",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer reads the pair 9>3-4 as claiming",
+   "locator": "farmer1998:25178-25179",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Taken together, he writes",
+   "locator": "farmer1998:7262-7263",
+   "verdict": "SUPPORTED",
+   "note": "'these theses' are the list at 7233-7260, which includes 9>3 and 9>4 (7235-7238)."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The operation required is not the mastery of nature",
+   "locator": "farmer1998:7272-7276",
+   "verdict": "SUPPORTED",
+   "note": "Farmer says mankind is ruled by the lowest order of angels and governs the material world; the magus, as a man, falls under it."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Oration uses the same image",
+   "locator": "copenhaver2019:19627-19628",
+   "verdict": "SUPPORTED",
+   "note": "Oration 59: 'the magus is Nature's minister, not her Artificer'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Copenhaver reads the nobility differently",
+   "locator": "copenhaver2019:17648-17653",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver's height argument explains Pico's defence of T2M9 (certainty); of T2M4 he says only that it 'follows from a related line of reasoning' (17652-17653). He does not set his reading against another ('differently')."
+  },
+  {
+   "field": "context",
+   "sentence_start": "The cross-reference is faulty",
+   "locator": "farmer1998:25175-25178",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "In his note on the editio princeps Farmer argues",
+   "locator": "farmer1998:23416-23421",
+   "verdict": "SUPPORTED",
+   "note": "This is Farmer's introductory note to 6>1-10 (on the printers' change of manuscript), not a note 'on the editio princeps' as such; the content (two theses from 4>1-29, one from 3>1-71; theses added or subtracted while in press) is accurate."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico's own copy of the text was numbered",
+   "locator": "farmer1998:2133-2135",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "For Pico natural philosophy",
+   "locator": "farmer1998:7220-7223",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico repeated the claim",
+   "locator": "mandosio2012:566-568",
+   "verdict": "NOT SUPPORTED",
+   "note": "Of the two formulas Mandosio quotes, only 'apicem et fastigium totius philosophiae' ('the highest point of all philosophy') is from the Apology (ibid., V, p. 170; Farmer gives 'Apology, in Opera, 170' at farmer1998:7252). 'the absolute fulfillment of natural philosophy' renders 'nihil est aliud, cum bene exploratur, quam naturalis philosophiae absoluta consummatio' (Pico [1969], p. 120), which is the Oration (cf. copenhaver2019:19585-19586, 'nothing more than the final realization of natural philosophy')."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The editors of the Cambridge Oration record",
+   "locator": "borghesi2012:4531-4537",
+   "verdict": "SUPPORTED",
+   "note": "Borghesi, Papio and Riva 2012 (Cambridge Core headers confirm the publisher)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer uses the pair 9>3-4 against Yates's claim",
+   "locator": "farmer1998:7262-7270",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The operative side of Pico's magic, he argues",
+   "locator": "farmer1998:7280-7289",
+   "verdict": "LINE OFF",
+   "note": "Fall and redemption at 7280-7289; the phrase 'the magus as cosmic priest' is at farmer1998:7347 (also 8000). Locator should read farmer1998:7280-7289; farmer1998:7347."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver derives the thesis from the reasoning",
+   "locator": "copenhaver2019:17643-17653",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver says T2M4 'follows from a related line of reasoning', not from the reasoning of the defence of 9>9 itself; duplicate of the doctrine sentence."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Mandosio states the general principle",
+   "locator": "mandosio2012:563-568",
+   "verdict": "OVERREACH",
+   "note": "The principle (3>46) is supported; 'quotes both formulas from the Apology' is not: the first formula is from the Oration (see reception)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows Pico building a claim",
+   "locator": "farmer1998:25175-25178; farmer1998:23416-23421",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference. 'censorship he imposed on his own text' goes a step beyond Farmer's 'presumably due to theological dangers' (23421-23422) and 'almost surely for theological reasons' (1487), but is labelled inference."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Why the thesis was dropped",
+   "locator": "borghesi2012:4537",
+   "verdict": "OVERREACH",
+   "note": "The Oration's editors (Borghesi, Papio, Riva) are not 'Farmer's editors'. Farmer's own statement is at farmer1998:1486-1487: 'one thesis was removed from this section while the work was in press, almost surely for theological reasons. See thesis 9>4 and note.'"
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against farmer1998:25125-25126 and the sense of Farmer's English at 25165-25166. 'ex ista conclusione' rendered 'the preceding conclusion' (an interpretation, correct: 9>3); numeral kept as printed; 'nobilissima pars scientiae naturalis' kept."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "One NOT SUPPORTED clause (an Oration formula presented as the Apology's) removed, with Farmer's Apology locator added; one duplicate over-reaching sentence removed; 'differently' removed; one locator extended (cosmic priest at 7347); the not_established note re-pointed to Farmer's own statement at 1487. These are removals and relocations.",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "replace": "Copenhaver reads the nobility differently, by the height of the object:",
+   "with": "Copenhaver reads the nobility by the height of the object:"
+  },
+  {
+   "field": "reception",
+   "replace": "calling magic, in Mandosio's rendering, 'the absolute fulfillment of natural philosophy' and 'the highest point of all philosophy' (mandosio2012:566-568)",
+   "with": "calling magic, in Mandosio's rendering, 'the highest point of all philosophy' (mandosio2012:567-568; farmer1998:7252)"
+  },
+  {
+   "field": "historiography",
+   "replace": "functions as a cosmic priest (farmer1998:7280-7289)",
+   "with": "functions as a cosmic priest (farmer1998:7280-7289; farmer1998:7347)"
+  },
+  {
+   "field": "historiography",
+   "replace": "Copenhaver derives the thesis from the reasoning of the Apology's defence of 9>9, where the certainty that magic gives is ranked by the dignity of what it studies (copenhaver2019:17643-17653). ",
+   "with": ""
+  },
+  {
+   "field": "historiography",
+   "replace": "as 3>46 and quotes both formulas from the Apology (mandosio2012:563-568)",
+   "with": "as 3>46 (mandosio2012:563-566)"
+  },
+  {
+   "field": "not_established",
+   "replace": "Farmer's editors report his view that it was 'almost surely for theological reasons' (borghesi2012:4537)",
+   "with": "Farmer judges that it was removed 'almost surely for theological reasons' (farmer1998:1487; borghesi2012:4537)"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "thesis_id": "23.1",
+ "tier": "C",
+ "latin": "Intellectus speculatiuus est forma separata quantum ad rem et ad modum; practicus separata quantum ad rem, coniuncta quantum ad modum; anima rationalis coniuncta secundum rem, separata secundum modum; inrationalis coniuncta secundum rem et secundum modum.",
+ "latin_source": "farmer1998:15637",
+ "latin_note": "1487 reads 'rationalıs coniuncta secundum rem et secundum modum', where the sense requires 'separata secundum modum' for the rational soul, kept here per the reading followed at farmer1998:15678. Underscores in the source ('separata_quantum', 'coniuncta_quantum') are OCR artifacts for a plain word space.",
+ "translation": "The speculative intellect is a form separate both in substance and in mode [of operation]; the practical intellect is separate in substance, but joined in mode; the rational soul is joined in substance, but separate in mode; the irrational soul is joined both in substance and in mode.",
+ "translation_note": "Sense checked against farmer1998:15678; no further crux.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:15678; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Iamblichus (section 23 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

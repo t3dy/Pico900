@@ -1,0 +1,14 @@
+{
+ "thesis_id": "7a>40",
+ "tier": "B",
+ "latin": "Quae opinio uerior de trinitate: Arn, Sabellii, Eucliph, aut fidei catholicae.",
+ "latin_source": "farmer1998:24263",
+ "latin_note": "The copy-text's OCR gives 'Arn' and 'Eucliph' for the genitive forms of the names; the precise correct Latin spellings are not established by the sources consulted. Farmer's note identifies the three referents as Arius, Sabellius, and Wyclif (farmer1998:24293), and the translation follows that identification.",
+ "translation": "Which view of the Trinity is closer to the truth: that of Arius, that of Sabellius, that of Wyclif, or that of the catholic faith?",
+ "translation_note": "Sense checked against Farmer's English at farmer1998:24319; the three names are supplied from Farmer's identification (farmer1998:24293) since the Latin surnames are corrupted in the copy-text; phrasing varies Farmer's 'What opinion is truer concerning the Trinity'.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T08b; sense checked against farmer1998:24319; awaiting human check",
+ "pico_stance": "unstated",
+ "attribution": "Pico's own list of questions to be answered through numbers (section 7a>)",
+ "not_established": ["The precise correct Latin spellings of the three names, given the OCR corruption of the copy-text at this point."],
+ "writer": "TRANSLATOR-T08b, 2026-09-26"
+}

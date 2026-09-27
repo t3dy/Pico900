@@ -1,0 +1,336 @@
+{
+ "thesis_id": "4>29",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_029.draft.json` printed 'PASS 4>29 own_4_029.draft.json' / '1/1 drafts pass the entry gate'; 45 locators; note 'translation/Farmer similarity 0.64'",
+ "quotations": [
+  {
+   "text": "out of a pertinacity of will",
+   "work": "farmer1998",
+   "line": 22111,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "rash and savoring of heresy, since it is opposed to the determination of the universal church",
+   "work": "farmer1998",
+   "line": 22113,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Imprudent, to be refuted, smacks of heresy, being contrary to the declarations of the Church",
+   "work": "dougherty2008",
+   "line": 2214,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Errare possum haereticus esse non possum",
+   "work": "edelheit2008",
+   "line": 17407,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "neque dogmatice neque assertive, sed dubitative semper, et inquisitive",
+   "work": "edelheit2008",
+   "line": 17300,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "rationabilius sit credere, ipsum esse salvum, quam credere ipsum esse damnatum",
+   "work": "edelheit2008",
+   "line": 17486,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "more like a polemic by Eusebius than a summa by Aquinas",
+   "work": "copenhaver2022",
+   "line": 919,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "perhaps the first to rehabilitate Origen in the theological debate",
+   "work": "dougherty2008",
+   "line": 2487,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the glory of his eloquence and knowledge",
+   "work": "farmer1998",
+   "line": 22120,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "There is a personal ring",
+   "work": "farmer1998",
+   "line": 22119,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:22051-22053); u/v as Farmer prints them.",
+   "locator": "farmer1998:22051-22053",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The inventory's text breaks off at 'ipsum' because of a line break in the OCR; t",
+   "locator": "farmer1998:22053",
+   "verdict": "SUPPORTED",
+   "note": "Claim about data/inventory/theses.json, confirmed: its Latin for 4>29 ends at 'ipsum'; the last two words are at farmer1998:22053."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "In the Apology Pico restates the claim as 'rationabilius sit credere, ipsum esse",
+   "locator": "edelheit2008:17485-17487",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Rationabilius' is the comparative of 'rationabilis', 'in accord with reason': t",
+   "locator": "farmer1998:22110-22112",
+   "verdict": "SUPPORTED",
+   "note": "'probable and pious' is Farmer's report of Pico's oral answer (farmer1998:22111-22112), citing Dorez and Thuasne 124-25."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The Apology grounds the comparison in the rule that in doubtful matters one shou",
+   "locator": "edelheit2008:17500-17503",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion, the last of the theological conclusions 'rather opposed to t",
+   "locator": "farmer1998:21490-21494, 22051, 22132",
+   "verdict": "SUPPORTED",
+   "note": "4>29 is the last thesis before the next section heading at farmer1998:22132."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis is a comparative judgement about the fate of one soul (farmer1998:220",
+   "locator": "farmer1998:22051-22053",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In his oral response to the commission Pico argued that, since Origen, a third-c",
+   "locator": "farmer1998:22110-22112",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pertinacity (pertinacia) is obstinate persistence in error, which Pico treated a",
+   "locator": "edelheit2008:17448-17450",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit: Pico 'takes pertinacia as a species of malicia in voluntate' (edelheit2008:17448-17450); the definition 'obstinate persistence in error' is an editorial gloss."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Apology builds on a distinction between error of the intellect and malice of",
+   "locator": "edelheit2008:17353-17360, 17385",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit notes the Augustine formula is 'probably a later version' (17384-17385); the entry says Pico cites Augustine 'as saying' it, which is accurate."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Heresy properly speaking, Pico argued, is an asserted dogma against the express ",
+   "locator": "edelheit2008:17286-17294",
+   "verdict": "LINE OFF",
+   "note": "The Latin of n. 136 runs past the page break: 'contra expressam vel scripturae veritatem vel ecclesiae' (17293) continues 'determinationem' at edelheit2008:17326. Add 17326."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "He conceded that Origen's opinion about the soul might be erroneous, but held th",
+   "locator": "edelheit2008:17276-17284",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Whether holding an opinion is a mortal sin is therefore relative to time: one ma",
+   "locator": "edelheit2008:17310-17317",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Since no one can know another's final impenitence without a special revelation f",
+   "locator": "edelheit2008:17464-17467, 17491-17494, 17541-17543",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Church condemns doctrines, not souls, whose judgement belongs to the judge o",
+   "locator": "edelheit2008:17521-17530",
+   "verdict": "SUPPORTED",
+   "note": "Pico's text (17521-17524) and Edelheit's gloss 'Theologians condemn doctrines, not souls' (17528-17529)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver sets Q7 apart from the other condemned theses: with Q5 it is detached",
+   "locator": "copenhaver2022:912-920",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The Apology argues with Jerome over the book of Pamphilus in Origen's defence, i",
+   "locator": "edelheit2008:17218-17221, 17232-17237",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "It also argues that Origen's books had probably been corrupted (edelheit2008:172",
+   "locator": "edelheit2008:17221",
+   "verdict": "SUPPORTED",
+   "note": "Apology p. 206: 'Tertium, quod verisimile facit, libros Origenis fuisse corruptos est' (edelheit2008:17221-17222)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico drew on canon law, apparently from his early legal training at the Universi",
+   "locator": "farmer1998:22114-22116",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The Apology records a clash at the hearing: when Pico cited Greek histories, a c",
+   "locator": "copenhaver2022:568-613",
+   "verdict": "SUPPORTED",
+   "note": "The outcome ('heard that the Church did not certify Origen's damnation') is at copenhaver2022:612-613, inside the cited range."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver identifies the chronicle as a Carthusian's, first printed in 1474, wh",
+   "locator": "copenhaver2022:616-618, 653-654",
+   "verdict": "SUPPORTED",
+   "note": "Carthusian (617-618); Rolevinck 1474 first edition (653)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission declared the thesis 'rash and savoring of heresy, since it is opp",
+   "locator": "farmer1998:22112-22114",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum's translation of the record reads 'Imprudent, to be refuted, smacks of here",
+   "locator": "dougherty2008:2212-2215",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico answered in the Apology at length (farmer1998:22114-22115).",
+   "locator": "farmer1998:22114-22115",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He turned the commission's appeal to the Church's determination against it: if, ",
+   "locator": "edelheit2008:17372-17376",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Excerpted from the Apology, Pico's defence of Origen became popular in the sixte",
+   "locator": "farmer1998:22116-22118",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer and Copenhaver both refer readers to Crouzel's 1977 edition and translati",
+   "locator": "farmer1998:22120-22121; copenhaver2022:944",
+   "verdict": "SUPPORTED",
+   "note": "Crouzel (1977) at farmer1998:22121 and copenhaver2022:944."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver writes that if the whole Apology were like Q7, scholars would see it ",
+   "locator": "copenhaver2022:920-924",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He disagrees with Edelheit's view that the Apology questions the basis of schola",
+   "locator": "copenhaver2022:947-953",
+   "verdict": "SUPPORTED",
+   "note": "copenhaver2022:947-953, a footnote."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit reads Pico's demand for a special revelation as a limit on the authorit",
+   "locator": "edelheit2008:17509-17516",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Blum sees in the defence Pico's strategy of treating theology as inquiry, and ca",
+   "locator": "dougherty2008:2456-2462, 2484-2487",
+   "verdict": "SUPPORTED",
+   "note": "dougherty2008:2456-2462, 2484-2487 are in Paul Richard Blum's chapter (running heads at 2384, 2481)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer hears 'a personal ring' in Pico's claim that Origen was condemned not for",
+   "locator": "farmer1998:22118-22120",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The case of Origen was Pico's own case in another's name: a writer who proposed ",
+   "locator": "edelheit2008:17249-17251, 17299-17309; copenhaver2022:573-577",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference; premises located (Edelheit's 'just like Pico' at edelheit2008:17250)."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "'rash and savoring of heresy, since it is opposed to the determination of the un",
+   "locator": "farmer1998:22112-22114; dougherty2008:2183, 2214-2215",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:22051-22053 matches. Sense agrees with Farmer's English at 22099-22100 (sense only). 'Rationabilius' as 'more reasonable' keeps the comparative, and neither belief is asserted as certain. No qualifier lost."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "type": "relocate",
+   "old": "Heresy properly speaking, Pico argued, is an asserted dogma against the express truth of Scripture or the Church's determination, whereas Origen wrote 'neque dogmatice neque assertive, sed dubitative semper, et inquisitive' (edelheit2008:17286-17294).",
+   "new": "Heresy properly speaking, Pico argued, is an asserted dogma against the express truth of Scripture or the Church's determination, whereas Origen wrote 'neque dogmatice neque assertive, sed dubitative semper, et inquisitive' (edelheit2008:17286-17294, 17326)."
+  }
+ ],
+ "dates_numbers": "Origen third century (farmer1998:22110-22111): correct. Verdict p. 130 of Dorez and Thuasne; oral reply pp. 124-25 (22112-22114): correct. Apology Opera 199-224, 239 (22114-22115): correct. Rolevinck 1474 (copenhaver2022:653): correct. Crouzel 1977: correct. Augustine 'per 200 annos post Origenem' (edelheit2008:17279): not used in prose.",
+ "voices": "Kept apart. Pico's Latin (Farmer; Apology via Edelheit 2008) and Copenhaver's translation of the Bundle episode are located; scholars (Farmer, Copenhaver, Edelheit, Blum, Crouzel) named with locators; historiography 6 is marked as editorial inference.",
+ "promoted": true,
+ "summary": {
+  "claims_checked": 34,
+  "claim_verdicts": {
+   "SUPPORTED": 33,
+   "LINE OFF": 1
+  },
+  "quotations_checked": 10,
+  "quotation_verdicts": {
+   "verbatim": 10
+  }
+ },
+ "promoted_gate": "PASS"
+}

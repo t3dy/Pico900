@@ -1,0 +1,13 @@
+{
+ "thesis_id": "7.3",
+ "tier": "B",
+ "latin": "Foelicitas ultima hominis est cum continuatur intellectus agens possibili ut forma; quam continuationem et latini alii quos legi et maxime Iohanes de Gandauo peruerse et erronee intellexit, qui non solum in hoc, sed ferme in omnibus quaesitis Philosophiae, doctrinam Auenrois corrupit omnino et deprauauit.",
+ "latin_source": "farmer1998:12940",
+ "latin_note": "Sheet's underscore in 'possibili_ut' normalized to a space. The 1486/1487 apparatus gives the name as 'Johanes de Gandago' / 'Johannes de gandago' for 'Iohanes de Gandauo' (farmer1998:12961). 'Auenrois' (for Averroes) is left as it stands in the copy-text; not established whether this is a period spelling or an OCR misreading.",
+ "translation": "Man's final happiness occurs when the agent intellect is conjoined to the possible intellect as its form; and this conjunction was perversely and mistakenly understood by the other Latins I have read, and above all by John of Jandun, who corrupted and utterly distorted Averroes's doctrine, not only on this point but in almost every question of philosophy.",
+ "translation_note": "'continuatur ... ut forma' rendered as 'is conjoined ... as its form', keeping 'conjunction' as the technical term for the union of agent and possible intellect.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T02b; sense checked against farmer1998:12994; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Averroes (section 7 of the historical theses)",
+ "writer": "TRANSLATOR-T02b, 2026-09-26"
+}

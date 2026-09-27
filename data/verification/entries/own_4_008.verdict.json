@@ -1,0 +1,382 @@
+{
+ "thesis_id": "4>8",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_008.draft.json` printed 'PASS 4>8 own_4_008.draft.json' / '1/1 drafts pass the entry gate'; 84 locators; note 'translation/Farmer similarity 0.68'",
+ "quotations": [
+  {
+   "text": "false, erroneous, heretical and contrary to the truth of sacred scripture",
+   "work": "copenhaver2022",
+   "line": 1277,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "no one should understand me to say that Christ’s soul did not descend into Hell",
+   "work": "copenhaver2022",
+   "line": 1271,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "not a movement in place going on in Christ’s soul but an effect that his soul has on those who need to be saved",
+   "work": "copenhaver2022",
+   "line": 1482,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "so it was befitting for Christ’s soul to have been in Hell",
+   "work": "copenhaver2022",
+   "line": 1944,
+   "verdict": "verbatim",
+   "note": "source prints the 'fi' ligature ('beﬁtting'); identical after normalisation"
+  },
+  {
+   "text": "tamen ratio ei essendi in loco non est sua substantia, sed operatio eius ab ea transiens ad extra",
+   "work": "edelheit2022",
+   "line": 7921,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "est negare a Christo verum motum localem descendendi ad inferos",
+   "work": "edelheit2022",
+   "line": 19560,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:21657-21658), with Farmer's u for v; to be col",
+   "locator": "farmer1998:21657-21658; farmer1998:28040-28041",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Farmer judges the punctuation of the editio princeps intentionally ambiguous, as",
+   "locator": "farmer1998:21690-21691; farmer1998:10115-10117",
+   "verdict": "OVERREACH",
+   "note": "Farmer: the punctuation 'appears to be intentionally ambiguous' (21691). 'Judges ... intentionally ambiguous' drops his 'appears'. The second half (10115-10117) is supported. Corrected by removing 'intentionally'; the question of intent is kept in not_established."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The Apology as printed in the Opera, quoted by Edelheit, punctuates 'Christus, n",
+   "locator": "edelheit2008:15190-15192",
+   "verdict": "SUPPORTED",
+   "note": "edelheit2008 n. 38 (15190-15192) quotes 'Pico, Apologia... p. 125', the Opera pagination Farmer gives for the Apology (farmer1998:21698)."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Pico's restatement later in the Apology places 'ut ponit Thomas et communis via'",
+   "locator": "edelheit2022:7968-7970; copenhaver2022:1991-1993",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Garsia's quotation of the thesis reads 'secundum realem presentiam' for 'quantum",
+   "locator": "edelheit2022:19559-19560",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Ad inferos' ('to those below') is rendered 'to the underworld'; Copenhaver tran",
+   "locator": "copenhaver2022:1328",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Veraciter' and 'quantum ad realem presentiam' qualify the manner of the descent",
+   "locator": "copenhaver2022:1995-2007",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Communis via' is kept as 'the common way', the name for a shared school positio",
+   "locator": "edelheit2022:7971-7975; copenhaver2022:1629-1631",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: section 4> of the theses, headed 'Conclusiones in theologia ",
+   "locator": "farmer1998:21432-21435",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "The thesis names Thomas and the common way as the position it rejects (farmer199",
+   "locator": "farmer1998:21657-21658",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis concerns the descensus ad inferos, the clause of the Apostles' Creed ",
+   "locator": "copenhaver2022:1264-1266; copenhaver2022:1160-1162",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Since Christ's body lay in the tomb, only his soul went down, and a soul parted ",
+   "locator": "copenhaver2022:1318-1320; copenhaver2022:1881-1884",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Aquinas held that Christ was in hell both essentially and by effect: essentially",
+   "locator": "copenhaver2022:1294-1316",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico's thesis denies that the descent was true and by real presence in the way T",
+   "locator": "farmer1998:21657-21658",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer reports from the notarial record that Pico's first oral answer was that a",
+   "locator": "farmer1998:21692-21695",
+   "verdict": "SUPPORTED",
+   "note": "'notarial record' is Farmer's own term for the record of Pico's verbal and written replies (farmer1998:21469); the oral answer is at 21692-21695, citing Dorez and Thuasne 121-22."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In the Apology Pico restated the position through the scholastic analysis of pla",
+   "locator": "edelheit2022:7879-7882; copenhaver2022:1940-1943",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "He parted from them over the ground (ratio) of that presence: for the Scotists i",
+   "locator": "edelheit2022:7882-7887; edelheit2022:7921-7922",
+   "verdict": "SUPPORTED",
+   "note": "Latin of the Apology at edelheit2022:7882-7887, 7921-7922: 'operatio eius ab ea transiens ad extra'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer describes this as a change of tactic, in which Pico no longer denied a re",
+   "locator": "farmer1998:21698-21701",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico also argued that the article of faith binds a Christian to believe that Chr",
+   "locator": "edelheit2008:15179-15182; copenhaver2022:1332-1337",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Nine of the thirteen censured theses came from this section of Pico's own theolo",
+   "locator": "farmer1998:21461-21464",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Innocent VIII created the commission in February 1487, and twelve of its sixteen",
+   "locator": "copenhaver2022:514-515; copenhaver2022:545-547",
+   "verdict": "SUPPORTED",
+   "note": "'Innocent VIII': the pontiff of the colophon (farmer1998:28041-28042); February 1487 (copenhaver2022:514-515); sixteen, twelve, 2 March, Monissart (545-547)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "In the Apology, whose order Copenhaver calls nearly the commission's order of in",
+   "locator": "copenhaver2022:841-846; copenhaver2022:1252-1253",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver explains the judges' choice of hell as their opening charge by the ca",
+   "locator": "copenhaver2022:1181-1192; copenhaver2022:1236-1238",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "He judges the doctrine secondary as dogma, noting that Guido Terrena's Summa pla",
+   "locator": "copenhaver2022:1137-1140; copenhaver2022:1163-1166",
+   "verdict": "SUPPORTED",
+   "note": "Also copenhaver2022:1238-1241 ('not as explosive as other doctrines')."
+  },
+  {
+   "field": "context",
+   "sentence_start": "The Paris articles of 1277 on the location of separated substances were used aga",
+   "locator": "copenhaver2022:1795-1797; copenhaver2022:1830-1834",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "He added the English saying that the articles did not cross the sea, and said th",
+   "locator": "edelheit2022:20109-20113; dougherty2008:2309-2313",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "On 5 March 1487 the commission ruled unanimously that the thesis, strictly speak",
+   "locator": "copenhaver2022:1272-1281; farmer1998:21696-21697",
+   "verdict": "SUPPORTED",
+   "note": "Date 5 March 1487 at copenhaver2022:1281; unanimity from farmer1998:21696 (Farmer citing Dorez and Thuasne p. 127)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Copenhaver notes that this verdict of heresy was harsher than the 'erroneous' pr",
+   "locator": "copenhaver2022:8641-8643",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico spent twenty-two pages of small type on this question and divided it into f",
+   "locator": "copenhaver2022:1373-1375; copenhaver2022:1535-1543",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The last part widened into the limits of the Church's power to compel belief (co",
+   "locator": "copenhaver2022:1393-1398",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He conceded that this thesis gave the prosecution its best ammunition, and turne",
+   "locator": "copenhaver2022:1566-1567; copenhaver2022:1995-2007",
+   "verdict": "OVERREACH",
+   "note": "The concession is at 1566-1567 (supported). But Copenhaver says 'Pico did not refer to Ockham's Logic, and he could have found the relevant notion of a coupled extreme elsewhere' (2080-2081); 'with Ockham's logic' attributes to Pico a source Copenhaver declines to assign. The judges' criterion of strict verbal force and Pico's turning it to advantage are at 1970-1973, not cited."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer finds here Pico's most violent attacks on the Thomists and the Dominican ",
+   "locator": "farmer1998:21701-21702; farmer1998:3039-3042",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commissioner Pedro Garsia answered in his Determinationes magistrales of 148",
+   "locator": "copenhaver2022:548-550; edelheit2022:20143; edelheit2022:19541-19547",
+   "verdict": "SUPPORTED",
+   "note": "Garsia = Pedro Garcia, commissioner (copenhaver2022:547-550), book of 1489; title Determinationes magistrales at edelheit2022:20143; the charge at 19541-19547 with n. 43 (19559-19563)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The Dominican Giovanni Caroli, in a treatise edited by Daniele Conti, required t",
+   "locator": "edelheit2022:21240-21245; edelheit2022:21361-21372",
+   "verdict": "LINE OFF",
+   "note": "The claim is supported at 21361-21372 (and 'the Dominican' at 21361), but Daniele Conti's name and edition are at edelheit2022:21197, not in the cited lines (21240-21245 give only 'Conti, Il trattato inedito')."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver reads Q1 as scholastic through and through: all its authority is scho",
+   "locator": "copenhaver2022:1736-1743",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He explains Pico's turn from Christ's soul to angels by caution and by the far l",
+   "locator": "copenhaver2022:1875-1893; copenhaver2022:12232-12236",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer stresses the retreat from the thesis in the Apology and warns that the Ap",
+   "locator": "farmer1998:21698-21701; farmer1998:21466-21471",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit (2008) takes this question as the first place where Pico separates reve",
+   "locator": "edelheit2008:15170-15174; edelheit2008:15183-15185",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit says Pico 'is beginning to present his distinction' (edelheit2008:15183-15185); 'first place' is a fair reading of 'beginning'."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Blum and Edelheit (2022) both report Pico's statement that he presented the thes",
+   "locator": "dougherty2008:2338-2342; edelheit2022:7947-7952",
+   "verdict": "SUPPORTED",
+   "note": "dougherty2008:2338-2342 is in Paul Richard Blum's chapter (running heads at 2088, 2190)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit (2022) observes that Garsia tied the common way to Thomas when answerin",
+   "locator": "edelheit2022:20083-20089; edelheit2022:20124-20129",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The editor infers that Q1 is where Pico first turned a charge about a doctrine i",
+   "locator": "copenhaver2022:1970-1973; copenhaver2022:6894-6898",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference; premises located (1970-1973; 6894-6898)."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "\"false, erroneous, heretical and contrary to the truth of sacred scripture\", sec",
+   "locator": "copenhaver2022:1276-1281; farmer1998:21696-21697",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21657-21658 matches. Sense agrees with Farmer's English at 21714-21715 (sense only): 'ueraciter' truly, 'quantum ad realem presentiam' as regards real presence, 'quo ad effectum' as regards effect. 'Ad inferos' as 'to the underworld' (Farmer and Copenhaver: 'hell/Hell') is a defensible choice, declared in translation_note 1. The punctuation ambiguity (where 'ut ponit Thommas et communis uia' attaches) is preserved, not resolved. No qualifier lost."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "latin_note",
+   "type": "remove",
+   "old": "Farmer judges the punctuation of the editio princeps intentionally ambiguous, as in 4>1, and reports that Pico changed the punctuation of his theses to suit his defence (farmer1998:21690-21691; farmer1998:10115-10117).",
+   "new": "Farmer judges the punctuation of the editio princeps ambiguous, as in 4>1, and reports that Pico changed the punctuation of his theses to suit his defence (farmer1998:21690-21691; farmer1998:10115-10117)."
+  },
+  {
+   "field": "reception",
+   "type": "remove+relocate",
+   "old": "He conceded that this thesis gave the prosecution its best ammunition, and turned the judges' criterion of strict verbal force against them with Ockham's logic of the coupled extreme (copenhaver2022:1566-1567; copenhaver2022:1995-2007).",
+   "new": "He conceded that this thesis gave the prosecution its best ammunition, and turned the judges' criterion of strict verbal force against them with the logic of the coupled extreme (copenhaver2022:1566-1567; copenhaver2022:1970-1973; copenhaver2022:1995-2007)."
+  },
+  {
+   "field": "reception",
+   "type": "relocate",
+   "old": "The Dominican Giovanni Caroli, in a treatise edited by Daniele Conti, required that the article be held simply, without inquiry into the manner of descent (edelheit2022:21240-21245; edelheit2022:21361-21372).",
+   "new": "The Dominican Giovanni Caroli, in a treatise edited by Daniele Conti, required that the article be held simply, without inquiry into the manner of descent (edelheit2022:21197; edelheit2022:21240-21245; edelheit2022:21361-21372)."
+  }
+ ],
+ "dates_numbers": "7 December 1486 colophon (farmer1998:28040-28041): correct. February 1487 commission; 16 members, 12 at first meeting on 2 March (copenhaver2022:514-515, 545-547): correct. Verdict 5 March 1487 (1281): correct, agrees with condemned_thirteen.json. Pecock proceedings 1457 (1182): correct. 'twenty-two pages' (1374): correct. 'two dozen' masters (1743): correct. Q1 fifth in the Conclusions after Q12, Q13, Q9, Q6 (1252-1253): correct. Godfrey d. c. 1309, Durand d. 1334: not used in prose. Garsia 1489: correct.",
+ "voices": "Kept apart. Pico's words: the Latin thesis and Apology passages (Latin via Edelheit, English via Copenhaver), each located. Scholars (Farmer, Copenhaver, Edelheit 2008/2022, Blum, Garsia, Caroli, Conti) named with locators; historiography 7 marked as the editor's inference.",
+ "promoted": true,
+ "summary": {
+  "claims_checked": 42,
+  "claim_verdicts": {
+   "SUPPORTED": 39,
+   "OVERREACH": 2,
+   "LINE OFF": 1
+  },
+  "quotations_checked": 6,
+  "quotation_verdicts": {
+   "verbatim": 6
+  }
+ },
+ "promoted_gate": "PASS"
+}

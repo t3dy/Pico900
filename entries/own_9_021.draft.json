@@ -1,0 +1,64 @@
+{
+  "thesis_id": "9>21",
+  "tier": "A",
+  "latin": "Non significatiuae uoces plus possunt in magia quam significatiue; et rationem conclusionis intelligere potest qui est profundus ex praecedenti conclusione.",
+  "latin_source": "farmer1998:25373",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25373-25375), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); the hyphenated 'con-clusione' is joined. The second 'significatiue' is printed with e for ae and is kept as printed. Farmer records no variant (farmer1998:25385-25387). Akopyan's text reads 'possent' for 'possunt' (akopyan2018:627; akopyan2021:1352); Busi prints 'possunt' (busi2014:1614).",
+  "translation": "Vocal sounds without meaning can do more in magic than meaningful ones; and anyone with depth can grasp the reason for this conclusion from the one before it.",
+  "translation_note": "'significatiuae': signifying, having a meaning within a language; Copenhaver glosses the contrast as one with sounds used as signifiers by human convention (copenhaver2019:17372-17375). 'ex praecedenti conclusione' is 9>20. 'profundus' is kept as a quality of the reader ('with depth'), not of the reasoning.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25434; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-first magical conclusion, the third of the group on voices and names, 9>19-22 (farmer1998:25373-25375).",
+  "sources": [
+    {
+      "text": "Iamblichus, De mysteriis 7.4-5",
+      "locator": "farmer1998:25447",
+      "pico_relation": "compared by Farmer ('Cf.'); no direct borrowing established"
+    },
+    {
+      "text": "Thesis 9>20: 'Quaelibet uox uirtutem habet in magia, inquantum dei uoce formatur'",
+      "locator": "farmer1998:25370",
+      "pico_relation": "the preceding conclusion from which the reason is to be drawn"
+    }
+  ],
+  "doctrine": "The thesis states a paradox and withholds its proof: sounds that mean nothing can do more in magic than sounds that mean something, and the reason is left to the reader 'qui est profundus' to draw from 9>20 (farmer1998:25373-25375). Farmer compares Iamblichus's De mysteriis 7.4-5 and ties the thesis to Pico's view that 'language can only adequately describe the inferior world' (farmer1998:25447-25448). A reconstruction of the withheld reason can be assembled from those two premises: if a sound has power in so far as God's voice forms it (9>20), and the meanings of human language fit only the lower world, then meaning ties a sound to that world, and a sound without meaning stands nearer the voice that formed it (editorial inference from farmer1998:25370 and farmer1998:25447-25448). Copenhaver gives examples of the non-signifying sounds in question, a word like 'abracadabra' or a melody without words, and sets them against sounds that signify by human convention (copenhaver2019:17372-17375). Busi states the principle in his own terms: the less semantic an act is, the closer it is to the source, and the discovery of meaning is a fall into impotence (busi2014:1590-1594). The magus, in his phrase, 'chiama senza denominare' (busi2014:1595).",
+  "context": "The Thomist account that Pico had to meet is summarised by Ebgi: in the Summa contra Gentiles, in a chapter on where the operations of magicians get their efficacy, Aquinas considers the significative words used in invocations and supplications, reduces their power to persuasion and denies them any natural potency (busi2014:9982-9989). The thesis reverses the valuation on which that argument turns, since for Pico it is the word without meaning that has the greater power (editorial inference from busi2014:9984-9989 and farmer1998:25373). Busi places the thesis in the physical world on which the magus acts, where the voice of desire reigns, audible and intelligible but not according to the laws of meaning (busi2014:1574-1580).",
+  "reception": "Busi quotes the thesis in Italian as the first of the magical theses in his account of Pico's symbolic knowledge and gives the Latin in his note (busi2014:1579-1580; busi2014:1614-1615). Akopyan quotes it with 9>19-22 from a text reading 'possent' (akopyan2018:627; akopyan2021:1352). Copenhaver pairs it with 9>22 as one of the propositions that treat language as the medium of magical effects (copenhaver2019:17371-17381).",
+  "historiography": "Farmer's reading grounds the thesis in a limit of human language and compares Iamblichus's De mysteriis (farmer1998:25447-25448). Busi grounds it in an original, non-semantic speech of creation which the magus imitates (busi2014:1585-1595). Copenhaver reads it through convention: what loses power is meaning fixed by human agreement, which is why he passes directly to the exception of Hebrew names (copenhaver2019:17372-17381). The thesis prepares 9>22, where meaning is a liability in magic except in the one language that Pico held to be first and not arbitrary (editorial inference from farmer1998:25378-25380 and mandosio2012:450-454).",
+  "connections": [
+    "9>19",
+    "9>20",
+    "9>22",
+    "9>24",
+    "2>80"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "language can only adequately describe the inferior world",
+      "work": "farmer1998",
+      "line": 25447,
+      "verbatim": true
+    },
+    {
+      "text": "Il mago chiama senza denominare",
+      "work": "busi2014",
+      "line": 1595,
+      "verbatim": true
+    },
+    {
+      "text": "et rationem conclusionis intelligere potest qui est profundus",
+      "work": "farmer1998",
+      "line": 25373,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which passage of De mysteriis 7.4-5 Pico knew, and in what version: not established by the sources consulted; Farmer's reference is a comparison ('Cf.') (farmer1998:25447).",
+    "The reason Pico would have given in the disputation for this conclusion: not established by the sources consulted; the reconstruction in the doctrine field is the editor's."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

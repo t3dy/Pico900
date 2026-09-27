@@ -1,0 +1,13 @@
+{
+ "thesis_id": "17.9",
+ "tier": "C",
+ "latin": "Cum dicit Aristoteles non recordari nos post mortem quia passiuus intellectus corrumpitur, per passiuum intellectum, possibilem intellectum intelligit.",
+ "latin_source": "farmer1998:14655",
+ "latin_note": "Source reads 'Anstoteles', an OCR misreading of 'Aristoteles' (farmer1998:14655); corrected here.",
+ "translation": "Aristotle's claim that we lose our memory after death, since the passive intellect corrupts, uses 'the passive intellect' to mean the possible intellect.",
+ "translation_note": "Sense checked against farmer1998:14690; reworded for distance from Farmer's rendering.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:14690; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Simplicius (section 17 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

@@ -1,0 +1,381 @@
+{
+ "thesis_id": "4>2",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_002.draft.json` printed 'PASS 4>2 own_4_002.draft.json' / '1/1 drafts pass the entry gate'; 48 locators; note 'translation/Farmer similarity 0.04' (gate's Farmer pointer; sense checked by hand at farmer1998:21503-21508)",
+ "quotations": [
+  {
+   "text": "twelve of the thirteen theses make no appeal to possibility",
+   "work": "copenhaver2022",
+   "line": 8576,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Pico left his Q6 thesis in a modal tangle",
+   "work": "copenhaver2022",
+   "line": 8633,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "My own conclusion is entirely about possibility, not about being so",
+   "work": "copenhaver2022",
+   "line": 8566,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "a possible sacrament, its possible reality",
+   "work": "copenhaver2022",
+   "line": 8557,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the actual error is to claim the opposite",
+   "work": "copenhaver2022",
+   "line": 8698,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Wrong and in matters of faith erroneous",
+   "work": "dougherty2008",
+   "line": 2230,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "he chases after John of Paris",
+   "work": "copenhaver2022",
+   "line": 8491,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "a certain John of Paris",
+   "work": "copenhaver2022",
+   "line": 8483,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "my own opinion and quite different",
+   "work": "copenhaver2022",
+   "line": 8529,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "nothing original or memorable about Q6",
+   "work": "copenhaver2022",
+   "line": 8799,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "his judges were wrong and rigid, not at all reasonable",
+   "work": "copenhaver2022",
+   "line": 8825,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "loquendo de possibili non de sic esse",
+   "work": "edelheit2008",
+   "line": 16946,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "differs slightly but not importantly",
+   "work": "copenhaver2022",
+   "line": 8585,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:21444-21448); u/v as Farmer prints them.",
+   "locator": "farmer1998:21444-21448",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The Apology's wording differs slightly ('respectu cuiusque creaturae', 'conversi",
+   "locator": "copenhaver2022:8585-8586, 8650-8654",
+   "verdict": "SUPPORTED",
+   "note": "Variants read from Copenhaver's n. 59 (copenhaver2022:8651-8654), where the Apology reading stands first in each pair."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The pre-audit repository entry printed a Latin that inverted the thesis; the cop",
+   "locator": "farmer1998:21445-21446",
+   "verdict": "SUPPORTED",
+   "note": "Claim about the pre-audit repository, not about a source: supported by data/inventory/condemned_thirteen.json (Q6 'INVERTED in repo'). The Latin clause itself is at farmer1998:21445-21446."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'suppositatio' is metaphysical: for God to make a nature the supposit is, in the",
+   "locator": "copenhaver2022:2144-2149",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'paneitas', breadness, is the nature of bread as distinct from the bread (panis)",
+   "locator": "copenhaver2022:8072-8074",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'secundum ueritatem sacramenti' echoes the scholastic question whether Christ's ",
+   "locator": "edelheit2022:10877-10880",
+   "verdict": "LINE OFF",
+   "note": "The question 'whether in this sacrament the body of Christ is present according to the truth or only according to its shape as if in a sign' (Aquinas, ST 3.75.1, as reported by Edelheit) begins at edelheit2022:10874-10877; 10878-10880 is a footnote on another matter. That Pico's phrase 'echoes' it is an editorial connection, not Edelheit's claim."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'de possibili, non de sic esse' is the modal distinction between a statement of ",
+   "locator": "copenhaver2022:8577-8580",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion, second of the theological conclusions 'rather opposed to the",
+   "locator": "farmer1998:21490-21494, 21444",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Medieval theologians sorted accounts of eucharistic change into three: the bread",
+   "locator": "copenhaver2022:7665-7672",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The theory of change, under the name transubstantiation, was the most widely acc",
+   "locator": "copenhaver2022:7705-7707",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis defends the possibility of the first, a theory of remaining: granted ",
+   "locator": "farmer1998:21444-21448; copenhaver2022:8620-8624",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Its model is impanation, 'embreadment' by analogy with incarnation, in which the",
+   "locator": "copenhaver2022:8049-8063",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer glosses the motive: the hypothesis avoids the difficulties of separable a",
+   "locator": "farmer1998:21523-21528",
+   "verdict": "SUPPORTED",
+   "note": "Farmer at 21523-21528 paraphrases Pico's defence in the Apology ('In his defense of his thesis, Pico heavily underscores its hypothetical nature'); 'motive' is Farmer's report of the defence, not of the 1486 intent. Acceptable as worded."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The closing clause makes the thesis modal: Copenhaver notes that twelve of the t",
+   "locator": "copenhaver2022:8574-8580",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Yet the phrase 'dico quod' asserts what follows it, so that Pico left the thesis",
+   "locator": "copenhaver2022:8629-8633",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer sees the difficulty of fixing Pico's view in the thesis's apparent clash ",
+   "locator": "farmer1998:21528-21530",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Copenhaver answers that the hypothetical structure of the thesis precludes the c",
+   "locator": "copenhaver2022:8404-8416",
+   "verdict": "OVERREACH",
+   "note": "copenhaver2022:8409-8416: the hypothetical structure 'precludes the contradiction' (supported); but Copenhaver says only 'there is no sign that he was even aware of it', not that Pico never noticed it."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Eucharistic theology had been a flashpoint since a council forced Berengar of To",
+   "locator": "copenhaver2022:929-937",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The theory Pico defended was Quidort's, which he learned from Jean Cabrol, a Tho",
+   "locator": "copenhaver2022:8481-8489",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Half of Q6 was taken, much of it verbatim and without acknowledgment, from Cabro",
+   "locator": "copenhaver2022:1779-1781",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver notes that the Church had censured Quidort and Ockham for such theori",
+   "locator": "copenhaver2022:8358-8361",
+   "verdict": "SUPPORTED",
+   "note": "'both theologians' = Ockham and Quidort (copenhaver2022:8356-8357, 8363-8364)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico made his eucharistic theses targets by heading their section 'my own opinio",
+   "locator": "copenhaver2022:8526-8530",
+   "verdict": "SUPPORTED",
+   "note": "Substance supported, but the quotation is altered: the source reads 'my own opinion and quite different (satis diversus) from the usual way of talking about theology' (8529-8530); the parenthesis is omitted without ellipsis. Corrected by closing the quotation marks after the verbatim span."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer adds that the section was suspect because its author was a twenty-three-y",
+   "locator": "farmer1998:21461-21464",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission judged the thesis erroneous, a lighter verdict than the heresy it",
+   "locator": "copenhaver2022:8641-8643",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum's translation of the record reads 'Wrong and in matters of faith erroneous'",
+   "locator": "dougherty2008:2224-2230",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico answered orally and then in the Apology (farmer1998:21521-21523).",
+   "locator": "farmer1998:21521-21523",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "There he insisted that he spoke of 'a possible sacrament, its possible reality' ",
+   "locator": "copenhaver2022:8557-8567",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He told his judges that 'the actual error is to claim the opposite', since the F",
+   "locator": "copenhaver2022:8695-8702",
+   "verdict": "SUPPORTED",
+   "note": "copenhaver2022:8695-8702; said in the Apology."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Fewer than 400 of the Question's 45,000 words address the thesis; the rest Pico ",
+   "locator": "copenhaver2022:8644-8646, 8663-8667",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Bishop Garcia, one of the judges, recognized in 1489 that 'he chases after John ",
+   "locator": "copenhaver2022:8490-8491, 8505",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit emphasizes how often the Apology uses the formula 'loquendo de possibil",
+   "locator": "edelheit2008:16943-16947; edelheit2022:22082-22085",
+   "verdict": "SUPPORTED",
+   "note": "edelheit2008 is Edelheit, Ficino, Pico and Savonarola (Brill 2008)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver finds 'nothing original or memorable about Q6' as eucharistic theolog",
+   "locator": "copenhaver2022:8798-8804",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He also judges the commission 'wrong and rigid', since no position within Pico's",
+   "locator": "copenhaver2022:8824-8828",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer, comparing the oral response with the Apology, notes that Pico's defence ",
+   "locator": "farmer1998:21521-21530",
+   "verdict": "SUPPORTED",
+   "note": "Farmer gives a cross-reference ('Cf. Pico's verbal response ... with his expanded reply', 21521-21523) rather than a comparison of his own; the rest is at 21523-21530."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The one condemned thesis that Pico wrote as a claim about possibility was still ",
+   "locator": "copenhaver2022:8570-8577, 8641-8642",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference; the premises (12 of 13 make no appeal to possibility, 8576; Q6 judged erroneous, 8641-8642) are located."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "'erroneous' (copenhaver2022:8641-8642); Blum's translation from Dorez and Thuasn",
+   "locator": "copenhaver2022:8641-8642; dougherty2008:2183, 2230",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21444-21448 matches. Sense agrees with Farmer's English at 21503-21508 (sense only). 'potest fieri ut ... sit' condensed to 'can be': the modal is kept. 'communis uia' rendered 'common opinion' here but 'common way' in 4>1; consistency is for the editor. 'suppositationis' as 'suppositing' (Farmer: 'assumption') is explained in translation_note 1. No qualifier lost; 'de possibili, non de sic esse' preserved."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "type": "remove",
+   "old": "Copenhaver answers that the hypothetical structure of the thesis precludes the contradiction, and that Pico never noticed it (copenhaver2022:8404-8416).",
+   "new": "Copenhaver answers that the hypothetical structure of the thesis precludes the contradiction (copenhaver2022:8404-8411)."
+  },
+  {
+   "field": "context",
+   "type": "quotation repair (quotation marks narrowed to the verbatim span; no claim changed)",
+   "old": "Pico made his eucharistic theses targets by heading their section 'my own opinion and quite different from the usual way of talking about theology' (copenhaver2022:8526-8530).",
+   "new": "Pico made his eucharistic theses targets by heading their section 'my own opinion and quite different' from the usual way of talking about theology (copenhaver2022:8526-8530)."
+  },
+  {
+   "field": "translation_note",
+   "type": "relocate",
+   "old": "'secundum ueritatem sacramenti' echoes the scholastic question whether Christ's body is present in the sacrament 'according to the truth' or only as in a sign (edelheit2022:10877-10880).",
+   "new": "'secundum ueritatem sacramenti' echoes the scholastic question whether Christ's body is present in the sacrament 'according to the truth' or only as in a sign (edelheit2022:10874-10877)."
+  }
+ ],
+ "dates_numbers": "Berengar, eleventh century; 'named seven times by Pico in Q6' (copenhaver2022:929-937): correct. Cabrol d. 1444 (786): not used in prose. 'fewer than 400 words out of 45,000' (8644-8645): correct. Garcia 1489 (8505): correct. 'twelve of the thirteen' (8576): correct. Dougherty 'Wrong and in matters of faith erroneous' (2230): correct.",
+ "voices": "Kept apart. Pico's Apology is quoted in Copenhaver's translation with locators; scholars named with locators; one editorial inference (historiography 5) is marked. translation_note 3's 'echoes' is an unmarked editorial connection (noted).",
+ "promoted": true,
+ "summary": {
+  "claims_checked": 36,
+  "claim_verdicts": {
+   "SUPPORTED": 34,
+   "LINE OFF": 1,
+   "OVERREACH": 1
+  },
+  "quotations_checked": 13,
+  "quotation_verdicts": {
+   "verbatim": 13
+  }
+ },
+ "promoted_gate": "PASS"
+}

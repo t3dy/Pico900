@@ -1,0 +1,12 @@
+{
+ "thesis_id": "8.12",
+ "tier": "D",
+ "latin": "Nec particularis affirmatiua possibilis conuertitur semper in affirmatiuam possibilem, nec necessaria particularis affirmatiua in necessariam, ut credidit Aristoteles.",
+ "latin_source": "farmer1998:13684",
+ "latin_note": "Sheet's 'affırmatiua' (dotless ı) normalized to 'affirmatiua'.",
+ "translation": "Contrary to what Aristotle believed, a particular possible affirmative does not always convert into another possible affirmative, nor does a particular necessary affirmative always convert into a necessary one.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T02b; sense checked against farmer1998:13738; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Avicenna (section 8 of the historical theses)",
+ "writer": "TRANSLATOR-T02b, 2026-09-26"
+}

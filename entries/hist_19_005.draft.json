@@ -1,0 +1,12 @@
+{
+ "thesis_id": "19.5",
+ "tier": "C",
+ "latin": "Propositio est per se cum uel subiectum diffinit praedicatum, uel praedicatum subiectum, uel ambo diffiniuntur per idem tertium.",
+ "latin_source": "farmer1998:14898",
+ "translation": "A proposition holds per se whenever the subject supplies the definition of the predicate, or the predicate that of the subject, or else a single third term defines them both.",
+ "translation_note": "Sense checked against farmer1998:14953; reworded for distance from Farmer's rendering.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:14953; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Themistius (section 19 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

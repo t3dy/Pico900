@@ -1,0 +1,13 @@
+{
+ "thesis_id": "6.10",
+ "tier": "B",
+ "latin": "Ad hoc, quod aliqua scientia alteri non subalternetur, sufficit quod faciat reductionem ad per se nota in suo genere abstractionis.",
+ "latin_source": "farmer1998:12786",
+ "latin_note": "OCR 'abstractions' corrected to 'abstractionis'.",
+ "translation": "A science escapes subordination to another provided it can be traced back to self-evident principles within its own genus of abstraction.",
+ "translation_note": "Farmer calls this the premodern antecedent of Gödel's second theorem (farmer1998:12806). Sense checked against farmer1998:12827.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T01b; sense checked against farmer1998:12827; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Giles of Rome (section 6 of the historical theses)",
+ "writer": "TRANSLATOR-T01b, 2026-09-26"
+}

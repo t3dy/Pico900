@@ -1,0 +1,62 @@
+{
+  "thesis_id": "9>19",
+  "tier": "A",
+  "latin": "Ideo uoces et uerba in magico opere efficaciam habent, quia illud in quo primum magicam exercet natura, uox est dei.",
+  "latin_source": "farmer1998:25366",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25366-25367), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); Farmer records no variant for this thesis (farmer1998:25385-25387). Akopyan and Mandosio quote the thesis from other editions, with 'Magico', 'Magicam' and 'Dei' capitalised and without variants of substance (akopyan2018:625-627; mandosio2012:477).",
+  "translation": "Vocal sounds and words are effective in the magical work for this reason: the first thing in which nature exercises magic is the voice of God.",
+  "translation_note": "'uox' is rendered 'vocal sound' for what the operator utters and 'voice' for God's; the Latin has one word for both, and the argument rests on it. The final clause is construed with 'illud in quo primum magicam exercet natura' as subject and 'uox dei' as predicate; Farmer's English construes 'illud' as 'that work' and 'uox' as subject (farmer1998:25426-25427). 'magicam exercet': 'magicam' is the noun (sc. artem), the object of 'exercet'.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25426; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the nineteenth magical conclusion, the first of four on voices and names, 9>19-22 (farmer1998:25366-25380).",
+  "sources": [
+    {
+      "text": "Genesis 1, creation of the world through speech, read by the kabbalists as mediated by the divine names and the Hebrew alphabet",
+      "locator": "farmer1998:25400",
+      "pico_relation": "the association Farmer calls obvious; Pico does not cite it"
+    }
+  ],
+  "doctrine": "The thesis gives the reason why spoken magic works: voices and words have efficacy in the magical work because the first thing in which nature exercises magic is the voice of God (farmer1998:25366-25367). Farmer glosses 9>19-20 together and finds the obvious association in God's creation of the world through speech in Genesis 1, mediated, according to the kabbalists, by the powers of the divine names and the Hebrew alphabet (farmer1998:25400-25402). On this reading nature's first magical act is creation by the word, and every later word that works owes its efficacy to that first one (editorial inference from farmer1998:25366-25367 and farmer1998:25400-25402). Farmer states the kabbalistic premise elsewhere: God created the world through the twenty-two letters of the Hebrew alphabet and the ten sefirot, together the 'thirty-two paths of wisdom', and Pico would have linked that idea with 9>19 and the theses after it (farmer1998:17879-17883; farmer1998:18103-18106). Wirszubski judges that in Pico's Kabbalistic Hebrew sources 'the medium of creation and of the magical application of Kabbala is language' (wirszubski1989:4221-4224).",
+  "context": "The thesis opens a group of four on voices and names, of which Farmer derives the last two from Iamblichus's De mysteriis (farmer1998:25447-25450). Farmer cites 9>19 and the theses after it as the place where Pico's views on the magical power of language are found, in a note on historical thesis 4.15 about the sacraments, which he reads as word magic in the Eucharist (farmer1998:12393-12397). In the Apology, Farmer reports, Pico tied the traditional numbering of the Psalms to their magical 'power' and 'efficacy' (farmer1998:2117-2118). Copenhaver notes that after 9>15 other magical propositions 'focus on language as the medium' for magical effects (copenhaver2019:17371-17372).",
+  "reception": "Mandosio quotes 9>19-20 as the ground of Pico's restriction of magical names to Hebrew: magic cannot work unless the magician's voice becomes the voice of God (mandosio2012:429-434; mandosio2012:477-478). Akopyan quotes 9>19-22 in support of his account of the study of numbers and letters in the Kabbalah as central to Pico's magic (akopyan2018:595-599; akopyan2018:625-630).",
+  "historiography": "Farmer's gloss makes Genesis and the kabbalists the frame of the thesis (farmer1998:25400-25402). Wirszubski's work on Pico's translator bears on that frame: the Latin versions of Flavius Mithridates shift the emphasis from letters as elements of language to letters as representations of numbers, while the Hebrew originals treat the creative letters as elements of language (wirszubski1989:4214-4217; wirszubski1989:4236-4240). A thesis that rests magic on God's voice is closer to the Hebrew originals as Wirszubski describes them than to the numerical bias of the translations (editorial inference from wirszubski1989:4221-4224 and farmer1998:25366-25367). Mandosio reads the thesis from its consequence, the privilege of Hebrew as the divinely instituted language (mandosio2012:429-434). The thesis grounds the efficacy of spoken magic in theology and not in the skill of the operator or the meaning of the words: the power belongs first to God's voice, and the next three theses draw the consequences for sound, meaning and language (editorial inference from farmer1998:25366-25380).",
+  "connections": [
+    "9>20",
+    "9>21",
+    "9>22",
+    "9>25",
+    "28.15",
+    "28.26",
+    "4.15",
+    "3>55"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "the medium of creation and of the magical application of Kabbala is language",
+      "work": "wirszubski1989",
+      "line": 4223,
+      "verbatim": true
+    },
+    {
+      "text": "focus on language as the medium",
+      "work": "copenhaver2019",
+      "line": 17372,
+      "verbatim": true
+    },
+    {
+      "text": "illud in quo primum magicam exercet natura",
+      "work": "farmer1998",
+      "line": 25366,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico had a particular kabbalistic text in mind for the voice of God as nature's first magic: not established by the sources consulted; Farmer's association with Genesis is offered as obvious, not documented (farmer1998:25400-25402).",
+    "Whether Pico discussed this thesis in the Apology: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

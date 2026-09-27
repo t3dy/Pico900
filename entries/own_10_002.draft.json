@@ -1,0 +1,63 @@
+{
+  "thesis_id": "10>2",
+  "tier": "A",
+  "latin": "Nihil efficacius hymnis Orphei in naturali magia, si debita musica, animi intentio, et caeterae circumstantiae quas norunt sapientes, fuerint adhibitae.",
+  "latin_source": "farmer1998:25575",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25575-25577), u/v as Farmer prints them. Wirszubski cites the thesis from the Basel Opera without the commas after 'musica' and 'sapientes' and with 'ceterae' (wirszubski1989:7588-7590), which lets 'debita musica animi intentio' be misread as one phrase; Busi and Howlett print Farmer's punctuation (busi2014:21389-21390; howlett2021:6214).",
+  "translation": "In natural magic the hymns of Orpheus surpass everything in efficacy, provided they are used with the fitting music, with concentration of mind, and with the other conditions that the wise understand.",
+  "translation_note": "'animi intentio' is rendered 'concentration of mind'; Wirszubski calls it the exact equivalent of the Hebrew Kawwanah, the meditative concentration of prayer, whose literal meaning is intention (wirszubski1989:7515-7517, 7549-7551). 'debita musica' is 'the music that is due', that is, suited to each hymn. 'fuerint adhibitae' (future perfect) sets the three as conditions of efficacy.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B1b), checked against the sense of Farmer's English at farmer1998:25631; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: second of the thirty-one conclusions according to his own opinion on understanding the Orphic Hymns according to magic, the secret wisdom of divine and natural things first discovered in them by Pico (farmer1998:25560-25565, 25575).",
+  "sources": [
+    {
+      "text": "Orphic Hymns, in the Greek text in Pico's library (Kibre 1936: 148, as cited by Farmer)",
+      "locator": "farmer1998:25600",
+      "pico_relation": "the texts the thesis ranks first in natural magic"
+    }
+  ],
+  "doctrine": "The thesis ranks the Orphic Hymns first among the instruments of natural magic, on three conditions: the fitting music, the intention of the mind, and further circumstances known to the wise (farmer1998:25575-25577). Natural magic is the licit magic of 9>2, set against the magic of the moderns which 9>1 says the Church rightly condemns because it depends on the powers of darkness (farmer1998:25111-25117). The next thesis says that the gods Orpheus sings are not deceiving demons but natural and divine powers distributed in the world by the true God for human use (farmer1998:25580-25583). Farmer reads those gods as symbols of material or spiritual powers hidden in the sublunary, celestial and probably angelic worlds (farmer1998:25657-25659). Thesis 10>4 sets the hymns of David, which serve the work of Cabala, beside the hymns of Orpheus, which serve true, licit and natural magic (farmer1998:25671-25672). Wirszubski observes that animi intentio is the exact equivalent of Kawwanah, the meditative concentration of Kabbalistic prayer (wirszubski1989:7515-7517, 7549-7551). He quotes Scholem's judgement that Kawwanah, as a mystical act linked to the inner cosmic process, approaches and passes the border of the magical (wirszubski1989:7518-7530). On that reading the second condition carries into Orphic magic the discipline of Kabbalistic prayer, as 10>4 carries the Psalms into Cabala (editorial inference from wirszubski1989:7549-7551 and farmer1998:25671-25672).",
+  "context": "The section of thirty-one Orphic conclusions presents a secret magic that Pico claims to have been the first to draw from the hymns, to be shown only by aphoristic hints (farmer1998:25560-25572). Farmer reads the claim of originality as aimed at Ficino, who had earlier written his own commentary on the hymns (farmer1998:25645-25646). He reports that Pico apparently used the Greek text of the hymns in his library, since his renderings of the gods' names differ from the translation attributed to Ficino in the Laurenziana manuscript Plut. 36, 35 (farmer1998:25600-25605). Pico read the hymns partly through the Orphic fragments in Proclus and through his understanding of the Kabbalah (farmer1998:25595-25598). Among the mathematical theses, 7>7 and 7>8 hold that music moves the spirits that serve the soul and heals the body through the soul (farmer1998:23717-23721). Corazzol shows that the Oration defines magic as the consummation of natural philosophy and contrasts it with witchcraft, which depends wholly on demons (corazzol2019:606-618).",
+  "reception": "Busi, in an essay on the serpent that teaches Orpheus music in Pico's Commento, collects 7>7, 7>8 and 10>2 in a note and singles out 10>2 for its Orphic context (busi2014:21347-21392, 21380). In the essay itself he argues that the gifts of Orpheus' music remain in this world and hold him back from the ascent to the celestial Venus (busi2014:21361-21369). Howlett cites 10>2 as evidence that Pico did not deny natural magic and accepted the correspondences between worlds on which it rests, as described in Ficino's De vita (howlett2021:5511-5522). She distinguishes it from Kabbalah, which she reads as Scholem's magic of inwardness, the mystical experience that changes consciousness (howlett2021:5522-5525).",
+  "historiography": "Farmer reports that Walker, who like Yates confused Pico's natural magic with Ficino's, took 10>2 to refer to the music Ficino used to draw down celestial powers in De vita coelitus comparanda (farmer1998:25649-25652). Farmer denies any reason to assume celestial magic here and argues that the thesis can apply equally to prophetic or mystical exegesis or to control of non-celestial powers (farmer1998:25652-25655). Howlett keeps the Ficinian frame for natural magic but places Pico's Kabbalah above the theurgic magus found in Ficino (howlett2021:5502-5511). Theurgy, in the Chaldean tradition Pico also drew on, is the set of rites by which the soul is made to separate from the body and ascend (corazzol2019:140-143). Wirszubski's reading moves the thesis in a third direction, toward Kabbalistic prayer (wirszubski1989:7549-7551). The three readings agree that the hymns work only under conditions that engage the operator's mind, which is what separates Pico's natural magic from the demonic magic of 9>1 (editorial inference from farmer1998:25111-25117, 25575-25577 and wirszubski1989:7549-7551).",
+  "connections": [
+    "10>1",
+    "10>3",
+    "10>4",
+    "10>7",
+    "9>1",
+    "9>2",
+    "7>7",
+    "7>8"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "animi intentio, which is the exact equivalent of",
+      "work": "wirszubski1989",
+      "line": 7550,
+      "verbatim": true
+    },
+    {
+      "text": "there is no reason to assume that celestial magic is what Pico had in mind here",
+      "work": "farmer1998",
+      "line": 25652,
+      "verbatim": true
+    },
+    {
+      "text": "Particolarmente interessante per il suo contesto «orfico» è poi",
+      "work": "busi2014",
+      "line": 21388,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "What the 'other circumstances known to the wise' were: not established by the sources consulted.",
+    "Whether Pico intended the hymns to be sung, and to what music: not established by the sources consulted.",
+    "Walker's own argument (1975: 22ff.) was not consulted; it is reported here only through Farmer (farmer1998:25649-25652).",
+    "Any reaction to this thesis by the papal commission: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B1b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

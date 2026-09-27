@@ -1,0 +1,84 @@
+{
+  "thesis_id": "28.33",
+  "tier": "A",
+  "latin": "Nullae sunt litterae in tota lege quae in formis, coniunctionibus, separationibus, tortuositate, directione, defectu, superabundantia, minoritate, maioritate, coronatione, clausura, apertura, et ordine, decem numerationum secreta non manifestent.",
+  "latin_source": "farmer1998:18183",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:18183-18187), u/v as Farmer prints them. Farmer prints a comma after 'ordine'; Wirszubski prints the thesis without it (wirszubski1989:2606-2609), and his OCR reads 'decern' for 'decem'. Busi and Ebgi cite the thesis with 'tortositate' (busi2014:20323); whether that is their reading or a misprint is not established. Mandosio prints it with j and ae-ligature spellings (mandosio2012:471).",
+  "translation": "In the whole Law there is not a letter that fails to lay open the secrets of the ten numerations, in its shapes, its joinings and its separations, its bending and its straightness, its lack and its surplus, its smallness and its largeness, its crowning, its closing and its opening, and its order.",
+  "translation_note": "The Latin plural 'Nullae sunt litterae' is rendered by a singular for English idiom. 'numerationes' is the literal Latin for the Hebrew sefirah (farmer1998:17811). 'defectus' and 'superabundantia' name letters missing from or added to the spelling; Wirszubski's English of the Hebrew source has 'missing and superfluous' (wirszubski1989:2615). 'clausura' and 'apertura' are closed and open letter forms, such as closed and open mem (wirszubski1989:8720-8721). 'coronatio' is rendered 'crowning' after the source's 'crowns of letters' (wirszubski1989:2615).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B1b), checked against the sense of Farmer's English at farmer1998:18242; awaiting human check",
+  "pico_stance": "reports",
+  "attribution": "The Hebrew Cabalist wise men: thirty-third of the forty-seven conclusions given according to their secret doctrine, not Pico's own opinion (farmer1998:17476-17479, 18183).",
+  "sources": [
+    {
+      "text": "Menahem Recanati, Commentary on the Torah, fol. 48ra",
+      "locator": "wirszubski1989:2611",
+      "pico_relation": "word-for-word source according to Wirszubski"
+    },
+    {
+      "text": "Menahem Recanati, Commentary on the Torah, fol. 113vb",
+      "locator": "wirszubski1989:2631",
+      "pico_relation": "parallel passage cited by Wirszubski, which omits the crowns of letters"
+    }
+  ],
+  "doctrine": "The thesis claims that every visible feature of the letters of the Torah discloses the secrets of the ten numerations: their shapes, their joining and separation, bent and straight forms, missing and added letters, small and large letters, crowns, closed and open forms, and their order (farmer1998:18183-18187). 'Numeration' is the literal Latin for the Hebrew sefirah (farmer1998:17811); in Farmer's gloss the ten sefirot are the emanated states of God's nature (farmer1998:17608-17609). Wirszubski identifies the thesis as a word-for-word quotation from Menahem Recanati's Commentary on the Torah, folio 48ra (wirszubski1989:2611). In his English of the Hebrew, the letters in all these features are indicative of the ordination of the ten sefirot (wirszubski1989:2613-2629). He adds that folio 113vb of the same commentary states the doctrine without mentioning the crowns of letters (wirszubski1989:2631-2632). Farmer likewise calls the thesis a close reading of Recanati's Hebrew text (farmer1998:18216). The object of the claim is the written text, the physical letter and its spelling, which Wirszubski describes as the peculiarities of the Masorah (wirszubski1989:3136-3137). The list therefore makes the scribal form of the Law, and not only its sense, a map of the divine nature (editorial inference from farmer1998:18183-18187 and wirszubski1989:2628-2629).",
+  "context": "The section is given according to the secret doctrine of the Hebrew Cabalist wise men (farmer1998:17476-17479). Farmer holds that all its theses were drawn from late-medieval texts, although Pico believed that they derived from oral tradition going back to Moses (farmer1998:17435-17436). Wirszubski names Recanati as demonstrably the direct source of some twenty-five theses of the set (wirszubski1989:3119-3123). He cites this thesis as proof that it was from Recanati, and not from the biblical commentary of Moses ben Nahman or the writings of Eleazar of Worms, that Pico learned the doctrine of the Masorah (wirszubski1989:3134-3137). Farmer reads 28.33 as an instance of Pico's general views on the mystical and magical powers of Hebrew, and cross-refers it to 28.47, 2>80, 3>55 and 9>22 (farmer1998:18216-18218). Thesis 2>80 holds that if there is a first language that is not accidental, many conjectures show it to be Hebrew (farmer1998:20213). Thesis 3>55 promises whoever grasps the order of the Hebrew language a rule for finding everything knowable (farmer1998:21095). Thesis 9>22 denies magical power to any name taken as significant unless it is Hebrew or closely derived from it (farmer1998:25378-25380). Thesis 28.47 finds the order of the influx of the numerations expressed in the word AMEN, and Farmer's note on it refers back to 28.33 (farmer1998:18410-18411, 18468-18469).",
+  "reception": "Pico's own Cabalistic theses apply the doctrine: 11>41 says that the mystery of the closed mem shows why Christ sent the Paraclete after him (farmer1998:27235-27236). Wirszubski explains that the closed mem, the final form of the letter, stands in a nonfinal position in Isaiah 9:6, the only such case in the Hebrew Bible (wirszubski1989:8720-8724). In a letter he quotes, Pico accepts the Kabbalists' view that Moses hid divine mysteries under the very characters in which the Law is now written, against Jerome's report that Ezra changed the script (wirszubski1989:8684-8697, 8699-8702). Wirszubski adds that in the Heptaplus, written about two years later, Pico ends the seventh exposition with a Kabbalistic reading of the first Hebrew word of Genesis without naming Kabbalah (wirszubski1989:8742-8749). There Pico counts one hundred and three letters in the opening passage of Genesis and says that the Hebrews hold that recombining them by their rules would bring secret doctrines to light (wirszubski1989:8751-8756, 8793-8798). Mandosio reads 28.33 as a statement that the smallest details of the Hebrew characters are motivated, and he places John Dee's Monas hieroglyphica against it (mandosio2012:454-457, 471). He argues that Dee, following Geofroy Tory's Champ fleury, extended to every alphabet what Pico reserved to the Hebrew letters (mandosio2012:454-457, 508-509).",
+  "historiography": "Wirszubski's contribution is the source: the thesis is Recanati's sentence in Latin, and it proves Recanati to be the channel of Pico's Masoretic symbolism (wirszubski1989:2611, 3134-3137). He also sets a limit on it, calling letter symbolism one key to the mysteries of the Law and not the master key (wirszubski1989:8702-8704). Farmer accepts the reading of Recanati but disputes Wirszubski's claim that Pico depended on Flavius Mithridates' translations (farmer1998:17441-17443, 17484-17490). Busi and Ebgi quote 28.33 in Italian beside 3>55 to argue that Pico joined a perfect linguistic structure to the ten-grade sefirotic scheme (busi2014:20300-20309). They call the grounding of that bond in the forms and ductus of the letters a peculiarly Jewish trait (busi2014:20304-20306). Mandosio draws the consequence for method: for Pico the devices of Kabbalah, among them gematria, the conversion of words into numbers, work only with Hebrew characters (mandosio2012:422-427, 457-459). The thesis marks the point where Pico's Kabbalah is bound to one language and its script, which is the restriction that Dee's universal cabala later abandoned (editorial inference from mandosio2012:454-457, 508-509).",
+  "connections": [
+    "28.47",
+    "2>80",
+    "3>55",
+    "9>22",
+    "11>41",
+    "11>35"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "This is a word-for-word quotation from Recanati, fol. 48ra",
+      "work": "wirszubski1989",
+      "line": 2611,
+      "verbatim": true
+    },
+    {
+      "text": "A close reading of Recanati's Hebrew text",
+      "work": "farmer1998",
+      "line": 18216,
+      "verbatim": true
+    },
+    {
+      "text": "all peculiarities of the Masorah represented mysteries",
+      "work": "wirszubski1989",
+      "line": 3136,
+      "verbatim": true
+    },
+    {
+      "text": "one key — though by no means the master key",
+      "work": "wirszubski1989",
+      "line": 8703,
+      "verbatim": true
+    },
+    {
+      "text": "smallest details in the shape and order of the Hebrew characters are",
+      "work": "mandosio2012",
+      "line": 455,
+      "verbatim": true
+    },
+    {
+      "text": "sulle forme e il ductus delle lettere, sulla loro materia visiva",
+      "work": "busi2014",
+      "line": 20306,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico read Recanati fol. 48ra in Hebrew, in Mithridates' Latin, in extracts, or through oral instruction: Farmer holds the question unsettled for the section (farmer1998:17488-17496).",
+    "Which Hebrew manuscripts or printed Bibles showed Pico the crowned, large, small and closed letters the thesis lists: not established by the sources consulted.",
+    "Any reaction to this thesis by the papal commission or by Pico's contemporaries: not established by the sources consulted.",
+    "Whether Busi and Ebgi's 'tortositate' (busi2014:20323) is a variant reading or a misprint: not established."
+  ],
+  "writer": "WRITER-B1b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

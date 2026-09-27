@@ -1,0 +1,13 @@
+{
+ "thesis_id": "8>11",
+ "tier": "B",
+ "latin": "Dictum illud Zoroastris, ne exeas cum transit Lictor < >, perfecte intelligetur per illud Exodi, quando sunt prohibiti Israhelite exire domos suas in transitu angeli interficientis primogenita aegyptiorum.",
+ "latin_source": "farmer1998:24951",
+ "latin_note": "1486 reads 'ne ex eas' and 'trasit' for 'ne exeas'/'transit'; the blank space in the editio princeps (apparently left for an Aramaic word) is omitted in 1487 (farmer1998:25017).",
+ "translation": "That saying of Zoroaster, 'Do not go out when the lictor passes < >,' will be perfectly understood through that passage of Exodus, where the Israelites were forbidden to leave their houses while the angel passed, killing the firstborn of the Egyptians.",
+ "translation_note": "Sense checked against farmer1998:25001, which renders 'Lictor' as 'the attendant'; 'the lictor' is kept here as the closer equivalent of the Roman office named in the Latin. No divergence in sense.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T09b; sense checked against farmer1998:25001; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 8>, on the understanding of Zoroaster and his Chaldean expositors)",
+ "writer": "TRANSLATOR-T09b, 2026-09-26"
+}

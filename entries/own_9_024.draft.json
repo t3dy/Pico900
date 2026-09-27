@@ -1,0 +1,73 @@
+{
+  "thesis_id": "9>24",
+  "tier": "A",
+  "latin": "Ex secretioris philosophiae principiis necesse est confiteri plus posse caracteres et figuras in opere Magico, quam possit quaecunque qualitas materialis.",
+  "latin_source": "farmer1998:25470",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25470-25472), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); the hyphenated 'materi-alis' is joined, and Farmer's capital in 'Magico' is kept. Busi and Ebgi print 'magico' (busi2014:24482-24484); Akopyan adds commas after 'confiteri' and 'possit' (akopyan2018:616-617). No variant is recorded in Farmer's apparatus for this page (farmer1998:25482-25487).",
+  "translation": "By the principles of the more secret philosophy one has to grant that, in the magical work, characters and figures can achieve more than any material quality can, whatever it be.",
+  "translation_note": "'caracteres et figuras': left as 'characters and figures' because their sense is disputed (see doctrine). 'secretioris philosophiae': in the Apology Pico identifies it as the philosophy of the Pythagoreans, called 'more secret' because less known and less used (busi2014:24500-24502). 'confiteri': to admit or acknowledge, the vocabulary of a concession compelled by principles.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25522; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-fourth magical conclusion, the second of the series on numbers, characters and figures, 9>23-25 (farmer1998:25499-25500).",
+  "sources": [
+    {
+      "text": "Pythagorean mathematics, the 'more secret philosophy' of the Apology",
+      "locator": "busi2014:24499",
+      "pico_relation": "the principles invoked, as Pico identified them in the Apology"
+    },
+    {
+      "text": "Iamblichus, De communi mathematica scientia, in Ficino's Latin (Vat. Lat. 4530, annotated by Pico)",
+      "locator": "busi2014:10083",
+      "pico_relation": "the fullest late-antique account of mathematical entities available to Pico, according to Ebgi"
+    }
+  ],
+  "doctrine": "The thesis claims that, on the principles of a 'more secret philosophy', characters and figures can do more in the magical work than any material quality (farmer1998:25470-25472). In the Apology Pico named that philosophy: it is the Pythagoreans', 'quorum ego philosophiam in conclusione XXIIII voco secretiorem philosophiam', because it is less known and less used (busi2014:24500-24502). Its principle is that mathematical things are more formal than physical things and so more actual, and that as they depend less in their being, so they depend less in their operating (busi2014:24502-24504). Among mathematical things numbers, being more formal, are also more actual (busi2014:24508-24510). What characters and figures are is disputed: Farmer reads the Apology as showing that they refer to words and numbers, not to figures on astrological talismans (farmer1998:25497-25499). Ebgi treats characteres as graphic signs, the arcane figures of late-antique theurgy such as those Psellus describes on the Hecatic disc, which in Pico become elements able to capture in their forms powers hidden in nature (busi2014:9724-9737; busi2014:9747-9750). Material qualities, the term of comparison, are properties such as weight, lightness, hardness and heat, from which mathematical entities are abstracted (busi2014:10000-10004). Farmer adds that Pico's association of Pythagorean formal numbers with the creative powers of the intellectual nature, which makes them superior to the material qualities of Aristotelian physics, is suggested also by 3>25-26 (farmer1998:25500-25502).",
+  "context": "The thesis ran against the Christian authorities on magical signs whom Ebgi assembles, beginning with Augustine, who condemned characteres, placing them among the amulets and marks by which men make pacts with demons (busi2014:9895-9909; busi2014:9918). William of Auvergne held that figures and characters work marvels not by a natural power of their own but by a pact with demons, just as Christian sacred signs work by a pact with God (busi2014:9938-9947; busi2014:9963-9971). Aquinas argued in the Summa contra Gentiles that a figure is the cause of no action or passion, since it abstracts from all sensible matter and form, being a mathematical entity (busi2014:9990-9993; busi2014:10015-10020). Farmer notes that Aquinas and the authors of the Malleus Maleficarum, published shortly before Pico's text, associated magic using characters and figures with demonic magic, and suspects that Pico chose his language for its 'provocative effect' (farmer1998:25503-25506). Ebgi reads Pico's reply as a change of school: he spoke not as an Aristotelian but as a Pythagorean (busi2014:10037-10043).",
+  "reception": "In the Apology Pico held himself to natural magic, speaking of the 'true and natural' activity of characters and figures; he conceded that for the Peripatetics they have far less activity than material qualities, and stated that he had asserted their greater power not as true absolutely but as a consequence of the secret philosophy of the Pythagoreans, a dispute indifferent to faith (busi2014:24493-24508). Ebgi records that Iacopo Pignatelli, in his Novissimae consultationes canonicae of 1719, had already noticed the difference between the Thomist thesis and Pico's position (busi2014:10168-10170). Busi calls the thesis an extraordinary 'confiteor', never before voiced so plainly in European humanism, and notes the embarrassment with which it is dismissed by those who would make Pico a 'serious' philosopher (busi2014:1602-1608).",
+  "historiography": "Farmer holds that Yates's association of Pico with talismanic magic rested on misreadings of the Latin of 9>24-25 (farmer1998:7957-7959). His own reading of characters as words and numbers makes the thesis a claim about language and number (farmer1998:25497-25499). Ebgi keeps the graphic sense and gives the thesis a metaphysics: characters are formed from numbers, so that they stand a step below numerical matrices but a step above the horizon of material qualities, whence their greater power (busi2014:10133-10141). He traces that ranking to Iamblichus's De communi mathematica scientia, which Ficino translated and Pico annotated (busi2014:10083-10089; busi2014:10112-10116). Busi compares Pico's attempt to formalise the criteria of magical thought with the anthropology of the nineteenth and twentieth centuries (busi2014:1608-1626). The thesis is the point where Pico's magic takes the Pythagorean side against the physics of the schools, and the Apology's retreat to a claim valid only 'ut consequens' to that philosophy shows how exposed the position was (editorial inference from busi2014:24505-24508 and farmer1998:25500-25506).",
+  "connections": [
+    "9>1",
+    "9>2",
+    "9>23",
+    "9>25",
+    "3>25",
+    "3>26",
+    "7>9"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "quorum ego philosophiam in conclusione XXIIII voco secretiorem philosophiam",
+      "work": "busi2014",
+      "line": 24501,
+      "verbatim": true
+    },
+    {
+      "text": "sicut mathematica sunt formaliora phisicis, ita etiam actualiora",
+      "work": "busi2014",
+      "line": 24503,
+      "verbatim": true
+    },
+    {
+      "text": "chose his language for its provocative effect",
+      "work": "farmer1998",
+      "line": 25506,
+      "verbatim": true
+    },
+    {
+      "text": "non dixi ut in se et absolute verum, sed ut consequens",
+      "work": "busi2014",
+      "line": 24507,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico's 'characters' are graphic signs (Ebgi, busi2014:9747-9750) or words and numbers (Farmer, farmer1998:25497-25499): not established by the sources consulted.",
+    "Whether Pico knew the Malleus Maleficarum: Farmer's 'as Pico was surely aware' is an inference (farmer1998:25505), not established by the sources consulted.",
+    "Which passage of the Apology at Opera 175 Farmer relies on for 'characters' as words: not read for this entry (farmer1998:25497)."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

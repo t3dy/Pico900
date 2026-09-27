@@ -1,0 +1,60 @@
+{
+  "thesis_id": "9>20",
+  "tier": "A",
+  "latin": "Quaelibet uox uirtutem habet in magia, inquantum dei uoce formatur.",
+  "latin_source": "farmer1998:25370",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25370), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); Farmer's OCR numeral '9720' is read '9>20'. Farmer records no variant for this thesis (farmer1998:25385-25387). Akopyan prints 'in quantum' as two words (akopyan2018:626); Busi prints 'vox' and 'voce' with v (busi2014:1616-1617).",
+  "translation": "Any vocal sound whatever has force in magic to the extent that God's voice forms it.",
+  "translation_note": "'inquantum' is restrictive: a sound has power only so far as it is formed by God's voice, which makes the power a matter of degree. 'uirtus': 'force' or 'power', the operative capacity of a thing, not moral virtue. 'formatur' leaves open whether God's voice forms the sound at creation or the operator forms it after God's voice; the Latin does not decide.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25430; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twentieth magical conclusion, the second of the group on voices and names, 9>19-22 (farmer1998:25366-25380).",
+  "sources": [
+    {
+      "text": "Thesis 9>19: 'Ideo uoces et uerba in magico opere efficaciam habent, quia illud in quo primum magicam exercet natura, uox est dei'",
+      "locator": "farmer1998:25366",
+      "pico_relation": "the premise this thesis turns into a measure"
+    }
+  ],
+  "doctrine": "Where 9>19 says why voices work in magic, 9>20 says how far any one of them works: each has power in magic insofar as it is formed by God's voice (farmer1998:25366-25370). Farmer's gloss, which joins the two theses to creation by speech in Genesis 1 as the kabbalists read it, is given under 9>19 (farmer1998:25400-25402). Farmer adds a separate point about this thesis: together with 9>6 and 9>12, it suggests that for Pico imitative magic did not work mechanically but depended on the mediation of the purified soul (farmer1998:25253-25255). In 9>12 the form of all magical power comes from the soul of man standing and not falling (farmer1998:25276-25277). Read with that thesis, the forming of a sound by God's voice would require an operator whose soul is fit to receive it (editorial inference from farmer1998:25253-25255 and farmer1998:25276-25277). Busi reads the thesis the other way, from the sound itself: the reason for vocal efficacy lies in heaven, the archetypal act of desire is the Creator's, and whatever came after is an 'ecolalia del divino', in which the magus best imitates the sound of creation without claiming to understand it (busi2014:1582-1589).",
+  "context": "Pico's Orphic theses apply the same dependence of sound on conditions to song: nothing is more effective in natural magic than the Orphic hymns, if due music, intention of the soul and the other circumstances known to the wise are applied (farmer1998:25575-25577). Farmer rejects Walker's assumption that this referred to the music Ficino used to draw down celestial powers, and allows that it can apply to prophetic or mystical exegesis or to the control of non-celestial powers (farmer1998:25649-25655). Mandosio states the condition in linguistic terms: magic cannot work unless the magician's voice becomes the voice of God (mandosio2012:433-434).",
+  "reception": "Busi quotes the thesis in Italian at the centre of his account of Pico's magical language, between the thesis on meaningless voices and the thesis on characters and figures (busi2014:1579-1600; busi2014:1614-1619). Akopyan and Mandosio quote it with 9>19 and give it no separate commentary (akopyan2018:625-627; mandosio2012:477-478).",
+  "historiography": "The thesis is read in three ways: for Farmer the operative condition lies in the operator, whose purified soul mediates the effect (farmer1998:25253-25255). For Busi it lies in the sound, which comes closer to its source the less it means (busi2014:1585-1595). For Mandosio it lies in the language, since only a divinely instituted tongue lets the magician's voice become God's (mandosio2012:429-434). The word 'inquantum' makes vocal power a matter of participation, measured by closeness to God's voice, and that measure is the premise from which 9>21 draws its paradox (editorial inference from farmer1998:25370-25375).",
+  "connections": [
+    "9>19",
+    "9>21",
+    "9>22",
+    "9>6",
+    "9>12",
+    "10>2"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "ecolalia del divino",
+      "work": "busi2014",
+      "line": 1587,
+      "verbatim": true
+    },
+    {
+      "text": "Forma totius magicae uirtutis est ab anima hominis stante",
+      "work": "farmer1998",
+      "line": 25276,
+      "verbatim": true
+    },
+    {
+      "text": "did not work mechanically but depended on the mediation of the purified soul",
+      "work": "farmer1998",
+      "line": 25254,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico meant that God's voice forms every sound at creation or that the operator must form sounds after God's voice: not established by the sources consulted.",
+    "What 'etc.' covers in Farmer's grouping of 9>6, 9>12 and 9>20 (farmer1998:25253): not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

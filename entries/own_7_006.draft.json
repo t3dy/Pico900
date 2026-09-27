@@ -1,0 +1,60 @@
+{
+  "thesis_id": "7>6",
+  "tier": "A",
+  "latin": "Nihil magis nociuum theologo quam frequens et assidua in mathematicis Euclidis exercitatio.",
+  "latin_source": "farmer1998:23713",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:23713-23714), u/v as Farmer prints them. Cassirer, Mandosio and Pirtea cite the thesis with 'nocivum' (cassirer1942:1099-1101; mandosio2012:411; selfknowledge_notes:1236).",
+  "translation": "For a theologian nothing is more damaging than to train himself often and assiduously in the mathematics of Euclid.",
+  "translation_note": "'exercitatio' is practice or training, a habit acquired by repetition; 'frequens et assidua' qualifies the practice, not the study as such. 'mathematicis Euclidis' is rendered 'the mathematics of Euclid'; the thesis names no book of the Elements.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B1b), checked against the sense of Farmer's English at farmer1998:23764; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: sixth of the eighty-five conclusions on mathematics according to his own opinion (farmer1998:23606-23608, 23713).",
+  "sources": [],
+  "doctrine": "The thesis ranks sustained practice in Euclid's mathematics as the greatest harm to a theologian (farmer1998:23713-23714). Farmer explains the judgement from 7>4: Euclidean mathematics, unlike Neoplatonic and Neo-Pythagorean numerology, does not treat its objects as images of higher things (farmer1998:23740-23741). Thesis 7>4 holds that the objects of mathematics taken absolutely do not perfect the intellect, but taken as images of higher things lead it directly to the contemplation of intelligibles (farmer1998:23623-23625). The theses before it deny that mathematics is a true science, that it leads to happiness, or that it is sought for its own sake (farmer1998:23613-23621). The positive counterpart is formal arithmetic, which 7>9 calls the best way to natural prophecy (farmer1998:23724-23725). Farmer glosses formal arithmetic as mathematics that symbolises cosmological or metaphysical principles, and material arithmetic as mathematics applied to motion and change (farmer1998:23747-23749). A formal number, in Mandosio's account of Pico, is a number separated from matter and existing by itself like a Platonic idea (mandosio2012:195-201). Farmer adds that in the Oration and the Apology Pico, following Republic 7, calls applied mathematics 'mercantile arithmetic' (farmer1998:23750-23753). The harm, on this reading, is a habit of mind: repeated exercise in demonstrative mathematics holds the intellect at the level of magnitude and number as such and does not turn it towards the intelligibles that theology contemplates (editorial inference from farmer1998:23623-23625 and 23740-23741).",
+  "context": "Farmer describes Pico's numerology as a fusion of the emanationist metaphysics of Iamblichus, Syrianus and Proclus with gematria and scriptural number symbolism, drawing also on textbooks such as Nicomachus' Introduction to Arithmetic and Theon of Smyrna (farmer1998:23638-23645). Gematria is the family of techniques that operate on the numerical values of letters and words (farmer1998:3775-3780). Pirtea, in a chapter on self-knowledge, illumination and natural magic in Pico (selfknowledge_notes:20-24), notes that Pico gave Pythagorean and Platonic mathematics a large place while being contemptuous of Euclid (selfknowledge_notes:1234-1236). He observes that this contravenes the late-antique Platonist tradition of commentary on the Elements, although Pico owned a Greek manuscript of Proclus' commentary on Euclid (selfknowledge_notes:1237-1239). The preceding thesis, 7>5, condemns the moderns who dispute about nature mathematically (farmer1998:23628-23632).",
+  "reception": "Mandosio quotes 7>6 with 7>4 to mark an irreconcilable divergence between Pico and John Dee on the status and scope of mathematics (mandosio2012:368-377, 411-413). He argues that Dee built the Monas hieroglyphica in an ostensibly Euclidean form, as twenty-four theorems, and that this choice contradicts the incompatibility between theology and such mathematics endorsed by Pico (mandosio2012:426-433). Farmer notes that the mathematical section of the theses was drawn on heavily by Agrippa, Dee, Bruno, Fludd and Kircher (farmer1998:23692-23696).",
+  "historiography": "Cassirer reads the thesis as a consequence of Pico's refusal to grant mathematics any autonomous truth or independent theoretical content (cassirer1942:1081-1101). He concludes that Pico never went beyond Neopythagorean number mysticism and that his mathematics was essentially magical, continued by Reuchlin, whereas Cusanus opened the way to Leonardo and Galileo (cassirer1942:1076-1080, 1110-1115). Farmer, in the note to 7>5, likewise finds little support in these theses for the claim that Renaissance Platonism promoted mathematical physics (farmer1998:23700-23702). Pirtea narrows the target: he thinks it rather likely that Pico meant Euclidean mathematics as practised by the moderni of 7>5, whom Farmer identifies with the Oxford Calculators (selfknowledge_notes:1239-1242). The readings differ in scope: Cassirer takes the thesis as Pico's judgement on mathematics as such, Farmer as a judgement on mathematics not read as image, Pirtea as a polemic against one school's use of Euclid (cassirer1942:1097-1101; farmer1998:23740-23741; selfknowledge_notes:1239-1241). The thesis shows that Pico's claim for number as a way to all knowledge (7>11) excluded the one mathematics that later physics would use (editorial inference from farmer1998:23732-23734 and 23740-23741).",
+  "connections": [
+    "7>4",
+    "7>5",
+    "7>1",
+    "7>9",
+    "7>10",
+    "7>11"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Since Euclidean mathematics, unlike Neo-Platonic and Neo-Pythagorean numerology, does not deal with",
+      "work": "farmer1998",
+      "line": 23740,
+      "verbatim": true
+    },
+    {
+      "text": "while being rather contemptuous of Euclid",
+      "work": "selfknowledge_notes",
+      "line": 1235,
+      "verbatim": true
+    },
+    {
+      "text": "He never sought mathematics for its own sake",
+      "work": "cassirer1942",
+      "line": 1081,
+      "verbatim": true
+    },
+    {
+      "text": "is an irreconcilable divergence between the two thinkers",
+      "work": "mandosio2012",
+      "line": 370,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which parts of Euclid (geometry, the arithmetical books) Pico had in view: not established by the sources consulted.",
+    "The title and editors of the volume containing Pirtea's chapter (selfknowledge_notes): not given in the corpus copy.",
+    "Any reaction to this thesis by the papal commission or by contemporaries: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B1b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

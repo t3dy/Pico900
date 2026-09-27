@@ -1,0 +1,68 @@
+{
+  "thesis_id": "5>19",
+  "tier": "A",
+  "latin": "Possibile est ut pars rationalis animae nostrae, quam secundum peripateticos possibilem intellectum uoco, ad hoc perueniat, ut sine coniunctione ad phantasmata discurrat et operetur.",
+  "latin_source": "farmer1998:22458",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:22458-22460), u/v as Farmer prints them. Farmer's apparatus for this page lists variants for 5>15, 5>16 and 5>18 but none for 5>19 (farmer1998:22465-22469). Still and the German study cite it in the same wording (dougherty2008:9528-9530; kabbalah_paradigma:1326-1328).",
+  "translation": "The rational part of our soul, which in the language of the Peripatetics I call the possible intellect, can come to reason discursively and to act without being joined to phantasms.",
+  "translation_note": "'phantasmata' are the likenesses of sensed objects formed by the internal senses, from which Aristotelians held that the intelligible species is abstracted (dougherty2008:9403-9408). 'discurrat' names discursive reasoning, which with composition is the only operation Pico allows the rational part in 2>77 (farmer1998:20174-20177). 'Possibile est ut ... ad hoc perueniat' is rendered 'can come to': the thesis asserts an attainable state, not the soul's ordinary condition.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B1b), checked against the sense of Farmer's English at farmer1998:22515; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: nineteenth of the sixty-two conclusions according to his own opinion on the doctrine of Plato (farmer1998:22132-22137, 22458).",
+  "sources": [
+    {
+      "text": "Proclus, Commentary on the Timaeus, book 2 (Taylor's translation, 1:207-208, as cited by Farmer)",
+      "locator": "farmer1998:22531",
+      "pico_relation": "source according to Farmer ('Drawn again from')"
+    }
+  ],
+  "doctrine": "The thesis asserts that the rational part of the soul, which Pico names the possible intellect in Peripatetic terms, can reach a state in which it reasons and operates without recourse to phantasms (farmer1998:22458-22460). Farmer draws it from Proclus' commentary on the Timaeus, book 2, and calls it pertinent to Pico's fusion of the Platonic and Aristotelian theories of knowledge (farmer1998:22531-22533). In the Aristotelian account that Still summarises, the internal senses unify sense data into a phantasm, the agent intellect abstracts an intelligible species from it, and the intellect must turn back to the phantasm to know the individual (dougherty2008:9403-9412). Pico identifies the Peripatetic possible intellect with the rational part of the soul, and Farmer cites 5>19 for that identification (farmer1998:20011-20012, 5821-5825, 5847). In 2>77 Pico allows the rational part only two operations, composition and discourse, and denies it the abstractive operation that the Latin schools placed first (farmer1998:20174-20177, 5827-5829). In 2>31 he holds that intelligible species are not abstracted from phantasms (farmer1998:19318). Farmer reconstructs the resulting scheme: daily knowledge arises from universal images abstracted from phantasms and used by the rational part, while divine knowledge comes when the purged soul rises to its intellectual part and to the angelic intellect, which informs it with intelligible species (farmer1998:5821-5825, 5864-5868). On that scheme 5>19 states that the rational part itself, and not only the intellectual part above it, can be freed from the phantasm (editorial inference from farmer1998:22458-22460 and 5864-5868).",
+  "context": "The section is headed sixty-two conclusions on the doctrine of Plato, few of them brought forward here because the first paradoxical conclusion undertakes to discuss the whole of Plato's doctrine (farmer1998:22132-22137). Farmer names Proclus' commentary on the Timaeus as a major influence on the section and notes that some of its theses are aimed polemically at Ficino (farmer1998:22151-22154). Farmer's account of the two theories is that Aristotle stressed abstraction from sense and Plato the soul's innate knowledge, and that Pico made both agree that ordinary knowledge depends on sense while the highest knowledge transcends it (farmer1998:5778-5784). The historical thesis 1.6, given according to Albert, says that the separated soul understands through species created with it, which it never or rarely uses while in the body (farmer1998:11040-11041). Farmer ties 1.6 to 3>40, 5>19, 5>29-30 and 5>54 (farmer1998:11072-11074). Thesis 5>29 restricts understanding by inspection of the ideas to the supreme grade of contemplative perfection (farmer1998:22660-22662). Thesis 3>40 claims that by a purgatorial way the soul can acquire perfect knowledge of everything knowable (farmer1998:20868-20872).",
+  "reception": "Farmer reports that in the Apology Pico defended before the papal commission the position that the soul has no intrinsic knowledge except a hidden understanding of itself, invoking Augustine and Henry of Ghent (farmer1998:5861-5864). Blum, in the essay 'Pico, Theology, and the Church' (dougherty2008:115-116), describes that hidden understanding as a kind of intuition that works without reference to phantasms, discussed in the Apology under the last censured thesis, 3>60 (dougherty2008:2395-2399). Mandosio uses 5>19 to explain Pico's formal numbers, the numbers that exist apart from matter like Platonic ideas (mandosio2012:195-201). He argues that they are the intelligible images able to perfect the rational part once it operates without phantasms, and so give access to higher knowledge such as natural prophecy (mandosio2012:262-272, 309-311).",
+  "historiography": "Still reads 5>19 inside a two-track theory: a lower track that begins with the senses and serves daily life, and a higher track that uses intelligibles present to the soul from its beginning (dougherty2008:9486-9494). He credits the harmonising purpose of the two tracks to Farmer (dougherty2008:9495-9496, 9525). Still adds that Pico allows the rational soul to operate without phantasms, but that in Pico's earlier works this higher track is open only to the few (dougherty2008:9504-9507). The German study of Pico's Christian Kabbalah, whose author is not named in the corpus copy, pairs 5>19 with 3>66 (kabbalah_paradigma:1324-1328). It reads them as a stepwise liberation of the rational part, as possible intellect, from imaginative data, until it is certain of knowing by its own substantial form (kabbalah_paradigma:1298-1300). Farmer, Still and the German study agree that the thesis concerns the rational part and not only the intellect above it (farmer1998:5821-5825; dougherty2008:9504-9506; kabbalah_paradigma:1298-1300). The thesis shows Pico using a Proclan text to give the Peripatetic possible intellect a Platonic destiny, the point on which his harmony of Plato and Aristotle turns (editorial inference from farmer1998:22531-22533 and 5778-5784).",
+  "connections": [
+    "1.6",
+    "2>31",
+    "2>77",
+    "3>40",
+    "3>66",
+    "5>29",
+    "5>20",
+    "3>60"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "Pertinent to Pico's syncretic fusion of the Platonic and Aristotelian theories of knowledge",
+      "work": "farmer1998",
+      "line": 22531,
+      "verbatim": true
+    },
+    {
+      "text": "there are two tracks on which knowledge runs",
+      "work": "dougherty2008",
+      "line": 9491,
+      "verbatim": true
+    },
+    {
+      "text": "it is only to the few that this higher track is accessible",
+      "work": "dougherty2008",
+      "line": 9507,
+      "verbatim": true
+    },
+    {
+      "text": "Formal numbers are precisely those",
+      "work": "mandosio2012",
+      "line": 268,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The Proclus passage (In Timaeum 2, Taylor 1:207-208) was not read; its wording and Pico's use of it are not established by the sources consulted.",
+    "Whether Pico meant the state described to be reached in this life by the few, as Still reads it, or only in contemplative rapture: not decided by the sources consulted.",
+    "Any reaction to this thesis by the papal commission: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B1b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

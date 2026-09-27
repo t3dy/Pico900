@@ -1,0 +1,36 @@
+{
+  "thesis_id": "11>13",
+  "tier": "A",
+  "latin": "Qui operatur in Cabala sine admixtione extranei, si diu erit in opere, morietur ex binsica, et si errabit in opere aut non purificatus accesserit, deuorabitur ab Azazele per proprietatem iudicii.",
+  "latin_source": "farmer1998:26608",
+  "latin_note": "Farmer's OCR prints the number as '11213' (farmer1998:26608). His apparatus records that the prints of 1486 and 1487 read 'ab a zazele' (farmer1998:26615). Corazzol and Howlett quote 'in opera' for 'in opere', Howlett also 'operator' (corazzol2019:922; howlett2021:9518); Wirszubski prints a semicolon after 'binsica' (wirszubski1989:8120).",
+  "numbering_note": "Pico's heading gives the section seventy-one theses; the text has seventy-two (farmer1998:26248; wirszubski1989:8214).",
+  "translation": "One who works in Cabala with nothing foreign mixed in will die of binsica if he persists long in the work; if he errs in the work, or approaches it without purification, Azazel will devour him by the property of judgment.",
+  "translation_note": "'binsica' is left untranslated: Pico's transliteration for the death of the kiss (wirszubski1989:8124), which Copenhaver analyses as Hebrew neshiqah, 'kiss', preceded by be, 'in' (copenhaver2019:15963). 'proprietas iudicii' renders middah, 'property', of din, 'judgment' (wirszubski1989:7210; farmer1998:26684).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B3b) from Farmer's Latin, sense checked against farmer1998:26667; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: thirteenth of the Cabalistic conclusions confirming the Christian religion, section 11> (farmer1998:26608).",
+  "sources": [
+    {"text": "Abraham Abulafia, Sefer sitre Torah (De secretis legis), Latin by Flavius Mithridates, Vat. Ebr. 190, fol. 468v: one lot is the Lord's and one Azazel's", "locator": "busi2014:8646", "pico_relation": "proposed in the Busi and Ebgi volume as where Pico met Azazel"},
+    {"text": "Vat. Ebr. 191, fol. 332r: Azazel is Samael, named for the weight upon him from the property of severe judgment", "locator": "wirszubski1989:8136", "pico_relation": "Wirszubski's gloss on Azazel from a text Pico had in Latin"},
+    {"text": "Thomas Aquinas, Summa theologiae I, q. 97, a. 4, on the tree of life and decay 'ex admixtione extranei'", "locator": "busi2014:8595", "pico_relation": "echoed in the phrase 'sine admixtione extranei', according to the Busi and Ebgi volume"}
+  ],
+  "doctrine": "The thesis names two outcomes of working in Cabala (farmer1998:26608). Persistence in pure work ends in binsica, which Wirszubski reads simply as dying the death of the kiss (wirszubski1989:8124). Error or impurity ends in being devoured by Azazel through the property of judgment (farmer1998:26609). Farmer glosses Azazel as the demon of the scapegoat ritual of Leviticus 16:8-10 and the property of judgment as Din, the fifth sefirah, the stern retribution of God (farmer1998:26683). The sefirot are the ten emanated powers of God in theosophical Kabbalah, called numerationes in Pico's Latin (wirszubski1989:6836). Wirszubski argues from 11>11 that, since the death of the kiss is the second death, the separation of the body from the soul, pure operation in Cabala must produce the first, the soul's rapture out of the body, which precedes it (wirszubski1989:8126). From 11>12, which requires the operator to be rationally intellectual, and from the place of the death of the kiss as the crown of the contemplative life, he concludes that Pico conceived pure Kabbalistic operation as a contemplative activity, pointing to the two contemplative forms of Kabbala Pico knew, Kawwanah and Abulafia's art of combining letters, while granting that its precise mode eludes identification (wirszubski1989:8150; wirszubski1989:8156; wirszubski1989:8160). Farmer draws the parallel inference that Pico associated Cabalistic works with mystical states (farmer1998:26684).",
+  "context": "Corazzol reads the thesis as proof that Pico knew the Kabbalistic notion that the attribute of judgment, Middat ha-Din, is activated by bodily or spiritual impurity, a notion he documents in Recanati (corazzol2019:921; corazzol2019:924). Copenhaver finds the same danger in a Zohar passage on the angels who guard the evening: one who prays disrespectfully meets the angel of death early and will not die by a kiss (copenhaver2019:15951; copenhaver2019:15953). He also compares Pico's warning with Iamblichus's awareness that the misuse of theurgy was dangerous (copenhaver2019:17596). In the Busi and Ebgi volume, the section signed 'G.B.' reads 'sine admixtione extranei' as a play on Aquinas's account of the tree of life, turned by Pico, following Azriel of Gerona as known through Recanati, into the work of the 'other side' (busi2014:8595; busi2014:8626).",
+  "reception": "The thesis was not among those the commission censured; Blum notes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). Howlett takes the thesis as Pico's claim that the death of the kiss is the final end of the Kabbalist's journey (howlett2021:8901).",
+  "historiography": "Wirszubski found binsica unproblematic and the phrase 'operari in cabala sine admixtione extranei' uncertain (wirszubski1989:8124). The Busi and Ebgi volume answers his remark directly, holding that we now know what Pico had in mind: the ladder to heaven tilts toward hell for one who climbs without care, and Azazel is waiting (busi2014:8659; busi2014:8663). It also notes that Wirszubski cited a different passage for Azazel from the one it proposes in Abulafia (busi2014:8676). The two readings differ in emphasis: Wirszubski's contemplative account explains the first clause, the death of the kiss, while the Busi and Ebgi reading and Corazzol's explain the second, the danger of impurity (wirszubski1989:8160; busi2014:8628; corazzol2019:924). The thesis is the plainest statement in the set that Pico's Cabala is an operation with risks, whose success is death in union and whose failure is destruction by judgment (farmer1998:26608; wirszubski1989:8163).",
+  "connections": ["11>11", "11>12", "8>7", "10>14", "28.3", "9>26"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "I wish the meaning of operari in cabala sine admixtione extranei were half as certain", "work": "wirszubski1989", "line": 8125, "verbatim": true},
+    {"text": "This conclusion makes clear that Pico was fully aware", "work": "corazzol2019", "line": 924, "verbatim": true}
+  ],
+  "not_established": [
+    "What 'admixtio extranei' denotes in Pico's usage; Wirszubski, the Busi and Ebgi volume and Corazzol give different accounts.",
+    "Whether Pico read Abulafia's passage on Azazel; the Busi and Ebgi volume proposes it as the most probable meeting place."
+  ],
+  "writer": "WRITER-B3b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

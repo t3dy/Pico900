@@ -1,0 +1,35 @@
+{
+  "thesis_id": "11>51",
+  "tier": "A",
+  "latin": "Sicut fuit luna plena in Salomone, ita fuit plenus Sol in uero Messia qui fuit Iesus. Et de conrespondentia ad diminutionem in sedecia potest quis coniectare, si profundat in cabala.",
+  "latin_source": "farmer1998:27445",
+  "latin_note": "Farmer prints a slash between 'diminutionem' and 'in' and closes with the folio marker <33v/34r> (farmer1998:27446); both are omitted here. Busi and Ebgi read 'Sedecia' (busi2014:25057); Akopyan reads 'correspondencia' and 'Sedechia' (akopyan2021:1401).",
+  "translation": "As the moon stood full in Solomon, so the sun stood full in the true Messiah, who was Jesus. And about the corresponding decline in Zedekiah one may conjecture, if one delves deep into the Cabala.",
+  "translation_note": "'conrespondentia ad diminutionem' is taken as the decline that answers to the fullness; Farmer renders it as a diminished correspondence (farmer1998:27499). 'profundat' is taken as 'goes deep'. Zedekiah was king of Judah when it fell to the Babylonians (farmer1998:27506).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer's Latin, sense checked against farmer1998:27498; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: Cabalistic conclusions confirming the Christian religion, section 11> (farmer1998:26227).",
+  "sources": [
+    {"text": "2 Kings 24:18 ff. (Vulgate 4 Kings), on Zedekiah, last king of Judah", "locator": "farmer1998:27507", "pico_relation": "Farmer's reference for the figure of Zedekiah"}
+  ],
+  "doctrine": "The thesis sets the fullness of the moon in Solomon beside the fullness of the sun in Jesus, the true Messiah, and leaves the corresponding decline in Zedekiah to the conjecture of one versed in the Cabala (farmer1998:27445). Farmer identifies Zedekiah as the king of Judah when it fell to the Babylonians, which he takes to explain his diminished correspondence with Christ (farmer1998:27506). Correlating the thesis with 11>48, Farmer finds Jesus, the sun, associated with the sixth sefirah, the 'great Adam' of 28.10 (farmer1998:27507; farmer1998:17788). The sefirot are the ten emanated powers of God in theosophical Kabbalah, called numerationes in Pico's Latin sources and running from Crown (Keter) through Glory (Tiferet), the sixth, to Kingdom (Malkut), the tenth (wirszubski1989:7451; wirszubski1989:8476). In 11>48 the moon answers to the tenth numeration, and the editor therefore reads the pairing as Solomon at Kingdom and Jesus at Glory (farmer1998:27426; farmer1998:27425). The German study of Pico's epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) reads the sun and the shining mirror, which as Tipheret meet the Shechinah and so, in Kabbalistic symbolism, the moon, as a pointer to the Messiah, citing this thesis with 11>54 (kabbalah_paradigma:1861; kabbalah_paradigma:1888).",
+  "context": "Akopyan reads the thesis astrologically: Pico refers to the Arabic practice of the hylegh and to the medieval doctrine of the horoscopes of Christ, both within a Kabbalistic context (akopyan2021:1331; akopyan2021:1370). The hylegh are the five elements that astrologers held to determine a human life, namely the sun, the moon, the horoscope, the Part of Fortune and the place of the full or new moon before birth, and Akopyan takes the full moon at Solomon's birth and the full sun at Jesus' birth as examples of them (akopyan2018:639). He refers to Ornella Pompeo Faracovi's Gli oroscopi di Cristo for the technique of the horoscopes of Christ, based on the theory of great conjunctions (akopyan2021:1399). Pico later examined the doctrine of the hylegh in the Disputationes, where he argued that Haly Abenragel had misunderstood Ptolemy (akopyan2021:4266; akopyan2021:4276). Busi and Ebgi print the thesis in their anthology under the heading 'Sole, Messia', directly after 11>46 on the eclipse at Christ's death (busi2014:21424; busi2014:21427).",
+  "reception": "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). Sheila Rabin quotes it last among four Kabbalistic theses on astrology (dougherty2008:7906). Busi and Ebgi show that the comparison of Christ with the sun became explicit in the Heptaplus, where Pico wrote that Christ could be imagined in no better way than by comparing him to the sun (busi2014:21880).",
+  "historiography": "Two readings stand in the scholarship: Farmer reads the thesis through the sefirot, making the sun the sixth sefirah and Jesus the 'great Adam' (farmer1998:27507), while Akopyan reads it as natal astrology, with the full moon and the full sun as hylegh at the births of Solomon and Jesus (akopyan2018:641). Busi and Ebgi supply a bridge between them: the Kabbalists made the sun correspond to tif'eret, an identification they call common among Kabbalists (busi2014:21933; busi2014:21995). The German study places the thesis in a Christology built on Tipheret and its union with the Shechinah (kabbalah_paradigma:1856; kabbalah_paradigma:1861). The editor notes that the thesis leaves the case of Zedekiah to the reader's conjecture, a form that asserts a correspondence without stating the argument, and that this reticence is what allows readings as far apart as a sefirotic Christology and a horoscope (farmer1998:27446; akopyan2018:641).",
+  "connections": ["11>46", "11>48", "11>54", "11>18", "11>6", "11>15"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "Here the full Moon at the birth of Solomon and the full Sun at the birth of Jesus are the examples of these hylegh", "work": "akopyan2018", "line": 641, "verbatim": true},
+    {"text": "King of Judah when it fell to the Babylonians", "work": "farmer1998", "line": 27506, "verbatim": true},
+    {"text": "L'identificazione tra sole e ti/'eret è comune tra i cabbalisti", "work": "busi2014", "line": 21995, "verbatim": true}
+  ],
+  "not_established": [
+    "Whether Pico meant the full moon and full sun as natal configurations (akopyan2018:641), as sefirotic correspondences (farmer1998:27507), or both.",
+    "What conjecture about Zedekiah Pico had in mind.",
+    "Any Kabbalistic or astrological source for the full moon in Solomon; none is identified in the sources consulted."
+  ],
+  "writer": "WRITER-B4b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

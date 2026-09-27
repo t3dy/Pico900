@@ -1,0 +1,221 @@
+{
+ "thesis_id": "9>3",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/own_9_003.draft.json: 'PASS 9>3 own_9_003.draft.json / 1/1 drafts pass the entry gate'; 32 locators; translation/Farmer similarity 0.28)",
+ "quotations": [
+  {
+   "text": "parte pratica della scienza naturale",
+   "work": "busi2014",
+   "line": 1533,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the highest point of all philosophy",
+   "work": "mandosio2012",
+   "line": 567,
+   "verdict": "verbatim (Mandosio's rendering of 'apicem et fastigium totius philosophiae')"
+  },
+  {
+   "text": "concocted from the oil of scorpions and the tongues of asps",
+   "work": "farmer1998",
+   "line": 7143,
+   "verdict": "verbatim (7143-7144; Farmer quoting Crinitus)"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:25122; farmer1998:28040-28042",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Akopyan prints 9>3 and 9>4 together",
+   "locator": "akopyan2018:578",
+   "verdict": "SUPPORTED",
+   "note": "Akopyan n. 45 (578-579), cited '(ibid., 3-4)'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'scientia naturalis' is natural philosophy",
+   "locator": "copenhaver2019:20287",
+   "verdict": "SUPPORTED",
+   "note": "Copenhaver's T2M3: 'Magic is the practical part of natural knowledge.'"
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'pars practica' presupposes the Aristotelian division",
+   "locator": "farmer1998:25122; farmer1998:20976-20977",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the third magical conclusion",
+   "locator": "farmer1998:25122-25126",
+   "verdict": "SUPPORTED",
+   "note": "9>4 begins 'Ex ista conclusione ... sequitur'."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Thesis 3>46",
+   "locator": "farmer1998:20976",
+   "verdict": "SUPPORTED",
+   "note": "3>46 at 20976-20977; Farmer (25175-25176) notes that 9>4's 'xlvii' actually refers to the 46th."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis places magic inside the map of the sciences",
+   "locator": "farmer1998:25122",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer treats 9>3 and 9>4 together as a pair",
+   "locator": "farmer1998:25175",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's note is headed '9>3-4' and speaks of 'these theses'; he also discusses them together at 7235-7245."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The claim gives magic a place in the scholastic curriculum",
+   "locator": "farmer1998:25122; copenhaver2019:17648-17650",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer warns that it is a mistake",
+   "locator": "farmer1998:7262-7264",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Much of Pico's magic concerned esoteric ways of reading texts",
+   "locator": "farmer1998:7155-7179",
+   "verdict": "SUPPORTED",
+   "note": "Farmer 7156-7179, nearly word for word."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico, Farmer adds, apparently viewed",
+   "locator": "farmer1998:7179-7180",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "At the same time Farmer allows",
+   "locator": "farmer1998:7226-7231",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer notes that a surprisingly large part of Pico's library",
+   "locator": "farmer1998:7144-7146",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's note 89 reports this as Kibre's finding ('Kibre points out (pp. 101-8) that ...'). Recommend the WRITER say so; not changed here, since adding a name is not a verifier's correction."
+  },
+  {
+   "field": "context",
+   "sentence_start": "The only report of Pico practising medical magic",
+   "locator": "farmer1998:7140-7144",
+   "verdict": "OVERREACH",
+   "note": "Farmer: 'Pico apparently practiced \"magic\" of this sort himself, as Petrus Crinitus tells us' (De honesta disciplina, via Kibre 1936: 101). Farmer does not say it is the only report. Details (Ermolao Barbaro, plague, Rome, oil of scorpions, tongues of asps) checked."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Busi states that evidence is lacking",
+   "locator": "busi2014:1531-1535",
+   "verdict": "SUPPORTED",
+   "note": "'Mancano le prove per stabilire se Pico si sia davvero messo ad armeggiare con fumigazioni e pentacoli sui colli toscani. Ma che la magia sia «parte pratica della scienza naturale» (n. 9>3), e abbia dignità ingente nelle Conclusiones non è certo un mistero.' Busi's introduction."
+  },
+  {
+   "field": "context",
+   "sentence_start": "The definition Pedro Garcia used against Pico in 1489",
+   "locator": "farmer1998:7190-7196",
+   "verdict": "SUPPORTED",
+   "note": "Date 1489 checked (Petrus Garcias 1489: H4v)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico still called this practice",
+   "locator": "mandosio2012:567-568; farmer1998:7220-7223",
+   "verdict": "SUPPORTED",
+   "note": "Mandosio n. 81 quotes '[H]anc practicam scientiae naturalis quasi apicem et fastigium totius philosophiae' (ibid., V, p. 170); Farmer n. (7252) gives the source as 'Apology, in Opera, 170'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Akopyan paraphrases 9>3-4",
+   "locator": "akopyan2018:552-554",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer's reading sets the thesis against Yates",
+   "locator": "farmer1998:7121-7127",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer answers that Renaissance writers also used",
+   "locator": "farmer1998:7134-7157",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver reads the Apology's scheme in the same direction",
+   "locator": "copenhaver2019:17648-17651",
+   "verdict": "OVERREACH",
+   "note": "Content supported (the knowledge compared with magic is 'natural philosophy of the usual scholastic type—the study of physical change below the Moon'; magic and Kabbalah 'look higher'), but Copenhaver is explaining Pico's defence of T2M9 in the Apology and says nothing to align himself with Farmer's contemplative reading; 'in the same direction' is the drafter's."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Mandosio reads 'natural magic' as defined by Pico",
+   "locator": "mandosio2012:563",
+   "verdict": "SUPPORTED",
+   "note": "Mandosio n. 81."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows that Pico sought for magic a scholastic address",
+   "locator": "farmer1998:25122; mandosio2012:563-568",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Whether Pico practised any operative natural magic",
+   "locator": "busi2014:1531-1532",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "'Magia est pars practica scientiae naturalis' (farmer1998:25122); Farmer's English at 25162 has the same sense. The rendering 'that part of the science of nature which is practical' keeps 'pars practica' as a part, not an application."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "Two removals ('only'; 'in the same direction'). The first leaves 'A report' for 'The only report'.",
+ "corrections": [
+  {
+   "field": "context",
+   "replace": "The only report of Pico practising medical magic",
+   "with": "A report of Pico practising medical magic"
+  },
+  {
+   "field": "historiography",
+   "replace": "Copenhaver reads the Apology's scheme in the same direction: the knowledge",
+   "with": "Copenhaver reads the Apology's scheme: the knowledge"
+  }
+ ]
+}

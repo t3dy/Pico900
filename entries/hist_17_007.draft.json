@@ -1,0 +1,13 @@
+{
+ "thesis_id": "17.7",
+ "tier": "D",
+ "latin": "Passio a sensibili facta in organo solo, sensatio in anima sola, recipitur.",
+ "latin_source": "farmer1998:14646",
+ "latin_note": "Underscores in the source ('facta_in', 'sensatio_in') are OCR artifacts for a plain word space; read here as 'facta in' and 'sensatio in'.",
+ "translation": "The passive impression produced by a sensible object is received in the organ alone; sensation itself is received in the soul alone.",
+ "translation_note": "Sense checked against farmer1998:14680; no further crux.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:14680; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Simplicius (section 17 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

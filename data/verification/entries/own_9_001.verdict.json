@@ -1,0 +1,311 @@
+{
+ "thesis_id": "9>1",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/own_9_001.draft.json: 'PASS 9>1 own_9_001.draft.json / 1/1 drafts pass the entry gate'; 43 locators; translation/Farmer similarity 0.03)",
+ "quotations": [
+  {
+   "text": "quia hec omnia reprobavi in prima conclusione mea",
+   "work": "busi2014",
+   "line": 9917,
+   "verdict": "verbatim (in note 16 of Ebgi's entry CHARACTERES, quoting Apologia pp. 168, 176)"
+  },
+  {
+   "text": "The first four propositions distinguish good magic from bad",
+   "work": "copenhaver2019",
+   "line": 17364,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Piu che una scusa è una confessione",
+   "work": "busi2014",
+   "line": 1496,
+   "verdict": "verbatim (OCR 'Piu' for 'Più')"
+  },
+  {
+   "text": "Medieval magical treatises regularly began by protesting",
+   "work": "farmer1998",
+   "line": 25172,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:25111-25114",
+   "verdict": "SUPPORTED",
+   "note": "Latin matches Farmer 25111-25114 word for word; colophon at 28040-28042 reads 'die Septima Decembris' 1486."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The section heading is",
+   "locator": "farmer1998:25106-25107",
+   "verdict": "SUPPORTED",
+   "note": "'CONCLVSIONES MAGICAE NVMERO .XXVI. SECVNDVM OPINIONEM PROPRIAM.'"
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Akopyan and Busi reproduce the same wording",
+   "locator": "akopyan2021:1298; busi2014:1514",
+   "verdict": "OVERREACH",
+   "note": "Akopyan (n. 66, 1298-1301) gives the whole thesis with v. Busi's note (1514-1515) quotes only through 'nullam veritatem', not the whole wording. 'Busi' is right here: the introduction's running head is GIULIO BUSI."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'pendet ex manu' is literally",
+   "locator": "farmer1998:25113",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'potestatum harum tenebrarum' echoes Col. 1:13",
+   "locator": "farmer1998:25172",
+   "verdict": "SUPPORTED",
+   "note": "Farmer: '\"those powers of darkness\" (Col. 1:13) = cf. 22.9-10'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'exterminat' is rendered 'roots out'",
+   "locator": "busi2014:1493-1494",
+   "verdict": "SUPPORTED",
+   "note": "Busi's Italian at 1493-1494: 'e che la Chiesa giustamente sradica'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'prima ueritas' is God as first truth",
+   "locator": "farmer1998:25113-25114; farmer1998:25172",
+   "verdict": "SUPPORTED",
+   "note": "Declared as editorial inference."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the first of the twenty-six",
+   "locator": "farmer1998:25106-25111",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Col. 1:13",
+   "locator": "farmer1998:25172",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Thesis 22.9 from Porphyry",
+   "locator": "farmer1998:15550",
+   "verdict": "SUPPORTED",
+   "note": "22.9 at 15550-15551 under 'CONCLVSIONES SECVNDVM PORPHYRIVM' (15433); Farmer's cross-reference is to 22.9-10."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Oration, paragraphs 56-57",
+   "locator": "copenhaver2019:19582",
+   "verdict": "SUPPORTED",
+   "note": "Copenhaver's translation of Oration 56-57 at 19582-19596."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis opens the series by setting aside",
+   "locator": "farmer1998:25111-25113",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The reason given is causal",
+   "locator": "farmer1998:25113-25114; farmer1998:25172",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer cross-refers the demonology to 22.9",
+   "locator": "farmer1998:25172; farmer1998:15550",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's note reads 'cf. 22.9-10'; 22.9: 'Duplex est malorum demonum genus; alterum animae sunt et substantiales demones; alterum materiales potentiae et accidentales demones.'"
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis thus defines by exclusion the term 'goetia'",
+   "locator": "copenhaver2019:19582-19588",
+   "verdict": "SUPPORTED",
+   "note": "Oration 56 as translated by Copenhaver: magic 'which relies entirely on the activity and authority of demons'; the Greeks call it goeteia, 'never dignifying it with the word magic'. The link to 9>1 is editorial but backed by copenhaver2019:17364-17365."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "In the Oration Pico calls that kind",
+   "locator": "copenhaver2019:19595-19596",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The three denials of 9>1",
+   "locator": "farmer1998:25112; copenhaver2019:19595-19596",
+   "verdict": "SUPPORTED",
+   "note": "Marked as editorial inference."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer notes that medieval magical treatises",
+   "locator": "farmer1998:25172-25173",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver shows how little the late-antique legacy",
+   "locator": "copenhaver2019:17349-17354",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver observes that the first four magical propositions",
+   "locator": "copenhaver2019:17364-17365",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Akopyan likewise reads 9>1-2",
+   "locator": "akopyan2018:543-552",
+   "verdict": "SUPPORTED",
+   "note": "Akopyan: in the Conclusiones Pico 'repeats several ideas already expressed in the Oratio' and 'develops his preliminary considerations on two forms of magic', quoting 9>1 and 9>2."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Busi treats the disclaimer as more a confession",
+   "locator": "busi2014:1496-1500; busi2014:1558-1559",
+   "verdict": "SUPPORTED",
+   "note": "Busi 1496-1501: 'Piu che una scusa è una confessione'; the reputation of Pico mago persisted after his death; Benivieni denied it. Note 69 (1558-1559): Benivieni's letter of 15 March 1514. Date checked."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico made this thesis the anchor of his defence of the rest",
+   "locator": "busi2014:9914-9917",
+   "verdict": "OVERREACH",
+   "note": "The Apology passage (quoted in note 16 of the entry CHARACTERES, citing Apologia pp. 168, 176) limits only his conclusions 'de figuris, de numeris': he does not mean their superstitious use by pacts with demons, 'quia hec omnia reprobavi in prima conclusione mea'. It does not make 9>1 the anchor of the defence of 'the rest'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Busi and Ebgi summarise the Apology's argument",
+   "locator": "busi2014:9849-9856",
+   "verdict": "OVERREACH",
+   "note": "Content supported ('magia è termine equivoco ... giustamente è stata bandita dalla Chiesa'), but the passage is in the lexicon entry CHARACTERES (9627-10199), signed [R. E.] at 10199: it is Ebgi's, not Busi's and Ebgi's."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer judges that the magical theses",
+   "locator": "farmer1998:1355-1357",
+   "verdict": "LINE OFF",
+   "note": "The clause on the magical theses is at farmer1998:1357-1358 ('his magical theses, which, despite all disclaimers, were always open to suspicions of demonology and witch-craft')."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Voltaire read the first proposition against its intent",
+   "locator": "copenhaver2019:8916-8920",
+   "verdict": "OVERREACH",
+   "note": "Voltaire (Copenhaver's translation) paraphrases the first proposition and infers that Pico would grant that magic is the work of demons, calling the words 'contradictory'. 'Against its intent' is the drafter's judgement, not the source's; 9>1 itself ascribes the condemned magic to the powers of darkness."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Copenhaver cites this passage of the Essai among the jibes",
+   "locator": "copenhaver2019:8951-8952; copenhaver2019:23036",
+   "verdict": "OVERREACH",
+   "note": "Note 29 (23036) cites 'App. C.17.T2M1 ... Voltaire 1963, 2:87-89' and the text says Pico 'hit bottom in Europe's memory'; nothing about 'jibes' or 'a figure of fun'."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer places the thesis within the conventional prologue",
+   "locator": "farmer1998:25172-25173",
+   "verdict": "OVERREACH",
+   "note": "Farmer's note (on 9>1-2) says only that medieval magical treatises regularly began by protesting that their magic was natural, not demonic; 'a protest of innocence rather than a new doctrine' is not in Farmer."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver reads the first four theses as a public strategy",
+   "locator": "copenhaver2019:17361-17365",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver asks 'Did Pico want to advertise natural magic while keeping quiet about angel-magic?' and answers that the theses on magic (M) as a whole 'suggest so' (17361-17363). He does not tie the strategy to the first four theses, and he frames it as a question."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Busi reads it as a confession",
+   "locator": "busi2014:1496; busi2014:1514-1516",
+   "verdict": "SUPPORTED",
+   "note": "Busi: 'Piu che una scusa è una confessione'; note: 'è l'inizio della prima tra le ventisei Conclusiones magicae secundum opinionem propriam'. 'The suspicion Pico expected' is a light gloss on 'I malevoli lo devono aver pensato già nel 1486'."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis matters for the whole series because",
+   "locator": "busi2014:9914-9917",
+   "verdict": "OVERREACH",
+   "note": "The Apology applies 9>1 to his conclusions on figures and numbers, not to 'every magical conclusion that followed'."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Whether the commission examined this thesis at all",
+   "locator": "copenhaver2022:846-850",
+   "verdict": "SUPPORTED",
+   "note": "Copenhaver's Q1-Q13 list has no magic heading; 9>1 is not among the thirteen."
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against the Latin (farmer1998:25111-25114) and the sense of Farmer's English (farmer1998:25151-25154). The three denials, the causal 'quia', 'hostium primae ueritatis' and 'male dispositis intellectibus' are kept; 'merito' rendered 'rightly'. No qualifier lost."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "Corrections are removals of unsupported clauses or sentences, one line adjustment, and one narrowing of an attribution (Busi and Ebgi -> Ebgi, whose signed lexicon entry it is). Two re-joinings of grammar after a removal add no content. Removing the last historiography sentence leaves the entry closing on Busi rather than on significance (a style matter for the WRITER).",
+ "corrections": [
+  {
+   "field": "latin_note",
+   "replace": "Akopyan and Busi reproduce the same wording with v for consonantal u (akopyan2021:1298; busi2014:1514).",
+   "with": "Akopyan reproduces the same wording with v for consonantal u (akopyan2021:1298-1301)."
+  },
+  {
+   "field": "reception",
+   "replace": "In the Apology Pico made this thesis the anchor of his defence of the rest: speaking of figures and numbers in his conclusions, he said, he did not mean",
+   "with": "In the Apology, speaking of figures and numbers in his conclusions, Pico said he did not mean"
+  },
+  {
+   "field": "reception",
+   "replace": "Busi and Ebgi summarise",
+   "with": "Ebgi summarises"
+  },
+  {
+   "field": "reception",
+   "replace": "(farmer1998:1355-1357)",
+   "with": "(farmer1998:1357-1358)"
+  },
+  {
+   "field": "reception",
+   "replace": "Voltaire read the first proposition against its intent: from its words, he wrote,",
+   "with": "Voltaire read the first proposition: from its words, he wrote,"
+  },
+  {
+   "field": "reception",
+   "replace": "Copenhaver cites this passage of the Essai among the jibes by which Voltaire reduced Pico to a figure of fun (",
+   "with": "Copenhaver cites this passage of the Essai ("
+  },
+  {
+   "field": "historiography",
+   "replace": ", a protest of innocence rather than a new doctrine (farmer1998:25172-25173)",
+   "with": " (farmer1998:25172-25173)"
+  },
+  {
+   "field": "historiography",
+   "replace": "Copenhaver reads the first four theses as a public strategy, advertising natural magic while keeping quiet about angel-magic (copenhaver2019:17361-17365). ",
+   "with": ""
+  },
+  {
+   "field": "historiography",
+   "replace": " The thesis matters for the whole series because the Apology later made it the explicit limit on every magical conclusion that followed (busi2014:9914-9917).",
+   "with": ""
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+  "thesis_id": "9>22",
+  "tier": "A",
+  "latin": "Nulla nomina ut significatiua, et inquantum nomina sunt singula et per se sumpta, in magico opere uirtutem habere possunt, nisi sint hebraica, uel inde proxime deriuata.",
+  "latin_source": "farmer1998:25378",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25378-25380), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042). The 1486 print reads 'significativa.& inquantum' (farmer1998:25387); the point is taken as a comma, with Farmer. The text Wirszubski quotes from the Opera, and Akopyan's, punctuate 'inquantum nomina sunt, singula et per se sumpta' (wirszubski1989:9667-9668; akopyan2018:629). Akopyan's 'Hebraicam' (akopyan2018:630; akopyan2021:1354) is taken as a slip for 'Hebraica'.",
+  "translation": "No names, taken as signifying and in so far as they are names taken singly and by themselves, can have power in the magical work unless they are Hebrew or closely derived from Hebrew.",
+  "translation_note": "The comma after 'sunt' in the Opera text (wirszubski1989:9667-9668) makes 'singula et per se sumpta' qualify the names as taken one at a time and on their own; without it, as in Farmer's text, the words can be read as a predicate of 'sunt'. The translation follows the first construal. 'inde proxime deriuata': Farmer thinks Pico had 'Chaldean' names in mind (farmer1998:25452-25453); Mandosio identifies them with Aramaic, then called Chaldaic (mandosio2012:431-433).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25439; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-second magical conclusion, the last of the group on voices and names, 9>19-22 (farmer1998:25378-25380).",
+  "sources": [
+    {
+      "text": "Iamblichus, De mysteriis 7.4, on the barbarian (in particular Egyptian) names",
+      "locator": "farmer1998:25450",
+      "pico_relation": "Farmer's source; Pico substitutes Hebrew for the barbarian languages"
+    },
+    {
+      "text": "Thesis 2>80: 'Siqua est lingua prima et non casualis, illam esse Hebraicam multis patet coniecturis'",
+      "locator": "farmer1998:20213",
+      "pico_relation": "the premise that Hebrew is the first, non-arbitrary language"
+    }
+  ],
+  "doctrine": "The thesis limits the claim of 9>21: names used as signifiers, taken one at a time and in themselves, have no power in the magical work unless they are Hebrew or closely derived from Hebrew (farmer1998:25373-25380). Farmer derives it again from De mysteriis 7.4, with Pico replacing the barbarian languages, and Egyptian in particular, as Iamblichus had them, with Hebrew (farmer1998:25450-25451). The two qualifications, 'ut significatiua' and 'singula et per se sumpta', leave room for the power of non-signifying sounds in any tongue, which 9>21 has just affirmed, and for names in combination (editorial inference from farmer1998:25373 and farmer1998:25378-25379). The privilege of Hebrew rests on another of Pico's theses: if there is a first language that is not arbitrary, many conjectures show that it is Hebrew (farmer1998:20213-20214). Mandosio spells out the premise: Hebrew was the first tongue, created by God, the only one not 'casual', that is, conventional, like the languages men invented after the Fall (mandosio2012:450-454). Busi's formulation is that Hebrew is not a language like the others, since the world belongs to it, created and kept in being through it, and so it escapes the principle that the divine is non-semantic (busi2014:1636-1639). Hebrew, on this reading, is 'vox divina' (busi2014:1644).",
+  "context": "Farmer lists this thesis among those that reflect Pico's general views of the mystical and magical powers of Hebrew, in his note on the kabbalistic thesis that no letters in the whole Law fail to manifest, in their forms, joinings, separations and order, the secrets of the ten numerations (farmer1998:18183-18187; farmer1998:18216-18218). The numerations are the sefirot, the ten emanated powers of God in kabbalistic doctrine (farmer1998:18216-18217; mandosio2012:297-300). A related thesis promises a norm for finding everything knowable to whoever grasps the order of the Hebrew language (farmer1998:21095-21097); Wirszubski explains it by the alphabet as the foundation of isopsephic equations and of combinations of letters (wirszubski1989:9654-9658). Busi stresses that the exalted view of Hebrew was not Pico's invention but part of the biblical heritage and of Jewish and in part Christian apologetics, and that Pico exploited the books translated for him by Del Medigo and Mitridate (busi2014:1649-1655). Farmer notes that in the Orphic theses Pico also implies that magic lay hidden in Greek (farmer1998:25453-25454).",
+  "reception": "Mandosio shows John Dee departing from this thesis: Dee told 'the Hebrew cabalist' that the keys of his art, gematria (the conversion of words into numbers), notaricon and tsiruf, could be used outside the holy language, because God is the God of all peoples, nations and languages (mandosio2012:423-427; mandosio2012:435-439; mandosio2012:479-480). For Mandosio this Christianisation of cabala showed Pico's conception to be too narrow in its dependence on Jewish cabala (mandosio2012:440-445). Dee found the great mysteries of the alphabet in Latin and Greek as well as Hebrew, since all three write numbers with letters (mandosio2012:446-450). Howlett cites the thesis for Pico's play with language as well as mathematics in practical Kabbalah (howlett2021:5469-5470; howlett2021:6172-6177).",
+  "historiography": "Farmer's reading is source-critical: an Iamblichean doctrine of barbarian names transposed to Hebrew (farmer1998:25450-25451). Busi's is theological: Hebrew mediates between earth and heaven and between magic and theology, the indispensable complement of the highest magical operation (busi2014:1644-1648). Mandosio's is linguistic: the cabalistic devices only make sense with Hebrew characters, so that formal arithmetic and cabala coincide (mandosio2012:422-429). Copenhaver supplies examples of the names meant, singular names like 'Socrates' excluded and Hebrew names of Sefirot or angels admitted (copenhaver2019:17380-17381). The thesis takes the exotic language of Iamblichus's ritual names and puts in its place the language of revelation, which ties the magic of names to Kabbalah (editorial inference from farmer1998:25450-25451 and farmer1998:18216-18218).",
+  "connections": [
+    "9>19",
+    "9>20",
+    "9>21",
+    "9>25",
+    "2>80",
+    "3>55",
+    "28.33",
+    "28.47"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "Siqua est lingua prima et non casualis, illam esse Hebraicam",
+      "work": "farmer1998",
+      "line": 20213,
+      "verbatim": true
+    },
+    {
+      "text": "with Pico replacing barbarian languages",
+      "work": "farmer1998",
+      "line": 25450,
+      "verbatim": true
+    },
+    {
+      "text": "L'ebraico è dunque vox divina",
+      "work": "busi2014",
+      "line": 1644,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which 'closely derived' names Pico meant: not established by the sources consulted; Farmer's 'Chaldean' is presumptive (farmer1998:25452-25453).",
+    "What version of De mysteriis Pico used for this thesis: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

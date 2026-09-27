@@ -1,0 +1,80 @@
+{
+  "thesis_id": "9>23",
+  "tier": "A",
+  "latin": "Quilibet numerus praeter ternarium et denarium sunt materiales in magia; isti formales sunt, et in magica arithmetica sunt numeri numerorum.",
+  "latin_source": "farmer1998:25465",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25465-25466), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042). The slash in Farmer's text after 'materiales' marks the turn from folio 29r to 29v of the print (farmer1998:25465-25467) and is omitted here. 'Quilibet numerus ... sunt materiales' joins a singular subject to a plural verb and predicate; it is kept as printed, and Mandosio and Akopyan print the same (mandosio2012:319-320; akopyan2018:615). Akopyan reads 'in Magia Arithmetica' for 'in magica arithmetica' (akopyan2018:615-616; akopyan2021:1344-1345).",
+  "translation": "In magic every number but the ternary and the denary is material; these two are formal, and in the arithmetic of magic they are the numbers of numbers.",
+  "translation_note": "'ternarius', 'denarius': three and ten, kept as 'the ternary' and 'the denary' because, as Mandosio observes, Pico's names of this kind point to the essence of a number and are not used to count things (mandosio2012:274-278). 'sunt materiales' is rendered in the singular to agree with 'quilibet numerus'. 'numeri numerorum': the numbers that stand to the others as their principles; see the Apology's explanation reported in the doctrine field.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25517; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-third magical conclusion, the first of three on numbers, characters and figures that Farmer reads together, 9>23-25 (farmer1998:25499-25500; farmer1998:25543-25545).",
+  "sources": [
+    {
+      "text": "Thesis 7>9: 'Per arithmeticam non materialem, sed formalem, habetur optima uia ad prophetiam naturalem'",
+      "locator": "farmer1998:23724",
+      "pico_relation": "the distinction of formal and material arithmetic"
+    },
+    {
+      "text": "Thesis 3>26: 'qui sit formalis numerus, quem dixit Pythagoras esse principium omnium rerum'",
+      "locator": "farmer1998:20648",
+      "pico_relation": "the Pythagorean formal number as principle of all things"
+    },
+    {
+      "text": "Apology (Opera, 172), on three and ten as 'more formal'",
+      "locator": "farmer1998:25489",
+      "pico_relation": "Pico's own explanation, reported by Farmer"
+    }
+  ],
+  "doctrine": "The thesis admits only two formal numbers in magic, three and ten; every other number is material there, and in magical arithmetic these two are the 'numbers of numbers' (farmer1998:25465-25466). A formal number, in Farmer's gloss, belongs to an arithmetic that symbolises cosmological or metaphysical principles, while material arithmetic is mathematics applied to the lower realm of motion and change (farmer1998:23747-23750). Pico's mathematical theses make formal arithmetic 'the optimal way' to natural prophecy (farmer1998:23724-23725), and a paradoxical thesis names the formal number that Pythagoras called the principle of all things (farmer1998:20648-20649). Farmer calls the ternary and the denary the most sacred numbers of the Christian and the Pythagorean traditions respectively (farmer1998:25488-25489). In the Apology, he reports, three and ten are 'more formal' than the rest: three because it is the first odd number and the first in each genus is the most perfect in it, ten because it is every number, beyond which one counts by repetition (farmer1998:25489-25493). Mandosio insists that formal numbers were for Pico not only symbolic but 'actual' or 'active', carrying an effective, practical power, and that the ternary and the denary, as numbers of numbers, were the only truly formal numbers in magical arithmetic (mandosio2012:279-295).",
+  "context": "Farmer judges that the magical arithmetic of the thesis is probably the 'way of numbers' of 7>1ff, that is, magic used for contemplative or prophetic ends (farmer1998:25493-25495). The way of numbers is Pico's promise, in 7>11, to reach the investigation and understanding of everything knowable through numbers and to answer seventy-four questions by it (farmer1998:23732-23734). The principle that the first in each genus is the most perfect was, Farmer argues, a scholastic commonplace, not an innovation of Ficino's as Kristeller had argued (farmer1998:25491-25493). Farmer finds the denary applied outside magic as well: in De ente et uno 5 the concord of Plato and Aristotle was a 'decad' (farmer1998:2113-2114). A kabbalistic thesis promises a secret of the great Jubilee, the third sefirah, to whoever knows what the denary is in formal arithmetic (farmer1998:27921-27924; farmer1998:27954-27959).",
+  "reception": "Mandosio reads the thesis as evidence that formal numbers were one with the sefirot, the divine emanations through which, for the Jewish cabalists, God exerts his power in the world and the soul rises to him (mandosio2012:293-300). He points to Reuchlin's treatment of the formal numbers, and records Reuchlin's reading of Pythagoras's number as the Mind of God, represented by the tetractys, the fourfold figure of the denary, identified by Pico and Reuchlin with the tetragrammaton (mandosio2012:247-251; mandosio2012:320-321). John Dee complained in 1563 that England had no one able to show his hand in the science 'De Numeris formalibus' (mandosio2012:239-242).",
+  "historiography": "Farmer reads the thesis as contemplative and prophetic number-lore (farmer1998:25493-25495), Mandosio as a doctrine of active numbers identical with the sefirot (mandosio2012:279-300). Copenhaver takes the sefirotic side: the numbers of numbers are the threefold and the tenfold, 'like the ten Sefirot with a triad at the top' (copenhaver2019:17383-17384). Howlett takes the Pythagorean side, citing Pico's treatment of three as the first perfect number, linked with the Trinity, Aristotelian causality and divine arithmetic, and his play with the tetraktys, the triangle of ten (howlett2021:5485-5492). The thesis shows Pico reducing the arithmetic of magic to two numbers that each tradition he wished to join could claim, the Christian three and the Pythagorean ten (editorial inference from farmer1998:25488-25489 and copenhaver2019:17383-17384).",
+  "connections": [
+    "7>9",
+    "7>10",
+    "7>11",
+    "3>24",
+    "3>25",
+    "3>26",
+    "9>24",
+    "9>25",
+    "11>57",
+    "11>68"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "the most sacred numbers in the Christian and Pythagorean traditions respectively",
+      "work": "farmer1998",
+      "line": 25488,
+      "verbatim": true
+    },
+    {
+      "text": "like the ten Sefirot with a triad at the top",
+      "work": "copenhaver2019",
+      "line": 17384,
+      "verbatim": true
+    },
+    {
+      "text": "numbers carrying an effective, practical power",
+      "work": "mandosio2012",
+      "line": 289,
+      "verbatim": true
+    },
+    {
+      "text": "per arithmeticam non materialem, sed formalem, habetur optima uia",
+      "work": "farmer1998",
+      "line": 23724,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The Latin of the Apology passage on three and ten: not read for this entry; the doctrine field reports it from Farmer's note (farmer1998:25489-25493) and Mandosio's quotation of the adjoining sentence (mandosio2012:317-318).",
+    "Whether 'magical arithmetic' here is identical with the 'way of numbers' of 7>11: Farmer's identification is offered as likely (farmer1998:25493-25495), not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

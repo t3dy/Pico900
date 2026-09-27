@@ -1,0 +1,13 @@
+{
+  "thesis_id": "11>16",
+  "tier": "B",
+  "latin": "Ex mysterio trium litterarum quae sunt in dictione sciabat, id est, <Hebrew>, possumus interpretari cabalistice tunc sabbatizare mundum cum dei filius fit homo, et ultimo futurum sabbatum cum homines in dei filium regenerabuntur.",
+  "latin_source": "farmer1998:26709",
+  "latin_note": "The sheet's bracketed run '<NAW>' is Farmer's OCR rendering of the Hebrew spelling of 'sciabat' (shabbat), already named in the Latin itself; replaced here with '<Hebrew>' since the letters do not render (a parallel pass of the same page shows the run as '<N1W>', evidently the same OCR failure read twice, farmer1998:26710). The line-broken 'sabbatiza/re' is rejoined as 'sabbatizare', a hyphenation repair, not a variant word.",
+  "translation": "From the mystery of the three letters in the word shabbat, that is, its Hebrew spelling, we can interpret Cabalistically that the world will keep sabbath when the Son of God becomes man, and that, at the last, the Sabbath still to come will arrive when men are reborn in the Son of God.",
+  "translation_note": "'sabbatizare' kept as 'keep sabbath' (to rest, in the manner of the Sabbath) rather than a single English verb; Pico ties this letter-mystery to the shin discussed the thesis before (11>14).",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T10b; sense checked against farmer1998:26762; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion from the Hebrew wise men's principles)",
+  "writer": "TRANSLATOR-T10b, 2026-09-26"
+}

@@ -1,0 +1,34 @@
+{
+  "thesis_id": "11>36",
+  "tier": "A",
+  "latin": "Ex praecedenti conclusione intelligi potest cur dicatur apud cabalistas quod deus induit se decem uestimentis quando creauit saeculum.",
+  "latin_source": "farmer1998:27137",
+  "latin_note": "Farmer's OCR prints the number as '11236' (farmer1998:27137). Wirszubski prints 'Cabalistas', 'Deus' and 'seculum' (wirszubski1989:11965).",
+  "translation": "The previous conclusion makes it possible to grasp why it is said among the Cabalists that God put on ten robes at the creation of the world.",
+  "translation_note": "'saeculum' is rendered 'world', the created order, as Wirszubski reads it (wirszubski1989:11969). 'uestimenta' is rendered 'robes'; Recanati's Latin has 'indumenta' (wirszubski1989:12826).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer's Latin, sense checked against farmer1998:27193; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: Cabalistic conclusions confirming the Christian religion, section 11> (farmer1998:26227). The saying explained is attributed to the Cabalists.",
+  "sources": [
+    {"text": "Menahem Recanati, commentary on the prayers (De Secretis Orationum et Benedictionum Cabale) in Mithridates' Latin, Vatican Hebrew manuscript 190, fol. 299r-v: the sages say that God was clothed with ten garments when he created the world", "locator": "wirszubski1989:12814", "pico_relation": "printed by Wirszubski as Appendix 20 and cited by Busi and Ebgi as the page on which the ten garments appear as Pico states them (busi2014:15689)"}
+  ],
+  "doctrine": "The thesis draws from 11>35 an explanation of a Kabbalistic saying, that God put on ten garments when he created the world (farmer1998:27137). Farmer identifies the ten garments with the ten sefirot and reads the pair of theses as distinguishing God's transcendent nature, the Ein-Sof, from his manifested nature (farmer1998:27200). The sefirot are the ten emanated powers of God in theosophical Kabbalah, called numerationes in Pico's Latin sources, from Crown (Keter), Wisdom and Intelligence through Piety, Judgment, Glory (Tiferet), Eternity, Splendour and Foundation to Kingdom (Malkut) (wirszubski1989:7451; wirszubski1989:7066). Wirszubski identifies the garments with the ten creative logoi, that is, the sefirot, and places the heart of the problem in their mediation between the hidden God and the world (wirszubski1989:11969). Since the God of 11>35, as he is in himself, lets nothing proceed from him, the editor reads 'ex praecedenti conclusione' as signalling that creation requires the garments (farmer1998:27129; farmer1998:27137). Busi and Ebgi explain the image as the paradoxical relation between the dark and solitary unity and its attributes: as a garment shows the shape of a body without being the body, so the ten garments manifest God's glory while hiding his inmost nature (busi2014:15694).",
+  "context": "Busi and Ebgi find the image of God wrapped in a garment in Genesis Rabbah 3.4, quoted by Menahem Recanati in his commentary on the prayers, which Mithridates translated for Pico: God wraps himself in light and makes his splendour shine from one end of the world to the other (busi2014:15680). On the same page of Recanati a further midrash says, as Pico does, that God put on ten garments when he created the world (busi2014:15689). Wirszubski prints the passage from Vatican Hebrew manuscript 190 as his Appendix 20, 'Decem indumenta' (wirszubski1989:12808; wirszubski1989:12826). There Recanati adds that all beings are called garments and that the garment meant is the supernal Wisdom (wirszubski1989:12825; wirszubski1989:12827). Busi and Ebgi note that in the Pesiqta de-Rav Kahana, which speaks of ten garments of God each suited to an occasion, only the first is worn at the creation of the world (busi2014:15718). Wirszubski also sets beside the thesis Azriel of Gerona's argument that creation without the numerations would have been by chance, from a page of Azriel's Quaestiones bearing marks he takes to be Pico's (wirszubski1989:11973; wirszubski1989:11986). In the first set of Cabalistic theses Pico had already stated that no spiritual thing descending below operates without a garment (farmer1998:18195).",
+  "reception": "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). The German study of Pico's epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) cites 11>35 and 11>36 together for Pico's En-soph, beyond the intelligences (kabbalah_paradigma:1478; kabbalah_paradigma:1505).",
+  "historiography": "Farmer treats the garment as a handy syncretic device, found in ancient Eastern and Western pagan traditions as well as in the Kabbalah, by which an abstract one or absolute clothes itself in inferior garments, and he likens it to the Eastern concept of avatars (farmer1998:27203). Wirszubski keeps to the Jewish sources and frames the thesis as the Geronese problem of mediation between Ein-Sof and the sefirot (wirszubski1989:11969; wirszubski1989:12001). Busi and Ebgi read the garments as luminous cloth that reveals and conceals at once, set against the darkness of 11>35 (busi2014:15676; busi2014:15700). Howlett cites the thesis for Pico's interest in the ten sefirot from a mathematical point of view, in keeping with the Latin rendering numeratio (howlett2021:5457). The editor notes that Farmer's comparative reading and Wirszubski's source reading disagree about where the image belongs but agree that the garments are the sefirot, and that this identification is what lets the thesis stand among conclusions confirming Christianity, since Pico elsewhere assigns sefirot and their names to the persons of the Trinity (farmer1998:27200; wirszubski1989:11969; wirszubski1989:8456).",
+  "connections": ["11>35", "11>4", "11>6", "11>62", "28.35"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "The ten garments that God donned when He created the world are of course the ten creative logoi", "work": "wirszubski1989", "line": 11969, "verbatim": true},
+    {"text": "was a handy syncretic device", "work": "farmer1998", "line": 27204, "verbatim": true},
+    {"text": "quod decem indumentis indutus est deus sanctus et benedictus quando creavit mundum", "work": "wirszubski1989", "line": 12826, "verbatim": true}
+  ],
+  "not_established": [
+    "Whether Pico took the saying from Recanati's commentary on the prayers: Busi and Ebgi and Wirszubski print the passage, but neither states in the lines consulted that it is the direct source.",
+    "How Pico would have derived the saying from 11>35 in disputation."
+  ],
+  "writer": "WRITER-B4b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

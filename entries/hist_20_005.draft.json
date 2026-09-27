@@ -1,0 +1,13 @@
+{
+ "thesis_id": "20.5",
+ "tier": "C",
+ "latin": "Anima irrationalis est idolum animae rationalis, ab ea dependens sicut lumen a sole.",
+ "latin_source": "farmer1998:15098",
+ "latin_note": "Source prints 'lumen 2 sole'; the digit '2' is an OCR misreading of 'a' (farmer1998:15099); corrected here.",
+ "translation": "The irrational soul stands to the rational soul as an image to its original, dependent on it exactly as light depends on the sun that casts it.",
+ "translation_note": "Sense checked against farmer1998:15152; reworded for distance from Farmer's rendering.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:15152; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Plotinus (section 20 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

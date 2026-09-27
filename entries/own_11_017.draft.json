@@ -1,0 +1,14 @@
+{
+  "thesis_id": "11>17",
+  "tier": "B",
+  "latin": "Qui sciuerit quid est uinum purissimum apud Cabalistas, sciet cur dixerit Dauid: Inebriabor ab ubertate domus tuae, et quam ebrietatem dixerit antiquus uates Museus esse foelicitatem, et quid significent tot Bacchi apud Orpheum.",
+  "latin_source": "farmer1998:26715",
+  "latin_note": "'foelicitatem' is the common medieval spelling of 'felicitatem' (oe/ae interchange); kept as printed, not treated as a variant.",
+  "translation": "Whoever has learned what the purest wine is among the Cabalists will know why David said, I shall be made drunk by the abundance of your house, and what drunkenness the ancient seer Musaeus called happiness, and what all those Bacchic revels signify in Orpheus.",
+  "translation_note": "'tot Bacchi' (masculine, 'so many Bacchic things/revels') is rendered 'Bacchic revels'; Farmer instead reads it as 'so many Bacchae' (the maenads), a different noun (farmer1998:26771). Farmer's note ties 'purest wine'/'drunkenness'/'Bacchi' to a series on mystical happiness beginning at thesis 2.12 (farmer1998:26781).",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T10b; sense checked against farmer1998:26768; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion from the Hebrew wise men's principles)",
+  "not_established": ["Whether Pico's 'Bacchi' should be read as the god's revels or, as Farmer takes it, as the maenads (Bacchae); the two readings diverge in gender and referent."],
+  "writer": "TRANSLATOR-T10b, 2026-09-26"
+}

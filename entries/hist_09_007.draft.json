@@ -1,0 +1,12 @@
+{
+ "thesis_id": "9.7",
+ "tier": "C",
+ "latin": "Possibile quod diffinit Aristoteles in libro Priorum est commune ad possibile et ad inuentum, ut contra distinctum necessario.",
+ "latin_source": "farmer1998:13881",
+ "latin_note": "Sheet's underscore in 'Priorum_est' normalized to a space.",
+ "translation": "The 'possible' Aristotle defines in the Prior Analytics covers both the possible and the contingent, set over against the necessary.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T02b; sense checked against farmer1998:13924; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to al-Farabi (section 9 of the historical theses)",
+ "writer": "TRANSLATOR-T02b, 2026-09-26"
+}

@@ -1,0 +1,64 @@
+{
+  "thesis_id": "9>2",
+  "tier": "A",
+  "latin": "Magia naturalis licita est et non prohibita, et de huius scientiae uniuersalibus theoricis fundamentis pono infrascriptas conclusiones secundum propriam opinionem.",
+  "latin_source": "farmer1998:25117",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25117-25119), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); u/v as Farmer prints them. Akopyan and Busi print the same words, Akopyan with a comma after 'licita est' (akopyan2018:576; busi2014:1564-1565).",
+  "translation": "Natural magic is licit, not forbidden; on the universal and theoretical foundations of this science I put forward the conclusions set out below, as my own opinion.",
+  "translation_note": "'pono' is the technical verb for proposing a thesis for disputation, here 'put forward' (farmer1998:25118). 'infrascriptas' means 'written below', referring to the theses that follow in the section (farmer1998:25118). 'scientia' is a body of demonstrative knowledge in the scholastic sense, and 'theoricis fundamentis' marks what follows as principles, not recipes (editorial inference from farmer1998:25117-25118).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-B2), from the Latin, checked against the sense of Farmer's English at farmer1998:25157; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the second magical conclusion, which also serves as the preface to the twenty-four that follow (farmer1998:25117-25119).",
+  "sources": [
+    {
+      "text": "al-Kindi, William of Auvergne (William of Paris) and Roger Bacon, named in the Oration and Apology as moderns who had 'scented out' natural magic",
+      "locator": "farmer1998:6710-6714",
+      "pico_relation": "the medieval authorities Pico himself names for natural magic"
+    },
+    {
+      "text": "William of Auvergne, cited in the Apology to show that natural magic is not necromancy",
+      "locator": "copenhaver2019:17430-17436",
+      "pico_relation": "scholastic warrant for a magic that works without demons"
+    }
+  ],
+  "doctrine": "Where 9>1 excludes demonic magic, 9>2 names its licit counterpart, natural magic, and declares it permitted (farmer1998:25111-25118). Natural magic, in the sense used here, is an art that produces or discovers marvels through the powers of natural agents alone, without demons: in the Apology Pico cited William of Auvergne, for whom certain marvellous effects are natural actions, known by one of the eleven parts of natural science, in which nothing is done with the help of demons (copenhaver2019:17430-17436). Pico's own formula in the Apology is that the science he calls natural magic knows 'the powers and activities of natural agents' and what they can and cannot do by their own power (farmer1998:7067-7072). The second clause turns the thesis into a preface: what follows are conclusions on the universal theoretical foundations of this science (farmer1998:25117-25119). The series is therefore presented as the theory of natural magic, not as a manual of operations (editorial inference from farmer1998:25118 and busi2014:9796-9800).",
+  "context": "Farmer notes that medieval magical treatises regularly opened by protesting that their magic was natural and not demonic (farmer1998:25172-25173). The authorities Pico names for natural magic among the moderns are al-Kindi in the ninth century and William of Paris and Roger Bacon in the thirteenth (farmer1998:6710-6714). In the Oration the same three are said to have picked up the scent of magic (copenhaver2019:19624-19626). Farmer argues that Pico's natural magic was not Ficino's: the De vita coelitus comparanda, Ficino's only magical treatise, was not written until some two and a half years after the theses (farmer1998:6603-6610). Pico's natural magic also concerned sublunary 'natural agents', not only the celestial realm (farmer1998:7018-7020).",
+  "reception": "In the Apology Pico declared that the specification and restriction of his intention to natural magic applies to every particular magical conclusion (busi2014:24493-24495). The bull of 4 August 1487 nonetheless complained of propositions promoting 'certain arts, disguising themselves as natural philosophy', harmful to the faith (farmer1998:1326-1327; farmer1998:1349-1351). In his attack on Pico's theses Pedro Garcia (1489) used a definition of magic as 'ars cognoscendi et divinandi occulta faciendique magna et mirifica in natura', which Farmer thinks Pico himself could probably have accepted (farmer1998:7190-7194).",
+  "historiography": "Farmer's reading of the whole section is framed against Frances Yates, who in his account equated Pico's magia naturalis with Ficino's celestial magic and treated Pico as Ficino's disciple (farmer1998:6451-6454; farmer1998:7332-7335). Against that equation Farmer argues that Pico's natural magic antedated Ficino's, differed from it, and from the start included Cabala (farmer1998:7335-7339). Busi reads the licit magic of 9>2 as the counterpart of the cheap modern magic of 9>1 (busi2014:1525-1529). Akopyan treats the thesis as Pico's opposition of a more elevated natural magic to magic's dark side (akopyan2021:1273-1277). The thesis is the hinge of the series: every later claim about voices, characters, numbers and Kabbalah is offered under its heading of natural magic, and the Apology held Pico to that heading (editorial inference from farmer1998:25117-25119 and busi2014:24493-24495).",
+  "connections": [
+    "9>1",
+    "9>3",
+    "9>4",
+    "5>45",
+    "9>9"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "Praedictam autem specificationem et restrictionem",
+      "work": "busi2014",
+      "line": 24493,
+      "verbatim": true
+    },
+    {
+      "text": "certain arts, disguising themselves as natural philosophy",
+      "work": "farmer1998",
+      "line": 1350,
+      "verbatim": true
+    },
+    {
+      "text": "Magia secundum communiter loquentes est ars cognoscendi",
+      "work": "farmer1998",
+      "line": 7193,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Whether Pico knew William of Auvergne's De universo directly or through an intermediary: not established by the sources consulted.",
+    "Which 'universal theoretical foundations' Pico intended to demonstrate in the disputation beyond the written theses: not established by the sources consulted, since the debate never took place (busi2014:9802-9805)."
+  ],
+  "writer": "WRITER-B2 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V2",
+  "verified_date": "2026-09-26"
+}

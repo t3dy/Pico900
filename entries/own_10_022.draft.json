@@ -1,0 +1,13 @@
+{
+ "thesis_id": "10>22",
+ "tier": "C",
+ "latin": "Qui heroas in duplices non diuiserit, natiuos et aduentitios, saepe errabat.",
+ "latin_source": "farmer1998:26010",
+ "latin_note": "1487 reads 'et ad ventiticos' for 'et aduentitios' (farmer1998:26026). The verb is printed 'errabat' (imperfect); Farmer's translation implies the future 'errabit' (farmer1998:26069). The tense is left as printed and the doubt is noted, not resolved, here.",
+ "translation": "Failing to divide the heroes into two classes, native and foreign, will lead one into frequent error.",
+ "translation_note": "Sense checked against farmer1998:26069, which reads the verb as future ('will often err'); rendered here in a way that is neutral between the printed imperfect and the implied future, given the doubt recorded in latin_note.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T09b; sense checked against farmer1998:26069; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 10>, on the way of understanding the Orphic hymns)",
+ "writer": "TRANSLATOR-T09b, 2026-09-26"
+}

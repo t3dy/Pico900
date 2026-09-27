@@ -1,0 +1,307 @@
+{
+ "thesis_id": "28.24",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/hist_28_024.draft.json: 'PASS 28.24 hist_28_024.draft.json / 1/1 drafts pass the entry gate'; 39 locators; translation/Farmer similarity 0.62)",
+ "quotations": [
+  {
+   "text": "This interpretation of Job 25:2 is traditional",
+   "work": "wirszubski1989",
+   "line": 2317,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "I shall refrain from suggesting which of the three was Pico's direct source",
+   "work": "wirszubski1989",
+   "line": 2349,
+   "verdict": "verbatim (2349-2350)"
+  },
+  {
+   "text": "Docet quod Michael archangelus dextre dei sancti et benedicti Aque et Grandinis",
+   "work": "wirszubski1989",
+   "line": 2357,
+   "verdict": "verbatim (2357-2358)"
+  },
+  {
+   "text": "common symbols of the fourth and fifth sefirot",
+   "work": "farmer1998",
+   "line": 18050,
+   "verdict": "verbatim (18050-18051)"
+  },
+  {
+   "text": "Empedocles becomes relevant as an interpreter of Job",
+   "work": "edelheit2008",
+   "line": 16246,
+   "verdict": "verbatim (16246-16247, 'rele-vant')"
+  },
+  {
+   "text": "Scitur in cabala apertissime",
+   "work": "farmer1998",
+   "line": 27335,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:17969-17971",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The 1486 print punctuates 'Cum dixit.Iob.qui'",
+   "locator": "farmer1998:17981",
+   "verdict": "SUPPORTED",
+   "note": "OCR 'Cum dixit.lob.qui'."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Wirszubski inserts the reference Job 25:2",
+   "locator": "wirszubski1989:2313-2315",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'qui facit pacem in excelsis suis' is the Vulgate of Job 25:2",
+   "locator": "farmer1998:18050",
+   "verdict": "SUPPORTED",
+   "note": "Farmer: 'Cf. Job 25:2'."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'praefectos' is rendered 'those placed in command'; Farmer, following a Bahir passage",
+   "locator": "farmer1998:18051-18053",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's identification is conditional ('If we follow a passage from the Sefer ha-Bahir cited by Wirszubski')."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'non est ultra dicendum' is a gerundive",
+   "locator": "farmer1998:17970-17971",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial note."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "The Hebrew Cabalist wise men: twenty-fourth",
+   "locator": "farmer1998:17476-17479; farmer1998:17969",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Sefer ha-Bahir (section 9 in Scholem's edition)",
+   "locator": "wirszubski1989:2344",
+   "verdict": "SUPPORTED",
+   "note": "'Cod. Vat. Ebr. 191, which includes the Bahir (§9 ed. Scholem)' (2346-2347)."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Recanati, Commentary on the Torah, folio 4vb",
+   "locator": "wirszubski1989:2347",
+   "verdict": "SUPPORTED",
+   "note": "'the lost translation of Recanati, who quoted this passage of the Bahir, loc. cit., at fol. 4vb' (2347-2348)."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Ma'areket ha-Elohut (De Proportione Divinitatis), in the Chigi manuscript",
+   "locator": "wirszubski1989:2344",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis glosses Job 25:2",
+   "locator": "farmer1998:18050",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Wirszubski notes that this interpretation of the verse is traditional",
+   "locator": "wirszubski1989:2317-2318",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Bahir passage that he prints",
+   "locator": "wirszubski1989:2354-2360",
+   "verdict": "SUPPORTED",
+   "note": "'Michael archangelus dextre dei ... Aque et Grandinis, et Gabriel archangelus sinistre eius et ignis, posuit pacem inter eos'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer glosses 'southern water' and 'northern fire'",
+   "locator": "farmer1998:18050-18051; farmer1998:17608-17609",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Recanati's system, as Corazzol reconstructs it",
+   "locator": "corazzol2019:474-480",
+   "verdict": "OVERREACH",
+   "note": "Corazzol (on Recanati's Zohar-based Kabbalah, 457): the tenth sefirah, when connected, receives the influence of 'the fourth sefirah, i.e. piety'; when separated it receives 'the maleficent influence of the fifth sefirah ... it is then called \"Middat ha-Din [the property of Judgment]\", which inflicts calamity upon the world'. Calamity follows the tenth sefirah's separation, not the fifth sefirah's 'acting alone'; the 'it' named Middat ha-Din may be the tenth sefirah. Fourth = piety and fifth = maleficent are supported."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer adds that the north is the standard symbol",
+   "locator": "farmer1998:27408-27410",
+   "verdict": "OVERREACH",
+   "note": "Farmer's note on 11>47 (not on 28.24): 'standard symbol of the fifth sefirah, one of whose properties was \"power\"'. 'whose property was power' drops 'one of'. He also adds that Pico associates it with magical power (27410), not reported."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Read with the Bahir, the thesis makes the peace",
+   "locator": "wirszubski1989:2354-2360; farmer1998:18050-18053",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The closing clause withholds the names",
+   "locator": "farmer1998:17970-17971; wirszubski1989:2357-2359",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Wirszubski found that Pico could have read the Bahir passage in three",
+   "locator": "wirszubski1989:2318; wirszubski1989:2344-2348",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Because the first and third translations are lost",
+   "locator": "wirszubski1989:2349-2351",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The larger dispute over Pico's dependence",
+   "locator": "farmer1998:17441-17451",
+   "verdict": "SUPPORTED",
+   "note": "'not completed until many months after Pico's theses went to press'."
+  },
+  {
+   "field": "context",
+   "sentence_start": "The verse returns in Pico's Oration",
+   "locator": "borghesi2012:1593-1596",
+   "verdict": "SUPPORTED",
+   "note": "Oration §83 (Latin)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "There Empedocles, the philosopher",
+   "locator": "borghesi2012:1597-1601",
+   "verdict": "SUPPORTED",
+   "note": "Oration §84-85."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Edelheit observes that in the Oration discord",
+   "locator": "edelheit2008:16242-16246",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit n. 80."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Borghesi, Papio and Riva, commenting on the Oration's use of Job 25:2",
+   "locator": "borghesi2012:1656-1657",
+   "verdict": "SUPPORTED",
+   "note": "n. 82: 'Job 25:2; ... Cf. Conclusiones 1.28.24 (Farmer 1998, 355)'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico's own second Cabalistic set turns the same pair",
+   "locator": "farmer1998:27335-27336",
+   "verdict": "SUPPORTED",
+   "note": "11>45 (OCR '11745')."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer links the two theses and points to 28.1 and 11>11",
+   "locator": "farmer1998:18050-18055; farmer1998:17532-17533",
+   "verdict": "SUPPORTED",
+   "note": "28.1: 'ita Michael sacerdos superior sacrificat animas animalium rationalium'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "No response to 28.24 by the papal commission",
+   "locator": "farmer1998:17969",
+   "verdict": "SUPPORTED",
+   "note": "A statement of absence; consistent with the sources read."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Wirszubski's discussion establishes three things",
+   "locator": "wirszubski1989:2317-2318; wirszubski1989:2349-2351",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer adds the sefirotic reading",
+   "locator": "farmer1998:18050-18053",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer's conditional marks the angelic identification",
+   "locator": "farmer1998:18051-18053",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial observation."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The Oration's pairing of Job and Empedocles",
+   "locator": "wirszubski1989:9641-9645; borghesi2012:1597-1601",
+   "verdict": "SUPPORTED",
+   "note": "3>71: 'quas ego credo proportionari in scientia Sephirot aeternitati [= septimae] et decori [= octavae]'. Declared editorial inference."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Which manuscript",
+   "locator": "wirszubski1989:2349-2351",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Farmer's note continues past a gap in the OCR",
+   "locator": "farmer1998:18053-18055",
+   "verdict": "NOT SUPPORTED",
+   "note": "There is no gap: 18053 ends 'and hence presumably' and 18055 continues 'of this thesis, cf. 28.1 and 11>11.' Line 18054 is blank. Nothing is missing."
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against farmer1998:17969-17971 and the sense of Farmer's English at 18030-18032. 'intellexit' as 'had in view'; 'praefectos illorum' as 'those placed in command of them'; 'non est ultra dicendum' as 'no more may be said' keeps the obligation/reticence. The thesis is presented as the Cabalists' doctrine (pico_stance 'reports'); Pico's own use of the symbols is kept to his second set (11>45); voices are distinct and every scholar named has a locator."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "One overreach removed from the Corazzol sentence; one qualifier restored ('one of whose properties'); one false not_established item removed. Human to adjudicate: whether Corazzol's 'it ... Middat ha-Din' names the fifth or the tenth sefirah (the retained clause 'the fifth that of judgment' agrees with Farmer's gloss at farmer1998:17609).",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "replace": "and the fifth that of judgment, which brings calamity when it acts alone (corazzol2019:474-480)",
+   "with": "and the fifth that of judgment (corazzol2019:474-480)"
+  },
+  {
+   "field": "doctrine",
+   "replace": "the fifth sefirah, whose property was power",
+   "with": "the fifth sefirah, one of whose properties was power"
+  },
+  {
+   "field": "not_established",
+   "replace": "Farmer's note continues past a gap in the OCR at farmer1998:18053-18055; the omitted words were not recovered.",
+   "with": "(item removed)"
+  }
+ ]
+}

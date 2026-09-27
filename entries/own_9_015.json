@@ -1,0 +1,68 @@
+{
+  "thesis_id": "9>15",
+  "tier": "A",
+  "latin": "Nulla potest esse operatio magica alicuius efficaciae nisi annexum habeat opus cabalae, explicitum uel implicitum.",
+  "latin_source": "farmer1998:25288",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25288-25289), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042). Wirszubski, quoting the Opera, has a comma after 'efficaciae' and none after 'cabalae' (wirszubski1989:9915-9916).",
+  "translation": "There can be no magical operation of any effect unless a work of Kabbalah, explicit or implicit, is joined to it.",
+  "translation_note": "'opus cabalae' is 'a work of Kabbalah', an act or operation, not a book. 'annexum habeat' means 'has attached to it', a supplementary but required condition (editorial inference from farmer1998:25288-25289). 'explicitum uel implicitum' allows that the Kabbalistic component may be present without being performed or recognised as such (farmer1998:25338-25341).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-B2), from the Latin, checked against the sense of Farmer's English at farmer1998:25330; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the fifteenth magical conclusion (farmer1998:25288).",
+  "sources": [
+    {
+      "text": "Thesis 10>21: the work of the preceding Orphic hymns is nothing without a work of Cabala",
+      "locator": "farmer1998:7169-7171",
+      "pico_relation": "parallel claim in the Orphic conclusions"
+    }
+  ],
+  "doctrine": "The thesis makes Kabbalah a condition of the efficacy of every magical act (farmer1998:25288-25289). Farmer warns that because Pico distinguished several types of magic and of Cabala it is not possible to know his meaning for certain (farmer1998:25337-25338). His own reading is psychological: the rational part of the soul, to which natural magic pertains, derives from the intellectual part, to which 'pure Cabala' pertains, so that Cabala is implicit in any magical act (farmer1998:25338-25341). This fits the pairing he finds in the series, where 9>14 assigns magic to 'rational' natures and 11>12 assigns pure Cabala to the intellectual part of the rational soul (farmer1998:25297-25299). Mandosio reads the required 'work of cabala' as the operation of formal numbers (mandosio2012:502-504). The Apology offers a third possibility: Pico there says that the Jews also called Kabbalah, in a 'transumptive' sense, a science of the powers of the superlunary things which is the supreme part of natural magic (wirszubski1989:6353-6369). If that science is meant, the 'implicit' work of Kabbalah could already lie inside natural magic (editorial inference from wirszubski1989:6357-6365 and farmer1998:25289).",
+  "context": "Wirszubski counts five magical theses that mention Kabbalah explicitly, and of the three not treated elsewhere in his book, 9>15, 9>18 and 9>26, he says that each asserts the superiority of Kabbalah over magic (wirszubski1989:9908-9914; wirszubski1989:9950-9953). Farmer notes that the next three theses affirm Pico's view that parts of Cabala drew on powers higher than those of natural magic, and points to 9>25 for another link between the two (farmer1998:25341-25343). Pico, Farmer adds, went to extraordinary lengths, given that the debate was to be held at the Vatican, to deny that the magus had direct access to God's power except in the general sense that God was the source of all magic (farmer1998:7020-7023).",
+  "reception": "Copenhaver notes that 9>15 and 9>26 were riskier than the theses on magic defended in the Apology, though they were not among the thirteen initially condemned (copenhaver2019:17654-17657). Wirszubski judges that the alliance of Kabbalah with natural magic, more than the superiority of Kabbalah, proved influential, and that by presenting Kabbalah as both a mystical theology and 'the powerful ally of natural magic' Pico set Christian Kabbalah on a new course (wirszubski1989:9954-9964). Mandosio shows that John Dee took from Pico the notion that magic cannot succeed unless supported by 'the work of cabala' (mandosio2012:59-60).",
+  "historiography": "Farmer's reading grounds the thesis in a hierarchy of the soul's parts (farmer1998:25338-25341). Mandosio grounds it in number, reading the work of Kabbalah as the operation of formal numbers that the magus needs in order to draw down the sefirot (mandosio2012:502-504; mandosio2012:512-516). Wirszubski's emphasis falls on the historical consequence, the alliance of Kabbalah and magic, which he calls as old as Jewish Kabbalah itself (wirszubski1989:9955-9960). The thesis shows Pico refusing natural magic self-sufficiency: at the very point where he has built it up as the noblest part of natural science, he makes it depend on a discipline above nature (editorial inference from farmer1998:25125-25126 and farmer1998:25288-25289).",
+  "connections": [
+    "9>14",
+    "9>16",
+    "9>17",
+    "9>18",
+    "9>25",
+    "9>26",
+    "10>21",
+    "11>12"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "it is not possible to know for certain his meaning here",
+      "work": "farmer1998",
+      "line": 25338,
+      "verbatim": true
+    },
+    {
+      "text": "asserts the superiority of Kabbala over magic",
+      "work": "wirszubski1989",
+      "line": 9911,
+      "verbatim": true
+    },
+    {
+      "text": "the powerful ally of natural magic, set Christian Kabbala",
+      "work": "wirszubski1989",
+      "line": 9962,
+      "verbatim": true
+    },
+    {
+      "text": "the higher point of magic was the lower",
+      "work": "mandosio2012",
+      "line": 501,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which of Pico's several kinds of Cabala the 'opus cabalae' of this thesis denotes: not established by the sources consulted, which disagree (farmer1998:25337-25341; mandosio2012:502-504; wirszubski1989:6353-6369).",
+    "What an 'implicit' work of Kabbalah would consist of in practice: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V2",
+  "verified_date": "2026-09-26"
+}

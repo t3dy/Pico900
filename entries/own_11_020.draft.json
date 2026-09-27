@@ -1,0 +1,34 @@
+{
+  "thesis_id": "11>20",
+  "tier": "A",
+  "latin": "Si interpretationem suam aduerterint Cabaliste super hac dictione, <Hebrew>, quae significat tunc, de trinitatis mysterio multum illuminabuntur.",
+  "latin_source": "farmer1998:26806",
+  "latin_note": "Where the print has a Hebrew word, Farmer's OCR gives the run '<tN>' (farmer1998:26807). Farmer's English identifies the word as az (farmer1998:26863), and Wirszubski prints it as 'az and reads 'Cabalistae' (wirszubski1989:8239).",
+  "translation": "Should the Cabalists bring their own interpretation to bear on this word, <az>, which means 'then', much light will fall for them on the mystery of the Trinity.",
+  "translation_note": "'aduerterint' is future perfect in a condition: what the Cabalists would find by their own method. 'suam' marks the interpretation as theirs, not Pico's. The Kabbalists treat az not as the particle 'then' but as a name (wirszubski1989:8881).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer's Latin, sense checked against farmer1998:26863; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: Cabalistic conclusions confirming the Christian religion, section 11> (farmer1998:26227).",
+  "sources": [
+    {"text": "Liber de Radicibus (Sefer ha-Shorashim) in the Latin of Flavius Mithridates, Vatican Hebrew manuscript 190, fol. 226r: az indicates the ten numerations, aleph the three superior, zain by its number seven the rest; the clause joining the three superior into a Trinity united in essence has no counterpart in the Hebrew manuscripts", "locator": "wirszubski1989:5539", "pico_relation": "source identified by Wirszubski; its interpolated Trinitarian clause is what the thesis reflects"}
+  ],
+  "doctrine": "Pico claims that the Cabalists' own reading of the Hebrew word az, 'then', would bring them light on the Trinity (farmer1998:26806). Wirszubski shows that the Kabbalistic interpretation of az ignores its meaning as a particle and treats the word as a symbolic representation of the ten sefirot (wirszubski1989:8877). The sefirot are the ten emanated powers of God in theosophical Kabbalah, called numerationes in the Latin translations Pico read (wirszubski1989:7451). The uppermost three are Crown (Keter), Wisdom (Hokmah) and Intelligence (Binah); the lower seven run from Piety (Hesed) through Judgment, Glory (Tiferet), Eternity, Splendour and Foundation to Kingdom (Malkut) (wirszubski1989:7066; wirszubski1989:5545). In that reading the aleph of az stands for the three superior sefirot and the zayin for the remaining seven (wirszubski1989:8883). The value of zayin rests on gematria, the reckoning by which every Hebrew letter is also a numeral, since zayin counts as seven (wirszubski1989:5546; copenhaver2019:13992). Farmer reports the same division of the two letters but finds it unclear how it relates to the mystery of the Trinity (farmer1998:26837).",
+  "context": "Wirszubski identifies the source in the Liber de Radicibus, the Sefer ha-Shorashim in the Latin of Flavius Mithridates, where az, 'tunc vel subito', is said to indicate all ten numerations (wirszubski1989:5539). There the aleph indicates 'trinitatem trium superiorum' united 'in unitate essencie', and Wirszubski states that these words have no counterpart in the manuscripts of the Hebrew original (wirszubski1989:5545; wirszubski1989:5550). He concludes that the effect of this interpolation can be seen in Pico's twentieth thesis (wirszubski1989:5553). He places it in a series of Mithridates' interpolations designed to link Kabbala with Christian dogma, beginning with a Trinitarian gloss on Amen in Recanati's commentary on the prayers (wirszubski1989:5504; wirszubski1989:5513). The same entry of the Liber de Radicibus cites the verse 'Az uidebis et illuminaberis', and the editor notes that Pico's 'illuminabuntur' echoes it (wirszubski1989:5543).",
+  "reception": "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). Wirszubski counts it among the seventeen theses of the set that bear on the interpretation of the Law (wirszubski1989:8954). The German study of Pico's epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) cites Wirszubski's earlier article on Pico's companion to Kabbalistic symbolism for the finding that the Trinitarian reading of the Sefer ha-Shorashim was helped along in Mithridates' Latin (kabbalah_paradigma:1562).",
+  "historiography": "Wirszubski uses 11>20 to define one of two patterns in Pico's Christian Kabbala: a Trinitarian interpretation of an existing Kabbalistic symbol, as against the Kabbalistic interpretation of the second person of the Trinity in 11>7 (wirszubski1989:8242). He adds that the Kabbalistic reading of az does not start from the meaning tunc at all, and recalls Scholem's dictum that divine language has no grammar and consists entirely of names (wirszubski1989:8877; wirszubski1989:8897). Farmer cites Wirszubski for the division of the letters and leaves the link with the Trinity unexplained (farmer1998:26838). Wirszubski's chapter on Mithridates' interpolations supplies that link, since the Trinitarian clause already stands in the Latin text Pico read (wirszubski1989:5550). The German study sets 11>20 beside its reading of the first three sefirot as a quasi-Trinitarian group matched by firmament, primum mobile and empyrean (kabbalah_paradigma:1543; kabbalah_paradigma:1562). The editor concludes that the thesis shows a Christian doctrine entering Pico's Cabala through the translator before Pico's own argument begins, so that the Cabalists were promised light from a Latin text whose decisive words were not theirs (wirszubski1989:5553).",
+  "connections": ["11>5", "11>6", "11>7", "11>33", "11>34", "11>65", "28.47", "5>8"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "the latter thesis involves a Trinitarian interpretation of an existing Kabbalistic symbol", "work": "wirszubski1989", "line": 8242, "verbatim": true},
+    {"text": "have no counterpart in the manuscripts of the Hebrew original", "work": "wirszubski1989", "line": 5552, "verbatim": true},
+    {"text": "It is not clear how this relates to the “mystery of the Trinity” in Pico’s thesis", "work": "farmer1998", "line": 26840, "verbatim": true}
+  ],
+  "not_established": [
+    "Whether Pico knew the Hebrew text of the Sefer ha-Shorashim or only Mithridates' Latin; Wirszubski quotes the Latin copy (wirszubski1989:5540).",
+    "How Pico would have argued the thesis in disputation; neither Wirszubski nor Farmer reconstructs the argument."
+  ],
+  "writer": "WRITER-B4b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

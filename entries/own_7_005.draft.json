@@ -1,0 +1,63 @@
+{
+  "thesis_id": "7>5",
+  "tier": "A",
+  "latin": "Sicut dictum Aristotelis de antiquis, dicentis quod ideo errarunt in physica contemplatione, quia mathematice res physicas tractarunt, uerum esset si illi materialiter mathematica non formaliter accepissent, ita est uerissimum modernos, qui de naturalibus mathematice disputant, naturalis philosophiae fundamenta destruere.",
+  "latin_source": "farmer1998:23628",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:23628-23632), u/v as Farmer prints them; the OCR's 'mathematice_res' is a space. Mandosio and Edelheit cite the thesis with v for consonantal u (mandosio2012:466-468; edelheit2022:4433-4436).",
+  "translation": "Aristotle said of the ancients that they went astray in the study of nature because they handled physical things mathematically; that saying would hold if they had taken mathematics in a material and not a formal sense. In the same way it holds most truly that the moderns, who argue about natural things by mathematics, tear down the foundations of natural philosophy.",
+  "translation_note": "The single Latin period ('Sicut ... ita') is divided into two sentences. 'materialiter' and 'formaliter' are Pico's terms for mathematics applied to the realm of motion and change and mathematics taken as a symbol of intelligible principles, in Farmer's gloss (farmer1998:23747-23749). 'moderni' is left as 'the moderns'; who is meant is disputed (see historiography). 'uerissimum' is rendered 'most truly', keeping the contrast with the conditional 'uerum esset'.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B1b), checked against the sense of Farmer's English at farmer1998:23682; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: fifth of the eighty-five conclusions on mathematics according to his own opinion (farmer1998:23606-23608, 23628).",
+  "sources": [],
+  "doctrine": "The thesis turns on a comparison: Aristotle's charge that the ancients erred in physics by treating physical things mathematically would be true only if they had taken mathematics materially, while the same charge is wholly true of the moderns who dispute about nature mathematically (farmer1998:23628-23632). Farmer glosses formal mathematics as mathematics that symbolises cosmological or metaphysical principles, and material mathematics as mathematics applied to the inferior realm of motion and change (farmer1998:23747-23749). The formal kind is the arithmetic of the next theses, through which 7>9 finds the best way to natural prophecy and 7>10 says Joachim prophesied by formal numbers alone (farmer1998:23724-23729). Mandosio defines Pico's formal numbers as numbers separated from matter and existing by themselves, like Platonic ideas, as opposed to the numbers of merchants and to numbers abstracted from matter (mandosio2012:195-201). The first four theses of the section prepare the fifth: mathematics is not a true science, does not lead to happiness, is sought only as a way to other sciences, and perfects the intellect only when its objects are taken as images of higher things (farmer1998:23613-23625). On that basis the ancients are excused, since they read number formally, and the moderns are condemned, since they read it materially and put it to work on motion (editorial inference from farmer1998:23623-23632 and 23747-23749). Farmer cross-refers the series to 5>33, which asks in what sense the Epinomis is right about the science of arithmetic (farmer1998:23698, 22757).",
+  "context": "Farmer identifies the moderns as the fourteenth-century calculatores, among them Bradwardine, Swineshead and Oresme, who applied mathematics to problems that Aristotelian physics treated qualitatively (farmer1998:23698-23700). Borghesi, in the essay 'A Life in Works' (dougherty2008:136-137), records that Pico studied the calculatores at Pavia from the autumn of 1482 (dougherty2008:10375-10381). Edelheit reports Gianfrancesco Pico's claim that his uncle was adept in the technical discussions of Richard Swineshead and the Oxford Calculators (edelheit2022:1460-1462, 1484-1485). He adds that Kibre's inventory of Pico's library lists Swineshead's Opus aureum calculationum and works by Bradwardine and Heytesbury (edelheit2022:1507-1510). Copenhaver judges that Pico seems to have disliked the Calculators, perhaps as competitors for attention in the Italy of his day (copenhaver2022:1585-1586). In the Apology Pico mocked a master who tried to quantify the location of bodiless angels (copenhaver2022:1576-1579). Farmer places the mathematical section in a Neo-Pythagorean and Neoplatonic numerology drawn from Iamblichus, Syrianus and Proclus and fused with gematria and scriptural number symbolism (farmer1998:23638-23647).",
+  "reception": "Edelheit reports that Bernardo Torni, a Florentine physician and philosopher who followed the Oxford Mertonists, answered four of Pico's theses on natural philosophy (edelheit2022:17073-17087). Against a thesis on the difficulty of understanding, Torni recast the problem as one of distance, resistance and potency and asked Pico to declare his opinion on proportions (edelheit2022:17699-17725, 17735). Edelheit, following Dulles, reads this as a challenge to Pico's stance in 7>5 against the moderns' mathematics (edelheit2022:17735-17740). Mandosio contrasts John Dee's Mathematicall praeface, which applies even the more material branches of mathematics to the physical world, and cites 7>5 as the trend that Pico fought (mandosio2012:438-442, 466-468). Farmer notes that this section of the theses was drawn on by Agrippa, Dee, Bruno, Fludd and Kircher, and was satirised by Rabelais (farmer1998:23648-23649, 23692-23696).",
+  "historiography": "Farmer uses 7>5 against the claim that Renaissance Platonism helped to promote the mathematical physics of the scientific revolution, which he says finds little support in these theses (farmer1998:23700-23702). Edelheit reports Caroti's view that the moderni are contemporary philosophers, probably Giovanni Marliani, and not fourteenth-century masters (edelheit2022:4437-4440). The disagreement concerns the target, not the doctrine: Farmer's calculatores and Caroti's Marliani both stand for quantified natural philosophy (editorial inference from farmer1998:23698-23700 and edelheit2022:4437-4440). Edelheit applies Pico's criterion to Johannes Versor, whose separation of physics, mathematics and metaphysics would place him with the ancients (edelheit2022:4407-4414). He calls this a use of 'ancient' and 'modern' outside their historical context (edelheit2022:4416-4418). The thesis shows that Pico's high valuation of number was a valuation of number as symbol, which made him an opponent of the quantified physics taught in the schools he had studied (editorial inference from farmer1998:23623-23632, 23700-23702).",
+  "connections": [
+    "7>1",
+    "7>2",
+    "7>3",
+    "7>4",
+    "7>6",
+    "7>9",
+    "7>10",
+    "5>33"
+  ],
+  "condemned_flag": false,
+  "quotations": [
+    {
+      "text": "The traditional claim that Renaissance Platonism helped promote the mathematical physics of the later scientific revolution finds little support in these theses",
+      "work": "farmer1998",
+      "line": 23700,
+      "verbatim": true
+    },
+    {
+      "text": "Pico seems to have disliked the Calculators, perhaps as com- petitors for attention",
+      "work": "copenhaver2022",
+      "line": 1585,
+      "verbatim": true
+    },
+    {
+      "text": "the reference here is probably to Giovanni Marliani",
+      "work": "edelheit2022",
+      "line": 4438,
+      "verbatim": true
+    },
+    {
+      "text": "which was exactly the trend Pico fought against",
+      "work": "mandosio2012",
+      "line": 442,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which saying of Aristotle about the ancients Pico has in mind: no passage is identified in the sources consulted.",
+    "Whether the moderni are the fourteenth-century calculatores (Farmer) or contemporaries such as Marliani (Caroti, as reported at edelheit2022:4437-4440): unresolved; Caroti's own study was not consulted.",
+    "Whether Torni's objections were composed with 7>5 in view, or only answer to it in Edelheit's and Dulles's reading: not established by the sources consulted; Torni's text was not consulted.",
+    "Any reaction to this thesis by the papal commission: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B1b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

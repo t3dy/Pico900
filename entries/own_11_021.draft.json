@@ -1,0 +1,13 @@
+{
+  "thesis_id": "11>21",
+  "tier": "B",
+  "latin": "Qui coniunxerit dictum Cabalistarum dicentium quod illa numeratio quae dicitur iustus et redemptor, dicitur etiam ze, cum dicto Thalmudistarum dicentium quod Isaac ibat sicut ze, portans Crucem suam, uidebit quod illud quod fuit in Isaac praefiguratum fuit adimpletum in Christo, qui fuit uerus Deus uenditus Argento.",
+  "latin_source": "farmer1998:26810",
+  "latin_note": "The sheet prints 'redemptor_dicitur' and 'praefiguratum_fuit' with connecting underscores, an OCR artifact for a missing space or light punctuation; resolved here to 'redemptor, dicitur' and 'praefiguratum fuit'.",
+  "translation": "Whoever joins the Cabalists' saying that the numeration called the just one and redeemer is also called ze, to the Talmudists' saying that Isaac went like a ze, carrying his cross, will see that what was prefigured in Isaac was fulfilled in Christ, who was the true God sold for silver.",
+  "translation_note": "'numeratio' is rendered 'numeration', Pico's own word for a sefirah. 'ze' is the Hebrew demonstrative 'this'/'this one', given by Farmer's note as a further common name for the ninth sefirah, continuing the pairing 'just'/'redeemer' from 11>19 (farmer1998:26884).",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T10b; sense checked against farmer1998:26868; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion from the Hebrew wise men's principles)",
+  "writer": "TRANSLATOR-T10b, 2026-09-26"
+}

@@ -1,0 +1,130 @@
+{
+  "thesis_id": "4>2",
+  "tier": "A",
+  "latin": "Si teneatur communis uia de possibilitate suppositationis in respectu ad quamcunque creaturam, dico quod sine conuersione panis in corpus Christi uel paneitatis anihilatione, potest fieri ut in altari sit corpus Christi secundum ueritatem sacramenti Eucharistiae; quod sit dictum loquendo de possibili, non de sic esse.",
+  "latin_source": "farmer1998:21444",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:21444-21448); u/v as Farmer prints them. The Apology's wording differs slightly ('respectu cuiusque creaturae', 'conversione substantiae panis', 'fieri potest'), which Copenhaver judges 'slightly but not importantly' different (copenhaver2022:8585-8586, 8650-8654). The pre-audit repository entry printed a Latin that inverted the thesis; the copy-text excludes the annihilation of breadness ('uel paneitatis anihilatione', farmer1998:21445-21446).",
+  "translation": "If one holds the common opinion about the possibility of suppositing with respect to any creature whatever, I say that Christ's body can be on the altar according to the truth of the sacrament of the Eucharist without the bread's being converted into Christ's body and without the breadness being annihilated; and let this be taken as said of what is possible, not of what is actually so.",
+  "translation_note": "'suppositatio' is metaphysical: for God to make a nature the supposit is, in the theologians' idiom, to take on or assume that nature, as the Word took on a human nature; it is not the semantic supposition at issue in 4>1 and 4>10 (copenhaver2022:2144-2149). 'paneitas', breadness, is the nature of bread as distinct from the bread (panis) itself (copenhaver2022:8072-8074). 'secundum ueritatem sacramenti' echoes the scholastic question whether Christ's body is present in the sacrament 'according to the truth' or only as in a sign (edelheit2022:10874-10877). 'de possibili, non de sic esse' is the modal distinction between a statement of possibility and a statement of being so (copenhaver2022:8577-8580).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-A2), checked against the sense of Farmer's English at farmer1998:21503; awaiting human check",
+  "pico_stance": "endorses (as a possibility only)",
+  "attribution": "Pico's own opinion, second of the theological conclusions 'rather opposed to the common mode of speaking of theologians' (farmer1998:21490-21494, 21444).",
+  "sources": [
+    {
+      "text": "Jean Quidort (John of Paris), Determination on the eucharist, known to Pico through Jean Cabrol's Defenses of Aquinas",
+      "locator": "copenhaver2022:8486",
+      "pico_relation": "Pico's position in Q6 was essentially Quidort's, and his knowledge of Quidort came from Cabrol"
+    },
+    {
+      "text": "Jean Cabrol, Defenses of the Theology of Thomas Aquinas, Sentences 4.11.1",
+      "locator": "copenhaver2022:786",
+      "pico_relation": "half of the Apology's Q6 taken from it, often verbatim and unacknowledged"
+    },
+    {
+      "text": "Capreolus, after p. 68 of the 1487 Apology",
+      "locator": "copenhaver2022:8547",
+      "pico_relation": "the rest of Q6 follows Capreolus closely"
+    }
+  ],
+  "doctrine": "Medieval theologians sorted accounts of eucharistic change into three: the bread's substance remains with Christ's body, it is annihilated, or it is changed into Christ's substance, while the accidents remain in every case (copenhaver2022:7665-7672). The theory of change, under the name transubstantiation, was the most widely accepted (copenhaver2022:7705-7707). The thesis defends the possibility of the first, a theory of remaining: granted the common opinion that God can take on any creature, Christ's body could be on the altar with the bread neither converted nor its breadness annihilated (farmer1998:21444-21448; copenhaver2022:8620-8624). Its model is impanation, 'embreadment' by analogy with incarnation, in which the Word's divine supposit takes on the breadness of the bread as it took on a human nature (copenhaver2022:8049-8063). Farmer glosses the motive: the hypothesis avoids the difficulties of separable accidents, and it concerns only a possible sacrament, not the Eucharist as God established it (farmer1998:21523-21528). The closing clause makes the thesis modal: Copenhaver notes that twelve of the thirteen condemned theses make no appeal to possibility and that this one repeats the word to mark itself as problematic, not assertoric (copenhaver2022:8574-8580). Yet the phrase 'dico quod' asserts what follows it, so that Pico left the thesis 'in a modal tangle' (copenhaver2022:8629-8633). Farmer sees the difficulty of fixing Pico's view in the thesis's apparent clash with 4>13, which denies that God can assume any nature (farmer1998:21528-21530). Copenhaver answers that the hypothetical structure of the thesis precludes the contradiction (copenhaver2022:8404-8411).",
+  "context": "Eucharistic theology had been a flashpoint since a council forced Berengar of Tours to recant in the eleventh century, and Pico names Berengar seven times in Q6 (copenhaver2022:929-937). The theory Pico defended was Quidort's, which he learned from Jean Cabrol, a Thomist who described Quidort only as 'a certain John of Paris' (copenhaver2022:8481-8489). Half of Q6 was taken, much of it verbatim and without acknowledgment, from Cabrol's Defenses of Aquinas (copenhaver2022:1779-1781). Copenhaver notes that the Church had censured Quidort and Ockham for such theories, and that Pico may or may not have known it (copenhaver2022:8358-8361). Pico made his eucharistic theses targets by heading their section 'my own opinion and quite different' from the usual way of talking about theology (copenhaver2022:8526-8530). Farmer adds that the section was suspect because its author was a twenty-three-year-old layman, not a licensed theologian (farmer1998:21461-21464).",
+  "reception": "The commission judged the thesis erroneous, a lighter verdict than the heresy it found in Q1 (copenhaver2022:8641-8643). Blum's translation of the record reads 'Wrong and in matters of faith erroneous' (dougherty2008:2224-2230). Pico answered orally and then in the Apology (farmer1998:21521-21523). There he insisted that he spoke of 'a possible sacrament, its possible reality' and the possible presence of Christ's body, and that his conclusion was 'entirely about possibility, not about being so' (copenhaver2022:8557-8567). He told his judges that 'the actual error is to claim the opposite', since the Father's being incarnate is heretical as a statement de sic esse while the possibility of it is not (copenhaver2022:8695-8702). Fewer than 400 of the Question's 45,000 words address the thesis; the rest Pico called an academic exercise (copenhaver2022:8644-8646, 8663-8667). Bishop Garcia, one of the judges, recognized in 1489 that 'he chases after John of Paris' on this issue (copenhaver2022:8490-8491, 8505).",
+  "historiography": "Edelheit emphasizes how often the Apology uses the formula 'loquendo de possibili non de sic esse' and repeats that the conclusion is merely possible (edelheit2008:16943-16947; edelheit2022:22082-22085). Copenhaver finds 'nothing original or memorable about Q6' as eucharistic theology and explains its length by Pico's reliance on authority during a heresy trial (copenhaver2022:8798-8804). He also judges the commission 'wrong and rigid', since no position within Pico's range could be a doctrinal mistake serious enough for a heresy charge on a doctrine as fluid as consecration (copenhaver2022:8824-8828). Farmer, comparing the oral response with the Apology, notes that Pico's defence heavily underscores the hypothetical nature of the thesis, and that Pico's real view is hard to determine (farmer1998:21521-21530). The one condemned thesis that Pico wrote as a claim about possibility was still judged erroneous, which shows how little his later plea of possibility could protect the other twelve (editorial inference from copenhaver2022:8570-8577, 8641-8642).",
+  "connections": [
+    "4>1",
+    "4>10",
+    "4>13",
+    "4>3"
+  ],
+  "condemned_flag": true,
+  "commission_verdict": "'erroneous' (copenhaver2022:8641-8642); Blum's translation from Dorez and Thuasne 'Wrong and in matters of faith erroneous' (dougherty2008:2183, 2230).",
+  "quotations": [
+    {
+      "text": "twelve of the thirteen theses make no appeal to possibility",
+      "work": "copenhaver2022",
+      "line": 8576,
+      "verbatim": true
+    },
+    {
+      "text": "Pico left his Q6 thesis in a modal tangle",
+      "work": "copenhaver2022",
+      "line": 8633,
+      "verbatim": true
+    },
+    {
+      "text": "My own conclusion is entirely about possibility, not about being so",
+      "work": "copenhaver2022",
+      "line": 8566,
+      "verbatim": true
+    },
+    {
+      "text": "a possible sacrament, its possible reality",
+      "work": "copenhaver2022",
+      "line": 8557,
+      "verbatim": true
+    },
+    {
+      "text": "the actual error is to claim the opposite",
+      "work": "copenhaver2022",
+      "line": 8698,
+      "verbatim": true
+    },
+    {
+      "text": "Wrong and in matters of faith erroneous",
+      "work": "dougherty2008",
+      "line": 2230,
+      "verbatim": true
+    },
+    {
+      "text": "he chases after John of Paris",
+      "work": "copenhaver2022",
+      "line": 8491,
+      "verbatim": true
+    },
+    {
+      "text": "a certain John of Paris",
+      "work": "copenhaver2022",
+      "line": 8483,
+      "verbatim": true
+    },
+    {
+      "text": "my own opinion and quite different",
+      "work": "copenhaver2022",
+      "line": 8529,
+      "verbatim": true
+    },
+    {
+      "text": "nothing original or memorable about Q6",
+      "work": "copenhaver2022",
+      "line": 8799,
+      "verbatim": true
+    },
+    {
+      "text": "his judges were wrong and rigid, not at all reasonable",
+      "work": "copenhaver2022",
+      "line": 8825,
+      "verbatim": true
+    },
+    {
+      "text": "loquendo de possibili non de sic esse",
+      "work": "edelheit2008",
+      "line": 16946,
+      "verbatim": true
+    },
+    {
+      "text": "differs slightly but not importantly",
+      "work": "copenhaver2022",
+      "line": 8585,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The Latin formula of the commission's verdict on this thesis (Dorez and Thuasne 1897, cited at copenhaver2022:8656) is not in the corpus; Copenhaver reports 'erroneous', Blum's translation adds 'Wrong' and 'in matters of faith'. Which is closer to the record is not established by the sources consulted.",
+    "Whether Pico knew that Quidort and Ockham had been censured for theories like his: Copenhaver leaves it open (copenhaver2022:8358-8359).",
+    "How far Pico held the theory of remaining himself: Copenhaver says it is impossible to say how much he cared about incarnational metaphysics (copenhaver2022:8795-8797); Farmer calls his real view hard to determine (farmer1998:21528-21530).",
+    "Pedro Garcia's full rebuttal of Q6 in his Determinationes (1489) was not consulted."
+  ],
+  "writer": "WRITER-A2 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V1",
+  "verified_date": "2026-09-26"
+}

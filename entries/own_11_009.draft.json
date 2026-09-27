@@ -1,0 +1,33 @@
+{
+  "thesis_id": "11>9",
+  "tier": "A",
+  "latin": "Siqua est de nouissimis temporibus humana coniectura, inuestigare possumus per secretissimam uiam cabalae futuram esse consumationem saeculi hinc ad annos quingentos et quatuordecim, et dies uigintiquinque.",
+  "latin_source": "farmer1998:26588",
+  "latin_note": "Follows Farmer's text without change (farmer1998:26588-26590). Busi and Mandosio print the same words with 'v' for consonantal 'u' (busi2014:20347; mandosio2012:334).",
+  "numbering_note": "Pico's heading gives the section seventy-one theses; the text has seventy-two (farmer1998:26248; wirszubski1989:8214).",
+  "translation": "Granting that human conjecture reaches the last times at all, the most secret way of Cabala lets us trace the consummation of the age to a point five hundred and fourteen years and twenty-five days hence.",
+  "translation_note": "'consumatio saeculi' is the consummation or end of the age (saeculum, the present world-age); 'hinc' counts from the moment of writing, which Farmer and the Busi and Ebgi volume take to be the publication date of 7 December 1486 (farmer1998:26621; busi2014:20350).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B3b) from Farmer's Latin, sense checked against farmer1998:26644; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: ninth of the Cabalistic conclusions confirming the Christian religion, section 11>, hedged by its conditional opening (farmer1998:26588).",
+  "sources": [],
+  "doctrine": "The thesis offers a date for the end of the present age, obtained by 'the most secret way of Cabala', and hedges it with a condition: if any human conjecture about the last times is possible at all (farmer1998:26588). It answers a question Pico had listed among those he undertook to answer by numbers, 7a>38, 'Quando futura sit saeculi consumatio', when the consummation of the age will come (farmer1998:24257). Mandosio draws the inference that the way of numbers and the most secret way of Cabala are for Pico one and the same (mandosio2012:280; mandosio2012:290). Farmer also relates the thesis to Orphic thesis 10>20, where the deep contemplator may conjecture something about the consummation of the age through the seven hymns attributed to the paternal mind (farmer1998:26621; farmer1998:25999). Pico's method is not stated; Farmer suggests clues may be found in Heptaplus 7.4, which dates the origin of the world from biblical genealogies and makes much of the correspondence between the six days of creation and the six ages of history before the final historical Sabbath (farmer1998:26623).",
+  "context": "Farmer reads Pico's plans for the Roman debate as uniformly suggesting eschatological hopes and apocalyptic urgency, and places the thesis in the last half of the fifteenth century, when eschatological speculation increased sharply as the date of 1500 approached (farmer1998:2748; farmer1998:2853). He notes that Pico, like most medieval and Renaissance writers, was normally circumspect in calculating the date of the end (farmer1998:2831). Pico wrote a book On the True Calculation of the Ages, De vera temporum supputatione, which is referred to in the Disputationes and in Gianfrancesco Pico's biography but was never published; Farmer suggests the nephew withheld it possibly because it contradicted Savonarola's predictions (farmer1998:2833; farmer1998:2838). In the Busi and Ebgi volume, the section signed 'G.B.' calls the calculation millenarian but not catastrophic, silent about apocalyptic upheavals, an orderly count whose Hebrew abacus nobody knows (busi2014:20337; busi2014:20343).",
+  "reception": "The thesis was not among those the commission censured; Blum notes that the Cabalistic theses according to Pico's own opinion went unchallenged (dougherty2008:2808). Its later readers have chiefly argued over the date it yields, as set out under historiography (busi2014:20350; farmer1998:26621).",
+  "historiography": "Counting from the publication of the theses on 7 December 1486 and ignoring calendar changes, Farmer obtains 1 January 2000 (farmer1998:26621). Mandosio gives the same date (mandosio2012:290). The Busi and Ebgi volume, following Patschovsky, puts the end on 31 December 2000 and calls Farmer's 1 January 2000 apparently erroneous (busi2014:20350; busi2014:20353). The editor's arithmetic supports the later year: 7 December 1486 plus 514 years is 7 December 2000, and 25 days more reach 31 December 2000 or 1 January 2001 depending on whether the first day is counted (farmer1998:26590; busi2014:20351). Farmer stresses Pico's caution in producing such calculations, and in his introduction calls this a hesitant Cabalistic calculation that carries the theses to the year 2000 (farmer1998:26622; farmer1998:2809). He adds that in Renaissance eschatology it is often hard to separate hard conviction, half-hope and metaphorical play, though it was rarely simply play (farmer1998:2806). The thesis is the one place where Pico's Cabala claims a date, and the conditional that opens it is as much part of its doctrine as the number (farmer1998:26588; farmer1998:2831).",
+  "connections": ["7a>38", "10>20", "11>16", "11>61"],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {"text": "erronea pare la data", "work": "busi2014", "line": 20353, "verbatim": true},
+    {"text": "That is to say, on 1 January 2000", "work": "mandosio2012", "line": 290, "verbatim": true}
+  ],
+  "not_established": [
+    "The computation by which Pico reached 514 years and 25 days; no source consulted reconstructs it.",
+    "Whether the Heptaplus scheme of six ages bears on the figure; Farmer offers it only as a clue.",
+    "Patschovsky's argument, known here only through the Busi and Ebgi volume's note."
+  ],
+  "writer": "WRITER-B3b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

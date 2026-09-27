@@ -1,0 +1,13 @@
+{
+ "thesis_id": "7a>16",
+ "tier": "C",
+ "latin": "Vtrum in aliqua natura contradictoria se compatiantur.",
+ "latin_source": "farmer1998:24024",
+ "latin_note": "Copy-text OCR joins 'natura' and 'contradictoria' with an underscore ('natura_contradictoria'); normalised here to a space as an obvious OCR artifact (no folio-break marker occurs at this point in the source).",
+ "translation": "Whether contradictory things can be mutually compatible within some nature.",
+ "translation_note": "Sense checked against Farmer's English at farmer1998:24083; recast to preserve the reflexive 'se compatiantur' ('mutually compatible') and to vary Farmer's wording.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T08b; sense checked against farmer1998:24083; awaiting human check",
+ "pico_stance": "unstated",
+ "attribution": "Pico's own list of questions to be answered through numbers (section 7a>)",
+ "writer": "TRANSLATOR-T08b, 2026-09-26"
+}

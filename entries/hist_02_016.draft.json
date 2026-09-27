@@ -1,0 +1,13 @@
+{
+ "thesis_id": "2.16",
+ "tier": "B",
+ "latin": "Christus in ultimo iudicio iudicabit non solum in natura humana, sed etiam secundum naturam humanam.",
+ "latin_source": "farmer1998:11525",
+ "translation": "In the Last Judgment, Christ will judge not only in his human nature, but also according to his human nature.",
+ "translation_note": "The Latin as transmitted repeats 'natura humana' / 'naturam humanam' in both disjuncts, where a contrast (e.g. with the divine nature) is expected; Farmer's own English preserves the same repetition without comment (farmer1998:11558), and no apparatus variant is recorded here. Sense checked against farmer1998:11558.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T01b; sense checked against farmer1998:11558; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Thomas Aquinas (section 2 of the historical theses)",
+ "not_established": ["Whether the doubled 'natura humana / naturam humanam' preserves Pico's intended contrast or is a corruption for a different second term (e.g. 'naturam diuinam') is not established by the sources consulted; Farmer's translation preserves the same repetition without comment (farmer1998:11558)."],
+ "writer": "TRANSLATOR-T01b, 2026-09-26"
+}

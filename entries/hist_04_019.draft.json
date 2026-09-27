@@ -1,0 +1,14 @@
+{
+ "thesis_id": "4.19",
+ "tier": "B",
+ "latin": "Actus intelligendi ab obiecto et intellectu tanquam duobus agentibus partialibus, ut quod causatur.",
+ "latin_source": "farmer1998:12371",
+ "latin_note": "The closing clause 'ut quod causatur' is elliptical in the source as transmitted; no fuller reading is supplied by the apparatus consulted.",
+ "translation": "The act of understanding, as an effect, is caused by the object and the intellect together, each as a partial cause.",
+ "translation_note": "Sense checked against farmer1998:12435; the elliptical closing clause is rendered by supplying 'as an effect' for the sense, per Farmer's own reading at the same locator.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T01b; sense checked against farmer1998:12435; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Scotus (section 4 of the historical theses)",
+ "not_established": ["Whether the closing clause 'ut quod causatur' preserves the full wording of the thesis, or is truncated in transmission, is not established by the sources consulted."],
+ "writer": "TRANSLATOR-T01b, 2026-09-26"
+}

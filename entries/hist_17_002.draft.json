@@ -1,0 +1,13 @@
+{
+ "thesis_id": "17.2",
+ "tier": "D",
+ "latin": "Aristoteles in tertio libro De anima non tractat nisi de parte rationali.",
+ "latin_source": "farmer1998:14550",
+ "latin_note": "1486 reads 'in libro'; the Emendationes errorum correct to 'in tertio libro'; 1487 reads 'in libro tertio' (farmer1998:14572).",
+ "translation": "In the third book of the De anima, Aristotle treats only of the rational part [of the soul].",
+ "translation_note": "Sense checked against farmer1998:14606; no further crux.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T03b; sense checked against farmer1998:14606; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Simplicius (section 17 of the historical theses)",
+ "writer": "TRANSLATOR-T03b, 2026-09-26"
+}

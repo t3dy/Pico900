@@ -1,0 +1,71 @@
+{
+  "thesis_id": "9>25",
+  "tier": "A",
+  "latin": "Sicut caracteres sunt proprii operi magico, ita numeri sunt proprii operi cabalae, medio existente inter utrosque et appropriabili per declinationem ad extrema usu litterarum.",
+  "latin_source": "farmer1998:25475",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25475-25477), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); no variant is recorded in Farmer's apparatus for this page (farmer1998:25482-25487). Busi's introduction prints 'opere magico' (busi2014:1667), but his edition of the sources reads 'operi magico' (busi2014:24490-24492). Akopyan prints 'literarum' and a comma after 'utrosque' (akopyan2018:618-619).",
+  "translation": "As characters are proper to the magical work, so numbers are proper to the work of Kabbalah; between the two stands the use of letters as a medium, which can be fitted to either extreme by being inflected toward it.",
+  "translation_note": "'medio existente ... usu litterarum' is an ablative absolute whose subject is 'usu litterarum': the use of letters is the medium, and 'appropriabili per declinationem ad extrema' says it can be made proper to either extreme by a 'declinatio', a bending or turning toward one side. Copenhaver renders the clause as a use of letters 'that avoids either extreme' (copenhaver2019:20311-20313); Ebgi as 'adattabile con opportune modifiche ai due estremi' (busi2014:10149-10152). 'operi cabalae' is 'the work of Kabbalah', following Mandosio's objection to the indefinite article in Farmer's English (mandosio2012:330).",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25527; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-fifth magical conclusion, the third of the series on numbers, characters and figures, 9>23-25 (farmer1998:25543-25545).",
+  "sources": [
+    {
+      "text": "Latin translations of kabbalistic texts by Flavius Mithridates, with their shift from letters to numbers",
+      "locator": "wirszubski1989:4349",
+      "pico_relation": "a possible influence on the thesis, proposed by Wirszubski"
+    }
+  ],
+  "doctrine": "The thesis is a proportion: characters are to magic as numbers are to Kabbalah, and the use of letters is a medium between them that can be adapted to either extreme (farmer1998:25475-25477). Farmer takes characters here, as in 9>24, to be magical words in general, and reads the point as the translatability of magical words into numbers and of numbers into words, apparently through the word-number equations of gematria (farmer1998:25541-25543). Gematria is the conversion of words into numbers, practicable in Hebrew because its letters are also numerals (mandosio2012:424-429). In his introduction Farmer cites this thesis for Pico's claim that unspecified gematria-like techniques were the key to his fusion of natural magic and Cabala (farmer1998:3813-3815; farmer1998:3843). Wirszubski bases his reading on two facts: all Hebrew letters are also numerals, and speech, creation and the name of God are inseparably linked in Kabbalistic ontology (wirszubski1989:7162-7164). Given these facts, he argues, the thesis squares with Pico's notion of practical Kabbalah as the 'science of names', since names, letters and numbers all belong to language and number mysticism (wirszubski1989:7186-7191). Farmer rejects that identification: for Pico practical Kabbalah was the 'science of sefirot' and speculative Kabbalah the 'science of names' (farmer1998:26326-26332). Mandosio agrees with Farmer and concludes that the numbers proper to the work of cabala are the sefirot, which correspond to the formal numbers (mandosio2012:262-272). He judges that Wirszubski's misinterpretation does not deeply affect his analysis, given the equivalence of numbers and names in Hebrew (mandosio2012:324-326).",
+  "context": "Wirszubski proposes a source for the numerical side of the thesis in Pico's translator: the Latin versions of Flavius Mithridates show a sustained shift from linguistic to numerical symbolism, and the notion that 'numeri sunt proprii operi cabalae' is, he writes, out of tune with the Hebrew originals of Pico's sources but in keeping with their Latin translations (wirszubski1989:4207-4217; wirszubski1989:4349-4359). The Orphic theses state the same property of Kabbalah in other words: the work of the hymns is nothing without a work of Cabala, whose property is to practise every formal quantity, continuous and discrete (farmer1998:26004-26007; wirszubski1989:7192-7198). Farmer reads the work there as gematria or other word-number translations used to calculate the seven ages of the world, a prophetic exegesis and not a material operation (farmer1998:7173-7176).",
+  "reception": "Busi reads the thesis as a graduated scale, the first of its kind among magicians and cabalists (busi2014:1654-1660). It runs, he argues, from the extreme of magical asemanticity, the characteres, to the extreme of linguistic abstraction, gematria and letter-numbers, and a Hebrew letter can move along it from mute figure to word to pure number (busi2014:1675-1682). Ebgi describes the same scale as a double mathematical writing latent in the alphabet: characters obtained by emptying letters of meaning and reducing them to geometric elements, numbers obtained by reducing the Hebrew letters to arithmetical elements (busi2014:10153-10161). Howlett cites the thesis for the manipulation of mathematics and letters in Kabbalism to bring about change within and outside ourselves (howlett2021:5502-5504; howlett2021:6195-6201).",
+  "historiography": "Farmer holds that characters here are not words on astrological talismans 'as Yates argued' (farmer1998:25541-25542), and he counts this thesis among those whose Latin Yates misread (farmer1998:7957-7959). Copenhaver, by contrast, glosses the characters as 'Nonalphabetic signs', magical like numbers in Kabbalah (copenhaver2019:17382-17383), a reading nearer to Ebgi's letters emptied of meaning and reduced to geometric elements than to Farmer's words (busi2014:10155-10158). The dispute between Wirszubski on one side and Farmer and Mandosio on the other concerns which half of Kabbalah the numbers serve, not whether letters and numbers are convertible (wirszubski1989:7186-7191; farmer1998:26326-26332; mandosio2012:324-326). Farmer calls this thesis 'another link' between magic and Cabala (farmer1998:25343). Where 9>15, 9>18 and 9>26 relate magic and Kabbalah by rank, this thesis relates them by a shared material, the letter, which is why every reading of it turns on what a letter is (editorial inference from farmer1998:25288-25289, farmer1998:25362-25363 and farmer1998:25475-25477).",
+  "connections": [
+    "9>15",
+    "9>18",
+    "9>22",
+    "9>23",
+    "9>24",
+    "9>26",
+    "10>20",
+    "10>21",
+    "11>1",
+    "11>3",
+    "11>12"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "magical words can be translated into numbers, and numbers into magical words",
+      "work": "farmer1998",
+      "line": 25542,
+      "verbatim": true
+    },
+    {
+      "text": "all Hebrew letters are also numerals",
+      "work": "wirszubski1989",
+      "line": 7163,
+      "verbatim": true
+    },
+    {
+      "text": "is for the most part out of tune with the Hebrew originals",
+      "work": "wirszubski1989",
+      "line": 4358,
+      "verbatim": true
+    },
+    {
+      "text": "Nonalphabetic signs or",
+      "work": "copenhaver2019",
+      "line": 17382,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "Which technique, if any, Pico meant by 'declinatio' of letters: not established by the sources consulted; Farmer's gematria is qualified by 'apparently' (farmer1998:25543).",
+    "Whether Pico's characters are words (Farmer, farmer1998:25541) or non-alphabetic signs (Copenhaver, copenhaver2019:17382; Ebgi, busi2014:10155-10158): not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

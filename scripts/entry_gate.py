@@ -92,7 +92,7 @@ def check(path):
         fk = next(k for k, w in REG.items() if w.get("role") == "edition_farmer")
         block = " ".join(lines_of(fk)[fe - 1:fe + 3])
         block = re.sub(r"^\s*\S+\s+", "", block, count=1)
-        r = difflib.SequenceMatcher(None, " ".join(norm(tr)), " ".join(norm(block)[:len(norm(tr)) + 5])).ratio()
+        r = difflib.SequenceMatcher(None, " ".join(norm(tr)), " ".join(norm(block)[:len(norm(tr)) + 5]), autojunk=False).ratio()
         if r > 0.85:
             fails.append(f"translation is near-identical to Farmer's English (similarity {r:.2f}); write an original rendering")
         notes.append(f"translation/Farmer similarity {r:.2f}")

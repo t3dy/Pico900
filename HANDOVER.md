@@ -135,10 +135,38 @@ never from `git` on this public repo.
 - VERIFIER-V1 (the nine condemned drafts + Q9-Q10) and VERIFIER-V2 (the other ten tier-A drafts) launched; verdicts to
   `data/verification/entries/`, promoted entries written as `entries/<slug>.json`.
 
-## 2026-09-27 (window-8857d983): copyrighted material removed from history; main pushed
+## 2026-09-27 (window-8857d983): state at the weekly limit
 
-The commit behind D-24 (73 MB of in-copyright corpus text) was dropped from `main`'s history with
-`git rebase --onto` (verified clean: nothing later depended on its files). `research-packets/` and
-`data/ontology/mentions/` were untracked (`git rm --cached`, kept on disk) for the same reason (D-29).
-`.gitignore` now excludes all four paths. `main` was pushed to `origin/main` after this cleanup; `gh-pages`
-already carries a live built site (see `DEPLOY_STATE.md`) and was not touched here.
+**Numbers** (`python scripts/entry_gate.py`, similarity check now `autojunk=False`): 856 drafts of 900 theses; 833
+pass; 18 verified entries (`entries/<slug>.json`, all condemned theses except Q4/Q11/Q12/Q13, whose drafts exist and
+await a verifier). 45 theses have no draft: 40 in section 24 (Proclus 24.16-24.55, T03b was cut off), 10>15, 11>63,
+11>66, 11>72, and the tier-A commentary for 28.33, 28.44, 3>55, 5>19, 7>5, 7>6, 8>6, 8>7, 10>2 (B1b cut off; their
+translations exist as tier-B drafts only where a translator covered them).
+
+**The 23 gate failures are all one kind**: renderings within 0.85 of Farmer's English (mostly short Proclus theses).
+A TRANSLATOR-FIX run on `entries/hist_18_*, hist_2[1-4]_*, own_11_016, own_2_{038,047,064,077}, own_5_009, own_7_011`
+clears them (the earlier fix agent's prompt is the model).
+
+**Do next, in order**: (1) finish section 24 and the four tier-A theses above (T03b and B1b prompts, incremental
+writes); (2) VERIFIER on own_4_013, own_9_008, own_3_049, own_3_060 (V3 was cut off) and on the other 39 tier-A
+drafts (9>, 11>, 28.x, 3>55); (3) `python scripts/build_site_v2.py && python scripts/predeploy_check.py`; have Ted read
+five verified condemned entries cold; (4) harvester precision (B3b's findings): Farmer note cross-references bleed
+into the neighbouring thesis's packet when notes share a line block; unresolved Wirszubski *Conclusio* hits can point
+at the wrong set; both are in `scripts/harvest_mentions.py`; (5) the inventory's `farmer_english_line` is wrong or
+missing for about a dozen theses that translators located by hand (their `translation_note` gives the real line):
+fold those into `extract_farmer_theses.py`'s English-stream logic. (6) `DECISIONS.md` D-25: the push is still blocked.
+
+**Cruxes for a Latinist** are collected in the entries' `not_established` and `translation_note` fields; the ones
+reported by agents: 4>13 *rationali tamen* vs the Apology's *rationabili tantum*; 4>14 "sicut ego feci in ista
+determinare"; 4>18 "in oppositum firmiter assererem" (Farmer vs Copenhaver); 5.11 *ratitudo*; 13.5 *artifex specialis*;
+2.16 repeated "natura humana"; 10>22 *errabat*; 9>18 *propria/proxima* (Farmer vs Wirszubski).
+
+## 2026-09-27, later (window-8857d983): copyrighted material removed from history; main pushed
+
+Per Ted, in chat: "don't commit anything copyrighted to the github just our digital edition and project and website
+etc we've been building." The commit behind D-24 (73 MB of in-copyright corpus text) was dropped from `main`'s
+history with `git rebase --onto` (verified clean: nothing later depended on its files). `research-packets/` and
+`data/ontology/mentions/` were untracked (`git rm --cached`, kept on disk) for the same reason (D-29, since they
+embed hundreds of verbatim scholar excerpts). `.gitignore` now excludes all four paths (section 5, above). `main`
+was pushed to `origin/main` after this cleanup; `gh-pages` already carries a live built site (see `DEPLOY_STATE.md`)
+and was not touched here. D-25's block on pushing `main` is closed.

@@ -1,0 +1,257 @@
+{
+ "thesis_id": "9>2",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/own_9_002.draft.json: 'PASS 9>2 own_9_002.draft.json / 1/1 drafts pass the entry gate'; 36 locators; translation/Farmer similarity 0.74)",
+ "quotations": [
+  {
+   "text": "Praedictam autem specificationem et restrictionem",
+   "work": "busi2014",
+   "line": 24493,
+   "verdict": "verbatim (Apologia text in Busi/Ebgi's anthology)"
+  },
+  {
+   "text": "certain arts, disguising themselves as natural philosophy",
+   "work": "farmer1998",
+   "line": 1349,
+   "verdict": "verbatim, but at line 1350 (Farmer's translation of the bull); line corrected in the promoted entry"
+  },
+  {
+   "text": "Magia secundum communiter loquentes est ars cognoscendi",
+   "work": "farmer1998",
+   "line": 7193,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:25117-25119; farmer1998:28040-28042",
+   "verdict": "SUPPORTED",
+   "note": "Latin matches Farmer 25117-25119."
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Akopyan and Busi print the same words",
+   "locator": "akopyan2018:576; busi2014:1564-1565",
+   "verdict": "SUPPORTED",
+   "note": "Akopyan n. 44 has 'licita est, et non prohibita'; Busi n. 70 prints the whole thesis with v."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'pono' is the technical verb",
+   "locator": "farmer1998:25118",
+   "verdict": "SUPPORTED",
+   "note": "The locator shows only the word; 'technical verb for proposing a thesis' is an editorial gloss, not a source claim. Acceptable as a note."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'infrascriptas' means 'written below'",
+   "locator": "farmer1998:25118",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'scientia' is a body of demonstrative knowledge",
+   "locator": "farmer1998:25117-25118",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the second magical conclusion",
+   "locator": "farmer1998:25117-25119",
+   "verdict": "SUPPORTED",
+   "note": "'pono infrascriptas conclusiones secundum propriam opinionem'."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "al-Kindi, William of Auvergne (William of Paris) and Roger Bacon",
+   "locator": "farmer1998:6710-6714",
+   "verdict": "SUPPORTED",
+   "note": "Farmer: in the Oration and Apology, 'among the moderns' Pico singles out three writers who had 'scented out' magia naturalis."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "William of Auvergne, De universo",
+   "locator": "copenhaver2019:17430-17436",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver: 'In the Apology, Pico cited William ... to show that natural magic was not necromancy.' The title is not at the locator; Copenhaver's note 4 (copenhaver2019:24154) cites both De legibus (1674b) and De universo (1674c) without saying which one Pico cited. The work title is not established; remove it."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Where 9>1 excludes demonic magic",
+   "locator": "farmer1998:25111-25118",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Natural magic, in the sense used here",
+   "locator": "copenhaver2019:17430-17436",
+   "verdict": "SUPPORTED",
+   "note": "William (as cited by Pico, in Copenhaver's translation): 'natural actions, the knowledge of which is one of the eleven parts of natural knowledge (scientia), where nothing is done with help from demons'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico's own formula in the Apology",
+   "locator": "farmer1998:7067-7072",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's translation of the Apology: 'the powers and activities of natural agents ... what they can and cannot do through their own power ... the one that I call natural magic'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The second clause turns the thesis into a preface",
+   "locator": "farmer1998:25117-25119",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The series is therefore presented as the theory",
+   "locator": "farmer1998:25118; busi2014:9796-9800",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference; 9796-9800 (Ebgi, entry CHARACTERES) says Pico raises a wall of reticence and refers answers to a secret philosophy."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer notes that medieval magical treatises",
+   "locator": "farmer1998:25172-25173",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The authorities Pico names for natural magic among the moderns",
+   "locator": "farmer1998:6710-6714",
+   "verdict": "SUPPORTED",
+   "note": "Dates (ninth and thirteenth centuries) as in Farmer."
+  },
+  {
+   "field": "context",
+   "sentence_start": "In the Oration the same three are said only to have picked up the scent",
+   "locator": "copenhaver2019:19624-19626",
+   "verdict": "OVERREACH",
+   "note": "Oration 58 (Copenhaver's translation): 'Among more recent authorities, I also find three who had picked up the scent of magic: Alkindi the Arab, Roger Bacon, and William of Paris.' 'only' is not in the source."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer uses this list to argue that Pico's natural magic was not Ficino's",
+   "locator": "farmer1998:6603-6610",
+   "verdict": "OVERREACH",
+   "note": "The chronology (De vita coelitus comparanda, Ficino's only magical treatise, written some two and a half years after the theses) is supported at 6603-6610, but it is Farmer's first point, not an argument drawn from the list of moderns; the list (6708-6714) is used against identifying Pico's natural magic with Hermetism."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico's natural magic also concerned sublunary",
+   "locator": "farmer1998:7018-7020",
+   "verdict": "SUPPORTED",
+   "note": "Farmer says 'suggesting'; the sentence states it flatly, acceptable since Farmer glosses 'natural agents' as 'sublunary forces'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico declared that the specification and restriction",
+   "locator": "busi2014:24493-24495",
+   "verdict": "SUPPORTED",
+   "note": "Apologia text in Busi/Ebgi's anthology: 'Praedictam autem specificationem et restrictionem intentionis meae in conclusionibus magicis ad magiam naturalem, intendo esse applicandam cuilibet conclusioni particulari'."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The bull of 4 August 1487 nonetheless complained",
+   "locator": "farmer1998:1326-1327; farmer1998:1349-1351",
+   "verdict": "SUPPORTED",
+   "note": "Date checked: 'In a bull signed 4 August 1487' (1326); the quoted phrase is at 1350."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In his attack on Pico's theses Pedro Garcia (1489)",
+   "locator": "farmer1998:7190-7194",
+   "verdict": "SUPPORTED",
+   "note": "Farmer n.: 'Petrus Garcias (1489: H4v) adopted a succinct definition ... which probably could have been accepted by Pico himself'. Date checked."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer's reading of the whole section is framed against Frances Yates",
+   "locator": "farmer1998:6451-6454; farmer1998:7332-7335",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Against that equation Farmer argues",
+   "locator": "farmer1998:7335-7339",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver reads the pairing of 9>1 and 9>2",
+   "locator": "copenhaver2019:17361-17365",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver poses a question ('Did Pico want to advertise natural magic while keeping quiet about angel-magic?') and says the theses on magic (M) as a whole 'suggest so'; he does not attach it to the pairing of 9>1 and 9>2."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Busi reads the licit magic of 9>2",
+   "locator": "busi2014:1525-1529",
+   "verdict": "SUPPORTED",
+   "note": "'Nelle Conclusiones cattiva arte è però solo la magia nuova, quella dozzinale ...' followed by 9>2 in Italian. Busi's introduction (running head GIULIO BUSI)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Akopyan treats the thesis as Pico's opposition",
+   "locator": "akopyan2021:1273-1277",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis is the hinge of the series",
+   "locator": "farmer1998:25117-25119; busi2014:24493-24495",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference; the Apology sentence supports 'held Pico to that heading'."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Which 'universal theoretical foundations'",
+   "locator": "busi2014:9802-9805",
+   "verdict": "SUPPORTED",
+   "note": "'Ma la disputa non ebbe mai luogo.'"
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against farmer1998:25117-25119 and the sense of Farmer's English at 25157-25159. 'uniuersalibus theoricis fundamentis' rendered 'universal and theoretical foundations': the inserted 'and' is harmless. 'secundum propriam opinionem' kept. Similarity to Farmer 0.74 is below the gate threshold; the wording differs ('licit, not forbidden'; 'put forward'; 'set out below')."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "Corrections are removals ('only'; 'uses this list to'; the Copenhaver sentence; the unestablished title De universo) and one quotation line adjustment. The first not_established item still names De universo; it states an open question and is left as the WRITER wrote it.",
+ "corrections": [
+  {
+   "field": "context",
+   "replace": "In the Oration the same three are said only to have picked up",
+   "with": "In the Oration the same three are said to have picked up"
+  },
+  {
+   "field": "context",
+   "replace": "Farmer uses this list to argue that Pico's natural magic",
+   "with": "Farmer argues that Pico's natural magic"
+  },
+  {
+   "field": "historiography",
+   "replace": "Copenhaver reads the pairing of 9>1 and 9>2 as a choice to advertise natural magic while keeping quiet about angel-magic (copenhaver2019:17361-17365). ",
+   "with": ""
+  },
+  {
+   "field": "sources",
+   "replace": "William of Auvergne, De universo, cited in the Apology",
+   "with": "William of Auvergne, cited in the Apology"
+  },
+  {
+   "field": "quotations",
+   "replace": "certain arts, disguising themselves as natural philosophy: line 1349",
+   "with": "line 1350"
+  }
+ ]
+}

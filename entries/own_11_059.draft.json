@@ -1,0 +1,13 @@
+{
+  "thesis_id": "11>59",
+  "tier": "B",
+  "latin": "Qui profunde considerauerit quadruplicem rerum statum: Primo unionis et stabilitae mansionis, Secundo processionis, Tertio reuersionis, Quarto beatificae reunionis, videbit litteram Beth cum prima littera, primum, cum media, medium, cum ultimis, ultima, operari.",
+  "latin_source": "farmer1998:27638",
+  "latin_note": "The sheet joins 'littera_primum', 'media_medium' and 'ultimis_ultima' with underscores, an OCR artifact for light punctuation; resolved here to commas.",
+  "translation": "Anyone who considers deeply the fourfold condition of things — first, union and settled indwelling; second, procession; third, reversion; fourth, beatific reunion — will find the letter Bet working the first state with the alphabet's first letter, the middle states with its middle letter, and the last with its last letters.",
+  "translation_note": "Farmer's note (following Wirszubski) reconstructs the combinations as bet+alef='av' (Father), bet+nun='ben' (Son), bet+shin/tav='shabbat' (Sabbath), matching indwelling, procession, and reversion/reunion (farmer1998:27714).",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T10b; sense checked against farmer1998:27698; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion from the Hebrew wise men's principles)",
+  "writer": "TRANSLATOR-T10b, 2026-09-26"
+}

@@ -1,0 +1,368 @@
+{
+ "thesis_id": "4>10",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_010.draft.json` printed 'PASS 4>10 own_4_010.draft.json' / '1/1 drafts pass the entry gate'; 56 locators; note 'translation/Farmer similarity 0.59'",
+ "quotations": [
+  {
+   "text": "Pico's Q10 thesis gave the gist of this gloss",
+   "work": "copenhaver2022",
+   "line": 9551,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Although Pico had logic and law on his side",
+   "work": "copenhaver2022",
+   "line": 1015,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "not only Catholic but also more acceptable (probabilior) than its opposite",
+   "work": "copenhaver2022",
+   "line": 9908,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "The commission's hostility towards Pico is reflected in its judgment",
+   "work": "farmer1998",
+   "line": 21750,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "scandalous and contrary to the usual view of saintly teachers",
+   "work": "copenhaver2022",
+   "line": 8902,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "until now it has never been rejected by the Church",
+   "work": "copenhaver2022",
+   "line": 9906,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998, OCR, which prints 'significatiuae' (farmer1998:21666-2166",
+   "locator": "farmer1998:21666-21667",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Copenhaver gives the Conclusions' wording as 'et cetera' and emends 'significati",
+   "locator": "copenhaver2022:9476-9478",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "He notes that the Apology's statement of the thesis differs slightly from the Co",
+   "locator": "copenhaver2022:9463-9466",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Garcia's 1489 title, as printed by Edelheit, reads 'hoc est corpus meum' and 'ma",
+   "locator": "edelheit2022:20775-20777",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "numbering_note",
+   "sentence_start": "Pico's Latin heading announces thirty-one theological conclusions (farmer1998:21",
+   "locator": "farmer1998:21432-21435; farmer1998:21490; farmer1998:21459-21461",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "numbering_note",
+   "sentence_start": "Farmer gives this thesis the cumulative number 580 (farmer1998:21724).",
+   "locator": "farmer1998:21724",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'materialiter' and 'significatiue' are terms of supposition theory: a term in ma",
+   "locator": "copenhaver2022:983-986, 9696-9700",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'tenentur' is rendered 'are taken', the logicians' verb for how a term is used i",
+   "locator": "copenhaver2022:9469-9470",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The parenthesis abbreviates the formula 'hoc est enim corpus meum', this is my b",
+   "locator": "copenhaver2022:966-969",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the tenth of the theological conclusions 'secundum opinionem",
+   "locator": "farmer1998:21432-21435, 21666",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis answers the puzzle of 'hoc': when the priest says 'this', what does t",
+   "locator": "copenhaver2022:968-971",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "It cannot be the bread, which is not Christ's body, nor Christ's body, which is ",
+   "locator": "copenhaver2022:970-973",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Supposition theory distinguished what a term signifies in isolation from what it",
+   "locator": "copenhaver2022:987-993",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "A term in material supposition stands for a word, a term in personal or signific",
+   "locator": "copenhaver2022:9696-9700",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "To take the words materially, in Farmer's gloss, is to put them in quotation mar",
+   "locator": "farmer1998:21745-21750",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico's defence restricts the thesis to the priest: the words were significative ",
+   "locator": "copenhaver2022:10066-10072",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "His evidence is the rest of the rite: the priest says 'take and eat' though he a",
+   "locator": "copenhaver2022:10076-10092",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Thesis 2>16 denies that the Treatise on Supposition belongs to logic; Farmer com",
+   "locator": "farmer1998:19122-19126",
+   "verdict": "LINE OFF",
+   "note": "The text of 2>16 ('Tractatus suppositionum ad logicum non pertinet') is at farmer1998:19092, not in the cited note; the note (19122-19126) supports the second clause. Farmer's '(other than his own)' after 'Aristotelian logic' is omitted; minor loss of qualifier, not corrected."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico's thesis condenses the Ordinary Gloss on canon 25 of De consecratione, whic",
+   "locator": "copenhaver2022:9535-9551",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The narrative reading had a long history before Pico (copenhaver2022:9842-9845).",
+   "locator": "copenhaver2022:9842-9845",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Lotario dei Segni, later Innocent III, held that the priest uses the words not d",
+   "locator": "copenhaver2022:9615-9643",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Aquinas rejected the view that the whole utterance is taken materially when spok",
+   "locator": "copenhaver2022:9738-9747",
+   "verdict": "SUPPORTED",
+   "note": "The quoted view and its rejection are Aquinas's (copenhaver2022:9749-9754 continues 'Thomas equated ...')."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Scotus held the formula true only at the last instant of its utterance and allow",
+   "locator": "copenhaver2022:9755-9765",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Among the theses Pico reported from Scotus, 4.15 states that consecration cannot",
+   "locator": "farmer1998:12357-12358",
+   "verdict": "SUPPORTED",
+   "note": "4.15 is in Farmer's Scotus section (data/inventory/theses.json: section '4', Scotus). Calling the preceding words ('pridie quam pateretur') 'narrative' is an editorial gloss consistent with copenhaver2022:9759-9765."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Durand de Saint-Pourçain argued that the priest speaks 'recitative et non signif",
+   "locator": "copenhaver2022:9766-9772, 9799",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Ockham treated the problem through his distinction between spoken and mental lan",
+   "locator": "copenhaver2022:9803-9810",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Jean Cabrol, defending Thomas, gave 'hoc' a merely confused supposition (copenha",
+   "locator": "copenhaver2022:9811-9825",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Copenhaver concludes that Pico relied on terms of art, materialiter, significati",
+   "locator": "copenhaver2022:9842-9845",
+   "verdict": "SUPPORTED",
+   "note": "Same evidence as context 2 (copenhaver2022:9842-9845)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission judged the thesis scandalous and contrary to the usual view of sa",
+   "locator": "copenhaver2022:8902-8903, 10060-10062",
+   "verdict": "SUPPORTED",
+   "note": "The second limb (the glossator's view 'does not hold') is known only from Pico's report in the Apology (copenhaver2022:10060-10062), which is the locator given."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer reads the condemnation of an apparently innocuous thesis as a sign of the",
+   "locator": "farmer1998:21750-21752",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Copenhaver agrees that Pico had logic and law on his side, and explains the verd",
+   "locator": "copenhaver2022:1015, 9551-9555",
+   "verdict": "SUPPORTED",
+   "note": "copenhaver2022:1015 ('Although Pico had logic and law on his side') and 9551-9555."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pico turned the charge around, calling the commission's finding the scandalous o",
+   "locator": "copenhaver2022:10062-10065, 9906-9909",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He reminded the judges that the Gloss had never been rejected by the Church (cop",
+   "locator": "copenhaver2022:9905-9907",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Pedro Garcia (Garsia), a judge who published a reply in 1489, gave a philosophic",
+   "locator": "copenhaver2022:548-549; edelheit2022:20756-20758, 20775-20782",
+   "verdict": "SUPPORTED",
+   "note": "Garsia's Latin at edelheit2022:20777-20782 ('hoc pronomen hoc necque demonstrat terminum ad quem ... determinate ... Neque iterum ... terminum a quo')."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Giovanni Caroli answered the thesis together with the other two eucharistic thes",
+   "locator": "edelheit2022:21280-21283, 21711-21714",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer presents the thesis as an instance of Pico's use of late medieval supposi",
+   "locator": "farmer1998:21745-21751",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver reconstructs the canon-law and scholastic background and reads the th",
+   "locator": "copenhaver2022:9551-9553",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He observes that the thesis itself says nothing about narration, which enters on",
+   "locator": "copenhaver2022:9870-9878",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He also judges the Apology's Q10 too short to tell whether its text needs emendi",
+   "locator": "copenhaver2022:8958-8959",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit groups the thesis with 4>1 and 4>2 as the eucharistic theses that Carol",
+   "locator": "edelheit2022:20751-20758, 21699-21714",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The case shows a thesis that repeated standing canon law being censured for its ",
+   "locator": "copenhaver2022:9551-9555, 9905-9907",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "'scandalous and contrary to the usual view of saintly teachers' (copenhaver2022:",
+   "locator": "copenhaver2022:8902-8903; farmer1998:21751-21752; dougherty2008:2183-2184, 2233",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21666-21667 matches (OCR 'significatiuae', declared in latin_note, with Copenhaver's emendation). Sense agrees with Farmer's English at 21723-21724 (sense only); Farmer's 'indicative' vs the entry's 'significatively' is a terminological choice explained in translation_note 1. 'tenentur' as 'are taken' follows copenhaver2022:9469. No qualifier lost."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "doctrine",
+   "type": "relocate",
+   "old": "Thesis 2>16 denies that the Treatise on Supposition belongs to logic; Farmer comments that Pico used the language of supposition theory only occasionally, as here, and regarded departures from traditional Aristotelian logic with disdain (farmer1998:19122-19126).",
+   "new": "Thesis 2>16 denies that the Treatise on Supposition belongs to logic (farmer1998:19092); Farmer comments that Pico used the language of supposition theory only occasionally, as here, and regarded departures from traditional Aristotelian logic with disdain (farmer1998:19122-19126)."
+  }
+ ],
+ "dates_numbers": "Cumulative number 580 (farmer1998:21724): correct. Garcia 1489 (copenhaver2022:549): correct. 'twelfth century' for the terms of art (9843): correct. Canon 25, De consecratione d. 2 (9484-9486): correct. Innocent III = Lotario dei Segni (9615-9616): correct. 'thirty-one' / '[twenty-nine]' (farmer1998:21433, 21490): correct.",
+ "voices": "Kept apart. Pico's words: Latin thesis and Copenhaver's translation of the Apology. Scholars and medieval authors (Farmer, Copenhaver, Edelheit, Blum, Garcia, Caroli, Aquinas, Scotus, Durand, Ockham, Wyclif, Cabrol, Lotario) are each located. historiography 6 states the editor's reading and ties it to Copenhaver with locators.",
+ "promoted": true,
+ "summary": {
+  "claims_checked": 42,
+  "claim_verdicts": {
+   "SUPPORTED": 41,
+   "LINE OFF": 1
+  },
+  "quotations_checked": 6,
+  "quotation_verdicts": {
+   "verbatim": 6
+  }
+ },
+ "promoted_gate": "PASS"
+}

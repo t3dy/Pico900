@@ -1,0 +1,13 @@
+{
+  "thesis_id": "11>33",
+  "tier": "B",
+  "latin": "Per hanc dictionem <Hebrew>, quae scribitur per Aleph, Iod, et Scin, et significat Virum, quae deo attribuitur cum dicitur Vir belli, de trinitatis mysterio per uiam Cabalae perfectissime admonemur.",
+  "latin_source": "farmer1998:27117",
+  "latin_note": "The sheet's bracketed run '<WN>' renders as OCR garble the Hebrew word spelled out immediately after it, Aleph, Yod, Shin, following Farmer's transcription (farmer1998:27117); replaced here with '<Hebrew>'. The sheet also line-breaks 'et / Scin' and runs 'attribuitur' into 'cum' as 'attribuiturcum'; both are rejoined here as ordinary spacing, not variants.",
+  "translation": "By this word, spelled with alef, yod and shin, meaning 'man' — a word applied to God when he is called a man of war — we are most fully instructed, by way of the Cabala, in the mystery of the Trinity.",
+  "translation_note": "'man of war' echoes Exod. 15:3; Farmer's note takes each of the three letters as standing for one Person of the Trinity, as with shin and Christ in 11>14 (farmer1998:27151).",
+  "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T10b; sense checked against farmer1998:27170; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 11>, Cabalistic conclusions confirming the Christian religion from the Hebrew wise men's principles)",
+  "writer": "TRANSLATOR-T10b, 2026-09-26"
+}

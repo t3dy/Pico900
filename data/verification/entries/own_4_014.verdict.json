@@ -1,0 +1,365 @@
+{
+ "thesis_id": "4>14",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_014.draft.json` printed 'PASS 4>14 own_4_014.draft.json' / '1/1 drafts pass the entry gate'; 75 locators; note 'translation/Farmer similarity 0.68'",
+ "quotations": [
+  {
+   "text": "scandalous, offensive to pious ears, and against the usage of the universal church",
+   "work": "farmer1998",
+   "line": 21838,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church",
+   "work": "dougherty2008",
+   "line": 2203,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "ego non solum credo esse catholicam sed etiam veriorem sua opposita",
+   "work": "edelheit2022",
+   "line": 7725,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "videtur sequi quod aliquid aliud a Deo adorabitur latria quod est absurdum",
+   "work": "edelheit2022",
+   "line": 21543,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Ioannes Capreoli defensor Thomae ipse etiam fatetur in dictum Thomae non posse defendi",
+   "work": "edelheit2022",
+   "line": 21588,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "scandalosa et piarum aurium offensiva contra ritum ecclesie",
+   "work": "edelheit2022",
+   "line": 20305,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:21771-21772), to be collated against the Rome ",
+   "locator": "farmer1998:21771-21772; farmer1998:28040-28041",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Farmer marks the change from folio 21v to 22r of the 1486 print after this thesi",
+   "locator": "farmer1998:21772",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "The Apology, as quoted by Edelheit, prints 'latriae etiam' without the comma and",
+   "locator": "edelheit2022:8173-8174",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Adoratio latriae' is the worship due to God alone; Farmer renders latria 'vener",
+   "locator": "farmer1998:21800-21802; edelheit2022:8147-8148",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The Latin term is kept because the thesis turns on the scholastic grades of wors",
+   "locator": "edelheit2022:20177-20179",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The editor construes 'etiam eo modo quo ponit Thommas' under the negation of 'ne",
+   "locator": "farmer1998:21771-21772",
+   "verdict": "SUPPORTED",
+   "note": "Marked as the editor's construal. Consistent with Pico's own statement of the opposite, 'Crux Christi et imagines sunt adorandae latria eo modo quo ponit Thomas' (edelheit2022:7725-7727)."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The Apology confirms that Thomas's manner is the target: Pico says there that in",
+   "locator": "edelheit2022:21629-21630",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion (section 4>, 'secundum opinionem propriam, a communi modo dic",
+   "locator": "farmer1998:21432-21435; farmer1998:21771-21772",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "In the Apology Pico said he followed Durand, Henry of Ghent, 'Ioannes de Guarra'",
+   "locator": "edelheit2022:8175-8177",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis concerns the worship owed to the cross and to images of Christ, frame",
+   "locator": "farmer1998:21800-21802; edelheit2022:8241-8242; edelheit2022:20177-20179",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer finds the position rejected in Aquinas's commentary on Sentences III, dis",
+   "locator": "farmer1998:21798",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Apology states Thomas's view through an argument from Aristotle's De memoria",
+   "locator": "edelheit2022:21506-21512; edelheit2022:21530-21536",
+   "verdict": "SUPPORTED",
+   "note": "Supported by Pico's Latin in n. 31 (edelheit2022:21530-21536); Edelheit's own paraphrase at 21506-21510 is looser than the Latin, and the entry follows the Latin."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Thomas concluded that the image of Christ, owed no worship as a thing, is owed a",
+   "locator": "edelheit2022:21537-21539",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico objected that the image as image is still distinct from what it images, so ",
+   "locator": "edelheit2022:21540-21544",
+   "verdict": "SUPPORTED",
+   "note": "The objection is framed in the Apology as what 'aliis doctoribus merito videtur' (21540): Pico endorsing other doctors. 'Pico objected' is fair."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "He added that the image as image is a created thing not united to divinity and a",
+   "locator": "edelheit2022:21546-21548",
+   "verdict": "SUPPORTED",
+   "note": "Likewise 'Videtur ergo de aliis doctoribus' (21546)."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "With Durand he granted the proposition 'the cross is adored with latria' only in",
+   "locator": "edelheit2022:8196-8201; edelheit2022:21594-21595",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "With Henry and William of Ware he added that an image represents Christ's humani",
+   "locator": "edelheit2022:8237-8248",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The thesis is the third of the thirteen censured by the commission Innocent VIII",
+   "locator": "copenhaver2022:514-515; copenhaver2022:848; fornaciari2010:1035",
+   "verdict": "SUPPORTED",
+   "note": "'third': Q3 in the Apology's order (copenhaver2022:848) and 'the third thesis condemned by the papal commission' in Edelheit (edelheit2022:21246)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "It stands in the section of theological conclusions in which, according to Farme",
+   "locator": "farmer1998:21432-21435; farmer1998:21471-21472",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer places the dispute within a larger series of distinctions among the grade",
+   "locator": "farmer1998:21802; farmer1998:21837",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Garsia's reply draws the doctrinal line between idolatry, forbidden with every c",
+   "locator": "edelheit2022:20182-20186",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Before the commission, according to the notarial record as Farmer reports it, Pi",
+   "locator": "farmer1998:21798-21802",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer queries 'Varto'; the editor infers that it corresponds to the 'Ioannes de",
+   "locator": "farmer1998:21800; edelheit2022:8258-8261",
+   "verdict": "SUPPORTED",
+   "note": "Marked as the editor's inference. The William of Ware identification is used by Edelheit (8205) and, per his n. 72, rests on the Apology editor's note and a tradition from Bartholomew of Pisa (8258-8261)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The commission found the conclusion scandalous, offensive to pious ears, and aga",
+   "locator": "farmer1998:21838-21839",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The formula, unlike the verdicts on 4>8 and 4>20, contains no charge of heresy (",
+   "locator": "farmer1998:21696-21697; farmer1998:21941-21942",
+   "verdict": "SUPPORTED",
+   "note": "Editorial comparison of located verdicts: 4>8 'false, erroneous, heretical' (farmer1998:21696-21697); 4>19-20 'false, erroneous, and heretical' (21936-21942, Farmer's note to 4>19-20)."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum, translating scandalosus as 'outrageous', renders the same verdict 'Outrage",
+   "locator": "dougherty2008:2183-2184; dougherty2008:2200-2203",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico declared the censured conclusion not only Catholic but truer",
+   "locator": "edelheit2022:7723-7729",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He argued that the verdict made heretics of Henry and William of Ware, whom he h",
+   "locator": "edelheit2022:8248-8251; edelheit2022:8271-8276",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He cited Capreolus, Thomas's defender, as admitting that Thomas's statement coul",
+   "locator": "edelheit2022:21562-21566; edelheit2022:21588-21590",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He conceded that the thesis would have been better had it stated the sense in wh",
+   "locator": "edelheit2022:21577-21582; edelheit2022:21624-21628",
+   "verdict": "NOT SUPPORTED",
+   "note": "Second limb supported by the Latin (21624-21628). First limb follows Edelheit's paraphrase (21578-21580: Pico 'admits that his original proposition ... should probably have been better formulated'), but the Latin he prints says the reverse of a concession: 'licet in propositione multiplici forte melius sit facere sicut ego feci in ista determinare scilicet sensum in quo ponitur quam ipsam indistincte ponere' ('although with an ambiguous proposition it is perhaps better to do as I did in this one, namely to specify the sense in which it is put, than to put it without distinction'). Pico claims he did specify the sense here ('in qua ego determinate nego modum Thomae', 21629-21630). Concession clause removed; for a Latinist to confirm."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Garsia answered that by the Church's rite images receive latria terminatively in",
+   "locator": "edelheit2022:20302-20306",
+   "verdict": "SUPPORTED",
+   "note": "Garsia's Latin at edelheit2022:20302-20306."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He also objected to the sheer length of Pico's discussion (edelheit2022:20187-20",
+   "locator": "edelheit2022:20187-20189; edelheit2022:20224-20233",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The Dominican Caroli held that the cross, taken as Christ's cross, is owed the s",
+   "locator": "edelheit2022:21604; edelheit2022:21633-21635",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit is the scholar consulted who treats this question at length: in 2022 he",
+   "locator": "edelheit2022:7707-7711; edelheit2022:8236-8238",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "He identifies Capreolus's commentary on the Sentences as a source Pico used in t",
+   "locator": "edelheit2022:8225-8227",
+   "verdict": "SUPPORTED",
+   "note": "Edelheit states that Capreolus's commentary was 'used by Pico as a source in this passage' but refers the reader to Caroti for it (8225-8227); 'identifies' slightly overstates Edelheit's own role. Not corrected."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Reading Garsia, Edelheit concludes that Pico brought scholastic discourse to a p",
+   "locator": "edelheit2022:20269-20285",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit (2008) takes the opening of the question as a statement of Pico's attit",
+   "locator": "edelheit2008:16741-16749",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver lists the question as Q3, 'Worship', and indexes it at three pages (c",
+   "locator": "copenhaver2022:848; copenhaver2022:13605",
+   "verdict": "SUPPORTED",
+   "note": "Index entry 'Q3 1, 13, 240' (copenhaver2022:13605): three page references."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer notes that Pico ranged 'commonly all Scotists' with Henry, Durand and Hol",
+   "locator": "farmer1998:21839-21842",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The editor infers from the arguments Edelheit reports that Pico settled the disp",
+   "locator": "edelheit2022:21540-21548; edelheit2022:21567-21571",
+   "verdict": "SUPPORTED",
+   "note": "Marked as the editor's inference; premises located."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "\"scandalous, offensive to pious ears, and against the usage of the universal chu",
+   "locator": "farmer1998:21838-21839; dougherty2008:2200-2203",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21771-21772 matches. Sense agrees with Farmer's English at 21818-21819 (sense only), except that the entry reads 'etiam eo modo' under the negation ('not even in the manner') where Farmer has 'even in that way'; the entry's construal is declared in translation_note 3 and agrees with Pico's own statement of the opposite thesis in the Apology (edelheit2022:7725-7727). 'adoratione latriae' kept as 'the worship of latria' (Farmer: 'adoration of veneration'), explained in translation_notes 1-2. No qualifier lost. A Latinist should confirm 'etiam' = 'not even' here."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "reception",
+   "type": "remove",
+   "old": "He conceded that the thesis would have been better had it stated the sense in which it was meant, but called it the graver fault to condemn without distinction a proposition true in its proper sense (edelheit2022:21577-21582; edelheit2022:21624-21628).",
+   "new": "He called it the graver fault to condemn without distinction a proposition true in its proper sense (edelheit2022:21624-21628)."
+  }
+ ],
+ "dates_numbers": "February 1487 (copenhaver2022:514-515): correct. Folio change <21v/22r> (farmer1998:21772): correct. Rome print 7 December 1486 (28040-28041): correct. Aquinas Sent. 3 d. 9 q. 1 a. 2 ad qq. 2, 4 (21798) and ST 3 q. 25 a. 4 (edelheit2022:21536): correct as cited. Henry Quodl. X q. 6 (7732): correct. Apology pp. 120-130 citations in Edelheit's notes: consistent.",
+ "voices": "Kept apart. Pico's Latin (Farmer; Apology via Edelheit) is quoted with locators; scholars' readings attributed with locators; two editorial inferences (context 6, historiography 7) and one editorial construal (translation_note 3) are marked.",
+ "for_human_adjudication": [
+  "Latinist: reception 7 / edelheit2022:21624-21630. Does 'sicut ego feci in ista determinare scilicet sensum in quo ponitur' mean Pico claims he specified the sense in this thesis (the verifier's reading, which contradicts Edelheit's paraphrase at 21578-21580), or does it admit a defect?",
+  "Latinist: 'etiam eo modo quo ponit Thommas' rendered 'not even in the manner that Thomas lays down' (Farmer: 'even in that way')."
+ ],
+ "promoted": true,
+ "summary": {
+  "claims_checked": 41,
+  "claim_verdicts": {
+   "SUPPORTED": 40,
+   "NOT SUPPORTED": 1
+  },
+  "quotations_checked": 6,
+  "quotation_verdicts": {
+   "verbatim": 6
+  }
+ },
+ "promoted_gate": "PASS"
+}

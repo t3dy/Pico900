@@ -1,0 +1,12 @@
+{
+ "thesis_id": "1.8",
+ "tier": "B",
+ "latin": "Lumen non habet in medio nisi esse intentionale.",
+ "latin_source": "farmer1998:11047",
+ "translation": "In the medium, light has only intentional existence, not real existence.",
+ "translation_note": "The sheet's locator for Farmer's English was given as None; the corresponding sentence was located at farmer1998:11102 ('Light in a medium has only intentional existence') and checked against it. 'esse intentionale' contrasts with the 'esse reale' of 1.7.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T01b; sense checked against farmer1998:11102; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Albert the Great (section 1 of the historical theses)",
+ "writer": "TRANSLATOR-T01b, 2026-09-26"
+}

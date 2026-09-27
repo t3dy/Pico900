@@ -1,0 +1,99 @@
+{
+  "thesis_id": "4>1",
+  "tier": "A",
+  "latin": "Qui dixerit accidens existere non posse nisi inexistat, Eucharistiae poterit sacramentum tenere etiam tenendo panis substantiam non remanere ut tenet communis uia.",
+  "latin_source": "farmer1998:21439",
+  "latin_note": "Copy-text Farmer 1998, OCR, to be collated with the 1486 Rome print (farmer1998:21439-21441). Farmer's apparatus records the 1486 misprint 'inexastat' (farmer1998:21453). Farmer reports that the editio princeps has no comma after 'remanere', and that the comma inserted in later editions changes the sense (farmer1998:21475-21478). Copenhaver notes that the 1487 Apology prints the thesis without its last four words, 'ut tenet communis uia' (copenhaver2022:8930-8931). Garcia's 1489 citation of the thesis, as printed by Edelheit, also ends at 'remanere' (edelheit2022:20734-20736).",
+  "numbering_note": "Pico's Latin heading announces thirty-one theological conclusions (farmer1998:21432-21435); Farmer's English heading brackets the number as twenty-nine (farmer1998:21490) and reports that two theses were apparently removed in a last-minute revision (farmer1998:21459-21461).",
+  "translation": "A person who maintains that an accident is unable to exist except by existing in a subject will still be able to hold to the sacrament of the Eucharist, while also holding, with the common way, that the bread's substance does not remain.",
+  "translation_note": "'inexistat' is rendered 'existing in a subject': the verb names inherence, the way an accident is in the substance that bears it (copenhaver2022:1017-1019, 1036). The clause 'ut tenet communis uia' is construed with 'non remanere', following Copenhaver, for whom the clause refers to the Thomist theory of change, which requires that the bread not remain (copenhaver2022:8932, 8940-8942). Without a comma after 'remanere' the clause can also be read as qualifying the manner of the common way's account, the reading Farmer says Pico adopted in the Apology (farmer1998:21514-21517).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-A3) from the Latin at farmer1998:21439; sense checked against Farmer's English at farmer1998:21498, not reproduced; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the first of the theological conclusions 'secundum opinionem propriam, a communi modo dicendi theologorum satis diuersam' (farmer1998:21432-21439).",
+  "sources": [
+    {
+      "text": "Peter Lombard, Sentences 4, distinctions 11-12",
+      "locator": "farmer1998:21474",
+      "pico_relation": "the commentary tradition in which Farmer places the thesis and 4>2"
+    },
+    {
+      "text": "Pierre de la Palud (Paludanus), Sentences commentary 4.12.3 (edition of 1552, page 147)",
+      "locator": "copenhaver2022:803",
+      "pico_relation": "main authority of the Apology's Q9; its second part is copied from him"
+    },
+    {
+      "text": "Thomas Aquinas, Summa theologiae 3.77.1-2",
+      "locator": "copenhaver2022:9007-9010",
+      "pico_relation": "the Thomist account (accidents without a subject, founded on dimensive quantity) that the thesis tests"
+    }
+  ],
+  "doctrine": "An accident is a feature of a thing, such as the colour, size or weight of bread: a substance needs no particular accident to be what it is, while every accident needs its substance in order to be there at all (copenhaver2022:1027-1034). To exist-in (inexistere) is to inhere, to exist in the manner of an accident in its subject (copenhaver2022:1036-1037). Eucharistic dogma held that after consecration the substance of bread no longer remains, although its accidents are still seen, smelled and tasted (copenhaver2022:1022-1024, 1042-1045). Aquinas concluded that these accidents continue without a subject by divine power, with the bread's dimensive quantity serving as their first subject (copenhaver2022:8975-8984). The thesis grants the dogma that the bread does not remain and adds that one may still hold that no accident exists except by inhering (copenhaver2022:1024-1027). It thereby sets aside the doctrine of separable accidents, which Farmer says Pico had to reject in its usual form because he regarded accidents as inferior images of their substance (farmer1998:5615-5617). The question it leaves is what the remaining accidents inhere in once the bread's substance is gone; Copenhaver names the candidates the thesis invites, the bread's esse, essentia, existentia or subsistentia (copenhaver2022:1062-1065). In the Apology Pico answered with a Thomist premise: if the bread's existence is really distinct from its essence, God could keep the existence without the essence, and the accidents would then have a subject in the bread's very being (copenhaver2022:9943-9949). He added that he did not assert this categorically, and that he agreed with the Church that the sacramental accidents actually exist without a subject (copenhaver2022:9926-9942).",
+  "context": "The thesis opens the section that Pico billed as his own opinion and quite different from the usual way of theologians, the group from which the judges took nine of the thirteen (copenhaver2022:853-856). Farmer notes that the section was suspect because it was composed by a twenty-three-year-old layman, not a licensed theologian (farmer1998:21461-21464). Denials that accidents are separable had been condemned repeatedly in the Middle Ages, and Farmer reads 4>1 and 4>2 as Pico's anticipation of that objection: two ways of upholding the Eucharist without recourse to separable accidents (farmer1998:5633-5638, 5674-5678). Copenhaver finds the two theses inconsistent at first sight, since 4>2 entertains a theory in which the bread remains while 4>1 grants that it does not (copenhaver2022:8932-8936). He adds that this would not have worried Pico, for whom each thesis was its own puzzle (copenhaver2022:12132-12135). The technical frame of the defence is supposition theory: Pico answered with the ampliation of a modal proposition, part of the apparatus that Thomas More later mocked in the 'little logicals' (copenhaver2022:1066-1080).",
+  "reception": "The commission judged the thesis erroneous (copenhaver2022:8901; dougherty2008:2219-2223). Pico complained that the judges had called it wrong without calling it heretical and without giving reasons (copenhaver2022:9922-9926). His ninth Question makes three technical moves (copenhaver2022:9453-9455). First, the thesis is a divided modal, a proposition whose mode attaches to the verb ('an accident cannot exist without existing-in') instead of to a whole dictum ('that an accident exists without existing-in is impossible') (copenhaver2022:9067-9096). Second, in a divided modal the phrase 'sacrament of the Eucharist' is ampliated, widened in its supposition to what is or can be, as 'human' in 'a human can be the Antichrist' stands also for humans still to come (copenhaver2022:9136-9141, 9190-9195). Third, the judges committed a fallacy of the consequent, reasoning from 'no sacrament actually established has accidents in a subject' to 'no sacrament that can be established has them' (copenhaver2022:9961-9970). The rest of the Question reproduces Pierre de la Palud's report that some Catholic theologians gave the sacramental accidents a subject in the existence of the substance, and ends by rejecting both the claim that the bread's being must remain and the claim that it cannot (copenhaver2022:8989-8998, 9971-9983, 10018, 10050-10052). Farmer reads the Apology as a retreat on the inseparability of accidents (farmer1998:21517-21519). Pedro Garcia (Garsia), a judge who published a reply in 1489, defended accidents without subjects by a Scotist appeal to God's absolute power and by Durand's distinction between absolute and relative accidents (copenhaver2022:548-549; edelheit2022:20702-20714, 20746-20750). Giovanni Caroli set the sublimity of the sacrament against Pico's subtleties (edelheit2022:21715-21725).",
+  "historiography": "Farmer places the thesis in his reconstruction of Pico's system: accidents are proportional images of substance, so separable accidents had to go, and the thesis was drafted with the expected theological objection in view (farmer1998:5602-5617, 5674-5678). Copenhaver reads the ninth Question as logic applied under pressure: had Pico meant a divided modal in 1486 he could have said so more clearly, and it was the Roman fiasco that showed him the device (copenhaver2022:9097-9100). He judges the exposition underargued, three interlocked technical issues crowded into a short Question that confused and insulted the judges (copenhaver2022:9451-9457), and he reports Milo Crimi's proposal for the divided proposition Pico had in mind (copenhaver2022:9265-9268). Edelheit reads the three eucharistic theses as resting on the absolute power of God, an assumption associated with the moderns and the Ockhamists (edelheit2022:21699-21703). The two main readings place the weight differently, Farmer on the metaphysics of accident and Copenhaver on the semantics of the modal proposition (editor's inference from farmer1998:5602-5608 and copenhaver2022:1066-1070). What the thesis shows is Pico turning a Thomist premise against a Thomist conclusion, accidents without a subject (copenhaver2022:8940-8944, 9001-9004).",
+  "connections": [
+    "4>2",
+    "4>10",
+    "4>13",
+    "2>49",
+    "2>50",
+    "2>51",
+    "2>78"
+  ],
+  "condemned_flag": true,
+  "commission_verdict": "'erroneous' (copenhaver2022:8901-8902); Pico's report of it in the Apology, in Copenhaver's translation, 'only that it is wrong' (copenhaver2022:9922-9923); Blum's translation from Dorez and Thuasne, 'Erroneous' (dougherty2008:2183, 2223).",
+  "quotations": [
+    {
+      "text": "If Pico had actually meant to state the Q9 thesis as a divided modal when he published it in the Conclusions, he could have been clearer",
+      "work": "copenhaver2022",
+      "line": 9097,
+      "verbatim": true
+    },
+    {
+      "text": "Pico's exposure of it was badly underargued",
+      "work": "copenhaver2022",
+      "line": 9452,
+      "verbatim": true
+    },
+    {
+      "text": "radically alters the sense of the original",
+      "work": "farmer1998",
+      "line": 21477,
+      "verbatim": true
+    },
+    {
+      "text": "only took issue with the specific manner in which the",
+      "work": "farmer1998",
+      "line": 21516,
+      "verbatim": true
+    },
+    {
+      "text": "Pico cited Paludanus, a Thomist, in order to make anti-Thomist use of distinctions made by Thomists",
+      "work": "copenhaver2022",
+      "line": 9001,
+      "verbatim": true
+    },
+    {
+      "text": "easier to say than to understand",
+      "work": "copenhaver2022",
+      "line": 10024,
+      "verbatim": true
+    },
+    {
+      "text": "Denials of the separability of accidents were repeatedly condemned",
+      "work": "farmer1998",
+      "line": 5633,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "A source for the thesis as printed in 1486, as distinct from the sources of the Apology's defence, is not established by the sources consulted.",
+    "Which divided modal Pico intended: Copenhaver calls the Question compressed and elliptical and leaves it open (copenhaver2022:9265-9266).",
+    "The Latin of the Apology's ninth Question was not consulted; its wording is known here only through Copenhaver's translation (Fornaciari's edition survives in the corpus only in its front matter).",
+    "Whether Pico's reading of the final clause in the Apology was his reading in 1486: Farmer treats the ambiguity as intentional (farmer1998:21476-21478), but the intention is not established by the sources consulted.",
+    "Collation against the 1486 Rome print."
+  ],
+  "writer": "WRITER-A3 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V1",
+  "verified_date": "2026-09-26"
+}

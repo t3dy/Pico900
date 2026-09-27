@@ -1,0 +1,342 @@
+{
+ "thesis_id": "4>20",
+ "verifier": "VERIFIER-V1",
+ "date": "2026-09-26",
+ "gate": "PASS: `python scripts/entry_gate.py entries/own_4_020.draft.json` printed 'PASS 4>20 own_4_020.draft.json' / '1/1 drafts pass the entry gate'; 59 locators; note 'translation/Farmer similarity 0.72'",
+ "quotations": [
+  {
+   "text": "false, erroneous, and heretical",
+   "work": "farmer1998",
+   "line": 21941,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Wrong, erroneous, heretical",
+   "work": "dougherty2008",
+   "line": 2199,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "Non autem correspondet duratio pene durationi culpe",
+   "work": "edelheit2022",
+   "line": 20195,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the duration of the sin is not a factor in determining the nature of the punishment or its duration",
+   "work": "edelheit2022",
+   "line": 20139,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "de rigore sermonis rationabiliter est intelligenda de peccato mortali proprie dicto",
+   "work": "edelheit2022",
+   "line": 20198,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998 (farmer1998:21879-21880), whose OCR numbers the thesis '42",
+   "locator": "farmer1998:21879-21880; farmer1998:28040-28041",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "'Pena' is the spelling of poena in Farmer's text (farmer1998:21879).",
+   "locator": "farmer1998:21879",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Garsia's paraphrase of the thesis uses the same phrase, 'pena infinita secundum ",
+   "locator": "edelheit2022:20160-20161",
+   "verdict": "OVERREACH",
+   "note": "The phrase is Garsia's, but at edelheit2022:20159-20161 it states the opposing position ('quod peccato mortali iuste debeatur pena infinita secundum tempus', the reasons of the holy doctors and scholastics), not a paraphrase of Pico's thesis. 'paraphrase of the thesis' removed."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Secunda' refers back to the preamble of 4>19, which announces two conclusions a",
+   "locator": "farmer1998:21873-21876",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Finiti temporis' qualifies the sin and 'secundum tempus' the penalty: the thesi",
+   "locator": "farmer1998:21879-21880",
+   "verdict": "SUPPORTED",
+   "note": "Editorial reading of the Latin (farmer1998:21879-21880); sound."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "The distinction between a penalty's intensity and its duration is the one on whi",
+   "locator": "edelheit2022:20192-20196",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'Debetur' ('is owed') places the claim in the order of justice, the terms in whi",
+   "locator": "edelheit2022:20190-20192",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion (section 4>, farmer1998:21432-21435), the second of two concl",
+   "locator": "farmer1998:21432-21435; farmer1998:21873-21875",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis is the second of a pair announced in 4>19, whose first member holds t",
+   "locator": "farmer1998:21873-21876; farmer1998:21879-21880",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer places it against Aquinas's commentary on Sentences IV, distinction 46, q",
+   "locator": "farmer1998:21936",
+   "verdict": "OVERREACH",
+   "note": "Farmer: 4>19-20 'Appears to oppose Thomas Aquinas Sentences 4, d. 46, q. 1, art. 3' (21936). 'Places it against' drops 'appears'. The hedged form is already in `sources`; sentence removed."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The passage of Thomas that Garsia quoted against Pico gives a penalty two quanti",
+   "locator": "edelheit2022:20190-20196",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Edelheit summarises Garsia's reading: the gravity of the sin and the sinner's in",
+   "locator": "edelheit2022:20135-20140",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Pico's thesis rests on the contrary principle, that the time of the fault bounds",
+   "locator": "farmer1998:21879-21880",
+   "verdict": "SUPPORTED",
+   "note": "A restatement of the thesis's own Latin (21879-21880) set against the preceding Thomist passage; editorial but not beyond the text."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Before the commission Pico narrowed its scope: the thesis did not concern those ",
+   "locator": "farmer1998:21937-21940",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The editor infers that this restriction turned the thesis toward the question of",
+   "locator": "farmer1998:21937-21940",
+   "verdict": "SUPPORTED",
+   "note": "Marked as the editor's inference."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "On the finitude of the fault itself, the premise the thesis presupposes, see the",
+   "locator": "farmer1998:21876",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "This is the second of the thirteen propositions censured by the commission Innoc",
+   "locator": "copenhaver2022:514-515; copenhaver2022:847; fornaciari2010:1034",
+   "verdict": "SUPPORTED",
+   "note": "'second' in the Apology's order (copenhaver2022:847; fornaciari2010:1034); agrees with data/inventory/condemned_thirteen.json (Q2 = 4>19-20)."
+  },
+  {
+   "field": "context",
+   "sentence_start": "It comes from the section of theological conclusions that Pico declared 'a commu",
+   "locator": "farmer1998:21432-21435; farmer1998:21461-21462",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Its preamble, shared with 4>19, withholds firm assertion only because of the say",
+   "locator": "farmer1998:21873-21875",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "By Farmer's cumulative count it is the 590th thesis of the printed text (farmer1",
+   "locator": "farmer1998:21929-21930",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "The commission judged theses by the force of their words (ex vi verborum), a phr",
+   "locator": "copenhaver2022:557-560",
+   "verdict": "SUPPORTED",
+   "note": "copenhaver2022:557-560. The sentence does not claim this verdict is one of the four."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Garsia, a Thomist member of the commission, answered the Apology's defence of th",
+   "locator": "copenhaver2022:548-550; edelheit2022:20130-20136; copenhaver2022:549; edelheit2022:20130",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Farmer reports that the discussion before the commission turned on this thesis, ",
+   "locator": "farmer1998:21936-21937",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "After interrogating Pico at length the commission found that his response added ",
+   "locator": "farmer1998:21940-21942",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Blum's translation of the verdict list from the notarial record gives 'Wrong, er",
+   "locator": "dougherty2008:2183-2184; dougherty2008:2197-2199",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "The editor notes that the formula equals the verdict on 4>8 in severity, less it",
+   "locator": "farmer1998:21696-21697; farmer1998:21941-21942",
+   "verdict": "SUPPORTED",
+   "note": "Editorial comparison, marked; both formulas located."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "In the Apology Pico repeated that out of reverence for the saints he had never a",
+   "locator": "edelheit2008:16763-16765",
+   "verdict": "SUPPORTED",
+   "note": "Latin (edelheit2008:16763-16765): 'tam scripto, quam verbo dixi me non asserere istam opinionem ... propter reverentiam sanctorum, sed dixi eam posse probabiliter defendi'. 'had never asserted' slightly firms 'said that I do not assert'; not corrected."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Garsia's reply held that the thesis, taken by the strict force of its words, mus",
+   "locator": "edelheit2022:20198-20201",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "He then defined culpability (reatus) as the obligation to punishment that follow",
+   "locator": "edelheit2022:20201-20208",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer's note is the fullest account in the corpus of the thesis's target and it",
+   "locator": "farmer1998:21936-21942",
+   "verdict": "OVERREACH",
+   "note": "Unmarked editorial judgement about the whole corpus ('the fullest account'), which the verifier could not confirm: Edelheit 2022 treats Garsia's reply on this thesis at greater length (edelheit2022:20130-20208). Sentence removed."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver lists the question as Q2, 'Sin', and his book, which focuses on six o",
+   "locator": "copenhaver2022:847; copenhaver2022:249-250; copenhaver2022:13604",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit (2022) is the only scholar consulted who discusses the doctrinal exchan",
+   "locator": "edelheit2022:20130-20136",
+   "verdict": "SUPPORTED",
+   "note": "'the only scholar consulted' is a claim about the entry's own consulted set; among the works cited in the entry it holds (Blum lists the verdict only, dougherty2008:2197-2199; Copenhaver indexes Q2 at four pages)."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit reads Garsia's method in this reply as a turn from the common way to th",
+   "locator": "edelheit2022:20170-20174",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Edelheit (2008) groups this question with the others in which Pico insists that ",
+   "locator": "edelheit2008:16738-16741",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The editor notes that Pico's reported defence here restricted the thesis's subje",
+   "locator": "farmer1998:21937-21940; copenhaver2022:1995-2007",
+   "verdict": "SUPPORTED",
+   "note": "Marked as the editor's note; comparison with 4>8 located."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows how far Pico would press a proportional idea of justice against",
+   "locator": "farmer1998:21936-21940; edelheit2022:20192-20196",
+   "verdict": "SUPPORTED",
+   "note": "Closing editorial sentence; each element located (farmer1998:21936-21940; edelheit2022:20192-20196)."
+  },
+  {
+   "field": "commission_verdict",
+   "sentence_start": "\"false, erroneous, and heretical\", with the finding that Pico's response added \"",
+   "locator": "farmer1998:21940-21942; dougherty2008:2197-2199",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Latin at farmer1998:21879-21880 matches. Sense agrees with Farmer's English at 21929-21930 (sense only): 'finiti temporis' with the sin, 'secundum tempus' with the penalty, 'finita tantum' as 'only a finite one'. 'debetur' as 'is owed' keeps the order of justice (translation_note 4). No qualifier lost."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "corrections": [
+  {
+   "field": "latin_note",
+   "type": "remove",
+   "old": "Garsia's paraphrase of the thesis uses the same phrase, 'pena infinita secundum tempus' (edelheit2022:20160-20161).",
+   "new": "Garsia uses the same phrase, 'pena infinita secundum tempus' (edelheit2022:20160-20161)."
+  },
+  {
+   "field": "doctrine",
+   "type": "remove",
+   "old": "Farmer places it against Aquinas's commentary on Sentences IV, distinction 46, question 1, article 3 (farmer1998:21936).",
+   "new": ""
+  },
+  {
+   "field": "historiography",
+   "type": "remove",
+   "old": "Farmer's note is the fullest account in the corpus of the thesis's target and its trial (farmer1998:21936-21942).",
+   "new": ""
+  }
+ ],
+ "dates_numbers": "Cumulative number 590 (farmer1998:21930): correct. February 1487 (copenhaver2022:514-515): correct. Garsia 1489 (549): correct. 'four of its verdicts' (560): correct. 'six' focal Questions (250) and four index pages (13604): correct. Verdict pp. 127-28 (farmer1998:21942): correct.",
+ "voices": "Kept apart. Pico's Latin and the Apology (via Edelheit 2008) located; Garsia's Latin via Edelheit 2022; scholars named with locators; editorial inferences marked (doctrine 7, reception 4, historiography 6). Two unmarked editorial overstatements (doctrine 2, historiography 1) removed.",
+ "for_human_adjudication": [
+  "Historian: whether the verdict fell on 4>20 alone or on 4>19-20 together (see own_4_019)."
+ ],
+ "promoted": true,
+ "summary": {
+  "claims_checked": 37,
+  "claim_verdicts": {
+   "SUPPORTED": 34,
+   "OVERREACH": 3
+  },
+  "quotations_checked": 5,
+  "quotation_verdicts": {
+   "verbatim": 5
+  }
+ },
+ "promoted_gate": "PASS"
+}

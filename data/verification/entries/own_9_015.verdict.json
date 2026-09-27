@@ -1,0 +1,251 @@
+{
+ "thesis_id": "9>15",
+ "verifier": "VERIFIER-V2",
+ "date": "2026-09-26",
+ "gate": "PASS (python scripts/entry_gate.py entries/own_9_015.draft.json: 'PASS 9>15 own_9_015.draft.json / 1/1 drafts pass the entry gate'; 37 locators; translation/Farmer similarity 0.69)",
+ "quotations": [
+  {
+   "text": "it is not possible to know for certain his meaning here",
+   "work": "farmer1998",
+   "line": 25338,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "asserts the superiority of Kabbala over magic",
+   "work": "wirszubski1989",
+   "line": 9911,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the powerful ally of natural magic, set Christian Kabbala",
+   "work": "wirszubski1989",
+   "line": 9962,
+   "verdict": "verbatim"
+  },
+  {
+   "text": "the higher point of magic was the lower",
+   "work": "mandosio2012",
+   "line": 501,
+   "verdict": "verbatim"
+  }
+ ],
+ "claims": [
+  {
+   "field": "latin_note",
+   "sentence_start": "Copy-text Farmer 1998",
+   "locator": "farmer1998:25288-25289; farmer1998:28040-28042",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "latin_note",
+   "sentence_start": "Wirszubski, quoting the Opera",
+   "locator": "wirszubski1989:9915-9916",
+   "verdict": "SUPPORTED",
+   "note": "Wirszubski n. 33: 'Opera, pp. 105-106'; punctuation as stated."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'opus cabalae' is 'a work of Kabbalah' ... Mandosio notes that Farmer renders it 'a cabalistic work'",
+   "locator": "mandosio2012:556-557",
+   "verdict": "SUPPORTED",
+   "note": "Mandosio n. 78 does say 'Farmer (ibid., p. 499) translates opus cabalae as \"a cabalistic work\"', but Farmer's English at farmer1998:25330-25331 reads 'a work of Cabala'. The entry accurately reports an inaccurate report; removed as misleading. Human to adjudicate whether to keep with a note of the discrepancy."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'annexum habeat' means 'has attached to it'",
+   "locator": "farmer1998:25288-25289",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "translation_note",
+   "sentence_start": "'explicitum uel implicitum' allows",
+   "locator": "farmer1998:25338-25341",
+   "verdict": "SUPPORTED",
+   "note": "Farmer: 'Cabala is implicit in any magical act'."
+  },
+  {
+   "field": "attribution",
+   "sentence_start": "Pico's own opinion: the fifteenth magical conclusion, the first of the series to name Kabbalah",
+   "locator": "farmer1998:25288; copenhaver2019:17366-17369",
+   "verdict": "NOT SUPPORTED",
+   "note": "9>9 already names Cabala ('There is no science that assures us more of the divinity of Christ than magic and Cabala', farmer1998:25246); Wirszubski counts five magical theses naming Kabbala, including the ninth (wirszubski1989:9908-9909). Copenhaver's 'Then the fifteenth thesis brings Kabbalah into the mix' (17366-17367) does not say it is the first."
+  },
+  {
+   "field": "sources",
+   "sentence_start": "Thesis 10>21",
+   "locator": "farmer1998:7169-7171",
+   "verdict": "SUPPORTED",
+   "note": "Farmer's translation: 'The work of the preceding hymns is nothing without a work of Cabala'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The thesis makes Kabbalah a condition",
+   "locator": "farmer1998:25288-25289",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Here Kabbalah names the Jewish tradition",
+   "locator": "wirszubski1989:6328-6334",
+   "verdict": "NOT SUPPORTED",
+   "note": "The Apology passage defines 'prima et vera Cabala' (revealed to Moses, handed down by succession) and says Pico uses it in the conclusions he sets 'contra Hebraeos ad confirmationem fidei nostrae' (6334-6336), i.e. not the magical theses. Nothing about 'the operations based on it'. The sentence also contradicts the entry's own not_established item (which Kabbalah 9>15 means is disputed)."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Farmer warns that because Pico distinguished",
+   "locator": "farmer1998:25337-25338",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "His own reading is psychological",
+   "locator": "farmer1998:25338-25341",
+   "verdict": "SUPPORTED",
+   "note": "'psychological' is an editorial label for Farmer's soul-parts reading; content exact."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "This fits the pairing he finds in the series",
+   "locator": "farmer1998:25297-25299",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "Mandosio reads the required 'work of cabala'",
+   "locator": "mandosio2012:502-504",
+   "verdict": "SUPPORTED",
+   "note": "'magic had no power at all unless it was supported by \"the work of cabala\", that is, by the operation of formal numbers'."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "The Apology offers a third possibility",
+   "locator": "wirszubski1989:6353-6369",
+   "verdict": "SUPPORTED",
+   "note": "'Aliam quae est de uirtutibus rerum superiorum quae sunt supra lunam et est pars magiae naturalis suprema' (6357-6358), named cabala 'transumptiue' (6367-6368)."
+  },
+  {
+   "field": "doctrine",
+   "sentence_start": "If that science is meant",
+   "locator": "wirszubski1989:6357-6365; farmer1998:25289",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "context",
+   "sentence_start": "Wirszubski counts five magical theses",
+   "locator": "wirszubski1989:9908-9914; wirszubski1989:9950-9953",
+   "verdict": "SUPPORTED",
+   "note": "'Two of them, the ninth and the twenty-fifth, have already been considered in previous chapters ... the remaining three, each of which asserts the superiority of Kabbala over magic.'"
+  },
+  {
+   "field": "context",
+   "sentence_start": "Farmer notes that the next three theses",
+   "locator": "farmer1998:25341-25343",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "context",
+   "sentence_start": "Pico, Farmer adds, went to extraordinary lengths",
+   "locator": "farmer1998:7020-7023",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Copenhaver notes that 9>15 and 9>26 were riskier",
+   "locator": "copenhaver2019:17654-17657",
+   "verdict": "SUPPORTED",
+   "note": "'Pico proposed two other theses about magic that were riskier—though they were not among the thirteen initially condemned' (T2M15, T2M26), after discussing the Apology's defence of T2M9."
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Wirszubski judges that the alliance",
+   "locator": "wirszubski1989:9954-9964",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "reception",
+   "sentence_start": "Mandosio shows that John Dee took from Pico",
+   "locator": "mandosio2012:59-60",
+   "verdict": "SUPPORTED",
+   "note": "Abstract: 'Dee took from Pico the notion that cabala is superior to magic, and that the latter cannot be successful unless supported by \"the work of cabala.\"'"
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Farmer's reading grounds the thesis",
+   "locator": "farmer1998:25338-25341",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Copenhaver grounds it in a hierarchy of domains",
+   "locator": "copenhaver2019:18094-18097",
+   "verdict": "OVERREACH",
+   "note": "Copenhaver hedges: 'Maybe this was Pico's point: that practical Kabbalah transcends the natural magic that can achieve nothing without it, according to T2M15.' The entry drops 'Maybe' and presents a conjecture as his reading."
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Mandosio grounds it in number",
+   "locator": "mandosio2012:502-504; mandosio2012:512-516",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "Wirszubski's emphasis falls on the historical consequence",
+   "locator": "wirszubski1989:9955-9960",
+   "verdict": "SUPPORTED",
+   "note": ""
+  },
+  {
+   "field": "historiography",
+   "sentence_start": "The thesis shows Pico refusing natural magic self-sufficiency",
+   "locator": "farmer1998:25125-25126; farmer1998:25288-25289",
+   "verdict": "SUPPORTED",
+   "note": "Declared editorial inference."
+  },
+  {
+   "field": "not_established",
+   "sentence_start": "Which of Pico's several kinds of Cabala",
+   "locator": "farmer1998:25337-25341; mandosio2012:502-504; wirszubski1989:6353-6369",
+   "verdict": "SUPPORTED",
+   "note": ""
+  }
+ ],
+ "translation": {
+  "verdict": "faithful",
+  "note": "Checked against farmer1998:25288-25289 and the sense of Farmer's English at 25330-25331. 'alicuius efficaciae' = 'of any effect'; 'annexum habeat' = 'is joined to it'; 'explicitum uel implicitum' kept."
+ },
+ "overall": "PASS WITH CORRECTIONS",
+ "note": "Two NOT SUPPORTED items removed (9>15 is not the first magical thesis to name Kabbalah; the doctrine sentence identifying its Kabbalah with revealed Kabbalah contradicts the source and the entry's own not_established). One overreach removed (Copenhaver's 'Maybe' dropped). One accurate report of a Mandosio error removed. Alternative for the WRITER, not applied: 'Copenhaver suggests, with a \"maybe\", that practical Kabbalah transcends the natural magic that can achieve nothing without it (copenhaver2019:18094-18097).'",
+ "corrections": [
+  {
+   "field": "translation_note",
+   "replace": "'opus cabalae' is 'a work of Kabbalah', an act or operation, not a book; Mandosio notes that Farmer renders it 'a cabalistic work' (mandosio2012:556-557).",
+   "with": "'opus cabalae' is 'a work of Kabbalah', an act or operation, not a book."
+  },
+  {
+   "field": "attribution",
+   "replace": "the fifteenth magical conclusion, the first of the series to name Kabbalah (farmer1998:25288; copenhaver2019:17366-17369).",
+   "with": "the fifteenth magical conclusion (farmer1998:25288)."
+  },
+  {
+   "field": "doctrine",
+   "replace": " Here Kabbalah names the Jewish tradition of esoteric interpretation of the Law that Pico, in the Oration and Apology, took to have been revealed to Moses and handed down orally, together with the operations based on it (wirszubski1989:6328-6334).",
+   "with": ""
+  },
+  {
+   "field": "historiography",
+   "replace": " Copenhaver grounds it in a hierarchy of domains: practical Kabbalah transcends the natural magic that can achieve nothing without it, according to this thesis (copenhaver2019:18094-18097).",
+   "with": ""
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "thesis_id": "3>69",
+ "tier": "B",
+ "latin": "Rationabile est secundum philosophiam omnem seriem animalem in proprio beatificari intellectu; quod tamen non assertiue sed probabiliter dictum sit.",
+ "latin_source": "farmer1998:21348",
+ "translation": "Philosophically speaking, it makes sense that each series of souls reaches beatitude in its own intellect; let this, though, count only as a probable claim, not an assertion.",
+ "translation_note": "The Latin itself hedges the claim ('non assertiue sed probabiliter'), which is why pico_stance is marked unstated rather than endorses.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T06b; sense checked against farmer1998:21396; awaiting human check",
+ "pico_stance": "unstated",
+ "attribution": "Pico's own opinion (section 3>, paradoxical conclusions introducing new doctrines)",
+ "writer": "TRANSLATOR-T06b, 2026-09-26"
+}

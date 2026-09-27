@@ -1,0 +1,13 @@
+{
+ "thesis_id": "7a>63",
+ "tier": "D",
+ "latin": "Vtrum uniuersaliter intelligat.",
+ "latin_source": "farmer1998:24505",
+ "latin_note": "The copy-text's running head OCR garbles the thesis number as '74: 62.' at this point; the Latin text itself, and the sequence of questions, confirm this is 7a>63.",
+ "translation": "Whether the rational soul understands in a universal way.",
+ "translation_note": "Sense checked against Farmer's English at farmer1998:24567; the implicit subject carried over from 7a>61 ('the rational soul') is made explicit, replacing Farmer's pronoun 'it'; 'in a universal way' varies Farmer's 'universally'.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T08b; sense checked against farmer1998:24567; awaiting human check",
+ "pico_stance": "unstated",
+ "attribution": "Pico's own list of questions to be answered through numbers (section 7a>)",
+ "writer": "TRANSLATOR-T08b, 2026-09-26"
+}

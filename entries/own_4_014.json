@@ -1,0 +1,114 @@
+{
+  "thesis_id": "4>14",
+  "tier": "A",
+  "latin": "Nec crux Christi nec ulla imago adoranda est adoratione latriae, etiam eo modo quo ponit Thommas.",
+  "latin_source": "farmer1998:21771-21772",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:21771-21772), to be collated against the Rome print of 7 December 1486 (farmer1998:28040-28041). Farmer marks the change from folio 21v to 22r of the 1486 print after this thesis (farmer1998:21772). The Apology, as quoted by Edelheit, prints 'latriae etiam' without the comma and 'Thomas' for Farmer's 'Thommas' (edelheit2022:8173-8174).",
+  "translation": "Neither Christ's cross nor any image is to be worshipped with the worship of latria, not even in the manner that Thomas lays down.",
+  "translation_note": "'Adoratio latriae' is the worship due to God alone; Farmer renders latria 'veneration' and hyperdulia 'reverence', while Edelheit glosses latria as the supreme adoration allowed to God alone (farmer1998:21800-21802; edelheit2022:8147-8148). The Latin term is kept because the thesis turns on the scholastic grades of worship, which Garsia sets out as latria, hyperdulia and simple dulia (edelheit2022:20177-20179). The editor construes 'etiam eo modo quo ponit Thommas' under the negation of 'nec ... nec', hence 'not even in the manner Thomas lays down' (farmer1998:21771-21772). The Apology confirms that Thomas's manner is the target: Pico says there that in this conclusion he determinately denies the mode of Thomas (edelheit2022:21629-21630).",
+  "translator": "machine-drafted 2026-09-25 (agent WRITER-A1), checked against the sense of Farmer's English at farmer1998:21818; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion (section 4>, 'secundum opinionem propriam, a communi modo dicendi theologorum satis diversam', farmer1998:21432-21435); the thesis names Thomas as the authority it corrects (farmer1998:21771-21772). In the Apology Pico said he followed Durand, Henry of Ghent, 'Ioannes de Guarra', Robert Holcot and Peter of Aquila (edelheit2022:8175-8177).",
+  "sources": [
+    {
+      "text": "Thomas Aquinas, Sentences III, distinction 9, question 1, article 2, ad quaestiunculas 2 and 4",
+      "locator": "farmer1998:21798",
+      "pico_relation": "the passage Farmer finds pertinent: the position rejected"
+    },
+    {
+      "text": "Thomas Aquinas, Summa theologiae 3, question 25, article 4, on the soul's twofold movement toward an image (after Aristotle, De memoria)",
+      "locator": "edelheit2022:21530-21536",
+      "pico_relation": "quoted in the Apology as Thomas's position"
+    },
+    {
+      "text": "Durand of Saint-Pourcain: 'crux Christi adoratur latria' false in its proper sense, true in an improper, commemorative sense",
+      "locator": "edelheit2022:8214-8221",
+      "pico_relation": "followed"
+    },
+    {
+      "text": "Henry of Ghent, Quodlibet X, question 6",
+      "locator": "edelheit2022:7729-7733",
+      "pico_relation": "Henry's own account of the question, identified by Edelheit; Pico follows Henry"
+    },
+    {
+      "text": "'Ioannes de Guarra' (William of Ware, in Edelheit's identification)",
+      "locator": "edelheit2022:8205-8206",
+      "pico_relation": "followed, with Henry, on adoration per accidens"
+    },
+    {
+      "text": "Robert Holcot and Peter of Aquila",
+      "locator": "edelheit2022:8202-8206",
+      "pico_relation": "cited in support"
+    },
+    {
+      "text": "Francis of Meyronnes and the Scotists, denying latria to Christ's humanity",
+      "locator": "edelheit2022:8246-8248",
+      "pico_relation": "cited in support"
+    },
+    {
+      "text": "John Capreolus, defender of Thomas",
+      "locator": "edelheit2022:21562-21566",
+      "pico_relation": "cited as conceding that Thomas's statement cannot be defended"
+    }
+  ],
+  "doctrine": "The thesis concerns the worship owed to the cross and to images of Christ, framed by the scholastic grades of worship: latria, due to God alone; hyperdulia, the reverence due to Christ's humanity; and simple dulia (farmer1998:21800-21802; edelheit2022:8241-8242; edelheit2022:20177-20179). Farmer finds the position rejected in Aquinas's commentary on Sentences III, distinction 9 (farmer1998:21798). The Apology states Thomas's view through an argument from Aristotle's De memoria: the soul's movement toward an image as a thing differs from its movement toward what the image represents, but its movement toward the image as image is one with its movement toward the thing (edelheit2022:21506-21512; edelheit2022:21530-21536). Thomas concluded that the image of Christ, owed no worship as a thing, is owed as image the same worship as Christ, which is latria (edelheit2022:21537-21539). Pico objected that the image as image is still distinct from what it images, so that on Thomas's account something other than God would receive latria, which is absurd (edelheit2022:21540-21544). He added that the image as image is a created thing not united to divinity and a relational entity (entitas respectiva) (edelheit2022:21546-21548). With Durand he granted the proposition 'the cross is adored with latria' only in an improper sense, in which Christ, called to mind by the cross as if present in it, is the one adored (edelheit2022:8196-8201; edelheit2022:21594-21595). With Henry and William of Ware he added that an image represents Christ's humanity first and his divinity second, so that it is owed by accident hyperdulia first and latria only secondarily (edelheit2022:8237-8248).",
+  "context": "The thesis is the third of the thirteen censured by the commission Innocent VIII created in February 1487, and the Apology answers it in its third question, 'De adoratione crucis et imaginum' (copenhaver2022:514-515; copenhaver2022:848; fornaciari2010:1035). It stands in the section of theological conclusions in which, according to Farmer, Thomas is Pico's chief opponent (farmer1998:21432-21435; farmer1998:21471-21472). Farmer places the dispute within a larger series of distinctions among the grades of worship due to God, the Virgin, saints, images and relics (farmer1998:21802; farmer1998:21837). Garsia's reply draws the doctrinal line between idolatry, forbidden with every cult of images in the Old Testament, and the pious rite and cult introduced by Christ and confirmed by the Church (edelheit2022:20182-20186). Before the commission, according to the notarial record as Farmer reports it, Pico invoked Henry of Ghent and one 'Varto' for the view that the image of the cross is owed hyperdulia and not latria (farmer1998:21798-21802). Farmer queries 'Varto'; the editor infers that it corresponds to the 'Ioannes de Guarra' of the Apology, whom Edelheit identifies as William of Ware, held in a tradition Pico accepted to have been Scotus's teacher (farmer1998:21800; edelheit2022:8258-8261).",
+  "reception": "The commission found the conclusion scandalous, offensive to pious ears, and against the usage of the universal church (farmer1998:21838-21839). The formula, unlike the verdicts on 4>8 and 4>20, contains no charge of heresy (farmer1998:21696-21697; farmer1998:21941-21942). Blum, translating scandalosus as 'outrageous', renders the same verdict 'Outrageous, offensive to pious ears, and unaccustomed in the universal Church' (dougherty2008:2183-2184; dougherty2008:2200-2203). In the Apology Pico declared the censured conclusion not only Catholic but truer than its opposite, and Thomas's opinion less reasonable than that of the doctors he followed (edelheit2022:7723-7729). He argued that the verdict made heretics of Henry and William of Ware, whom he had told the judges he followed (edelheit2022:8248-8251; edelheit2022:8271-8276). He cited Capreolus, Thomas's defender, as admitting that Thomas's statement could not be defended except by saying that Thomas later thought otherwise in the Summa (edelheit2022:21562-21566; edelheit2022:21588-21590). He called it the graver fault to condemn without distinction a proposition true in its proper sense (edelheit2022:21624-21628). Garsia answered that by the Church's rite images receive latria terminatively in themselves, though for God's sake, and turned the commission's formula back on the thesis (edelheit2022:20302-20306). He also objected to the sheer length of Pico's discussion (edelheit2022:20187-20189; edelheit2022:20224-20233). The Dominican Caroli held that the cross, taken as Christ's cross, is owed the same honour as Christ (edelheit2022:21604; edelheit2022:21633-21635).",
+  "historiography": "Edelheit is the scholar consulted who treats this question at length: in 2022 he uses it to show Pico's command of the scholastic literature, in which Thomas appears as one authority among many, often criticised (edelheit2022:7707-7711; edelheit2022:8236-8238). He identifies Capreolus's commentary on the Sentences as a source Pico used in this passage (edelheit2022:8225-8227). Reading Garsia, Edelheit concludes that Pico brought scholastic discourse to a perfection that ignored its devotional side, for which the concrete object of the cross is essential (edelheit2022:20269-20285). Edelheit (2008) takes the opening of the question as a statement of Pico's attitude to probable truth and to Thomas (edelheit2008:16741-16749). Copenhaver lists the question as Q3, 'Worship', and indexes it at three pages (copenhaver2022:848; copenhaver2022:13605). Farmer notes that Pico ranged 'commonly all Scotists' with Henry, Durand and Holcot against Thomas (farmer1998:21839-21842). The editor infers from the arguments Edelheit reports that Pico settled the dispute over images as a question about the relation between a sign and what it signifies, decided by the relational status of the image (edelheit2022:21540-21548; edelheit2022:21567-21571).",
+  "connections": [
+    "4>8",
+    "1>3",
+    "4>13"
+  ],
+  "condemned_flag": true,
+  "commission_verdict": "\"scandalous, offensive to pious ears, and against the usage of the universal church\" (farmer1998:21838-21839); Blum: \"Outrageous, offensive to pious ears, and unaccustomed in the universal Church\" (dougherty2008:2200-2203).",
+  "quotations": [
+    {
+      "text": "scandalous, offensive to pious ears, and against the usage of the universal church",
+      "work": "farmer1998",
+      "line": 21838,
+      "verbatim": true
+    },
+    {
+      "text": "Outrageous, offensive to pious ears, and unaccustomed in the universal Church",
+      "work": "dougherty2008",
+      "line": 2203,
+      "verbatim": true
+    },
+    {
+      "text": "ego non solum credo esse catholicam sed etiam veriorem sua opposita",
+      "work": "edelheit2022",
+      "line": 7725,
+      "verbatim": true
+    },
+    {
+      "text": "videtur sequi quod aliquid aliud a Deo adorabitur latria quod est absurdum",
+      "work": "edelheit2022",
+      "line": 21543,
+      "verbatim": true
+    },
+    {
+      "text": "Ioannes Capreoli defensor Thomae ipse etiam fatetur in dictum Thomae non posse defendi",
+      "work": "edelheit2022",
+      "line": 21588,
+      "verbatim": true
+    },
+    {
+      "text": "scandalosa et piarum aurium offensiva contra ritum ecclesie",
+      "work": "edelheit2022",
+      "line": 20305,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "The notarial record (Dorez and Thuasne 1897) is not in the corpus; Pico's oral appeal to Henry and 'Varto' is known only through Farmer (farmer1998:21798-21802).",
+    "That Farmer's 'Varto' is the Apology's 'Ioannes de Guarra' is the editor's inference, not a reading of the record.",
+    "Aquinas's Sentences III, distinction 9 and Summa theologiae 3, question 25, article 4 were not opened; Thomas's position is reported through Farmer and through Pico's Apology as Edelheit quotes it.",
+    "Henry of Ghent's Quodlibet X, question 6 and the works of Durand, William of Ware, Holcot and Peter of Aquila were not opened.",
+    "Garsia's Determinationes magistrales and Caroli's treatise were not opened; both are known here only through Edelheit (2022).",
+    "The Latin of the Apology's Q3 is available in the corpus only in Edelheit's excerpts."
+  ],
+  "writer": "WRITER-A1 (agent), 2026-09-25",
+  "verifier": "VERIFIER-V1",
+  "verified_date": "2026-09-26"
+}

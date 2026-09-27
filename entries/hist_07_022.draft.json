@@ -1,0 +1,12 @@
+{
+ "thesis_id": "7.22",
+ "tier": "D",
+ "latin": "Demonstratio septimi Physicorum, quod omne quod mouetur, mouetur ab alio, est demonstratio signi et nullo modo causae.",
+ "latin_source": "farmer1998:13266",
+ "latin_note": "Sheet's underscore in 'mouetur_mouetur' normalized to a comma, restoring the standard Aristotelian formula 'omne quod movetur ab alio movetur'.",
+ "translation": "That every moved thing is moved by another — the proof given in the seventh book of the Physics — argues from a sign, and not at all from the cause.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T02b; sense checked against farmer1998:13323; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Averroes (section 7 of the historical theses)",
+ "writer": "TRANSLATOR-T02b, 2026-09-26"
+}

@@ -1,0 +1,74 @@
+{
+  "thesis_id": "9>26",
+  "tier": "A",
+  "latin": "Sicut per primi agentis influxum, si sit specialis et immediatus, fit aliquid quod non attingitur per mediationem causarum, ita per opus cabale, si sit pura cabala et immediata, fit aliquid ad quod nulla magia attingit.",
+  "latin_source": "farmer1998:25480",
+  "latin_note": "Copy-text Farmer 1998 (farmer1998:25480-25482), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); Farmer's OCR numeral '9226' is read '9>26'. No variant is recorded in Farmer's apparatus for this page (farmer1998:25482-25487). The text Wirszubski quotes from the Opera reads 'cabalae' and 'fit aliquid quod nulla Magia attingit', without 'ad' (wirszubski1989:9948-9952); Howlett's Latin agrees with Farmer's (howlett2021:6210-6213).",
+  "translation": "As through the influx of the first agent, when it is special and immediate, something comes about that is not reached through the mediation of causes, so through the work of Kabbalah, when it is pure and immediate Kabbalah, something comes about that no magic reaches.",
+  "translation_note": "'primi agentis': the first agent, God as first cause; Copenhaver capitalises it as 'First Agent' (copenhaver2019:20314-20315). 'influxum': inflow, the action of a cause passing into its effect. 'specialis et immediatus' is opposed to 'per mediationem causarum': an action special to its object and exercised without intermediate causes. 'attingitur' / 'attingit': 'is reached' / 'reaches', kept as one verb in English because the thesis turns on it.",
+  "translator": "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer's English at farmer1998:25532; awaiting human check",
+  "pico_stance": "endorses",
+  "attribution": "Pico's own opinion: the twenty-sixth and last magical conclusion (farmer1998:25480-25482; copenhaver2019:17370-17371).",
+  "sources": [
+    {
+      "text": "Thesis 11>12: 'Non potest operari per puram Cabalam, qui non est rationaliter intellectualis'",
+      "locator": "farmer1998:26604",
+      "pico_relation": "defines who can operate through the 'pure Cabala' of this thesis"
+    },
+    {
+      "text": "Thesis 9>6, referring every wondrous work, magical or cabalistic, chiefly to God",
+      "locator": "farmer1998:25194",
+      "pico_relation": "the theological premise of the analogy with the first agent"
+    }
+  ],
+  "doctrine": "The thesis is an analogy: as the special and immediate influx of the first agent produces something that the mediation of causes does not reach, so pure and immediate Kabbalah produces something that no magic reaches (farmer1998:25480-25482). The analogy sets natural magic on the side of mediating causes and Kabbalah on the side of immediate action from above (editorial inference from farmer1998:25480-25482). Farmer defines 'pure Cabala' as Cabala involving the intellectual part of the soul, in contrast with natural magic, which uses the rational part, and refers the reader to 11>12 and 9>16-18 (farmer1998:25547-25548). In 11>12 no one can operate through pure Cabala who is not 'rationaliter intellectualis', and Farmer's note there repeats the division of intellectual and rational parts (farmer1998:26604-26605; farmer1998:26679-26681). Farmer also finds an implied contrast with the inferior astrological forms of Cabalistic magic discussed in the Apology (farmer1998:25548-25550). There Pico named, beside natural magic, 'that part of the Cabala that concerns the powers of celestial bodies' among the human sciences that show what natural powers can and cannot do (farmer1998:7063-7075). The author of Erkenntnistheorie und christliche Kabbalah reads the thesis epistemologically: what reason infers from causes step by step, Kabbalah rooted in the intellect reaches immediately (kabbalah_paradigma:2157-2158; kabbalah_paradigma:2184). Only a rationality perfected in itself, on that reading, can advance to the intellect and so practise Kabbalah (kabbalah_paradigma:2150-2153).",
+  "context": "The first agent of the analogy is the God to whom 9>6 refers every wondrous work, magical, cabalistic or other, and whose grace rains down supercelestial waters of wondrous powers on contemplative men of good will (farmer1998:25194-25197). The next thesis limits the analogy: Christ's works could not have been done by way of magic or by way of Kabbalah (farmer1998:25200-25201). Copenhaver explains that the Creator is Christ, who needed no magic or Kabbalah or any other secondary cause to do what he had done as First Cause (copenhaver2019:17640-17642). Pure Kabbalah is therefore like the first agent's immediate action without being that action (editorial inference from farmer1998:25200-25201 and farmer1998:25480-25482). Wirszubski groups the thesis with 9>15 and 9>18 as asserting the superiority of Kabbalah over magic (wirszubski1989:9908-9911; wirszubski1989:9948-9952).",
+  "reception": "Copenhaver quotes the final clause as the close of the magical set (copenhaver2019:17370-17371). He draws the consequence for Pico's defence: because Kabbalah's domain is higher than nature, an exculpation of natural magic does not and need not apply to Kabbalah's supernatural effects, which Pico, when he wrote the Conclusions, thought licit, right and good (copenhaver2019:17656-17662). Howlett cites the thesis in support of her view that Kabbalism was for Pico a higher form of magic, more connected to the Pythagorean use of mathematics (howlett2021:5509-5511; howlett2021:6206-6213).",
+  "historiography": "Three accounts of the superiority claimed here can be distinguished: Farmer's is psychological, the intellectual part of the soul above the rational (farmer1998:25547-25548). Copenhaver's is cosmological, a supernatural domain above nature, reached only by Kabbalah (copenhaver2019:17385-17389; copenhaver2019:17657-17659). The account in Erkenntnistheorie und christliche Kabbalah is epistemological, immediate intellectual grasp above discursive reasoning from causes (kabbalah_paradigma:2157-2158). The series that opened by declaring natural magic licit (9>2) closes by marking what natural magic cannot reach, and it borrows the terms of that limit from the theology of divine causation (editorial inference from farmer1998:25117-25119 and farmer1998:25480-25482).",
+  "connections": [
+    "9>2",
+    "9>6",
+    "9>7",
+    "9>15",
+    "9>16",
+    "9>17",
+    "9>18",
+    "11>12"
+  ],
+  "condemned_flag": false,
+  "commission_verdict": null,
+  "quotations": [
+    {
+      "text": "Cabala involving the intellectual part of the soul",
+      "work": "farmer1998",
+      "line": 25547,
+      "verbatim": true
+    },
+    {
+      "text": "Non potest operari per puram Cabalam, qui non est rationaliter",
+      "work": "farmer1998",
+      "line": 26604,
+      "verbatim": true
+    },
+    {
+      "text": "if the Kabbalah is pure and unmediated",
+      "work": "copenhaver2019",
+      "line": 17371,
+      "verbatim": true
+    },
+    {
+      "text": "that part of the Cabala that concerns the powers of celestial bodies",
+      "work": "farmer1998",
+      "line": 7073,
+      "verbatim": true
+    }
+  ],
+  "not_established": [
+    "What the 'aliquid' produced by pure Kabbalah is: not established by the sources consulted.",
+    "The author of Erkenntnistheorie und christliche Kabbalah: not established from the file consulted (kabbalah_paradigma); the registry records the author as to be confirmed from the front matter.",
+    "Whether Pico drew the analogy of the first agent's special and immediate influx from a particular scholastic source: not established by the sources consulted."
+  ],
+  "writer": "WRITER-B2b (agent), 2026-09-26",
+  "verifier": null,
+  "verified_date": null
+}

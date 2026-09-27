@@ -1,0 +1,13 @@
+{
+ "thesis_id": "5>12",
+ "tier": "B",
+ "latin": "Predictis uitis cooperantur Sol et Luna ut causae uniuersales et per appropriationem: Luna Mercurio et Saturno, Sol Veneri et Marti, simul uterque Ioui.",
+ "latin_source": "farmer1998:22349",
+ "latin_note": "The sheet's OCR transcription used underscores in place of spaces ('uniuersales_et', 'Luna_Mercurio_et'); silently normalised here. Cf. the 1486 print's punctuation with colons, 'Luna:Mercuno:&Saturno.Sol:Venen & Marti' (farmer1998:22365).",
+ "translation": "To the aforesaid lives, the Sun and Moon lend their cooperation as universal causes, and also by appropriation: the Moon to Mercury and Saturn, the Sun to Venus and Mars, and both of them together to Jove.",
+ "translation_note": "Sense checked against farmer1998:22401; no further crux.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T07b; sense checked against farmer1998:22401; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 5>, conclusions on the doctrine of Plato)",
+ "writer": "TRANSLATOR-T07b, 2026-09-26"
+}
