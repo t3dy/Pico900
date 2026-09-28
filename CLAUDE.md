@@ -123,7 +123,9 @@ Older status, handover and phase files are in `docs/archive/`. They are history,
     Never `git add` full-text book conversions (`data/corpus/markdown|text|neoplatonism|picodb/`), a generated Latin
     dump derived from them (`data/texts/conclusiones_900_latin.*`), copied external reference pages (`docs/resources/`),
     or the harvester's dossiers that embed hundreds of verbatim scholar excerpts (`research-packets/`,
-    `data/ontology/mentions/`) — all are `.gitignore`d; regenerate locally, never restore them to git. A commit that
+    `data/ontology/mentions/`), or the claims layer's packets and their working copies (`data/claims/*/*.claims.json`,
+    `data/claims/_work/`, `data/claims/tickets/`, verifier `*.sample.md`/`targeted-*.md`: ~2,950 verbatim quotations, D-43) —
+    all are `.gitignore`d; regenerate locally, never restore them to git. A commit that
     slipped 73 MB of this into `main`'s history was found and removed with `git rebase --onto`, not a revert — a
     revert leaves the blobs in history (D-25, D-28/D-41, D-29/D-42). If you ever find a commit like that again, do
     the same: rebase it out before anyone pushes, don't just add a `.gitignore` entry going forward. A short,

@@ -58,7 +58,7 @@ None yet.
 
 <!-- BEGIN GENERATED PROMPTS (scripts/harvest_prompts.py rewrites everything to END) -->
 
-Generated 2026-09-27 17:37 UTC from 35 prompts. Timestamps are UTC. IDs are stable (timestamp of typing).
+Generated 2026-09-28 01:39 UTC from 42 prompts. Timestamps are UTC. IDs are stable (timestamp of typing).
 
 ### P20260926000155  (2026-09-26 00:01, session 65e5ebb0)
 
@@ -924,5 +924,33 @@ Generated 2026-09-27 17:37 UTC from 35 prompts. Timestamps are UTC. IDs are stab
 ### P20260927172351  (2026-09-27 17:23, session 3bc261ff)
 
 > Try again
+
+### P20260927194532  (2026-09-27 19:45, session 8857d983)
+
+> finish
+
+### P20260927194740  (2026-09-27 19:47, session 8857d983)
+
+> don't commit anything copyrighted to the github just our digital edition and project and website etc we've been building. Make sure you've updated the system files with what you've discovered and improved
+
+### P20260927195224  (2026-09-27 19:52, session 8857d983)
+
+> compact session and finish
+
+### P20260928004204  (2026-09-28 00:42, session 9ce726d1)
+
+> work on the writing
+
+### P20260928004932  (2026-09-28 00:49, session 3bc261ff)
+
+> continue
+
+### P20260928013717  (2026-09-28 01:37, session 3bc261ff)
+
+> continue and just do as much as you can, then give me a handover to continue in a new window
+
+### P20260928013929  (2026-09-28 01:39, session 223be379)
+
+> we have done work in several windows, let's put it all together and continue with our to do list
 
 <!-- END GENERATED PROMPTS -->

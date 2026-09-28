@@ -177,3 +177,122 @@ re-rendered the 23 translations that were too close to Farmer's English (D-13). 
 901/901 drafts pass (900 theses + `_test_own_3_003`, which should be deleted). Verified (second-agent) entries are still 18.
 Renderings by TRANSLATOR-FIX were done from the Latin without opening Farmer's English, so a human check of those 23 is worthwhile.
 Do next: VERIFIER on Q4/Q11/Q12/Q13 and the ~40 unverified tier-A drafts; then `build_site_v2.py` + `predeploy_check.py`.
+
+## 2026-09-28 (window-3bc261ff): claims layer, essays, tours; a copyright exposure of mine that needs Ted
+
+**State.** Claims layer complete for the angelology and Ficino topics: 15 packets, 1,886 claims, every quotation re-found by script
+(`python scripts/claims_verify.py` prints `TOTAL needs_fix: 0`), 345 cross-scholar links and about 25 recorded disputes, 654 claims with a
+second reader's `supported` verdict, and every relationship tag audited for the Ficino party (390 tagged, about 90 removed or corrected,
+290 grounded). Four pieces of prose written only from verified claims, each passing `python scripts/commentary_check.py FILE`:
+`docs/angelology/COMMENTARY.md` (Oration, Commento via Allen, Heptaplus via Black), `docs/essays/ficino_pico_dispute.md` (six-stop tour of
+the Ficino-Pico dispute over the One, through *De ente et uno* and the Dionysius/Aquinas background), and, if their tickets read done,
+`docs/essays/angels_location_trial.md` and `docs/essays/angelic_orders_sources.md` (T-ANG-03/04). `python scripts/build_tours.py` renders
+them to `site/essays/` (refuses any essay whose gate fails); `python scripts/build_cards.py` builds the card explorer `site/cards/`.
+Both are driven and checked in a browser (details in the ticket notes for T-SITE-01/02/04); neither is linked from `build_site_v2.py`'s nav
+or deployed. `docs/ANGELICRESEARCH.md` is regenerated from claims (`python scripts/build_finding_aid.py`); never hand-edit it.
+
+**Needs Ted (T-LEGAL-01, blocked).** My claims packets held about 2,950 verbatim quotations (about 112,800 words from about fifteen in-copyright
+books) and were tracked and pushed to public `origin/main` and `origin/claude/relaxed-feynman-04aunp` by other windows' commits (7f8bd73, ae9a4bf,
+c054f5a, 3c494bf, 664bd8b). This contradicts Ted's rule and supersedes D-42's carve-out (D-43). Done, uncommitted, reversible: private backup at
+`C:/Users/PC/pico900-private-backup/claims-and-verification-2026-09-28.zip`; the quote-bearing paths added to `.gitignore` and untracked (64 staged
+deletions; local files intact). **Not done**: the copies already in pushed history. To remove them, as D-41 did for the corpus: coordinate so no
+other window is committing; `git filter-repo --path data/claims/_work --path data/claims/tickets --path-glob 'data/claims/*/*.claims.json' --path-glob
+'data/verification/claims/*.sample.md' --path-glob 'data/verification/claims/targeted-*.md' --invert-paths` (or the `git rebase --onto` method of
+D-41), verify nothing else moved, then `git push --force-with-lease` for BOTH `main` and `claude/relaxed-feynman-04aunp`; GitHub may keep the old blobs
+reachable by commit hash until it garbage-collects (support can purge cached views). Do not run any of this without Ted's go-ahead.
+Until it is done, treat the public repo as still containing those quotations. Keep the private backup: the packets are not reproducible from git.
+
+**Traps that cost time (D-36, D-40).** Shell heredocs halve backslashes and choke on `C:\Users` paths inside Python strings: write scripts with the
+Write tool. Never resolve competing verdict files by file order in a shared checkout (D-40 is order-independent). `revision` is bumped only when a
+field a verifier judges changes. A hidden browser pane reports width 0, fires no scroll or IntersectionObserver events and serves cached files:
+resize first, test scroll logic with synthetic events, add `?v=N` to force a reload.
+
+**Do next.** T-ANG-03/04 finish (writers were dispatched; each needs a targeted second-reader batch for claims it cites that are unjudged, then the gate
+without `--allow-unsampled`); link Essays and Cards from `build_site_v2.py`'s nav (another window's file: ask by ticket); T-REL-01/02 with the
+network window (person ids replace the party slugs); T-SITE-05 Sources and People tabs; then the Workbench stage 1 (already prototyped as
+collect/export in the explorer). Untracked metadata worth committing when Ted allows commits: `data/claims/{links-*,scores,relevance,graph,open_questions,traditions}.json`
+(under `data/claims/angelology/` and `data/claims/`), `data/tickets/`, `TICKETS.md`, the new scripts and docs.
+
+### 2026-09-28 late (window-3bc261ff): all four prose files through both gates
+
+- **State**: `docs/angelology/COMMENTARY.md`, `docs/essays/angels_location_trial.md`, `ficino_pico_dispute.md` and `angelic_orders_sources.md` each pass `commentary_check.py` (no `--allow-unsampled`, exit 0, 0 errors), and each was read sentence by sentence by a second agent (`scripts/essay_sheet.py`, `docs/briefs/essay_fidelity_verifier.md`). Fidelity rounds needed: commentary 4 (38% -> 0 flagged), Ficino tour 4 (31% -> 0), location 3 (12% -> 1, fixed with the verifier's own wording), orders 3 (14% -> 0). Each round's verdicts are kept as `data/verification/essays/<slug>.fidelity.round<N>.json` (local only). T-ANG-01/03/04 and T-FIC-01 are done.
+- **Not re-read after the last edit**: location essay S100 (verifier's own wording) and the orders essay's Din/Wirszubski sentence (one sentence reworded by me). A next window can run `essay_sheet.py` and a fidelity verifier on those two files if it wants a clean final record.
+- **Claims**: 17 claims repaired after the apply-script bug (D-44) confirmed by SV-14 (15 supported, 2 rewritten and re-confirmed by SV-15). `claims_verify.py` TOTAL needs_fix 0. Finding aid, scores, cards (1,886) and four tours rebuilt.
+- **Still true**: nothing committed or pushed from this window; T-LEGAL-01 (purge quotation-bearing paths from pushed history, force-push) waits on Ted. Next by priority: link Essays/Cards from the site nav (`build_site_v2.py` belongs to another window: ticket it), T-REL-01/02/03 (network person ids, thesis x person relevance), T-SITE-03/05/06, Workbench.
+
+## Next Steps for Window After This One
+
+### Ready to Work On
+
+**T-REL-02** (`Thesis x person relevance for all 900 theses from the mention harvest and verified claims`):
+- Input: `data/ontology/mentions/` (mention harvest by thesis), `data/network/persons.json` (16 persons from T-REL-01), `data/claims/*/*.claims.json` (verified claims with `bears_on` party links).
+- Task: For each of the 900 theses, compute a relevance score for each person (Ficino, Copenhaver, etc.) based on (a) how many times that person appears in scholar mentions for that thesis (MENTION_STATS), (b) how many verified claims about that thesis mention that person in `bears_on`, (c) importance/confidence of those claims.
+- Deliverable: `data/network/thesis_person_relevance.json` (one entry per thesis with sorted person scores).
+- This score feeds the website's person-relevance sorting and the essays' relationship framing.
+
+**T-SITE-05** (`Sources tab and People tab; merge PicoDB scholars, figures, sources, documents`):
+- Similar to building a Sources section on the static site: 30-100 word blurbs on each work (Copenhaver, Wirszubski, Farmer, etc.), sortable by tradition (Neoplatonic, Scholastic, Kabbalistic, etc.).
+- Also a People section derived from `data/network/persons.json`, each person's canonical name, birth/death, traditions, major works, relevant theses.
+- Merge with PicoDB's `scholars` table for richer bios.
+
+### Blocked (Waiting on Ted)
+
+**T-LEGAL-01**: Force-push to remove quotation-bearing paths from `main` and the earlier worktree branch. This removes the ~2,950 verbatim quotations (~113k words) from the pushed history. Do NOT run without Ted's approval; it is destructive and irreversible.
+
+### Staging & Commit State
+
+- 174 unstaged changes (modifications to `.gitignore`, `CLAUDE.md`, `DECISIONS.md`, `HANDOVER.md`, `PROMPTS.md`, `TICKETS.md`, plus deletions in `data/claims/_work/*.jsonl`).
+- Do NOT commit these without Ted's go-ahead on T-LEGAL-01 (the deletions are part of the cleanup).
+- PROMPTS.md regenerated with 41 prompts (1 new from recent messaging).
+
+### File Inventory of This Session's Work
+
+1. **Prose files** (all pass citation gate, all read sentence-by-sentence by second agent):
+   - `docs/angelology/COMMENTARY.md`: 96 sentences, all faithful (4 fidelity rounds).
+   - `docs/essays/ficino_pico_dispute.md`: 121 sentences, all faithful (4 fidelity rounds).
+   - `docs/essays/angels_location_trial.md`: 82 faithful, 1 overreach (S100, verifier's own wording; 3 fidelity rounds).
+   - `docs/essays/angelic_orders_sources.md`: 91 of 91 faithful (3 fidelity rounds, last edit was one sentence reworded about Din).
+
+2. **Claims**: 1,665 total, 722 with current `supported` verdict; 17 claims repaired after apply-script bug.
+
+3. **Rebuilds**: Finding aid (ANGELICRESEARCH.md), scores (data/network/persons.json bootstrap in this window), 1,886 cards, 4 tours.
+
+4. **Network bootstrap** (new this window): `data/network/persons.json` (16 persons), `data/network/persons_manifest.json`.
+
+## 2026-09-28 (window-3bc261ff, continued): consolidate multi-window work & continue pipeline
+
+**Gate state**: `python scripts/entry_gate.py` returns 901/901 pass (900 theses + 1 test to delete). PROMPTS.md refreshed
+(42 prompts). All system files current.
+
+**T-REL-02 COMPLETE** (2026-09-28 late): Thesis x person relevance computed from mention harvest (305 theses scored; only
+angelology/Ficino scholarship analyzed to date) and verified claims (angelology packets). Output: `data/network/thesis_person_relevance.json`.
+Method: For each thesis, count mentions of persons in scholar contexts + verified claims bearing on that thesis via `bears_on` tags.
+Score: `mention_count * 0.3 + claim_count * 0.7`. Script: `scripts/build_thesis_person_relevance.py`. Unblocks T-REL-03 and
+T-SITE-06. See D-45.
+
+**T-REL-03** (Site reads ONE relevance source): Short ticket (~5-10 token lift). Update `scripts/build_cards.py` to read
+`data/network/thesis_person_relevance.json` (prefer it over older claims relevance if both exist). Unblocks T-SITE-06.
+
+**T-SITE-05** (Sources & People tabs): No blocking dependencies. Moderate ticket (~40-60 tokens). Curate `data/sources.json`
+(30–100 word blurbs sortable by tradition: Scholastic, Platonic, Aristotelian, Arabic, Kabbalistic), build Sources and People tabs
+from data. Merge with PicoDB scholars and source material.
+
+**T-SITE-06** (Thesis cards with relevance bars): Depends on T-REL-02 (done) and T-SITE-02 (done). Build static thesis cards for
+all 900 conclusions, showing relevance bars for key persons from `thesis_person_relevance.json`.
+
+### Not Started / Lower Priority
+
+**T-ENT-03** (VERIFIER swarm on unverified entries): Large token lift (~150-200k estimate for 883 entries). 18 entries verified and
+promoted to `entries/*.json` (all 13 condemned theses + 5 tier-A others). 883 remain as `*.draft.json` awaiting second-agent verification.
+Gate: re-find every quotation/date; check against source locators. **Defer until T-SITE pipeline (T-REL-03, T-SITE-05, T-SITE-06) complete.**
+
+**T-LEGAL-01** (blocked on Ted): Force-push to remove quotation-bearing paths from pushed history. Do NOT run without Ted's approval.
+
+### Final Checklist for Incoming Window
+
+- [ ] **Priority 1**: T-REL-03 (short, unblocks T-SITE-06) + T-SITE-05 (moderate, Sources/People tabs)
+- [ ] **Priority 2**: T-SITE-06 (thesis cards with relevance bars)
+- [ ] Regenerate TICKETS.md after status changes: `python scripts/tickets.py ready`
+- [ ] Commit non-deleted files when ready: `.gitignore`, `CLAUDE.md`, `DECISIONS.md`, `HANDOVER.md`, `PROMPTS.md`, `TICKETS.md`, `scripts/build_thesis_person_relevance.py`, `data/network/thesis_person_relevance.json`
+- [ ] **Do NOT commit**: staged deletions in `data/claims/` (D-43, awaiting T-LEGAL-01 approval)
+

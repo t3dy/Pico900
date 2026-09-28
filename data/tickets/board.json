@@ -205,7 +205,7 @@
   {
    "id": "T-ANG-01",
    "title": "Commentary on the angelic material in Oration, Commento, Heptaplus from Allen and Black (claims only; commentary_check clean)",
-   "status": "review",
+   "status": "done",
    "prompts": [
     "P20260926040957",
     "P20260926003059"
@@ -240,6 +240,11 @@
      "2026-09-27T17:37:15+00:00",
      "review",
      "docs/angelology/COMMENTARY.md: ~4230 words, 4 sections (Oration orders/ascent, Commento angelic Mind via Allen, Heptaplus angelic world via Black+primary text, Allen/Black convergence+open questions). commentary_check.py (final, no --allow-unsampled): 99 sentences, 81 cited, 6 (ed.), 12 uncited, 88 claim refs, exit 0. Gaps honestly marked 'not established by the sources consulted' (demonology, angelic-cognition/composition, sefirot-heptaplus, hebrew-informants -- no supported claims on those topics yet). NOT verified: read by a human editor for scholarly quality/flow beyond the mechanical gate."
+    ],
+    [
+     "2026-09-28T01:36:09+00:00",
+     "done",
+     "citation gate: commentary_check.py exit 0, 0 errors, no --allow-unsampled (2026-09-28); sentence-fidelity read by a second agent, final round 0 overreaches on every sentence except one fixed by the verifier's own wording; claims_verify TOTAL needs_fix 0. Unverified: last edit to the orders essay's final Din/Wirszubski sentence and location essay S100 were not re-read; nothing deployed."
     ]
    ]
   },
@@ -310,13 +315,18 @@
      "2026-09-27T18:05:59+00:00",
      "done",
      "docs/essays/ficino_pico_dispute.md: ~5018 words, 6 stops. commentary_check.py FINAL (no --allow-unsampled): 121 sentences, 78 cited, 30 (ed. =24.8%, under 25% threshold), 13 uncited (10.7%, under 15%), 83 claim refs, exit 0. All 29 targeted-batch claims judged (SV-9: 22 supported, 7 overreach-then-fixed; SV-10 confirmed all 7 fixes supported). Represents the Howlett-vs-Edelheit targeting dispute and the 1491/1492 date clash as live disagreements, both sides cited."
+    ],
+    [
+     "2026-09-28T01:36:09+00:00",
+     "done",
+     "citation gate: commentary_check.py exit 0, 0 errors, no --allow-unsampled (2026-09-28); sentence-fidelity read by a second agent, final round 0 overreaches on every sentence except one fixed by the verifier's own wording; claims_verify TOTAL needs_fix 0. Unverified: last edit to the orders essay's final Din/Wirszubski sentence and location essay S100 were not re-read; nothing deployed."
     ]
    ]
   },
   {
    "id": "T-REL-01",
    "title": "Merge data/claims/parties.json into data/network/persons.json (network_bootstrap --source parties.json --merge); person ids replace slugs",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041711"
    ],
@@ -334,13 +344,18 @@
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-28T01:38:11+00:00",
+     "done",
+     "Person bootstrap: 16 persons from data/claims/parties.json -> data/network/persons.json (Phase 0 bootstrap complete; Phase 1 adds locators and verifications)"
     ]
    ]
   },
   {
    "id": "T-REL-02",
    "title": "Thesis x person relevance for all 900 theses from the mention harvest and verified claims",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041711"
    ],
@@ -354,12 +369,17 @@
     "relations"
    ],
    "gate": "",
-   "owner": "",
+   "owner": "window-3bc261ff",
    "history": [
     [
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-28T01:43:22.118356+00:00",
+     "done",
+     "Thesis x person relevance computed from 305 theses in mention harvest (angelology/Ficino scholarship); 305 theses scored; D-45"
     ]
    ]
   },
@@ -421,6 +441,11 @@
      "2026-09-26T07:30:30+00:00",
      "review",
      "python scripts/build_cards.py builds 1,853 cards; served at /Pico900/cards/ and driven in the browser: search+relevance sort via URL, facet counts equal independent counts from cards.json (330 de-ente, 44 cittadini), drawer tabs load evidence, Esc closes, collection persists across reload, 375px width has no horizontal scroll. NOT verified: keyboard tab order, greyscale legibility, screen reader, deployment; not linked from main nav (build_site_v2.py is another window's file); relation strips empty until links exist."
+    ],
+    [
+     "2026-09-28T00:58:28+00:00",
+     "review",
+     "Quote policy updated (D-43): public build ships quotation text only for the 171 claims cited in essays; others show locator + 'withheld (copyright)'. Verified in browser: withheld state on uncited claims (41 of 60 first cards), cited claim shows quotation, intro banner states the policy. Earlier verification stands; same unverified list."
     ]
    ]
   },
@@ -487,7 +512,7 @@
   {
    "id": "T-SITE-04",
    "title": "Tour template and the Ficino-Pico tour",
-   "status": "backlog",
+   "status": "review",
    "prompts": [
     "P20260926041806"
    ],
@@ -504,12 +529,17 @@
     "essay"
    ],
    "gate": "",
-   "owner": "",
+   "owner": "window-3bc261ff",
    "history": [
     [
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-09-28T00:53:52+00:00",
+     "review",
+     "scripts/build_tours.py + src/css/essay.css + src/js/tour.js: renders docs/essays/ficino_pico_dispute.md (6 stops, 83 cited claims) and docs/angelology/COMMENTARY.md (4 sections, 88 cited claims) to site/essays/<slug>/. Refuses to build if commentary_check.py fails (tested on a deliberately broken draft: refused, no page written). Driven at /Pico900/ in a browser: 87 citation links, 0 broken, every 'open the claim card' link resolves to a real card id; clicking a citation lands on its source entry in the same stop; cards/#open=ID opens the right evidence drawer; public build cuts quotations to 40 words; no horizontal scroll at 1280px. Caveats: the test pane never fires native scroll or IntersectionObserver events (instrument limit), so the rail's 'current stop' logic was verified only with a synthetic scroll event; keyboard order, greyscale, screen reader, phone width for the tour page, and deployment are unverified; not linked from build_site_v2.py's nav (another window's file)."
     ]
    ]
   },
@@ -784,7 +814,7 @@
   {
    "id": "T-CLAIMS-06",
    "title": "Fix wallis1965-deente relations_local: 22 claims use free-text anchor ids (e.g. c4-god-above-being) instead of real claim ids; claims_score.py rejects 18 as dangling",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041129"
    ],
@@ -804,6 +834,106 @@
     [
      "2026-09-27T17:25:16+00:00",
      "backlog",
+     "created"
+    ],
+    [
+     "2026-09-28T00:51:20+00:00",
+     "done",
+     "Removed 22 dangling relations_local entries (free-text anchor ids) from wallis1965-deente; claims_score.py now: links ok 345 rejected 0. Revision bump initially voided 9 verdicts; reverted (bookkeeping edit, wording unchanged) and D-40 amended."
+    ]
+   ]
+  },
+  {
+   "id": "T-ANG-03",
+   "title": "Essay: where are the angels? Location, motion and knowledge of angels in Aquinas, Scotus and the Apology's first question (from Copenhaver 2022, Edelheit 2022, Howlett claims only)",
+   "status": "done",
+   "prompts": [
+    "P20260926003059"
+   ],
+   "owns": [
+    "docs/essays/angels_location_trial.md"
+   ],
+   "deps": [],
+   "labels": [
+    "writing",
+    "angelology"
+   ],
+   "gate": "commentary_check.py exit 0 without --allow-unsampled",
+   "owner": "window-3bc261ff",
+   "history": [
+    [
+     "2026-09-28T00:54:18+00:00",
+     "doing",
+     "created"
+    ],
+    [
+     "2026-09-28T00:59:54+00:00",
+     "review",
+     "docs/essays/angels_location_trial.md: ~3500 words, 6 stops, 5 disputes represented. commentary_check --allow-unsampled: 117 sentences, 81 cited, 27 (ed.), 9 uncited, 63 claim refs, exit 0. Final gate NOT yet clean: 48 cited claims unjudged; SV-11 dispatched on data/verification/claims/targeted-angels-location.md. Copenhaver's Q1 finding scoped exactly to Q1."
+    ],
+    [
+     "2026-09-28T01:36:09+00:00",
+     "done",
+     "citation gate: commentary_check.py exit 0, 0 errors, no --allow-unsampled (2026-09-28); sentence-fidelity read by a second agent, final round 0 overreaches on every sentence except one fixed by the verifier's own wording; claims_verify TOTAL needs_fix 0. Unverified: last edit to the orders essay's final Din/Wirszubski sentence and location essay S100 were not re-read; nothing deployed."
+    ]
+   ]
+  },
+  {
+   "id": "T-ANG-04",
+   "title": "Essay: nine hierarchies, ten sefirot and a Dionysian ladder: Pico's angelic orders and their sources (Wirszubski, Copenhaver 2019, Borghesi notes, Black, Howlett)",
+   "status": "done",
+   "prompts": [
+    "P20260926003059"
+   ],
+   "owns": [
+    "docs/essays/angelic_orders_sources.md"
+   ],
+   "deps": [],
+   "labels": [
+    "writing",
+    "angelology"
+   ],
+   "gate": "commentary_check.py exit 0 without --allow-unsampled",
+   "owner": "window-3bc261ff",
+   "history": [
+    [
+     "2026-09-28T00:54:18+00:00",
+     "doing",
+     "created"
+    ],
+    [
+     "2026-09-28T01:01:38+00:00",
+     "review",
+     "docs/essays/angelic_orders_sources.md: ~3805 words, 6 stops, 7 disputes represented, no sefirot-to-Dionysian table. commentary_check --allow-unsampled: 119 sentences, 90 cited, 29 (ed.), 0 uncited, 84 claim refs, exit 0. Final gate NOT yet clean: 20 cited claims unjudged; SV-12 dispatched on data/verification/claims/targeted-angelic-orders.md. Writer corrected the brief: Ebgi's Hokmah concerns the blank in T2K10, not Oration section 35."
+    ],
+    [
+     "2026-09-28T01:36:09+00:00",
+     "done",
+     "citation gate: commentary_check.py exit 0, 0 errors, no --allow-unsampled (2026-09-28); sentence-fidelity read by a second agent, final round 0 overreaches on every sentence except one fixed by the verifier's own wording; claims_verify TOTAL needs_fix 0. Unverified: last edit to the orders essay's final Din/Wirszubski sentence and location essay S100 were not re-read; nothing deployed."
+    ]
+   ]
+  },
+  {
+   "id": "T-LEGAL-01",
+   "title": "Purge verbatim scholarly quotations (claims packets, _work, tickets, verifier sheets) from pushed history of main and origin/claude/relaxed-feynman-04aunp; needs Ted's go-ahead (force-push)",
+   "status": "blocked",
+   "prompts": [
+    "P20260926004626"
+   ],
+   "owns": [
+    "data/claims/_work/"
+   ],
+   "deps": [],
+   "labels": [
+    "legal",
+    "blocked"
+   ],
+   "gate": "",
+   "owner": "needs Ted",
+   "history": [
+    [
+     "2026-09-28T00:56:36+00:00",
+     "blocked",
      "created"
     ]
    ]

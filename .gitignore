@@ -34,3 +34,17 @@ data/texts/conclusiones_900_latin.*
 docs/resources/
 research-packets/
 data/ontology/mentions/
+
+# Verbatim quotations from in-copyright scholarship inside the claims layer (Ted, 2026-09-27: "don't commit anything
+# copyrighted to the github"; D-29 treats per-thesis excerpt dossiers the same way). The packets, their working files,
+# fix tickets (which carry the nearest source text) and the verifier sheets hold ~2,950 verbatim quotations. Keep local
+# and back up privately; regenerate only by re-running the swarm. Metadata (topics, parties, scoring, links, scores,
+# verdict JSON, semantic verdicts) stays tracked: it holds ids, hashes, verdicts and paraphrase, not excerpts.
+data/claims/*/*.claims.json
+data/claims/_work/
+data/claims/tickets/
+data/verification/claims/*.sample.md
+data/verification/claims/targeted-*.md
+
+# Essay fidelity sheets embed verbatim quotations: local only (D-43)
+data/verification/essays/*.sheet*.md

@@ -901,17 +901,82 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
 - **D-27 Incremental output for swarm agents.** Every writer or translator writes each entry file as soon as it is
   composed. Reason: two translators built the whole block in a generation script and lost it all to a session limit.
 
+## 2026-09-26 (window-3bc261ff): claims layer, verification rules, cards, Workbench (prompts P20260926041129, -041326, -041446, -041502, -041711, -041806)
+
+- **D-28 The claims layer is the only route from scholarship to prose, cards and scores** (`docs/CLAIMS_MODEL.md`). A claim is a
+  restatement tied to verbatim quotations that `scripts/claims_verify.py` re-finds in the source; warrants, hedges, open
+  questions and relationship tags ride on it. Reason: audit A3 found a commentary written from an LLM's memory of Allen and Black
+  (invented quotations, debates, pages). Rules out writing "X argues" from memory, and any quotation not located by script.
+- **D-29 Importance and relevance are triage scores with published weights** (`data/claims/scoring.json`): importance =
+  centrality .25, corroboration .20, contestation .15, warrant strength .15, reach .10, frame shift .15 (the one judged input);
+  tiers by rank (15% primary, 35% secondary). Relevance of a card to a party = kind weight x importance over verified claims
+  bearing on the party, scaled 0-1 per party, with the evidence list. Evidence level uses the network system's 5-0 scale.
+  Weights are a design choice, not calibrated against anything; cards must show components. Changing a weight needs an entry here.
+- **D-30 A claim is citable only after a second agent judged it `supported`.** Measured 2026-09-26: quote gate passes ~100%, but
+  semantic readers found 7-15% of sampled claims overreach their quotations (~1% wrong). Verdicts bind to a hash of restatement,
+  quotations and integer `revision`; editing any field of a judged claim bumps `revision`. `commentary_check.py` refuses unsampled
+  citations (`unsampled_ref`); targeted batches via `scripts/claims_sheet.py`. Rules out citing on the quote gate alone.
+- **D-31 Linking runs concurrently with semantic verification** (deviation from ticket order T-CLAIMS-03 -> 04). Reason: links rest
+  on quotations, which verification does not change; a linked claim later blocked is rejected by `claims_score.py`, not silently kept.
+- **D-32 Public card builds show scholarly quotations cut to 40 words with work and line; full quotations only with `--local`,
+  never deployed.** Reason: copyright and D-25; the reader can check the book from the locator.
+- **D-33 The Workbench (logins, personal card collections) is built in two stages** (`docs/SITE_DESIGN.md` s11): Stage 1 in the
+  browser only (localStorage, export), same data model as Stage 2; Stage 2 needs a server, which is the stated reason the
+  workspace hosting policy requires for a Vercel exception (accounts and persistence). Host and auth provider are recorded here
+  when Stage 2 starts. The public edition stays a static site on GitHub Pages.
+- **D-34 Tradition colouring of cards is an editor's mapping** (`data/claims/traditions.json`, topic to tradition), not a claim
+  about any scholar; unmapped topics are "unclassified".
+- **D-35 Page numbers only with a stated basis.** In Wirszubski (1989) a bracket `[N]` closes page N, so a line's printed page is
+  the next bracket; the 2026-09-25 audit's "bracket + 1" was a guess (`corpuslib.page_of` now returns both neighbours). Claims carry
+  `page` only with `page_basis`; otherwise the line.
+- **D-36 Environment traps (each cost real time).** Shell heredocs here halve backslashes (`\b` became a backspace and silently
+  disabled a regex): write scripts with the Write tool. Git Bash rewrites an env var value that starts with `/` into a Windows path:
+  `PICO_BASE_PATH=/Pico900 python ...` built the site with base `C:/Program Files/Git/Pico900`; leave it unset (the default is
+  `/Pico900`). Screenshot capture in the browser pane can time out; read the DOM instead.
+- **D-40 Semantic-verdict resolution is order-independent** (`semantic_verdicts()` in `scripts/claims_verify.py`). Two successive
+  designs failed in this shared checkout. (1) Merging targeted-batch files by filename let a plain `<packet>.semantic.json`
+  sort LAST and resurrect a stale `overreaches` over a fresh `supported` (10 fixed-and-reconfirmed claims kept failing
+  `commentary_check.py`). (2) The first repair, merging by file mtime, tied when another window's git operation rewrote every
+  file at once (all mtimes identical) and the bug returned. Final rule: a verdict binds to the hash of the claim's wording, so only
+  verdicts whose hash equals the claim's CURRENT hash count; if several verifiers judged the current wording and any objects,
+  the objection stands (strictest wins); older-wording verdicts are stale. No file ordering is consulted. Also: `revision`
+  is bumped only for edits to fields a verifier judges (restatement, quotations, `bears_on`, hedge, attribution, warrants);
+  pure bookkeeping such as removing unresolvable `relations_local` ids must NOT bump it (doing so wrongly voided 9 verdicts, since
+  reverted). After the fix: `claims_verify.py` `TOTAL needs_fix: 0`; both essays' gates exit 0. **Lesson**: never resolve
+  competing records by file order in a shared checkout; key on content, and test the override path with files whose
+  order you have deliberately scrambled.
+- **D-39 Sweep closed out, 2026-09-27.** After the weekly rate-limit reset, all 8 interrupted linker/verifier agents were resumed
+  from their partial state (one, LINK-A, had already saved 75 links before stopping) rather than restarted cold. Final measured
+  state: 15 packets, 1,886 verified claims, 344 cross-scholar links across 4 files (25 disputes recorded), 616 claims with a
+  current `supported` semantic verdict (up from ~400 at the last count), `claims_verify.py` `TOTAL needs_fix: 0`. A full pass
+  targeting every claim tagged `bears_on: ficino` (392 originally tagged) found roughly 90 unsupported or miskinded tags — mostly
+  a generic school ("the Platonists," "Renaissance Platonists," a shared tradition) read as naming Ficino specifically, or a
+  stated parallel read as a stated source; final grounded count 290. This confirms D-30's measured overreach rate held for
+  relationship tags specifically, at a similar order of magnitude (~23% of Ficino tags, vs. 7-27% of claims generally).
+  T-ANG-01 (Oration/Commento/Heptaplus commentary via Allen and Black, ~4,230 words) and T-FIC-01 (Ficino-Pico dispute essay with
+  a tour through De ente et uno and Aquinas's encounter with Dionysius) were dispatched once their claim material cleared the
+  gate; both restricted to `--supported` claims only.
+- **D-38 T-ANG-01 (Oration/Commento/Heptaplus commentary via Allen and Black) starts before the Ficino-dispute linking pipeline
+  (T-CLAIMS-04/05) closes.** Reason: its claims (allen2017-venus, allen2017-other, black2006-a/b/c, borghesi2012,
+  wallis1965-heptaplus) already carry semantic `supported` verdicts from SV-1/2/3/4/7; the still-running linkers and Ficino-targeted
+  verifiers work on de-ente/ficino-dispute/one-beyond-being, a disjoint scope for T-FIC-01. Writer restricted to `--supported`
+  claims only, same citation gate (`commentary_check.py`) applies. Rules out waiting on an unrelated pipeline stage to start work
+  whose inputs are already sourced.
+- **D-37 DEPLOY_STATE corrected.** The site is live on `gh-pages` as a work-in-progress skeleton (checked 2026-09-26); the earlier
+  "NOT LIVE" was true only on 2026-09-25. Still unchecked: the Pages source setting and per-thesis page content.
+
 ## 2026-09-27 (window-8857d983): resolving D-25 per Ted's explicit instruction
 
 Ted, in chat: "don't commit anything copyrighted to the github just our digital edition and project and website etc
-we've been building."
+we've been building." (Renumbered D-41/D-42 to follow window-3bc261ff's D-40 above, since both windows independently
+picked "D-28/D-29" for unrelated decisions written the same day; content unchanged from the original.)
 
-- **D-28 Drop the copyrighted-corpus commit from history; push only the edition and its apparatus.** The commit behind
+- **D-41 Drop the copyrighted-corpus commit from history; push only the edition and its apparatus.** The commit behind
   D-24 was removed from `main`'s history with `git rebase --onto` (verified: no later commit depended on its files;
   the rebase was clean). `.gitignore` now excludes `data/corpus/`, `data/texts/`, `docs/resources/` so they cannot be
   re-added by accident. This closes D-25: nothing in `data/corpus/`, `data/texts/`, or `docs/resources/` (SEP entries,
-  copied verbatim) is ever committed. `main` is pushed after this decision.
-- **D-29 Research-stage material with embedded scholar excerpts stays local.** `research-packets/*.md` and
+  copied verbatim) is ever committed. `main` is pushed after this decision (confirmed: `git log origin/main` shows it).
+- **D-42 Research-stage material with embedded scholar excerpts stays local.** `research-packets/*.md` and
   `data/ontology/mentions/**/*.json` (the harvester's per-thesis dossiers) each carry hundreds of ~700-character
   `context` excerpts copied verbatim from in-copyright scholarship (Copenhaver, Wirszubski, Edelheit, and others),
   gathered so a WRITER agent doesn't have to re-open the source book for every sentence. In aggregate — roughly 1,800
@@ -921,4 +986,54 @@ we've been building."
   What *is* pushed and is the edition itself: `entries/` (our own prose, with short attributed quotations, exactly
   the kind of quotation any published scholarly edition makes), `data/inventory/` (Pico's own Latin, the primary
   text under edition — public domain, 1486), `data/ontology/theses.json`, `MENTION_STATS.md` and `stats.json`
-  (aggregate counts and rankings, not excerpt text), `docs/`, `scripts/`, and the site itself.
+  (aggregate counts and rankings, not excerpt text), `docs/`, `scripts/`, and the site itself. The claims layer's own
+  quotations (`data/claims/**/*.claims.json`) were left tracked: each is a single short attributed quotation backing
+  one atomic claim (ordinary scholarly citation practice), not a bulk excerpt dump like the two directories above;
+  worth the same audit later if the corpus grows, but out of scope for this pass.
+
+- **D-44 (window-3bc261ff, 2026-09-28) A verifier's `suggested_text` is data, not truth: `claims_apply_semantic.py` validates it, and a
+  claim's restatement is now checked for being one.** Applying the fixes from a 48-claim batch, the script wrote verifier
+  *editing instructions* ("Text unchanged. Drop or re-anchor the bears_on.") into the restatements of 17 claims, because some
+  verifiers used `suggested_text` for instructions. The quote gate passed them (quotations were still verbatim); a later reader caught
+  it. Repaired from the private backup (originals restored for 11; 6 given a reader's clean rewording), essay sentences
+  re-read against the corrected claims. Fixes: (1) `usable_rewrite()` refuses a suggestion that is short, begins with an instruction verb, mentions
+  `bears_on`/`quote_index`/`re-anchor`, or equals the current text (it goes to the manual list); (2) `claims_verify.py` raises
+  `restatement_is_not_a_restatement` for any claim whose text reads as an instruction or fragment (tested on a planted case; 0 false
+  positives on the 1,886 real claims); (3) the verifier brief now says `suggested_text` must be a complete restatement sentence.
+  Also new: when a verifier flags `bears_on`, the script drops exactly the tags whose party no quotation names (the scorer's
+  own test) instead of leaving them for hand-editing. **Lesson**: any automation that writes a reader's free text into a checked field needs
+  its own validation, because the checks downstream only test what the field is supposed to contain.
+  Related process finding: the essays' citation gate cannot show that a SENTENCE stays within its claims. The first sentence-fidelity
+  readings (`scripts/essay_sheet.py`, `docs/briefs/essay_fidelity_verifier.md`) found 14% (orders essay) to 38% (commentary) of cited sentences
+  overreaching (dropped hedges, a scholar's argument in the essay's own voice, framing sentences no claim gives). Fidelity reading is now gate C4.
+- **D-43 (window-3bc261ff, 2026-09-28) The claims layer's verbatim quotations go local too: this supersedes D-42's carve-out for
+  `data/claims/**/*.claims.json`, and my own D-32.** D-42 judged each claim's quotation "a single short attributed quotation"
+  and left the packets tracked, with an audit "if the corpus grows". Measured now: the tracked packets hold 2,951 quotations, about
+  112,800 words from roughly fifteen in-copyright books, and the `_work` copies (about 81,800 words), the fix tickets (which carry the
+  nearest source text) and the verifier sheets (about 13,000 words) repeat them. Individually short, in aggregate that is a bulk
+  excerpt store of exactly the kind D-42 keeps out for the dossiers, and Ted's rule ("don't commit anything copyrighted",
+  2026-09-27) has no "short" qualifier. They were pushed to the public `origin/main` and to `origin/claude/relaxed-feynman-04aunp`
+  in 7f8bd73, ae9a4bf, c054f5a, 3c494bf and 664bd8b (swept in by other windows' commits: the D-17 hazard). Done now, reversible, uncommitted:
+  (1) private backup of `data/claims`, `data/verification`, `docs/essays`, `docs/angelology` to
+  `C:/Users/PC/pico900-private-backup/claims-and-verification-2026-09-28.zip`, outside the repo; (2) the quote-bearing paths
+  (`data/claims/*/*.claims.json`, `_work/`, `tickets/`, verifier `*.sample.md` and `targeted-*.md`) added to `.gitignore` and
+  untracked with `git rm --cached` (64 deletions staged, local files intact). Metadata stays trackable (topics, parties, scoring,
+  manifest, links, scores, relevance, verdict and semantic-verdict JSON: ids, hashes, verdicts, paraphrase). To reverse: delete the
+  five `.gitignore` lines and `git add` the paths. NOT done, needs Ted: the copies in pushed history. Removing them means
+  rewriting `main` and `claude/relaxed-feynman-04aunp` and force-pushing (destructive and shared), as D-41 did for the corpus;
+  ticket T-LEGAL-01 (blocked on Ted). Also: the public card build no longer ships quotations in bulk (40 words times 1,886
+  claims is about 70k words); it ships restatements, locators and metadata, and quotation text only for claims cited in a
+  published essay (`build_cards.py --quotes cited`, the default). Consequence to know: the claims layer is not reproducible from
+  git alone; the packets exist only on this machine and in the private backup, so keep it. Essays quote scholars in short
+  attributed passages, as scholarship does; those are the edition's own prose and may be committed.
+
+## 2026-09-28 (window-3bc261ff, late): T-REL-02 thesis x person relevance computed
+
+- **D-45 T-REL-02: Thesis x person relevance computed from mention harvest and verified claims.** Input: `data/network/persons.json`
+  (16 key persons), `data/ontology/mentions/by_thesis/` (900 thesis mention files), scholar work mappings to persons (e.g., Copenhaver
+  discusses Ficino, Del Medigo, Mithridates, Barbaro; Howlett covers those four plus Poliziano). Method: for each thesis, count (1)
+  mentions of persons in scholar contexts + (2) verified claims bearing on that thesis that mention persons via `bears_on` tags.
+  Score: `mention_count * 0.3 + claim_count * 0.7`. Output: `data/network/thesis_person_relevance.json` (305 theses with person
+  relevance data; angelology/Ficino scholarship only analyzed to date, so broader coverage grows as other scholar packets are linked
+  to theses). Script: `scripts/build_thesis_person_relevance.py` (deterministic, reproducible, metadata only). Unblocks T-REL-03
+  (site reads relevance source) and T-SITE-06 (thesis cards with relevance bars).
