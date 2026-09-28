@@ -345,10 +345,25 @@ Building thesis cards with person relevance...
 2. **T-REL-03 one-liner** — Update `scripts/build_cards.py` line 64 to check for `thesis_person_relevance.json` first
 3. **Full site build** — Run `python scripts/build_site_v2.py` (or new build orchestrator) to generate all pages and verify no regressions
 
+### T-SITE-06 COMPLETE (Thesis explorer and detail pages)
+
+Generated all thesis card pages from `data/thesis_cards_data.json`:
+- `scripts/build_conclusions.py` (469 lines): Deterministic generation of explorer and detail pages
+- `site/conclusions/index.html`: Interactive explorer with filtering by section, search by ID/Latin, person relevance legend
+- `site/conclusions/{thesis_id}/index.html` (900 pages): Detail pages showing Latin text and top 5 relevant persons with weighted bars
+- Navigation: Added "Conclusions" tab to site header
+
+**Verified in browser**:
+- Explorer page renders correctly with all 900 theses
+- Detail pages load with proper formatting
+- Person relevance bars display with correct colors and scores
+- Navigation links functional
+
 ### Remaining Work (Priority Order)
 
-1. T-SITE-06 (templates + HTML generation from thesis_cards_data.json) — UNBLOCKED, ready to start
-2. T-ENT-03 (VERIFIER swarm on 883 unverified entries) — LARGE (~150-200k tokens), **DEFER** until after T-SITE pipeline
-3. T-LEGAL-01 (force-push to remove quotation paths) — **BLOCKED on Ted's approval**, do not run
-4. Performance site build & deployment testing on GitHub Pages (DNS check, cache behavior, asset serving)
+1. **T-REL-03** (config decision, 5-10 min): Document which relevance source site prefers (already implemented via thesis_person_relevance.json)
+2. **Full site rebuild & deploy testing** (20-30 min): Run `python scripts/build_site_v2.py` and verify no regressions across sections, condemned, sources, conclusions, scholarship tabs
+3. **GitHub Pages deployment** (10 min): Push to public repo and verify site loads on GitHub Pages with correct base path
+4. **T-ENT-03** (VERIFIER swarm on 883 unverified entries) — LARGE (~150-200k tokens), **DEFER** until after deployment
+5. **T-LEGAL-01** (force-push to remove quotation paths) — **BLOCKED on Ted's approval**, do not run
 
