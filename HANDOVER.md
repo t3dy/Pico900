@@ -170,3 +170,10 @@ history with `git rebase --onto` (verified clean: nothing later depended on its 
 embed hundreds of verbatim scholar excerpts). `.gitignore` now excludes all four paths (section 5, above). `main`
 was pushed to `origin/main` after this cleanup; `gh-pages` already carries a live built site (see `DEPLOY_STATE.md`)
 and was not touched here. D-25's block on pushing `main` is closed.
+
+## 2026-09-27, evening (writing pass): every thesis now has an entry
+Three TRANSLATOR agents wrote the 45 missing entries (Proclus 24.16-24.55; 3>3, 10>15, 11>63, 11>66, 11>72) and
+re-rendered the 23 translations that were too close to Farmer's English (D-13). `python scripts/entry_gate.py`:
+901/901 drafts pass (900 theses + `_test_own_3_003`, which should be deleted). Verified (second-agent) entries are still 18.
+Renderings by TRANSLATOR-FIX were done from the Latin without opening Farmer's English, so a human check of those 23 is worthwhile.
+Do next: VERIFIER on Q4/Q11/Q12/Q13 and the ~40 unverified tier-A drafts; then `build_site_v2.py` + `predeploy_check.py`.
