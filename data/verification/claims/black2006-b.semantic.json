@@ -1,0 +1,49 @@
+{
+  "packet": "black2006-b",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {"id": "black2006-b:001", "hash": "734e5e8c8b", "verdict": "supported"},
+    {"id": "black2006-b:003", "hash": "1ebad7ecab", "verdict": "supported"},
+    {"id": "black2006-b:013", "hash": "5747a94f95", "verdict": "supported"},
+    {"id": "black2006-b:014", "hash": "da9674e2ec", "verdict": "supported"},
+    {"id": "black2006-b:020", "hash": "91512af976", "verdict": "supported"},
+    {"id": "black2006-b:031", "hash": "d53386f0e3", "verdict": "supported"},
+    {"id": "black2006-b:037", "hash": "7e57dbc075", "verdict": "supported"},
+    {"id": "black2006-b:046", "hash": "76e1336561", "verdict": "supported"},
+    {"id": "black2006-b:048", "hash": "1181a8b924", "verdict": "supported"},
+    {"id": "black2006-b:051", "hash": "6354635b7d", "verdict": "supported"},
+    {"id": "black2006-b:063", "hash": "b20ef8247c", "verdict": "supported"},
+    {
+      "id": "black2006-b:069",
+      "hash": "c1216caab5",
+      "verdict": "overreaches",
+      "reason": "The restatement says numerical methods 'occurs throughout the texts translated for Pico, notably Abulafia's', but the quotations say only 'some exegetes made use of this' and that Abulafia's works are 'particularly noteworthy'; 'throughout the texts' implies broad presence across the translated corpus, which the quoted text does not establish.",
+      "suggested_text": "Because Hebrew letters are also numbers, every word has a numerical sum, and some kabbalist exegetes linked concepts by these sums; this is particularly notable in the works of Abraham Abulafia among the texts translated for Pico, and the practice is entirely absent from the Heptaplus."
+    },
+    {"id": "black2006-b:072", "hash": "ca935af572", "verdict": "supported"},
+    {"id": "black2006-b:082", "hash": "4a59f5e9eb", "verdict": "supported"},
+    {"id": "black2006-b:086", "hash": "b1a208dcff", "verdict": "supported"},
+    {"id": "black2006-b:096", "hash": "5e1757052c", "verdict": "supported"},
+    {"id": "black2006-b:100", "hash": "71a4ef4e27", "verdict": "supported"},
+    {"id": "black2006-b:116", "hash": "ee9fa074fa", "verdict": "supported"},
+    {"id": "black2006-b:117", "hash": "0f000459c5", "verdict": "supported"},
+    {"id": "black2006-b:118", "hash": "676042f5b2", "verdict": "supported"},
+    {"id": "black2006-b:119", "hash": "86152d5ab6", "verdict": "supported"},
+    {"id": "black2006-b:121", "hash": "40a27fdfcb", "verdict": "supported"},
+    {"id": "black2006-b:127", "hash": "4a56c5c3c8", "verdict": "supported"},
+    {"id": "black2006-b:134", "hash": "a93177eb26", "verdict": "supported"},
+    {"id": "black2006-b:139", "hash": "56c5b0fd48", "verdict": "supported"},
+    {
+      "id": "black2006-b:141",
+      "hash": "822a517601",
+      "verdict": "overreaches",
+      "reason": "The restatement enumerates the different ways of understanding the word 'fire' as 'as a cause, as a substance, as participation, and in other ways as the contemplation requires', but none of these specific modes appear in the quoted passages; the quotation only says the image 'must be understood in different ways' without specifying them.",
+      "suggested_text": "In the Ninth Letter Dionysius says that the same word fire, applied to God above conception, to his intelligible providence or to angels, must in each case be understood differently."
+    },
+    {"id": "black2006-b:142", "hash": "fc7e01ab54", "verdict": "supported"},
+    {"id": "black2006-b:148", "hash": "2a8e7e3c85", "verdict": "supported"},
+    {"id": "black2006-b:149", "hash": "11ae9e84cd", "verdict": "supported"}
+  ],
+  "notes": "29 claims judged, 27 supported, 2 overreaches, 0 wrong. Overreaches on 069 and 141: both add specificity (breadth of occurrence across translated texts; enumerated modes of understanding fire) not present in the quoted evidence. All other claims closely track their quotations, including several near-verbatim restatements."
+}

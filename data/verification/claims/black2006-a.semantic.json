@@ -1,0 +1,145 @@
+{
+  "packet": "black2006-a",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "black2006-a:014",
+      "hash": "045811c4ff",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:016",
+      "hash": "4091a3bbd6",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:020",
+      "hash": "d3c5ff4811",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:025",
+      "hash": "db73cd5bd4",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:026",
+      "hash": "671064d69e",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:030",
+      "hash": "981ba0a4d6",
+      "verdict": "overreaches",
+      "reason": "The restatement adds 'adding that he cannot recall further names', a detail absent from the quoted text (which is truncated at 'the Ma'arekhet ha-elohut'); no provided quotation supports this phrase.",
+      "suggested_text": "Delmedigo's letter to Pico lists under 'Kabbalah' the Zohar, the Me'irat einayim, Gikatilla's Sha'arei orah, Recanati and the Ma'arekhet ha-elohut, among other works."
+    },
+    {
+      "id": "black2006-a:035",
+      "hash": "8d5d823266",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:041",
+      "hash": "7746262601",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:052",
+      "hash": "0fb88c5321",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:060",
+      "hash": "abccbd7adb",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:061",
+      "hash": "ddb8e69bc3",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:063",
+      "hash": "59ba95ed35",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:081",
+      "hash": "cbb9c3fc21",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:082",
+      "hash": "e0e25848bf",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:099",
+      "hash": "73b7848c86",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:100",
+      "hash": "6854eb46e3",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:105",
+      "hash": "1c08e0732d",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:107",
+      "hash": "2d4d49854c",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:110",
+      "hash": "047594e6ef",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:111",
+      "hash": "0da5950689",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:114",
+      "hash": "2553fa7433",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:116",
+      "hash": "3cfe1c958f",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:121",
+      "hash": "b5ccbf9aaa",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:125",
+      "hash": "0428922d62",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:126",
+      "hash": "57e7c2b6fa",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:129",
+      "hash": "07f3cf7c8e",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-a:131",
+      "hash": "f03457874a",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "27 claims judged: 26 supported, 1 overreaches. The single overreach (030) adds a phrase about Delmedigo not recalling further names; the quotation is truncated at mid-sentence and does not include this detail. All other restatements faithfully compress or paraphrase Black without adding names, dates, causes, or certainty beyond what the quotations give."
+}

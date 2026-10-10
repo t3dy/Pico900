@@ -1,0 +1,123 @@
+{
+  "packet": "allen2017-venus",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "allen2017-venus:001",
+      "hash": "36860b1986",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:009",
+      "hash": "3c940ccb05",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:011",
+      "hash": "07af3fe8fe",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:014",
+      "hash": "61b94345b2",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:026",
+      "hash": "7a265c5492",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:036",
+      "hash": "0687511152",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:039",
+      "hash": "581c84e8ee",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:041",
+      "hash": "e2b0300201",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:053",
+      "hash": "f054f949ad",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:057",
+      "hash": "2182e08520",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:058",
+      "hash": "ef93dee784",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:062",
+      "hash": "00c497d1a4",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:066",
+      "hash": "d1dcbb9a7f",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:076",
+      "hash": "1064e75b77",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:078",
+      "hash": "a7c69937ab",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:081",
+      "hash": "63356e5880",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:083",
+      "hash": "23995e9b4c",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:088",
+      "hash": "5dbbedfbbc",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:092",
+      "hash": "495a7dc416",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:096",
+      "hash": "59c41c883f",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:099",
+      "hash": "c0596d8a0d",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:106",
+      "hash": "f99e10283b",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-venus:114",
+      "hash": "ad11827014",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "23 claims judged, 23 supported, 0 overreaches, 0 wrong. All restatements are accurate paraphrases or summaries with minor omissions that do not distort. Claim :001 drops the hedge 'in many ways' before 'an eclectic by conviction' but this does not constitute an addition beyond what the evidence supports. Claim :092 drops the alternative '(or World Soul)' but otherwise accurate. Claim :114 reasonably infers the Heptaplus context from the bibliographic note's placement and subject. Endnote claims (:106, :114) accurately transcribe bibliographic references."
+}

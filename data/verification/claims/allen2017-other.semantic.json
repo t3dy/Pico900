@@ -1,0 +1,93 @@
+{
+  "packet": "allen2017-other",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "allen2017-other:008",
+      "hash": "035ffee916",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:013",
+      "hash": "b0086ee4c1",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:014",
+      "hash": "e39c0c1b75",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:017",
+      "hash": "b9825fbaa0",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:025",
+      "hash": "55bd8e84d4",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:026",
+      "hash": "1e7c055a3e",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:031",
+      "hash": "36e011ff9d",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:037",
+      "hash": "8adffd26d1",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:041",
+      "hash": "5ad3aeefd1",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:044",
+      "hash": "4481dd6842",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:055",
+      "hash": "032d02673c",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:057",
+      "hash": "61cf71aa70",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:062",
+      "hash": "21a3985a79",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:063",
+      "hash": "74aa76413d",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:067",
+      "hash": "353e6c88c0",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:075",
+      "hash": "797f1698a9",
+      "verdict": "supported"
+    },
+    {
+      "id": "allen2017-other:078",
+      "hash": "2af87c99e3",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "17 claims judged, 17 supported, 0 overreaches, 0 wrong. Claim :017 required corpus check: the sample sheet's first quotation (allen2017:1597) was truncated; the full passage (lines 1597-1602) explicitly includes the contrast with 'quello che da' nostri Teologi e detto figliuolo di Dio', making the restatement's 'not to the Son of the theologians' fully supported. All other claims are near-verbatim paraphrases or accurate summaries with minor omissions. Claim :044 omits that rational light is also understood intuitively (not just discursively), but this is an omission, not an addition, so the restatement says nothing the evidence does not support."
+}

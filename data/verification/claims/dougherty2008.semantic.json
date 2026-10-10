@@ -1,0 +1,22 @@
+{
+  "packet": "dougherty2008",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {"id": "dougherty2008:003", "hash": "df948f5d56", "verdict": "supported"},
+    {"id": "dougherty2008:004", "hash": "891ad6dca5", "verdict": "supported"},
+    {"id": "dougherty2008:005", "hash": "4c572ff1f4", "verdict": "supported"},
+    {"id": "dougherty2008:014", "hash": "a840791474", "verdict": "supported"},
+    {"id": "dougherty2008:015", "hash": "217767d9bc", "verdict": "supported"},
+    {"id": "dougherty2008:017", "hash": "466e3c65e8", "verdict": "supported"},
+    {"id": "dougherty2008:021", "hash": "1b07097eb0", "verdict": "supported"},
+    {"id": "dougherty2008:030", "hash": "7735201dc8", "verdict": "supported"},
+    {"id": "dougherty2008:041", "hash": "9d40972a51", "verdict": "supported"},
+    {"id": "dougherty2008:049", "hash": "230858ad0b", "verdict": "supported"},
+    {"id": "dougherty2008:059", "hash": "110e19362b", "verdict": "supported"},
+    {"id": "dougherty2008:061", "hash": "4bedaeec82", "verdict": "supported"},
+    {"id": "dougherty2008:065", "hash": "eb948c384a", "verdict": "supported"},
+    {"id": "dougherty2008:068", "hash": "d4b5bee908", "verdict": "supported"}
+  ],
+  "notes": "14 claims judged, 14 supported, 0 overreaches, 0 wrong. All restatements stay within the evidence. The packet spans multiple essay authors (Sudduth, Still, Blum, Rabin, Kraye, Borghesi, Dougherty) and correctly attributes claims to those authors rather than to Pico directly. Hedged attributions (014 'apparently', 041 'plausibly') are faithfully preserved."
+}

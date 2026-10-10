@@ -1,0 +1,68 @@
+{
+  "packet": "copenhaver2022-angels",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "copenhaver2022-angels:003",
+      "hash": "de04e2c931",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:004",
+      "hash": "224eccd3a5",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:007",
+      "hash": "5153949ed2",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:008",
+      "hash": "db90a257c8",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:011",
+      "hash": "1684a10863",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:029",
+      "hash": "1b64a5da4f",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:033",
+      "hash": "a78ecf610e",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:045",
+      "hash": "e9b8c51bda",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:046",
+      "hash": "68e3aeddaa",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:049",
+      "hash": "b02b38da70",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:052",
+      "hash": "1e133bb4f9",
+      "verdict": "supported"
+    },
+    {
+      "id": "copenhaver2022-angels:056",
+      "hash": "82dd533854",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "12 claims judged: 12 supported, 0 overreaches, 0 wrong. This is a clean packet. Every restatement stays within what the quotations give: technical scholastic details (ex vi verborum, the communis via, the Tempier condemnations) are reproduced accurately without added certainty, and hedged elements (Pico's disagreement with Aquinas described as 'to some extent') are preserved. The restatements for 007 and 046 reorder material slightly from the quotations but do not add new claims."
+}

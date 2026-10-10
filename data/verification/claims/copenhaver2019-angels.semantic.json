@@ -1,0 +1,34 @@
+{
+  "packet": "copenhaver2019-angels",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {"id": "copenhaver2019-angels:002", "hash": "5cbbc358d6", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:004", "hash": "60915a678b", "verdict": "supported"},
+    {
+      "id": "copenhaver2019-angels:018",
+      "hash": "6b861faabc",
+      "verdict": "overreaches",
+      "reason": "The restatement adds 'Copenhaver cites thesis T1K2, which lists Cherubim before Seraphim', but the quoted passages do not identify T1K2; they show a Kabbalist text with Cherubim first and note that Pico used these names in the Conclusions while changing the order, without specifying which thesis.",
+      "suggested_text": "In a Kabbalist text known to Pico, nine hierarchies of angels bear names different from the Dionysian ones and appear in a different order, starting with Cherubim before Seraphim; Pico used these names in his Conclusions while changing the order."
+    },
+    {"id": "copenhaver2019-angels:028", "hash": "112903d251", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:030", "hash": "e5baa9c100", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:032", "hash": "7b52ea8c75", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:033", "hash": "d8959206df", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:034", "hash": "d0f318d2d9", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:036", "hash": "988215b114", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:042", "hash": "6e87c93227", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:043", "hash": "aafdf91161", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:047", "hash": "e2a35a15b0", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:054", "hash": "79bcef1265", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:061", "hash": "daf58abe37", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:062", "hash": "9ed5719cd6", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:065", "hash": "1e9bf8acca", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:070", "hash": "aaae033aad", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:074", "hash": "4738908e0b", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:078", "hash": "a47ab7384f", "verdict": "supported"},
+    {"id": "copenhaver2019-angels:086", "hash": "f42add207b", "verdict": "supported"}
+  ],
+  "notes": "20 claims judged, 19 supported, 1 overreaches, 0 wrong. Single overreach on 018: the specific thesis citation T1K2 does not appear in the quoted passages, which only say Pico used the Kabbalist names in the Conclusions while changing the order. All other claims, including several near-verbatim translations (028, 078, 086) and the hedged inferences (032, 065), stay within the evidence."
+}

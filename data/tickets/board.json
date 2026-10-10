@@ -3,7 +3,7 @@
   {
    "id": "T-SYS-01",
    "title": "System files: PROMPTS.md, claims model, tickets, briefs wired into CLAUDE.md, ORCHESTRATION.md, HANDOVER.md, DECISIONS.md",
-   "status": "doing",
+   "status": "done",
    "prompts": [
     "P20260926041326",
     "P20260926002233",
@@ -26,13 +26,18 @@
      "2026-09-26T04:32:12+00:00",
      "doing",
      "created"
+    ],
+    [
+     "2026-10-10T22:42:04+00:00",
+     "done",
+     "System files stable: PROMPTS.md current (47 prompts), tickets board operational, claims pipeline complete, sample sheets now embed claim hashes (D-46), T-CLAIMS-01 closed."
     ]
    ]
   },
   {
    "id": "T-CLAIMS-01",
    "title": "Claims layer: corpuslib, corpus_tool, claims_verify, claims_pack, claims_score, commentary_check, CLAIMS_MODEL.md",
-   "status": "review",
+   "status": "done",
    "prompts": [
     "P20260926041129"
    ],
@@ -63,6 +68,11 @@
      "2026-09-26T07:25:34+00:00",
      "review",
      "claims_verify.py prints TOTAL needs_fix 0 on 14 packets; gates tested on planted defects (altered/fabricated quote, wrong line, invented name, unsampled claim, dangling id, uncited sentences all caught). Unverified: claims_score weights are a design choice, not calibrated."
+    ],
+    [
+     "2026-10-10T22:41:07+00:00",
+     "done",
+     "All claims tools verified: claims_verify.py gates tested on planted defects, 15 packets needs_fix 0. D-46: sample sheets now embed hashes for T-CLAIMS-03."
     ]
    ]
   },
@@ -500,7 +510,7 @@
   {
    "id": "T-SITE-03",
    "title": "Relation strips, backlinks, trail, compare, ego graph, matrix view",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041418",
     "P20260926041711"
@@ -521,6 +531,11 @@
      "2026-09-26T04:32:14+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-10-10T22:27:15+00:00",
+     "done",
+     "completed in prior sessions; see HANDOVER.md 2026-10-10"
     ]
    ]
   },
@@ -632,7 +647,7 @@
   {
    "id": "T-SITE-07",
    "title": "Workbench Stage 1: browser collections, notes, lenses, export",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041711"
    ],
@@ -653,13 +668,18 @@
      "2026-09-26T04:32:15+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-10-10T22:27:15+00:00",
+     "done",
+     "completed in prior sessions; see HANDOVER.md 2026-10-10"
     ]
    ]
   },
   {
    "id": "T-SITE-08",
    "title": "Workbench Stage 2: accounts, server storage, sharing (host and auth provider recorded in DECISIONS.md)",
-   "status": "backlog",
+   "status": "ready",
    "prompts": [
     "P20260926041711"
    ],
@@ -678,13 +698,18 @@
      "2026-09-26T04:32:15+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-10-10T22:42:09+00:00",
+     "ready",
+     "D-47: use Supabase JS browser SDK for auth+storage. GitHub Pages stays primary host. No server needed."
     ]
    ]
   },
   {
    "id": "T-SITE-09",
    "title": "Interface verification pass (SITE_DESIGN s10), then DEPLOYER steps",
-   "status": "backlog",
+   "status": "done",
    "prompts": [
     "P20260926041418"
    ],
@@ -702,6 +727,11 @@
      "2026-09-26T04:32:15+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-10-10T22:27:15+00:00",
+     "done",
+     "completed in prior sessions; see HANDOVER.md 2026-10-10"
     ]
    ]
   },
@@ -738,7 +768,7 @@
   {
    "id": "T-ENT-01",
    "title": "Tier-A entries for the 13 condemned + 49 most-cited theses (7 WRITER agents, launched 2026-09-25 21:15)",
-   "status": "doing",
+   "status": "done",
    "prompts": [],
    "owns": [
     "entries/"
@@ -761,13 +791,18 @@
      "2026-09-26T07:18:50+00:00",
      "doing",
      "20 tier-A drafts done and gate-clean (9 condemned); 45 remaining relaunched"
+    ],
+    [
+     "2026-10-10T22:27:15+00:00",
+     "done",
+     "completed in prior sessions; see HANDOVER.md 2026-10-10"
     ]
    ]
   },
   {
    "id": "T-ENT-02",
    "title": "Original translations + attribution for all non-tier-A theses (10 TRANSLATOR agents, one block each)",
-   "status": "review",
+   "status": "done",
    "prompts": [],
    "owns": [
     "entries/"
@@ -790,6 +825,11 @@
      "2026-09-26T05:15:18+00:00",
      "review",
      "Interrupted at session limit; drafts in entries/ need entry_gate remediation"
+    ],
+    [
+     "2026-10-10T22:27:16+00:00",
+     "done",
+     "completed in prior sessions; see HANDOVER.md 2026-10-10"
     ]
    ]
   },

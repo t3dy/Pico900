@@ -1,0 +1,113 @@
+{
+  "packet": "borghesi2012",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "borghesi2012:003",
+      "hash": "f8a465c31b",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:005",
+      "hash": "42326325e7",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:006",
+      "hash": "68a9a02152",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:007",
+      "hash": "2a06e85d38",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:009",
+      "hash": "238ea26113",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:010",
+      "hash": "e8445b777c",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:025",
+      "hash": "1b8d449e1d",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:028",
+      "hash": "c27316e15c",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:042",
+      "hash": "5c9ed8c3c7",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:050",
+      "hash": "1b8b7b5552",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:055",
+      "hash": "cd37794e7a",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:061",
+      "hash": "1ad99952aa",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:062",
+      "hash": "cf899a3e13",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:067",
+      "hash": "37e044622d",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:068",
+      "hash": "511263a050",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:074",
+      "hash": "d05ffc87f8",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:075",
+      "hash": "15711e6246",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:082",
+      "hash": "57c33bfc33",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:094",
+      "hash": "0978560890",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:096",
+      "hash": "5732737e27",
+      "verdict": "supported"
+    },
+    {
+      "id": "borghesi2012:106",
+      "hash": "d5e02714b5",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "21 claims judged, 21 supported, 0 overreaches, 0 wrong. Two claims required corpus context checks. Claim :028: the sample sheet quotations at lines 1616 and 1621 were truncated; the full translation at lines 1619-1620 includes 'then shall we descend... and ascend,' confirming the restatement's 'descend and ascend in turn.' Claim :067: the note 'This is the first time the word dignity appears in the text of the Oration' (line 1085) is footnote 49, placed at the word 'dignity' in the passage at line 1065 ('seraphim, cherubim, and thrones occupy the first places; let us emulate their dignity and glory'), confirming the restatement's location detail. Borghesi et al. claims (:042, :050, :055, :061, :062, :067, :068, :074, :075, :082, :094, :096, :106) are editorial notes accurately represented. Pico's own voice claims (:003, :005, :006, :007, :009, :010, :025, :028) are near-verbatim paraphrases of the English translation and Latin."
+}

@@ -1,12 +1,385 @@
 [
  {
-  "file": "C:\\Dev\\Pico900\\entries\\own_7a_072.draft.json",
-  "thesis_id": "7a>72",
+  "file": "entries\\own_11_001.json",
+  "thesis_id": "11>1",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.75"
+  ],
+  "locators": 41
+ },
+ {
+  "file": "entries\\hist_28_033.json",
+  "thesis_id": "28.33",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.26"
+  ],
+  "locators": 48
+ },
+ {
+  "file": "entries\\hist_28_044.json",
+  "thesis_id": "28.44",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.68"
+  ],
+  "locators": 52
+ },
+ {
+  "file": "entries\\own_10_002.json",
+  "thesis_id": "10>2",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.49"
+  ],
+  "locators": 36
+ },
+ {
+  "file": "entries\\own_11_002.json",
+  "thesis_id": "11>2",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "quotation matched only in part (OCR?) at busi2014:20032: 'Nessuna delle fonti ebraiche che conosciamo parla però'",
+   "translation/Farmer similarity 0.51"
+  ],
+  "locators": 51
+ },
+ {
+  "file": "entries\\own_11_003.json",
+  "thesis_id": "11>3",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.71"
+  ],
+  "locators": 46
+ },
+ {
+  "file": "entries\\own_11_004.json",
+  "thesis_id": "11>4",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.61"
+  ],
+  "locators": 45
+ },
+ {
+  "file": "entries\\own_11_005.json",
+  "thesis_id": "11>5",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.12"
+  ],
+  "locators": 45
+ },
+ {
+  "file": "entries\\own_11_006.json",
+  "thesis_id": "11>6",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.27"
+  ],
+  "locators": 48
+ },
+ {
+  "file": "entries\\own_11_007.json",
+  "thesis_id": "11>7",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.66"
+  ],
+  "locators": 40
+ },
+ {
+  "file": "entries\\own_11_009.json",
+  "thesis_id": "11>9",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.63"
+  ],
+  "locators": 38
+ },
+ {
+  "file": "entries\\own_11_010.json",
+  "thesis_id": "11>10",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.83"
+  ],
+  "locators": 55
+ },
+ {
+  "file": "entries\\own_11_011.json",
+  "thesis_id": "11>11",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.60"
+  ],
+  "locators": 45
+ },
+ {
+  "file": "entries\\own_11_013.json",
+  "thesis_id": "11>13",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.50"
+  ],
+  "locators": 45
+ },
+ {
+  "file": "entries\\own_11_015.json",
+  "thesis_id": "11>15",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.75"
+  ],
+  "locators": 42
+ },
+ {
+  "file": "entries\\own_11_018.json",
+  "thesis_id": "11>18",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 41
+ },
+ {
+  "file": "entries\\own_11_020.json",
+  "thesis_id": "11>20",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.71"
+  ],
+  "locators": 36
+ },
+ {
+  "file": "entries\\own_11_028.json",
+  "thesis_id": "11>28",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.23"
+  ],
+  "locators": 37
+ },
+ {
+  "file": "entries\\own_11_035.json",
+  "thesis_id": "11>35",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.55"
+  ],
+  "locators": 39
+ },
+ {
+  "file": "entries\\own_11_036.json",
+  "thesis_id": "11>36",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.60"
+  ],
+  "locators": 39
+ },
+ {
+  "file": "entries\\own_11_046.json",
+  "thesis_id": "11>46",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.72"
+  ],
+  "locators": 40
+ },
+ {
+  "file": "entries\\own_11_048.json",
+  "thesis_id": "11>48",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 55
+ },
+ {
+  "file": "entries\\own_11_049.json",
+  "thesis_id": "11>49",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 40
+ },
+ {
+  "file": "entries\\own_11_051.json",
+  "thesis_id": "11>51",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.75"
+  ],
+  "locators": 40
+ },
+ {
+  "file": "entries\\own_3_055.json",
+  "thesis_id": "3>55",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.74"
+  ],
+  "locators": 37
+ },
+ {
+  "file": "entries\\own_5_019.json",
+  "thesis_id": "5>19",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.73"
+  ],
+  "locators": 39
+ },
+ {
+  "file": "entries\\own_7_005.json",
+  "thesis_id": "7>5",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.60"
+  ],
+  "locators": 35
+ },
+ {
+  "file": "entries\\own_7_006.json",
+  "thesis_id": "7>6",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.19"
+  ],
+  "locators": 33
+ },
+ {
+  "file": "entries\\own_8_006.json",
+  "thesis_id": "8>6",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.68"
+  ],
+  "locators": 38
+ },
+ {
+  "file": "entries\\own_8_007.json",
+  "thesis_id": "8>7",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.69"
+  ],
+  "locators": 44
+ },
+ {
+  "file": "entries\\own_9_018.json",
+  "thesis_id": "9>18",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 48
+ },
+ {
+  "file": "entries\\own_9_019.json",
+  "thesis_id": "9>19",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.70"
+  ],
+  "locators": 33
+ },
+ {
+  "file": "entries\\own_9_020.json",
+  "thesis_id": "9>20",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.47"
+  ],
+  "locators": 28
+ },
+ {
+  "file": "entries\\own_9_021.json",
+  "thesis_id": "9>21",
   "pass": true,
   "fails": [],
   "notes": [
    "translation/Farmer similarity 0.65"
   ],
-  "locators": 3
+  "locators": 34
+ },
+ {
+  "file": "entries\\own_9_022.json",
+  "thesis_id": "9>22",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.76"
+  ],
+  "locators": 45
+ },
+ {
+  "file": "entries\\own_9_023.json",
+  "thesis_id": "9>23",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.69"
+  ],
+  "locators": 41
+ },
+ {
+  "file": "entries\\own_9_024.json",
+  "thesis_id": "9>24",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 43
+ },
+ {
+  "file": "entries\\own_9_025.json",
+  "thesis_id": "9>25",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.58"
+  ],
+  "locators": 48
+ },
+ {
+  "file": "entries\\own_9_026.json",
+  "thesis_id": "9>26",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.79"
+  ],
+  "locators": 39
  }
 ]

@@ -1,8 +1,8 @@
-# Decisions Log — Pico900
+﻿# Decisions Log â€” Pico900
 
 All directional decisions recorded here with date, decider (C=Claude based on system judgment, T=Ted explicit), rationale, and what it rules out.
 
-## 2026-09-25 — Project Initiation (T)
+## 2026-09-25 â€” Project Initiation (T)
 
 **Decision**: Create Pico900 as a standalone static-site digital edition, separate from PicoDB research portal.
 
@@ -57,14 +57,14 @@ All directional decisions recorded here with date, decider (C=Claude based on sy
 
 ---
 
-## 2026-09-25 — Agentic Architecture Decisions (C)
+## 2026-09-25 â€” Agentic Architecture Decisions (C)
 
 **Decision**: Deterministic chunking over dynamic task-stealing for agent work distribution.
 
 **Rationale**: 
 - Workspace principle: "deterministic before LLM"
 - Pre-assign work by section/theme = reproducible, auditable, zero race conditions
-- Parallel agents (4–8) working on independent sections simultaneously
+- Parallel agents (4â€“8) working on independent sections simultaneously
 - Simpler checkpointing: per-section, not per-task
 - Rules out hermeticism: if an agent dies, we resume exactly where it left off
 
@@ -79,7 +79,7 @@ All directional decisions recorded here with date, decider (C=Claude based on sy
 **Rationale**: 
 - HARVESTER doesn't need STYLE_GUIDE or heretical essay plan
 - PORTER doesn't need megabase paths or critical edition URLs
-- Token efficiency: ~5–10k tokens per agent instead of ~50k if they all carried full project context
+- Token efficiency: ~5â€“10k tokens per agent instead of ~50k if they all carried full project context
 - Reduces hallucination and scope creep
 - Forces clear handover contracts between stages
 
@@ -98,9 +98,9 @@ Implementation:
 **Decision**: Phase gates with mandatory validation before stage progression.
 
 **Rationale**: 
-- Workspace rule: "verify before done" — output is only good if it's been checked
+- Workspace rule: "verify before done" â€” output is only good if it's been checked
 - Each phase produces an artifact; next phase receives only approved input
-- Prevents cascading errors (garbage in → garbage out)
+- Prevents cascading errors (garbage in â†’ garbage out)
 - Creates natural pause points for retrospectives and learnings
 
 **Rules out**: 
@@ -109,13 +109,13 @@ Implementation:
 
 Flow:
 ```
-HARVESTER → [output: stage_*.json]
-            ↓ [ORCHESTRATOR validates structure]
-         PORTER → [output: conclusions/[section]/*.json]
-                  ↓ [ORCHESTRATOR validates schema]
-               SYNTHESIZER → [output: enhanced conclusions + essay outline]
-                             ↓ [REVIEWER validates against STYLE_GUIDE]
-                          [APPROVED] → manifest update
+HARVESTER â†’ [output: stage_*.json]
+            â†“ [ORCHESTRATOR validates structure]
+         PORTER â†’ [output: conclusions/[section]/*.json]
+                  â†“ [ORCHESTRATOR validates schema]
+               SYNTHESIZER â†’ [output: enhanced conclusions + essay outline]
+                             â†“ [REVIEWER validates against STYLE_GUIDE]
+                          [APPROVED] â†’ manifest update
 ```
 
 ---
@@ -202,7 +202,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — System Documentation Structure (C)
+## 2026-09-25 â€” System Documentation Structure (C)
 
 **Decision**: Create modular system documentation with progressive context revelation.
 
@@ -214,7 +214,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - `docs/AGENT_SWARM_PATTERNS.md` (role definitions, handover protocols)
 - `docs/ORCHESTRATION.md` (NEW: agent lifecycle, gates, concurrency rules, phase structure)
 - `docs/CONTEXT_ARCHITECTURE.md` (NEW: what each agent receives; isolation boundaries)
-- `docs/HERETICAL_RESEARCH_PLAN.md` (NEW: Phase 0 specifics — Copenhaver + Dougherty deep dive)
+- `docs/HERETICAL_RESEARCH_PLAN.md` (NEW: Phase 0 specifics â€” Copenhaver + Dougherty deep dive)
 - `PHASE_0_RESEARCH_QUEUE.json` (NEW: work tickets for heretical essay research)
 
 **Rationale**: 
@@ -229,7 +229,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — Phase 0 Launch (C)
+## 2026-09-25 â€” Phase 0 Launch (C)
 
 **Decision**: Initiate Phase 0 (Heretical Essay Research) immediately as proof-of-concept for pipeline.
 
@@ -255,7 +255,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — Phase 1 Prioritization (T)
+## 2026-09-25 â€” Phase 1 Prioritization (T)
 
 **Decision**: Prioritize Neoplatonic (S1) and Arabic philosopher sections (S3, S4) for Phase 1 Wave 1.
 
@@ -270,11 +270,11 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - Starting with understudied sections (S8 on medieval Jewish philosophers)
 
 **Dispatch order for Phase 1**:
-1. Wave 1: S1 (Platonics), S3 (Averroes), S4 (Avicenna) — H2, H3, H4
-2. Wave 2: S2 (Aristotle), S5 (Zoroastrianism), S6 (Hermeticism) — H5, H6, H7
-3. Wave 3: S7 (Kabbalah) — H8 (strongest agent, due to source difficulty)
-4. Wave 4: S8 (Medieval Jewish) — H9
-5. Wave 5: S9 (Christian Theology) — H10
+1. Wave 1: S1 (Platonics), S3 (Averroes), S4 (Avicenna) â€” H2, H3, H4
+2. Wave 2: S2 (Aristotle), S5 (Zoroastrianism), S6 (Hermeticism) â€” H5, H6, H7
+3. Wave 3: S7 (Kabbalah) â€” H8 (strongest agent, due to source difficulty)
+4. Wave 4: S8 (Medieval Jewish) â€” H9
+5. Wave 5: S9 (Christian Theology) â€” H10
 
 **Implementation**:
 - Update PHASE_1_ROADMAP.md to reflect priority ordering
@@ -285,7 +285,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — Scope Expansion: Four-Text Digital Editions (T)
+## 2026-09-25 â€” Scope Expansion: Four-Text Digital Editions (T)
 
 **Decision**: Create parallel digital editions for *Oration*, *Commento*, *Heptaplus*, and *On Being and Unity* with facing-page Latin/English + angelology-focused commentary.
 
@@ -324,18 +324,18 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - **Phase 1-Alpha** (Four-Text Editions + Angelology): Parallel to Phase 1 main pipeline
   - Agents H2-A, H3-A, H4-A extract angelology from Oration, Commento, Heptaplus
   - Agents P2-A, P3-A, P4-A port angel-themed conclusions
-  - Agents S1-A–S4-A synthesize angelology exegeses across texts
+  - Agents S1-Aâ€“S4-A synthesize angelology exegeses across texts
   - Result: Four high-quality digital editions ready for delivery as standalone sites (or integrated into Pico900)
-- **Phase 1-B**: Main 900 Conclusions pipeline (continues with S1–S9 sections as originally planned)
+- **Phase 1-B**: Main 900 Conclusions pipeline (continues with S1â€“S9 sections as originally planned)
 
 **Token Budget**:
 - Phase 1-Alpha (Four-Text Editions): ~80k tokens (parallel harvesting + porting + synthesis)
 - Phase 1-B (900 Conclusions): ~100k tokens (now running parallel to 1-Alpha)
-- Total Phase 1: ~180k tokens (vs. 100k sequential) — parallelism costs extra communication, but delivers more value
+- Total Phase 1: ~180k tokens (vs. 100k sequential) â€” parallelism costs extra communication, but delivers more value
 
 ---
 
-## 2026-09-25 — Angelology as Lens for Heretical Essay (C)
+## 2026-09-25 â€” Angelology as Lens for Heretical Essay (C)
 
 **Decision**: Reframe heretical conclusions research around angelology framework.
 
@@ -356,7 +356,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-26 — Phase 1 Execution Decisions (C)
+## 2026-09-26 â€” Phase 1 Execution Decisions (C)
 
 **Decision**: Adopt content-first extraction methodology for all future HARVESTER agents.
 
@@ -401,9 +401,9 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 **Decision**: S7 citation-filling will proceed in parallel with S3 site build, not sequentially.
 
 **Rationale**:
-- S7 quotation-filling is 50–80 hour effort; blocks Phase 3 heretical essay Q5 drafting if sequential
+- S7 quotation-filling is 50â€“80 hour effort; blocks Phase 3 heretical essay Q5 drafting if sequential
 - Parallel execution (researcher + builder on independent tracks) avoids critical path blocking
-- Phase 2 completion timeline: week 4–5 (parallel) vs. week 8+ (sequential)
+- Phase 2 completion timeline: week 4â€“5 (parallel) vs. week 8+ (sequential)
 - Aligns with workspace principle: deliver working product early, add features iteratively
 
 **Rules out**:
@@ -411,11 +411,11 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - Deferring heretical essay Q5 drafting until after S7 completion
 
 **Implementation**:
-- Phase 2a (weeks 1–2): S3 site build (builder) + S7 Wirszubski citations (researcher, 20–30 hours)
-- Phase 2b (weeks 3–4): S7 Scholem + specialist citations (researcher, 30–50 hours) **IN PARALLEL WITH** final site integration
-- Phase 2c (week 4+): S1 content remediation (scholar, 50–60 hours) runs independently
-- Phase 2d (weeks 1–3): S2 extraction (HARVESTER agents) runs independently
-- Critical path: S7 citation-filling 100% → Phase 3 Q5 essay drafting can begin
+- Phase 2a (weeks 1â€“2): S3 site build (builder) + S7 Wirszubski citations (researcher, 20â€“30 hours)
+- Phase 2b (weeks 3â€“4): S7 Scholem + specialist citations (researcher, 30â€“50 hours) **IN PARALLEL WITH** final site integration
+- Phase 2c (week 4+): S1 content remediation (scholar, 50â€“60 hours) runs independently
+- Phase 2d (weeks 1â€“3): S2 extraction (HARVESTER agents) runs independently
+- Critical path: S7 citation-filling 100% â†’ Phase 3 Q5 essay drafting can begin
 
 ---
 
@@ -433,8 +433,8 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 **Implementation**:
 - HARV-CHECK validates after each HARVESTER completion:
-  - `conclusion_count_explicit` ≥ 25% of estimated range
-  - Average citations per entry ≥ 1
+  - `conclusion_count_explicit` â‰¥ 25% of estimated range
+  - Average citations per entry â‰¥ 1
   - Charge/defense sections are substantive (not placeholder text)
   - No more than 20% deferred as implicit/placeholder
 - If HARV-CHECK fails, alert and allow HARVESTER to revise before PORTER dispatch
@@ -464,7 +464,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
   }
   ```
 - Update completion_tracker at each gate (HARVESTER, HARV-CHECK, PORTER, REVIEWER)
-- Use for Phase 2 scheduling: sections with ≥90% completion move to site build; <50% stay in remediation
+- Use for Phase 2 scheduling: sections with â‰¥90% completion move to site build; <50% stay in remediation
 - Implementation timing: Phase 2a (manifest schema update before S2 dispatch)
 
 ---
@@ -474,14 +474,14 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 **Rationale**:
 - S3 site build (builder) doesn't depend on S7 citations (researcher)
 - S1 content remediation (scholar) doesn't depend on S2 extraction (HARVESTERs)
-- Parallel execution delivers Phase 2 completion by week 4–5 instead of week 8–10 (sequential)
+- Parallel execution delivers Phase 2 completion by week 4â€“5 instead of week 8â€“10 (sequential)
 - Maximizes throughput while avoiding work-in-progress bottlenecks
 
 **Tracks**:
 1. **S3 Site Build** (2 weeks, builder): HTML from 11 JSON entries + facing-page layout + search/filter + deployment
-2. **S7 Citation-Filling** (3–4 weeks, researcher): Wirszubski + Scholem + specialists for 118 entries (~50–80 hours)
-3. **S1 Content Remediation** (2–3 weeks, scholar): Latin/translation/charge-defense sourcing for 95 entries (~50–60 hours)
-4. **S2 Extraction** (2–3 weeks, HARVESTERs): Peripatetic conclusions from critical edition (content-first methodology)
+2. **S7 Citation-Filling** (3â€“4 weeks, researcher): Wirszubski + Scholem + specialists for 118 entries (~50â€“80 hours)
+3. **S1 Content Remediation** (2â€“3 weeks, scholar): Latin/translation/charge-defense sourcing for 95 entries (~50â€“60 hours)
+4. **S2 Extraction** (2â€“3 weeks, HARVESTERs): Peripatetic conclusions from critical edition (content-first methodology)
 
 **Rules out**:
 - Sequential execution of tracks
@@ -495,7 +495,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — Sources Tab Feature (C)
+## 2026-09-25 â€” Sources Tab Feature (C)
 
 **Decision**: Add a Sources tab with 87 major intellectual sources organized by tradition, filterable/sortable cards, and detail pages.
 
@@ -503,13 +503,13 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 - Pico900 is a digital edition + research portal
 - Visitors need context on what works Pico consulted
 - Organizing sources by tradition (Scholastic, Platonic, Aristotelian, Islamic, Kabbalistic, Patristic, Hermetic, Scientific) mirrors scholarly historiography
-- Each source card is 30–100 words (index card length) + clickable for detail
+- Each source card is 30â€“100 words (index card length) + clickable for detail
 - Detail pages show full source info, linked conclusions, scholars, and related sources
 - Parallel feature to Conclusions: both need navigation
 
 **Data Structure**:
-- `data/sources.json`: 8 traditions × 87 sources total
-- Each source has: name, work, dates, blurb (30–100 words), relevance tags, scholar citations, conclusions_linked count, priority (CORE/MAJOR/SECONDARY)
+- `data/sources.json`: 8 traditions Ã— 87 sources total
+- Each source has: name, work, dates, blurb (30â€“100 words), relevance tags, scholar citations, conclusions_linked count, priority (CORE/MAJOR/SECONDARY)
 - Priority reflects how foundational to Pico's thought (CORE = central, MAJOR = significant influence, SECONDARY = supplementary or later development)
 
 **Implementation**:
@@ -536,7 +536,7 @@ Phase 0 deliverable: **Heretical Essay Outline + Full Citation Map** (13 condemn
 
 ---
 
-## 2026-09-25 — Comprehensive PicoDB Integration into Pico900 (C)
+## 2026-09-25 â€” Comprehensive PicoDB Integration into Pico900 (C)
 
 **Decision**: Transform Pico900 from focused digital edition (3 tabs: Conclusions, Sources, About) into comprehensive research companion (7 tabs) by importing, curating, and academically refining PicoDB materials.
 
@@ -548,20 +548,20 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 - PicoDB infrastructure (94 scholarly documents, ~4.8M words, SQLite FTS5) reused and elevated
 
 **7-Tab Architecture**:
-1. **Conclusions** (existing) — 236 standardized conclusions with charges, defenses, citations
-2. **Sources** (existing) — 46 curated intellectual works Pico consulted
-3. **Scholars** (new, CURATED) — 15–20 major Pico scholars with profiles, works, debates
-4. **Bibliography** (new, EXHAUSTIVE) — 90+ entries (primary + secondary); searchable, sortable, exportable to BibTeX/CSV
-5. **Biography** (new) — Interactive timeline with 50+ verified life events, locations, people, evidence status
-6. **People** (new) — Figures in Pico's life (Savonarola, Ficino, Lorenzo de' Medici, Poliziano, etc.); bios, relationships, letters
-7. **Primary Texts** (new) — Facing-page Latin/English editions of Oration, Commento, Heptaplus, On Being and Unity (reuses Phase 1-Alpha angelology infrastructure)
-8. **About** (existing, expanded) — Project context, methodology, citation guidance, credits
+1. **Conclusions** (existing) â€” 236 standardized conclusions with charges, defenses, citations
+2. **Sources** (existing) â€” 46 curated intellectual works Pico consulted
+3. **Scholars** (new, CURATED) â€” 15â€“20 major Pico scholars with profiles, works, debates
+4. **Bibliography** (new, EXHAUSTIVE) â€” 90+ entries (primary + secondary); searchable, sortable, exportable to BibTeX/CSV
+5. **Biography** (new) â€” Interactive timeline with 50+ verified life events, locations, people, evidence status
+6. **People** (new) â€” Figures in Pico's life (Savonarola, Ficino, Lorenzo de' Medici, Poliziano, etc.); bios, relationships, letters
+7. **Primary Texts** (new) â€” Facing-page Latin/English editions of Oration, Commento, Heptaplus, On Being and Unity (reuses Phase 1-Alpha angelology infrastructure)
+8. **About** (existing, expanded) â€” Project context, methodology, citation guidance, credits
 
 **Data Sourcing**:
-- **Scholars**: Extract from PicoDB corpus analysis (top 15–20 by citation frequency in 94 documents)
+- **Scholars**: Extract from PicoDB corpus analysis (top 15â€“20 by citation frequency in 94 documents)
 - **Bibliography**: PicoDB `sources.json` (90+ entries) + corpus metadata; curate and enhance with summaries
 - **Biography**: PicoDB `pico_life_timeline.json` (100+ events) + `pico_locations.json` + network data; enhance with evidence status and source tracking
-- **People**: Extract from timeline events, letters, contemporary chronicles; write bios at 200–300 words each
+- **People**: Extract from timeline events, letters, contemporary chronicles; write bios at 200â€“300 words each
 - **Primary Texts**: Reuse critical editions from angelology research (Borghesi for Oration, Allen for Commento, Black for Heptaplus)
 
 **Writing Standards**:
@@ -575,7 +575,7 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 - Reuse PicoDB writing where solid; update and enhance with current scholarship (Copenhaver 2019, Howlett 2019, Edelheit 2022)
 
 **Curators & Decision Rules**:
-- **Scholars: Curated (15–20 only)**
+- **Scholars: Curated (15â€“20 only)**
   - Top tier (must-include): Copenhaver, Wirszubski, Howlett, Edelheit, Busi, Allen, Akopyan, Black, Farmer, Kristeller
   - Secondary tier (may include): Breen, Cassirer, Thompson, Rijser, Corazzol, Novak, etc.
   - Criterion: 2+ substantial works on Pico in PicoDB corpus + active contribution to Pico studies (within last 20 years for secondary-tier)
@@ -584,7 +584,7 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 - **Bibliography: Exhaustive (90+ entries)**
   - All primary Pico works (writings) with edition / translation information
   - All secondary scholarship in PicoDB corpus (94 documents, curated to exclude duplicates)
-  - Organized by: Author (A–Z) | Type (Primary/Secondary/Edition) | Topic (Kabbalah, Magic, Theology, Astrology, etc.) | Date (newest or oldest first)
+  - Organized by: Author (Aâ€“Z) | Type (Primary/Secondary/Edition) | Topic (Kabbalah, Magic, Theology, Astrology, etc.) | Date (newest or oldest first)
   - Export formats: Chicago, BibTeX, CSV
   
 - **Biography: 50+ Major Events (Verified/Likely/Uncertain/Placeholder)**
@@ -592,28 +592,28 @@ Pico900 becomes the canonical public-facing Pico research platform with:
   - Evidence status tracked (Verified via multiple sources; Likely via contemporary testimony; Uncertain via inference; Placeholder awaiting source work)
   - Locations and people linked; cross-events referenced
   
-- **People: 10–15 Major Figures**
+- **People: 10â€“15 Major Figures**
   - Criterion: Documented relationship with Pico (correspondence, contemporary accounts, later testimony) + historical significance in their own right
   - Must include: Savonarola, Ficino, Lorenzo de' Medici, Poliziano, Benivieni, Pico's family (father, uncle Giovan Francesco)
   - May include: Elector Anselm of Mainz (heresy prosecutor), Pope Innocent VIII, Loren the Magnificent's heirs
 
-**Implementation (4 Phases, ~4–5 weeks)**:
+**Implementation (4 Phases, ~4â€“5 weeks)**:
 
-**Phase 1: Data Extraction & Curation (Weeks 1–2)**
-- [ ] Extract top 15–20 scholars from PicoDB corpus; write profiles (100–150 words each + major works)
+**Phase 1: Data Extraction & Curation (Weeks 1â€“2)**
+- [ ] Extract top 15â€“20 scholars from PicoDB corpus; write profiles (100â€“150 words each + major works)
 - [ ] Organize bibliography from PicoDB sources.json; add summaries, topic tags, availability info
 - [ ] Enhance pico_life_timeline.json: add location mappings, people links, evidence status, source citations
-- [ ] Create people bios (200–300 words each) from timeline events, letters, contemporary chronicles
+- [ ] Create people bios (200â€“300 words each) from timeline events, letters, contemporary chronicles
 - [ ] Deliverables: `data/scholars.json`, `data/bibliography.json`, `data/biography.json`, `data/people.json`
 
-**Phase 2: Templates & Generation (Weeks 2–3)**
+**Phase 2: Templates & Generation (Weeks 2â€“3)**
 - [ ] Create HTML templates: scholars.html, scholar_detail.html, bibliography.html, biography.html (timeline), people.html, person_detail.html
 - [ ] Build page-generation scripts (build_scholars.py, build_bibliography.py, build_biography.py, build_people.py)
 - [ ] Implement filtering, sorting, search (client-side for landing pages; server-side for bibliography export)
-- [ ] Wire up internal links (scholars ↔ bibliography ↔ biography ↔ people)
+- [ ] Wire up internal links (scholars â†” bibliography â†” biography â†” people)
 - [ ] Create CSS for timeline, location maps, network graphs
 
-**Phase 3: Integration & Testing (Weeks 3–4)**
+**Phase 3: Integration & Testing (Weeks 3â€“4)**
 - [ ] Generate all pages from curated data
 - [ ] Test all filtering, sorting, search, links, exports
 - [ ] Verify scholar bios are accurate and academically sound (spot-check against Copenhaver, Howlett, etc.)
@@ -643,10 +643,10 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 - **Links from** Conclusions to relevant scholar profiles and bibliography entries
 
 **Success Criteria**:
-- [ ] All 15–20 scholar profiles complete and peer-review-ready
+- [ ] All 15â€“20 scholar profiles complete and peer-review-ready
 - [ ] Bibliography exhaustive (90+ entries) with search, filter, export functionality
 - [ ] Biography timeline interactive with 50+ verified events, locations, people
-- [ ] People tab with 10–15 figures, documented relationships, historical context
+- [ ] People tab with 10â€“15 figures, documented relationships, historical context
 - [ ] Primary Texts tab with facing-page Latin/English for 4 major works
 - [ ] No broken links; all internal cross-references working
 - [ ] Mobile-responsive design on all pages
@@ -656,7 +656,7 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 
 ---
 
-## 2026-09-25 — S7 Citation-Filling Complete (C)
+## 2026-09-25 â€” S7 Citation-Filling Complete (C)
 
 **Decision**: Execute systematic citation harvesting for S7 (Kabbalistic conclusions) to 100% completion as critical path blocker for Phase 3 heretical essay.
 
@@ -700,7 +700,7 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 
 ---
 
-## 2026-09-25 — Complete 900 Conclusions with Stubs, Translations, Commentary (C)
+## 2026-09-25 â€” Complete 900 Conclusions with Stubs, Translations, Commentary (C)
 
 **Decision**: Generate and populate all 929 conclusion entries (all 9 sections + Heretical) with complete stub structure, translation fields, and philosophical charge/defense pairs.
 
@@ -728,10 +728,10 @@ Pico900 becomes the canonical public-facing Pico research platform with:
    - Enables philosophical framing for all conclusions
 
 **Results**:
-- ✓ 929/929 conclusion entries exist (100% coverage)
-- ✓ 929/929 have translation fields (100% coverage)
-- ✓ 929/929 have charge/defense pairs (100% coverage)
-- ✓ 141/929 have scholar citations (15.2%, concentrated in S4, S7)
+- âœ“ 929/929 conclusion entries exist (100% coverage)
+- âœ“ 929/929 have translation fields (100% coverage)
+- âœ“ 929/929 have charge/defense pairs (100% coverage)
+- âœ“ 141/929 have scholar citations (15.2%, concentrated in S4, S7)
 
 **Quality Status**:
 - **Complete (High Quality)**: S7 Kabbalah (118 entries, full citations), Heretical (13 entries, full charges)
@@ -761,9 +761,9 @@ Pico900 becomes the canonical public-facing Pico research platform with:
 
 ## Next Decision Gates
 
-- **Phase 1 → Phase 2**: Data extraction complete; all 929 entries exist with stubs + translations + basic commentary (DONE 2026-09-25)
-- **Phase 2 → Phase 3**: Real translations harvested for 50%+ of entries; scholar citations populated for all sections; website building and testing
-- **Phase 3 → Phase 4**: All content academically reviewed; no broken links; mobile responsive; <1s page loads achieved
+- **Phase 1 â†’ Phase 2**: Data extraction complete; all 929 entries exist with stubs + translations + basic commentary (DONE 2026-09-25)
+- **Phase 2 â†’ Phase 3**: Real translations harvested for 50%+ of entries; scholar citations populated for all sections; website building and testing
+- **Phase 3 â†’ Phase 4**: All content academically reviewed; no broken links; mobile responsive; <1s page loads achieved
 - **Phase 4 Complete**: Deployed to GitHub Pages; live site tested; ready for public use
 - **Future enhancements**: Full-text search; timeline filtering; network graph visualization; critical edition text linking
 
@@ -878,7 +878,7 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
 
 - **D-23 PicoDB research companion integration** (`pico900_picodb_integration_plan.md`, ticket `T-SITE-05`).
   Pico900 integrates research assets from `C:\dev\PicoDB` (SQLite `pico.db`, `sources.json`, `pico_life_timeline.json`,
-  corpus catalog) to expand from 3 tabs to 7 tabs: Conclusions, Sources (46+ works), Scholars (15–20 curated profiles),
+  corpus catalog) to expand from 3 tabs to 7 tabs: Conclusions, Sources (46+ works), Scholars (15â€“20 curated profiles),
   Bibliography (90+ searchable/exportable works), Biography (interactive life timeline), Primary Texts (facing-page editions
   of Oration, Commento, Heptaplus, De ente), and About.
 
@@ -949,7 +949,7 @@ dead links. Evidence: `audit/`. Numbers: `COVERAGE.md`.
   from their partial state (one, LINK-A, had already saved 75 links before stopping) rather than restarted cold. Final measured
   state: 15 packets, 1,886 verified claims, 344 cross-scholar links across 4 files (25 disputes recorded), 616 claims with a
   current `supported` semantic verdict (up from ~400 at the last count), `claims_verify.py` `TOTAL needs_fix: 0`. A full pass
-  targeting every claim tagged `bears_on: ficino` (392 originally tagged) found roughly 90 unsupported or miskinded tags — mostly
+  targeting every claim tagged `bears_on: ficino` (392 originally tagged) found roughly 90 unsupported or miskinded tags â€” mostly
   a generic school ("the Platonists," "Renaissance Platonists," a shared tradition) read as naming Ficino specifically, or a
   stated parallel read as a stated source; final grounded count 290. This confirms D-30's measured overreach rate held for
   relationship tags specifically, at a similar order of magnitude (~23% of Ficino tags, vs. 7-27% of claims generally).
@@ -979,13 +979,13 @@ picked "D-28/D-29" for unrelated decisions written the same day; content unchang
 - **D-42 Research-stage material with embedded scholar excerpts stays local.** `research-packets/*.md` and
   `data/ontology/mentions/**/*.json` (the harvester's per-thesis dossiers) each carry hundreds of ~700-character
   `context` excerpts copied verbatim from in-copyright scholarship (Copenhaver, Wirszubski, Edelheit, and others),
-  gathered so a WRITER agent doesn't have to re-open the source book for every sentence. In aggregate — roughly 1,800
-  files, ~9.5 MB — this is a substantial reproduction of secondary sources and not "our digital edition"; it is
+  gathered so a WRITER agent doesn't have to re-open the source book for every sentence. In aggregate â€” roughly 1,800
+  files, ~9.5 MB â€” this is a substantial reproduction of secondary sources and not "our digital edition"; it is
   scratch working material, reproducible at will from `scripts/harvest_mentions.py` + `scripts/build_dossiers.py`
   against the local corpus. Untracked from git (`git rm --cached`) and added to `.gitignore`; kept on disk locally.
   What *is* pushed and is the edition itself: `entries/` (our own prose, with short attributed quotations, exactly
   the kind of quotation any published scholarly edition makes), `data/inventory/` (Pico's own Latin, the primary
-  text under edition — public domain, 1486), `data/ontology/theses.json`, `MENTION_STATS.md` and `stats.json`
+  text under edition â€” public domain, 1486), `data/ontology/theses.json`, `MENTION_STATS.md` and `stats.json`
   (aggregate counts and rankings, not excerpt text), `docs/`, `scripts/`, and the site itself. The claims layer's own
   quotations (`data/claims/**/*.claims.json`) were left tracked: each is a single short attributed quotation backing
   one atomic claim (ordinary scholarly citation practice), not a bulk excerpt dump like the two directories above;
@@ -1041,3 +1041,4 @@ picked "D-28/D-29" for unrelated decisions written the same day; content unchang
   relevance data; angelology/Ficino scholarship only analyzed to date, so broader coverage grows as other scholar packets are linked
   to theses). Script: `scripts/build_thesis_person_relevance.py` (deterministic, reproducible, metadata only). Unblocks T-REL-03
   (site reads relevance source) and T-SITE-06 (thesis cards with relevance bars).
+

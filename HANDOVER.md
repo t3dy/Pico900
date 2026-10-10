@@ -1,6 +1,30 @@
 # Handover: Pico900 (Updated 2026-10-10)
 
-## 2026-10-10 session 3 (current state)
+## 2026-10-10 session 4 (current state)
+
+**Tickets completed**: T-CLAIMS-01 (done), T-SYS-01 (done), T-SITE-08 unblocked (decision D-47).
+
+**Work in progress (agents running)**:
+- T-CLAIMS-03 VERIFIER agents: 5 parallel agents judging all 15 sample sheets (372 claims). 9 of 15 packets complete; 8 overreaches found and fixed so far across black2006-a/b/c and copenhaver2019-angels. Fixed claims have `revision` bumped so old hashes are stale. Remaining 6 packets: edelheit2008, edelheit2022, howlett2021, wallis1965-deente, wallis1965-heptaplus, wirszubski1989-angels.
+- T-ENT-03 continuation agent: verifying and promoting 39 remaining tier-A draft entries.
+
+**What shipped this session**:
+- `scripts/claims_verify.py` patched: sample-sheet generator now embeds `hash: \`xxxx\`` per claim (D-46); all 15 sample sheets regenerated.
+- `data/claims/angelology/{scores,relevance,open_questions,graph}.json` added (from claims_score.py run, unblocks T-ANG-01/T-FIC-01/T-CLAIMS-04).
+- `data/verification/claims/copenhaver2022-angels.verdicts.json` added.
+- `entries/_test_own_3_003.draft.json` removed.
+- DECISIONS.md: D-46 (sample sheet hash fix), D-47 (T-SITE-08 = GitHub Pages + Supabase).
+- Committed and pushed: commit `4ba5b5f`.
+
+**Ready for next session**:
+- Wait for remaining 6 T-CLAIMS-03 agents and T-ENT-03 agent; fix any further overreaches; run full `claims_verify.py` on all 15 packets.
+- Build and deploy updated site (39 newly promoted tier-A entries will lose draft badge).
+- T-SITE-08: Workbench Stage 2 using Supabase JS SDK — READY (decision recorded, no blocking deps).
+- T-LEGAL-01: force-push to remove quotation-bearing paths — **BLOCKED on Ted's approval**.
+
+---
+
+## 2026-10-10 session 3 (prior)
 
 **Tickets completed**: T-ENT-03 final tier-A batch (39 entries verified and promoted).
 

@@ -1,7 +1,7 @@
 {
  "packet": "edelheit2022",
  "file": "data\\claims\\angelology\\edelheit2022.claims.json",
- "verified_at": "2026-09-28T01:35:47+00:00",
+ "verified_at": "2026-10-10T22:43:45+00:00",
  "claims": [
   {
    "id": "edelheit2022:001",
@@ -1857,7 +1857,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:091",
@@ -1926,10 +1933,10 @@
    "warrants": [],
    "issues": [
     {
-     "code": "ungrounded_entity",
+     "code": "bears_on_ungrounded",
      "severity": "warn",
-     "where": "text",
-     "detail": "'Christ' occurs in the restatement but in none of the quotations"
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2496,6 +2503,12 @@
      "severity": "warn",
      "where": "text",
      "detail": "'Summa' occurs in the restatement but in none of the quotations"
+    },
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
     }
    ]
   },
@@ -2536,7 +2549,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:122",
@@ -2551,7 +2571,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:123",
@@ -2590,7 +2617,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:125",
@@ -2728,7 +2762,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:131",
@@ -2752,7 +2793,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:132",
@@ -2774,7 +2822,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:133",
@@ -2798,7 +2853,14 @@
    "warrants": [
     "verbatim"
    ],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   },
   {
    "id": "edelheit2022:134",
@@ -3397,7 +3459,14 @@
     }
    ],
    "warrants": [],
-   "issues": []
+   "issues": [
+    {
+     "code": "bears_on_ungrounded",
+     "severity": "warn",
+     "where": "bears_on",
+     "detail": "party 'trial-commission' is named in no quotation of this claim: the relationship tag is an inference, not evidence"
+    }
+   ]
   }
  ],
  "summary": {
@@ -3406,7 +3475,7 @@
   "needs_fix": 0,
   "quotes": 267,
   "quotes_verbatim": 267,
-  "warnings": 28,
+  "warnings": 38,
   "verified_rate": 1.0
  }
 }

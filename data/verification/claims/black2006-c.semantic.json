@@ -1,0 +1,131 @@
+{
+  "packet": "black2006-c",
+  "verifier": "SV-CLAIMS-03",
+  "date": "2026-10-10",
+  "judged": [
+    {
+      "id": "black2006-c:001",
+      "hash": "fc3705239b",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:006",
+      "hash": "3fffde960e",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:009",
+      "hash": "cfa409e09f",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:010",
+      "hash": "f4cd6c92f4",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:011",
+      "hash": "072448938a",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:012",
+      "hash": "24fd44f772",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:015",
+      "hash": "7e50b96fdc",
+      "verdict": "overreaches",
+      "reason": "The restatement adds 'from sense to conjunction with the first mind' as the endpoints of the six-stage ascent and 'the universal concept' as the highest knowledge the Aristotelians posit; neither phrase appears in any of the three provided quotations.",
+      "suggested_text": "Black says Pico reads Benivieni's canzone as a six-stage ascent and that Pico disagrees with many Aristotelians, especially Latin scholastics, who hold a certain state of knowledge to be the highest attainable by the soul while still joined to the body."
+    },
+    {
+      "id": "black2006-c:016",
+      "hash": "68f2e4d79b",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:028",
+      "hash": "16de946762",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:032",
+      "hash": "1b91b28fda",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:034",
+      "hash": "599d0894f2",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:051",
+      "hash": "641d8eaa10",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:052",
+      "hash": "dc6913ec7b",
+      "verdict": "overreaches",
+      "reason": "The restatement inserts the specific example 'a single term such as terra can do the work of many', which does not appear in any of the three provided quotations.",
+      "suggested_text": "Black holds that Moses applied the principle of mutual containment to his words, allowing the complex body of knowledge about man, the three worlds and their mutual connections to be encoded in a short text of merely a few sentences."
+    },
+    {
+      "id": "black2006-c:071",
+      "hash": "3e1a7eea2c",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:072",
+      "hash": "01b9c3f446",
+      "verdict": "overreaches",
+      "reason": "The restatement adds 'two on the links between man and the three worlds' as a stated element of the second proem's scheme; the quoted text mentions only one exposition for each of the three worlds, one for man, and a final sabbath exposition, without specifying two link expositions.",
+      "suggested_text": "Black describes the second proem's first explanation of the seven expositions: one for each of the three worlds, one for man as a fourth world, and a final exposition corresponding to the sabbath."
+    },
+    {
+      "id": "black2006-c:073",
+      "hash": "226c065376",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:074",
+      "hash": "1a2410eba6",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:089",
+      "hash": "ebb63c17fd",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:098",
+      "hash": "dac40f679c",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:102",
+      "hash": "198b2d10d7",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:104",
+      "hash": "26453821eb",
+      "verdict": "overreaches",
+      "reason": "The restatement adds 'it comments on the words in principio only in the last chapter, and then outside their literal temporal frame'; the quotation only establishes that the subject is cosmology rather than cosmogony, not the specific claim about in principio or the temporal frame.",
+      "suggested_text": "Black holds that the Heptaplus is separated from the literal sense: its subject is cosmology (the taxonomy of the cosmos) rather than cosmogony (the process by which the cosmos came into being), and Pico never discusses the Genesis narrative's events in relation to their own time."
+    },
+    {
+      "id": "black2006-c:110",
+      "hash": "de54a0d5ec",
+      "verdict": "supported"
+    },
+    {
+      "id": "black2006-c:116",
+      "hash": "bd58354e5d",
+      "verdict": "supported"
+    }
+  ],
+  "notes": "23 claims judged: 19 supported, 4 overreaches. Overreaches follow a consistent pattern: restatements add specific examples or structural details (015: 'from sense to conjunction with the first mind' and 'the universal concept'; 052: 'a single term such as terra'; 072: 'two on the links between man and the three worlds'; 104: 'in principio only in the last chapter, and then outside their literal temporal frame') that are not present in the provided quotations. All four require context checks before final disposition, but the quoted text as given does not support the added specifics."
+}
