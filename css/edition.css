@@ -1,0 +1,4 @@
+/* edition.css: supplementary styles for source and edition pages */
+.source-meta { font-size: 0.9em; color: #555; margin-bottom: 1em; }
+.source-blurb { margin-bottom: 1.5em; }
+.tradition-badge { display: inline-block; padding: 0.2em 0.6em; border-radius: 3px; font-size: 0.8em; background: #f0e8d8; color: #5a3e1b; margin-right: 0.4em; }
