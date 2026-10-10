@@ -1,0 +1,2675 @@
+{
+ "generated": "2026-10-10T22:28:48+00:00",
+ "weights": {
+  "_note": "Weights and cut-offs for claims_score.py. A design decision (DECISIONS.md, 2026-09-26), not ground truth: importance is a triage score for editorial attention and card prominence. Change a weight only with a DECISIONS.md entry; the scorer records the weights it used in every output file.",
+  "importance_weights": {
+   "centrality": 0.25,
+   "corroboration": 0.2,
+   "contestation": 0.15,
+   "warrant_strength": 0.15,
+   "reach": 0.1,
+   "frame_shift": 0.15
+  },
+  "warrant_weights": {
+   "primary_text": 1.0,
+   "scholar_evidence": 0.7,
+   "argument": 0.5,
+   "authority": 0.4,
+   "inference": 0.3,
+   "none": 0.2
+  },
+  "tiers": {
+   "primary": 0.15,
+   "secondary": 0.35,
+   "_note": "fractions of verified claims by rank; the rest are tertiary"
+  },
+  "reach_cap": 4,
+  "relevance_kind_weights": {
+   "quarrel": 1.0,
+   "trial": 1.0,
+   "correspondence": 0.8,
+   "source": 0.8,
+   "teaching": 0.7,
+   "patronage": 0.7,
+   "friendship": 0.6,
+   "reception": 0.5,
+   "other": 0.4
+  }
+ },
+ "open_questions": [
+  {
+   "claim": "borghesi2012:054",
+   "id": "q1",
+   "kind": "textual",
+   "text": "What Hebrew word Pico wrote at this point is not fixed by the printed tradition, since the princeps has a blank and the Basel editions supply a back-translation.",
+   "basis_quote": {
+    "text": "The princeps edition has a blank space where the Hebrew word should be",
+    "work": "borghesi2012",
+    "line": 783
+   },
+   "topics": [
+    "enoch-metatron"
+   ],
+   "parent_importance": 35.5,
+   "claimant": "Borghesi, Papio and Riva"
+  },
+  {
+   "claim": "wallis1965-heptaplus:059",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Which work Pico means by writing 'more fully elsewhere' is not named in the passage.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 35.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:106",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Miller quotes only six words of Ficino in translation and gives the reference as In Parmenidem II 1164; the Latin, its context and whether Ficino names Pico are not shown here.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 33.0,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:106",
+   "id": "q2",
+   "kind": "chronological",
+   "text": "Miller dates Pico's treatise to 1492 here but the volume's Biographical Note dates it 1491.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 33.0,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:012",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The chapter does not say which interpreters hold the Parmenides to teach a doctrine of the one; the author omits them by name.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "parent_importance": 32.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:036",
+   "id": "q1",
+   "kind": "scope",
+   "text": "'Some Platonists' are not named; whether Ficino, Plotinus or Proclus is meant is not stated in the text.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "parent_importance": 32.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:059",
+   "id": "q1",
+   "kind": "scope",
+   "text": "'Parisian theologians' are not identified individually; Aquinas is named elsewhere (ch. 4) but not here.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius",
+    "one-beyond-being"
+   ],
+   "parent_importance": 32.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:083",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico does not name the philosophers who denied that each princely substance heads a multitude.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances",
+    "oration-orders"
+   ],
+   "parent_importance": 32.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:013",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The persons whose commentaries are called arbitrary and forced are not named in the text, so the quotation does not identify the target.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 30.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:091",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "In the same chapter God conceived in himself is first the plenitude of existence and then one, whereas in the reversed sequence one is first; the text says these points remain full of many and great questions and does not reconcile the two sequences.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "parent_importance": 30.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:052",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Pico gives no argument here for the identity of nature of good and evil angels; the claim is asserted as a scriptural usage.",
+   "basis_quote": null,
+   "topics": [
+    "separate-substances",
+    "angel-location"
+   ],
+   "parent_importance": 30.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:092",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Pico does not say whether he adopts the theory that 'intellect' is unworthy of God, nor whom he means by those who hold it.",
+   "basis_quote": null,
+   "topics": [
+    "one-beyond-being",
+    "separate-substances"
+   ],
+   "parent_importance": 30.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:093",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The passage does not say what the act and the potency are in an angel; the relation to the essence and being distinction of the Third Exposition is not stated.",
+   "basis_quote": null,
+   "topics": [
+    "separate-substances",
+    "angel-location"
+   ],
+   "parent_importance": 30.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wirszubski1989-angels:049",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Wirszubski cannot tell from this text which Latin words are interpolations, because the italics are not preserved in this OCR; he says some words have no counterpart in the Hebrew manuscripts he has seen.",
+   "basis_quote": {
+    "text": "The italicized words are without counterpart in the Hebrew manuscripts I have seen.",
+    "work": "wirszubski1989",
+    "line": 11669
+   },
+   "topics": [
+    "agent-intellect",
+    "enoch-metatron"
+   ],
+   "parent_importance": 28.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wallis1965-deente:001",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The text names no individual Platonist behind the 'reasons of the Platonists' Lorenzo used; whether these were drawn from Ficino is not stated here.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 27.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:075",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The Third Exposition names the orders of only the third hierarchy; the assignment of the other six orders is not given in the passage.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders",
+    "oration-orders"
+   ],
+   "parent_importance": 27.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:129",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico names no supporters of the permutation method in this passage.",
+   "basis_quote": null,
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 27.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "black2006-b:106",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Black allows that the ideas likely remained in Pico's mind, so how much sefirotic structure lies behind the ten-fold scheme remains a matter of inference.",
+   "basis_quote": {
+    "text": "It seems likely that these ideas remained in his mind during the writing of the Heptaplus",
+    "work": "black2006",
+    "line": 8343
+   },
+   "topics": [
+    "three-worlds",
+    "kabbalistic-sources",
+    "dionysian-hebrew-orders"
+   ],
+   "parent_importance": 25.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "wirszubski1989-angels:063",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico read Isaac of Acre's Me'irat 'Eynayim is unknown: Wirszubski says it is not in the catalogue of Pico's library, though it is named in Delmedigo's letter to Pico, and that it is unknown and likely to remain so whether Pico ever saw it.",
+   "basis_quote": {
+    "text": "It is unknown, and likely to remain so, whether Pico ever set his eyes on the Me'irat 'Eynayim.",
+    "work": "wirszubski1989",
+    "line": 12562
+   },
+   "topics": [
+    "three-worlds",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 25.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:068",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Wirszubski gives the ban on the Conclusiones as the reason Kabbala is avoided in the Heptaplus, but the passages he quotes do not themselves say so; the reason is his inference.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysian-hebrew-orders"
+   ],
+   "parent_importance": 25.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:123",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Wirszubski leaves open how the Zohar's kiss symbolism reached Pico if not directly.",
+   "basis_quote": {
+    "text": "the balance of probabilities at the present stage of research does not encourage the hypothesis of Pico's direct acquaintance with the Zohar",
+    "work": "wirszubski1989",
+    "line": 12752
+   },
+   "topics": [
+    "death-of-the-kiss",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 25.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wallis1965-deente:007",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The Academy is not identified by any author's name in this chapter.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:042",
+   "id": "q1",
+   "kind": "scope",
+   "text": "This is one of two passages on angels in chapters 5 to 10; angelic knowledge is used only as an example of imperfection within a genus and no angelic order or hierarchy is described.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:043",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The second of only two passages on angels in chapters 5 to 10; the chapter says nothing about angelic orders, the hierarchy of Dionysius or the Hebrew names.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:056",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The Peripatetics who hold that God is body or soul of the heavens are not named in the text.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:070",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The translators' notes for this chapter do not identify the passage of Jamblichus.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:008",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The proem defers any use of the Hebrew authorities; how far the Heptaplus later draws on them is left for the reader to check against the text.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-structure",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:026",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether 'angelic mind' here names a faculty of the human soul distinct from 'reason' is not explained in this passage.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds",
+    "separate-substances"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:100",
+   "id": "q1",
+   "kind": "textual",
+   "text": "The second proem calls man 'a fourth world'; the Fifth Exposition says he is 'not so much a fourth world' as their bond; the source states both without reconciling them.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds",
+    "separate-substances"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:104",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The text does not say whether 'participation in the angelic mind' means sharing an intellect or a capacity for angelic knowing.",
+   "basis_quote": null,
+   "topics": [
+    "separate-substances",
+    "three-worlds"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:122",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The Seventh Exposition again assigns 'heaven' and 'earth' to new referents (angels and men); the source reads the same words differently in each exposition, as the second proem announces.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "separate-substances"
+   ],
+   "parent_importance": 25.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "howlett2021:078",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the Ein-Sof is above being (nought) or indeterminate being is left open in the discussion that follows.",
+   "basis_quote": {
+    "text": "If the Ein-Sof is indeterminate being, for example, we could argue that this nought is not God either",
+    "work": "howlett2021",
+    "line": 4430
+   },
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 23.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-heptaplus:027",
+   "id": "q1",
+   "kind": "textual",
+   "text": "The proem lists the angelic world first, but the contents give the elemental world first and the angelic third; the source states both orders and does not reconcile them.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "parent_importance": 22.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:037",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico cites Simeon without a passage; an editorial note in the source points to the Zohar (I, 16a) at the parallel place, but the gate does not allow that note as a claim.",
+   "basis_quote": null,
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 22.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:089",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Pico does not name the recent philosophers or state the controversy, and defers the point.",
+   "basis_quote": null,
+   "topics": [
+    "agent-intellect"
+   ],
+   "parent_importance": 22.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "copenhaver2019-angels:021",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Copenhaver locates Metatron within the Seraphic fire yet has Pallas govern the Cherubic order; the passage does not explain how the two placements fit.",
+   "basis_quote": null,
+   "topics": [
+    "enoch-metatron",
+    "oration-orders",
+    "agent-intellect"
+   ],
+   "parent_importance": 22.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2022-angels:036",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether John of Damascus learned perichoresis from Dionysius is put as a possibility ('may have learned').",
+   "basis_quote": {
+    "text": "He may have learned about perichôrêsis from another monk",
+    "work": "copenhaver2022",
+    "line": 5359
+   },
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "parent_importance": 20.5,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "howlett2021:113",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Which aspect of God (Ein-Sof or Keter) Pico refers to at a given point.",
+   "basis_quote": {
+    "text": "The problem is understanding which he is referring to and when.",
+    "work": "howlett2021",
+    "line": 6471
+   },
+   "topics": [
+    "one-beyond-being",
+    "de-ente",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 20.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:126",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The note says Pico used Ficino's translation for that passage; it does not say whether he used it throughout the treatise.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 20.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wirszubski1989-angels:039",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How opus Cabalae would be used with the Curetes or the potestates of Dionysius is put by Wirszubski as unknown.",
+   "basis_quote": {
+    "text": "Goodness only knows how one might employ opus Cabalae",
+    "work": "wirszubski1989",
+    "line": 10017
+   },
+   "topics": [
+    "dionysian-hebrew-orders",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 20.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wallis1965-deente:025",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The 'opponents' who make Dionysius a patron of the one-above-being view are not named.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "parent_importance": 20.0,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "copenhaver2019-angels:097",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Which Hebrew word stood in the blank of T2K10 (Metatron or Hokmah) is disputed; Ebgi and Wirszubski differ.",
+   "basis_quote": {
+    "text": "Ebgi 2014, 215–225, prefers Hokmah, S2, following a commentary by Francesco Zorzi",
+    "work": "copenhaver2019",
+    "line": 23808
+   },
+   "topics": [
+    "enoch-metatron",
+    "agent-intellect"
+   ],
+   "parent_importance": 19.5,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2022-angels:014",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Pico's own motive for the shift from Hell to angels is not stated by him; Copenhaver calls the motives 'easy to imagine'.",
+   "basis_quote": {
+    "text": "whose motives—prophylactic and practical—are easy to imagine",
+    "work": "copenhaver2022",
+    "line": 1876
+   },
+   "topics": [
+    "angel-location",
+    "separate-substances"
+   ],
+   "parent_importance": 19.5,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "wallis1965-deente:100",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Miller gives no evidence that Lorenzo drew on Ficino, only that the tradition was the same.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 19.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "black2006-c:111",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the Heptaplus's discretion reflects the trial or a syncretist aim is left open by Black.",
+   "basis_quote": {
+    "text": "It is also possible, however, that Pico’s desire was to ﬁnd the common ground in competing epistemological models rather than to decide between them.",
+    "work": "black2006",
+    "line": 12351
+   },
+   "topics": [
+    "knowledge-felicity",
+    "reception-critics"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "borghesi2012:071",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico consciously overlaid the sefirot on the Dionysian ranks is put forward as a suggestion, not established.",
+   "basis_quote": {
+    "text": "It has been suggested (Farmer 1998, 346–51) that Pico consciously overlaid the cabalistic sefirot",
+    "work": "borghesi2012",
+    "line": 1173
+   },
+   "topics": [
+    "dionysian-hebrew-orders",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Borghesi, Papio and Riva"
+  },
+  {
+   "claim": "copenhaver2019-angels:050",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico deliberately concealed angel-magic while advertising natural magic is posed as a question, answered only that the magic theses 'suggest so'.",
+   "basis_quote": {
+    "text": "Did Pico want to advertise natural magic while keeping quiet about angel-magic?",
+    "work": "copenhaver2019",
+    "line": 17362
+   },
+   "topics": [
+    "oration-orders",
+    "enoch-metatron"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "howlett2021:124",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the One that Pico's De ente treats is Keter or the Ein-Sof.",
+   "basis_quote": {
+    "text": "Is it Keter or the Ein-Sof?",
+    "work": "howlett2021",
+    "line": 6581
+   },
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "ficino-dispute"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:132",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether De ente's two arguments contradict or represent two aspects of God.",
+   "basis_quote": {
+    "text": "His second argument apparently contradicts his first",
+    "work": "howlett2021",
+    "line": 6642
+   },
+   "topics": [
+    "de-ente",
+    "one-beyond-being"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:105",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Miller does not name in this sentence the commentary he calls partial; the context points to the Proclus commentary described just before.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wirszubski1989-angels:029",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Wirszubski says he does not know in what context puer was used by the interpreters of Zoroaster.",
+   "basis_quote": {
+    "text": "I do not know in what context puer was used by the interpreters of Zoroaster's sayings.",
+    "work": "wirszubski1989",
+    "line": 9847
+   },
+   "topics": [
+    "enoch-metatron",
+    "agent-intellect"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:036",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Whether the Hebrew phrase printed in the Opera Omnia stands for angelus divinitatis is put by Wirszubski as a possibility ('may well be'), not settled.",
+   "basis_quote": {
+    "text": "may well be a translation of angelus divinitatis",
+    "work": "wirszubski1989",
+    "line": 10271
+   },
+   "topics": [
+    "enoch-metatron",
+    "oration-orders"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:047",
+   "id": "q1",
+   "kind": "textual",
+   "text": "The OCR does not preserve which words in the Latin passage are italicized as interpolations, so it is not clear from this text whether the identification of the archangel with the Agent Intellect or Mattatron in this passage is Abulafia's or the translator's; Wirszubski's footnote in Appendix 13 says the italicized words there have no Hebrew counterpart.",
+   "basis_quote": null,
+   "topics": [
+    "enoch-metatron",
+    "agent-intellect",
+    "dionysian-hebrew-orders"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:064",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico's direct source for the analogical form of the three worlds is left unidentified.",
+   "basis_quote": {
+    "text": "At the present state of research it is impossible to pinpoint Pico's direct source.",
+    "work": "wirszubski1989",
+    "line": 12621
+   },
+   "topics": [
+    "three-worlds",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:095",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Wirszubski's own Appendix 17 assigns only the analogical motif of the three worlds to a Kabbalistic source and the monadological motif to Proclus, which is narrower than Kristeller's summary of the doctrine as of Kabbalistic origin.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "parent_importance": 18.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wallis1965-deente:003",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The proem does not say what Poliziano answered to Lorenzo, so which arguments of the treatise are Poliziano's and which Pico's cannot be told from the text.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:071",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The author declines to treat the dispute on the affirmative or negative unity of prime matter, calling it well known.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:083",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The author omits, as not the place to discuss everything, whether something is called good absolutely and being absolutely for the same reason.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-deente:085",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The believers in two principles of good and evil are not named.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:019",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico names no text for the attribution to Anaxagoras beyond the Pythagoreans and Platonists who expound him.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:047",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Pico leaves undecided whether the empyrean, which he compares to the unity presiding over the nine spheres, is corporeal.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "wallis1965-heptaplus:079",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Pico calls the contemplative hierarchy the third here, although in chapter 3 he counts it the first; the source uses both orders without comment.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world"
+   ],
+   "parent_importance": 17.5,
+   "claimant": "Pico"
+  },
+  {
+   "claim": "edelheit2008:027",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Ficino's sermon passage lies behind the Oration's opening is offered only as a possibility",
+   "basis_quote": {
+    "text": "This passage might be an important source",
+    "work": "edelheit2008",
+    "line": 8148
+   },
+   "topics": [
+    "oration-orders",
+    "ficino-dispute"
+   ],
+   "parent_importance": 17.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:094",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Whether Conclusion 28>2 shows Pico altering the Dionysian nine to ten, or keeping Dionysian and Hebrew orders distinct; other packets address this.",
+   "basis_quote": null,
+   "topics": [
+    "dionysian-hebrew-orders",
+    "heptaplus-angelic-world"
+   ],
+   "parent_importance": 16.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "black2006-a:067",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Hierotheus existed is doubted.",
+   "basis_quote": {
+    "text": "the existence of this person has been doubted",
+    "work": "black2006",
+    "line": 2049
+   },
+   "topics": [
+    "heptaplus-angelic-world",
+    "dionysius-transmission"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "edelheit2008:094",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico's reading was original, as Klibansky held, or Ficino the more original, as Allen concludes",
+   "basis_quote": {
+    "text": "Allen does not relate Pico’s position to the Academic and non-dogmatic school",
+    "work": "edelheit2008",
+    "line": 18057
+   },
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:206",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the soul cleaves to the Ein-Sof (Idel) or to Keter (Howlett).",
+   "basis_quote": {
+    "text": "I see no evidence of this in Pico.",
+    "work": "howlett2021",
+    "line": 8873
+   },
+   "topics": [
+    "kabbalistic-sources",
+    "one-beyond-being",
+    "agent-intellect"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:101",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Miller's statement that Pico follows the Neoplatonic interpretation stands beside his account (below) that Pico argues the Parmenides is a dialectical exercise and denies an absolute one above being; how the two fit is not spelled out at this point.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute",
+    "one-beyond-being"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:108",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Miller does not say in which respects Pico's interpretation differs from Ficino's beyond the Parmenides discussion.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wirszubski1989-angels:050",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Who interpolated the closing part of the Metatron passage in the De Secretis Legis is undetermined; the Sitrey Torah survives in more than twenty-five manuscripts, few critically examined.",
+   "basis_quote": {
+    "text": "He might be; but it cannot be proved",
+    "work": "wirszubski1989",
+    "line": 11762
+   },
+   "topics": [
+    "enoch-metatron",
+    "agent-intellect"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:074",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico read any of the Zohar depends on derivation of the Zohar-reflecting theses from quotations in known translations; Wirszubski poses it as conditional here, and later says the sources of some theses are Zohar quotations in Recanati.",
+   "basis_quote": {
+    "text": "If, however, those theses cannot be derived from quotations in the known translations, then the conclusion that Pico read the Zohar, or parts of it, is inevitable",
+    "work": "wirszubski1989",
+    "line": 1211
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:084",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "It is uncertain who gave in over the terms of the Chaldean lessons.",
+   "basis_quote": {
+    "text": "it remains uncertain who gave in: Pico or Mithridates",
+    "work": "wirszubski1989",
+    "line": 3860
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:090",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Wirszubski leaves open that Nahmanides may yet prove to have been a direct source.",
+   "basis_quote": {
+    "text": "The possibility that this might yet prove to be the case need not be denied.",
+    "work": "wirszubski1989",
+    "line": 10795
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:125",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "What Alemanno taught Pico and when their association began is unknown.",
+   "basis_quote": {
+    "text": "it remains unknown what it was that Johanan taught Pico",
+    "work": "wirszubski1989",
+    "line": 12867
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:126",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "The Commento's date (1486) rests on the consensus of learned opinion; Wirszubski says the chronology of Pico's writings is not always as certain as one might wish.",
+   "basis_quote": {
+    "text": "the chronology of Pico's writings is not always as certain as one might wish",
+    "work": "wirszubski1989",
+    "line": 12915
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 15.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "allen2017-other:065",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Ficino's anti-Averroism was driven by the resemblance of Averroes's unitary intellect to Plotinus's nous is offered as a hypothesis only.",
+   "basis_quote": {
+    "text": "and this is perhaps a psychological, or even a mono-psychological hypothesis",
+    "work": "allen2017",
+    "line": 9903
+   },
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-other:067",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "Allen calls Dionysius Proclus's 'sixth century' disciple here but 'late fifth century' elsewhere in the volume.",
+   "basis_quote": {
+    "text": "Proclus’ great sixth century disciple, Dionysius the Pseudo-Areopagite",
+    "work": "allen2017",
+    "line": 9930
+   },
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-other:083",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "Allen gives Dionysius's date as late fifth- or early sixth-century here, sixth-century elsewhere, and late fifth-century in other essays.",
+   "basis_quote": {
+    "text": "later exposed as a late fifth- or early sixth-century follower of Proclus",
+    "work": "allen2017",
+    "line": 478
+   },
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "copenhaver2019-angels:055",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico actually learned that Metatron is the Messiah, El Shaddai and the Shekinah is posed only as a condition.",
+   "basis_quote": {
+    "text": "If Pico learned from Jews that Metatron is the Messiah, El Shaddai, and the Shekinah",
+    "work": "copenhaver2019",
+    "line": 18215
+   },
+   "topics": [
+    "enoch-metatron",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2019-angels:099",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The glossary calls the knot of primary minds 'the highest angels' whereas the chapter has the Cherub tie the knot; the two are not reconciled in the glossary.",
+   "basis_quote": {
+    "text": "the “knot of primary minds”—the highest angels",
+    "work": "copenhaver2019",
+    "line": 21291
+   },
+   "topics": [
+    "enoch-metatron",
+    "oration-orders"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "dougherty2008:013",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "What the higher intellect is, God or a related mind, is left open by Pico's own phrasing.",
+   "basis_quote": {
+    "text": "He is less definite, though, about what this higher intellect is",
+    "work": "dougherty2008",
+    "line": 9241
+   },
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Carl N. Still"
+  },
+  {
+   "claim": "dougherty2008:045",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "What changed Pico's attitude to astrology; the sources are lacking.",
+   "basis_quote": {
+    "text": "What made Pico change his attitude toward astrology? Again, we lack the sources and must speculate.",
+    "work": "dougherty2008",
+    "line": 8744
+   },
+   "topics": [
+    "ficino-dispute",
+    "reception-critics"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Sheila J. Rabin"
+  },
+  {
+   "claim": "edelheit2022:045",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico's denial that God is essence in the responses can be reconciled with the argument of the treatise that being is denied of God because existence and essence are one in Him.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "reception-critics",
+    "one-beyond-being"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "edelheit2022:058",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the characterisation of Pseudo-Dionysius as developing a substantial concept of evil agrees with Gianfrancesco's appeal to Dionysius for evil as nothing without a subject.",
+   "basis_quote": null,
+   "topics": [
+    "dionysian-hebrew-orders",
+    "de-ente"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "edelheit2022:077",
+   "id": "q1",
+   "kind": "scope",
+   "text": "Whether and where Pico pushes Thomas beyond his context against Ockham.",
+   "basis_quote": {
+    "text": "This point deserves further research.",
+    "work": "edelheit2022",
+    "line": 13047
+   },
+   "topics": [
+    "aquinas-dionysius",
+    "reception-critics"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "edelheit2022:132",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How Garsia reconciles the common way as Thomas's view with acceptable views that are Scotist and Nominalist.",
+   "basis_quote": {
+    "text": "One could then ask about the third view, which was ascribed to the Thomistic school (Thomistarum schola)",
+    "work": "edelheit2022",
+    "line": 20083
+   },
+   "topics": [
+    "angel-location",
+    "reception-critics",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:082",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether there are two Ones (outside creation and within) or a nought above the One and many.",
+   "basis_quote": {
+    "text": "Are there two Ones? (One outside of creation and One within). Is unity as nought above the One and the many?",
+    "work": "howlett2021",
+    "line": 5451
+   },
+   "topics": [
+    "one-beyond-being",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:090",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "The passage says 'the fourteenth century' but dates the Traversari translation to 1436, a fifteenth-century year.",
+   "basis_quote": {
+    "text": "In the fourteenth century he became even more popular though Ambrogio Traversari’s 1436 translation.",
+    "work": "howlett2021",
+    "line": 5306
+   },
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:199",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether cherubim represent the celestial world and seraphim the angelic mind in Pico's triad.",
+   "basis_quote": {
+    "text": "cherubim could be representing the celestial world, as opposed to seraphim that represent the angelic mind",
+    "work": "howlett2021",
+    "line": 8732
+   },
+   "topics": [
+    "oration-orders",
+    "ficino-dispute",
+    "commento-angelic-mind"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:220",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Resolves the order queried elsewhere in this packet: the Oration's Dionysian sequence is purge, illuminate, perfect.",
+   "basis_quote": null,
+   "topics": [
+    "dionysius-transmission",
+    "oration-orders"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wirszubski1989-angels:056",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Wirszubski says that Azriel's treatise On Faith and Heresy, which Reuchlin read, is not among the extant Latin translations owned by Pico, and that similarity between Reuchlin's definition and Pico's thirty-fifth thesis does not prove Pico read it.",
+   "basis_quote": {
+    "text": "Azriel's treatise On Faith and Heresy, which Reuchlin read, does not appear among the extant Latin translations owned by Pico.",
+    "work": "wirszubski1989",
+    "line": 12008
+   },
+   "topics": [
+    "one-beyond-being",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:079",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "Which theses in each set were written first and last is not known, and Wirszubski says the second set may have begun before the first was complete.",
+   "basis_quote": {
+    "text": "We do not know, it is true, which theses in each set were written first and which last.",
+    "work": "wirszubski1989",
+    "line": 3472
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:106",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Mithridates translated a chance collection or a selection, and who selected it, cannot be established for want of conclusive evidence.",
+   "basis_quote": {
+    "text": "It is not known, nor can it be established for want of conclusive evidence, whether Mithridates translated a chance collection of Kabbalistic books, or books selected for translation",
+    "work": "wirszubski1989",
+    "line": 760
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:122",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The extent and authorship of Christianizing interpolation in the texts Pico read cannot be established, given incomplete preservation of the translations.",
+   "basis_quote": {
+    "text": "Nor is it possible, in view of the incomplete preservation of the translations, to establish the extent of Christianizing interpolation in the texts that Pico read.",
+    "work": "wirszubski1989",
+    "line": 5726
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:131",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Which words in the Latin quotation of Nahmanides, including the phrase about angels of the holy celestial order, are the italicized interpolations is not visible in this OCR.",
+   "basis_quote": null,
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 13.0,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "howlett2021:071",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "The note does not date the Perugia conversations in the quotation.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "parent_importance": 11.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "allen2017-other:025",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico depends directly on Ficino's account of man in the Oration is not settled.",
+   "basis_quote": {
+    "text": "whether directly dependent or not on Ficino’s",
+    "work": "allen2017",
+    "line": 1313,
+    "locator_corrected_from": 0
+   },
+   "topics": [
+    "oration-orders",
+    "ficino-dispute"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:029",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico's simplification of the Timaeus's Demiurge is oversight or deliberate is left open.",
+   "basis_quote": {
+    "text": "Again either Pico is being precipitate and not acknowledging the complexity of the problems or else he is choosing radically to simplify them.",
+    "work": "allen2017",
+    "line": 6112
+   },
+   "topics": [
+    "commento-angelic-mind",
+    "ficino-dispute"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "black2006-b:054",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether any part of Alemanno's treatise reached Pico is left open.",
+   "basis_quote": {
+    "text": "dissemination (whether written or oral) of some parts of it cannot be discounted.",
+    "work": "black2006",
+    "line": 6994
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-b:061",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Black reports that Wirszubski identified an italicised phrase in the Latin as an interpolation, and the OCR does not show which phrase, so it is unclear whether the angels clause belongs to Nahmanides or to Mithridates.",
+   "basis_quote": {
+    "text": "The italicized phrase was identified by Wirszubski as an interpolation.",
+    "work": "black2006",
+    "line": 7341
+   },
+   "topics": [
+    "kabbalistic-sources",
+    "dionysian-hebrew-orders"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:009",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "How Pico would have argued the intellect conclusions is unknown because the Apologia does not defend them.",
+   "basis_quote": {
+    "text": "we do not know how he would have argued them",
+    "work": "black2006",
+    "line": 10054
+   },
+   "topics": [
+    "agent-intellect",
+    "angel-location"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "borghesi2012:065",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "What Pico means by the celestial that is to be spurned is not settled.",
+   "basis_quote": {
+    "text": "Pico's reference might be to the astronomical-astrological knowledge of the heavens",
+    "work": "borghesi2012",
+    "line": 1078
+   },
+   "topics": [
+    "oration-orders"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Borghesi, Papio and Riva"
+  },
+  {
+   "claim": "dougherty2008:027",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The scholarly expertise of the commission's members and their interaction at the curia are unidentified.",
+   "basis_quote": {
+    "text": "Further interpretation of the commission and its motivation would depend on identifying the scholarly expertise of its members and their interaction at the papal curia.",
+    "work": "dougherty2008",
+    "line": 2150
+   },
+   "topics": [
+    "reception-critics"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Paul Richard Blum"
+  },
+  {
+   "claim": "edelheit2008:092",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Which late ancient sources Pico actually knew for the non-dogmatic reading of the Parmenides has yet to be checked",
+   "basis_quote": {
+    "text": "How far Pico knew these sources should be checked",
+    "work": "edelheit2008",
+    "line": 18012
+   },
+   "topics": [
+    "de-ente",
+    "one-beyond-being",
+    "dionysius-transmission"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:039",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Ficino's commentary was written before or after De ente is stated with a hedge.",
+   "basis_quote": null,
+   "topics": [
+    "ficino-dispute",
+    "de-ente"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:059",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the Disputations attack on astrology is consistent, or edited by Gianfrancesco.",
+   "basis_quote": {
+    "text": "It is unclear whether he is inconsistent in his views",
+    "work": "howlett2021",
+    "line": 3227
+   },
+   "topics": [
+    "other",
+    "ficino-dispute"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:093",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "What henosis is in Kabbalism and the role of Keter and the Ein-Sof.",
+   "basis_quote": {
+    "text": "it is unclear what henosis would be in Kabbalism and what is the role of Keter or the Ein-Sof",
+    "work": "howlett2021",
+    "line": 5331
+   },
+   "topics": [
+    "dionysius-transmission",
+    "one-beyond-being",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:173",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the divine presence resides only in the angelic mind or extends to all worlds.",
+   "basis_quote": {
+    "text": "Does the divine presence only reside in the angelic mind, or does it truly extend to all worlds?",
+    "work": "howlett2021",
+    "line": 7515
+   },
+   "topics": [
+    "one-beyond-being",
+    "commento-angelic-mind",
+    "de-ente"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:216",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How a hidden God, the unmoved mover and the Plotinian One are to be brought together.",
+   "basis_quote": {
+    "text": "How do we bring together the ‘hidden God’ of apophatic theology and Kabbalism",
+    "work": "howlett2021",
+    "line": 9715
+   },
+   "topics": [
+    "one-beyond-being",
+    "de-ente",
+    "dionysius-transmission"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:111",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Miller gives no reference for Gian Francesco's report.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:137",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The note only compares Helias Cretensis's Quaestio de ente, essentia et uno; it does not say Pico used it.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wirszubski1989-angels:003",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Wirszubski does not say whether Pico chose or noticed the coincidence of nine Hebrew and nine Dionysian hierarchies; he only records it in parentheses.",
+   "basis_quote": null,
+   "topics": [
+    "dionysian-hebrew-orders"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:017",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "When the first four theses of the second Kabbalistic set were written relative to the rest is left as a possibility, not established.",
+   "basis_quote": {
+    "text": "we ought to reckon with the possibility that the first four theses were added at a time when the other theses, or most of them, had already been written in a haphazard way",
+    "work": "wirszubski1989",
+    "line": 7724
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:028",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "The precise modus operandi of operari in cabala sine admixtione extranei is left unidentified.",
+   "basis_quote": {
+    "text": "although the precise modus operandi of pure Kabbala eludes identification",
+    "work": "wirszubski1989",
+    "line": 8160
+   },
+   "topics": [
+    "death-of-the-kiss"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:044",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Wirszubski says he is not sure what the copyist's statement about Rabbi Zerakhia means, so the author's identity rests on internal evidence.",
+   "basis_quote": {
+    "text": "For textual reasons which I cannot discuss here, I am not sure whether Rabbi Zerakhia's verses appeared at the beginning of the manuscript from which the first ten leaves of the Leipzig manuscript were copied",
+    "work": "wirszubski1989",
+    "line": 4598
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:066",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Wirszubski does not discuss whether Pico's attribution of the 'all in all' opinion to Anaxagoras derives from Proclus, Cusanus or another source; he says only that Proclus lies behind the passage.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "wirszubski1989-angels:099",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "When, where, how, and through whom Pico first met Kabbala is not known.",
+   "basis_quote": {
+    "text": "we still do not know for certain when, where, how, or through whom he made his first acquaintance with Kabbala",
+    "work": "wirszubski1989",
+    "line": 367
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 10.5,
+   "claimant": "Chaim Wirszubski"
+  },
+  {
+   "claim": "allen2017-venus:040",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Allen holds the Commento's distribution of potency and act across Mind's three functions incoherent; the source reading may differ.",
+   "basis_quote": {
+    "text": "But this distribution becomes untenable if we introduce his identifications of potency with matter and act with form.",
+    "work": "allen2017",
+    "line": 6190
+   },
+   "topics": [
+    "commento-angelic-mind",
+    "separate-substances"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:082",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Allen does not reconcile this with the Commento's definition of beauty as friendly enmity and his citing of Empedocles on love and strife.",
+   "basis_quote": {
+    "text": "But such an Empedoclean vision seems to be foreign to Pico, perhaps because it is too dualisdc.",
+    "work": "allen2017",
+    "line": 6488
+   },
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:093",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Allen elsewhere says Pico wants a separate fourth world for man; how these two statements fit is not stated.",
+   "basis_quote": {
+    "text": "man is not even a fourth world but",
+    "work": "allen2017",
+    "line": 6607
+   },
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "black2006-a:015",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Pico's position on most of the theses is unknown because the debate did not occur.",
+   "basis_quote": {
+    "text": "we do not know what position Pico would have taken on most of them, because the debate never took place",
+    "work": "black2006",
+    "line": 588,
+    "page": null,
+    "page_basis": null
+   },
+   "topics": [
+    "reception-critics"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:028",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "What Delmedigo wrote in Latin for Pico on the intellect is unrecoverable from the extant Hebrew versions.",
+   "basis_quote": {
+    "text": "We cannot, therefore, use the Hebrew versions of the treatises on the intellect as a sure guide to what Delmedigo originally wrote for Pico.",
+    "work": "black2006",
+    "line": 863
+   },
+   "topics": [
+    "separate-substances",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:041",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Why Pico's association with Mithridates ended is unknown.",
+   "basis_quote": {
+    "text": "for reasons that remain unclear",
+    "work": "black2006",
+    "line": 1105
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-b:102",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico had access to Ibn Tibbon's text is left open.",
+   "basis_quote": {
+    "text": "Whether or not Pico had access to this text is unclear.",
+    "work": "black2006",
+    "line": 8295
+   },
+   "topics": [
+    "three-worlds",
+    "separate-substances"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:023",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The direct source of Pico's attribution to Maimonides and Abubacher is unidentified.",
+   "basis_quote": {
+    "text": "I have not found the direct source for Pico’s citation of these authors.",
+    "work": "black2006",
+    "line": 10452
+   },
+   "topics": [
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:024",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico used the composite De perfectione naturalis intellectus is uncertain, since no Latin author before Achillini and Nifo is known to cite it.",
+   "basis_quote": {
+    "text": "malgré de nombreuses recherches, nous n’avons pas trouvé une seule citation ou utilisation du Traité sur la béatitude de l’âme chez des auteurs latins avant Achillini et Nifo",
+    "work": "black2006",
+    "line": 10447
+   },
+   "topics": [
+    "agent-intellect",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:034",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Black calls the reference to Averroist unicity in Heptaplus 4.4 veiled and says the most likely interpretation is that it concerns the philosophi iuniores.",
+   "basis_quote": null,
+   "topics": [
+    "knowledge-felicity",
+    "reception-critics"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "copenhaver2019-angels:032",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico used Batalyawsi is left open by the word 'perhaps'.",
+   "basis_quote": {
+    "text": "More useful to Pico, perhaps, was a Book of Imaginary Circles",
+    "work": "copenhaver2019",
+    "line": 15587
+   },
+   "topics": [
+    "oration-orders",
+    "agent-intellect"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2019-angels:045",
+   "id": "q1",
+   "kind": "textual",
+   "text": "The quotation about the mid-day light is cited to a source in Copenhaver's note 43 (not read here); it is not clear from the passage alone whether the words are Augustine's or Pico's paraphrase.",
+   "basis_quote": null,
+   "topics": [
+    "oration-orders",
+    "dionysius-transmission"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2019-angels:058",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "What the Oration means by a finished metaphysics of angelic forms is left open by Copenhaver.",
+   "basis_quote": {
+    "text": "But who can say? Pico’s terse clues are hard to follow.",
+    "work": "copenhaver2019",
+    "line": 18085
+   },
+   "topics": [
+    "oration-orders",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "copenhaver2019-angels:064",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico knew Abu Ma'shar's identification of Idris with Enoch and Hermes is left open.",
+   "basis_quote": {
+    "text": "Maybe Pico knew that Abu Ma’shar had identified the Koranic Idris",
+    "work": "copenhaver2019",
+    "line": 17257
+   },
+   "topics": [
+    "enoch-metatron",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "dougherty2008:044",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico had set aside his Kabbalistic studies by the time of the Disputations.",
+   "basis_quote": {
+    "text": "Had Pico rejected Kabbalah by the time he wrote the Disputations? Had it ceased to exert an influence on him?",
+    "work": "dougherty2008",
+    "line": 8708
+   },
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sheila J. Rabin"
+  },
+  {
+   "claim": "dougherty2008:058",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico's apologetic use of Kabbalah is compatible with valuing the sources themselves.",
+   "basis_quote": {
+    "text": "there is some disagreement on the tenor of Pico’s views regarding the sources themselves",
+    "work": "dougherty2008",
+    "line": 6587
+   },
+   "topics": [
+    "kabbalistic-sources",
+    "reception-critics"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "M. V. Dougherty"
+  },
+  {
+   "claim": "edelheit2008:103",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico connected his concord of Plato and Aristotle with the Academic position remains doubtful",
+   "basis_quote": {
+    "text": "it is doubtful whether he saw in it an Academic skeptical position",
+    "work": "edelheit2008",
+    "line": 18205
+   },
+   "topics": [
+    "ficino-dispute",
+    "de-ente"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:013",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Howlett assumes rather than shows Pico's unawareness of the Platonism already inside Dionysius.",
+   "basis_quote": null,
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:064",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How the causal/participatory distinction operates in De ente is not developed at this point.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "separate-substances"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:069",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Pico's concord may not be identity of doctrine; the note qualifies the main text's reading.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:141",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How emanation and creation cohere in Pico's cosmos.",
+   "basis_quote": {
+    "text": "But the result is confusing.",
+    "work": "howlett2021",
+    "line": 6759
+   },
+   "topics": [
+    "three-worlds",
+    "one-beyond-being"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:142",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the Heptaplus worlds are emanated or created directly; Howlett's main text treats the universe as both.",
+   "basis_quote": null,
+   "topics": [
+    "three-worlds",
+    "heptaplus-structure"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:182",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico's intellect is active, passive, or activated by the divine active intellect.",
+   "basis_quote": {
+    "text": "We could also argue a third way.",
+    "work": "howlett2021",
+    "line": 8225
+   },
+   "topics": [
+    "agent-intellect",
+    "separate-substances"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:200",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Later (l. 8791) Howlett lists the Dionysian triplex via as cleansing, illumination, perfection; the two orderings differ.",
+   "basis_quote": {
+    "text": "cleansing, then illumination (through contemplation) and afterward perfection",
+    "work": "howlett2021",
+    "line": 8791
+   },
+   "topics": [
+    "dionysius-transmission",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:112",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Miller gives no source or list for the count of forty-five.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "aquinas-dionysius"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:129",
+   "id": "q1",
+   "kind": "scope",
+   "text": "The note cites Plotinus for the claim about the first hypothesis; the text of the treatise does not itself name Plotinus.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente",
+    "ficino-dispute"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-heptaplus:153",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The note says no source is given for the saying attributed to the Saracens.",
+   "basis_quote": null,
+   "topics": [
+    "heptaplus-angelic-world",
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 8.0,
+   "claimant": "the translators"
+  },
+  {
+   "claim": "allen2017-other:072",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "Allen calls the Neoplatonist Dionysius sixth-century here and in the Saturn essay, but 'late fifth century' in the Kristeller and heresy essays.",
+   "basis_quote": {
+    "text": "the sixth century Neoplatonist Dionysius",
+    "work": "allen2017",
+    "line": 9207
+   },
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:015",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether Pico intends the first or the second death for Orpheus is left open.",
+   "basis_quote": {
+    "text": "But has he really thought the situation through?",
+    "work": "allen2017",
+    "line": 5992
+   },
+   "topics": [
+    "death-of-the-kiss"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:046",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How the Neoplatonic emanatory system can describe Mind before it holds the Ideas.",
+   "basis_quote": {
+    "text": "But it underscores a real and enduring problem in the Neoplatonic emanatory system",
+    "work": "allen2017",
+    "line": 6230
+   },
+   "topics": [
+    "commento-angelic-mind"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:065",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "How Saturn as castrator and Saturn as the sea of unformed substance are to be reconciled is left unresolved by Pico, on Allen's reading.",
+   "basis_quote": {
+    "text": "But Pico avoids reconciling the notion of Saturn as castrator with the notion of Saturn as himself the foam-flecked sea",
+    "work": "allen2017",
+    "line": 6372
+   },
+   "topics": [
+    "commento-angelic-mind"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "allen2017-venus:108",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Whether the banquet sentence in Commento 2.13 is an error or a considered thesis is disputed between Allen's reading and Jayne's note; Allen reports Jayne's judgement without adopting it.",
+   "basis_quote": {
+    "text": "This sentence is clearly a mistake.",
+    "work": "allen2017",
+    "line": 6788
+   },
+   "topics": [
+    "commento-angelic-mind"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Michael J. B. Allen"
+  },
+  {
+   "claim": "black2006-a:033",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Delmedigo sent Pico a Recanati volume, and which one, is undetermined.",
+   "basis_quote": {
+    "text": "We cannot, for this reason, be sure that Delmedigo ever sent this book",
+    "work": "black2006",
+    "line": 966
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:043",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico knew Alemanno's Genesis commentary is unattested.",
+   "basis_quote": {
+    "text": "we have no evidence that Pico read (or had read to him) the Einei ha-edah",
+    "work": "black2006",
+    "line": 1120
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:046",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Which untranslated Hebrew books Pico used is unclear.",
+   "basis_quote": {
+    "text": "Although this much is clear, the details recede into obscurity.",
+    "work": "black2006",
+    "line": 1182
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:082",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Who the unnamed recent philosophers were is not stated here.",
+   "basis_quote": {
+    "text": "certain unnamed 'recent philosophers'",
+    "work": "black2006",
+    "line": 2241
+   },
+   "topics": [
+    "agent-intellect"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:118",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Which Theodore Pico means is unresolved.",
+   "basis_quote": {
+    "text": "Which of these two authors this name refers to, then, must remain an open question",
+    "work": "black2006",
+    "line": 4078
+   },
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:119",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Identity of Severus and Josephus and whether the catena informed Pico's exegesis are unsettled.",
+   "basis_quote": {
+    "text": "These questions must remain unanswered",
+    "work": "black2006",
+    "line": 4133
+   },
+   "topics": [
+    "heptaplus-structure"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-a:125",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "How far Pico read Nahmanides directly is unsettled.",
+   "basis_quote": {
+    "text": "it is not yet clear to what extent Pico actually read Nahmanides",
+    "work": "black2006",
+    "line": 4290
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-b:009",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Who Pico's opponents in the first proem are is not identified.",
+   "basis_quote": {
+    "text": "a group of unidentified opponents",
+    "work": "black2006",
+    "line": 5125
+   },
+   "topics": [
+    "reception-critics"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-b:036",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Pico knew Valla's doubts about Dionysius is left open.",
+   "basis_quote": {
+    "text": "it is unclear whether Pico came across them.",
+    "work": "black2006",
+    "line": 6608
+   },
+   "topics": [
+    "dionysius-transmission"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:066",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The form in which Pico read Recanati's text is unknown because the manuscript is lost.",
+   "basis_quote": {
+    "text": "We cannot, therefore, know precisely the form in which he read it.",
+    "work": "black2006",
+    "line": 11524
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:068",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Why Pico left the sefirotic framework of the Conclusiones is unexplained.",
+   "basis_quote": {
+    "text": "must remain a matter for speculation",
+    "work": "black2006",
+    "line": 11555
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "black2006-c:092",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether Nahmanides's introduction influenced Pico is undecided; Black calls it a matter of speculation.",
+   "basis_quote": {
+    "text": "The status of this extract as an inﬂuence on Pico must remain a matter of speculation.",
+    "work": "black2006",
+    "line": 12071
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Crofton Black"
+  },
+  {
+   "claim": "borghesi2012:053",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Which Enoch text or texts Pico knew is not settled.",
+   "basis_quote": {
+    "text": "Pico more likely elaborates on a complex, and apocryphal, textual tradition",
+    "work": "borghesi2012",
+    "line": 771
+   },
+   "topics": [
+    "enoch-metatron"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Borghesi, Papio and Riva"
+  },
+  {
+   "claim": "copenhaver2022-angels:041",
+   "id": "q1",
+   "kind": "textual",
+   "text": "Who corrupted the Q4 text (Pico's copyist or the printer's shop) is left as a likelihood; Copenhaver says the text 'could have been corrupted in this way or some other way'.",
+   "basis_quote": {
+    "text": "The text of Q4 could have been corrupted in this way or some other way either before or after it went to the printer",
+    "work": "copenhaver2022",
+    "line": 5673
+   },
+   "topics": [
+    "separate-substances"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Brian P. Copenhaver"
+  },
+  {
+   "claim": "dougherty2008:015",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "In what sense a particular rational soul can be immortal if its intellectual part is fused with the whole separate intellect.",
+   "basis_quote": {
+    "text": "it remains very unclear in what sense a particular rational soul can be immortal",
+    "work": "dougherty2008",
+    "line": 9361
+   },
+   "topics": [
+    "agent-intellect"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Carl N. Still"
+  },
+  {
+   "claim": "dougherty2008:036",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Whether the Heptaplus has Cabalistic interests, and whether Pico's interest in Cabala persisted to his death.",
+   "basis_quote": {
+    "text": "Di Napoli is eager to absolve the Heptaplus from Cabalistic interests",
+    "work": "dougherty2008",
+    "line": 3121
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Paul Richard Blum"
+  },
+  {
+   "claim": "edelheit2022:112",
+   "id": "q1",
+   "kind": "interpretive",
+   "text": "Why a standard Aristotelian account of taste is attributed to Giles in the theses.",
+   "basis_quote": {
+    "text": "It is difficult to understand then why such a standard Aristotelian account is attributed by Pico to Giles",
+    "work": "edelheit2022",
+    "line": 16756
+   },
+   "topics": [
+    "reception-critics"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Amos Edelheit"
+  },
+  {
+   "claim": "howlett2021:002",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Whether De ente belonged to a larger concord project is inferred, not documented.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:100",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "Extent of influence of sources not read through Flavius's translations is unclear to date.",
+   "basis_quote": {
+    "text": "The extent of the influence of other scholars or texts not read through Flavius’ translation is unclear to date",
+    "work": "howlett2021",
+    "line": 5274
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "howlett2021:104",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "Date of the Pico-Alemanno collaboration.",
+   "basis_quote": {
+    "text": "whether before Pico’s Rome adventure or simply after is unclear",
+    "work": "howlett2021",
+    "line": 5171
+   },
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Sophia Howlett"
+  },
+  {
+   "claim": "wallis1965-deente:122",
+   "id": "q1",
+   "kind": "chronological",
+   "text": "The Biographical Note dates On Being and the One to 1491 while the Introduction (l. 687) speaks of 1492 as the year of Pico's treatise and Ficino's commentary on the Parmenides; the volume does not reconcile them.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "the translators"
+  },
+  {
+   "claim": "wallis1965-deente:135",
+   "id": "q1",
+   "kind": "textual",
+   "text": "The editors do not identify the Psalm reference for the verse quoted according to the Hebrew text.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-deente:136",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "No note in this chapter identifies the Jamblichus passage that Pico cites.",
+   "basis_quote": null,
+   "topics": [
+    "de-ente"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "Paul J. W. Miller"
+  },
+  {
+   "claim": "wallis1965-heptaplus:136",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The note leaves the identity of Eleazar open, and Garin's identifications are suggestions.",
+   "basis_quote": null,
+   "topics": [
+    "kabbalistic-sources"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "the translators"
+  },
+  {
+   "claim": "wallis1965-heptaplus:152",
+   "id": "q1",
+   "kind": "evidence_gap",
+   "text": "The note says the source of the Chaldean saying is not given by Pico.",
+   "basis_quote": null,
+   "topics": [
+    "other"
+   ],
+   "parent_importance": 5.5,
+   "claimant": "the translators"
+  }
+ ]
+}

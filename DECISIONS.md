@@ -1027,6 +1027,10 @@ picked "D-28/D-29" for unrelated decisions written the same day; content unchang
   git alone; the packets exist only on this machine and in the private backup, so keep it. Essays quote scholars in short
   attributed passages, as scholarship does; those are the edition's own prose and may be committed.
 
+## 2026-10-10: T-CLAIMS-03 sample sheets now embed claim hashes
+
+- **D-46 (C, 2026-10-10): `claims_verify.py` sample-sheet generator patched to embed each claim's `chash()` value inline (`hash: \`xxxxxxxxxx\`` line below the claim heading).** The semantic verifier brief says "copy the hash from the sheet exactly" but the generator (line 337) never wrote hashes; agents had no hash to copy and could not reconstruct it without running `chash()` themselves. Fix: `scripts/claims_verify.py` line 337 now writes the hash. All 15 sample sheets regenerated (still all needs_fix 0). T-CLAIMS-03 VERIFIER agents can now produce valid `.semantic.json` files.
+
 ## 2026-09-28 (window-3bc261ff, late): T-REL-02 thesis x person relevance computed
 
 - **D-45 T-REL-02: Thesis x person relevance computed from mention harvest and verified claims.** Input: `data/network/persons.json`

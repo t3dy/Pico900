@@ -334,7 +334,7 @@ def main():
             fh.write("# Semantic sample for %s\n\nFor each claim: does `text` say no more than the quotations support? Answer supported / overreaches / wrong, with one line of reason.\n\n" % base)
             for cid in sorted(take):
                 c = byid[cid]
-                fh.write("## %s (%s, %s)\n\n**Restatement:** %s\n\n" % (cid, c["claimant"], c["hedge"], c["text"]))
+                fh.write("## %s (%s, %s)\n\nhash: `%s`\n\n**Restatement:** %s\n\n" % (cid, c["claimant"], c["hedge"], chash(c), c["text"]))
                 for q in c["quotes"]:
                     fh.write("> %s\n> (%s:%s)\n\n" % (q["text"], q["work"], q["line"]))
                 for w in c.get("warrants") or []:
