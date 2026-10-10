@@ -1,4 +1,18 @@
-# Handover: Pico900 (Updated 2026-09-26 — Multi-Window State & Agentic Recovery Guide)
+# Handover: Pico900 (Updated 2026-10-10)
+
+## 2026-10-10 (current state)
+
+**Tickets completed this session**: T-SITE-03, T-SITE-07, T-SITE-09.
+
+**What shipped**: `relations.js` (trail breadcrumbs, mini-card Relations tab, compare overlay, thesis × person matrix), `workbench.js` (per-claim notes, named lenses, collection tray). `cards.js` got a `dispatch()` function so extension scripts can intercept card-open events via `window.PCApp.openCard`. `build_cards.py` copies both scripts and `thesis_person_relevance.json` to `site/cards/`. Predeploy gate passes (0 problems, 1899 pages). Deployed to `gh-pages` (both `main` and `gh-pages` pushed).
+
+**Verification (T-SITE-09)**: driven against https://t3dy.github.io/Pico900/cards/ — two facets, sort, search, trail, notes, collection persistence, narrow-screen all pass. See `VERIFIED.md` for the record. Not driven: keyboard tab order, greyscale colour check, compare overlay on live.
+
+**Ready next**: T-SITE-08 (Workbench Stage 2 — server storage, accounts, sharing) requires a hosting decision (Vercel + auth provider) — record decision in DECISIONS.md before starting. T-ENT-03 (VERIFIER swarm on 833 draft entries) is still blocked by the entry gate failures.
+
+---
+
+# Handover: Pico900 (2026-09-26 — Multi-Window State & Agentic Recovery Guide)
 
 Read `CLAUDE.md` first, then `PROMPTS.md` (source of truth for Ted's intent) and `TICKETS.md`.
 This handover synthesizes the state across all Claude Code windows (`window-8857d983`, `window-3bc261ff`, `window-a08fd9b0`, `window-2f4b7fcd`) following session limit interruptions, and provides an immediate operational guide for incoming agentic coding assistants.
