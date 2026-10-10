@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.18",
+ "tier": "B",
+ "latin": "Sicut paternalis proprietas est solum in intelligibilibus, ita conditoria siue factiua solum in deis nouis; paterna simul et conditoria in exemplari intelligibili; conditoria et paterna in opifici.",
+ "latin_source": "farmer1998:16171",
+ "latin_note": "Latin as in the packet with run-together or artefact spellings normalised: 'conditoriain' to 'conditoria in'; 'conditoriaet' to 'conditoria et'.",
+ "translation": "As the paternal property exists solely among the intelligibles, so the property of founding or making exists solely among the new gods; the paternal and the founding together are in the intelligible exemplar; the founding and the paternal are in the maker.",
+ "translation_note": "OCR/print run-ons 'conditoriain' and 'conditoriaet' split as 'conditoria in', 'conditoria et' (farmer1998:16172-16173). 'in opifici' is printed thus (1486 apparatus: 'paterna inopificia', farmer1998:16188), a case-form problem in the print; the sense 'in the maker (opifex)' is taken. Farmer says the punctuation of the early editions is corrupt and that he reconstructed the sense (farmer1998:16204); the rendering follows the Latin as printed in the packet, so the division of clauses is uncertain. Sense checked against farmer1998:16230.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16230; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

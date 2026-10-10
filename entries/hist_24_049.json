@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.49",
+ "tier": "B",
+ "latin": "Prima trinitas manet tantum, secunda manet et procedit, tertia post processum conuertit.",
+ "latin_source": "farmer1998:16710",
+ "translation": "The first triad only remains; the second remains and goes forth; the third, once it has gone forth, turns back.",
+ "translation_note": "The three verbs are the Proclean remaining, procession and reversion ('manet, procedit, conuertit'). No further crux.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16768; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

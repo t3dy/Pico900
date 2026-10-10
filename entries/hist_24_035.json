@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.35",
+ "tier": "B",
+ "latin": "Dei de quibus in Phedro in quatuor trinitates sunt distinguendi: Opificatiuam, Custoditiuam, Vitalem, et Conuersiuam.",
+ "latin_source": "farmer1998:16487",
+ "latin_note": "Latin as in the packet with run-together or artefact spellings normalised: 'Phedro_in' to 'Phedro in'.",
+ "translation": "The gods of whom the Phaedrus speaks are to be divided into four trinities: the fashioning, the guardian, the vital and the converting.",
+ "translation_note": "Underscore in 'Phedro_in' (farmer1998:16487) treated as an OCR artefact and replaced by a space. 'Opificatiuam' rendered 'fashioning' (from opifex, maker); the colon is retained from the 1486 edition (farmer1998:16502). Sense checked against farmer1998:16546.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16546; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

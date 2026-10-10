@@ -1,0 +1,15 @@
+{
+ "thesis_id": "8>3",
+ "tier": "C",
+ "latin": "Quod dicunt interpretes super dictum secundum Zoroastris, de duplici aere, aqua, et terra, nihil aliud sibi uult nisi quodlibet elementum quod potest diuidi per purum et impurum habere habitatores rationales et irrationales; quod uero purum est tantum, rationales tantum.",
+ "latin_source": "farmer1998:24826",
+ "latin_note": "The sheet's OCR text joined 'rationales' and 'et' as 'rationales_et'; restored as two words. No other correction needed.",
+ "translation": "When the interpreters comment on Zoroaster's second saying, about the twofold air, water and earth, they mean only this: any element that can be divided into pure and impure has both rational and irrational dwellers, whereas an element that is wholly pure has rational dwellers alone.",
+ "translation_note": "Sense checked against farmer1998:24883; no divergence.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T09b; sense checked against farmer1998:24883; awaiting human check; re-rendered 2026-09-27 by TRANSLATOR-FIX (D-13)",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 8>, on the understanding of Zoroaster and his Chaldean expositors)",
+ "writer": "TRANSLATOR-T09b, 2026-09-26",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

@@ -1,0 +1,6319 @@
+{
+ "run_date": "2026-10-10",
+ "verifier": "verify_latin_locators.py v1",
+ "summary": {
+  "pass": 840,
+  "fail": 0,
+  "skip_tier_a": 61,
+  "promoted": 840
+ },
+ "results": [
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\_test_own_3_003.draft.json",
+   "thesis_id": "3>3",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20325"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_001.draft.json",
+   "thesis_id": "1.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:10925"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_002.draft.json",
+   "thesis_id": "1.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:10929"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_003.draft.json",
+   "thesis_id": "1.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:10933"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_004.draft.json",
+   "thesis_id": "1.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11028"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_005.draft.json",
+   "thesis_id": "1.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.80) at farmer1998:11035; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_006.draft.json",
+   "thesis_id": "1.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11040"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_007.draft.json",
+   "thesis_id": "1.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11044"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_008.draft.json",
+   "thesis_id": "1.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11047"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_009.draft.json",
+   "thesis_id": "1.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:11050"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_010.draft.json",
+   "thesis_id": "1.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11053"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_011.draft.json",
+   "thesis_id": "1.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11141"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_012.draft.json",
+   "thesis_id": "1.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11145"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_013.draft.json",
+   "thesis_id": "1.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11149"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_014.draft.json",
+   "thesis_id": "1.14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11153"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_015.draft.json",
+   "thesis_id": "1.15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11156"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_01_016.draft.json",
+   "thesis_id": "1.16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11159"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_001.draft.json",
+   "thesis_id": "2.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11243"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_002.draft.json",
+   "thesis_id": "2.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11312"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_003.draft.json",
+   "thesis_id": "2.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11315"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_004.draft.json",
+   "thesis_id": "2.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11318"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_005.draft.json",
+   "thesis_id": "2.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11321"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_006.draft.json",
+   "thesis_id": "2.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11324"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_007.draft.json",
+   "thesis_id": "2.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11328"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_008.draft.json",
+   "thesis_id": "2.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11331"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_009.draft.json",
+   "thesis_id": "2.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11334"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_010.draft.json",
+   "thesis_id": "2.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11412"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_011.draft.json",
+   "thesis_id": "2.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11415"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_012.draft.json",
+   "thesis_id": "2.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11419"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_013.draft.json",
+   "thesis_id": "2.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11426"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_014.draft.json",
+   "thesis_id": "2.14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11430"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_015.draft.json",
+   "thesis_id": "2.15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11433"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_016.draft.json",
+   "thesis_id": "2.16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11525"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_017.draft.json",
+   "thesis_id": "2.17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11530"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_018.draft.json",
+   "thesis_id": "2.18",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11534"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_019.draft.json",
+   "thesis_id": "2.19",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11537"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_020.draft.json",
+   "thesis_id": "2.20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11540"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_021.draft.json",
+   "thesis_id": "2.21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11543"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_022.draft.json",
+   "thesis_id": "2.22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11546"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_023.draft.json",
+   "thesis_id": "2.23",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11647"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_024.draft.json",
+   "thesis_id": "2.24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11650"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_025.draft.json",
+   "thesis_id": "2.25",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11653"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_026.draft.json",
+   "thesis_id": "2.26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11656"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_027.draft.json",
+   "thesis_id": "2.27",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11659"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_028.draft.json",
+   "thesis_id": "2.28",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11662"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_029.draft.json",
+   "thesis_id": "2.29",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11665"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_030.draft.json",
+   "thesis_id": "2.30",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11668"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_031.draft.json",
+   "thesis_id": "2.31",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11760"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_032.draft.json",
+   "thesis_id": "2.32",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11763"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_033.draft.json",
+   "thesis_id": "2.33",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11767"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_034.draft.json",
+   "thesis_id": "2.34",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11770"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_035.draft.json",
+   "thesis_id": "2.35",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11773"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_036.draft.json",
+   "thesis_id": "2.36",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11777"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_037.draft.json",
+   "thesis_id": "2.37",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11780"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_038.draft.json",
+   "thesis_id": "2.38",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11784"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_039.draft.json",
+   "thesis_id": "2.39",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11878"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_040.draft.json",
+   "thesis_id": "2.40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11882"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_041.draft.json",
+   "thesis_id": "2.41",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11886"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_042.draft.json",
+   "thesis_id": "2.42",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11889"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_043.draft.json",
+   "thesis_id": "2.43",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11892"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_044.draft.json",
+   "thesis_id": "2.44",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11895"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_02_045.draft.json",
+   "thesis_id": "2.45",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11898"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_001.draft.json",
+   "thesis_id": "3.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11974"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_002.draft.json",
+   "thesis_id": "3.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11978"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_003.draft.json",
+   "thesis_id": "3.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11981"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_004.draft.json",
+   "thesis_id": "3.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11984"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_005.draft.json",
+   "thesis_id": "3.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11987"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_006.draft.json",
+   "thesis_id": "3.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:11990"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_007.draft.json",
+   "thesis_id": "3.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:12076"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_03_008.draft.json",
+   "thesis_id": "3.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12079"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_001.draft.json",
+   "thesis_id": "4.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12140"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_002.draft.json",
+   "thesis_id": "4.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12144"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_003.draft.json",
+   "thesis_id": "4.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12149"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_004.draft.json",
+   "thesis_id": "4.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12153"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_005.draft.json",
+   "thesis_id": "4.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12156"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_006.draft.json",
+   "thesis_id": "4.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:12236"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_007.draft.json",
+   "thesis_id": "4.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12240"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_008.draft.json",
+   "thesis_id": "4.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12243"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_009.draft.json",
+   "thesis_id": "4.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12246"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_010.draft.json",
+   "thesis_id": "4.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12249"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_011.draft.json",
+   "thesis_id": "4.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12252"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_012.draft.json",
+   "thesis_id": "4.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12255"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_013.draft.json",
+   "thesis_id": "4.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12258"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_014.draft.json",
+   "thesis_id": "4.14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12262"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_015.draft.json",
+   "thesis_id": "4.15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12357"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_016.draft.json",
+   "thesis_id": "4.16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12361"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_017.draft.json",
+   "thesis_id": "4.17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12365"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_018.draft.json",
+   "thesis_id": "4.18",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12368"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_019.draft.json",
+   "thesis_id": "4.19",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12371"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_020.draft.json",
+   "thesis_id": "4.20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12375"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_021.draft.json",
+   "thesis_id": "4.21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12379"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_04_022.draft.json",
+   "thesis_id": "4.22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12382"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_001.draft.json",
+   "thesis_id": "5.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12482"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_002.draft.json",
+   "thesis_id": "5.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12486"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_003.draft.json",
+   "thesis_id": "5.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12489"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_004.draft.json",
+   "thesis_id": "5.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:12492"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_005.draft.json",
+   "thesis_id": "5.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12495"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_006.draft.json",
+   "thesis_id": "5.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12499"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_007.draft.json",
+   "thesis_id": "5.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12502"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_008.draft.json",
+   "thesis_id": "5.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12505"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_009.draft.json",
+   "thesis_id": "5.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12603"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_010.draft.json",
+   "thesis_id": "5.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12607"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_011.draft.json",
+   "thesis_id": "5.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12610"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_012.draft.json",
+   "thesis_id": "5.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12613"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_05_013.draft.json",
+   "thesis_id": "5.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12617"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_001.draft.json",
+   "thesis_id": "6.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12671"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_002.draft.json",
+   "thesis_id": "6.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12676"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_003.draft.json",
+   "thesis_id": "6.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12679"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_004.draft.json",
+   "thesis_id": "6.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12682"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_005.draft.json",
+   "thesis_id": "6.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12686"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_006.draft.json",
+   "thesis_id": "6.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12689"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_007.draft.json",
+   "thesis_id": "6.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.96) at farmer1998:12693; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_008.draft.json",
+   "thesis_id": "6.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12781"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_009.draft.json",
+   "thesis_id": "6.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12783"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_010.draft.json",
+   "thesis_id": "6.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:12786"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_06_011.draft.json",
+   "thesis_id": "6.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12790"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_001.draft.json",
+   "thesis_id": "7.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12864"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_002.draft.json",
+   "thesis_id": "7.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12937"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_003.draft.json",
+   "thesis_id": "7.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12940"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_004.draft.json",
+   "thesis_id": "7.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12947"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_005.draft.json",
+   "thesis_id": "7.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12951"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_006.draft.json",
+   "thesis_id": "7.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:12955"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_007.draft.json",
+   "thesis_id": "7.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:13033"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_008.draft.json",
+   "thesis_id": "7.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13037"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_009.draft.json",
+   "thesis_id": "7.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13044"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_010.draft.json",
+   "thesis_id": "7.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13047"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_011.draft.json",
+   "thesis_id": "7.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13051"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_012.draft.json",
+   "thesis_id": "7.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13055"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_013.draft.json",
+   "thesis_id": "7.13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13142"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_014.draft.json",
+   "thesis_id": "7.14",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13145"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_015.draft.json",
+   "thesis_id": "7.15",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13149"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_016.draft.json",
+   "thesis_id": "7.16",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13158"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_017.draft.json",
+   "thesis_id": "7.17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13162"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_018.draft.json",
+   "thesis_id": "7.18",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13165"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_019.draft.json",
+   "thesis_id": "7.19",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13169"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_020.draft.json",
+   "thesis_id": "7.20",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13172"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_021.draft.json",
+   "thesis_id": "7.21",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13175"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_022.draft.json",
+   "thesis_id": "7.22",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13266"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_023.draft.json",
+   "thesis_id": "7.23",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13270"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_024.draft.json",
+   "thesis_id": "7.24",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13274"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_025.draft.json",
+   "thesis_id": "7.25",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13277"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_026.draft.json",
+   "thesis_id": "7.26",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13282"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_027.draft.json",
+   "thesis_id": "7.27",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13286"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_028.draft.json",
+   "thesis_id": "7.28",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13290"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_029.draft.json",
+   "thesis_id": "7.29",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13379"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_030.draft.json",
+   "thesis_id": "7.30",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13386"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_031.draft.json",
+   "thesis_id": "7.31",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:13390"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_032.draft.json",
+   "thesis_id": "7.32",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "high similarity (0.77) at farmer1998:13393; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_033.draft.json",
+   "thesis_id": "7.33",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13397"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_034.draft.json",
+   "thesis_id": "7.34",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13400"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_035.draft.json",
+   "thesis_id": "7.35",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13403"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_036.draft.json",
+   "thesis_id": "7.36",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13406"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_037.draft.json",
+   "thesis_id": "7.37",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13409"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_038.draft.json",
+   "thesis_id": "7.38",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13495"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_039.draft.json",
+   "thesis_id": "7.39",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13498"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_040.draft.json",
+   "thesis_id": "7.40",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13501"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_07_041.draft.json",
+   "thesis_id": "7.41",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13507"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_001.draft.json",
+   "thesis_id": "8.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13566"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_002.draft.json",
+   "thesis_id": "8.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13570"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_003.draft.json",
+   "thesis_id": "8.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13575"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_004.draft.json",
+   "thesis_id": "8.4",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13578"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_005.draft.json",
+   "thesis_id": "8.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13581"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_006.draft.json",
+   "thesis_id": "8.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13584"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_007.draft.json",
+   "thesis_id": "8.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13664"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_008.draft.json",
+   "thesis_id": "8.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13669"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_009.draft.json",
+   "thesis_id": "8.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13672"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_010.draft.json",
+   "thesis_id": "8.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13676"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_011.draft.json",
+   "thesis_id": "8.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13680"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_08_012.draft.json",
+   "thesis_id": "8.12",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13684"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_001.draft.json",
+   "thesis_id": "9.1",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13772"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_002.draft.json",
+   "thesis_id": "9.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13777"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_003.draft.json",
+   "thesis_id": "9.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13781"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_004.draft.json",
+   "thesis_id": "9.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13784"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_005.draft.json",
+   "thesis_id": "9.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13789"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_006.draft.json",
+   "thesis_id": "9.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13876"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_007.draft.json",
+   "thesis_id": "9.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13881"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_008.draft.json",
+   "thesis_id": "9.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13885"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_009.draft.json",
+   "thesis_id": "9.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13889"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_010.draft.json",
+   "thesis_id": "9.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13892"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_09_011.draft.json",
+   "thesis_id": "9.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13895"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_10_001.draft.json",
+   "thesis_id": "10.1",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13969"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_10_002.draft.json",
+   "thesis_id": "10.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13972"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_10_003.draft.json",
+   "thesis_id": "10.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13975"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_10_004.draft.json",
+   "thesis_id": "10.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:13979"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_11_001.draft.json",
+   "thesis_id": "11.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14054"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_11_002.draft.json",
+   "thesis_id": "11.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14058"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_11_003.draft.json",
+   "thesis_id": "11.3",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "high similarity (0.73) at farmer1998:14061; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_11_004.draft.json",
+   "thesis_id": "11.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14064"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_12_001.draft.json",
+   "thesis_id": "12.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14139"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_12_002.draft.json",
+   "thesis_id": "12.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14143"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_12_003.draft.json",
+   "thesis_id": "12.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14146"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_13_001.draft.json",
+   "thesis_id": "13.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14214"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_13_002.draft.json",
+   "thesis_id": "13.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14217"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_13_003.draft.json",
+   "thesis_id": "13.3",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14221"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_13_004.draft.json",
+   "thesis_id": "13.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14225"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_13_005.draft.json",
+   "thesis_id": "13.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14228"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_14_001.draft.json",
+   "thesis_id": "14.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14303"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_14_002.draft.json",
+   "thesis_id": "14.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14306"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_15_001.draft.json",
+   "thesis_id": "15.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14367"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_15_002.draft.json",
+   "thesis_id": "15.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14371"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_15_003.draft.json",
+   "thesis_id": "15.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14374"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_15_004.draft.json",
+   "thesis_id": "15.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14378"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_16_001.draft.json",
+   "thesis_id": "16.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14474"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_16_002.draft.json",
+   "thesis_id": "16.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14479"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_16_003.draft.json",
+   "thesis_id": "16.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14482"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_001.draft.json",
+   "thesis_id": "17.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14546"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_002.draft.json",
+   "thesis_id": "17.2",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14550"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_003.draft.json",
+   "thesis_id": "17.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:14553"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_004.draft.json",
+   "thesis_id": "17.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14557"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_005.draft.json",
+   "thesis_id": "17.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14562"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_006.draft.json",
+   "thesis_id": "17.6",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14566"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_007.draft.json",
+   "thesis_id": "17.7",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14646"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_008.draft.json",
+   "thesis_id": "17.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14649"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_17_009.draft.json",
+   "thesis_id": "17.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:14655"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_001.draft.json",
+   "thesis_id": "18.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14716"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_002.draft.json",
+   "thesis_id": "18.2",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14719"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_003.draft.json",
+   "thesis_id": "18.3",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14724"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_004.draft.json",
+   "thesis_id": "18.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14728"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_005.draft.json",
+   "thesis_id": "18.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14731"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_006.draft.json",
+   "thesis_id": "18.6",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14736"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_007.draft.json",
+   "thesis_id": "18.7",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14828"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_18_008.draft.json",
+   "thesis_id": "18.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14833"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_19_001.draft.json",
+   "thesis_id": "19.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14881"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_19_002.draft.json",
+   "thesis_id": "19.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14886"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_19_003.draft.json",
+   "thesis_id": "19.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14890"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_19_004.draft.json",
+   "thesis_id": "19.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14893"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_19_005.draft.json",
+   "thesis_id": "19.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14898"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_001.draft.json",
+   "thesis_id": "20.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14992"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_002.draft.json",
+   "thesis_id": "20.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14995"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_003.draft.json",
+   "thesis_id": "20.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:14998"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_004.draft.json",
+   "thesis_id": "20.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15094"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_005.draft.json",
+   "thesis_id": "20.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:15098"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_006.draft.json",
+   "thesis_id": "20.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15102"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_007.draft.json",
+   "thesis_id": "20.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15105"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_008.draft.json",
+   "thesis_id": "20.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15109"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_009.draft.json",
+   "thesis_id": "20.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15112"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_010.draft.json",
+   "thesis_id": "20.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15116"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_011.draft.json",
+   "thesis_id": "20.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15120"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_012.draft.json",
+   "thesis_id": "20.12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15205"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_013.draft.json",
+   "thesis_id": "20.13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15208"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_014.draft.json",
+   "thesis_id": "20.14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15211"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_20_015.draft.json",
+   "thesis_id": "20.15",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15217"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_001.draft.json",
+   "thesis_id": "21.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15279"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_002.draft.json",
+   "thesis_id": "21.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15283"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_003.draft.json",
+   "thesis_id": "21.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15287"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_004.draft.json",
+   "thesis_id": "21.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15348"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_005.draft.json",
+   "thesis_id": "21.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15353"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_006.draft.json",
+   "thesis_id": "21.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15358"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_007.draft.json",
+   "thesis_id": "21.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15363"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_21_008.draft.json",
+   "thesis_id": "21.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15366"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_001.draft.json",
+   "thesis_id": "22.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15438"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_002.draft.json",
+   "thesis_id": "22.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15442"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_003.draft.json",
+   "thesis_id": "22.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15445"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_004.draft.json",
+   "thesis_id": "22.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15448"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_005.draft.json",
+   "thesis_id": "22.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15451"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_006.draft.json",
+   "thesis_id": "22.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15455"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_007.draft.json",
+   "thesis_id": "22.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15459"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_008.draft.json",
+   "thesis_id": "22.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15462"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_009.draft.json",
+   "thesis_id": "22.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15550"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_010.draft.json",
+   "thesis_id": "22.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15554"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_011.draft.json",
+   "thesis_id": "22.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15560"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_22_012.draft.json",
+   "thesis_id": "22.12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15566"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_001.draft.json",
+   "thesis_id": "23.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15637"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_002.draft.json",
+   "thesis_id": "23.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15643"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_003.draft.json",
+   "thesis_id": "23.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15646"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_004.draft.json",
+   "thesis_id": "23.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15651"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_005.draft.json",
+   "thesis_id": "23.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15746"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_006.draft.json",
+   "thesis_id": "23.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15750"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_007.draft.json",
+   "thesis_id": "23.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15754"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_008.draft.json",
+   "thesis_id": "23.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.83) at farmer1998:15757; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_23_009.draft.json",
+   "thesis_id": "23.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15761"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_001.draft.json",
+   "thesis_id": "24.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15843"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_002.draft.json",
+   "thesis_id": "24.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15848"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_003.draft.json",
+   "thesis_id": "24.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:15947"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_004.draft.json",
+   "thesis_id": "24.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15954"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_005.draft.json",
+   "thesis_id": "24.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15958"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_006.draft.json",
+   "thesis_id": "24.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15963"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_007.draft.json",
+   "thesis_id": "24.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15967"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_008.draft.json",
+   "thesis_id": "24.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:15972"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_009.draft.json",
+   "thesis_id": "24.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16056"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_010.draft.json",
+   "thesis_id": "24.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16060"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_011.draft.json",
+   "thesis_id": "24.11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16065"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_012.draft.json",
+   "thesis_id": "24.12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:16069"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_013.draft.json",
+   "thesis_id": "24.13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:16073"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_014.draft.json",
+   "thesis_id": "24.14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16077"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_015.draft.json",
+   "thesis_id": "24.15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16157"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_016.draft.json",
+   "thesis_id": "24.16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16161"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_017.draft.json",
+   "thesis_id": "24.17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16166"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_018.draft.json",
+   "thesis_id": "24.18",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:16171"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_019.draft.json",
+   "thesis_id": "24.19",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:16176"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_020.draft.json",
+   "thesis_id": "24.20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16181"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_021.draft.json",
+   "thesis_id": "24.21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16273"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_022.draft.json",
+   "thesis_id": "24.22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16278"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_023.draft.json",
+   "thesis_id": "24.23",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16284"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_024.draft.json",
+   "thesis_id": "24.24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16288"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_025.draft.json",
+   "thesis_id": "24.25",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16292"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_026.draft.json",
+   "thesis_id": "24.26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16371"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_027.draft.json",
+   "thesis_id": "24.27",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16375"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_028.draft.json",
+   "thesis_id": "24.28",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16380"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_029.draft.json",
+   "thesis_id": "24.29",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16385"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_030.draft.json",
+   "thesis_id": "24.30",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16390"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_031.draft.json",
+   "thesis_id": "24.31",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16470"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_032.draft.json",
+   "thesis_id": "24.32",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16475"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_033.draft.json",
+   "thesis_id": "24.33",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16479"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_034.draft.json",
+   "thesis_id": "24.34",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16483"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_035.draft.json",
+   "thesis_id": "24.35",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16487"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_036.draft.json",
+   "thesis_id": "24.36",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16491"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_037.draft.json",
+   "thesis_id": "24.37",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16496"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_038.draft.json",
+   "thesis_id": "24.38",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16583"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_039.draft.json",
+   "thesis_id": "24.39",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16587"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_040.draft.json",
+   "thesis_id": "24.40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16591"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_041.draft.json",
+   "thesis_id": "24.41",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16595"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_042.draft.json",
+   "thesis_id": "24.42",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16601"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_043.draft.json",
+   "thesis_id": "24.43",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16606"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_044.draft.json",
+   "thesis_id": "24.44",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16610"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_045.draft.json",
+   "thesis_id": "24.45",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16615"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_046.draft.json",
+   "thesis_id": "24.46",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16695"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_047.draft.json",
+   "thesis_id": "24.47",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16701"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_048.draft.json",
+   "thesis_id": "24.48",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16705"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_049.draft.json",
+   "thesis_id": "24.49",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16710"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_050.draft.json",
+   "thesis_id": "24.50",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16714"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_051.draft.json",
+   "thesis_id": "24.51",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16717"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_052.draft.json",
+   "thesis_id": "24.52",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:16722"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_053.draft.json",
+   "thesis_id": "24.53",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16812"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_054.draft.json",
+   "thesis_id": "24.54",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16819"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_24_055.draft.json",
+   "thesis_id": "24.55",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.99) at farmer1998:16822; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_001.draft.json",
+   "thesis_id": "25.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16891"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_002.draft.json",
+   "thesis_id": "25.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16895"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_003.draft.json",
+   "thesis_id": "25.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16899"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_004.draft.json",
+   "thesis_id": "25.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16902"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_005.draft.json",
+   "thesis_id": "25.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16906"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_006.draft.json",
+   "thesis_id": "25.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:16998"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_007.draft.json",
+   "thesis_id": "25.7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17003"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_008.draft.json",
+   "thesis_id": "25.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17007"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_009.draft.json",
+   "thesis_id": "25.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17010"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_010.draft.json",
+   "thesis_id": "25.10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17013"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_011.draft.json",
+   "thesis_id": "25.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17016"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_012.draft.json",
+   "thesis_id": "25.12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17019"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_013.draft.json",
+   "thesis_id": "25.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17022"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_25_014.draft.json",
+   "thesis_id": "25.14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17025"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_001.draft.json",
+   "thesis_id": "26.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "high similarity (0.84) at farmer1998:17125; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_002.draft.json",
+   "thesis_id": "26.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17129"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_003.draft.json",
+   "thesis_id": "26.3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17134"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_004.draft.json",
+   "thesis_id": "26.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17139"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_005.draft.json",
+   "thesis_id": "26.5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17143"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_26_006.draft.json",
+   "thesis_id": "26.6",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17149"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_001.draft.json",
+   "thesis_id": "27.1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17242"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_002.draft.json",
+   "thesis_id": "27.2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17245"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_003.draft.json",
+   "thesis_id": "27.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17248"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_004.draft.json",
+   "thesis_id": "27.4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17252"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_005.draft.json",
+   "thesis_id": "27.5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17257"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_006.draft.json",
+   "thesis_id": "27.6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17260"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_007.draft.json",
+   "thesis_id": "27.7",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17266"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_008.draft.json",
+   "thesis_id": "27.8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17353"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_009.draft.json",
+   "thesis_id": "27.9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17358"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_27_010.draft.json",
+   "thesis_id": "27.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17362"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_001.draft.json",
+   "thesis_id": "28.1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17532"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_002.draft.json",
+   "thesis_id": "28.2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17536"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_003.draft.json",
+   "thesis_id": "28.3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17540"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_004.draft.json",
+   "thesis_id": "28.4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17544"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_005.draft.json",
+   "thesis_id": "28.5",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17547"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_006.draft.json",
+   "thesis_id": "28.6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:17637"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_007.draft.json",
+   "thesis_id": "28.7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17641"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_008.draft.json",
+   "thesis_id": "28.8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17645"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_009.draft.json",
+   "thesis_id": "28.9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17649"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_010.draft.json",
+   "thesis_id": "28.10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17728"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_011.draft.json",
+   "thesis_id": "28.11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17732"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_012.draft.json",
+   "thesis_id": "28.12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17737"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_013.draft.json",
+   "thesis_id": "28.13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17741"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_014.draft.json",
+   "thesis_id": "28.14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17745"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_015.draft.json",
+   "thesis_id": "28.15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:17847"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_016.draft.json",
+   "thesis_id": "28.16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17851"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_017.draft.json",
+   "thesis_id": "28.17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17854"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_018.draft.json",
+   "thesis_id": "28.18",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17858"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_019.draft.json",
+   "thesis_id": "28.19",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17862"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_020.draft.json",
+   "thesis_id": "28.20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17951"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_021.draft.json",
+   "thesis_id": "28.21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17955"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_022.draft.json",
+   "thesis_id": "28.22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17959"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_023.draft.json",
+   "thesis_id": "28.23",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17966"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_024.draft.json",
+   "thesis_id": "28.24",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:17969"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_025.draft.json",
+   "thesis_id": "28.25",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18066"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_026.draft.json",
+   "thesis_id": "28.26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18069"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_027.draft.json",
+   "thesis_id": "28.27",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18074"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_028.draft.json",
+   "thesis_id": "28.28",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18078"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_029.draft.json",
+   "thesis_id": "28.29",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18082"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_030.draft.json",
+   "thesis_id": "28.30",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18086"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_031.draft.json",
+   "thesis_id": "28.31",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18175"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_032.draft.json",
+   "thesis_id": "28.32",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18179"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_033.draft.json",
+   "thesis_id": "28.33",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18183"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_034.draft.json",
+   "thesis_id": "28.34",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18190"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_035.draft.json",
+   "thesis_id": "28.35",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18195"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_036.draft.json",
+   "thesis_id": "28.36",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18198"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_037.draft.json",
+   "thesis_id": "28.37",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18201"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_038.draft.json",
+   "thesis_id": "28.38",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18290"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_039.draft.json",
+   "thesis_id": "28.39",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18294"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_040.draft.json",
+   "thesis_id": "28.40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18298"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_041.draft.json",
+   "thesis_id": "28.41",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18302"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_042.draft.json",
+   "thesis_id": "28.42",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18305"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_043.draft.json",
+   "thesis_id": "28.43",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18310"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_044.draft.json",
+   "thesis_id": "28.44",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "high similarity (0.89) at farmer1998:18397; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_045.draft.json",
+   "thesis_id": "28.45",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18402"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_046.draft.json",
+   "thesis_id": "28.46",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18406"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\hist_28_047.draft.json",
+   "thesis_id": "28.47",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18410"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_001.draft.json",
+   "thesis_id": "10>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25569"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_002.draft.json",
+   "thesis_id": "10>2",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25575"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_003.draft.json",
+   "thesis_id": "10>3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25580"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_004.draft.json",
+   "thesis_id": "10>4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25671"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_005.draft.json",
+   "thesis_id": "10>5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25675"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_006.draft.json",
+   "thesis_id": "10>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25680"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_007.draft.json",
+   "thesis_id": "10>7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25685"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_008.draft.json",
+   "thesis_id": "10>8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25773"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_009.draft.json",
+   "thesis_id": "10>9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25779"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_010.draft.json",
+   "thesis_id": "10>10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25782"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_011.draft.json",
+   "thesis_id": "10>11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25786"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_012.draft.json",
+   "thesis_id": "10>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25791"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_013.draft.json",
+   "thesis_id": "10>13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25884"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_014.draft.json",
+   "thesis_id": "10>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25887"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_015.draft.json",
+   "thesis_id": "10>15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25892"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_016.draft.json",
+   "thesis_id": "10>16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25895"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_017.draft.json",
+   "thesis_id": "10>17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25900"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_018.draft.json",
+   "thesis_id": "10>18",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25904"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_019.draft.json",
+   "thesis_id": "10>19",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25908"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_020.draft.json",
+   "thesis_id": "10>20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25999"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_021.draft.json",
+   "thesis_id": "10>21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26004"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_022.draft.json",
+   "thesis_id": "10>22",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26010"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_023.draft.json",
+   "thesis_id": "10>23",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26014"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_024.draft.json",
+   "thesis_id": "10>24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26018"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_025.draft.json",
+   "thesis_id": "10>25",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26114"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_026.draft.json",
+   "thesis_id": "10>26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26118"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_027.draft.json",
+   "thesis_id": "10>27",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26123"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_028.draft.json",
+   "thesis_id": "10>28",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26127"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_029.draft.json",
+   "thesis_id": "10>29",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26130"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_030.draft.json",
+   "thesis_id": "10>30",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26134"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_10_031.draft.json",
+   "thesis_id": "10>31",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26139"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_001.draft.json",
+   "thesis_id": "11>1",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26318"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_002.draft.json",
+   "thesis_id": "11>2",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:26383"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_003.draft.json",
+   "thesis_id": "11>3",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26392"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_004.draft.json",
+   "thesis_id": "11>4",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26396"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_005.draft.json",
+   "thesis_id": "11>5",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:26476"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_006.draft.json",
+   "thesis_id": "11>6",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "high similarity (0.88) at farmer1998:26487; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_007.draft.json",
+   "thesis_id": "11>7",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26493"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_008.draft.json",
+   "thesis_id": "11>8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.97) at farmer1998:26500; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_009.draft.json",
+   "thesis_id": "11>9",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26588"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_010.draft.json",
+   "thesis_id": "11>10",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:26593"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_011.draft.json",
+   "thesis_id": "11>11",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26598"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_012.draft.json",
+   "thesis_id": "11>12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26604"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_013.draft.json",
+   "thesis_id": "11>13",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26608"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_014.draft.json",
+   "thesis_id": "11>14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:26697"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_015.draft.json",
+   "thesis_id": "11>15",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26703"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_016.draft.json",
+   "thesis_id": "11>16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.90) at farmer1998:26709; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_017.draft.json",
+   "thesis_id": "11>17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26715"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_018.draft.json",
+   "thesis_id": "11>18",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26797"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_019.draft.json",
+   "thesis_id": "11>19",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26801"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_020.draft.json",
+   "thesis_id": "11>20",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "high similarity (0.84) at farmer1998:26806; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_021.draft.json",
+   "thesis_id": "11>21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26810"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_022.draft.json",
+   "thesis_id": "11>22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26817"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_023.draft.json",
+   "thesis_id": "11>23",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26904"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_024.draft.json",
+   "thesis_id": "11>24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:26909"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_025.draft.json",
+   "thesis_id": "11>25",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26917"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_026.draft.json",
+   "thesis_id": "11>26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26921"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_027.draft.json",
+   "thesis_id": "11>27",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:26926"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_028.draft.json",
+   "thesis_id": "11>28",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "high similarity (0.89) at farmer1998:27006; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_029.draft.json",
+   "thesis_id": "11>29",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27012"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_030.draft.json",
+   "thesis_id": "11>30",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27017"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_031.draft.json",
+   "thesis_id": "11>31",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27021"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_032.draft.json",
+   "thesis_id": "11>32",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27025"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_033.draft.json",
+   "thesis_id": "11>33",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.88) at farmer1998:27117; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_034.draft.json",
+   "thesis_id": "11>34",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:27122"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_035.draft.json",
+   "thesis_id": "11>35",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27129"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_036.draft.json",
+   "thesis_id": "11>36",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27137"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_037.draft.json",
+   "thesis_id": "11>37",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27217"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_038.draft.json",
+   "thesis_id": "11>38",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27222"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_039.draft.json",
+   "thesis_id": "11>39",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "high similarity (0.90) at farmer1998:27226; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_040.draft.json",
+   "thesis_id": "11>40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27231"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_041.draft.json",
+   "thesis_id": "11>41",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27235"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_042.draft.json",
+   "thesis_id": "11>42",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27323"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_043.draft.json",
+   "thesis_id": "11>43",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27327"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_044.draft.json",
+   "thesis_id": "11>44",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27331"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_045.draft.json",
+   "thesis_id": "11>45",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27335"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_046.draft.json",
+   "thesis_id": "11>46",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27339"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_047.draft.json",
+   "thesis_id": "11>47",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27343"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_048.draft.json",
+   "thesis_id": "11>48",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27423"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_049.draft.json",
+   "thesis_id": "11>49",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27430"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_050.draft.json",
+   "thesis_id": "11>50",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27439"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_051.draft.json",
+   "thesis_id": "11>51",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27445"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_052.draft.json",
+   "thesis_id": "11>52",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27520"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_053.draft.json",
+   "thesis_id": "11>53",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27524"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_054.draft.json",
+   "thesis_id": "11>54",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27529"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_055.draft.json",
+   "thesis_id": "11>55",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27534"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_056.draft.json",
+   "thesis_id": "11>56",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:27538"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_057.draft.json",
+   "thesis_id": "11>57",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27629"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_058.draft.json",
+   "thesis_id": "11>58",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27633"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_059.draft.json",
+   "thesis_id": "11>59",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27638"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_060.draft.json",
+   "thesis_id": "11>60",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27644"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_061.draft.json",
+   "thesis_id": "11>61",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27736"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_062.draft.json",
+   "thesis_id": "11>62",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27741"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_063.draft.json",
+   "thesis_id": "11>63",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27748"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_064.draft.json",
+   "thesis_id": "11>64",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27756"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_065.draft.json",
+   "thesis_id": "11>65",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27830"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_066.draft.json",
+   "thesis_id": "11>66",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:27834"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_067.draft.json",
+   "thesis_id": "11>67",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27844"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_068.draft.json",
+   "thesis_id": "11>68",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27921"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_069.draft.json",
+   "thesis_id": "11>69",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27927"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_070.draft.json",
+   "thesis_id": "11>70",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27932"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_071.draft.json",
+   "thesis_id": "11>71",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:27937"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_11_072.draft.json",
+   "thesis_id": "11>72",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:28032"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_001.draft.json",
+   "thesis_id": "1>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:18502"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_002.draft.json",
+   "thesis_id": "1>2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18577"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_003.draft.json",
+   "thesis_id": "1>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:18582"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_004.draft.json",
+   "thesis_id": "1>4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18587"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_005.draft.json",
+   "thesis_id": "1>5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18592"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_006.draft.json",
+   "thesis_id": "1>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18596"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_007.draft.json",
+   "thesis_id": "1>7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18600"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_008.draft.json",
+   "thesis_id": "1>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18689"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_009.draft.json",
+   "thesis_id": "1>9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18693"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_010.draft.json",
+   "thesis_id": "1>10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18698"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_011.draft.json",
+   "thesis_id": "1>11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18702"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_012.draft.json",
+   "thesis_id": "1>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18706"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_013.draft.json",
+   "thesis_id": "1>13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18710"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_014.draft.json",
+   "thesis_id": "1>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18714"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_015.draft.json",
+   "thesis_id": "1>15",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18797"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_016.draft.json",
+   "thesis_id": "1>16",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18802"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_1_017.draft.json",
+   "thesis_id": "1>17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18807"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_001.draft.json",
+   "thesis_id": "2>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18866"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_002.draft.json",
+   "thesis_id": "2>2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18870"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_003.draft.json",
+   "thesis_id": "2>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18874"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_004.draft.json",
+   "thesis_id": "2>4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18877"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_005.draft.json",
+   "thesis_id": "2>5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18969"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_006.draft.json",
+   "thesis_id": "2>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18973"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_007.draft.json",
+   "thesis_id": "2>7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18977"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_008.draft.json",
+   "thesis_id": "2>8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18981"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_009.draft.json",
+   "thesis_id": "2>9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18985"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_010.draft.json",
+   "thesis_id": "2>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18989"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_011.draft.json",
+   "thesis_id": "2>11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18994"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_012.draft.json",
+   "thesis_id": "2>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:18999"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_013.draft.json",
+   "thesis_id": "2>13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19083"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_014.draft.json",
+   "thesis_id": "2>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19086"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_015.draft.json",
+   "thesis_id": "2>15",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19089"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_016.draft.json",
+   "thesis_id": "2>16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19092"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_017.draft.json",
+   "thesis_id": "2>17",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19094"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_018.draft.json",
+   "thesis_id": "2>18",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19097"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_019.draft.json",
+   "thesis_id": "2>19",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19102"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_020.draft.json",
+   "thesis_id": "2>20",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19106"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_021.draft.json",
+   "thesis_id": "2>21",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19194"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_022.draft.json",
+   "thesis_id": "2>22",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19199"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_023.draft.json",
+   "thesis_id": "2>23",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19203"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_024.draft.json",
+   "thesis_id": "2>24",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19208"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_025.draft.json",
+   "thesis_id": "2>25",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19211"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_026.draft.json",
+   "thesis_id": "2>26",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19216"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_027.draft.json",
+   "thesis_id": "2>27",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19219"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_028.draft.json",
+   "thesis_id": "2>28",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19222"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_029.draft.json",
+   "thesis_id": "2>29",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19226"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_030.draft.json",
+   "thesis_id": "2>30",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19313"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_031.draft.json",
+   "thesis_id": "2>31",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19318"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_032.draft.json",
+   "thesis_id": "2>32",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19322"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_033.draft.json",
+   "thesis_id": "2>33",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19327"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_034.draft.json",
+   "thesis_id": "2>34",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19331"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_035.draft.json",
+   "thesis_id": "2>35",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19335"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_036.draft.json",
+   "thesis_id": "2>36",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:19428"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_037.draft.json",
+   "thesis_id": "2>37",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19438"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_038.draft.json",
+   "thesis_id": "2>38",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19442"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_039.draft.json",
+   "thesis_id": "2>39",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19452"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_040.draft.json",
+   "thesis_id": "2>40",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19539"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_041.draft.json",
+   "thesis_id": "2>41",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19545"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_042.draft.json",
+   "thesis_id": "2>42",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19549"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_043.draft.json",
+   "thesis_id": "2>43",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19553"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_044.draft.json",
+   "thesis_id": "2>44",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19559"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_045.draft.json",
+   "thesis_id": "2>45",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19563"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_046.draft.json",
+   "thesis_id": "2>46",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19649"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_047.draft.json",
+   "thesis_id": "2>47",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19652"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_048.draft.json",
+   "thesis_id": "2>48",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19657"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_049.draft.json",
+   "thesis_id": "2>49",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19660"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_050.draft.json",
+   "thesis_id": "2>50",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19666"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_051.draft.json",
+   "thesis_id": "2>51",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19670"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_052.draft.json",
+   "thesis_id": "2>52",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19756"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_053.draft.json",
+   "thesis_id": "2>53",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19760"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_054.draft.json",
+   "thesis_id": "2>54",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19764"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_055.draft.json",
+   "thesis_id": "2>55",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19768"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_056.draft.json",
+   "thesis_id": "2>56",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19772"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_057.draft.json",
+   "thesis_id": "2>57",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19777"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_058.draft.json",
+   "thesis_id": "2>58",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19782"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_059.draft.json",
+   "thesis_id": "2>59",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19869"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_060.draft.json",
+   "thesis_id": "2>60",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19873"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_061.draft.json",
+   "thesis_id": "2>61",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19878"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_062.draft.json",
+   "thesis_id": "2>62",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19883"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_063.draft.json",
+   "thesis_id": "2>63",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19886"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_064.draft.json",
+   "thesis_id": "2>64",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19890"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_065.draft.json",
+   "thesis_id": "2>65",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19977"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_066.draft.json",
+   "thesis_id": "2>66",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19980"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_067.draft.json",
+   "thesis_id": "2>67",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19983"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_068.draft.json",
+   "thesis_id": "2>68",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19988"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_069.draft.json",
+   "thesis_id": "2>69",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19992"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_070.draft.json",
+   "thesis_id": "2>70",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:19997"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_071.draft.json",
+   "thesis_id": "2>71",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20002"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_072.draft.json",
+   "thesis_id": "2>72",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20089"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_073.draft.json",
+   "thesis_id": "2>73",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20093"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_074.draft.json",
+   "thesis_id": "2>74",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20099"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_075.draft.json",
+   "thesis_id": "2>75",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20104"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_076.draft.json",
+   "thesis_id": "2>76",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20108"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_077.draft.json",
+   "thesis_id": "2>77",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:20112"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_078.draft.json",
+   "thesis_id": "2>78",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20207"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_079.draft.json",
+   "thesis_id": "2>79",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20210"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_2_080.draft.json",
+   "thesis_id": "2>80",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20213"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_001.draft.json",
+   "thesis_id": "3>1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20265"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_002.draft.json",
+   "thesis_id": "3>2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20321"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_003.draft.json",
+   "thesis_id": "3>3",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20325"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_004.draft.json",
+   "thesis_id": "3>4",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20328"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_005.draft.json",
+   "thesis_id": "3>5",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20332"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_006.draft.json",
+   "thesis_id": "3>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:20336"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_007.draft.json",
+   "thesis_id": "3>7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20341"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_008.draft.json",
+   "thesis_id": "3>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20346"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_009.draft.json",
+   "thesis_id": "3>9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20351"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_010.draft.json",
+   "thesis_id": "3>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20433"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_011.draft.json",
+   "thesis_id": "3>11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20437"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_012.draft.json",
+   "thesis_id": "3>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20441"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_013.draft.json",
+   "thesis_id": "3>13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20445"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_014.draft.json",
+   "thesis_id": "3>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20448"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_015.draft.json",
+   "thesis_id": "3>15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20452"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_016.draft.json",
+   "thesis_id": "3>16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20455"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_017.draft.json",
+   "thesis_id": "3>17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20459"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_018.draft.json",
+   "thesis_id": "3>18",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20462"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_019.draft.json",
+   "thesis_id": "3>19",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20542"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_020.draft.json",
+   "thesis_id": "3>20",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20547"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_021.draft.json",
+   "thesis_id": "3>21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20551"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_022.draft.json",
+   "thesis_id": "3>22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20555"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_023.draft.json",
+   "thesis_id": "3>23",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20561"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_024.draft.json",
+   "thesis_id": "3>24",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20639"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_025.draft.json",
+   "thesis_id": "3>25",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:20643"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_026.draft.json",
+   "thesis_id": "3>26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20648"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_027.draft.json",
+   "thesis_id": "3>27",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20652"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_028.draft.json",
+   "thesis_id": "3>28",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20656"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_029.draft.json",
+   "thesis_id": "3>29",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20661"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_030.draft.json",
+   "thesis_id": "3>30",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20664"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_031.draft.json",
+   "thesis_id": "3>31",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20668"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_032.draft.json",
+   "thesis_id": "3>32",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20671"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_033.draft.json",
+   "thesis_id": "3>33",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20675"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_034.draft.json",
+   "thesis_id": "3>34",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20758"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_035.draft.json",
+   "thesis_id": "3>35",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20762"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_036.draft.json",
+   "thesis_id": "3>36",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20767"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_037.draft.json",
+   "thesis_id": "3>37",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20771"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_038.draft.json",
+   "thesis_id": "3>38",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20775"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_039.draft.json",
+   "thesis_id": "3>39",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "high similarity (0.99) at farmer1998:20779; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_040.draft.json",
+   "thesis_id": "3>40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:20868"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_041.draft.json",
+   "thesis_id": "3>41",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20875"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_042.draft.json",
+   "thesis_id": "3>42",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20881"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_043.draft.json",
+   "thesis_id": "3>43",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20885"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_044.draft.json",
+   "thesis_id": "3>44",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20890"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_045.draft.json",
+   "thesis_id": "3>45",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20971"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_046.draft.json",
+   "thesis_id": "3>46",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20976"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_047.draft.json",
+   "thesis_id": "3>47",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20980"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_048.draft.json",
+   "thesis_id": "3>48",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20984"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_049.draft.json",
+   "thesis_id": "3>49",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:20990"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_050.draft.json",
+   "thesis_id": "3>50",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:21071"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_051.draft.json",
+   "thesis_id": "3>51",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21078"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_052.draft.json",
+   "thesis_id": "3>52",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21081"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_053.draft.json",
+   "thesis_id": "3>53",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21086"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_054.draft.json",
+   "thesis_id": "3>54",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21090"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_055.draft.json",
+   "thesis_id": "3>55",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21095"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_056.draft.json",
+   "thesis_id": "3>56",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21181"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_057.draft.json",
+   "thesis_id": "3>57",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21185"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_058.draft.json",
+   "thesis_id": "3>58",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21189"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_059.draft.json",
+   "thesis_id": "3>59",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21192"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_060.draft.json",
+   "thesis_id": "3>60",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21254"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_061.draft.json",
+   "thesis_id": "3>61",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21257"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_062.draft.json",
+   "thesis_id": "3>62",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21260"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_063.draft.json",
+   "thesis_id": "3>63",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21264"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_064.draft.json",
+   "thesis_id": "3>64",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21270"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_065.draft.json",
+   "thesis_id": "3>65",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21274"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_066.draft.json",
+   "thesis_id": "3>66",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21278"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_067.draft.json",
+   "thesis_id": "3>67",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21342"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_068.draft.json",
+   "thesis_id": "3>68",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21345"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_069.draft.json",
+   "thesis_id": "3>69",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21348"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_070.draft.json",
+   "thesis_id": "3>70",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21353"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_3_071.draft.json",
+   "thesis_id": "3>71",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21360"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_001.draft.json",
+   "thesis_id": "4>1",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21439"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_002.draft.json",
+   "thesis_id": "4>2",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21444"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_003.draft.json",
+   "thesis_id": "4>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21541"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_004.draft.json",
+   "thesis_id": "4>4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:21549"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_005.draft.json",
+   "thesis_id": "4>5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21554"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_006.draft.json",
+   "thesis_id": "4>6",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:21559"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_007.draft.json",
+   "thesis_id": "4>7",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21570"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_008.draft.json",
+   "thesis_id": "4>8",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21657"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_009.draft.json",
+   "thesis_id": "4>9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21661"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_010.draft.json",
+   "thesis_id": "4>10",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21666"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_011.draft.json",
+   "thesis_id": "4>11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21670"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_012.draft.json",
+   "thesis_id": "4>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21677"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_013.draft.json",
+   "thesis_id": "4>13",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21767"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_014.draft.json",
+   "thesis_id": "4>14",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21771"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_015.draft.json",
+   "thesis_id": "4>15",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21775"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_016.draft.json",
+   "thesis_id": "4>16",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21778"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_017.draft.json",
+   "thesis_id": "4>17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21782"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_018.draft.json",
+   "thesis_id": "4>18",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:21862"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_019.draft.json",
+   "thesis_id": "4>19",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21873"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_020.draft.json",
+   "thesis_id": "4>20",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21879"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_021.draft.json",
+   "thesis_id": "4>21",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21953"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_022.draft.json",
+   "thesis_id": "4>22",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21956"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_023.draft.json",
+   "thesis_id": "4>23",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21960"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_024.draft.json",
+   "thesis_id": "4>24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21967"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_025.draft.json",
+   "thesis_id": "4>25",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:21973"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_026.draft.json",
+   "thesis_id": "4>26",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22040"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_027.draft.json",
+   "thesis_id": "4>27",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22043"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_028.draft.json",
+   "thesis_id": "4>28",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22046"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_4_029.draft.json",
+   "thesis_id": "4>29",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22051"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_001.draft.json",
+   "thesis_id": "5>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22141"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_002.draft.json",
+   "thesis_id": "5>2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22214"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_003.draft.json",
+   "thesis_id": "5>3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22219"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_004.draft.json",
+   "thesis_id": "5>4",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22224"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_005.draft.json",
+   "thesis_id": "5>5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22229"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_006.draft.json",
+   "thesis_id": "5>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22234"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_007.draft.json",
+   "thesis_id": "5>7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22237"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_008.draft.json",
+   "thesis_id": "5>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22241"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_009.draft.json",
+   "thesis_id": "5>9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22335"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_010.draft.json",
+   "thesis_id": "5>10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22341"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_011.draft.json",
+   "thesis_id": "5>11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22344"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_012.draft.json",
+   "thesis_id": "5>12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22349"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_013.draft.json",
+   "thesis_id": "5>13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22354"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_014.draft.json",
+   "thesis_id": "5>14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22358"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_015.draft.json",
+   "thesis_id": "5>15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22437"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_016.draft.json",
+   "thesis_id": "5>16",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22442"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_017.draft.json",
+   "thesis_id": "5>17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22446"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_018.draft.json",
+   "thesis_id": "5>18",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22452"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_019.draft.json",
+   "thesis_id": "5>19",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22458"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_020.draft.json",
+   "thesis_id": "5>20",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22543"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_021.draft.json",
+   "thesis_id": "5>21",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22547"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_022.draft.json",
+   "thesis_id": "5>22",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22553"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_023.draft.json",
+   "thesis_id": "5>23",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22557"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_024.draft.json",
+   "thesis_id": "5>24",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22561"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_025.draft.json",
+   "thesis_id": "5>25",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22565"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_026.draft.json",
+   "thesis_id": "5>26",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:22644"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_027.draft.json",
+   "thesis_id": "5>27",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22651"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_028.draft.json",
+   "thesis_id": "5>28",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22655"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_029.draft.json",
+   "thesis_id": "5>29",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22660"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_030.draft.json",
+   "thesis_id": "5>30",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22669"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_031.draft.json",
+   "thesis_id": "5>31",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22673"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_032.draft.json",
+   "thesis_id": "5>32",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22752"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_033.draft.json",
+   "thesis_id": "5>33",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22757"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_034.draft.json",
+   "thesis_id": "5>34",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22762"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_035.draft.json",
+   "thesis_id": "5>35",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22767"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_036.draft.json",
+   "thesis_id": "5>36",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22772"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_037.draft.json",
+   "thesis_id": "5>37",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22859"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_038.draft.json",
+   "thesis_id": "5>38",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22862"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_039.draft.json",
+   "thesis_id": "5>39",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22867"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_040.draft.json",
+   "thesis_id": "5>40",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22873"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_041.draft.json",
+   "thesis_id": "5>41",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22877"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_042.draft.json",
+   "thesis_id": "5>42",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22882"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_043.draft.json",
+   "thesis_id": "5>43",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22887"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_044.draft.json",
+   "thesis_id": "5>44",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22892"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_045.draft.json",
+   "thesis_id": "5>45",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22973"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_046.draft.json",
+   "thesis_id": "5>46",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22978"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_047.draft.json",
+   "thesis_id": "5>47",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22983"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_048.draft.json",
+   "thesis_id": "5>48",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22987"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_049.draft.json",
+   "thesis_id": "5>49",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:22994"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_050.draft.json",
+   "thesis_id": "5>50",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23079"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_051.draft.json",
+   "thesis_id": "5>51",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23083"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_052.draft.json",
+   "thesis_id": "5>52",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23089"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_053.draft.json",
+   "thesis_id": "5>53",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23093"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_054.draft.json",
+   "thesis_id": "5>54",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23097"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_055.draft.json",
+   "thesis_id": "5>55",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23101"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_056.draft.json",
+   "thesis_id": "5>56",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23188"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_057.draft.json",
+   "thesis_id": "5>57",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23192"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_058.draft.json",
+   "thesis_id": "5>58",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23198"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_059.draft.json",
+   "thesis_id": "5>59",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23205"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_060.draft.json",
+   "thesis_id": "5>60",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23209"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_061.draft.json",
+   "thesis_id": "5>61",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23292"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_5_062.draft.json",
+   "thesis_id": "5>62",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23297"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_001.draft.json",
+   "thesis_id": "6>1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23354"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_002.draft.json",
+   "thesis_id": "6>2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23437"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_003.draft.json",
+   "thesis_id": "6>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23443"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_004.draft.json",
+   "thesis_id": "6>4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23447"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_005.draft.json",
+   "thesis_id": "6>5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23452"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_006.draft.json",
+   "thesis_id": "6>6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23458"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_007.draft.json",
+   "thesis_id": "6>7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23463"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_008.draft.json",
+   "thesis_id": "6>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23542"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_009.draft.json",
+   "thesis_id": "6>9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23548"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_6_010.draft.json",
+   "thesis_id": "6>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23553"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_001.draft.json",
+   "thesis_id": "7>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23613"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_002.draft.json",
+   "thesis_id": "7>2",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23616"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_003.draft.json",
+   "thesis_id": "7>3",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23620"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_004.draft.json",
+   "thesis_id": "7>4",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23623"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_005.draft.json",
+   "thesis_id": "7>5",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23628"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_006.draft.json",
+   "thesis_id": "7>6",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23713"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_007.draft.json",
+   "thesis_id": "7>7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23717"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_008.draft.json",
+   "thesis_id": "7>8",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23721"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_009.draft.json",
+   "thesis_id": "7>9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23724"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_010.draft.json",
+   "thesis_id": "7>10",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23728"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7_011.draft.json",
+   "thesis_id": "7>11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:23732"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_001.draft.json",
+   "thesis_id": "7a>1",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23816"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_002.draft.json",
+   "thesis_id": "7a>2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23819"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_003.draft.json",
+   "thesis_id": "7a>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23822"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_004.draft.json",
+   "thesis_id": "7a>4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23825"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_005.draft.json",
+   "thesis_id": "7a>5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23828"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_006.draft.json",
+   "thesis_id": "7a>6",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23831"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_007.draft.json",
+   "thesis_id": "7a>7",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23908"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_008.draft.json",
+   "thesis_id": "7a>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23911"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_009.draft.json",
+   "thesis_id": "7a>9",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23914"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_010.draft.json",
+   "thesis_id": "7a>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23918"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_011.draft.json",
+   "thesis_id": "7a>11",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23921"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_012.draft.json",
+   "thesis_id": "7a>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23924"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_013.draft.json",
+   "thesis_id": "7a>13",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23928"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_014.draft.json",
+   "thesis_id": "7a>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23931"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_015.draft.json",
+   "thesis_id": "7a>15",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:23935"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_016.draft.json",
+   "thesis_id": "7a>16",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24024"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_017.draft.json",
+   "thesis_id": "7a>17",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24027"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_018.draft.json",
+   "thesis_id": "7a>18",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24030"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_019.draft.json",
+   "thesis_id": "7a>19",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24033"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_020.draft.json",
+   "thesis_id": "7a>20",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24036"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_021.draft.json",
+   "thesis_id": "7a>21",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24039"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_022.draft.json",
+   "thesis_id": "7a>22",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24042"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_023.draft.json",
+   "thesis_id": "7a>23",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24045"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_024.draft.json",
+   "thesis_id": "7a>24",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24048"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_025.draft.json",
+   "thesis_id": "7a>25",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24051"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_026.draft.json",
+   "thesis_id": "7a>26",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24141"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_027.draft.json",
+   "thesis_id": "7a>27",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24144"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_028.draft.json",
+   "thesis_id": "7a>28",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:24148"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_029.draft.json",
+   "thesis_id": "7a>29",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24152"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_030.draft.json",
+   "thesis_id": "7a>30",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24155"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_031.draft.json",
+   "thesis_id": "7a>31",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24158"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_032.draft.json",
+   "thesis_id": "7a>32",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24161"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_033.draft.json",
+   "thesis_id": "7a>33",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24164"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_034.draft.json",
+   "thesis_id": "7a>34",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "high similarity (0.84) at farmer1998:24167; accepted"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_035.draft.json",
+   "thesis_id": "7a>35",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24171"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_036.draft.json",
+   "thesis_id": "7a>36",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24252"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_037.draft.json",
+   "thesis_id": "7a>37",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24255"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_038.draft.json",
+   "thesis_id": "7a>38",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24257"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_039.draft.json",
+   "thesis_id": "7a>39",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24260"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_040.draft.json",
+   "thesis_id": "7a>40",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24263"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_041.draft.json",
+   "thesis_id": "7a>41",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24267"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_042.draft.json",
+   "thesis_id": "7a>42",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24270"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_043.draft.json",
+   "thesis_id": "7a>43",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24273"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_044.draft.json",
+   "thesis_id": "7a>44",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24276"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_045.draft.json",
+   "thesis_id": "7a>45",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24361"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_046.draft.json",
+   "thesis_id": "7a>46",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24365"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_047.draft.json",
+   "thesis_id": "7a>47",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24369"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_048.draft.json",
+   "thesis_id": "7a>48",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24372"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_049.draft.json",
+   "thesis_id": "7a>49",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24375"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_050.draft.json",
+   "thesis_id": "7a>50",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24378"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_051.draft.json",
+   "thesis_id": "7a>51",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24381"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_052.draft.json",
+   "thesis_id": "7a>52",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24384"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_053.draft.json",
+   "thesis_id": "7a>53",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24387"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_054.draft.json",
+   "thesis_id": "7a>54",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24390"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_055.draft.json",
+   "thesis_id": "7a>55",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24481"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_056.draft.json",
+   "thesis_id": "7a>56",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24484"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_057.draft.json",
+   "thesis_id": "7a>57",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24487"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_058.draft.json",
+   "thesis_id": "7a>58",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24490"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_059.draft.json",
+   "thesis_id": "7a>59",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24493"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_060.draft.json",
+   "thesis_id": "7a>60",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24496"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_061.draft.json",
+   "thesis_id": "7a>61",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24499"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_062.draft.json",
+   "thesis_id": "7a>62",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24502"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_063.draft.json",
+   "thesis_id": "7a>63",
+   "tier": "D",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24505"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_064.draft.json",
+   "thesis_id": "7a>64",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24508"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_065.draft.json",
+   "thesis_id": "7a>65",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24512"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_066.draft.json",
+   "thesis_id": "7a>66",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24600"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_067.draft.json",
+   "thesis_id": "7a>67",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24604"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_068.draft.json",
+   "thesis_id": "7a>68",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24607"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_069.draft.json",
+   "thesis_id": "7a>69",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24610"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_070.draft.json",
+   "thesis_id": "7a>70",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24613"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_071.draft.json",
+   "thesis_id": "7a>71",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24616"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_072.draft.json",
+   "thesis_id": "7a>72",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24619"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_073.draft.json",
+   "thesis_id": "7a>73",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24622"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_7a_074.draft.json",
+   "thesis_id": "7a>74",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24626"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_001.draft.json",
+   "thesis_id": "8>1",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24722"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_002.draft.json",
+   "thesis_id": "8>2",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24728"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_003.draft.json",
+   "thesis_id": "8>3",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24826"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_004.draft.json",
+   "thesis_id": "8>4",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24832"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_005.draft.json",
+   "thesis_id": "8>5",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24837"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_006.draft.json",
+   "thesis_id": "8>6",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24842"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_007.draft.json",
+   "thesis_id": "8>7",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24847"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_008.draft.json",
+   "thesis_id": "8>8",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24851"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_009.draft.json",
+   "thesis_id": "8>9",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24941"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_010.draft.json",
+   "thesis_id": "8>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24945"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_011.draft.json",
+   "thesis_id": "8>11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24951"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_012.draft.json",
+   "thesis_id": "8>12",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24956"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_013.draft.json",
+   "thesis_id": "8>13",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:24960"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_014.draft.json",
+   "thesis_id": "8>14",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25041"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_8_015.draft.json",
+   "thesis_id": "8>15",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25046"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_001.draft.json",
+   "thesis_id": "9>1",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25111"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_002.draft.json",
+   "thesis_id": "9>2",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25117"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_003.draft.json",
+   "thesis_id": "9>3",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25122"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_004.draft.json",
+   "thesis_id": "9>4",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25125"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_005.draft.json",
+   "thesis_id": "9>5",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25190"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_006.draft.json",
+   "thesis_id": "9>6",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25194"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_007.draft.json",
+   "thesis_id": "9>7",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25200"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_008.draft.json",
+   "thesis_id": "9>8",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25204"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_009.draft.json",
+   "thesis_id": "9>9",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25208"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_010.draft.json",
+   "thesis_id": "9>10",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25268"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_011.draft.json",
+   "thesis_id": "9>11",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25272"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_012.draft.json",
+   "thesis_id": "9>12",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25276"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_013.draft.json",
+   "thesis_id": "9>13",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25280"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_014.draft.json",
+   "thesis_id": "9>14",
+   "tier": "C",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25283"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_015.draft.json",
+   "thesis_id": "9>15",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25288"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_016.draft.json",
+   "thesis_id": "9>16",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25354"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_017.draft.json",
+   "thesis_id": "9>17",
+   "tier": "B",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25358"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_018.draft.json",
+   "thesis_id": "9>18",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "partial match (OCR tolerance) at farmer1998:25362"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_019.draft.json",
+   "thesis_id": "9>19",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25366"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_020.draft.json",
+   "thesis_id": "9>20",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25370"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_021.draft.json",
+   "thesis_id": "9>21",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25373"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_022.draft.json",
+   "thesis_id": "9>22",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25378"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_023.draft.json",
+   "thesis_id": "9>23",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25465"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_024.draft.json",
+   "thesis_id": "9>24",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25470"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_025.draft.json",
+   "thesis_id": "9>25",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25475"
+  },
+  {
+   "file": "C:\\Dev\\Pico900\\entries\\own_9_026.draft.json",
+   "thesis_id": "9>26",
+   "tier": "A",
+   "verdict": "verbatim",
+   "note": "exact match at farmer1998:25480"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+  "verifier": "VERIFIER-V2 (agent), 2026-10-10",
+  "verified_date": "2026-10-10",
+  "entries": [
+    {
+      "thesis_id": "3>49",
+      "file": "own_3_049.draft.json",
+      "gate_pass": true,
+      "quotation_verdicts": [
+        {"text_excerpt": "false and can be taken to a heretical sense", "work": "farmer1998", "line": 21058, "verdict": "verbatim", "note": "Lines 21058-21059 in corpus."},
+        {"text_excerpt": "mode of speaking of Dionysius", "work": "farmer1998", "line": 21056, "verdict": "verbatim", "note": "Line 21056: 'mode of speaking of Dionysius [i.e., Dionysius\\'s negative way]'."},
+        {"text_excerpt": "claiming that God totally transcended the realm of und", "work": "farmer1998", "line": 23895, "verdict": "verbatim", "note": "Lines 23895-23896."},
+        {"text_excerpt": "Wrong and can be twisted to a heretical meaning", "work": "dougherty2008", "line": 2246, "verdict": "verbatim", "note": "Line 2246 in Blum's verdict list."},
+        {"text_excerpt": "nego istud intelligere, quod dicit iuxta modum loquendi", "work": "edelheit2008", "line": 17661, "verdict": "verbatim", "note": "Line 17661 footnote 160."},
+        {"text_excerpt": "noticiam angelo appropriatam", "work": "edelheit2008", "line": 17704, "verdict": "verbatim", "note": "Line 17704."},
+        {"text_excerpt": "quae omnia per essentiam cognoscit", "work": "edelheit2008", "line": 17708, "verdict": "verbatim", "note": "Line 17708."},
+        {"text_excerpt": "in Deo est propriissime intellectus et voluntas", "work": "edelheit2022", "line": 20818, "verdict": "verbatim", "note": "Line 20818 in footnote 134."},
+        {"text_excerpt": "Magis improprie dicitur de Deo quod sit intelligens ve", "work": "edelheit2022", "line": 20783, "verdict": "verbatim", "note": "Lines 20783-20784 in footnote 133."},
+        {"text_excerpt": "God is not intellect but is the source and principle o", "work": "howlett2021", "line": 6684, "verdict": "verbatim", "note": "Lines 6683-6684."},
+        {"text_excerpt": "no analogy was perfect", "work": "copenhaver2022", "line": 4533, "verdict": "verbatim", "note": "Line 4533."},
+        {"text_excerpt": "Quaestio XII an deus intelligat", "work": "fornaciari2010", "line": 1044, "verdict": "verbatim", "note": "Line 1044 in table of contents."}
+      ],
+      "promoted": true
+    },
+    {
+      "thesis_id": "3>60",
+      "file": "own_3_060.draft.json",
+      "gate_pass": true,
+      "quotation_verdicts": [
+        {"text_excerpt": "Key propositions in Pico's theory of knowledge", "work": "farmer1998", "line": 21288, "verdict": "verbatim", "note": "Line 21288 (OCR prints '3760-66')."},
+        {"text_excerpt": "the soul has no intrinsic knowledge except an intellig", "work": "farmer1998", "line": 5861, "verdict": "verbatim", "note": "Lines 5861-5862."},
+        {"text_excerpt": "The apparent contradictions in these theses were clear", "work": "farmer1998", "line": 5875, "verdict": "verbatim", "note": "Lines 5875-5876."},
+        {"text_excerpt": "Loquor de illo actu intelligendi", "work": "dougherty2008", "line": 9621, "verdict": "verbatim", "note": "Line 9621 in footnote 48."},
+        {"text_excerpt": "not to the understanding of the doctors whom he adduces", "work": "dougherty2008", "line": 9604, "verdict": "verbatim", "note": "Lines 9603-9604."},
+        {"text_excerpt": "regarded this as the weakest section", "work": "dougherty2008", "line": 9606, "verdict": "verbatim", "note": "Line 9606: 'Dulles regarded this as the weakest section'."},
+        {"text_excerpt": "has its wings clipped", "work": "dougherty2008", "line": 9652, "verdict": "verbatim", "note": "Line 9652."},
+        {"text_excerpt": "De abdita intelligentia animae disputatio", "work": "dougherty2008", "line": 2424, "verdict": "verbatim", "note": "Line 2424 in footnote 25."},
+        {"text_excerpt": "in omnibus meis conclusionibus, semper occulta quaedam", "work": "dougherty2008", "line": 2422, "verdict": "verbatim", "note": "Lines 2422-2423 in footnote 24."},
+        {"text_excerpt": "quod est sine phantasmate", "work": "cassirer1942", "line": 1149, "verdict": "verbatim", "note": "Lines 1149-1150."},
+        {"text_excerpt": "is and remains a scientia abdita", "work": "cassirer1942", "line": 1122, "verdict": "verbatim", "note": "Line 1122 (text has quotation marks around scientia abdita)."},
+        {"text_excerpt": "may have been more numerological than doctrinal", "work": "copenhaver2022", "line": 12147, "verdict": "verbatim", "note": "Lines 12147-12148."},
+        {"text_excerpt": "The soul understands nothing actually and distinctly ex", "work": "copenhaver2022", "line": 5825, "verdict": "verbatim", "note": "Line 5825."},
+        {"text_excerpt": "Quaestio XIII de abdita animae intelligentia", "work": "fornaciari2010", "line": 1045, "verdict": "verbatim", "note": "Line 1045 in table of contents."}
+      ],
+      "promoted": true
+    },
+    {
+      "thesis_id": "4>13",
+      "file": "own_4_013.draft.json",
+      "gate_pass": true,
+      "quotation_verdicts": [
+        {"text_excerpt": "by the import of its language (vi sermonis) the afores", "work": "copenhaver2022", "line": 6851, "verdict": "verbatim", "note": "Lines 6851-6853."},
+        {"text_excerpt": "derogates from divine omnipotence, and this savors of", "work": "farmer1998", "line": 21793, "verdict": "verbatim", "note": "Line 21793."},
+        {"text_excerpt": "Smacks of heresy", "work": "dougherty2008", "line": 2207, "verdict": "verbatim", "note": "Line 2207."},
+        {"text_excerpt": "Hec conclusio ex vi sermonis videtur derogare divine om", "work": "edelheit2022", "line": 20342, "verdict": "verbatim", "note": "Lines 20342-20343 in footnote 96."},
+        {"text_excerpt": "God can take on any creature he chooses", "work": "copenhaver2022", "line": 6750, "verdict": "verbatim", "note": "Line 6750."},
+        {"text_excerpt": "God can take on a stone, a stick of wood and so on", "work": "copenhaver2022", "line": 2180, "verdict": "verbatim", "note": "Line 2180."},
+        {"text_excerpt": "the one called the Stately Doctor", "work": "copenhaver2022", "line": 6885, "verdict": "verbatim", "note": "Lines 6884-6886."},
+        {"text_excerpt": "Per hanc conclusionem ego non intendo negare Deum posse", "work": "edelheit2022", "line": 7764, "verdict": "verbatim", "note": "Lines 7764-7765 in footnote 42."},
+        {"text_excerpt": "Hoc scio quod nec Scotus nec Gotfredus nec Ioannes de", "work": "edelheit2022", "line": 7783, "verdict": "verbatim", "note": "Lines 7783-7785 in footnote 43."},
+        {"text_excerpt": "Henry holds here a more radical and extreme position th", "work": "edelheit2022", "line": 7748, "verdict": "verbatim", "note": "Lines 7747-7749."},
+        {"text_excerpt": "Pico prudently backtracked", "work": "farmer1998", "line": 21794, "verdict": "verbatim", "note": "Line 21794."},
+        {"text_excerpt": "must be approached with greater caution", "work": "farmer1998", "line": 21470, "verdict": "verbatim", "note": "Lines 21469-21470."},
+        {"text_excerpt": "But no other condemned thesis makes a first-person, no", "work": "copenhaver2022", "line": 5819, "verdict": "verbatim", "note": "Lines 5819-5820."},
+        {"text_excerpt": "refusing to accept a proposition doesn't entail its co", "work": "copenhaver2022", "line": 5757, "verdict": "verbatim", "note": "Line 5757."},
+        {"text_excerpt": "He could have written non credo", "work": "copenhaver2022", "line": 6936, "verdict": "verbatim", "note": "Line 6936."},
+        {"text_excerpt": "only an intellectual nature—is capable of this improve", "work": "copenhaver2022", "line": 6486, "verdict": "verbatim", "note": "Line 6486 (footnote marker between 'nature' and 'is' in source)."},
+        {"text_excerpt": "Potuerunt tres personae divinae simul suppositare unam", "work": "copenhaver2022", "line": 5494, "verdict": "verbatim", "note": "Line 5494."}
+      ],
+      "promoted": true
+    },
+    {
+      "thesis_id": "9>8",
+      "file": "own_9_008.draft.json",
+      "gate_pass": true,
+      "quotation_verdicts": [
+        {"text_excerpt": "true and tolerable", "work": "farmer1998", "line": 7081, "verdict": "verbatim", "note": "Lines 7081-7082."},
+        {"text_excerpt": "the orthodoxy of the first was never", "work": "farmer1998", "line": 7080, "verdict": "verbatim", "note": "Lines 7080-7081."},
+        {"text_excerpt": "Can be taken wrongly being presented among the magic th", "work": "dougherty2008", "line": 2243, "verdict": "verbatim", "note": "Line 2243."},
+        {"text_excerpt": "the eleventh thesis is mentioned only because it may l", "work": "dougherty2008", "line": 2257, "verdict": "verbatim", "note": "Lines 2257-2258."},
+        {"text_excerpt": "ut in praecedenti diximus conclusione", "work": "wirszubski1989", "line": 6271, "verdict": "verbatim", "note": "Line 6271."},
+        {"text_excerpt": "non habemus nisi ex modo faciendi miracula quae fecit", "work": "wirszubski1989", "line": 6271, "verdict": "verbatim", "note": "Lines 6271-6272."},
+        {"text_excerpt": "Christ was not a stage wizard like Simon Magus", "work": "copenhaver2019", "line": 17635, "verdict": "verbatim", "note": "Line 17635."},
+        {"text_excerpt": "seems less outrageous in context", "work": "copenhaver2019", "line": 17621, "verdict": "verbatim", "note": "Line 17621."},
+        {"text_excerpt": "Miracula Christi non ratione rei facte sed ratione modi", "work": "edelheit2022", "line": 20927, "verdict": "verbatim", "note": "Lines 20927-20928 in footnote 143."},
+        {"text_excerpt": "viator non potest in lumine naturali", "work": "edelheit2022", "line": 20929, "verdict": "verbatim", "note": "Lines 20929-20930 in footnote 144."},
+        {"text_excerpt": "De miraculis Christi", "work": "edelheit2008", "line": 14875, "verdict": "verbatim", "note": "Line 14875 in footnote 17 listing Question titles."},
+        {"text_excerpt": "Quaestio XI de miraculis Christi", "work": "fornaciari2010", "line": 1043, "verdict": "verbatim", "note": "Line 1043 in table of contents."},
+        {"text_excerpt": "Miracula Christi non", "work": "howlett2021", "line": 2028, "verdict": "verbatim", "note": "Line 2028-2029 in Craven's incipit list."}
+      ],
+      "promoted": true
+    }
+  ]
+}

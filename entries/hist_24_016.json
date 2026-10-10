@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.16",
+ "tier": "B",
+ "latin": "Eadem quae Rhea dicitur ut Saturno coexistens secundum suam summitatem, ut Iouem producit et cum Ioue totales et partiales deorum ordines, dicitur Caeres.",
+ "latin_source": "farmer1998:16161",
+ "translation": "The same goddess who is named Rhea, in so far as she abides together with Saturn at her summit, and in so far as she brings forth Jove and, with Jove, the total and the partial orders of the gods, is called Ceres.",
+ "translation_note": "Latin 'Caeres' (sic) rendered 'Ceres'. Feminine 'goddess' supplied for the relative pronoun's antecedent 'Rhea'; the Latin itself has only 'Eadem quae'. Sense checked against farmer1998:16221; no further crux.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16221; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

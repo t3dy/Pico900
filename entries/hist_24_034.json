@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.34",
+ "tier": "B",
+ "latin": "Duodecim dei de quibus in Phedro dei sunt medii inter supermundanos et mundanos, uinculum illorum.",
+ "latin_source": "farmer1998:16483",
+ "latin_note": "Latin as in the packet with run-together or artefact spellings normalised: 'Phedro_dei' to 'Phedro dei'.",
+ "translation": "The twelve gods of whom the Phaedrus speaks are the intermediate gods between the supermundane and the mundane, the bond of them.",
+ "translation_note": "Print reads 'Phedro_dei' (farmer1998:16483); underscore treated as an OCR artefact of a space or punctuation mark, so 'dei' after 'Phedro' is read as an emphatic repetition and rendered once. Not established whether the original has a comma or another word here. 'illorum' taken as the two ranks, supermundane and mundane. Sense checked against farmer1998:16542.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16542; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

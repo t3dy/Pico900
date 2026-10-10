@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.17",
+ "tier": "B",
+ "latin": "Licet ut tradit theologia distinctae sint diuinae hierarchiae, intelligendum est tamen omnia in omnibus esse modo suo.",
+ "latin_source": "farmer1998:16166",
+ "latin_note": "Packet line ends in the hyphenated 'intelligen-'; completed from the next line of the corpus (farmer1998:16167, 'dum est tamen omnia in omnibus esse modo suo'). Confirmed against Black and Wirszubski's quotations, which read 'intelligendum est tamen omnia in omnibus esse modo suo' (black2006:8798; wirszubski1989:12669).",
+ "translation": "Although the divine hierarchies are distinct, as theology teaches, it must nevertheless be understood that all things are in all things, each in its own manner.",
+ "translation_note": "Latin restored from the line-break hyphenation 'intelligen-' / 'dum' (farmer1998:16166-16167). 'Theologia' rendered 'theology' as in Pico's own gloss on the Proclean source (see farmer1998:16201, which names the Theologia Platonica). Sense checked against farmer1998:16226.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16226; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

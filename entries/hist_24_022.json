@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.22",
+ "tier": "B",
+ "latin": "Licet assimilatiuum ducalium, de quibus dixit praecedens conclusio, proprium sit, appropriatur tamen medio ordini trinitatis suae primo ordine, intellectualibus deis immediate secundum substantiam coniuncto, et tertio secundis generibus se commiscente.",
+ "latin_source": "farmer1998:16278",
+ "translation": "Although the assimilative property belongs to the leaders (ducales) of whom the preceding conclusion spoke, it is nevertheless appropriated to the middle order of their trinity, the first order being joined immediately, in substance, to the intellectual gods, and the third mingling itself with the secondary kinds.",
+ "translation_note": "'ducalium' is left as 'leaders' (ducales); Farmer's note on Proclus's 'leaders' (farmer1998:16314) confirms the group meant. The ablative absolutes 'primo ordine ... coniuncto' and 'tertio ... se commiscente' are taken as describing the first and third orders, with 'medio ordini' the dative of appropriation; the punctuation is uncertain (1486 apparatus, farmer1998:16302). Sense checked against farmer1998:16332.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16332; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

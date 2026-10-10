@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.30",
+ "tier": "B",
+ "latin": "Et si secunda trinitas deorum supermundanorum tota dicatur Proserpina, tamen prima eius unitas apud graecos dicitur Diana, secunda Persephone, tertia Minerua; apud barbaros uero, prima Hechate, secunda anima, tertia uirtus.",
+ "latin_source": "farmer1998:16390",
+ "translation": "And although the whole second trinity of supermundane gods is called Proserpina, nevertheless its first unity is called Diana among the Greeks, the second Persephone, the third Minerva; among the barbarians, however, the first Hecate, the second Soul, the third Power.",
+ "translation_note": "'anima' and 'uirtus' rendered 'Soul' and 'Power', capitalised as names; the Latin gives no Chaldean words. Farmer's note takes 'barbarians' to mean the Chaldeans (farmer1998:16458). The 1486 edition splits the thesis after 'Persephone' and the errata correct it (farmer1998:16402). Sense checked against farmer1998:16445.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16445; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

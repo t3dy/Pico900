@@ -1,0 +1,14 @@
+{
+ "thesis_id": "3>3",
+ "tier": "D",
+ "latin": "Qui attingit rem in diffinitione, attingit rem in alteritate.",
+ "latin_source": "farmer1998:20325",
+ "translation": "One who reaches a thing by way of its definition reaches it in respect of otherness.",
+ "translation_note": "Sense checked against farmer1998:20382. 'in diffinitione' and 'in alteritate' both kept as bare 'in' phrases, as in the Latin; the OCR gives 'diffinitione_attingit' at farmer1998:20325, read as a comma.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-FIX; sense checked against farmer1998:20382; awaiting human check",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 3>, paradoxical conclusions introducing new doctrines, farmer1998:20258).",
+ "writer": "TRANSLATOR-FIX, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

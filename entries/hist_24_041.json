@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.41",
+ "tier": "B",
+ "latin": "Inquantum opifex in forma unius uidet unum unius essentialis, facit deos mundanos illius partis; inquantum ens unius essentialis, facit angelos in eadem parte; in quantum uidet unum entis unialis, facit demones ibi; inquantum esse entis unialis, animalia ibidem facit.",
+ "latin_source": "farmer1998:16595",
+ "latin_note": "Line-end hyphenation in the OCR (farmer1998:16595-16598) is not reproduced in the Latin field.",
+ "translation": "To the extent that the maker sees, in the form of the one, the one of the essentially one, he makes the worldly gods of that part; to the extent that he sees the being of the essentially one, he makes angels in the same part; to the extent that he sees the one of the one-like being, he makes demons there; to the extent that he sees the existing of the one-like being, he makes animals in that same place.",
+ "translation_note": "'unius essentialis' and 'entis unialis' are coined technical genitives; 'esse' is rendered 'existing' to keep it apart from 'ens' (being). The 'inquan-tum' break in the Latin is silent OCR line-hyphenation (farmer1998:16601).",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16650; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

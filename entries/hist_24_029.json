@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.29",
+ "tier": "B",
+ "latin": "Sub tertio eiusdem ordinis est specialium diuisionum conuersio, animarum purgatio, sphera actiuorum et passiuorum, terra cum terrestribus, quae circa Tartarum, et pars occidentalis.",
+ "latin_source": "farmer1998:16385",
+ "translation": "Beneath the third member of that same order lie the turning-back of specific divisions, the cleansing of souls, the sphere of agents and patients, the earth together with earthly things, whatever is around Tartarus, and the western part.",
+ "translation_note": "'specialium diuisionum conuersio' rendered literally; the sense of 'conuersio' as turning back is inferred from 24.24 (Pluto 'conuersiuus'). Sense checked against farmer1998:16439.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16439; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

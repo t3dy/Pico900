@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.19",
+ "tier": "B",
+ "latin": "Quaecunque uel deorum uel naturae operationes duplices sunt, immanentes et transeuntes; per immanentes seipsum unumquodque continet et quae in ipso sunt rationes; per transeuntes ad exteriora se conuertit.",
+ "latin_source": "farmer1998:16176",
+ "latin_note": "Latin as in the packet with run-together or artefact spellings normalised: 'continetet' to 'continet et'.",
+ "translation": "Whatever operations there are, whether of the gods or of nature, are twofold, immanent and transitive: by the immanent ones each thing holds itself together, along with the reasons that are in it; by the transitive ones it turns itself toward external things.",
+ "translation_note": "Print run-on 'continetet' split as 'continet et' (farmer1998:16177). 'rationes' rendered 'reasons' (the scholastic sense, not 'ratios'). Farmer notes that the editio princeps is mispunctuated here (farmer1998:16257); the clause division followed is the packet's. Sense checked against farmer1998:16236.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16236; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

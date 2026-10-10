@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.47",
+ "tier": "B",
+ "latin": "Omnis ordo medius manet in antecedente stabiliter, et in se firmat consequentem.",
+ "latin_source": "farmer1998:16701",
+ "translation": "Every intermediate order stays fixed in the one before it, and establishes the one after it within itself.",
+ "translation_note": "'firmat' is 'establishes/makes firm'; 'antecedente' and 'consequentem' are the preceding and following orders. No further crux.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16758; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

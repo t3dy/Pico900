@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.26",
+ "tier": "B",
+ "latin": "Iupiter, Neptunnus, et Pluto, Saturni regnum partientes, a Saturno Regnum non accipiunt nisi per medium conditoris Iouis.",
+ "latin_source": "farmer1998:16371",
+ "translation": "Jupiter, Neptune and Pluto, in dividing up the realm of Saturn, take that realm from Saturn only by way of Jove the founder, who stands between.",
+ "translation_note": "'Regnum' capitalised mid-sentence in the print (farmer1998:16372); rendered without capital. 'conditoris' rendered 'founder' as in 24.23. Sense checked against farmer1998:16423.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16423; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

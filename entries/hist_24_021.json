@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.21",
+ "tier": "B",
+ "latin": "Proprium est supermundanorum deorum assimilare et tradere entibus compassionem illam et inuicem communionem, quam habent ex similitudine unius ad alterum.",
+ "latin_source": "farmer1998:16273",
+ "translation": "It is proper to the supermundane gods to make things alike and to pass on to beings that fellow-feeling and mutual communion which they hold by reason of the likeness of one to another.",
+ "translation_note": "'assimilare' rendered 'to make alike'; 'compassio' rendered 'fellow-feeling'. The 1486 and 1487 editions print 'super mundanorum' as two words (farmer1998:16299); the packet's normalised spelling is kept. Sense checked against farmer1998:16327.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16327; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

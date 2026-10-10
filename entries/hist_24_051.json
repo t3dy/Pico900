@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.51",
+ "tier": "B",
+ "latin": "Sicut intelligibilia causae sunt uniuersarum serierum, ita intellectualia diuisionum secundum genera communia, supermundana differentium secundum speciem; mundana differentium secundum indiuiduum.",
+ "latin_source": "farmer1998:16717",
+ "translation": "As intelligibles are the causes of all the series, so intellectuals are causes of the divisions by common genera, supermundane things of those differing by species, and mundane things of those differing by individual.",
+ "translation_note": "The three genitive plurals 'diuisionum ... differentium ... differentium' depend on 'causae' understood; supplied in the English. The OCR variant 'universarum spetierum' noted at farmer1998:16730 is Farmer's apparatus, not part of this text.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16776; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

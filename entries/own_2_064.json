@@ -1,0 +1,14 @@
+{
+ "thesis_id": "2>64",
+ "tier": "B",
+ "latin": "Opinio quae Auicennae ascribitur, quod illud unum, quod cum ente conuertitur sit unum quod est principium numeri, et ita consequenter quod unaquaeque res sit una per intentionem additam essentiae suae, si non est necessario uera, est tamen probabilis et defendetur a me.",
+ "latin_source": "farmer1998:19890",
+ "translation": "The view that is assigned to Avicenna, namely that the one which is interchangeable with being is the one that begins number, and therefore that every single thing is one because of an intention superadded to its essence, may not be necessarily true, yet it is probable, and I will uphold it.",
+ "translation_note": "Sense checked; no further crux.",
+ "translator": "machine-drafted 2026-09-25 by TRANSLATOR-T05; sense checked against farmer1998:19945; awaiting human check; re-rendered 2026-09-27 by TRANSLATOR-FIX (D-13)",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 2>, philosophical conclusions dissenting from the common philosophy)",
+ "writer": "TRANSLATOR-T05, 2026-09-25",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

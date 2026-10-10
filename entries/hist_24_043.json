@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.43",
+ "tier": "B",
+ "latin": "Ad sapiens, pulchrum, bonumque dominum_per intellectum, amorem, et fidem ascendimus.",
+ "latin_source": "farmer1998:16606",
+ "latin_note": "OCR underscore in 'dominum_per' (farmer1998:16606) read as a word space; 'amo-rem' joined.",
+ "translation": "By way of intellect, love and faith we climb to the Lord who is wise, beautiful and good.",
+ "translation_note": "The Latin (farmer1998:16606) reads 'Ad sapiens, pulchrum, bonumque dominum', with the participle 'sapiens' in an unexpected form; rendered as three adjectives on 'dominum'. Farmer's note ties 24.43-44 to Theologia Platonica 4 and to the series starting at 2.12 (farmer1998:16679).",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16663; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

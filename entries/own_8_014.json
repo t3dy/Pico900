@@ -1,0 +1,15 @@
+{
+ "thesis_id": "8>14",
+ "tier": "B",
+ "latin": "Per dictum illud Zoroastris, adhuc tres dies sacrificabitis et non ultra, apparuit mihi per arithmeticam superioris merchiaue illos computandi dies, esse in eo dicto expresse praedictum aduentum Christi.",
+ "latin_source": "farmer1998:25041",
+ "latin_note": "'merchiaue' renders Hebrew 'merkabah'; Farmer's note glosses 'superior merkabah' as the speculative branch of the Kabbalah concerning divine things (farmer1998:25053).",
+ "translation": "By that saying of Zoroaster, 'Three days more you shall sacrifice, and no longer', it became clear to me, when I counted those days by the arithmetic of the higher merkabah, that the coming of Christ is foretold in that saying in so many words.",
+ "translation_note": "Sense checked against farmer1998:25073; no divergence.",
+ "translator": "machine-drafted 2026-09-26 by TRANSLATOR-T09b; sense checked against farmer1998:25073; awaiting human check; re-rendered 2026-09-27 by TRANSLATOR-FIX (D-13)",
+ "pico_stance": "endorses",
+ "attribution": "Pico's own opinion (section 8>, on the understanding of Zoroaster and his Chaldean expositors)",
+ "writer": "TRANSLATOR-T09b, 2026-09-26",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

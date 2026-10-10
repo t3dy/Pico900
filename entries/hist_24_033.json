@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.33",
+ "tier": "B",
+ "latin": "Trinitatem Proserpinae comitantur a latere trinitas custoditiua et conseruatiua.",
+ "latin_source": "farmer1998:16479",
+ "translation": "The guardian trinity and the conserving trinity accompany, at its side, the trinity of Proserpina.",
+ "translation_note": "The Latin has one object (Trinitatem Proserpinae), a plural verb (comitantur) and a singular subject 'trinitas' with two adjectives; taken as two trinities, guardian and conserving, on the strength of the plural verb and of 24.35. Sense checked against farmer1998:16538.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-1; sense checked against farmer1998:16538; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-1, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

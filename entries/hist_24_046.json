@@ -1,0 +1,15 @@
+{
+ "thesis_id": "24.46",
+ "tier": "B",
+ "latin": "Sicut secundum causalitatis ambitum, ita secundum nature et gradus sublimitatem haec per ordinem se inuicem excedunt: Anima, Intellectus, Vita, Ens, et Vnum.",
+ "latin_source": "farmer1998:16695",
+ "latin_note": "The packet ends the text at 'Vita,'; 'Ens, et Vnum.' supplied from the next line of the OCR (farmer1998:16697).",
+ "translation": "As in the range of causality, so in the loftiness of nature and rank, these surpass one another in sequence: Soul, Intellect, Life, Being, and the One.",
+ "translation_note": "The packet and theses.json break the Latin off at 'Vita,'; the closing words 'Ens, et Vnum.' are supplied from farmer1998:16697. The list runs upward from Soul to the One, which is how Farmer reads it (farmer1998:16736-16738).",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16754; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}

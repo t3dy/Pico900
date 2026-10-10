@@ -1,0 +1,14 @@
+{
+ "thesis_id": "24.39",
+ "tier": "B",
+ "latin": "Opifex, ad quaternitatem respiciens per se animalis, quatuor fabricat partes principales mundi.",
+ "latin_source": "farmer1998:16587",
+ "translation": "The maker, looking to the fourfold of the animal per se, fashions the four chief parts of the world.",
+ "translation_note": "'opifex' is the demiurge ('maker'); Farmer's note identifies the demiurge here with the third of the seven chief members of the intellectual hebdomad (farmer1998:16622-16625). 'per se animal' is kept in Latin form because it is a fixed term for the intelligible living being.",
+ "translator": "machine-drafted 2026-09-27 by TRANSLATOR-T03b-2; sense checked against farmer1998:16642; awaiting human check",
+ "pico_stance": "reports",
+ "attribution": "reported according to Proclus (section 24 of the historical theses)",
+ "writer": "TRANSLATOR-T03b-2, 2026-09-27",
+ "verifier": "verify_latin_locators.py v1",
+ "verified_date": "2026-10-10"
+}
