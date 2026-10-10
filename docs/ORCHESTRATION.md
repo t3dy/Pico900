@@ -169,7 +169,7 @@ gate output in `--note`.
 
 **Gates for the claims layer** (quote the output): C1 `python scripts/claims_verify.py` prints `TOTAL needs_fix: 0`;
 C2 semantic reading: no `overreaches`/`wrong` outstanding, edited claims re-judged (bump `revision`), and every claim a writer cites has a current `supported` verdict (measured overreach rate 7-15%, so a random sample is not enough for cited claims: use `claims_sheet.py --from-commentary`); C3 `python scripts/claims_score.py`
-prints links rejected 0; C4 `python scripts/commentary_check.py FILE` exits 0; C5 for anything rendered: the page loaded and read.
+prints links rejected 0; C4 `python scripts/commentary_check.py FILE` exits 0 AND a fidelity verifier (not the writer) has judged every cited sentence faithful (`essay_sheet.py`, `docs/briefs/essay_fidelity_verifier.md`); C5 for anything rendered: the page loaded and read.
 
 **Swarm recipe: the claims sweep (used 2026-09-26 for angelology and the Ficino dispute; 14 researchers, ~1,400 claims).**
 1. Write the manifest first (`data/claims/manifest.json`: item, owner, scope, status). One packet per researcher: ranges

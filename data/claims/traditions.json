@@ -1,0 +1,31 @@
+{
+  "_note": "Editor's mapping from claim topic to the tradition a card is coloured by (docs/SITE_DESIGN.md s5). It is a classification for browsing, not a claim about any scholar: a card takes the tradition of its first topic that appears here. Unmapped topics are 'unclassified'. Change a mapping by editing this file; build_cards.py reads it.",
+  "traditions": {
+    "scholastic": {"label": "Scholastic", "colour": "#0072B2"},
+    "platonic": {"label": "Platonic / Neoplatonic", "colour": "#009E73"},
+    "dionysian": {"label": "Dionysian / Christian Neoplatonic", "colour": "#56B4E9"},
+    "aristotelian": {"label": "Aristotelian / Peripatetic", "colour": "#E69F00"},
+    "kabbalistic": {"label": "Kabbalistic / Hebrew", "colour": "#CC79A7"},
+    "esoteric": {"label": "Esoteric / prisca theologia", "colour": "#D55E00"},
+    "exegetical": {"label": "Exegesis and method", "colour": "#7f7f7f"},
+    "humanist": {"label": "Humanist and Ficinian circle", "colour": "#7f7f7f"},
+    "astrology": {"label": "Astrology", "colour": "#7f7f7f"},
+    "reception": {"label": "Reception and critics", "colour": "#7f7f7f"},
+    "biographical": {"label": "Life and career", "colour": "#7f7f7f"},
+    "unclassified": {"label": "Unclassified", "colour": "#b0a99e"}
+  },
+  "topic_tradition": {
+    "angel-location": "scholastic", "oration-orders": "dionysian", "enoch-metatron": "kabbalistic", "three-worlds": "platonic",
+    "heptaplus-structure": "exegetical", "heptaplus-angelic-world": "dionysian", "commento-angelic-mind": "platonic",
+    "death-of-the-kiss": "platonic", "dionysian-hebrew-orders": "dionysian", "dionysius-transmission": "dionysian",
+    "aquinas-dionysius": "scholastic", "de-ente": "platonic", "ficino-dispute": "platonic", "one-beyond-being": "platonic",
+    "separate-substances": "scholastic", "kabbalistic-sources": "kabbalistic", "agent-intellect": "aristotelian",
+    "reception-critics": "reception", "anagogy-allegory": "exegetical", "angelic-cognition": "scholastic",
+    "angelic-composition": "scholastic", "astrology-angels": "astrology", "astrology-disputationes": "astrology",
+    "commento-heptaplus-relation": "exegetical", "commento-poros-penia": "platonic", "concord-method": "humanist",
+    "demons-fallen-angels": "dionysian", "esotericism": "esoteric", "exegetical-authorities": "exegetical",
+    "ficino-angelology": "platonic", "hebrew-informants": "kabbalistic", "heptaplus-hebrew-method": "kabbalistic",
+    "jacobs-ladder": "dionysian", "mutual-containment": "platonic", "oration-archangels": "dionysian",
+    "oration-ascent": "platonic", "pico-biography": "biographical", "prisca-theologia": "esoteric", "sefirot-heptaplus": "kabbalistic"
+  }
+}

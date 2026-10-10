@@ -1,0 +1,421 @@
+{
+  "essay": "docs/angelology/COMMENTARY.md",
+  "verifier": "EV-7",
+  "date": "2026-09-28",
+  "judged": [
+    {
+      "sentence": "S001",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S002",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Framing about the corpus; asserts no attributed fact. But its rule (scholar named in the sentence) is broken by S047 and S049."
+    },
+    {
+      "sentence": "S003",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S004",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Sentence-splitter artifact: 'Michael J.' / 'B. Allen reports it' is one sentence with S005; read together it names Allen and is faithful."
+    },
+    {
+      "sentence": "S005",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S006",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S007",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S008",
+      "verdict": "faithful",
+      "note": "'setting aside' is a fair paraphrase of 'unsatisfied by'; no stronger verb than the claim's sense."
+    },
+    {
+      "sentence": "S009",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S010",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S011",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S012",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S013",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S014",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S015",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S016",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S017",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S018",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S019",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S020",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S021",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S022",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S023",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S024",
+      "verdict": "faithful",
+      "note": "Pico's rhetorical question ('who will dare...') is rendered as a warning; source line 76 'It is unlawful, as the mysteries have it' supports 'forbidden by the mysteries'. Acceptable."
+    },
+    {
+      "sentence": "S025",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S026",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S027",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S028",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S029",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S030",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S031",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S032",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S033",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S034",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S035",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Editor's inference from the cited claims; asserts no uncited fact."
+    },
+    {
+      "sentence": "S036",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S037",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S038",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S039",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S040",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Editor's framing; the promise 'each sentence names the scholar' is not kept by S047 and S049."
+    },
+    {
+      "sentence": "S041",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S042",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S043",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S044",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S045",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S046",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S047",
+      "verdict": "faithful",
+      "note": "Content faithful, but the reporter is not named in the sentence ('is reported'); contradicts S002 and S040, which promise the scholar is named in every sentence. Reads as Allen only by chaining from S046."
+    },
+    {
+      "sentence": "S048",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S049",
+      "verdict": "faithful",
+      "note": "Content faithful (source allen2017:6322-6328 has 'adult', 'first circle', 'the Ideas' first cause'); reporter unnamed in the sentence ('is reported', 'on this account'), contradicting S002/S040."
+    },
+    {
+      "sentence": "S050",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S051",
+      "verdict": "faithful",
+      "note": "Dionysius's teaching is given through Allen (source has Allen stating it, allen2017:6361-6363); not in the essay's own voice."
+    },
+    {
+      "sentence": "S052",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S053",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S054",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S055",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S056",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S057",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S058",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S059",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S060",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S061",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S062",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S063",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S064",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S065",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S066",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S067",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S068",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S069",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S070",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S071",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S072",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S073",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S074",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S075",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S076",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S077",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S078",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S079",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S080",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S081",
+      "verdict": "faithful",
+      "note": "'Flavius' and 'gematria' are not in the claim restatement but are in Black (black2006:975, 7538; 'by Mithridates' at 7562). Supported."
+    },
+    {
+      "sentence": "S082",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S083",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S084",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S085",
+      "verdict": "overreaches",
+      "reason": "'the wider tradition Pico draws on' is not in claim black2006-c:001, which concerns the (Peripatetic, Greek and Arab) commentary tradition on Aristotle's two factors of the intellect; that Pico draws on it is the editor's inference, not Black's statement in the cited passage.",
+      "suggested_sentence": "Black finds that the commentary tradition on the intellect's two factors likewise reached no consensus: whether the active intellect is God, a transcendent entity between God and man, or an aspect of the individual human soul was never agreed [black2006-c:001]."
+    },
+    {
+      "sentence": "S086",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S087",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S088",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S089",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S090",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S091",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S092",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S093",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S094",
+      "verdict": "overreaches",
+      "reason": "'her note cites only Pico's Conclusions 28>2 for the change' is not in cited claim howlett2021:094. It is true of the source (howlett2021:6063, note 174: 'Pico, Conclusions (1998, 346, 28 > 2)'), but it is an uncited fact about a note; the claim gives only Howlett's flat statement.",
+      "suggested_sentence": "Howlett states that Pico changes Pseudo-Dionysius's hierarchy of angels from nine to ten, the number of the sefirot [howlett2021:094]."
+    },
+    {
+      "sentence": "S095",
+      "verdict": "faithful",
+      "note": "Faithful; the Copenhaver hedge ('seems better') is preserved."
+    },
+    {
+      "sentence": "S096",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Correctly marked 'not established by the sources consulted'; a corpus-scope statement, not an attributed fact."
+    }
+  ],
+  "patterns": "Round-1 (invented framing sentences) and round-2 problems (dropped hedges S023/S044, added causal or evaluative words, S028 and S094 attribution shifts, S069 and S076 sense changes) do not recur: hedges are kept, attributions run through the editors, Black, Allen, Howlett, the translators, and Dionysius, Aquinas and Gregory only through a scholar or through Pico. Remaining problems are small: S094 adds an uncited fact about Howlett's note; S085 adds 'the tradition Pico draws on'; S047 and S049 leave the reporter unnamed against S002/S040's own rule. No Aquinas, Scotus or Dionysius claim stands in the essay's own voice."
+}

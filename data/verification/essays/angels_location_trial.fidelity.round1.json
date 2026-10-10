@@ -1,0 +1,376 @@
+{
+ "essay": "docs/essays/angels_location_trial.md",
+ "verifier": "EV-5",
+ "date": "2026-09-27",
+ "judged": [
+  {
+   "sentence": "S008",
+   "verdict": "overreaches",
+   "reason": "The cited claim (014) says only that Pico shifted from Hell to angels and that Copenhaver calls the motives easy to imagine; the doctrine that Christ's soul and angels were both 'separated substances' is not in it (though it is in copenhaver2022:1881-1883), and the sentence states it as the essay's own account of scholastic doctrine, not as Copenhaver's. Needs its own claim or a Copenhaver attribution.",
+   "suggested_sentence": "Copenhaver says that Christ's soul in Hell, as scholastic theologians described it, was a separated substance, separated from his body, and that angels, pure spirits without bodies, were also treated as separated substances [copenhaver2022-angels:014]."
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "overreaches",
+   "reason": "'the same pair' (as Lombard's) is the editor's equation, not in the claim; the claim says Albert REJECTS the view that intelligences and souls are in place definitively, which the sentence omits, and Albert only refers to philosophers who use John of Damascus's account rather than reporting it as his own.",
+   "suggested_sentence": "Edelheit reports that Pico cites Albert, who refers to philosophers using John of Damascus's double account of being in a place, circumscriptive and definitive, and rejects the definitive account for intelligences and souls [edelheit2022:092]."
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "overreaches",
+   "reason": "Claim 012 says Pico remembered scriptural texts that SEEM to give angels a place by describing them as sent, and held the message is that angels act here or there; the sentence drops 'seem' and states as the essay's fact that Scripture pressed, and the Gabriel and Jacob's-ladder examples are not in claim 012 (they are in 009 and 025).",
+   "suggested_sentence": "Pico remembered scriptural texts that seem to give angels a place by describing them as sent, though he held that the biblical message is that angels act here or there where they were not previously active, not that they are in a place [copenhaver2022-angels:012]."
+  },
+  {
+   "sentence": "S019",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful",
+   "note": "Supported by the source: Copenhaver note 67 cites Aquinas ST 3.52.2 (copenhaver2022:1858); the passage is not quoted."
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful",
+   "note": "The 'final intrinsic determination of its substance' detail is not in the restatement but is in Edelheit's text (edelheit2022:7860)."
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S028",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "overreaches",
+   "reason": "'for its own sake' is not in the claim; Edelheit only says the non-dogmatic approach 'might have been very appealing' to Pico, whose own approach was non-dogmatic and inclusive.",
+   "suggested_sentence": "Edelheit suggests that Henry's honest, non-dogmatic approach might have been very appealing to Pico, whose own approach was non-dogmatic and inclusive [edelheit2022:083]."
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "overreaches",
+   "reason": "Claim is hedged ('might just be the origin'); 'proposes as the origin' drops the modal.",
+   "suggested_sentence": "Edelheit finds in Thomas's Quodlibet 5, q. 4 a hierarchy of degrees even among angels of one order, which he suggests might be the origin of Pico's angelus beatior [edelheit2022:062]."
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful",
+   "note": "Rests on the claim's first quotation (copenhaver2022:1828-1829), not its restatement; verbatim."
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful",
+   "note": "The Latin of article 218 appears in Edelheit's note (edelheit2008:15555)."
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "overreaches",
+   "reason": "Claim 010 says Pico, citing Godfrey, said Tempier's articles need much correction since SOME are false and SOME contradict themselves; the sentence says Pico treats 'them' (the articles generally) as self-contradictory.",
+   "suggested_sentence": "Pico, with Godfrey behind him, treats some of them as false or self-contradictory and in need of correction [copenhaver2022-angels:010]; Garsia treats the same articles as a criterion, and Edelheit reports that Garsia concludes that the third, fourth and fifth views of angelic place should be condemned as \"erroneous, false and indicative of heresy\" [edelheit2022:131]."
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "overreaches",
+   "reason": "'One of them' points back to the 115 theses assigned to the six Latin philosophers (S055). Claim 004 says only that Pico cited a non-condemned thesis; in data/inventory/theses.json the thesis 'De modo quo angeli sint in loco, non differunt Thommas et Scotus' is 1>17, in 'Paradoxical reconciliations', outside those 115.",
+   "suggested_sentence": "Pico cited a thesis, which was not condemned, saying \"that Thomas and Scotus do not differ about angels on their manner of being in a place\" [copenhaver2022-angels:004]."
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "misattributed",
+   "reason": "Edelheit reports what PICO argues about Durandus (an opinion Durandus held as probable and defensible); the sentence states in the essay's own voice, in a relative clause, that Durandus held it. Durandus is not in the corpus.",
+   "suggested_sentence": "Pico also invoked Durandus, whom, Edelheit reports, Pico presents as having held the effect-only account probable and defensible together with the article of faith [edelheit2022:094]."
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful",
+   "note": "'without any contradiction' is in the source (edelheit2022:19599). 'The same Summa passage' is a small stretch: Pico's report names the third part of the Summa generally, Garsia q. 52; acceptable."
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful",
+   "note": "The 'so far in agreement with Scotus, differs where the Scotists...' structure is not in the restatement but is in Edelheit's text (edelheit2022:7857-7861)."
+  },
+  {
+   "sentence": "S073",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful",
+   "note": "'much discussed by philosophers' is in the source (copenhaver2022:895)."
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "overreaches",
+   "reason": "Claim says Edelheit 'notes that in the Apology it was in Pico's interest to appear as little original as possible'; the sentence turns this into a reading of the defence 'as a strategy' in which it was 'crucial'.",
+   "suggested_sentence": "He notes that in the defence it was in Pico's interest to appear as little original as possible [edelheit2022:122]."
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful",
+   "note": "The 'agrees with the fourth' clause is in the source (edelheit2022:19973-19978)."
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful",
+   "note": "The reasons given for the third, fourth and fifth views are in the source (edelheit2022:20028-20037)."
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "misattributed",
+   "reason": "Garsia's citation of Giles, Henry, Godfrey, Scotus and Auriol as calling Thomas 'common doctor' (a claim marked hedged) is stated in the essay's own voice in a relative clause; and 'He' now follows a sentence whose subject is Edelheit.",
+   "suggested_sentence": "Garsia identifies the common way with Thomas, citing Giles of Rome, Henry of Ghent, Godfrey of Fontaines, Scotus and Peter Auriol as calling him the common doctor, and treats Pico's effort to blur the common way with the views of Scotus and the Nominalists as ridiculous [edelheit2022:121]."
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful",
+   "note": "'does not seem to be aware' is in the source (edelheit2022:20130) though not in the restatement."
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "overreaches",
+   "reason": "'whom Pico cites' is not in claim 011 (it is in claim 010, not cited here); the claim's quotation says only that Godfrey's manifesto 'could have taught Pico'.",
+   "suggested_sentence": "Copenhaver notes that Godfrey argued, in a quodlibetal question on angels, that a question so unsettled that beliefs may vary without risk to faith should not be chained to one view, and reads this as \"debate open in the scholastic way, where fides always came first\" [copenhaver2022-angels:011]."
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S114",
+   "verdict": "overreaches",
+   "reason": "Claim 083 is hedged: Edelheit suggests Henry's candour 'might have been very appealing' to Pico; 'leans on' asserts that Pico did.",
+   "suggested_sentence": "Edelheit suggests that Pico may have been drawn to Henry's candour [edelheit2022:083], and Pico offers a list of authorities that Henry supports only in part [edelheit2022:080]."
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  }
+ ],
+ "uncited_flags": [
+  {
+   "sentence": "S007",
+   "reason": "Uncited attribution to Copenhaver ('puts the problem at the centre of Pico's defence in Q1') plus the detail 'one district of Hell rather than another', which no cited claim supports; needs a citation or should be framed as editorial."
+  },
+  {
+   "sentence": "S072",
+   "reason": "Says the 2008 account gives the operation explanation to the Scotists; edelheit2008:079 says the second (Scotus and the Scotists) explanation is the one Pico prefers, so the contrast with 2022 is drawn more sharply than the 2008 claim supports."
+  },
+  {
+   "sentence": "S117",
+   "reason": "Evaluative generalisation ('fought with the schools' weapons and decided on the schools' terms') resting on no claim; frame as the editor's judgment or cite."
+  }
+ ],
+ "patterns": "Hedge-dropping on Edelheit's 'might/seems/suggests' (S030, S035, S114) and on Copenhaver's 'some' (S050); a scholar's report of what PICO says about an authority slipping into the essay's voice (S063, S094); connective clauses and examples added beyond the cited claim (S008, S011, S018, S056). No sentence gives Aquinas, Scotus, Dionysius or Ficino's own view in the essay's voice."
+}

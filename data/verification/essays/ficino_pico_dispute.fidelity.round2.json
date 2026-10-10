@@ -1,0 +1,541 @@
+{
+ "essay": "docs/essays/ficino_pico_dispute.md",
+ "verifier": "EV-6",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S001",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S002",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S003",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S004",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S005",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "overreaches",
+   "reason": "The opening clause asserts in the essay's own voice that this corpus 'would carry the doctrine of a God above being into Christian theology'. black2006-b:033 gives only Black's description and attribution history of the corpus; it says nothing about carrying that doctrine. A Dionysian doctrine is stated as the essay's own fact.",
+   "suggested_sentence": "Black describes the corpus as \"a group of religious works written in Greek by an unknown author in the late fifth or early sixth century and heavily influenced by the later Neoplatonists\" [black2006-b:033]."
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful",
+   "reason": "faithful on the cited claim. Note: the second quotation ('a late fifth- or early sixth-century follower of Proclus') is uncited in the sheet; it is verbatim at allen2017:479-480, so the inconsistency it reports is real. Consider adding that locator."
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful",
+   "reason": "faithful; attributed to Allen; fragment continued in S013."
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "overreaches",
+   "reason": "Howlett says the author 'became influential in Latin Europe in the twelfth century'; the sentence says the corpus 'reached Latin Europe in the twelfth century', which turns influence into arrival (Black, black2006-b:033 context, notes Latin translations from the ninth century on). 'Earlier channel still' and 'having shaped' are also the essay's gloss.",
+   "suggested_sentence": "Howlett's account of the medieval transmission says that the author of the corpus became influential in Latin Europe in the twelfth century, influencing Aquinas and mystics such as Meister Eckhart, and became even more popular through Ambrogio Traversari's 1436 translation [howlett2021:090] -- though the same passage calls that wider popularity a fourteenth-century phenomenon while dating the translation itself to 1436, a discrepancy taken up again in Stop 6 (ed.)."
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "misattributed",
+   "reason": "A claim about what Aquinas came to see (that the Liber de causis rested on Proclus) is stated flatly in the essay's own voice; Aquinas is not in the corpus and the claim is Black's. The Elements/Liber de causis history is Black's report.",
+   "suggested_sentence": "Black reports that Proclus's Elements of Theology passed into Arabic and then into Latin as the Liber de causis, attributed to Aristotle until the thirteenth century, when William of Moerbeke's 1268 translation of the Elements let Thomas Aquinas see that the Liber de causis was based on Proclus's work [black2006-b:119]."
+  },
+  {
+   "sentence": "S019",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S024",
+   "verdict": "overreaches",
+   "reason": "'Specifies the mechanism' is the essay's gloss. wallis1965-deente:109 says only that in the passage on being in the second sense Pico is utilizing the metaphysics of Aquinas (the first Christian philosopher to base metaphysics on the real distinction of ens and ipsum esse); it is not offered as the mechanism of the derivation Miller asserts in :110.",
+   "suggested_sentence": "Miller states flatly that \"there can be no doubt that Pico derived his metaphysic of existence from Thomas\" [wallis1965-deente:110], and says of the passage on being in the second sense that Pico is there utilizing the metaphysics of Aquinas, the first Christian philosopher to base his metaphysics on the real distinction between that which participates existence, ens, and the act of existing itself, ipsum esse [wallis1965-deente:109]."
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "overreaches",
+   "reason": "The (ed.) inference asserts that both Ficino's Platonism and Pico's treatise 'have to find their footing' against the Thomist account of God as ipsum esse. No cited claim says so, and Sudduth (dougherty2008:003) says Pico's own view reproduces that Thomist position, so the treatise cannot be positioned against it. 'Pico's own Dionysian reading' also adds Dionysius to a Howlett claim (howlett2021:116) that quotes De ente without naming him.",
+   "suggested_sentence": "Miller and Sudduth describe Pico's account of God as ipsum esse in Thomist terms [wallis1965-deente:109|dougherty2008:003], while Howlett quotes De ente as placing God above being and dwelling in darkness [howlett2021:116]; the treatise holds both, and this is the tension Ficino's Platonism and Pico's treatise share as ground (ed.)."
+  },
+  {
+   "sentence": "S028",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "overreaches",
+   "reason": "Miller's report (wallis1965-deente:107) is that Ficino, following Plotinus and Proclus, took Plato's dialectical form for an outer covering of profound metaphysical content. That is not 'the same reading' as Howlett's One above Being, nor 'from the other side of the text'; the equation of the two is the essay's.",
+   "suggested_sentence": "Miller's introduction to the Wallis translation reports that for Ficino, following Plotinus and Proclus, \"Plato's dialectical form is only an outer covering for a profound metaphysical content\" [wallis1965-deente:107]."
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful",
+   "reason": "faithful; uncited in the essay's voice but supported by allen2017-other:040 plus :073 in combination (Allen: commentary written in Ficino's last decade)."
+  },
+  {
+   "sentence": "S032",
+   "verdict": "overreaches",
+   "reason": "Minor. Allen's sixth step is to 'banish the condition of being either soul or intellect' from the unity; the sentence renders this as 'the very distinction of soul from intellect', a different thing, and folds seven steps into a list of six. The quotation and the via negativa report are faithful.",
+   "suggested_sentence": "Allen reports that Ficino held the via negativa to have begun with the Parmenides and to have reached its height in the works of the Areopagite [allen2017-other:040], and describes the shape Ficino gave that apophaticism in his commentary on the Mystical Theology: a sevenfold contemplative ascent by subtraction, banishing in turn body, corporeal passions, imagination's images, reason's discursive arguments, intellect's multiformity, and finally the condition of being either soul or intellect, until \"we will always find the absolute Unity itself, that is, God, lying concealed beneath our own soul's particular unity\" [allen2017-other:073]."
+  },
+  {
+   "sentence": "S033",
+   "verdict": "overreaches",
+   "reason": "Minor. Howlett's note (howlett2021:049) says where Ficino and Pico deviate: Ficino emphasizes one God rather than the Proclan baroque universe of henads, whereas Pico's Kabbalism allows him to explore Proclus in all his complexity. 'Later' Kabbalistic elaboration, 'where this leaves Ficino' and 'kept to' are the essay's additions; 'Proclus's own metaphysics' slightly narrows 'Proclus in all this complexity'.",
+   "suggested_sentence": "Howlett notes that where Ficino and Pico deviate, Ficino emphasizes one God rather than \"the Proclan baroque universe of henads,\" whereas Pico's Kabbalism allows him to explore Proclus in all his complexity [howlett2021:049]."
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "overreaches",
+   "reason": "Minor. 'That life's project' is the essay's evaluation; wallis1965-deente:002 says only that Pico describes his own philosophy as making a concordant philosophy of Plato and Aristotle.",
+   "suggested_sentence": "Pico's own description of his philosophy follows at once, in his own words: \"those who think that Aristotle disagrees with Plato disagree with me, who make a concordant philosophy of both\" [wallis1965-deente:002]."
+  },
+  {
+   "sentence": "S040",
+   "verdict": "overreaches",
+   "reason": "'The Academy after him' is not in the text: Pico writes 'The Academy opposes this, and thinks that the one is prior to being' (wallis1965:2478). No succession after Aristotle is stated.",
+   "suggested_sentence": "Chapter one states the disagreement to be resolved: Aristotle holds in many places that the one and being, and likewise the true and the good, \"correspond to each other and are the same in extent,\" where the Academy opposes this and holds the one prior to being [wallis1965-deente:007]."
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful",
+   "reason": "faithful as framing (chapter three, wallis1965:2615); 'third' authority is not counted or cited."
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S048",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful",
+   "reason": "faithful as framing (chapter four begins wallis1965:2689); 'the whole argument depends on' is mild evaluation."
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S057",
+   "verdict": "overreaches",
+   "reason": "(ed.) 'His clearest statement' is an evaluation no claim makes, and 'a truth unknown to Aristotle and the Peripatetics' comes from wallis1965-deente:036, which this sentence does not cite; :038 says only that the Platonists hold the one superior to being in an absolute sense against Aristotle, not in the sense in which Pico also agrees.",
+   "suggested_sentence": "Chapter five turns the same distinction against the Platonists directly: Pico sets out to refute their arguments that the one is superior to being, since they hold this \"not in the sense in which we also agree with it, but in an absolute sense, against Aristotle\" [wallis1965-deente:038]; the quarrel, that is, is not over whether God is above being, which Pico has already granted in his own vocabulary, but over the absolute sense the Platonists give the thesis (ed.)."
+  },
+  {
+   "sentence": "S058",
+   "verdict": "overreaches",
+   "reason": "Minor. The colon introduces a 'detour through the angels' and then lists two items, but wallis1965-deente:063 concerns God as intellect and intelligible, not angels; 'brief detour' is also the essay's evaluation.",
+   "suggested_sentence": "The chapter's discussion of the angels notes that their life is not perfect, since \"unless the vivifying ray of divine light constantly warmed it, it would all fall into nothingness\" [wallis1965-deente:043]; separately, Pico adds that if intellect is taken as a nature tending outside itself to the intelligible as to another thing, Aristotle no less than the Platonists will deny that God is intellect and intelligible [wallis1965-deente:063]."
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful",
+   "reason": "faithful; part of a sentence completed and cited at S060."
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful",
+   "reason": "faithful; part of a sentence completed and cited at S066."
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S073",
+   "verdict": "overreaches",
+   "reason": "Uncited number: 'the nine chapters'. The treatise has ten chapters (Chapter Ten at wallis1965:3394; the essay itself says so in S070), and Miller's summary passage (wallis1965:855-864) does not count chapters.",
+   "suggested_sentence": "Miller's summary of what the treatise as a whole accomplishes states plainly what kind of resolution this is (ed.)."
+  },
+  {
+   "sentence": "S074",
+   "verdict": "misattributed",
+   "reason": "Miller's interpretation (that the two philosophies can be made to coincide only when transformed, and only because both highest principles are identified with a God who is existence itself) is stated as the essay's own fact in the first clause, before it is attributed to Miller in the second.",
+   "suggested_sentence": "Miller holds that Plato's and Aristotle's philosophies, impossible to reconcile on their own terms, can be made to coincide only when transformed into a different philosophy in which the highest principle of each is identified with a God who is existence itself, so that Pico's concord \"has been accomplished by transforming both into a different metaphysics\" [wallis1965-deente:116] -- neither simply Aristotle's own metaphysics nor simply the Academy's, but Pico's (ed.)."
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S079",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S085",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "misattributed",
+   "reason": "howlett2021:036 is a scholar_report: Howlett reports that Plato is 'normally understood' to posit the One above Being. The sentence turns her report into the essay's own generalisation about how Plato is normally read.",
+   "suggested_sentence": "Howlett reports that Plato is normally understood to posit that the One is above Being, particularly in the Parmenides, differing from Aristotle, who places the two together [howlett2021:036]."
+  },
+  {
+   "sentence": "S089",
+   "verdict": "overreaches",
+   "reason": "Inverts the claim. Howlett says that to reach concord Pico 'needed to remove several obstacles in Plato, particularly Parmenides', and that he does so by arguing the dialogue is a rhetorical exercise. The sentence makes Pico's insistence itself 'the obstacle'; the obstacle is the Parmenides, and the insistence is his means of clearing it. 'Exactly' is also added.",
+   "suggested_sentence": "Howlett says that to reach concord Pico needed to remove several obstacles in Plato, particularly the Parmenides, which he argues is \"simply a rhetorical exercise, meaning that we should not take Plato at his word\" [howlett2021:038]."
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S095",
+   "verdict": "overreaches",
+   "reason": "(ed.) Howlett (howlett2021:138, not cited here) says only that the causal/formal distinction is 'at odds with Ficino's understanding of Platonism' and quotes Pico's unnamed 'distinguished Platonist'; she does not say the Commentary answers Ficino's reading of Plotinus. Only Allen glosses the Platonist as Ficino. 'Both read ... as answering Ficino's reading of Plotinus' credits Allen's reading to Howlett too.",
+   "suggested_sentence": "Whether or not De ente's own proem names its target, Allen reads a different text of Pico's, the Commentary on a canzone of Benivieni, as answering an unnamed great Platonist's astonishment at Plotinus, whom Allen glosses as clearly Ficino [allen2017-venus:020] (ed.)."
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S097",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "misattributed",
+   "reason": "'Probably because he lost interest in this debate or because of his untimely death' is Edelheit's own conjecture (edelheit2022:22550), placed unattributed after Gianfrancesco's Vita; Gianfrancesco's own Latin (note 1) gives different reasons. A reader takes the probable reasons to be the Vita's.",
+   "suggested_sentence": "Gianfrancesco's Vita of his uncle mentions Cittadini as the only critic named there, calling him an \"excellent philosopher\"; Gianfrancesco felt obliged to answer Cittadini's fourth objection, to which his uncle had not responded, which Edelheit thinks was \"probably because he lost interest in this debate or because of his untimely death\" [edelheit2022:002]."
+  },
+  {
+   "sentence": "S099",
+   "verdict": "misattributed",
+   "reason": "'Admits, albeit implicitly' and 'the title to be read together with the proem' are Edelheit's inference (the claim is a scholar_report), stated as the essay's own fact about what Pico admits.",
+   "suggested_sentence": "Edelheit reads Pico's first reply to Cittadini as opening by thanking him for his criticism and as admitting, albeit implicitly, that the account of being and the one focuses on converting the concepts into one another, the title to be read together with the proem, which gives the treatise its focus [edelheit2022:017]."
+  },
+  {
+   "sentence": "S100",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "overreaches",
+   "reason": "(ed.) Uncited fact. Edelheit's evidence (edelheit2022:052) is of cordial relations between Cittadini and Gianfrancesco after Pico's death and a bond of compatres before the disputation; nothing cited shows that Pico's and Cittadini's relations 'stayed warm even as the argument dragged on'.",
+   "suggested_sentence": "The personal relations around this scholarly friction, on Edelheit's evidence, were cordial: Cittadini and Gianfrancesco corresponded with mutual respect (ed.)."
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S111",
+   "verdict": "overreaches",
+   "reason": "(ed.) 'By contrast' sets Howlett against Miller, but the two are compatible: Howlett says Ficino had 'probably not yet written a commentary' when Pico wrote (published 1496); Miller says the commentary was begun in 1492, the same year as the treatise (wallis1965-deente:106). Howlett herself dates the commentary to 1492-1494 (S079).",
+   "suggested_sentence": "Howlett's own hedge is instructive here: Ficino, she writes, \"had probably not yet written a commentary when Pico wrote On Being and the One,\" publishing it only in 1496 [howlett2021:039]; Miller's note dates the beginning of that commentary to 1492 [wallis1965-deente:106] (ed.)."
+  },
+  {
+   "sentence": "S112",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S114",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S119",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S120",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S121",
+   "verdict": "faithful"
+  }
+ ],
+ "patterns": "(1) Round-1 problems largely did not recur: the earlier uncited Aquinas/Dionysius sentences and the reversed S097 point are gone, and Stop 4's Howlett/Edelheit dispute stays a dispute. (2) Residual pattern: a scholar's interpretation stated in the essay's own voice before or without attribution (S018, S074, S088, S099) and an unattributed conjecture placed after a primary source (S098). (3) New from the revision: S089 inverts Howlett (the obstacle is the Parmenides, not Pico's insistence), S073 says 'nine chapters' where the treatise has ten, S027 sets Pico's treatise against the Thomist position Sudduth says it reproduces, S095 credits Allen's Ficino gloss to Howlett too. No Scotus sentence exists. Aquinas/Dionysius in own voice: S008 (corpus 'would carry the doctrine of a God above being') and S018 (Aquinas came to see...)."
+}

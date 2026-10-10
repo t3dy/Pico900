@@ -1,0 +1,416 @@
+{
+ "essay": "docs/essays/angelic_orders_sources.md",
+ "verifier": "EV-3",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "overreaches",
+   "reason": "cited claim gives Pico's rhetorical question (neither judging nor loving is possible of things unknown) and the Moses example; 'so knowledge has to come first' is the essay's added conclusion",
+   "suggested_sentence": "Pico asks how anyone can either judge or love things unknown, and gives Moses as the example who loved what he had seen and judged as a contemplator [borghesi2012:020]."
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "overreaches",
+   "reason": "editors say the three-stage path was 'often' articulated so; hedge 'often' dropped; 'in Pico's day' is not in the claim",
+   "suggested_sentence": "The editors add that the mystic's three-stage path was often articulated as *purgatio*, *illuminatio*, *unitio* or *perfectio* [borghesi2012:082], and that the Dionysius of the *Celestial Hierarchy* was thought to be the follower of Paul mentioned in Acts [borghesi2012:081]."
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "overreaches",
+   "reason": "Howlett says the nine ACTIVE REALMS of the celestial world reflect both the nine-plus-one Tree and the nine levels of angels; the sentence has 'the nine' (orders, in the preceding sentence) reflect the Tree, which merges the angelic orders with the sefirot in a way she does not state",
+   "suggested_sentence": "Howlett says that only nine realms of the celestial world are active, reflecting both the nine-plus-one variant of the Tree of Life and the nine levels of angels [howlett2021:170]."
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "overreaches",
+   "reason": "Copenhaver says Jewish tradition 'often' preferred ten groups; 'often' dropped",
+   "suggested_sentence": "Copenhaver observes that the Areopagite's nine ranks became canonical for Christians while Jewish tradition often preferred ten groups, and that in a Kabbalist text known to Pico the names were those Pico used, in a different order; Pico's own list puts Cherubim before Seraphim [copenhaver2019-angels:018]."
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "overreaches",
+   "reason": "checked against source: the 'tenth grade' is in the Latin translation of Axelrad's Corona (Cod. Vat. Ebr. 190), not in Pico's thesis, which has nine names; 'missing tenth' and 'the Latin list' suggest a tenth absent from Pico's list",
+   "suggested_sentence": "Wirszubski argues that in the Latin text of Axelrad's source \"the tenth grade cannot possibly be taken to denote an angelic hierarchy\", so that the inference from that text is nine, whereas ten is the usual number in Jewish sources [wirszubski1989-angels:002]."
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "overreaches",
+   "reason": "the 'apparent tenth being no hierarchy' is Wirszubski's argument about Axelrad's text; the Copenhaver claim only translates the nine-name thesis, so the sentence merges two scholars into one finding",
+   "suggested_sentence": "Wirszubski, who prints the Latin of the thesis and of Axelrad's source, infers nine hierarchies and treats the tenth grade of that source as no hierarchy [wirszubski1989-angels:002]; Copenhaver's translation of the thesis likewise lists nine [copenhaver2019-angels:018]."
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "overreaches",
+   "reason": "'do not adopt it' is the essay's inference; the editors say 'It has been suggested' but then describe the arrangement 'as it applies here', so non-adoption is not established",
+   "suggested_sentence": "The editors introduce it with 'It has been suggested' and then describe how the arrangement applies at this point of the text [borghesi2012:071]."
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "overreaches",
+   "reason": "the cited claim has the Hebrew name blank ('named in Hebrew'); 'whom they call Metatron' in Pico's voice supplies the very word that the printed Oration leaves blank and that Bausi restores from Palatino 885 (S063-S066)",
+   "suggested_sentence": "Pico says that the most secret Hebrew theology \"at one time transforms holy Enoch into an angel of divinity\", whom they call by a Hebrew name, and at other times reshapes other men into other spirits [borghesi2012:009]."
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "overreaches",
+   "reason": "'the intellectual reading of Metatron comes from Abulafia' is a source-genealogy stated in the essay's voice; the claim gives only Copenhaver's report that Abulafia identified Metatron with the Agent Intellect",
+   "suggested_sentence": "Copenhaver says that Abulafia urged followers to turn into separate angels by attaining prophecy and identified Metatron, the angel prince, with the Agent Intellect, so that union with the Intellect or Metatron eradicates the self [copenhaver2019-angels:054]."
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "misattributed",
+   "reason": "Black's synthesis of the three worlds is given as the essay's own description of the doctrine, with no scholar named",
+   "suggested_sentence": "In Black's account the highest world is characterised by light, fire, perpetual life and stability, the lowest is its opposite, and the third world is moved by the second and the second by the first [black2006-b:082]."
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "misattributed",
+   "reason": "Black's argument (shared structure only; names and attributes absent; sefirotic metaphysics would probably achieve the opposite) is stated with no subject, as the essay's own fact",
+   "suggested_sentence": "On the sefirot, Black argues that the connection with the spheres is one of shared structure, that the complex of names and attributes which let them serve as an exegetical tool is entirely absent from the *Heptaplus*, leaving only the number ten, and that \"The threefold structure itself... does not require a kabbalistic reading to make sense of it\", the application of sefirotic metaphysics to it probably achieving the opposite [black2006-b:106]."
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "misattributed",
+   "reason": "Wirszubski's finding ('no need to look for its immediate source beyond Recanati') is stated as the essay's own fact and strengthened to 'is the immediate source'",
+   "suggested_sentence": "Wirszubski says that the ultimate source of the thesis that no angel with six wings is ever transformed is undoubtedly the Zohar, and that there is no need to look beyond Recanati, who quotes it, for the immediate source [wirszubski1989-angels:113]."
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "overreaches",
+   "reason": "Copenhaver only judges that Wirszubski's Metatron 'seems better'; the sentence has Copenhaver fill the blank with Metatron, dropping the hedge",
+   "suggested_sentence": "The blank in the *Oration* is filled with Metatron in Bausi's restoration from Palatino 885 [borghesi2012:055], and the blank in the tenth thesis with Metatron by Wirszubski, whose choice Copenhaver thinks seems better, and with Hokmah by Ebgi [copenhaver2019-angels:097]."
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "faithful"
+  }
+ ],
+ "uncited_flags": [
+  {
+   "sentence": "S019",
+   "reason": "asserts an uncited doctrinal fact about what the Oration and the Heptaplus each do (three activities 'inside the top hierarchy' versus 'over all three'); only partly supported by S014, S015 and S018. Recast as the editor's comparison of the cited passages, or cite."
+  },
+  {
+   "sentence": "S035",
+   "reason": "asserts an uncited concordance: that Howlett's 28>2 is the same thesis as Copenhaver's 1K2 and Wirszubski's Conclusio II. Howlett's note gives only 'Conclusions (1998, 346, 28 > 2)'."
+  },
+  {
+   "sentence": "S053",
+   "reason": "asserts a fact about Pico's own text ('the two are kept apart') that is in tension with S033, where Pico says the Kabbalistic books show the hierarchy of angels, the same as Paul and Dionysius; soften to 'Pico names the Dionysian orders as Dionysian and the Hebrew list as Hebrew'."
+  },
+  {
+   "sentence": "S079",
+   "reason": "'are one figure by Pico's own thesis' is stronger than the editors' 'associated with'; only Copenhaver's reading of T2K10 says 'identifies'. Attribute it to Copenhaver."
+  },
+  {
+   "sentence": "S085",
+   "reason": "'the vocabularies touch only where the top triad stands in the place the philosophers give the angelic mind' is an uncited universal that conflicts with S045, S049 and S054 (Farmer's overlay, Din and the powers, Michael and Keter)."
+  }
+ ],
+ "patterns": "Recurring: dropped hedges ('often'), a scholar's argument stated without naming the scholar (S087, S094, S105), and two positions merged (S021 angels and Tree; S041 Wirszubski's tenth grade credited to Copenhaver). Checked: the Dionysian orders, the nine Hebrew hierarchies and the sefirot are not merged in the essay's own voice; the Farmer overlay, Copenhaver's Hasmalim = Thrones and Howlett's first triad stay attributed; the Oration blank (Bausi) and the T2K10 blank (Ebgi, Wirszubski, Copenhaver) are kept distinct, except that S058 supplies 'Metatron' in Pico's voice; the Heptaplus is not called layers. No report of Aquinas, Scotus or Dionysius is put in the essay's own voice; S007, S029, S030 keep them through the editors, Pico or Black. S098 (reworded) is faithful."
+}

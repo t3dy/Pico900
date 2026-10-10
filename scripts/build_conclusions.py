@@ -419,7 +419,7 @@ def build_detail_pages():
     </header>
     <main class="thesis-detail">
         <div class="thesis-header">
-            <div class="thesis-id">{escape_html(thesis_id)}</div>
+            <h1>{escape_html(thesis_id)}</h1>
             <div class="thesis-section">{escape_html(thesis.get("section_name", ""))}</div>
         </div>
 

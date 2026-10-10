@@ -1,0 +1,427 @@
+{
+  "essay": "docs/angelology/COMMENTARY.md",
+  "verifier": "EV-11",
+  "date": "2026-09-28",
+  "judged": [
+    {
+      "sentence": "S001",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S002",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Rule holds: every sentence reporting the Commento now names Allen, Still, Black or the editors (S043-S054, S056)."
+    },
+    {
+      "sentence": "S003",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S004",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Sentence-splitter artifact: 'Michael J.' / 'B. Allen reports it' is one sentence with S005; read together it names Allen."
+    },
+    {
+      "sentence": "S005",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S006",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S007",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S008",
+      "verdict": "faithful",
+      "note": "'setting aside' is a fair paraphrase of 'unsatisfied by'."
+    },
+    {
+      "sentence": "S009",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S010",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S011",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S012",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S013",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S014",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S015",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S016",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S017",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S018",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S019",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S020",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S021",
+      "verdict": "faithful",
+      "note": "Checked dougherty2008:9893-9899: 'natural philosophy does not suffice' and 'beyond the soul and the order of nature' are in Still; three stages are moral philosophy, dialectic, contemplation."
+    },
+    {
+      "sentence": "S022",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S023",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S024",
+      "verdict": "faithful",
+      "note": "Rhetorical question rendered as warning; 'unlawful, as the mysteries have it' supports the sentence."
+    },
+    {
+      "sentence": "S025",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S026",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S027",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S028",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S029",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S030",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S031",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S032",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S033",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S034",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S035",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Editor's inference; asserts no uncited fact."
+    },
+    {
+      "sentence": "S036",
+      "verdict": "faithful",
+      "note": "Checked borghesi2012:789-794: 'Cabalist wise men', 'same period (1486)', 'in general, any other man' are in the source; 'synonym of transfiguration' supports the final clause."
+    },
+    {
+      "sentence": "S037",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S038",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S039",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S040",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Kept by the current S047 and S049, which now name Allen."
+    },
+    {
+      "sentence": "S041",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S042",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S043",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S044",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S045",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S046",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S047",
+      "verdict": "faithful",
+      "note": "Revised: reporter (Allen) now named in the sentence."
+    },
+    {
+      "sentence": "S048",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S049",
+      "verdict": "faithful",
+      "note": "Revised: 'Allen says' now named. Checked allen2017:6322-6328: first circle, its own first and final cause and the Ideas' first cause, 'Venus becomes adult... perfect, sovereign goddess' all in source."
+    },
+    {
+      "sentence": "S050",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S051",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S052",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S053",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S054",
+      "verdict": "faithful",
+      "note": "Checked allen2017:5984-5985: Abraham, Isaac, Jacob, Moses, Aaron and Mary (i.e., Miriam)."
+    },
+    {
+      "sentence": "S055",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S056",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S057",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S058",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S059",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S060",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S061",
+      "verdict": "faithful",
+      "note": "Checked wallis1965:3855-3859: asciamaim, es and maim, 'of a middle nature... on that account'."
+    },
+    {
+      "sentence": "S062",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S063",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S064",
+      "verdict": "faithful",
+      "note": "Checked wallis1965:5069: 'Third Exposition' heading."
+    },
+    {
+      "sentence": "S065",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S066",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S067",
+      "verdict": "faithful",
+      "note": "Checked wallis1965:5222-5236: 'one day', 'not a vague and customary one' in source."
+    },
+    {
+      "sentence": "S068",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S069",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S070",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S071",
+      "verdict": "faithful",
+      "note": "'angelic armies' is in wallis1965:5288."
+    },
+    {
+      "sentence": "S072",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S073",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S074",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S075",
+      "verdict": "faithful",
+      "note": "Checked black2006:4443-4447: the implication that he could proffer interpretations they had missed is Black's own."
+    },
+    {
+      "sentence": "S076",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S077",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S078",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S079",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Editor's inference from S076-S078 plus a corpus-scope statement; asserts no attributed fact."
+    },
+    {
+      "sentence": "S080",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S081",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S082",
+      "verdict": "faithful",
+      "note": "Checked black2006:1458-1462: 'pioneer among Christian Hebraists', 'first and foremost through the translated corpus and oral contact'."
+    },
+    {
+      "sentence": "S083",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S084",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S085",
+      "verdict": "faithful",
+      "note": "Revised: now says only what black2006-c:001 says; the 'wider tradition Pico draws on' clause is gone."
+    },
+    {
+      "sentence": "S086",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S087",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S088",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Corpus-scope statement by the editor; asserts no attributed fact."
+    },
+    {
+      "sentence": "S089",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S090",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S091",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S092",
+      "verdict": "faithful",
+      "uncited": true
+    },
+    {
+      "sentence": "S093",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S094",
+      "verdict": "faithful",
+      "note": "Revised: the uncited remark about Howlett's note is gone; matches howlett2021:094."
+    },
+    {
+      "sentence": "S095",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S096",
+      "verdict": "faithful",
+      "uncited": true,
+      "note": "Correctly marked 'not established by the sources consulted'; corpus-scope statement."
+    }
+  ],
+  "patterns": "The four sentences changed in round 3 (S047, S049 now name Allen; S085 narrowed to black2006-c:001; S094 drops the uncited note remark) are faithful. Hedges are kept (Copenhaver 'seems better', editors 'perhaps', Farmer's 'suggested'); every report of the Commento, Dionysius, Aquinas and Gregory passes through a named scholar or through Pico. Where a restatement was thin (S021, S036, S049, S054, S061, S064, S067, S071, S075, S082) the source was opened and supports the wording. No sentence overreaches or is misattributed."
+}

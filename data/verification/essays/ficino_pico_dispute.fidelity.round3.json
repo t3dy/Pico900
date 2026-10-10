@@ -1,0 +1,513 @@
+{
+ "essay": "docs/essays/ficino_pico_dispute.md",
+ "verifier": "EV-10",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S001",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S002",
+   "verdict": "overreaches",
+   "reason": "Uncited (ed.) sentence states in the essay's own voice that the Dionysian corpus has 'its doctrine of a God beyond being'. No cited claim gives a Dionysian doctrine in these terms; Allen (allen2017-other:040) reports that Ficino took Dionysius as the apex of apophatic theology, and Pico (wallis1965-deente:053) cites Dionysius's negations. Minor: framing, but a Dionysian doctrine put in the essay's voice.",
+   "suggested_sentence": "The first two stops lay background: how the Dionysian corpus, which scholars associate with apophatic theology, reached the Latin West, and what Aquinas and then Ficino made of it, as the scholars cited report (ed.)."
+  },
+  {
+   "sentence": "S003",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S004",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S005",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "overreaches",
+   "reason": "(ed.) The forward reference is false: Stop 6 takes up only Howlett's fourteenth-century/1436 discrepancy (S119), not any Allen inconsistency. The second Allen quotation ('a late fifth- or early sixth-century follower of Proclus') is verbatim in allen2017 at line 479 but is not cited to any claim, so the 'inconsistency the source does not resolve' is an uncited assertion; and the 'Proclus' great sixth century disciple' / 'late fifth-century disciple' gap is between two dates in one volume, not a resolved or flagged crux.",
+   "suggested_sentence": "Allen, in one place, calls him \"Proclus' great sixth century disciple\" [allen2017-other:067], and Allen elsewhere in the same volume dates him a late fifth- or early sixth-century follower of Proclus (allen2017:479, not yet a cited claim); the two datings differ (ed.)."
+  },
+  {
+   "sentence": "S011",
+   "verdict": "overreaches",
+   "reason": "Minor. Black (black2006:6499-6510) says the corpus was attributed at its first recorded appearance (532) to Dionysius the Areopagite, converted by Paul (Acts 17.34), and that it 'was believed to date from the second half of the first century'. 'At the Areopagus' is not in Black, and the sentence puts the attribution 'in the Middle Ages' where Black dates it to 532.",
+   "suggested_sentence": "Black adds that the corpus was attributed to Dionysius the Areopagite, the figure converted by Paul, that it \"was believed to date from the second half of the first century,\" and that it comprises four treatises and ten letters [black2006-b:033]."
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S019",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "overreaches",
+   "reason": "Recurs from round 2, reworded. (ed.) 'the tension Ficino's Platonism and Pico's treatise share as ground' asserts an uncited fact about Ficino's Platonism: no cited claim says Ficino's Platonism sits on a tension between God as ipsum esse and God above being (Howlett, howlett2021:124, says Plotinus and Ficino hold the One above being, against Pico's 'God is being itself'). Also Miller's cited claim (wallis1965-deente:109) concerns the real distinction of ens and esse in the passage on being in the second sense; it does not say Miller describes 'Pico's account of God as ipsum esse'.",
+   "suggested_sentence": "Sudduth describes Pico's view of God as reproducing the Thomistic ipsum esse [dougherty2008:003], and Miller says Pico there utilizes Aquinas's distinction of ens and esse [wallis1965-deente:109], while Howlett quotes De ente as placing God above being and dwelling in darkness [howlett2021:116]; the treatise holds both (ed.)."
+  },
+  {
+   "sentence": "S028",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "overreaches",
+   "reason": "Uncited sentence states as fact of Ficino, in the essay's own voice, that he 'carried this apophatic reading of Plato into his later reading of Dionysius'. The cited claims (allen2017-other:040, :073) say Ficino believed the via negativa began with the Parmenides and peaked with the Areopagite, and describe his Mystical Theology commentary; they do not give a sequence ('later') or a carrying-over.",
+   "suggested_sentence": "Allen reports that Ficino saw the via negativa as running from the Parmenides to the Areopagite [allen2017-other:040], and describes the shape Ficino gave that apophaticism in his commentary on the Mystical Theology [allen2017-other:073] (ed.)."
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S048",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful",
+   "note": "faithful as a sentence; note that wallis1965-deente:022 (the two modes of being) sits at source line 2620, in Chapter Three, so S049's frame 'Chapter four supplies...' compresses the last lines of chapter three into chapter four (Chapter Three heading 2615, Chapter Four heading 2689). Harmless but the editor may wish to say 'Chapters three and four'."
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "overreaches",
+   "reason": "Minor. 'Pico is careful that none of this is a concession to the Platonists' imputes a motive not in wallis1965-deente:035, which says Pico argues that Aristotle too holds God above being, since being per se falls in ten categories (source lines 2765-2775: 'Aristotle too says this, and more clearly than Plato'). The Aquinas credit is correctly kept as Pico's.",
+   "suggested_sentence": "Pico argues that Aristotle too places God above being: Aristotle divides being into being per se, which falls under the ten categories, and accidental being, and no good interpreter doubts that God escapes the first sort, a reading Pico credits to Aquinas's commentary on the Sentences [wallis1965-deente:035]."
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S073",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S079",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S085",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S097",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S100",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "overreaches",
+   "reason": "Minor (uncited sentence; source is copenhaver2022-angels:049). 'Shaped by their shared devotion to Savonarola' makes a cause of what Copenhaver gives as 'in line with their shared admiration for Savonarola'; 'devotion' also stronger than 'admiration'. 'Hagiography' and 'notoriously anti-Thomist' are Copenhaver's own words (source 12185, 12189) and are fine if attributed; 'the Apology's own actual authorities' is 'leading witnesses for his defense'.",
+   "suggested_sentence": "The same passage says Gianfrancesco tried to present his uncle as a saintly Thomist, in line with their shared admiration for Savonarola, whereas leading witnesses in the Apology were theologians whose views were notoriously anti-Thomist [copenhaver2022-angels:049]."
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S111",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S112",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S114",
+   "verdict": "overreaches",
+   "reason": "(1) 'Allen ... never relates Pico's own position to the older Academic and non-dogmatic school' is not in the cited claims: edelheit2008:094 says Allen DOES relate Pico's non-dogmatic reading to Albinus (without references); the Cicero/Augustine point is in Edelheit's text (edelheit2008 line 18057) but not in a cited claim, and the sentence drops the Albinus concession. (2) 'a verdict the sources themselves flag as unsettled' and Edelheit's 'considered judgment' are the essay's evaluations; the claims give Edelheit's criticism of Allen and his view that the evidence shows the originality of both.",
+   "suggested_sentence": "Edelheit reports that Allen concludes, against Klibansky, that \"Ficino emerges... as a good deal more original than Pico\" in interpreting the Parmenides [edelheit2008:094]; Edelheit himself argues that Allen is so intent on a sharp contrast between Pico and Ficino that he does not see their similarity, and that the evidence shows the originality of both [edelheit2008:096]."
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "overreaches",
+   "reason": "Minor (ed.). 'She then asks ... on this reading' puts the question after, and as a consequence of, the second-argument contradiction of S116; in the source the question ('But where then is the Plotinian One? Is it Keter or the Ein-Sof?') stands at howlett2021 line 6581, some sixty lines BEFORE 'His second argument apparently contradicts his first' (line 6642), in a different discussion (Pseudo-Dionysius and ascent). The cited claim (howlett2021:124) gives the question and Pico's 'being itself', not the order.",
+   "suggested_sentence": "Elsewhere Howlett asks where the Plotinian One is: \"is it Keter or the Ein-Sof?\" [howlett2021:124], a question posed in Kabbalistic terms (ed.)."
+  },
+  {
+   "sentence": "S119",
+   "verdict": "overreaches",
+   "reason": "Minor. Howlett (howlett2021 line 5306) says that in the fourteenth century Pseudo-Dionysius 'became even more popular' through Traversari's 1436 translation; 'renewed popularity' implies a prior decline, which she does not say. The discrepancy itself (fourteenth century vs 1436) is real and correctly stated.",
+   "suggested_sentence": "Finally, on the corpus's own transmission, a smaller but genuine crux remains unresolved in the sources consulted here: Howlett says Pseudo-Dionysius became even more popular in \"the fourteenth century\" in the very sentence that dates the translation carrying that popularity, Traversari's, to 1436, a fifteenth-century year, without saying which date is the error [howlett2021:090]."
+  },
+  {
+   "sentence": "S120",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S121",
+   "verdict": "faithful"
+  }
+ ],
+ "patterns": "Round-2 problems largely fixed: no reversed or inverted claims remain, Aquinas/Dionysius statements are attributed to a scholar or Pico throughout, chapter numbers and quotations check against the source. Remaining: (1) uncited or (ed.) sentences that assert a fact about Ficino or the Dionysian doctrine in the essay's own voice (S002, S031, S027); (2) a false forward reference (S010: Stop 6 does not treat Allen's dating); (3) small causal or evaluative glosses ('shaped by', 'careful that', 'renewed', 'considered judgment', 'flag as unsettled') and one sequencing slip (S118). No Scotus sentence exists; no claim about Aquinas or Dionysius is put in the essay's own voice except the S002 framing of a Dionysian 'doctrine of a God beyond being'."
+}

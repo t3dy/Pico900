@@ -2178,24 +2178,20 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_18_006.draft.json",
   "thesis_id": "18.6",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.87); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.87"
+   "translation/Farmer similarity 0.65"
   ],
   "locators": 3
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_18_007.draft.json",
   "thesis_id": "18.7",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.89); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.89"
+   "translation/Farmer similarity 0.66"
   ],
   "locators": 3
  },
@@ -2430,12 +2426,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_21_003.draft.json",
   "thesis_id": "21.3",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.94); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.94"
+   "translation/Farmer similarity 0.77"
   ],
   "locators": 4
  },
@@ -2580,12 +2574,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_22_010.draft.json",
   "thesis_id": "22.10",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.90); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.90"
+   "translation/Farmer similarity 0.70"
   ],
   "locators": 4
  },
@@ -2692,12 +2684,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_23_009.draft.json",
   "thesis_id": "23.9",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.90); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.90"
+   "translation/Farmer similarity 0.65"
   ],
   "locators": 3
  },
@@ -2714,12 +2704,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_002.draft.json",
   "thesis_id": "24.2",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.98); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.98"
+   "translation/Farmer similarity 0.56"
   ],
   "locators": 4
  },
@@ -2736,12 +2724,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_004.draft.json",
   "thesis_id": "24.4",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.96); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.96"
+   "translation/Farmer similarity 0.79"
   ],
   "locators": 3
  },
@@ -2778,36 +2764,30 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_008.draft.json",
   "thesis_id": "24.8",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.85); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.85"
+   "translation/Farmer similarity 0.72"
   ],
   "locators": 4
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_009.draft.json",
   "thesis_id": "24.9",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.93); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.93"
+   "translation/Farmer similarity 0.77"
   ],
   "locators": 4
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_010.draft.json",
   "thesis_id": "24.10",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.95); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.95"
+   "translation/Farmer similarity 0.85"
   ],
   "locators": 3
  },
@@ -2824,24 +2804,20 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_012.draft.json",
   "thesis_id": "24.12",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.93); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.93"
+   "translation/Farmer similarity 0.47"
   ],
   "locators": 5
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_013.draft.json",
   "thesis_id": "24.13",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.92); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.92"
+   "translation/Farmer similarity 0.65"
   ],
   "locators": 4
  },
@@ -2858,14 +2834,408 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_24_015.draft.json",
   "thesis_id": "24.15",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.89); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.89"
+   "translation/Farmer similarity 0.71"
   ],
   "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_016.draft.json",
+  "thesis_id": "24.16",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.70"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_017.draft.json",
+  "thesis_id": "24.17",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.65"
+  ],
+  "locators": 8
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_018.draft.json",
+  "thesis_id": "24.18",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.70"
+  ],
+  "locators": 6
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_019.draft.json",
+  "thesis_id": "24.19",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.70"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_020.draft.json",
+  "thesis_id": "24.20",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.77"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_021.draft.json",
+  "thesis_id": "24.21",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.66"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_022.draft.json",
+  "thesis_id": "24.22",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.71"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_023.draft.json",
+  "thesis_id": "24.23",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.85"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_024.draft.json",
+  "thesis_id": "24.24",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.53"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_025.draft.json",
+  "thesis_id": "24.25",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.66"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_026.draft.json",
+  "thesis_id": "24.26",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.58"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_027.draft.json",
+  "thesis_id": "24.27",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_028.draft.json",
+  "thesis_id": "24.28",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_029.draft.json",
+  "thesis_id": "24.29",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.63"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_030.draft.json",
+  "thesis_id": "24.30",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.82"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_031.draft.json",
+  "thesis_id": "24.31",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.69"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_032.draft.json",
+  "thesis_id": "24.32",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.84"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_033.draft.json",
+  "thesis_id": "24.33",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.73"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_034.draft.json",
+  "thesis_id": "24.34",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.79"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_035.draft.json",
+  "thesis_id": "24.35",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_036.draft.json",
+  "thesis_id": "24.36",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.69"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_037.draft.json",
+  "thesis_id": "24.37",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.39"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_038.draft.json",
+  "thesis_id": "24.38",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.75"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_039.draft.json",
+  "thesis_id": "24.39",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_040.draft.json",
+  "thesis_id": "24.40",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.63"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_041.draft.json",
+  "thesis_id": "24.41",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_042.draft.json",
+  "thesis_id": "24.42",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.61"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_043.draft.json",
+  "thesis_id": "24.43",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.37"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_044.draft.json",
+  "thesis_id": "24.44",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_045.draft.json",
+  "thesis_id": "24.45",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.73"
+  ],
+  "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_046.draft.json",
+  "thesis_id": "24.46",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.84"
+  ],
+  "locators": 5
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_047.draft.json",
+  "thesis_id": "24.47",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.50"
+  ],
+  "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_048.draft.json",
+  "thesis_id": "24.48",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.72"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_049.draft.json",
+  "thesis_id": "24.49",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.57"
+  ],
+  "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_050.draft.json",
+  "thesis_id": "24.50",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.56"
+  ],
+  "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_051.draft.json",
+  "thesis_id": "24.51",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.78"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_052.draft.json",
+  "thesis_id": "24.52",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.71"
+  ],
+  "locators": 4
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_053.draft.json",
+  "thesis_id": "24.53",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.68"
+  ],
+  "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_054.draft.json",
+  "thesis_id": "24.54",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.76"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\hist_24_055.draft.json",
+  "thesis_id": "24.55",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.67"
+  ],
+  "locators": 4
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\hist_25_001.draft.json",
@@ -3772,6 +4142,16 @@
   "locators": 3
  },
  {
+  "file": "C:\\Dev\\Pico900\\entries\\own_10_015.draft.json",
+  "thesis_id": "10>15",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.42"
+  ],
+  "locators": 5
+ },
+ {
   "file": "C:\\Dev\\Pico900\\entries\\own_10_016.draft.json",
   "thesis_id": "10>16",
   "pass": true,
@@ -4083,12 +4463,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_11_016.draft.json",
   "thesis_id": "11>16",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.86); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.86"
+   "translation/Farmer similarity 0.83"
   ],
   "locators": 3
  },
@@ -4539,6 +4917,16 @@
   "locators": 3
  },
  {
+  "file": "C:\\Dev\\Pico900\\entries\\own_11_063.draft.json",
+  "thesis_id": "11>63",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.63"
+  ],
+  "locators": 5
+ },
+ {
   "file": "C:\\Dev\\Pico900\\entries\\own_11_064.draft.json",
   "thesis_id": "11>64",
   "pass": true,
@@ -4555,6 +4943,16 @@
   "fails": [],
   "notes": [
    "translation/Farmer similarity 0.64"
+  ],
+  "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\own_11_066.draft.json",
+  "thesis_id": "11>66",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.57"
   ],
   "locators": 3
  },
@@ -4607,6 +5005,14 @@
    "translation/Farmer similarity 0.81"
   ],
   "locators": 3
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\own_11_072.draft.json",
+  "thesis_id": "11>72",
+  "pass": true,
+  "fails": [],
+  "notes": [],
+  "locators": 2
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_1_001.draft.json",
@@ -5147,12 +5553,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_2_038.draft.json",
   "thesis_id": "2>38",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.90); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.90"
+   "translation/Farmer similarity 0.54"
   ],
   "locators": 2
  },
@@ -5239,12 +5643,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_2_047.draft.json",
   "thesis_id": "2>47",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.87); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.87"
+   "translation/Farmer similarity 0.73"
   ],
   "locators": 3
  },
@@ -5411,12 +5813,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_2_064.draft.json",
   "thesis_id": "2>64",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.91); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.91"
+   "translation/Farmer similarity 0.71"
   ],
   "locators": 2
  },
@@ -5541,12 +5941,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_2_077.draft.json",
   "thesis_id": "2>77",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.88); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.88"
+   "translation/Farmer similarity 0.80"
   ],
   "locators": 2
  },
@@ -5599,6 +5997,16 @@
    "translation/Farmer similarity 0.75"
   ],
   "locators": 2
+ },
+ {
+  "file": "C:\\Dev\\Pico900\\entries\\own_3_003.draft.json",
+  "thesis_id": "3>3",
+  "pass": true,
+  "fails": [],
+  "notes": [
+   "translation/Farmer similarity 0.53"
+  ],
+  "locators": 5
  },
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_3_004.draft.json",
@@ -6647,12 +7055,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_5_009.draft.json",
   "thesis_id": "5>9",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.88); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.88"
+   "translation/Farmer similarity 0.75"
   ],
   "locators": 3
  },
@@ -7385,12 +7791,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_7_011.draft.json",
   "thesis_id": "7>11",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.88); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.88"
+   "translation/Farmer similarity 0.78"
   ],
   "locators": 4
  },
@@ -8153,12 +8557,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_8_003.draft.json",
   "thesis_id": "8>3",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.86); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.86"
+   "translation/Farmer similarity 0.68"
   ],
   "locators": 3
  },
@@ -8233,12 +8635,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_8_011.draft.json",
   "thesis_id": "8>11",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.92); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.92"
+   "translation/Farmer similarity 0.78"
   ],
   "locators": 4
  },
@@ -8265,12 +8665,10 @@
  {
   "file": "C:\\Dev\\Pico900\\entries\\own_8_014.draft.json",
   "thesis_id": "8>14",
-  "pass": false,
-  "fails": [
-   "translation is near-identical to Farmer's English (similarity 0.89); write an original rendering"
-  ],
+  "pass": true,
+  "fails": [],
   "notes": [
-   "translation/Farmer similarity 0.89"
+   "translation/Farmer similarity 0.72"
   ],
   "locators": 4
  },

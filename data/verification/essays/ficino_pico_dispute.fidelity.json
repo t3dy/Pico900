@@ -1,0 +1,497 @@
+{
+ "essay": "docs/essays/ficino_pico_dispute.md",
+ "verifier": "EV-12",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S001",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S002",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S003",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S004",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S005",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful",
+   "note": "Minor, not a failure: 'late reading of Dionysius' is framing; S015 (Black, 1489 translations) is the only support."
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S019",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful",
+   "note": "Minor: 'in exactly these terms' links Sudduth's ipsum esse to Miller's ens/esse; both are Thomistic per the claims, so left faithful."
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S028",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S048",
+   "verdict": "faithful",
+   "note": "Framing; 'the whole argument depends on' is an editorial evaluation but does not assert a sourced fact."
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful",
+   "note": "'in their own terms' is a gloss on Pico's 'the Peripatetics know how God can be understood as above being' (source lines 2794-2796); left faithful."
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S073",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S079",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S085",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful",
+   "note": "'these different types of being' has no antecedent in the essay sentence; Howlett's footnote 40 attaches it to formal vs causal being (S091). Wording, not fidelity."
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S097",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S100",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S111",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S112",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S114",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S119",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S120",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S121",
+   "verdict": "faithful"
+  }
+ ],
+ "patterns": "No sentence overreaches or is misattributed. The ten sentences changed in round 3 (S002, S010, S011, S027, S031, S054, S105, S114, S118, S119) were each checked against the source lines: Paul's conversion, the 'fourteenth century'/1436 discrepancy, the first/second-argument wording, 'felt obliged', 'notoriously anti-Thomist', 'utterly desolated', and the seven-step ascent are all in the sources. Aquinas, Dionysius and Ficino are stated only through Black, Howlett, Allen, Edelheit, Copenhaver, Miller or Pico; no Scotus sentence exists. Only wording notes remain (S012, S025, S048, S054, S090)."
+}

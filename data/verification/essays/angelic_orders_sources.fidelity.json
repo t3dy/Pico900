@@ -1,0 +1,380 @@
+{
+ "essay": "docs/essays/angelic_orders_sources.md",
+ "verifier": "EV-14",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S114",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "faithful"
+  }
+ ],
+ "uncited_flags": [
+  {
+   "sentence": "S050",
+   "reason": "asserts in the essay's own voice that Din (the editors' report of Farmer) and the Fear of Isaac (Wirszubski: 'the fifth sefirah, Might or Judgment') are the same sefirah; no cited claim uses the name Din for Wirszubski's sefirah, so the identification Din = the fifth sefirah = Judgment is an uncited doctrinal fact. Mild: it connects rather than argues, and the sentence ends by saying nothing reconciles the two.",
+   "suggested_sentence": "Din (judgment) stands beside the thrones in the editors' report of Farmer, and the Fear of Isaac, the fifth sefirah, Might or Judgment, beside the powers in Wirszubski; whether the two are one sefirah under two names is not stated by either claim, and nothing in the claims reconciles the placements (ed.)."
+  }
+ ],
+ "checked": "Opened the source for S011, S017, S020, S030, S031, S034, S040/S043 (Howlett note 174 warrant), S041, S044 (searched all angelology claims for a second Hebrew-name/Dionysian-order pairing: none), S045, S054, S055, S060, S076, S094, S103, S113/S038 (open question q1 of wirszubski1989-angels:003 records that Wirszubski does not say whether Pico chose or noticed the coincidence). Round 2 problems (S012 causal connective, S029 borrowed wording, S109 'shows', S110 comparator) are all fixed. Recast S114 (ed.), S113, S116, S118 and the uncited S019, S024, S119 assert no uncited fact; S024 and S119 no longer carry the 'ladder of nine' or 'Pico left blank' overstatements.",
+ "patterns": "No overreaches and no misattributions. Hedges are kept (likeliest, perhaps, may, 'it has been suggested'); Dionysius, Aquinas and Gregory appear only through Pico, the editors, the translators or Black (S007, S029, S030, S031); the Dionysian orders, the Hebrew hierarchies and the sefirot are never merged in the essay's own voice. One residual uncited connective (S050) rests on an unstated Din = Gevurah equivalence."
+}

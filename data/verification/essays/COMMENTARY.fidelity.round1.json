@@ -1,0 +1,434 @@
+{
+ "essay": "docs/angelology/COMMENTARY.md",
+ "verifier": "EV-1",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S001",
+   "verdict": "overreaches",
+   "reason": "cited claim 013 says only that living the highest angels' life lets us equal their lot; 'three works', 'within a few years' and 'three different offices' are in no cited claim",
+   "suggested_sentence": "Pico says that by living the life the highest angels live, which man is able to do, we may not be inferior to them [borghesi2012:013]."
+  },
+  {
+   "sentence": "S002",
+   "verdict": "overreaches",
+   "reason": "claim 013 gives no ladder of rungs climbed in turn nor 'each a discipline'",
+   "suggested_sentence": "In the Oration on the Dignity of Man Pico says that by living the angels' life we may equal their lot [borghesi2012:013]."
+  },
+  {
+   "sentence": "S004",
+   "verdict": "overreaches",
+   "reason": "ungrammatical; claim 041 gives Mind as first one-and-many, first angel and plenitude of Ideas (Allen), not 'a hypostasis of a Platonic metaphysical scheme'; 'only through Allen' is not in the claim",
+   "suggested_sentence": "In the Commento, as Allen reports it, Mind is the first one-and-many, the first angel and the plenitude of the Ideas [allen2017-venus:041]."
+  },
+  {
+   "sentence": "S005",
+   "verdict": "overreaches",
+   "reason": "claim 132 gives the world as the great man and Moses' three worlds as head, breast and lower part; 'organised so that Genesis can be shown to contain all of them' and 'Black's study' are not in it",
+   "suggested_sentence": "In the Heptaplus Pico says the world is the great man, and that Moses represents the intellectual, heavenly and corruptible worlds by the head, the breast and the lower part [wallis1965-heptaplus:132]."
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "overreaches",
+   "reason": "source for 073 says the Spirit 'warmed it' (the upper waters / crystalline heaven), not 'the created world'; 'later' is not in the claim",
+   "suggested_sentence": "A man devoted to the active life is strengthened by the steadfast solidity of the thrones [borghesi2012:015]; a man who burns with charity for the Creator alone will catch fire in the likeness of the seraphim [borghesi2012:017]; God flies over the cherub, who is the contemplator, warming him as if brooding over him [borghesi2012:018], a phrase the editors say Pico himself glosses in the Heptaplus, where the brooding Spirit of the Lord is the spiritual Olympus, seat of the Spirits of the Lord, warming with its light [borghesi2012:073]."
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "overreaches",
+   "reason": "Black (source) says Pico interprets the process allegorically from a phrase of Pseudo-Dionysius; nothing about reading 'independently of its Kabbalistic overtones'",
+   "suggested_sentence": "Crofton Black notes that Pico urges his audience to approach the cherub first, since it provides the exemplar and the path to the others, and that Pico interprets the Dionysian cleansed, illuminated, perfected allegorically as a method of intellectual ascent [black2006-c:011]."
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S019",
+   "verdict": "overreaches",
+   "reason": "'a curriculum rather than a private discipline' is the essay's own evaluation, not in claim 024",
+   "suggested_sentence": "Emulating the cherubic life requires first purging the soul through moral science and dialectics, then bathing it in the light of natural philosophy, so that it may be perfected by the knowledge of divine things [borghesi2012:024]."
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "overreaches",
+   "reason": "claim 031 gives only the peace God makes, announced by descending angels so men would be transformed into angels; 'Job's angels desire above all peace' and 'social as well as private' are not in it (nor in the adjacent Oration text)",
+   "suggested_sentence": "Pico says the peace God makes in His heavens is the peace the descending angels announced to men of good will, so that men, ascending to heaven, would be transformed by it into angels [borghesi2012:031]."
+  },
+  {
+   "sentence": "S026",
+   "verdict": "overreaches",
+   "reason": "'closes the Oration's angelic material' and 'of the Apocrypha' are in neither claim; claims 036/037 give Raphael, Gabriel and Michael in the sequence proposed",
+   "suggested_sentence": "Pico proposes that we call upon Raphael, the heavenly physician, to free us with moral philosophy and dialectics as healing drugs; Gabriel, the strength of God, will lead us through the marvels of nature and deliver us to Michael the high priest, who will bestow the insignia of theological priesthood [borghesi2012:036|borghesi2012:037]."
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "overreaches",
+   "reason": "the name Metatron is not in the princeps (blank); it is Bausi's restoration from the earlier manuscript version (Palatino 885), per the editors' note 34. Sentence presents 'Metatron' as what Pico writes, contradicts the next sentence's blank, and never mentions Bausi",
+   "suggested_sentence": "Pico writes that the most secret Hebrew theology transforms the patriarch Enoch into an angel of divinity, named in Hebrew, and at other times reshapes other men into other spirits [borghesi2012:009]."
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "overreaches",
+   "reason": "claim 061 is hedged ('perhaps not surprising'); sentence turns it into 'the editors judge' and 'not an isolated curiosity'",
+   "suggested_sentence": "The editors say it is perhaps not surprising that the Enoch-Metatron identification occupies a prominent place in Pico's Christian Cabala [borghesi2012:061]; elsewhere in the Oration the Orphic Pallas, associated with the cabalists' Metatron in Conclusiones 2.5.14 and 2.11.10, signifies the intellectual nature that leads to wisdom [borghesi2012:105]."
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "overreaches",
+   "reason": "claim 041 says Ficino would call it the splendor of the Ideas; sentence generalises to 'later Neoplatonists'",
+   "suggested_sentence": "Because Mind is the first one-and-many, existing as both the first angel and the plenitude of the Ideas, Allen reports that it is also the first unitary composite, and so the first beautiful thing, not the exemplary Idea of Beauty itself but the composite, manifold beauty that Ficino would call the splendour of the Ideas [allen2017-venus:041]."
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "overreaches",
+   "reason": "claim (hedged) says Ideas 'of other things'; 'not yet perfected' is added; Allen's 'presumably' on which Ideas is dropped",
+   "suggested_sentence": "In Allen's account, Pico takes Porus, drunk with nectar, to signify the sheer multiplicity of the Ideas, and concludes that although the Ideas of other things existed in the Angelic Mind they were not welcomed to the banquet, because immortality was not granted to them [allen2017-venus:053]."
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "overreaches",
+   "reason": "Still quotes 'called human love'; 'merely human' adds a deprecating sense the quotation lacks",
+   "suggested_sentence": "A parallel passage elsewhere in the Commento, in Carl Still's account, distinguishes a first love in the Angelic Mind, called angelic or divine, from a second love in the rational soul, called human love because the rational faculty is the most important part of man's nature [dougherty2008:017]."
+  },
+  {
+   "sentence": "S048",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "overreaches",
+   "reason": "Allen calls the reading 'equally unexpected' relative to other Orpheus readings; nothing in the claim links it to the death of the kiss ('the same logic')",
+   "suggested_sentence": "Allen also reports Pico's unexpected reading of Orpheus in the third book of the Commento: Orpheus was unwilling to die for Eurydice because his music had made him soft and weak, so he descended to Hades for an imaginary Eurydice when he should instead have sent his intellect to gaze on the true Eurydice among the intelligible Ideas [allen2017-other:075]."
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "overreaches",
+   "reason": "source says the supercelestial understands the heat of life; sentence makes the element itself 'understood' by the supercelestial minds",
+   "suggested_sentence": "Pico illustrates the principle through water: the element in our world, the moon in the heavens, and above the heavens the minds of the cherubim, so that moisture quenches the heat of life below, feeds it in the heavens, and the supercelestial understands it [wallis1965-heptaplus:021]."
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "misattributed",
+   "reason": "Dionysius's teaching is stated in the essay's voice ('Dionysius names') though claim 081 gives it only as Pico citing Dionysius (Dionysius is not in the corpus)",
+   "suggested_sentence": "Citing Dionysius, Pico says the three angelic activities, purification, illumination and perfection, are distributed so that the lowest order purifies, the middle illuminates and the highest perfects with a fiery and life-giving dew [wallis1965-heptaplus:081]."
+  },
+  {
+   "sentence": "S067",
+   "verdict": "overreaches",
+   "reason": "claim 083 says the Prophet refutes the philosophers; 'Pico defends the traditional count of nine orders' is not in it",
+   "suggested_sentence": "Pico says the Prophet refutes the philosophers who admitted princely intellectual substances but denied that each is set over a multitude of lower rank, and that the leader of each of nine orders is to be imagined as a great sphere with its host as inhabitants [wallis1965-heptaplus:083]."
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "misattributed",
+   "reason": "claim 127 is Black reporting what Pico says Dionysius and Aquinas hold; the sentence has Black 'confirm' it 'from the Dionysian and Thomist side', putting Dionysius's and Aquinas's positions in the essay's voice",
+   "suggested_sentence": "Black reports that, according to Pico, Dionysius and Thomas Aquinas both hold that angelic intelligence is superior to human because it comprehends with fewer forms; and elsewhere in the Heptaplus Pico says intelligible forms, though accidental to an angel's intellect, are bound to it indivisibly and perpetually, but only loosely to the human intellect [black2006-b:127]."
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "overreaches",
+   "reason": "Howlett says angels are 'at least partly imperfect'; 'only partly perfect' shifts the sense",
+   "suggested_sentence": "Sophia Howlett says angels are at least partly imperfect, at one remove from perfection, and quotes Pico's 'double imperfection' in the Heptaplus: that an angel is not being itself but an essence to which being comes by participation, and not intelligence itself but only happens to understand [howlett2021:166]."
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "overreaches",
+   "reason": "claim 142 says the comparison 'illuminates similarities and differences' (both are exegesis); 'not much alike' overstates",
+   "suggested_sentence": "Black says the comparison of Dionysius with the Heptaplus shows similarities and differences: Dionysius plucks words from many biblical places in a thematic commentary and concentrates on the ranks of angels and God, whereas Pico follows one chapter of Genesis sequentially and treats the whole cosmic taxonomy below God [black2006-b:142]."
+  },
+  {
+   "sentence": "S075",
+   "verdict": "overreaches",
+   "reason": "the closing clause ('shows how far the very authority Pico invokes rests on a textual fiction he inherited') is the essay's own evaluation; the translators' note says only that Hierotheus is a fictitious mystic referred to as historical by the Pseudo-Dionysius",
+   "suggested_sentence": "The figure Pico names beside Dionysius in this proem, Hierotheus, is identified by the translators as a fictitious mystic referred to as historical by the Pseudo-Dionysius [wallis1965-heptaplus:144]."
+  },
+  {
+   "sentence": "S076",
+   "verdict": "overreaches",
+   "reason": "claim 051 is hedged ('seems likely', 'probably'); sentence states deliberate deletion flatly and adds 'spanning the whole period ... composed and published' (source: still in force when he was writing); the opening ('promised ... conspicuously postponed') is in no cited claim",
+   "suggested_sentence": "Black thinks it likely that Pico deleted the kabbalistic passages from his final account of esoteric transmission out of prudence, since the bull condemning the Conclusiones, issued by Innocent VIII on 15 December 1487, remained in force until 18 June 1493 [black2006-b:051]."
+  },
+  {
+   "sentence": "S077",
+   "verdict": "overreaches",
+   "reason": "claim 131 says 'a wide range of commentaries'; 'the whole field of biblical commentary' overstates",
+   "suggested_sentence": "The first proem's catalogue of authorities Pico declines to imitate, Black argues, serves a rhetorical purpose: formulated negatively, it lets him display his acquaintance with a wide range of commentaries while implying that he could offer interpretations they had missed [black2006-a:131|black2006-a:111]."
+  },
+  {
+   "sentence": "S079",
+   "verdict": "faithful",
+   "reason": "minor: 'in its own way' and 'the reader's' are not in Pico's 'our sabbath'; substance faithful and the seven-expositions point is supported"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "overreaches",
+   "reason": "claim 032 is 'another comment on the structure', not a division 'instead'; 'the whole work' is broader than the claim",
+   "suggested_sentence": "Black takes the proem to the seventh exposition as a further comment on the structure of the Heptaplus: the first six expositions concern natural felicity, that is philosophy, and the seventh supernatural felicity, that is religion, sacred history from the Fall to redemption [black2006-c:032]."
+  },
+  {
+   "sentence": "S082",
+   "verdict": "overreaches",
+   "reason": "claim 100 does not say the 'promised Hebrew teaching on the angelic world' returns in the final section",
+   "suggested_sentence": "Black says the final section of the Heptaplus returns to the word bereshit and abandons allegory for a technique of letter combination derived from kabbalistic exegetical works, producing a sentence that summarises the Heptaplus and confirms Pico's claim that everything can be found in Moses's text [black2006-a:100]."
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S085",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "overreaches",
+   "reason": "in Pico's Latin the Greeks, Arabs and most Hebrews hold the second option (a mind akin to man), some hold God; the sentence spreads them over both, and neither the names nor 'explicitly' are in the cited claim",
+   "suggested_sentence": "In the Fourth Exposition, Black reports, the Spirit of God moving over the upper waters is identified with a greater and more divine intellect that illuminates the human intellect, and Pico leaves open whether it is God or a mind close and akin to man [black2006-a:081]."
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "overreaches",
+   "reason": "claim 118 gives the view Pico ascribes to the philosophers of natural felicity, not 'Pico's own claim'; 'more austere' is evaluation",
+   "suggested_sentence": "In the proem to the Seventh Exposition Pico says that philosophers who spoke only of natural felicity ascribe to the angels no knowledge of God beyond that by which they know themselves, so that they understand God only as his nature is manifest in their own substance [wallis1965-heptaplus:118]."
+  },
+  {
+   "sentence": "S090",
+   "verdict": "overreaches",
+   "reason": "claim 160 is hedged and speaks of 'Pico's universe', not the Commento specifically; the Heptaplus contrast rests on no cited claim, and 'Allen's second hypostasis' is not in claim 160",
+   "suggested_sentence": "Howlett argues that in Pico's universe the angelic mind is the world of forms and that there must be an active intellect in it too [howlett2021:160]."
+  },
+  {
+   "sentence": "S092",
+   "verdict": "overreaches",
+   "reason": "'in either text' is not in claim 096, which concerns the threefold model of the Commento",
+   "suggested_sentence": "Black concedes a connection between Platonism and the threefold model of the Commento but finds little evidence that Platonists structured the cosmos as Pico proposes, and notes that Proclus's threefold model is not consonant with Pico's [black2006-b:096]."
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S097",
+   "verdict": "overreaches",
+   "reason": "claim 094 has Howlett stating flatly that Pico changes the hierarchy from nine to ten; 'Conclusion 28.2', 'merely juxtaposing' and 'unsettled on the evidence Howlett herself cites' are not in it",
+   "suggested_sentence": "Howlett states that Pico changes Pseudo-Dionysius's hierarchy of angels from nine to ten, the number of the sefirot [howlett2021:094]."
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful",
+   "reason": "true of the printed tradition, but the editors' note 34 records Bausi's restoration of Metatron from manuscript Palatino 885; that restoration is nowhere in the essay"
+  }
+ ],
+ "uncited_flags": [
+  {
+   "sentence": "S003",
+   "flag": "asserts a fact: 'reconstructed here only through Allen's essay' is contradicted by the essay itself (editors S032, Still S047, Black S049/S092)"
+  },
+  {
+   "sentence": "S031",
+   "flag": "(ed.) 'not fixed by the printed tradition at all' omits Bausi's restoration of Metatron from Palatino 885 (borghesi2012 note 34); true only of printed editions"
+  },
+  {
+   "sentence": "S036",
+   "flag": "asserts facts: 'every claim below is Allen's account' is false (S047 Still, S049 and S092 Black, S032 editors); 'quoting Jayne's translation and Garin's edition' has no cited claim"
+  },
+  {
+   "sentence": "S042",
+   "flag": "'Allen's fullest reconstruction' is an uncited evaluation"
+  },
+  {
+   "sentence": "S051",
+   "flag": "'strangest transformation in Pico's corpus' is an uncited evaluation"
+  },
+  {
+   "sentence": "S064",
+   "flag": "'states its angelology most fully' is uncited"
+  },
+  {
+   "sentence": "S073",
+   "flag": "asserts what the Third Exposition proem says without a citation"
+  },
+  {
+   "sentence": "S091",
+   "flag": "asserts that Allen reports the cosmological model Black assesses; claim 096 concerns the Commento's threefold model, not something Allen is cited for"
+  },
+  {
+   "sentence": "S094",
+   "flag": "(ed.) 'cosmological' is not Black's word (he says ontological); 'debt to later Neoplatonism' uncited; 'the two accounts converge' not shown"
+  }
+ ],
+ "patterns": "Recurring: dropped hedges (S035, S043, S076); Pico's or a scholar's report of Dionysius/Aquinas put in the essay's own voice (S066, S069); framing sentences that add an uncited claim (S001, S002, S004, S005, S026, S082, S097). The Commento-is-only-Allen rule is broken by the essay itself (S036 says every claim is Allen's, yet S032, S047, S049, S092 are editors, Still and Black). The Metatron blank is presented without Bausi's restoration, and S029 prints 'Metatron' as Pico's text."
+}

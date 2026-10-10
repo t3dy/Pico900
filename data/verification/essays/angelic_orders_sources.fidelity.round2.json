@@ -1,0 +1,391 @@
+{
+ "essay": "docs/essays/angelic_orders_sources.md",
+ "verifier": "EV-13",
+ "date": "2026-09-28",
+ "uncited_flags": [
+  {
+   "sentence": "S024",
+   "reason": "asserts as fact a 'ladder of nine under a tenth term' in the Heptaplus, joining the nine angelic orders (S020) to a tenth sphere (S022, S023); Black (S022) notes that Pico treats the empyrean as celestial and not angelic, so the count merges two things. Recast as the editor's summary of the disputes, or drop 'ladder of nine'."
+  },
+  {
+   "sentence": "S114",
+   "reason": "calls the nine-or-ten question a disagreement between Howlett and 'the pair Wirszubski and Copenhaver'; Copenhaver's claim (018) only translates a thesis of nine names and does not address Howlett, and 'the claims consulted give no other passage' is a universal over claims that the sheet cannot show."
+  },
+  {
+   "sentence": "S119",
+   "reason": "says each dispute 'turns on a text Pico left blank, abridged or deferred'; the claims show the printed edition, not Pico, leaving the Hebrew word blank (S063, S066: Bausi restores it from a manuscript), so 'Pico left blank' is not established."
+  }
+ ],
+ "checked_recurrence": "Round 1 problems do not recur: S011 (no added 'knowledge first'), S016 (hedge 'often' kept), S021 (Howlett's active realms, not the orders, kept), S036 (hedge kept), S039/S041 (tenth grade credited to Wirszubski's reading of Axelrad's list, Copenhaver only for nine names), S046, S058 (Hebrew name left unnamed), S080, S087, S094, S105 (Wirszubski named), S116 (Wirszubski/Copenhaver/Ebgi kept apart) are all now faithful. The revision introduced a causal connective at S012 and the comparator 'than the Kabbalists' at S110; S029 and S109 are new mild overreaches.",
+ "patterns": "Four overreaches, all mild: an added causal 'That is why' (S012), a wording borrowed from a different claim (S029), a stronger verb 'shows' for 'argues' (S109), and an invented comparator (S110). No misattributions. Dionysian orders, Hebrew hierarchies and sefirot are never merged in the essay's own voice (Farmer overlay, Copenhaver's Hasmalim=Thrones, Howlett's first triad and Michael/Keter stay attributed); Aquinas, Scotus and Dionysius appear only through Pico, the editors, the translators or Black (S007, S029, S030, S031); Scotus is not cited.",
+ "judged": [
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "overreaches",
+   "reason": "'That is why' supplies a cause (the preceding point that neither judging nor loving is possible of things unknown) that the one cited claim (borghesi2012:022) does not give; the claim says only that Pico calls the cherub the bond etc. and says he is to be emulated first so that we may be raised to love and descend to action. 'Sent down to the active life' also glosses 'descend to action'.",
+   "suggested_sentence": "Pico calls the cherub the bond of the Prime Minds, the order of Pallas and the overseer of contemplative philosophy, and says he is to be emulated first so that we may be raised to love and descend to action [borghesi2012:022]."
+  },
+  {
+   "sentence": "S013",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "overreaches",
+   "reason": "cited claim (black2006-b:127) has Pico, through Black, say that angelic intelligence is superior to human because it comprehends with FEWER forms; 'the highest angelic mind ... the fewest forms' is the wording of the translators' note (wallis1965-heptaplus:142), not of the claim cited here. Dionysius and Thomas are kept through Pico and Black, so not misattributed.",
+   "suggested_sentence": "Pico calls on Dionysius and Thomas for the doctrine that angelic intelligence is superior to human because it comprehends with fewer forms, and Black reports that intelligible forms are bound to an angel's intellect indivisibly and perpetually, but only loosely to the human [black2006-b:127]."
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S098",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S101",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S104",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S107",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S109",
+   "verdict": "overreaches",
+   "reason": "cited claim says Wirszubski ARGUES from Mithridates's own notes; the sentence says he 'shows', a stronger verb.",
+   "suggested_sentence": "Vatican Hebrew codex 189, with the twelve books *De Anima* ascribed to Eleazar of Worms, was written, Wirszubski argues from Mithridates's notes, when Pico was already in Rome and after the consequences of the publication of the *Conclusiones*, so that Pico could not have read it before completing his theses [wirszubski1989-angels:108]."
+  },
+  {
+   "sentence": "S110",
+   "verdict": "overreaches",
+   "reason": "'more useful than the Kabbalists' invents the comparator: Copenhaver (15587) writes only 'More useful to Pico, perhaps, was a Book of Imaginary Circles', following his remark that a ladder through the cosmos 'from center to center' is hard to imagine; the claim does not compare it with the Kabbalists.",
+   "suggested_sentence": "For the ladder of the *Oration* Copenhaver suggests, with a hedge, that a *Book of Imaginary Circles* by Ibn al-Sid al-Batalyawsi, known to Jews in Pico's Italy, may have been more useful to Pico [copenhaver2019-angels:032]."
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S115",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S117",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S118",
+   "verdict": "faithful"
+  }
+ ]
+}

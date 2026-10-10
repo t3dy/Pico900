@@ -1,0 +1,375 @@
+{
+ "essay": "docs/essays/angels_location_trial.md",
+ "verifier": "EV-8",
+ "date": "2026-09-27",
+ "judged": [
+  {
+   "sentence": "S007",
+   "verdict": "faithful",
+   "note": "Round-1 uncited flag fixed: now cites copenhaver2022-angels:029."
+  },
+  {
+   "sentence": "S008",
+   "verdict": "overreaches",
+   "reason": "Recurs from round 1 (the revision added 'Copenhaver says' but kept the citation). Cited claim 014 gives only the shift from Hell to angels and the motives Copenhaver calls easy to imagine; the doctrine that Christ's soul and angels were both 'separated substances' is not in 014's restatement. I checked the source: it is Copenhaver 1881-1883, in the same passage, so the sentence is true to Copenhaver but rests on text no verified claim carries.",
+   "suggested_sentence": "Copenhaver says that Pico may have worried that Christ was a riskier topic than angels, and that Pico studied the localization of angels in order to understand how Christ's soul could have been located in Hell [copenhaver2022-angels:014]. (Or attach a verified claim for copenhaver2022:1881-1883 and keep the present wording.)"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S012",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful",
+   "note": "Hedge 'seem' now kept. Minor: 'Pico remembered...' is Copenhaver's inference about Pico, unattributed inside the sentence; the paragraph's preceding sentence (S017) carries the attribution."
+  },
+  {
+   "sentence": "S019",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful",
+   "note": "ST 3.52.2 is in Copenhaver's note 67 (copenhaver2022:1858), verified; passage not quoted."
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S023",
+   "verdict": "faithful",
+   "note": "'final intrinsic determination of its substance' is in Edelheit's text (edelheit2022:7859-7861), verified."
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S028",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful",
+   "note": "Rests on the claim's first quotation (copenhaver2022:1828), not its restatement; verbatim, and attributed as 'in Copenhaver's phrase'."
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful",
+   "note": "Copenhaver's report of Tempier's condemnation and its backers is stated without 'Copenhaver says'; acceptable under the essay's own S005 frame, and it makes no Aquinas/Scotus/Dionysius claim."
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful",
+   "note": "Rests on the quotation (copenhaver2022:1820), not the restatement."
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful",
+   "note": "The Latin of article 218 is in Edelheit's note (edelheit2008:15554-15555), verified."
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful",
+   "note": "(ed.) inference from edelheit2022:131; no uncited fact."
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful",
+   "note": "Round-1 misattribution fixed: Durandus's view is now given through Pico via Edelheit."
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful",
+   "note": "'without any contradiction' is in the source (edelheit2022:19599). 'The same Summa passage' is a small stretch: Pico's report names the third part of the Summa generally (7959), Garsia q. 52; and the two do not differ over what the Summa says (both find essence) but over whether Thomas is consistent. Acceptable as framing."
+  },
+  {
+   "sentence": "S069",
+   "verdict": "overreaches",
+   "reason": "Claim 019 says Pico held it befitting for Christ's soul to have been in Hell 'where he believed it was', only by the effect and by acting. The sentence says Copenhaver 'adds that Christ's soul was in Hell only by the effect and by acting', which reads as Copenhaver's own assertion of the doctrine, not Pico's position.",
+   "suggested_sentence": "Copenhaver reports Pico's conclusion that a separated substance is present as to place by delimitation (definitive), quotes Pico as saying that on this point his approach agrees with Scotus and all the Scotists, and adds that Pico held it befitting for Christ's soul to have been in Hell only by the effect and by acting [copenhaver2022-angels:019]."
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful",
+   "note": "'So far in agreement with Scotus ... differs where the Scotists...' is in the source (edelheit2022:7857-7861), not in the restatement."
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful",
+   "note": "(ed.) The contrast is drawn accurately from the two claims; round 1 flagged it as uncited and it is now cited."
+  },
+  {
+   "sentence": "S073",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful",
+   "note": "'much discussed by philosophers' is in the source (copenhaver2022:895)."
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "faithful",
+   "note": "'Agrees with the fourth in denying formally and subjectively local movement...' is in the source (edelheit2022:19973-19978)."
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful",
+   "note": "The reasons given for the third, fourth and fifth views are in the source (edelheit2022:20028-20037), verified."
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "faithful",
+   "note": "Round-1 problem fixed: Garsia's citations are now attributed to Garsia. Claim is marked hedged; Edelheit's 'seems to have a problem' is not in the restatement but the sentence does not depend on it."
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S096",
+   "verdict": "faithful",
+   "note": "'does not seem to be aware' is in the source (edelheit2022:20130)."
+  },
+  {
+   "sentence": "S099",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S102",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S103",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S105",
+   "verdict": "faithful",
+   "note": "Garsia's account is not cited here but is cited at S073 (edelheit2022:128); connective."
+  },
+  {
+   "sentence": "S106",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S108",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S110",
+   "verdict": "faithful",
+   "note": "The 219 versus 220 discrepancy is between Edelheit's own two passages, correctly reported."
+  },
+  {
+   "sentence": "S113",
+   "verdict": "faithful",
+   "note": "'marks it as inference' is the editor's gloss on 'easy to imagine'; it adds no fact."
+  },
+  {
+   "sentence": "S114",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S116",
+   "verdict": "faithful"
+  }
+ ],
+ "uncited_flags": [
+  {
+   "sentence": "S054",
+   "reason": "(ed.) 'The two sides agree on the text of the articles' is a factual assertion no cited claim gives; frame as the editor's reading or drop the first half."
+  },
+  {
+   "sentence": "S084",
+   "reason": "(ed.) 'The two accounts are compatible' is an evaluation of two scholars' accounts; mild, but it is a judgment neither scholar makes."
+  },
+  {
+   "sentence": "S004",
+   "reason": "Minor: lists the works absent from the corpus. Checked against data/corpus/registry.json: Aquinas, Scotus, Henry, Giles, Godfrey, Durandus, Garsia and the Apologia text are absent (only Fornaciari's front matter is present), so accurate."
+  }
+ ],
+ "patterns": "Round 1's hedge-dropping (S030, S035, S050, S114), voice slippage (S063, S094) and beyond-claim examples (S011, S018, S056) are fixed. Two remain: a sentence resting on text in the source but in no verified claim (S008, recurred) and a Pico position stated as Copenhaver's own assertion (S069, new). No Aquinas, Scotus, Dionysius or Ficino claim appears in the essay's own voice; all pass through Copenhaver, Edelheit, Black or Garsia-via-Edelheit."
+}

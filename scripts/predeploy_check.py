@@ -43,6 +43,7 @@ def main():
         rel = os.path.relpath(p, SITE).replace("\\", "/")
         with io.open(p, encoding="utf-8") as fh:
             h = fh.read()
+        h_no_script = re.sub(r"<script\b[^>]*>.*?</script>", "", h, flags=re.S)
         if len(re.findall(r"<h1[ >]", h)) != 1:
             problems.append(f"{rel}: expected exactly one <h1>")
         if not re.search(r"<html[^>]*\blang=", h):
@@ -50,7 +51,7 @@ def main():
         m = FILLER.search(h)
         if m:
             problems.append(f"{rel}: filler marker shown: {m.group(0)!r}")
-        for link in LINK.findall(h):
+        for link in LINK.findall(h_no_script):
             if link.startswith(("http://", "https://", "mailto:", "data:")):
                 continue
             if link.startswith("/"):

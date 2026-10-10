@@ -1,0 +1,355 @@
+{
+  "essay": "docs/essays/angels_location_trial.md",
+  "verifier": "EV-9",
+  "date": "2026-09-28",
+  "input": "data/verification/essays/angels_location_trial.sheet.md (regenerated after round 2 revisions)",
+  "judged": [
+    {
+      "sentence": "S007",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S008",
+      "verdict": "faithful",
+      "note": "Faithful now: current restatement of 014 includes 'Pico studied the localization of angels in order to understand how Christ's soul could have been located in Hell'; source copenhaver2022:1891-1893 says exactly that. Round-2 failure cured."
+    },
+    {
+      "sentence": "S010",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S011",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S012",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S014",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S015",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S016",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S017",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S018",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S019",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S020",
+      "verdict": "faithful",
+      "note": "Source-checked: copenhaver2022 note 67 (line 1858) cites Aquinas ST 3.52.2 and the text 1824-1827 says 'as Thomas said'; the passage is not quoted. Not in the restatement but supported by the source."
+    },
+    {
+      "sentence": "S021",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S023",
+      "verdict": "faithful",
+      "note": "Source-checked: edelheit2022 note 22 (7401-7403) gives the Scotist formula in Pico's words; it is the Scotist position only as Pico presents it, which the essay's 'Edelheit reports' framing and S070/S071 preserve."
+    },
+    {
+      "sentence": "S024",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S025",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S027",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S028",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S029",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S030",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S032",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S033",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S034",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S035",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S036",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S037",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S038",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S039",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S040",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S042",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S043",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S044",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S046",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S047",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S050",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S052",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S053",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S054",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S055",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S056",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S057",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S058",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S059",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S060",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S061",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S062",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S063",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S064",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S065",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S066",
+      "verdict": "faithful",
+      "note": "Source-checked: Garsia (edelheit2022:19617-19620, 19595-19603) is answering the charge about ST 3 q.52 a.2, so 'same Summa passage' is supported."
+    },
+    {
+      "sentence": "S068",
+      "verdict": "faithful",
+      "note": "Faithful now: says Pico held it befitting for Christ's soul to have been in Hell only by the effect and by acting; matches copenhaver2022:1944-1946. Round-2 failure cured."
+    },
+    {
+      "sentence": "S069",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S070",
+      "verdict": "faithful",
+      "note": "Source-checked: edelheit2022 note 22 'Sed in hoc discrepant' (7401) supports 'accords so far, differs here'."
+    },
+    {
+      "sentence": "S071",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S072",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S073",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S075",
+      "verdict": "faithful",
+      "note": "Source-checked: 'angels were safer substitutes for Christ in Pico's metaphysical inquiry' at copenhaver2022:1883-1884."
+    },
+    {
+      "sentence": "S076",
+      "verdict": "faithful",
+      "note": "Source-checked: 'much discussed by philosophers' at copenhaver2022:895-909."
+    },
+    {
+      "sentence": "S077",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S081",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S082",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S083",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S084",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S085",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S086",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S087",
+      "verdict": "faithful",
+      "note": "Source-checked at edelheit2022:19973-19986."
+    },
+    {
+      "sentence": "S088",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S089",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S090",
+      "verdict": "faithful",
+      "note": "Source-checked at edelheit2022:20022-20038; reasons for the third, fourth and fifth views are in the text."
+    },
+    {
+      "sentence": "S091",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S092",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S093",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S094",
+      "verdict": "faithful",
+      "note": "Source-checked: 'Garsia does not seem to be aware of these tensions' at edelheit2022:20130."
+    },
+    {
+      "sentence": "S097",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S100",
+      "verdict": "overreaches",
+      "reason": "Garsia's criterion (131) leaves the first two views acceptable, so the question is not closed, only closed against Pico's view; S053 marks 'closed against Pico' as the editor's inference (ed.), but S100 states 'to close it' flatly and without (ed.).",
+      "suggested_sentence": "Edelheit reports Pico's use of Henry to show it was open [edelheit2022:084], and Garsia's use of the articles to rule out the views that include Pico's [edelheit2022:131]."
+    },
+    {
+      "sentence": "S101",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S103",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S104",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S106",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S108",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S111",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S112",
+      "verdict": "faithful"
+    },
+    {
+      "sentence": "S114",
+      "verdict": "faithful"
+    }
+  ],
+  "uncited_flags": [],
+  "patterns": "The four sentences revised in the last round (S008 by-effect/Q1 motive, S068, S075, S111) now hold: the claim restatements were corrected and the sources (copenhaver2022:1891-1893, 1944-1946) bear them out. One residual: S100 compresses the editor's 'closed against Pico' (S053, marked ed.) into 'close it' without the marker. Scholar reports of Aquinas, Scotus and Dionysius are all attributed through Copenhaver, Edelheit or Black; none is in the essay's own voice. Uncited sentences assert no uncited fact (S004 and S005 are corpus-scope statements marked ed.)."
+}

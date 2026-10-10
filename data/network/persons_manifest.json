@@ -1,0 +1,7 @@
+{
+  "created": "2026-09-28",
+  "source": "data/claims/parties.json",
+  "count": 16,
+  "status": "Phase 0 bootstrap",
+  "note": "Person IDs from party slugs; alternate names from aliases. Locators (Farmer page, authority source) to be added in Phase 1. Every person marked draft or speculative pending verification."
+}

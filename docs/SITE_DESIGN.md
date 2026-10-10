@@ -243,3 +243,19 @@ runs the same `commentary_check` logic client-side, so a user's own essay gets t
 | T-SITE-07 | Workbench Stage 1 (browser collections and export) |
 | T-SITE-08 | Workbench Stage 2 (accounts, server storage, sharing) |
 | T-SITE-09 | interface verification pass (s10), then DEPLOYER steps in `DEPLOY_STATE.md` |
+
+## 13. Quotation policy and verification record (2026-09-28)
+
+**Quotation policy (D-43, superseding the 40-word rule of s9).** Scholarly quotations are the largest copyright risk of the whole edition. A public
+build of the card explorer ships restatements (model paraphrases, labelled), locators (work and line), scores and metadata for every claim, and
+quotation text only for the claims cited in a published essay (`python scripts/build_cards.py --quotes cited`, the default; 171 of 1,886 claims,
+each cut to 40 words). Every other card and drawer says "Quotation withheld in this public build (copyright); find it at the work and line below"
+and "Verified verbatim by script at: work, line". `--local` ships everything and must never be deployed. The essays and tours quote scholars in short
+attributed passages, as a monograph does.
+
+**Verified by driving it** (built with the default `/Pico900/` base path, served, read in a browser): search plus sort-by-relevance-to-Ficino from the
+URL; facet counts equal independent counts from `cards.json`; the evidence drawer's five tabs; Esc closes; a collected card persists across reload;
+the explorer opens the exact claim from `cards/#open=<claim id>` (so a tour citation lands on its evidence); withheld and cited states render
+correctly; tour pages show all stops, 87 citation links with none broken, every "open the claim card" link resolves to a real card; no horizontal
+scroll at 1280px (explorer also at 375px). **Not verified:** keyboard tab order, greyscale legibility, screen readers, the tour page at phone width,
+native scroll events for the tour rail (the test pane fires none; the rail's logic was verified with a synthetic scroll event), and any deployment.

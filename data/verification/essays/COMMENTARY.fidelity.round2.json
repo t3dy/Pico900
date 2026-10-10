@@ -1,0 +1,430 @@
+{
+ "essay": "docs/angelology/COMMENTARY.md",
+ "verifier": "EV-4",
+ "date": "2026-09-28",
+ "judged": [
+  {
+   "sentence": "S001",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S002",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S003",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S004",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S005",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S006",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S007",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S008",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S009",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S010",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S011",
+   "verdict": "overreaches",
+   "reason": "'defined instead by indeterminacy' is the essay's own characterisation; claim 007 gives only the two conditionals (rational seeds, intellectual seeds)",
+   "suggested_sentence": "For man, Pico says, if he cultivates his rational seeds he will become a heavenly being, and if he cultivates his intellectual seeds he will be an angel and a son of God [borghesi2012:007]."
+  },
+  {
+   "sentence": "S012",
+   "verdict": "overreaches",
+   "reason": "'insists against a bodily reading of the order' adds a stronger verb and an opponent; claim 010 says only that Pico says spiritual intelligence, not separation from the body, makes an angel",
+   "suggested_sentence": "What makes an angel, Pico says, is not separation from the body but spiritual intelligence [borghesi2012:010]."
+  },
+  {
+   "sentence": "S013",
+   "verdict": "overreaches",
+   "reason": "'structure most of what follows' is in no cited claim; claim 068 gives only the editors' report that Pico follows the Pseudo-Dionysian scheme, confirmed by Thomas and Gregory",
+   "suggested_sentence": "Pico's three highest ranks, seraph, cherub and throne, follow a scheme the Oration's editors trace to Pseudo-Dionysius and say is confirmed by Aquinas and Gregory the Great [borghesi2012:068]."
+  },
+  {
+   "sentence": "S014",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S015",
+   "verdict": "overreaches",
+   "reason": "claim 014 gives a one-line characterisation of the three ranks, not a working-through of each order in turn; the sentence is connective but carries a citation it does not earn",
+   "suggested_sentence": "Pico gives each rank a one-line characterisation [borghesi2012:014]."
+  },
+  {
+   "sentence": "S016",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S017",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S018",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S019",
+   "verdict": "overreaches",
+   "reason": "'occupies the middle position for a structural reason' supplies a cause; claim 021 says only that the cherub, placed in the middle, prepares and illuminates",
+   "suggested_sentence": "The cherub, placed in the middle, prepares the soul by his light for the seraphic fire and illuminates for it the judgment of the thrones [borghesi2012:021], and the editors gloss the cherub, under the name the order of Pallas, as cherubic contemplation that completes the link between the seraphim's love and the thrones' justice [borghesi2012:104]."
+  },
+  {
+   "sentence": "S020",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S021",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S022",
+   "verdict": "overreaches",
+   "reason": "'the ascent's controlling image' is the essay's own evaluation; claim 025 gives only the ladder that Pico says Jacob teaches by a figure",
+   "suggested_sentence": "Pico says the patriarch Jacob teaches through a figure that a ladder of many rungs stretches from the lowest earth to the highest heavens, with God at its summit and the contemplative angels moving up and down it in turns [borghesi2012:025]."
+  },
+  {
+   "sentence": "S023",
+   "verdict": "overreaches",
+   "reason": "drops the editors' hedges: 'relatively harmonious' and 'rather joyous contradiction' become flat 'harmoniously' and 'a joyous contradiction'",
+   "suggested_sentence": "The editors note that Pico's depiction of the relatively harmonious comings and goings of the angels on the ladder is a rather joyous contradiction of the typical iconography of the ladder [borghesi2012:088]."
+  },
+  {
+   "sentence": "S024",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S025",
+   "verdict": "overreaches",
+   "reason": "source (borghesi2012:1616-1622) has 'philosophizing according to the grades of Nature' and 'descend ... and ascend in turn'; the sentence has 'philosophising through the ladder's rungs' and only 'Ascending it', which changes the image",
+   "suggested_sentence": "Inspired by the cherubic spirit and philosophising according to the grades of nature, Pico says, we shall descend and ascend in turn until we rest in the bosom of the Father, who is at the top of the ladder, and are made perfect in theological bliss [borghesi2012:028]."
+  },
+  {
+   "sentence": "S026",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S027",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S028",
+   "verdict": "misattributed",
+   "reason": "the editors report (borghesi2012:5664-5711) that PICO identifies Michael with Keter; the sentence has the editors making the identification and Pico only taking Keter as a symbol, and puts a sefirotic identification beside their gloss on the archangels",
+   "suggested_sentence": "The editors gloss this triad as standing in turn for dialectics, natural philosophy and theology [borghesi2012:107], and say elsewhere that Pico identifies Michael with the sefirah Keter, which he takes as the symbol of the priesthood [borghesi2012:103]."
+  },
+  {
+   "sentence": "S029",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S030",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S031",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S032",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S033",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S034",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S035",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S036",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S037",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S038",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S039",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S040",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S041",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S042",
+   "verdict": "overreaches",
+   "reason": "'properly called the son of the father' adds 'properly'; Allen (allen2017:6092-6095) says only that they 'had even referred to it as the son' of the father; it is Pico who is said to prefer the view",
+   "suggested_sentence": "In Allen's account of the Commento, Pico prefers a position he attributes to the 'more perfect Platonists,' Plotinus and Porphyry among them: that between the first and third hypostases there is only one Mind, not many minds, which they had even referred to as the 'son' of the father [allen2017-venus:026]."
+  },
+  {
+   "sentence": "S043",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S044",
+   "verdict": "overreaches",
+   "reason": "drops Allen's hedge 'not so much ... as': the sentence makes Mind flatly 'not the exemplary Idea of Beauty itself but the composite beauty'",
+   "suggested_sentence": "Because Mind is the first one-and-many, existing as both the first angel and the plenitude of the Ideas, Allen reports that it is also the first unitary composite, and so the first beautiful thing: not so much the absolute, exemplary Idea of Beauty as the composite, manifold, universal beauty that Ficino would call the splendour of the Ideas [allen2017-venus:041]."
+  },
+  {
+   "sentence": "S045",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S046",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S047",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S048",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S049",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S050",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S051",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S052",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S053",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S054",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S055",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S056",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S057",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S058",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S059",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S060",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S061",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S062",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S063",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S064",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S065",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S066",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S067",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S068",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S069",
+   "verdict": "overreaches",
+   "reason": "source (black2006:12235-12246) says the SAME concepts can be expressed with very few forms; 'expressing many concepts with very few forms' reverses the point (economy of forms, not multiplicity of concepts)",
+   "suggested_sentence": "Black argues that Moses's text shows how the same concepts can be expressed with very few forms, that is words, and so represents the simplicity of forms by which angels, and by extension prophets, understand things normally out of human reach [black2006-c:102]."
+  },
+  {
+   "sentence": "S070",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S071",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S072",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S073",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S074",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S075",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S076",
+   "verdict": "overreaches",
+   "reason": "the negative clause 'not seven interpretive layers superimposed on a single reading' is in neither claim; and the sentence fuses Black's two explanations (a seventh sabbatical exposition, claim 072; the seven days of creation and seventh chapters turning to Christ, claim 074) into one",
+   "suggested_sentence": "The Heptaplus is organised as seven expositions: in Black's account of the second proem, one exposition for each of the three worlds, one for man as a fourth world, two on the links between man and the three worlds, and a final exposition corresponding to the sabbath [black2006-c:072]; by the second explanation everything corresponds to the seven days of creation, and each exposition's seventh chapter turns towards Christ, the end of the law and our sabbath, rest and felicity [black2006-c:074]."
+  },
+  {
+   "sentence": "S077",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S078",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S079",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S080",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S081",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S082",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S083",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S084",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S085",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S086",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S087",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S088",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S089",
+   "verdict": "overreaches",
+   "reason": "'a shift in kind, not merely of subject' and 'advantages the Commento's psychological model lacked' are not in claim 100, which gives the shift from psychological to ontological model, 'other advantages', and accord with Aristotle's Metaphysics XII",
+   "suggested_sentence": "Elsewhere Black describes a shift from the psychological model of the Commento to the ontological model of the Heptaplus, which he says has other advantages, first among them that it accords with the ontology Aristotle proposes at the beginning of Metaphysics XII, of perishable sensible, eternal sensible and eternal immovable substance, though he judges a direct historical link implausible without later developments in the Aristotelian tradition [black2006-b:100]."
+  },
+  {
+   "sentence": "S090",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S091",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  },
+  {
+   "sentence": "S092",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S093",
+   "verdict": "faithful"
+  },
+  {
+   "sentence": "S094",
+   "verdict": "misattributed",
+   "reason": "in the essay's own voice, Bausi's restoration of Metatron is the editors' report (claim 055, scholar_report), stated here as fact",
+   "suggested_sentence": "The editors report that the printed editions leave the Oration's Hebrew word blank or supply a back-translation and that Bausi, following Wirszubski, restores Metatron from a manuscript; Copenhaver's own preference for Metatron in T2K10 is hedged [borghesi2012:054|borghesi2012:055|copenhaver2019-angels:097]."
+  },
+  {
+   "sentence": "S095",
+   "verdict": "faithful",
+   "note": "uncited; connective, framing or editorial gap statement; asserts no uncited name, date, number, doctrine or attribution"
+  }
+ ],
+ "patterns": "Round 1's large invented framing sentences are gone. What recurs is small: dropped hedges (S023, S044), added evaluative or causal words (S011, S012, S013, S019, S022, S042), and two sentences that fuse or shift attributions (S028 gives the editors an identification the source gives to Pico; S094 states Bausi's restoration, an editors' report, as fact). S069 and S076 alter the sense of the cited claim. Spot checks of the source for S018, S021, S049, S053, S054, S061, S064, S067, S073, S075, S080, S081 found the sentences supported. No Aquinas, Scotus or Dionysius claim stands in the essay's own voice: every one is routed through Black, Allen, the editors or the translators."
+}

@@ -27,6 +27,10 @@ text. Read the lines before and after. A name that is not in the quotation but i
 surrounding sentences is not an overreach; say "supported; add the sentence with the name to the quotation" in `reason`.
 The script's `ungrounded_entity` warnings are leads: check them, do not assume them.
 
+`suggested_text` is applied to the claim by a script, so it MUST be a complete restatement sentence (one sentence, neutral, naming who says what) and
+never an instruction ("Text unchanged. Drop the bears_on."). If the restatement is fine and only another field is wrong (`bears_on`, `hedge`,
+`attribution`, a warrant), put that in `reason` and omit `suggested_text`; a script removes relationship tags that no quotation names.
+
 If a claim overreaches, write `suggested_text`: the restatement rewritten to say only what the evidence supports (one
 sentence, neutral, no name or number that is not in a quotation). If it is wrong, say what the source says instead.
 

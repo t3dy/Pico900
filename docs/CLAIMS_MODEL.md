@@ -168,6 +168,13 @@ quote gate is not fit to be cited**. The rules that follow from this:
 - **Citing.** `commentary_check.py` refuses any cited claim without a current `supported` verdict (`unsampled_ref`).
   `scripts/claims_sheet.py --from-commentary FILE --missing-only` produces the sheet for a targeted batch, so a writer's cited
   claims (typically 150-300) are verified in full before the commentary passes. Drafts may use `--allow-unsampled`.
+- **Sentence fidelity (added 2026-09-28).** `commentary_check.py` proves each citation exists, is judged `supported` and each quoted string is
+  verbatim; it cannot prove a SENTENCE says no more than the claims it cites, and claims are corrected after an essay is drafted, so a sentence
+  written from an old restatement can now overstate. `scripts/essay_sheet.py FILE` lays each cited sentence beside the CURRENT restatement and
+  first quotation of every claim it cites; an essay fidelity verifier (`docs/briefs/essay_fidelity_verifier.md`, never the writer) judges each
+  sentence faithful / overreaches / misattributed and writes `data/verification/essays/<slug>.fidelity.json`; the writer revises the flagged
+  sentences. Rule of thumb from the first run: whenever claims are rewritten after a draft (`claims_apply_semantic.py`), the writer is resumed to
+  re-read the changed claims before the essay is treated as final.
 - **Learning.** Recurring failures are written into `docs/briefs/claims_researcher.md` ("Lessons from the first semantic
   verification") so the next sweep starts with fewer of them.
 
