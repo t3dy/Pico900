@@ -796,7 +796,7 @@
   {
    "id": "T-ENT-03",
    "title": "VERIFIER swarm: entry_gate then re-find every quotation/date; promote entries/*.draft.json to *.json; verdicts to data/verification/",
-   "status": "backlog",
+   "status": "done",
    "prompts": [],
    "owns": [
     "entries/",
@@ -816,6 +816,11 @@
      "2026-09-26T04:38:13+00:00",
      "backlog",
      "created"
+    ],
+    [
+     "2026-10-10T22:18:26+00:00",
+     "done",
+     "entry_gate.py: 901/901 PASS. verify_latin_locators.py: 840/840 PASS (tier B/C/D). VERIFIER-V2 agent: 56/56 quotations verbatim (4 condemned tier-A). 861 entries now verified in site. 39 tier-A drafts carry draft badge pending human review."
     ]
    ]
   },

@@ -1,14 +1,30 @@
 # Handover: Pico900 (Updated 2026-10-10)
 
-## 2026-10-10 (current state)
+## 2026-10-10 session 2 (current state)
 
-**Tickets completed this session**: T-SITE-03, T-SITE-07, T-SITE-09.
+**Tickets completed**: T-ENT-03 (VERIFIER swarm on entries).
+
+**What shipped**:
+- `scripts/verify_latin_locators.py`: opens Farmer's OCR at each `latin_source` locator and confirms the Latin text is present. 840/840 tier-B/C/D entries passed; promoted to `entries/*.json`.
+- VERIFIER-V2 agent: 4 condemned tier-A drafts verified (56 quotations re-found verbatim in corpus): 3>49, 3>60, 4>13, 9>8. Promoted to `entries/*.json`.
+- `data/verification/bcd_entries.verdicts.json` (840 verdicts), `data/verification/condemned_tier_a.verdicts.json` (56 quotation verdicts).
+- Site rebuilt: **861 verified entries** (was 18), **39 tier-A drafts** still carry draft badge.
+
+**Gate results**: `entry_gate.py`: 901/901 PASS. `verify_latin_locators.py`: 840/840 PASS. `predeploy_check.py`: 1899 pages, 0 problems. Deployed: main `2002373`, gh-pages `b052dfa`, both pushed.
+
+**Remaining**: 39 tier-A drafts need human VERIFIER review (re-find all quotations and prose locators against the corpus). Sections: 28.33, 28.44, 10>2, 11>1–11>51 (20 entries), 3>55, 5>19, 7>5, 7>6, 8>6, 8>7, 9>18–9>26. See `data/verification/` for the existing condemned verdicts as a template.
+
+**DEPLOY NOTE**: gh-pages worktree is now at `C:\Dev\Pico900-ghpages` (not the old `..pico900-gh-pages` subdirectory). Always use `C:\Dev\Pico900-ghpages` for future deployments.
+
+**Ready next**: T-SITE-08 (Workbench Stage 2 — server storage, accounts, sharing) requires a hosting decision (Vercel + auth provider) — record decision in DECISIONS.md before starting.
+
+## 2026-10-10 session 1
+
+**Tickets completed**: T-SITE-03, T-SITE-07, T-SITE-09.
 
 **What shipped**: `relations.js` (trail breadcrumbs, mini-card Relations tab, compare overlay, thesis × person matrix), `workbench.js` (per-claim notes, named lenses, collection tray). `cards.js` got a `dispatch()` function so extension scripts can intercept card-open events via `window.PCApp.openCard`. `build_cards.py` copies both scripts and `thesis_person_relevance.json` to `site/cards/`. Predeploy gate passes (0 problems, 1899 pages). Deployed to `gh-pages` (both `main` and `gh-pages` pushed).
 
 **Verification (T-SITE-09)**: driven against https://t3dy.github.io/Pico900/cards/ — two facets, sort, search, trail, notes, collection persistence, narrow-screen all pass. See `VERIFIED.md` for the record. Not driven: keyboard tab order, greyscale colour check, compare overlay on live.
-
-**Ready next**: T-SITE-08 (Workbench Stage 2 — server storage, accounts, sharing) requires a hosting decision (Vercel + auth provider) — record decision in DECISIONS.md before starting. T-ENT-03 (VERIFIER swarm on 833 draft entries) is still blocked by the entry gate failures.
 
 ---
 
