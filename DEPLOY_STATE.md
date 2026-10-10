@@ -1,9 +1,6 @@
 # Deployment State: Pico900
 
-**Status: LIVE, pushed 2026-10-10.** Full site deployed: 1899 pages across home, sections, condemned, scholarship, about,
-900 thesis pages, 900 conclusion detail pages, interactive conclusion explorer, claim cards explorer (1886 cards from 15 scholar
-packets), 4 essay tours (angelology, Ficino-Pico dispute, angels & location, angelic orders), sources tab (87 sources, 9
-traditions). `predeploy_check.py` returned 0 problems across 1899 pages before push. The GitHub Actions workflow at
+**Status: LIVE, pushed 2026-10-10 (session 4).** Full site deployed: 1899 pages. **900/900 thesis entries verified, 0 draft badges.** T-CLAIMS-03 complete (15 overreaches fixed, all restatements now clean). `predeploy_check.py` returned 0 problems across 1899 pages before push. gh-pages commit `2d4fb95`, main `8c8f23a`. The GitHub Actions workflow at
 `.github/workflows/deploy-pages.yml` in `gh-pages` auto-deploys on push to that branch. Deploy branch is `gh-pages`; `main` holds sources.
 
 | | |
