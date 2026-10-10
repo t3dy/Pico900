@@ -1,0 +1,71 @@
+{
+    "thesis_id":  "9\u003e25",
+    "tier":  "A",
+    "latin":  "Sicut caracteres sunt proprii operi magico, ita numeri sunt proprii operi cabalae, medio existente inter utrosque et appropriabili per declinationem ad extrema usu litterarum.",
+    "latin_source":  "farmer1998:25475",
+    "latin_note":  "Copy-text Farmer 1998 (farmer1998:25475-25477), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); no variant is recorded in Farmer\u0027s apparatus for this page (farmer1998:25482-25487). Busi\u0027s introduction prints \u0027opere magico\u0027 (busi2014:1667), but his edition of the sources reads \u0027operi magico\u0027 (busi2014:24490-24492). Akopyan prints \u0027literarum\u0027 and a comma after \u0027utrosque\u0027 (akopyan2018:618-619).",
+    "translation":  "As characters are proper to the magical work, so numbers are proper to the work of Kabbalah; between the two stands the use of letters as a medium, which can be fitted to either extreme by being inflected toward it.",
+    "translation_note":  "\u0027medio existente ... usu litterarum\u0027 is an ablative absolute whose subject is \u0027usu litterarum\u0027: the use of letters is the medium, and \u0027appropriabili per declinationem ad extrema\u0027 says it can be made proper to either extreme by a \u0027declinatio\u0027, a bending or turning toward one side. Copenhaver renders the clause as a use of letters \u0027that avoids either extreme\u0027 (copenhaver2019:20311-20313); Ebgi as \u0027adattabile con opportune modifiche ai due estremi\u0027 (busi2014:10149-10152). \u0027operi cabalae\u0027 is \u0027the work of Kabbalah\u0027, following Mandosio\u0027s objection to the indefinite article in Farmer\u0027s English (mandosio2012:330).",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer\u0027s English at farmer1998:25527; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion: the twenty-fifth magical conclusion, the third of the series on numbers, characters and figures, 9\u003e23-25 (farmer1998:25543-25545).",
+    "sources":  [
+                    {
+                        "text":  "Latin translations of kabbalistic texts by Flavius Mithridates, with their shift from letters to numbers",
+                        "locator":  "wirszubski1989:4349",
+                        "pico_relation":  "a possible influence on the thesis, proposed by Wirszubski"
+                    }
+                ],
+    "doctrine":  "The thesis is a proportion: characters are to magic as numbers are to Kabbalah, and the use of letters is a medium between them that can be adapted to either extreme (farmer1998:25475-25477). Farmer takes characters here, as in 9\u003e24, to be magical words in general, and reads the point as the translatability of magical words into numbers and of numbers into words, apparently through the word-number equations of gematria (farmer1998:25541-25543). Gematria is the conversion of words into numbers, practicable in Hebrew because its letters are also numerals (mandosio2012:424-429). In his introduction Farmer cites this thesis for Pico\u0027s claim that unspecified gematria-like techniques were the key to his fusion of natural magic and Cabala (farmer1998:3813-3815; farmer1998:3843). Wirszubski bases his reading on two facts: all Hebrew letters are also numerals, and speech, creation and the name of God are inseparably linked in Kabbalistic ontology (wirszubski1989:7162-7164). Given these facts, he argues, the thesis squares with Pico\u0027s notion of practical Kabbalah as the \u0027science of names\u0027, since names, letters and numbers all belong to language and number mysticism (wirszubski1989:7186-7191). Farmer rejects that identification: for Pico practical Kabbalah was the \u0027science of sefirot\u0027 and speculative Kabbalah the \u0027science of names\u0027 (farmer1998:26326-26332). Mandosio agrees with Farmer and concludes that the numbers proper to the work of cabala are the sefirot, which correspond to the formal numbers (mandosio2012:262-272). He judges that Wirszubski\u0027s misinterpretation does not deeply affect his analysis, given the equivalence of numbers and names in Hebrew (mandosio2012:324-326).",
+    "context":  "Wirszubski proposes a source for the numerical side of the thesis in Pico\u0027s translator: the Latin versions of Flavius Mithridates show a sustained shift from linguistic to numerical symbolism, and the notion that \u0027numeri sunt proprii operi cabalae\u0027 is, he writes, out of tune with the Hebrew originals of Pico\u0027s sources but in keeping with their Latin translations (wirszubski1989:4207-4217; wirszubski1989:4349-4359). The Orphic theses state the same property of Kabbalah in other words: the work of the hymns is nothing without a work of Cabala, whose property is to practise every formal quantity, continuous and discrete (farmer1998:26004-26007; wirszubski1989:7192-7198). Farmer reads the work there as gematria or other word-number translations used to calculate the seven ages of the world, a prophetic exegesis and not a material operation (farmer1998:7173-7176).",
+    "reception":  "Busi reads the thesis as a graduated scale, the first of its kind among magicians and cabalists (busi2014:1654-1660). It runs, he argues, from the extreme of magical asemanticity, the characteres, to the extreme of linguistic abstraction, gematria and letter-numbers, and a Hebrew letter can move along it from mute figure to word to pure number (busi2014:1675-1682). Ebgi describes the same scale as a double mathematical writing latent in the alphabet: characters obtained by emptying letters of meaning and reducing them to geometric elements, numbers obtained by reducing the Hebrew letters to arithmetical elements (busi2014:10153-10161). Howlett cites the thesis for the manipulation of mathematics and letters in Kabbalism to bring about change within and outside ourselves (howlett2021:5502-5504; howlett2021:6195-6201).",
+    "historiography":  "Farmer holds that characters here are not words on astrological talismans \u0027as Yates argued\u0027 (farmer1998:25541-25542), and he counts this thesis among those whose Latin Yates misread (farmer1998:7957-7959). Copenhaver, by contrast, glosses the characters as \u0027Nonalphabetic signs\u0027, magical like numbers in Kabbalah (copenhaver2019:17382-17383), a reading nearer to Ebgi\u0027s letters emptied of meaning and reduced to geometric elements than to Farmer\u0027s words (busi2014:10155-10158). The dispute between Wirszubski on one side and Farmer and Mandosio on the other concerns which half of Kabbalah the numbers serve, not whether letters and numbers are convertible (wirszubski1989:7186-7191; farmer1998:26326-26332; mandosio2012:324-326). Farmer calls this thesis \u0027another link\u0027 between magic and Cabala (farmer1998:25343). Where 9\u003e15, 9\u003e18 and 9\u003e26 relate magic and Kabbalah by rank, this thesis relates them by a shared material, the letter, which is why every reading of it turns on what a letter is (editorial inference from farmer1998:25288-25289, farmer1998:25362-25363 and farmer1998:25475-25477).",
+    "connections":  [
+                        "9\u003e15",
+                        "9\u003e18",
+                        "9\u003e22",
+                        "9\u003e23",
+                        "9\u003e24",
+                        "9\u003e26",
+                        "10\u003e20",
+                        "10\u003e21",
+                        "11\u003e1",
+                        "11\u003e3",
+                        "11\u003e12"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "magical words can be translated into numbers, and numbers into magical words",
+                           "work":  "farmer1998",
+                           "line":  25542,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "all Hebrew letters are also numerals",
+                           "work":  "wirszubski1989",
+                           "line":  7163,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "is for the most part out of tune with the Hebrew originals",
+                           "work":  "wirszubski1989",
+                           "line":  4358,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "Nonalphabetic signs or",
+                           "work":  "copenhaver2019",
+                           "line":  17382,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "Which technique, if any, Pico meant by \u0027declinatio\u0027 of letters: not established by the sources consulted; Farmer\u0027s gematria is qualified by \u0027apparently\u0027 (farmer1998:25543).",
+                            "Whether Pico\u0027s characters are words (Farmer, farmer1998:25541) or non-alphabetic signs (Copenhaver, copenhaver2019:17382; Ebgi, busi2014:10155-10158): not established by the sources consulted."
+                        ],
+    "writer":  "WRITER-B2b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

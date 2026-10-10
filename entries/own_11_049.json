@@ -1,0 +1,53 @@
+{
+    "thesis_id":  "11\u003e49",
+    "tier":  "A",
+    "latin":  "Qui sciuerit correspondentiam decem preceptorum ad prohibentia per coniunctionem ueritatis astrologicae cum ueritate theologica, uidebit ex fundamento nostro praecedentis conclusionis, quicquid alii dicant Cabalistae, primum preceptum primae numerationi correspondere, Secundum secundae, Tertium tertiae, Quartum septimae, Quintum quartae, Sextum quintae, Septimum nonae, Octauum octauae, Nonum sextae, Decimum decimae.",
+    "latin_source":  "farmer1998:27430",
+    "latin_note":  "The thesis runs over a line break at \u0027Septi-/mum\u0027 and continues at farmer1998:27436; the inventory copy stops at the break. Farmer\u0027s OCR prints the number as \u002711249\u0027 (farmer1998:27430). Akopyan reads \u0027tertius\u0027 for \u0027Tertium\u0027 (akopyan2018:749).",
+    "translation":  "Whoever knows how the ten commandments correspond to the forbidding [powers], by joining astrological truth with theological truth, will see from the foundation laid in my preceding conclusion, whatever the other Cabalists say, that the first commandment corresponds to the first numeration, the second to the second, the third to the third, the fourth to the seventh, the fifth to the fourth, the sixth to the fifth, the seventh to the ninth, the eighth to the eighth, the ninth to the sixth, and the tenth to the tenth.",
+    "translation_note":  "\u0027ad prohibentia\u0027 (\u0027to the things that forbid\u0027) is obscure; Farmer\u0027s English does not render it (farmer1998:27482), and Akopyan\u0027s Latin keeps it (akopyan2018:746). The editor conjectures a link with the power that \u0027does not prohibit\u0027 in 11\u003e50 (farmer1998:27440); the sources consulted do not discuss the phrase. \u0027fundamento nostro praecedentis conclusionis\u0027 refers to 11\u003e48.",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer\u0027s Latin, sense checked against farmer1998:27482; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion, set against \u0027the other Cabalists\u0027: Cabalistic conclusions confirming the Christian religion, section 11\u003e (farmer1998:26227).",
+    "sources":  [
+
+                ],
+    "doctrine":  "The thesis extends the correspondence of 11\u003e48 to the Decalogue: whoever joins astrological with theological truth will see that the ten commandments answer to the ten numerations in a set order (farmer1998:27430). The numerations are the sefirot, the ten emanated powers of God in theosophical Kabbalah, called numerationes in Pico\u0027s Latin sources: Crown (Keter), Wisdom (Hokmah), Intelligence (Binah), Piety (Hesed), Judgment (Gevurah), Glory (Tiferet), Eternity (Nesah), Splendour (Hod), Foundation (Yesod) and Kingdom (Malkut) (wirszubski1989:7451; wirszubski1989:7066; busi2014:13589). The first three commandments go to the first three numerations and the eighth and tenth to their own numbers, while the fourth goes to the seventh, the fifth to the fourth, the sixth to the fifth, the seventh to the ninth and the ninth to the sixth (farmer1998:27433; farmer1998:27436). Reading the list through 11\u003e48, the editor derives a planet for each commandment from the fourth onward: the fourth Saturn, the fifth Jupiter, the sixth Mars, the seventh Mercury, the eighth Venus, the ninth the sun and the tenth the moon (farmer1998:27424; farmer1998:27434). Farmer\u0027s note on 11\u003e48-50 treats the three theses as one group, glossing the numerations as the sefirot and the edifice as the fourth to tenth (farmer1998:27453). Howlett uses the pairing of the first commandment with the first numeration as evidence that Pico acknowledges one as the number of Keter (howlett2021:5433).",
+    "context":  "Farmer counts the Ten Commandments among the decads that Pico\u0027s theses bring into correspondence with the ten spheres, the ten sefirot and the ten operations of the soul (farmer1998:4748; farmer1998:4781). The German study of Pico\u0027s epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) holds that all ten sefirot can in this way be assigned to the commandments, which are thereby introduced as supralunar and ideal values, as they later are in Ricci (kabbalah_paradigma:1553; kabbalah_paradigma:1603). It pairs the thesis with 5\u003e3, in which the illumination of the middle by the superior is signified alike by the Platonists\u0027 gathering of souls on Mount Ida and by the Hebrews\u0027 gathering of souls at Sinai to hear the Law (kabbalah_paradigma:1643). Copenhaver reports that a commandment against adultery showed Recanati a secret about the union of Tiferet with the Shekinah, which Pico restated in a thesis of the first Cabalistic set (copenhaver2019:15889).",
+    "reception":  "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico\u0027s own opinion went unchallenged (dougherty2008:2808). Sheila Rabin quotes it in Farmer\u0027s translation among four Kabbalistic theses on astrology (dougherty2008:7894). Akopyan quotes 11\u003e48 and 11\u003e49 together as the theses in which Pico combines the ten sefirot with the ten spheres, and reads them as descriptive astrology without predestination (akopyan2018:679; akopyan2018:714).",
+    "historiography":  "Farmer\u0027s reading makes the thesis an instance of the forced fit, in which the demands of symmetry press simpler sets into the structure of more complex ones (farmer1998:4713; farmer1998:4781). The German study reads it as the moral counterpart of the cosmological scheme, lifting the commandments into the supralunar order (kabbalah_paradigma:1603). Howlett uses it for the arithmetical sense of the numerations, the first commandment answering to the first numeration and so to the number one (howlett2021:5434). None of the sources consulted explains the order of the assignments (farmer1998:27453; kabbalah_paradigma:1643). The editor notes that under 11\u003e48 the fourth commandment, placed at the seventh numeration, falls to Saturn, the planet whose day Roger Bacon, as reported in Pico\u0027s Disputationes, wanted Christians to keep as the sabbath (farmer1998:27434; farmer1998:27425; akopyan2021:5299). Whether the fourth commandment is the sabbath commandment depends on how Pico numbered the Decalogue; if it is, the thesis would put in the language of the Law the pairing of sabbath and Saturn that 11\u003e18 overturns in favour of the Lord\u0027s day (farmer1998:26797).",
+    "connections":  [
+                        "11\u003e48",
+                        "11\u003e50",
+                        "11\u003e18",
+                        "11\u003e66",
+                        "11\u003e2",
+                        "5\u003e3",
+                        "28.9",
+                        "28.22"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "The mania for correspondences",
+                           "work":  "farmer1998",
+                           "line":  4711,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "als supralunare und ideale Werte eingeführt werden",
+                           "work":  "kabbalah_paradigma",
+                           "line":  1604,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "How Pico numbered the Decalogue. In the count used in Jewish tradition the sabbath commandment is fourth and in Augustine\u0027s count third (the editor\u0027s general knowledge, not drawn from the sources consulted); the link with Saturn holds only on the former.",
+                            "The meaning of \u0027ad prohibentia\u0027, and why Farmer\u0027s English omits it (farmer1998:27482).",
+                            "The rationale of the non-sequential assignments."
+                        ],
+    "writer":  "WRITER-B4b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

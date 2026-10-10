@@ -1,0 +1,65 @@
+{
+    "thesis_id":  "11\u003e13",
+    "tier":  "A",
+    "latin":  "Qui operatur in Cabala sine admixtione extranei, si diu erit in opere, morietur ex binsica, et si errabit in opere aut non purificatus accesserit, deuorabitur ab Azazele per proprietatem iudicii.",
+    "latin_source":  "farmer1998:26608",
+    "latin_note":  "Farmer\u0027s OCR prints the number as \u002711213\u0027 (farmer1998:26608). His apparatus records that the prints of 1486 and 1487 read \u0027ab a zazele\u0027 (farmer1998:26615). Corazzol and Howlett quote \u0027in opera\u0027 for \u0027in opere\u0027, Howlett also \u0027operator\u0027 (corazzol2019:922; howlett2021:9518); Wirszubski prints a semicolon after \u0027binsica\u0027 (wirszubski1989:8120).",
+    "numbering_note":  "Pico\u0027s heading gives the section seventy-one theses; the text has seventy-two (farmer1998:26248; wirszubski1989:8214).",
+    "translation":  "One who works in Cabala with nothing foreign mixed in will die of binsica if he persists long in the work; if he errs in the work, or approaches it without purification, Azazel will devour him by the property of judgment.",
+    "translation_note":  "\u0027binsica\u0027 is left untranslated: Pico\u0027s transliteration for the death of the kiss (wirszubski1989:8124), which Copenhaver analyses as Hebrew neshiqah, \u0027kiss\u0027, preceded by be, \u0027in\u0027 (copenhaver2019:15963). \u0027proprietas iudicii\u0027 renders middah, \u0027property\u0027, of din, \u0027judgment\u0027 (wirszubski1989:7210; farmer1998:26684).",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B3b) from Farmer\u0027s Latin, sense checked against farmer1998:26667; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion: thirteenth of the Cabalistic conclusions confirming the Christian religion, section 11\u003e (farmer1998:26608).",
+    "sources":  [
+                    {
+                        "text":  "Abraham Abulafia, Sefer sitre Torah (De secretis legis), Latin by Flavius Mithridates, Vat. Ebr. 190, fol. 468v: one lot is the Lord\u0027s and one Azazel\u0027s",
+                        "locator":  "busi2014:8646",
+                        "pico_relation":  "proposed in the Busi and Ebgi volume as where Pico met Azazel"
+                    },
+                    {
+                        "text":  "Vat. Ebr. 191, fol. 332r: Azazel is Samael, named for the weight upon him from the property of severe judgment",
+                        "locator":  "wirszubski1989:8136",
+                        "pico_relation":  "Wirszubski\u0027s gloss on Azazel from a text Pico had in Latin"
+                    },
+                    {
+                        "text":  "Thomas Aquinas, Summa theologiae I, q. 97, a. 4, on the tree of life and decay \u0027ex admixtione extranei\u0027",
+                        "locator":  "busi2014:8595",
+                        "pico_relation":  "echoed in the phrase \u0027sine admixtione extranei\u0027, according to the Busi and Ebgi volume"
+                    }
+                ],
+    "doctrine":  "The thesis names two outcomes of working in Cabala (farmer1998:26608). Persistence in pure work ends in binsica, which Wirszubski reads simply as dying the death of the kiss (wirszubski1989:8124). Error or impurity ends in being devoured by Azazel through the property of judgment (farmer1998:26609). Farmer glosses Azazel as the demon of the scapegoat ritual of Leviticus 16:8-10 and the property of judgment as Din, the fifth sefirah, the stern retribution of God (farmer1998:26683). The sefirot are the ten emanated powers of God in theosophical Kabbalah, called numerationes in Pico\u0027s Latin (wirszubski1989:6836). Wirszubski argues from 11\u003e11 that, since the death of the kiss is the second death, the separation of the body from the soul, pure operation in Cabala must produce the first, the soul\u0027s rapture out of the body, which precedes it (wirszubski1989:8126). From 11\u003e12, which requires the operator to be rationally intellectual, and from the place of the death of the kiss as the crown of the contemplative life, he concludes that Pico conceived pure Kabbalistic operation as a contemplative activity, pointing to the two contemplative forms of Kabbala Pico knew, Kawwanah and Abulafia\u0027s art of combining letters, while granting that its precise mode eludes identification (wirszubski1989:8150; wirszubski1989:8156; wirszubski1989:8160). Farmer draws the parallel inference that Pico associated Cabalistic works with mystical states (farmer1998:26684).",
+    "context":  "Corazzol reads the thesis as proof that Pico knew the Kabbalistic notion that the attribute of judgment, Middat ha-Din, is activated by bodily or spiritual impurity, a notion he documents in Recanati (corazzol2019:921; corazzol2019:924). Copenhaver finds the same danger in a Zohar passage on the angels who guard the evening: one who prays disrespectfully meets the angel of death early and will not die by a kiss (copenhaver2019:15951; copenhaver2019:15953). He also compares Pico\u0027s warning with Iamblichus\u0027s awareness that the misuse of theurgy was dangerous (copenhaver2019:17596). In the Busi and Ebgi volume, the section signed \u0027G.B.\u0027 reads \u0027sine admixtione extranei\u0027 as a play on Aquinas\u0027s account of the tree of life, turned by Pico, following Azriel of Gerona as known through Recanati, into the work of the \u0027other side\u0027 (busi2014:8595; busi2014:8626).",
+    "reception":  "The thesis was not among those the commission censured; Blum notes that the Cabalistic theses according to Pico\u0027s own opinion went unchallenged (dougherty2008:2808). Howlett takes the thesis as Pico\u0027s claim that the death of the kiss is the final end of the Kabbalist\u0027s journey (howlett2021:8901).",
+    "historiography":  "Wirszubski found binsica unproblematic and the phrase \u0027operari in cabala sine admixtione extranei\u0027 uncertain (wirszubski1989:8124). The Busi and Ebgi volume answers his remark directly, holding that we now know what Pico had in mind: the ladder to heaven tilts toward hell for one who climbs without care, and Azazel is waiting (busi2014:8659; busi2014:8663). It also notes that Wirszubski cited a different passage for Azazel from the one it proposes in Abulafia (busi2014:8676). The two readings differ in emphasis: Wirszubski\u0027s contemplative account explains the first clause, the death of the kiss, while the Busi and Ebgi reading and Corazzol\u0027s explain the second, the danger of impurity (wirszubski1989:8160; busi2014:8628; corazzol2019:924). The thesis is the plainest statement in the set that Pico\u0027s Cabala is an operation with risks, whose success is death in union and whose failure is destruction by judgment (farmer1998:26608; wirszubski1989:8163).",
+    "connections":  [
+                        "11\u003e11",
+                        "11\u003e12",
+                        "8\u003e7",
+                        "10\u003e14",
+                        "28.3",
+                        "9\u003e26"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "I wish the meaning of operari in cabala sine admixtione extranei were half as certain",
+                           "work":  "wirszubski1989",
+                           "line":  8125,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "This conclusion makes clear that Pico was fully aware",
+                           "work":  "corazzol2019",
+                           "line":  924,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "What \u0027admixtio extranei\u0027 denotes in Pico\u0027s usage; Wirszubski, the Busi and Ebgi volume and Corazzol give different accounts.",
+                            "Whether Pico read Abulafia\u0027s passage on Azazel; the Busi and Ebgi volume proposes it as the most probable meeting place."
+                        ],
+    "writer":  "WRITER-B3b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

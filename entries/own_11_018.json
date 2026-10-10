@@ -1,0 +1,53 @@
+{
+    "thesis_id":  "11\u003e18",
+    "tier":  "A",
+    "latin":  "Qui coniunxerit Astrologiam Cabalae uidebit quod sabbatizare et quiescere conuenientius fit post Christum die dominico, quam die sabbati.",
+    "latin_source":  "farmer1998:26797",
+    "latin_note":  "Follows Farmer\u0027s text (farmer1998:26797-26798). Akopyan\u0027s quotations read \u0027coniurixerit\u0027 for \u0027coniunxerit\u0027 and \u0027Cabale\u0027 for \u0027Cabalae\u0027 in the copies consulted (akopyan2018:695; akopyan2021:1451).",
+    "translation":  "One who has joined astrology with the Cabala will see that since Christ, keeping the sabbath and resting falls more fittingly on the Lord\u0027s day than on the sabbath day.",
+    "translation_note":  "\u0027sabbatizare\u0027 is the Christian Latin verb \u0027to keep sabbath\u0027. \u0027dies dominicus\u0027 and \u0027dies sabbati\u0027 are Sunday and Saturday (farmer1998:26827). \u0027post Christum\u0027 is taken in the temporal sense, as Akopyan also takes it (akopyan2021:1428).",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer\u0027s Latin, sense checked against farmer1998:26853; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion: Cabalistic conclusions confirming the Christian religion, section 11\u003e (farmer1998:26227).",
+    "sources":  [
+
+                ],
+    "doctrine":  "The thesis claims that a reader who combines astrology with the Cabala will find Sunday, not Saturday, the more fitting day of rest in the Christian era (farmer1998:26797). Farmer glosses the two days as Sunday and Saturday but warns that more lies beneath, since Pico assigns days to particular sefirot and sefirot to particular planets or to Christ (farmer1998:26827). The sefirot are the ten emanated powers of God in theosophical Kabbalah, which the Latin translations Pico read call numerationes (wirszubski1989:7451). In Pico\u0027s order they are Crown (Keter), Wisdom (Hokmah), Intelligence (Binah), Piety (Hesed), Judgment or Power (Gevurah), Glory or Beauty (Tiferet), Eternity (Nesah), Splendour (Hod), Foundation (Yesod) and Kingdom (Malkut) (wirszubski1989:7066; wirszubski1989:7478; busi2014:13589; busi2014:15728). Wirszubski states that in Kabbalistic symbolism a \u0027day\u0027 as a rule denotes a sefirah (wirszubski1989:8524). In 11\u003e48 Pico sets Saturn at the seventh numeration and the sun at the sixth (farmer1998:27425). Farmer correlates Jesus, the \u0027sun\u0027 of 11\u003e51, with that sixth sefirah (farmer1998:27508), and he cross-refers 11\u003e46 for the pairing of Christ and the sun (farmer1998:27406). The editor infers one reading from these statements: the Saturday sabbath answers to Saturn, and the Lord\u0027s day to the sefirah and the luminary that Pico gives to the Messiah (farmer1998:27425; farmer1998:27508). Farmer himself declines to fix a single reading, because the flexibility of Pico\u0027s symbolism yields several plausible ones (farmer1998:26830).",
+    "context":  "Akopyan places the thesis among those in which Pico justifies Christian practice by Kabbalistic astrology, here an astrological reason for keeping the sabbath on Sunday (akopyan2021:3219; akopyan2018:674). He notes that Pico adds no comment to the proposal (akopyan2021:1423). Pico had already given the sabbath a Christological sense in 11\u003e16, where the three letters of the Hebrew word for sabbath mean that the world keeps sabbath when the Son of God becomes man (wirszubski1989:8405). In 11\u003e61 all things at last keep sabbath in the Son, who is the Wisdom of the Father (wirszubski1989:8368), and Farmer cross-refers that thesis to 11\u003e16 and 11\u003e18 (farmer1998:27766). The German study of Pico\u0027s epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) reports that the Kabbalistic glossaries can call the ninth sefirah, Yesod, \u0027Sabbath\u0027 and identify the \u0027great Sabbath\u0027 with the third, Binah (kabbalah_paradigma:2095).",
+    "reception":  "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico\u0027s own opinion went unchallenged (dougherty2008:2808). In the Disputationes adversus astrologiam divinatricem Pico rejected Roger Bacon\u0027s claim that Christians err in not resting on Saturday, the day of Saturn, a star judged unfavourable for action (akopyan2021:5273; akopyan2021:5299). Akopyan observes that Pico there seems to have forgotten his own proposal in the Conclusiones about the sabbath (akopyan2021:5277).",
+    "historiography":  "Farmer reads the thesis through Pico\u0027s correlations of days, sefirot and planets and leaves its precise sense open (farmer1998:26827). Akopyan reads it as an astrological argument for Sunday rest and sets it against the later rejection of Bacon, which he treats as a change of mind (akopyan2021:5277). Wirszubski\u0027s account of the sabbath in the Christian theses rests on 11\u003e16 and 11\u003e61 and does not treat this thesis in the passages consulted (wirszubski1989:8405; wirszubski1989:8366). The editor notes the contrast the two texts draw: Bacon\u0027s astrology alone pointed to Saturday, whereas Pico\u0027s thesis claims that astrology joined to the Cabala points to Sunday, so that the Kabbalistic term is what reverses the astrological verdict (akopyan2021:5299; farmer1998:26797).",
+    "connections":  [
+                        "11\u003e16",
+                        "11\u003e61",
+                        "11\u003e48",
+                        "11\u003e46",
+                        "11\u003e51",
+                        "11\u003e37",
+                        "28.6",
+                        "28.8"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "there is obviously more here than meets the eye",
+                           "work":  "farmer1998",
+                           "line":  26829,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "Curiously, Pico seems to have forgotten his own piece of advice",
+                           "work":  "akopyan2021",
+                           "line":  5277,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "Which sefirot Pico meant by the Lord\u0027s day and the sabbath; Farmer judges several readings plausible (farmer1998:26830).",
+                            "Any Jewish or Christian source for the thesis: none is identified in the sources consulted.",
+                            "Wirszubski\u0027s \u0027Conclusio xviii\u0027 at wirszubski1989:9918 is a magical thesis, not 11\u003e18; no discussion of 11\u003e18 by Wirszubski was found."
+                        ],
+    "writer":  "WRITER-B4b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

@@ -1,0 +1,54 @@
+{
+    "thesis_id":  "11\u003e46",
+    "tier":  "A",
+    "latin":  "Per eclipsationem solis quae accidit in morte Christi sciri potest secundum fundamenta cabalae quod tunc passus est filius dei et uerus messias.",
+    "latin_source":  "farmer1998:27339",
+    "latin_note":  "Follows Farmer\u0027s text; the OCR prints the number as \u002711246\u0027 (farmer1998:27339).",
+    "translation":  "From the darkening of the sun that took place when Christ died, one can know on the foundations of the Cabala that it was then the Son of God and true Messiah who suffered.",
+    "translation_note":  "\u0027eclipsatio\u0027 is a late Latin noun for an eclipse. The cleft rendering (\u0027it was ... who suffered\u0027) makes explicit that the eclipse identifies the sufferer; the Latin can also be read as a plain statement that the Son of God suffered at that time. \u0027fundamenta cabalae\u0027 echoes the \u0027fundamenta\u0027 of the section heading (farmer1998:26229).",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B4b) from Farmer\u0027s Latin, sense checked against farmer1998:27393; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion: Cabalistic conclusions confirming the Christian religion, section 11\u003e (farmer1998:26227).",
+    "sources":  [
+
+                ],
+    "doctrine":  "The thesis takes the darkening of the sun at Christ\u0027s death as a sign, legible on Kabbalistic principles, that the one who then suffered was the Son of God and the true Messiah (farmer1998:27339). Farmer\u0027s only note refers the reader to 11\u003e51 for the correlation between Christ and the sun (farmer1998:27406). In 11\u003e48 Pico makes the sun correspond to the sixth of the ten sefirot, the emanated powers of God that his Latin sources call numerationes (farmer1998:27425; wirszubski1989:7451). The sixth sefirah is Tiferet, Glory or Beauty, which in Kabbalistic usage carries the Tetragrammaton, the four-letter name YHWH (wirszubski1989:8476; busi2014:21933). Pico assigned that name to the Son in 11\u003e6 and called it the future name of the Messiah in 11\u003e15 (wirszubski1989:8456; wirszubski1989:8464). Busi and Ebgi draw the chain explicitly: the Kabbalists taught that the sun corresponds to tif\u0027eret, the sefirah that takes the name Yhwh, which Pico could attach to the Son (busi2014:21933; busi2014:21951). The editor infers that the argument runs from the eclipse of the sun, to the sefirah that the sun answers to, to the suffering of the person whom that sefirah names (farmer1998:27425; busi2014:21933).",
+    "context":  "Akopyan sets the thesis in the medieval tradition of the \u0027horoscopes of Christ\u0027, following which Pico found evidence of Christ\u0027s divinity in astrology and supplemented it with Kabbalistic elements (akopyan2021:1377; akopyan2018:659). He refers that tradition, based on the theory of great conjunctions, to Ornella Pompeo Faracovi\u0027s Gli oroscopi di Cristo (akopyan2021:1399). The German study of Pico\u0027s epistemology and Christian Kabbalah (key kabbalah_paradigma; author not confirmed in the corpus copy) reads the eclipse as the sign of Christ\u0027s sacrificial death, whose symbolic value is Tipheret and the angelic mind, and pairs it with the torn curtain of the Temple in 8\u003e9 and 11\u003e38 (kabbalah_paradigma:2090; kabbalah_paradigma:2121). For the thesis and its background it refers to Pompeo Faracovi\u0027s study of the theme of the eclipse (kabbalah_paradigma:2124). Farmer cites 11\u003e46 in his note on 11\u003e18 as a thesis in which sefirot are linked with planets or with Christ (farmer1998:26828).",
+    "reception":  "The thesis is not among those the commission censured: Blum observes that the Cabalistic theses according to Pico\u0027s own opinion went unchallenged (dougherty2008:2808). Busi and Ebgi show that Pico returned to the eclipse in the Heptaplus, asking the sun itself, darkened during the Passion by the opposition of the moon, to reveal the sympathy of its nature, and that he had already used the episode in the Conclusiones (busi2014:21917; busi2014:21922). They print the thesis in their anthology under the heading \u0027Sole, Messia\u0027 (busi2014:21407; busi2014:21424).",
+    "historiography":  "Akopyan treats the thesis as Kabbalistic astrology put to the service of Christian dogma, together with 11\u003e51 and the tradition of Christ\u0027s horoscopes (akopyan2021:1331; akopyan2021:1377). He also holds that the Conclusiones contain no doctrine of astrological predestination and that their astrology is descriptive rather than practical (akopyan2018:714). Busi and Ebgi read the thesis through the Kabbalistic equation of the sun with Tiferet and of Tiferet with the Tetragrammaton, and find the equation of the Messiah\u0027s name with Yhwh in Abulafia\u0027s Sefer Otzar Eden Ganuz, a work not among those certainly translated for Pico by Mithridates (busi2014:21933; busi2014:21984; busi2014:22003). The German study makes the eclipse part of a Kabbalistic reading of the Passion as the removal of the separating powers of Geburah, the fifth sefirah (kabbalah_paradigma:2086; busi2014:15728). Busi and Ebgi state the purpose of the thesis: to show the Jews that the proofs of the messiahship of Christ as sun lay in the most secret teachings of their own tradition (busi2014:21924). The editor notes that the thesis turns an event of the Gospel narrative into evidence addressed to Jewish readers on their own principles, which is the programme of the section heading (farmer1998:26227).",
+    "connections":  [
+                        "11\u003e51",
+                        "11\u003e48",
+                        "11\u003e47",
+                        "11\u003e38",
+                        "11\u003e6",
+                        "11\u003e15",
+                        "11\u003e18",
+                        "8\u003e9",
+                        "10\u003e10"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "proprio per mostrare agli ebrei che le prove della messianicità del Cristo-sole",
+                           "work":  "busi2014",
+                           "line":  21924,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "Pico finds evidence of the divinity of Christ in astrology, supplementing it with Kabbalistic elements",
+                           "work":  "akopyan2021",
+                           "line":  1377,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "How the argument \u0027secundum fundamenta cabalae\u0027 was to run: the chain from the sun to Tiferet to the Son is the editor\u0027s reconstruction from 11\u003e48 and the scholarship, not Pico\u0027s text.",
+                            "Whether in 1486 Pico understood the eclipse as natural or miraculous; the Heptaplus explanation by the moon\u0027s opposition is later (busi2014:21919).",
+                            "The content of Pompeo Faracovi\u0027s studies, which were not in the corpus consulted."
+                        ],
+    "writer":  "WRITER-B4b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

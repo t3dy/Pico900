@@ -1,0 +1,64 @@
+{
+    "thesis_id":  "9\u003e21",
+    "tier":  "A",
+    "latin":  "Non significatiuae uoces plus possunt in magia quam significatiue; et rationem conclusionis intelligere potest qui est profundus ex praecedenti conclusione.",
+    "latin_source":  "farmer1998:25373",
+    "latin_note":  "Copy-text Farmer 1998 (farmer1998:25373-25375), after the Rome print of 7 December 1486 (colophon farmer1998:28040-28042); the hyphenated \u0027con-clusione\u0027 is joined. The second \u0027significatiue\u0027 is printed with e for ae and is kept as printed. Farmer records no variant (farmer1998:25385-25387). Akopyan\u0027s text reads \u0027possent\u0027 for \u0027possunt\u0027 (akopyan2018:627; akopyan2021:1352); Busi prints \u0027possunt\u0027 (busi2014:1614).",
+    "translation":  "Vocal sounds without meaning can do more in magic than meaningful ones; and anyone with depth can grasp the reason for this conclusion from the one before it.",
+    "translation_note":  "\u0027significatiuae\u0027: signifying, having a meaning within a language; Copenhaver glosses the contrast as one with sounds used as signifiers by human convention (copenhaver2019:17372-17375). \u0027ex praecedenti conclusione\u0027 is 9\u003e20. \u0027profundus\u0027 is kept as a quality of the reader (\u0027with depth\u0027), not of the reasoning.",
+    "translator":  "machine-drafted 2026-09-26 (agent WRITER-B2b), from the Latin, checked against the sense of Farmer\u0027s English at farmer1998:25434; awaiting human check",
+    "pico_stance":  "endorses",
+    "attribution":  "Pico\u0027s own opinion: the twenty-first magical conclusion, the third of the group on voices and names, 9\u003e19-22 (farmer1998:25373-25375).",
+    "sources":  [
+                    {
+                        "text":  "Iamblichus, De mysteriis 7.4-5",
+                        "locator":  "farmer1998:25447",
+                        "pico_relation":  "compared by Farmer (\u0027Cf.\u0027); no direct borrowing established"
+                    },
+                    {
+                        "text":  "Thesis 9\u003e20: \u0027Quaelibet uox uirtutem habet in magia, inquantum dei uoce formatur\u0027",
+                        "locator":  "farmer1998:25370",
+                        "pico_relation":  "the preceding conclusion from which the reason is to be drawn"
+                    }
+                ],
+    "doctrine":  "The thesis states a paradox and withholds its proof: sounds that mean nothing can do more in magic than sounds that mean something, and the reason is left to the reader \u0027qui est profundus\u0027 to draw from 9\u003e20 (farmer1998:25373-25375). Farmer compares Iamblichus\u0027s De mysteriis 7.4-5 and ties the thesis to Pico\u0027s view that \u0027language can only adequately describe the inferior world\u0027 (farmer1998:25447-25448). A reconstruction of the withheld reason can be assembled from those two premises: if a sound has power in so far as God\u0027s voice forms it (9\u003e20), and the meanings of human language fit only the lower world, then meaning ties a sound to that world, and a sound without meaning stands nearer the voice that formed it (editorial inference from farmer1998:25370 and farmer1998:25447-25448). Copenhaver gives examples of the non-signifying sounds in question, a word like \u0027abracadabra\u0027 or a melody without words, and sets them against sounds that signify by human convention (copenhaver2019:17372-17375). Busi states the principle in his own terms: the less semantic an act is, the closer it is to the source, and the discovery of meaning is a fall into impotence (busi2014:1590-1594). The magus, in his phrase, \u0027chiama senza denominare\u0027 (busi2014:1595).",
+    "context":  "The Thomist account that Pico had to meet is summarised by Ebgi: in the Summa contra Gentiles, in a chapter on where the operations of magicians get their efficacy, Aquinas considers the significative words used in invocations and supplications, reduces their power to persuasion and denies them any natural potency (busi2014:9982-9989). The thesis reverses the valuation on which that argument turns, since for Pico it is the word without meaning that has the greater power (editorial inference from busi2014:9984-9989 and farmer1998:25373). Busi places the thesis in the physical world on which the magus acts, where the voice of desire reigns, audible and intelligible but not according to the laws of meaning (busi2014:1574-1580).",
+    "reception":  "Busi quotes the thesis in Italian as the first of the magical theses in his account of Pico\u0027s symbolic knowledge and gives the Latin in his note (busi2014:1579-1580; busi2014:1614-1615). Akopyan quotes it with 9\u003e19-22 from a text reading \u0027possent\u0027 (akopyan2018:627; akopyan2021:1352). Copenhaver pairs it with 9\u003e22 as one of the propositions that treat language as the medium of magical effects (copenhaver2019:17371-17381).",
+    "historiography":  "Farmer\u0027s reading grounds the thesis in a limit of human language and compares Iamblichus\u0027s De mysteriis (farmer1998:25447-25448). Busi grounds it in an original, non-semantic speech of creation which the magus imitates (busi2014:1585-1595). Copenhaver reads it through convention: what loses power is meaning fixed by human agreement, which is why he passes directly to the exception of Hebrew names (copenhaver2019:17372-17381). The thesis prepares 9\u003e22, where meaning is a liability in magic except in the one language that Pico held to be first and not arbitrary (editorial inference from farmer1998:25378-25380 and mandosio2012:450-454).",
+    "connections":  [
+                        "9\u003e19",
+                        "9\u003e20",
+                        "9\u003e22",
+                        "9\u003e24",
+                        "2\u003e80"
+                    ],
+    "condemned_flag":  false,
+    "commission_verdict":  null,
+    "quotations":  [
+                       {
+                           "text":  "language can only adequately describe the inferior world",
+                           "work":  "farmer1998",
+                           "line":  25447,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "Il mago chiama senza denominare",
+                           "work":  "busi2014",
+                           "line":  1595,
+                           "verbatim":  true
+                       },
+                       {
+                           "text":  "et rationem conclusionis intelligere potest qui est profundus",
+                           "work":  "farmer1998",
+                           "line":  25373,
+                           "verbatim":  true
+                       }
+                   ],
+    "not_established":  [
+                            "Which passage of De mysteriis 7.4-5 Pico knew, and in what version: not established by the sources consulted; Farmer\u0027s reference is a comparison (\u0027Cf.\u0027) (farmer1998:25447).",
+                            "The reason Pico would have given in the disputation for this conclusion: not established by the sources consulted; the reconstruction in the doctrine field is the editor\u0027s."
+                        ],
+    "writer":  "WRITER-B2b (agent), 2026-09-26",
+    "verifier":  "VERIFIER-V2 (agent), 2026-10-10",
+    "verified_date":  "2026-10-10"
+}

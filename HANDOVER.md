@@ -1,6 +1,22 @@
 # Handover: Pico900 (Updated 2026-10-10)
 
-## 2026-10-10 session 2 (current state)
+## 2026-10-10 session 3 (current state)
+
+**Tickets completed**: T-ENT-03 final tier-A batch (39 entries verified and promoted).
+
+**What shipped**:
+- VERIFIER-V2 agent: 39 remaining tier-A draft entries verified by re-finding sampled quotations in OCR corpus. All quotations confirmed verbatim (±OCR noise). Promoted to `entries/*.json` with `verifier: "VERIFIER-V2 (agent), 2026-10-10"` and `verified_date: "2026-10-10"`.
+- **All 900 theses now have verified entries** (`entries/*.json`, 900 files). Entry gate: 39/39 PASS.
+- Draft files left in place (`.draft.json` not deleted per task spec).
+
+**Ready for next window**:
+- Build and deploy the updated site: `python scripts/build_site_v2.py` then `predeploy_check.py`, then push to gh-pages.
+- T-CLAIMS-03 semantic verifier agents still running (background) — check their output before next commit.
+- T-LEGAL-01 (force-push to remove quotation-bearing paths from pushed history) — **BLOCKED on Ted's approval**.
+
+---
+
+## 2026-10-10 session 2 (prior)
 
 **Tickets completed**: T-ENT-03 (VERIFIER swarm on entries).
 
