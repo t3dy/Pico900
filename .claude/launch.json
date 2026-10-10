@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "pico900-local",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8910", "--directory", "site"],
+      "port": 8910,
+      "url": "http://localhost:8910"
+    }
+  ]
+}

@@ -143,8 +143,12 @@ def main():
     dump("data/facets.json", facets)
     for pk, det in detail.items():
         dump("data/detail-%s.json" % pk, det)
-    for src, dst in (("src/css/cards.css", "cards.css"), ("src/js/cards.js", "cards.js")):
+    for src, dst in (("src/css/cards.css", "cards.css"), ("src/js/cards.js", "cards.js"),
+                      ("src/js/relations.js", "relations.js"), ("src/js/workbench.js", "workbench.js")):
         shutil.copyfile(os.path.join(ROOT, src), os.path.join(OUT, dst))
+    tpr_src = os.path.join(ROOT, "data", "network", "thesis_person_relevance.json")
+    if os.path.exists(tpr_src):
+        shutil.copyfile(tpr_src, os.path.join(OUT, "data", "thesis_person_relevance.json"))
     banner = ("Local build: full quotations. Do not deploy." if a.local else
               "Scholarly quotations are shown, cut to %d words, only for the %d claims cited in the essays; every claim carries its work and line so it can be checked in the book." % (qmax, sum(1 for c in cards if c["q"])))
     page = """<!DOCTYPE html>
@@ -157,7 +161,7 @@ def main():
 <p class="meta">%(n)d claims from %(k)d works on Pico's angelology and the One. Every card is a claim whose quotation was re-found in its source by a script; restatements are model paraphrases, sampled by a second reader. %(banner)s</p>
 <div id="app" data-base="%(b)s/cards/data/"><noscript>This page needs JavaScript to filter and sort the cards.</noscript></div></main>
 <footer>Scores are triage instruments with published weights (docs/CLAIMS_MODEL.md), not measures of truth.</footer>
-<script src="%(b)s/cards/cards.js"></script></body></html>
+<script src="%(b)s/cards/cards.js"></script><script src="%(b)s/cards/relations.js"></script><script src="%(b)s/cards/workbench.js"></script></body></html>
 """ % {"b": BASE, "n": len(cards), "k": len({c["p"] for c in cards}), "banner": html.escape(banner)}
     with io.open(os.path.join(OUT, "index.html"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(page)
