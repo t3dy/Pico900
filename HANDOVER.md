@@ -361,9 +361,24 @@ Generated all thesis card pages from `data/thesis_cards_data.json`:
 
 ### Remaining Work (Priority Order)
 
-1. **T-REL-03** (config decision, 5-10 min): Document which relevance source site prefers (already implemented via thesis_person_relevance.json)
-2. **Full site rebuild & deploy testing** (20-30 min): Run `python scripts/build_site_v2.py` and verify no regressions across sections, condemned, sources, conclusions, scholarship tabs
-3. **GitHub Pages deployment** (10 min): Push to public repo and verify site loads on GitHub Pages with correct base path
-4. **T-ENT-03** (VERIFIER swarm on 883 unverified entries) — LARGE (~150-200k tokens), **DEFER** until after deployment
-5. **T-LEGAL-01** (force-push to remove quotation paths) — **BLOCKED on Ted's approval**, do not run
+## 2026-10-10 (this session): T-REL-03 + deploy
+
+**Completed**:
+- T-REL-03: `build_cards.py` now prefers `data/network/thesis_person_relevance.json` over `relevance.json` when available (20/1886 claim cards carry network person scores).
+- `predeploy_check.py` fixed: strips `<script>` blocks before link-checking (JS template literals were false-positived as broken links).
+- `build_conclusions.py` fixed: conclusion detail pages now have `<h1>` (gate requires exactly one).
+- `site/css/edition.css` created (sources pages referenced it; file did not exist).
+- All completed tickets moved to done: T-SITE-01/02/04/05/06, T-REL-03.
+- `predeploy_check.py`: 0 problems across 1899 pages.
+- 59 files committed to `main` (d105800) and pushed — includes all scripts, CSS/JS, essays, network data, verdicts from prior sessions that were never committed.
+- Site deployed to `gh-pages` (a7a8c27) and pushed; GitHub Actions will publish to https://t3dy.github.io/Pico900/.
+- `DEPLOY_STATE.md` updated.
+
+**Ready for next window**:
+- T-SITE-03 (Relation strips, backlinks, ego graph — `src/js/relations.js`) — READY
+- T-SITE-07 (Workbench Stage 1: collections, notes, lenses, export) — READY
+- T-ENT-03 (VERIFIER swarm on 883 unverified entries) — large but unblocked
+- T-LEGAL-01 (force-push to remove quotation-bearing paths from pushed history) — **BLOCKED on Ted's approval**
+
+**Still true from 2026-09-28**: the claims packets (`data/claims/*/*.claims.json`, `data/claims/_work/`, `data/verification/claims/*.sample.md`) hold ~2,950 verbatim quotations and are tracked in pushed git history (despite being gitignored going forward). T-LEGAL-01 requires Ted's go-ahead to force-push both `main` and any feature branches. Do NOT run without approval.
 
