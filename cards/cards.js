@@ -246,16 +246,17 @@
   }
 
   /* ---------- events ---------- */
+  function dispatch(id, push) { return (window.PCApp ? window.PCApp.openCard : openCard)(id, push); }
   function toggle(list, v) { var i = list.indexOf(v); if (i >= 0) { list.splice(i, 1); } else { list.push(v); } }
   function onClick(e) {
     var t = e.target.closest("button, [data-open]"); if (!t) { return; }
     var card = t.closest(".pc-card"), id = card ? card.getAttribute("data-id") : null, act = t.getAttribute("data-act");
-    if (t.getAttribute("data-open")) { openCard(t.getAttribute("data-open"), false); return; }
+    if (t.getAttribute("data-open")) { dispatch(t.getAttribute("data-open"), false); return; }
     if (t.getAttribute("data-facet")) { toggle(S.f[t.getAttribute("data-facet")], t.getAttribute("data-val")); S.limit = 60; render(); return; }
     if (t.getAttribute("data-rm")) { var p = t.getAttribute("data-rm").split("~"); if (p[0] === "q") { S.q = ""; nodes.q.value = ""; } else { S.f[p[0]] = S.f[p[0]].filter(function (x) { return x !== p.slice(1).join("~"); }); } render(); return; }
-    if (t.getAttribute("data-tab")) { tab = t.getAttribute("data-tab"); openCard(openId, true); return; }
+    if (t.getAttribute("data-tab")) { tab = t.getAttribute("data-tab"); dispatch(openId, true); return; }
     if (t.classList.contains("x")) { closeDrawer(); return; }
-    if (act === "open" && id) { openCard(id, false); }
+    if (act === "open" && id) { dispatch(id, false); }
     else if (act === "coll" && id) { toggle(coll, id); saveColl(); render(); }
     else if (act === "cite" && id) { copy(cite(byId[id])); flash(t, "Copied"); }
     else if (act === "copy" && id) { copy((byId[id].q ? byId[id].q + " " : "") + "(" + cite(byId[id]) + ")"); flash(t, "Copied"); }
@@ -308,6 +309,11 @@
     facets.traditions.forEach(function (t) { trName[t.id] = t; });
     readHash(); build();
     if (S.open && byId[S.open]) { openCard(S.open, false); }
+    window.PCApp = { openCard: openCard, closeDrawer: closeDrawer, S: S, byId: byId, coll: coll,
+                     render: render, saveColl: saveColl, nodes: nodes, esc: esc, get: get,
+                     BASE: BASE, partyName: partyName, cardHtml: cardHtml, detailCache: detailCache,
+                     loadDetail: loadDetail, colour: colour };
+    document.dispatchEvent(new CustomEvent("pcapp:ready"));
     window.addEventListener("hashchange", function () { readHash(); if (S.open && byId[S.open]) { openCard(S.open, false); } nodes.q.value = S.q; nodes.sort.value = S.sort; nodes.col.value = S.colourBy; nodes.rel.value = S.relParty; nodes.inn.value = S.where; render(); });
   })["catch"](function (e) { app.innerHTML = "<p class='notice'>Could not load the card data: " + esc(e.message) + "</p>"; });
 })();

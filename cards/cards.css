@@ -61,3 +61,37 @@ main.wide{max-width:1320px}
 button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid #0072B2;outline-offset:2px}
 @media (prefers-reduced-motion:no-preference){.pc-card{transition:box-shadow .15s}.pc-card:hover{box-shadow:0 2px 8px #0002}}
 .pc-card blockquote.withheld{font-style:normal;color:var(--muted);font-size:.8rem;border-left-style:dashed}
+
+/* --- relations.js (T-SITE-03) --- */
+.pc-trail{font:.78rem sans-serif;color:var(--muted);margin:0 0 8px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.pc-trail button{border:0;background:none;color:var(--accent);cursor:pointer;font:inherit;text-decoration:underline;padding:0}
+.pc-trail span{font-weight:bold;color:#3a342d}
+.pc-mini{border:1px solid var(--rule);border-left:4px solid var(--cc,#b0a99e);border-radius:4px;padding:5px 8px;margin:4px 0;font:.86rem sans-serif}
+.pc-mini button{border:0;background:none;color:var(--accent);cursor:pointer;font:inherit;text-decoration:underline;padding:0;display:block;text-align:left}
+.pc-mini blockquote{margin:.25em 0;padding:2px 6px;border-left:2px solid var(--rule);font-size:.82rem;font-style:italic}
+.pc-mini blockquote cite{display:block;font:.7rem monospace;font-style:normal;color:var(--muted)}
+#pc-compare{position:fixed;top:0;left:0;width:100vw;height:100vh;background:#fff;z-index:40;overflow:auto;padding:14px 16px}
+#pc-compare[hidden]{display:none}
+#pc-compare .x{position:sticky;top:0;float:right;font:1.1rem sans-serif;border:1px solid var(--rule);background:#fff;border-radius:3px;cursor:pointer;padding:0 8px;z-index:1}
+.pc-compare-body{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;margin-top:14px}
+.pc-compare-sep{display:flex;align-items:center;justify-content:center;font:bold 1.4rem sans-serif;color:var(--muted)}
+#pc-matrix{position:fixed;top:0;left:0;width:100vw;height:100vh;background:#fff;z-index:40;overflow:auto;padding:14px 16px}
+#pc-matrix[hidden]{display:none}
+#pc-matrix .x{position:sticky;top:0;float:right;font:1.1rem sans-serif;border:1px solid var(--rule);background:#fff;border-radius:3px;cursor:pointer;padding:0 8px;z-index:1}
+.pc-matrix-scroll{overflow-x:auto;margin-top:8px}
+.pc-matrix-tbl{border-collapse:collapse;font:.72rem sans-serif;white-space:nowrap}
+.pc-matrix-tbl th,.pc-matrix-tbl td{border:1px solid var(--rule);padding:2px 5px;text-align:center}
+.pc-matrix-tbl th{background:#faf7f1;font-weight:bold;position:sticky;top:0}
+.pc-matrix-tbl td:first-child{text-align:left;position:sticky;left:0;background:#fff}
+.pc-matrix-tbl a{color:var(--accent)}
+
+/* --- workbench.js (T-SITE-07) --- */
+.wb-note{margin-top:14px;border-top:1px solid var(--rule);padding-top:10px}
+.wb-note h4{margin:0 0 4px;font:.78rem sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.wb-note textarea{width:100%;min-height:80px;font:.88rem sans-serif;border:1px solid var(--rule);border-radius:3px;padding:5px;resize:vertical;font-family:inherit}
+.wb-lens{display:flex;gap:6px;align-items:center;margin:3px 0}
+.wb-lens button{font:inherit;border:1px solid var(--rule);border-radius:3px;padding:2px 8px;cursor:pointer;background:#fff}
+.wb-lens button:first-child{color:var(--accent);flex:1;text-align:left}
+.wb-lens button:last-child{color:var(--muted);border-color:transparent;padding:2px 5px}
+.wb-coll-list{max-height:280px;overflow-y:auto;margin-top:6px;border-top:1px solid var(--rule);padding-top:4px}
+.wb-coll-item button{font:inherit;border:0;background:none;color:var(--accent);cursor:pointer;text-decoration:underline;padding:0;display:block;text-align:left;font-size:.82rem}
