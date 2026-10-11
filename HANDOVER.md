@@ -1,6 +1,37 @@
-# Handover: Pico900 (Updated 2026-10-10)
+# Handover: Pico900 (Updated 2026-10-11)
 
-## 2026-10-10 session 4 (current state)
+## 2026-10-11 session 5 (current state)
+
+**Work done**: Essay writing. Six new gate-clean essays in `docs/essays/`:
+
+| file | topic | sentences | cited | ed. | uncited |
+|---|---|---|---|---|---|
+| `conclusiones_sections.md` | Section guide to all 39 sections | 76 | 46 | 19 | 11 |
+| `enoch_metatron.md` | Metatron/Enoch, agent intellect, Pico's secret theology | 77 | 53 | 17 | 7 |
+| `de_ente_et_uno.md` | Being, the One, and the path to God | 55 | 42 | 13 | 0 |
+| `separate_substances.md` | Pure intellect, double imperfection, angel location, Conclusiones | 37 | 29 | 8 | 0 |
+| `kabbalistic_sources.md` | Two Kabbalot: sources, Mithridates, the condemned thesis | 38 | 30 | 8 | 0 |
+| `oration_angelic_orders.md` | Ladder and ascent in the Oration; three guides | 26 | 22 | 4 | 0 |
+
+(The `conclusiones_sections` and `enoch_metatron` essays were gate-fixed this session from prior drafts; the remaining four were written and gate-passed fresh.)
+
+**Lessons from gate failures**: the `commentary_check.py` QUOTE regex (`["\"]([^""\"]{20,}?)["\"]`) requires ≥20 chars. Inline quotes <20 chars cause a spurious match: the closing `"` is reused as the opener of the next attempted match. Fix: remove short inline quotes or merge into paraphrase. Also: `re.compile(r"(?<=[.!?])["\"')\]]*\s+(?=[A-Z...])`)` splits sentences at abbreviations like `Cod.` followed by `Vat.` — avoid codicological shelfmarks inline; write around them.
+
+**All six essays committed and pushed** to `main` (last commit `439bee4`). No draft files; all pass gate with 0 uncited.
+
+**Next**: continue writing essays. Remaining high-value topics by claim count:
+- `heptaplus-angelic-world` (23 claims, partial overlap with `separate_substances`)
+- `dionysian-hebrew-orders` (17 claims)
+- `commento-angelic-mind` (26 claims)
+- `three-worlds` (32 claims)
+- `aquinas-dionysius` — not yet checked
+- `reception-critics` — not yet checked
+
+Also: T-SITE-08 (Workbench Stage 2) and T-LEGAL-01 (force-push approval needed from Ted) are still on the board.
+
+---
+
+## 2026-10-10 session 4 (prior)
 
 **Tickets completed**: T-ENT-03 (39 final tier-A entries verified), T-CLAIMS-03 (all 15 packets, 15 overreaches fixed), T-CLAIMS-01, T-SYS-01.
 
